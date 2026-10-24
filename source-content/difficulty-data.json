@@ -8505,6 +8505,68 @@
             ]
           },
           {
+            "title": "3A. Renda nacional: do PIBpm ao PNLcf",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Complemento enviado pelo usuário em 24/10/2026. Convenção tradicional de exercícios de Contabilidade Nacional."
+              },
+              {
+                "type": "paragraph",
+                "text": "Renda Nacional = Produto Nacional Líquido a custo de fatores (RN = PNLcf). Para lembrar: a renda corresponde à remuneração dos fatores de produção."
+              },
+              {
+                "type": "paragraph",
+                "text": "PIBpm → PNBpm → PNLpm → PNLcf"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Etapa",
+                    "Transformação",
+                    "Operação",
+                    "Exemplo"
+                  ],
+                  [
+                    "1. Interno → Nacional",
+                    "PIBpm → PNBpm",
+                    "Subtrair a renda líquida enviada ao exterior (RLEE).",
+                    "300 − 35 = 265"
+                  ],
+                  [
+                    "2. Bruto → Líquido",
+                    "PNBpm → PNLpm",
+                    "Subtrair a depreciação.",
+                    "265 − 30 = 235"
+                  ],
+                  [
+                    "3. Mercado → Fatores",
+                    "PNLpm → PNLcf",
+                    "Subtrair impostos indiretos e somar subsídios à produção.",
+                    "235 − 100 + 30 = 165"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "RN = PNLcf = PIBpm − RLEE − Depreciação − Impostos indiretos + Subsídios"
+              },
+              {
+                "type": "paragraph",
+                "text": "PNLcf = 300 − 35 − 30 − 100 + 30 = 165."
+              },
+              {
+                "type": "paragraph",
+                "text": "Macete: NACIONAL ajusta a renda com o exterior; LÍQUIDO desconta o desgaste do capital; CUSTO DE FATORES retira os impostos indiretos e devolve os subsídios."
+              },
+              {
+                "type": "paragraph",
+                "text": "Atenção aos sinais: se a informação vier como renda líquida recebida do exterior, ela será somada na passagem de interno para nacional. Aqui, RLEE é a renda LÍQUIDA ENVIADA, por isso é subtraída. Os subsídios desta fórmula são os ligados à produção, e não toda transferência do governo às famílias."
+              }
+            ]
+          },
+          {
             "title": "Questões de fixação — Contas nacionais",
             "blocks": [
               {
@@ -8539,7 +8601,14 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Contas nacionais e PIB",
         "studyGroupOrder": 2,
-        "studyOrder": 101
+        "studyOrder": 101,
+        "sourceAdditions": [
+          {
+            "source": "Texto enviado pelo usuário",
+            "date": "2026-10-24",
+            "section": "3A. Renda nacional: do PIBpm ao PNLcf"
+          }
+        ]
       },
       {
         "id": "macro-integrada-fgv-consumo",
@@ -8777,12 +8846,82 @@
                 "text": "Resposta: Não: provoca movimento ao longo da curva, mantidos os demais fatores."
               }
             ]
+          },
+          {
+            "title": "Mercado de trabalho: flexibilização e deslocamento da OA",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Material enviado em imagem pelo usuário em 24/10/2026. O encadeamento abaixo representa o cenário do modelo OA–DA apresentado no material; não é uma previsão automática para toda mudança na legislação trabalhista."
+              },
+              {
+                "type": "paragraph",
+                "text": "Maior flexibilização trabalhista → mercado de trabalho mais eficiente → menor rigidez salarial → menor desemprego estrutural, no cenário representado."
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Canal considerado no material",
+                    "Efeito no cenário apresentado"
+                  ],
+                  [
+                    "Contratação e demissão",
+                    "Redução dos custos de contratação/demissão."
+                  ],
+                  [
+                    "Ajuste de salários",
+                    "Salários mais ajustáveis e menor rigidez."
+                  ],
+                  [
+                    "Mercado de trabalho",
+                    "Maior eficiência e redução do desemprego natural."
+                  ],
+                  [
+                    "Produção",
+                    "A economia consegue produzir mais para um mesmo nível de preços."
+                  ]
+                ]
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Curva",
+                    "Deslocamento no cenário do material",
+                    "O que observar"
+                  ],
+                  [
+                    "Oferta agregada de curto prazo (OAcp)",
+                    "Para a direita.",
+                    "A redução dos custos favorece maior oferta para um mesmo nível de preços."
+                  ],
+                  [
+                    "Oferta agregada de longo prazo (OAlp)",
+                    "Para a direita, se houver aumento do produto potencial.",
+                    "No cenário apresentado, a melhora estrutural do mercado de trabalho reduz o desemprego natural."
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "Não confundir: o choque descrito é de OFERTA agregada. Ele não corresponde ao deslocamento da DEMANDA agregada provocado, por exemplo, por aumento dos gastos autônomos."
+              }
+            ]
           }
         ],
         "studyArea": "Macroeconomia",
         "studyGroup": "Oferta e demanda agregadas",
         "studyGroupOrder": 8,
-        "studyOrder": 103
+        "studyOrder": 103,
+        "sourceAdditions": [
+          {
+            "source": "Imagem enviada pelo usuário",
+            "date": "2026-10-24",
+            "libraryFileId": "libfile_7ba515e0ead8819181c14fb2aa518bc9",
+            "section": "Mercado de trabalho: flexibilização e deslocamento da OA"
+          }
+        ]
       },
       {
         "id": "macro-integrada-fgv-multiplicador",
