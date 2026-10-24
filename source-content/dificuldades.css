@@ -75,3 +75,25 @@ body:has(.study-note-dialog[open]){overflow:hidden}
 .uniform-subjects h3,.uniform-topic>h3{font-size:22px;color:var(--green);margin:22px 0 16px}.uniform-subjects>p,.uniform-topic>p{font-size:13px;line-height:1.8;color:#667760}.difficulty-content-name small{display:block;color:#738169;font-size:11px;font-weight:400;margin-top:7px}.uniform-topic .difficulty-folder-card{margin:15px 0}.uniform-topic-actions{display:flex;gap:15px;align-items:center;flex-wrap:wrap;margin-top:15px;font-size:12px}.uniform-topic-actions .subject-resource-link{flex-basis:100%}.library-no-material{font-size:11px;padding:0 16px;color:#7c8874}.uniform-topic .difficulty-folder-card h4{font-size:16px;color:var(--green)}
 
 .subject-syllabus{border:1px solid var(--line);padding:15px;border-radius:8px;margin:20px 0}.subject-syllabus>summary{font-weight:650;color:var(--green);cursor:pointer;font-size:14px}
+
+/* Compact subject overview: remove the administrative indicator cards. */
+.difficulty-page #difficultyStats{display:none!important}
+.difficulty-page:not(.reading-mode) main>.page{padding:18px 24px 24px}
+.difficulty-page .difficulty-intro{margin:0 0 10px;gap:10px;align-items:center;min-height:0}
+.difficulty-page .difficulty-intro .eyebrow,.difficulty-page .difficulty-intro>div>p,.difficulty-page .difficulty-source{display:none}
+.difficulty-page .difficulty-intro h1{font:500 27px/1.2 system-ui,sans-serif;letter-spacing:-.5px;margin:0}
+.difficulty-page .difficulty-tabs{gap:4px;margin-bottom:10px;padding-bottom:5px}
+.difficulty-page .difficulty-tabs button{font-size:11px;padding:6px 9px}
+.difficulty-page .difficulty-section-heading{gap:8px;margin-bottom:8px;flex-direction:row;align-items:center}
+.difficulty-page .difficulty-section-heading h2{font-size:18px;margin:0}
+.difficulty-page .difficulty-section-heading p{margin:3px 0 0;font-size:10px}
+.difficulty-page .difficulty-drive-button{padding:7px 10px;font-size:11px}
+.difficulty-page .difficulty-filters{gap:6px;margin-bottom:10px}
+.difficulty-page .difficulty-filters .search input{padding-top:8px;padding-bottom:8px}
+.difficulty-page .difficulty-content-list{gap:5px;margin-bottom:12px}
+.difficulty-page .difficulty-content-name{padding:8px 11px;font-size:13px;line-height:1.4;min-height:0}
+.difficulty-page .difficulty-content-name small{margin-top:3px;font-size:10px}
+.difficulty-page .uniform-subjects h3{font-size:19px;margin:10px 0 7px}
+.difficulty-page .uniform-subjects>p{margin:4px 0 8px;line-height:1.4;font-size:12px}
+.difficulty-page footer{margin-top:12px;padding-top:10px;font-size:10px}
+@media(max-width:760px){.difficulty-page:not(.reading-mode) main>.page{padding:12px}.difficulty-page .difficulty-intro h1{font-size:23px}.difficulty-page .difficulty-section-heading{flex-wrap:wrap}.difficulty-page .difficulty-content-name{padding:8px 10px}}
