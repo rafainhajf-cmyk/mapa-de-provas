@@ -78,3 +78,23 @@
 .study-reader-chapter-body .study-reader-group{margin:8px 0 3px!important;font-size:10px!important}
 .study-reader-chapter-body .study-reader-index-row{padding:4px 2px}
 .study-reader-chapter-body .study-reader-index-row button{font-size:12px}
+
+/* Notes stay beside their section and expand only when requested. */
+.study-reader-observation{padding:3px 7px;border:1px solid #b9cdbd;border-radius:6px;background:#f7faf5;color:#285c47;font-size:10px;cursor:pointer}
+.study-observation-editor[hidden]{display:none!important}
+.study-observation-editor{max-width:850px;margin:5px 0 7px;padding:9px;background:#f0f6eb;border:1px solid #b9cdbd;border-radius:6px}
+.study-observation-editor label{display:grid;gap:5px;font-size:12px;color:#264b39}
+.study-observation-editor textarea,.study-observation-export{display:block;box-sizing:border-box;width:100%;min-height:75px;font:14px/1.45 system-ui;padding:8px;border:1px solid #b9cdbd;border-radius:5px;background:white;color:#183c35;resize:vertical}
+.study-observation-status{display:block;font-size:11px;color:#506b55;margin:5px 0}
+.study-observation-editor>button{font-size:11px;padding:4px 9px;border:1px solid #b9cdbd;border-radius:5px;background:white;color:#264b39;cursor:pointer}
+.study-copy-observations{width:100%;font-size:12px;padding:7px 9px;margin:0 0 10px;border:1px solid #b9cdbd;border-radius:6px;background:#edf5e8;color:#285c47;cursor:pointer}
+.reading-mode .reader-document .subject-resource-link{display:none}
+.reading-mode .reader-document .study-pdf-page{width:fit-content;max-width:100%;background:transparent;border:0;margin:3px 0}
+.reading-mode .study-pdf-page img,.reading-mode .study-note-image img{margin:0}
+.reading-mode .study-pdf-page>figcaption{padding:2px 0;background:transparent}
+.reading-mode .reader-document:not(:has(.study-pdf-page:nth-of-type(2))) .study-pdf-page>figcaption,.reading-mode .reader-document:not(:has(.study-pdf-page:nth-of-type(2))) .study-pdf-page>.study-reader-section-tools{display:none}
+.reading-mode .reader-document p.save-caption{font-size:10px;line-height:1.3;margin:2px 0}
+.reading-mode .study-searchable-text{margin:3px 0;padding:5px 7px}
+.reading-mode .continuous-topic{padding:4px 0}
+.reading-mode .topic-reading .reader-document,.reading-mode .continuous-topic .reader-document{padding:4px 0 6px}
+.reading-mode .reader-document>h3+.study-reader-section-tools{margin:1px 0 3px 7px}

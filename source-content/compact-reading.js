@@ -18,7 +18,7 @@ async function cropPaper(img){
     }
    }
    if(bottom<top||right-left<20){img.dataset.compactPaper='unchanged';return;}
-   const pad=6;top=Math.max(0,top-pad);bottom=Math.min(h-1,bottom+pad);
+   const pad=2;top=Math.max(0,top-pad);bottom=Math.min(h-1,bottom+pad);
    left=Math.max(0,left-pad);right=Math.min(w-1,right+pad);
    const cw=right-left+1,ch=bottom-top+1;
    if(cw*ch>w*h*.94){img.dataset.compactPaper='unchanged';return;}
@@ -27,8 +27,8 @@ async function cropPaper(img){
    while(y<=bottom){
     if(inkRows[y]){y++;continue;}
     const blankStart=y;while(y<=bottom&&!inkRows[y])y++;
-    if(y-blankStart>=48){
-     const keep=6;
+    if(y-blankStart>=24){
+     const keep=2;
      if(blankStart+keep>cursor)bands.push([cursor,blankStart+keep-cursor]);
      cursor=Math.max(cursor,y-keep);
     }
