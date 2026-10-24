@@ -32,3 +32,11 @@
 
 /* Keep previews at their native size so wider screens do not stretch them vertically. */
 .reading-mode .study-pdf-page img,.reading-mode .study-note-image img{width:auto;max-width:100%;margin:0 auto}
+
+/* Each topic opens the entire subject; anchors locate the chosen block. */
+.continuous-topic{padding:14px 0;border-top:1px solid #dfe7e1}
+.continuous-topic>header>h3{font:400 26px/1.3 Georgia,serif;color:#183c35;margin:4px 0 10px}
+.reading-mode .continuous-topic .reader-document{padding:10px 0 14px;border-top:1px dashed #dfe7e1}
+.reading-mode .continuous-topic .reader-document>h3{font-size:21px}
+.continuous-area{font:400 29px/1.3 Georgia,serif;color:#183c35;margin:24px 0 12px}
+.continuous-topic .subject-content-pending{font-size:13px;color:#66766f}
