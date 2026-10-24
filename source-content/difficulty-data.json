@@ -1464,6 +1464,78 @@
           "modifiedAt": "2026-10-24T12:10:12.177Z",
           "size": 99917,
           "pageCount": 1
+        },
+        {
+          "id": "macro-integrada-fgv-mapa",
+          "title": "Mapa de estudo — Macroeconomia integrada FGV",
+          "mimeType": "application/pdf",
+          "url": "assets/apostila-macroeconomia-integrada-fgv.pdf#page=1",
+          "modifiedAt": "2026-10-24T17:24:32.411Z",
+          "sourceType": "uploaded-study-excerpt",
+          "sourceLibraryFileId": "libfile_8bd61e23351c81918a8478393a2a5873"
+        },
+        {
+          "id": "macro-integrada-fgv-contas",
+          "title": "Produto, renda, despesa, PIB e RNB — Apostila integrada FGV",
+          "mimeType": "application/pdf",
+          "url": "assets/apostila-macroeconomia-integrada-fgv.pdf#page=1",
+          "modifiedAt": "2026-10-24T17:24:32.411Z",
+          "sourceType": "uploaded-study-excerpt",
+          "sourceLibraryFileId": "libfile_8bd61e23351c81918a8478393a2a5873"
+        },
+        {
+          "id": "macro-integrada-fgv-consumo",
+          "title": "Consumo, poupança e investimento — Apostila integrada FGV",
+          "mimeType": "application/pdf",
+          "url": "assets/apostila-macroeconomia-integrada-fgv.pdf#page=2",
+          "modifiedAt": "2026-10-24T17:24:32.411Z",
+          "sourceType": "uploaded-study-excerpt",
+          "sourceLibraryFileId": "libfile_8bd61e23351c81918a8478393a2a5873"
+        },
+        {
+          "id": "macro-integrada-fgv-demanda",
+          "title": "Demanda agregada: inclinação e deslocamentos — Apostila integrada FGV",
+          "mimeType": "application/pdf",
+          "url": "assets/apostila-macroeconomia-integrada-fgv.pdf#page=3",
+          "modifiedAt": "2026-10-24T17:24:32.411Z",
+          "sourceType": "uploaded-study-excerpt",
+          "sourceLibraryFileId": "libfile_8bd61e23351c81918a8478393a2a5873"
+        },
+        {
+          "id": "macro-integrada-fgv-multiplicador",
+          "title": "Multiplicador keynesiano: modelos e fórmulas — Apostila integrada FGV",
+          "mimeType": "application/pdf",
+          "url": "assets/apostila-macroeconomia-integrada-fgv.pdf#page=4",
+          "modifiedAt": "2026-10-24T17:24:32.411Z",
+          "sourceType": "uploaded-study-excerpt",
+          "sourceLibraryFileId": "libfile_8bd61e23351c81918a8478393a2a5873"
+        },
+        {
+          "id": "macro-integrada-fgv-politicas",
+          "title": "Fiscal versus monetária e instrumentos do BC — Apostila integrada FGV",
+          "mimeType": "application/pdf",
+          "url": "assets/apostila-macroeconomia-integrada-fgv.pdf#page=5",
+          "modifiedAt": "2026-10-24T17:24:32.411Z",
+          "sourceType": "uploaded-study-excerpt",
+          "sourceLibraryFileId": "libfile_8bd61e23351c81918a8478393a2a5873"
+        },
+        {
+          "id": "macro-integrada-fgv-moeda",
+          "title": "Demanda por moeda, base e agregados monetários — Apostila integrada FGV",
+          "mimeType": "application/pdf",
+          "url": "assets/apostila-macroeconomia-integrada-fgv.pdf#page=6",
+          "modifiedAt": "2026-10-24T17:24:32.411Z",
+          "sourceType": "uploaded-study-excerpt",
+          "sourceLibraryFileId": "libfile_8bd61e23351c81918a8478393a2a5873"
+        },
+        {
+          "id": "macro-integrada-fgv-revisao",
+          "title": "Revisão integrada: conceitos que não podem ser confundidos",
+          "mimeType": "application/pdf",
+          "url": "assets/apostila-macroeconomia-integrada-fgv.pdf#page=7",
+          "modifiedAt": "2026-10-24T17:24:32.411Z",
+          "sourceType": "uploaded-study-excerpt",
+          "sourceLibraryFileId": "libfile_8bd61e23351c81918a8478393a2a5873"
         }
       ]
     },
@@ -8233,6 +8305,1012 @@
         "studyGroup": "Regimes e taxas de câmbio",
         "studyGroupOrder": 10,
         "studyOrder": 0
+      },
+      {
+        "id": "macro-integrada-fgv-mapa",
+        "modifiedAt": "2026-10-24T17:24:32.411Z",
+        "analyzedAt": "2026-10-24T17:24:32.411Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Mapa de estudo — Macroeconomia integrada FGV",
+        "category": "Macroeconomia",
+        "summary": "Apostila integrada FGV · páginas 1 · leitura em texto e quadros.",
+        "source": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 1. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica.",
+        "sourcePages": [
+          1
+        ],
+        "sourceAsset": "assets/apostila-macroeconomia-integrada-fgv.pdf",
+        "contentSections": [
+          {
+            "title": "Origem deste complemento",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 1. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica."
+              }
+            ]
+          },
+          {
+            "title": "Como os assuntos se conectam",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Objetivo da apostila: entender a relação entre os assuntos e distinguir conceitos semelhantes, com fórmulas, exemplos e pegadinhas."
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Sequência",
+                    "Ideia principal"
+                  ],
+                  [
+                    "1. Contabilidade Nacional",
+                    "Como medir produção, renda e despesa"
+                  ],
+                  [
+                    "2. Consumo, poupança e investimento",
+                    "Como a renda é utilizada e como o investimento é contabilizado"
+                  ],
+                  [
+                    "3. Demanda agregada e multiplicador",
+                    "Como alterações nos gastos afetam o produto"
+                  ],
+                  [
+                    "4. Políticas fiscal e monetária",
+                    "Como governo e Banco Central influenciam a economia"
+                  ],
+                  [
+                    "5. Moeda e agregados monetários",
+                    "Por que manter moeda e como medir sua quantidade"
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Conceitos básicos e sequência da Macroeconomia",
+        "studyGroupOrder": 1,
+        "studyOrder": 100
+      },
+      {
+        "id": "macro-integrada-fgv-contas",
+        "modifiedAt": "2026-10-24T17:24:32.411Z",
+        "analyzedAt": "2026-10-24T17:24:32.411Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Produto, renda, despesa, PIB e RNB — Apostila integrada FGV",
+        "category": "Macroeconomia",
+        "summary": "Apostila integrada FGV · páginas 1, 2, 7, 8 · leitura em texto e quadros.",
+        "source": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 1, 2, 7, 8. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica.",
+        "sourcePages": [
+          1,
+          2,
+          7,
+          8
+        ],
+        "sourceAsset": "assets/apostila-macroeconomia-integrada-fgv.pdf",
+        "contentSections": [
+          {
+            "title": "Origem deste complemento",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 1, 2, 7, 8. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica."
+              }
+            ]
+          },
+          {
+            "title": "1. Produto = Renda = Despesa",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Uma padaria produz R$ 1.000 de valor adicionado. Esse valor é observado como produção, como renda gerada e, com os ajustes contábeis pertinentes, como despesa com o produto. São três óticas da mesma atividade, não três PIBs diferentes."
+              },
+              {
+                "type": "paragraph",
+                "text": "PRODUTO = RENDA = DESPESA"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Ótica",
+                    "Pergunta",
+                    "Composição"
+                  ],
+                  [
+                    "Produto",
+                    "Quanto foi produzido?",
+                    "Valor adicionado + impostos líquidos sobre produtos"
+                  ],
+                  [
+                    "Renda",
+                    "Como a renda foi gerada?",
+                    "Remuneração de empregados + excedente operacional + rendimento misto + impostos líquidos"
+                  ],
+                  [
+                    "Despesa",
+                    "Quem gastou?",
+                    "C + I + G + X - M"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "PIB = C + I + G + (X - M)"
+              },
+              {
+                "type": "paragraph",
+                "text": "C: consumo das famílias; I: investimento; G: consumo final do governo; X: exportações; M: importações. As importações são subtraídas porque parte dos gastos de C, I e G pode ter sido realizada com produção estrangeira."
+              }
+            ]
+          },
+          {
+            "title": "2. PIB a custo de fatores versus preços de mercado",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "PIBpm = PIBcf + impostos indiretos - subsídios"
+              },
+              {
+                "type": "paragraph",
+                "text": "Exemplo tradicional: PIBcf = R$ 800, impostos indiretos = R$ 150, subsídios = R$ 50. Logo, PIBpm = R$ 900."
+              },
+              {
+                "type": "paragraph",
+                "text": "ATENÇÃO FGV: Esta é a apresentação tradicional de concursos. A metodologia moderna das Contas Nacionais distingue preços básicos, preços de produtor e preços de mercado, com tratamento próprio de impostos e subsídios."
+              }
+            ]
+          },
+          {
+            "title": "3. PIB, RNB e renda pessoal disponível",
+            "blocks": [
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Conceito",
+                    "Critério",
+                    "Macete"
+                  ],
+                  [
+                    "PIB",
+                    "Produção no território",
+                    "Interno = território"
+                  ],
+                  [
+                    "RNB",
+                    "Renda primária dos residentes",
+                    "Nacional = residentes"
+                  ],
+                  [
+                    "Renda pessoal",
+                    "Renda recebida pelas pessoas",
+                    "Recebimento"
+                  ],
+                  [
+                    "Renda pessoal disponível",
+                    "Renda disponível para consumir e poupar",
+                    "Disponibilidade"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "RNB = PIB - RLEE"
+              },
+              {
+                "type": "paragraph",
+                "text": "RLEE é a renda primária líquida enviada ao exterior. Uma empresa estrangeira que produz no Brasil contribui para o PIB brasileiro; os lucros atribuídos a proprietários não residentes afetam a diferença entre PIB e RNB."
+              },
+              {
+                "type": "paragraph",
+                "text": "Para chegar à renda pessoal disponível, são necessários ajustes de distribuição da renda, lucros retidos, tributos e transferências. Não se deve simplesmente subtrair todos os lucros ou todos os impostos da RNB."
+              },
+              {
+                "type": "paragraph",
+                "text": "Renda disponível das famílias = Consumo + Poupança pessoal"
+              }
+            ]
+          },
+          {
+            "title": "Questões de fixação — Contas nacionais",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Fixação 1"
+              },
+              {
+                "type": "paragraph",
+                "text": "Uma empresa estrangeira produz no Brasil. Qual indicador inclui diretamente a produção?"
+              },
+              {
+                "type": "paragraph",
+                "text": "Resposta: PIB brasileiro: o critério é territorial."
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Fixação 3"
+              },
+              {
+                "type": "paragraph",
+                "text": "O PIBpm é 1.000, os impostos indiretos 150 e os subsídios 50. Qual o PIBcf?"
+              },
+              {
+                "type": "paragraph",
+                "text": "Resposta: 900."
+              }
+            ]
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Contas nacionais e PIB",
+        "studyGroupOrder": 2,
+        "studyOrder": 101
+      },
+      {
+        "id": "macro-integrada-fgv-consumo",
+        "modifiedAt": "2026-10-24T17:24:32.411Z",
+        "analyzedAt": "2026-10-24T17:24:32.411Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Consumo, poupança e investimento — Apostila integrada FGV",
+        "category": "Macroeconomia",
+        "summary": "Apostila integrada FGV · páginas 2, 3, 8 · leitura em texto e quadros.",
+        "source": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 2, 3, 8. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica.",
+        "sourcePages": [
+          2,
+          3,
+          8
+        ],
+        "sourceAsset": "assets/apostila-macroeconomia-integrada-fgv.pdf",
+        "contentSections": [
+          {
+            "title": "Origem deste complemento",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 2, 3, 8. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica."
+              }
+            ]
+          },
+          {
+            "title": "4. Função consumo e propensões marginais",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "C = Ca + c × Yd"
+              },
+              {
+                "type": "paragraph",
+                "text": "Ca é consumo autônomo; c é a propensão marginal a consumir; Yd é a renda disponível. Se c = 0,8, um aumento de R$ 100 na renda disponível gera R$ 80 de consumo adicional, no modelo."
+              },
+              {
+                "type": "paragraph",
+                "text": "PMC + PMP = 1"
+              },
+              {
+                "type": "paragraph",
+                "text": "PMC é a propensão marginal a consumir; PMP é a propensão marginal a poupar. Se PMC = 0,8, PMP = 0,2. Não confunda a propensão marginal com a parcela média da renda consumida."
+              }
+            ]
+          },
+          {
+            "title": "5. Investimento macroeconômico",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "I = FBCF + Variação de Estoques"
+              },
+              {
+                "type": "paragraph",
+                "text": "FBCF significa Formação Bruta de Capital Fixo: máquinas, equipamentos e construções. A variação de estoques pode ser planejada ou involuntária. Comprar ações ou títulos financeiros, por si só, não é investimento produtivo na Contabilidade Nacional."
+              }
+            ]
+          },
+          {
+            "title": "6. Identidade investimento = poupança",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Ip + Ig = Sp + Sg + Sext"
+              },
+              {
+                "type": "paragraph",
+                "text": "Investimento privado e público é igual à soma das poupanças privada, pública e externa, nas definições compatíveis da contabilidade nacional. Isso é identidade contábil, não a exigência de que cada indivíduo poupe antes de uma empresa investir."
+              },
+              {
+                "type": "paragraph",
+                "text": "Sext = M - X + RLEE"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Mudança isolada",
+                    "Poupança externa"
+                  ],
+                  [
+                    "Aumento das importações",
+                    "Aumenta"
+                  ],
+                  [
+                    "Aumento das exportações",
+                    "Diminui"
+                  ],
+                  [
+                    "Aumento da renda líquida enviada ao exterior",
+                    "Aumenta"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "ATENÇÃO FGV: A fórmula de Sext acima é simplificada; uma definição completa também pode exigir transferências correntes líquidas. A identidade poupança-investimento exige consistência de conceitos e períodos."
+              }
+            ]
+          },
+          {
+            "title": "Questão de fixação — Consumo",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Fixação 2"
+              },
+              {
+                "type": "paragraph",
+                "text": "Se a renda disponível aumenta R$ 100 e o consumo aumenta R$ 80, qual é a PMC?"
+              },
+              {
+                "type": "paragraph",
+                "text": "Resposta: 0,8."
+              }
+            ]
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Modelo keynesiano e multiplicador",
+        "studyGroupOrder": 4,
+        "studyOrder": 102
+      },
+      {
+        "id": "macro-integrada-fgv-demanda",
+        "modifiedAt": "2026-10-24T17:24:32.411Z",
+        "analyzedAt": "2026-10-24T17:24:32.411Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Demanda agregada: inclinação e deslocamentos — Apostila integrada FGV",
+        "category": "Macroeconomia",
+        "summary": "Apostila integrada FGV · páginas 3, 4, 8 · leitura em texto e quadros.",
+        "source": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 3, 4, 8. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica.",
+        "sourcePages": [
+          3,
+          4,
+          8
+        ],
+        "sourceAsset": "assets/apostila-macroeconomia-integrada-fgv.pdf",
+        "contentSections": [
+          {
+            "title": "Origem deste complemento",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 3, 4, 8. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica."
+              }
+            ]
+          },
+          {
+            "title": "7. Demanda agregada",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "DA = C + I + G + (X - M)"
+              },
+              {
+                "type": "paragraph",
+                "text": "A expressão da despesa do PIB é uma identidade contábil; a demanda agregada planejada é uma relação comportamental. No equilíbrio do modelo keynesiano simples, produção e despesa planejada se igualam. Estoques não planejados podem fazer as duas diferirem fora do equilíbrio."
+              }
+            ]
+          },
+          {
+            "title": "8. Por que a curva DA é negativamente inclinada?",
+            "blocks": [
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Efeito",
+                    "Cadeia causal"
+                  ],
+                  [
+                    "Riqueza real",
+                    "Queda dos preços → aumento do poder de compra dos saldos monetários → maior consumo"
+                  ],
+                  [
+                    "Juros",
+                    "Queda dos preços → aumento dos saldos monetários reais → juros menores → mais investimento"
+                  ],
+                  [
+                    "Comércio exterior",
+                    "Queda de preços nacionais relativos → aumento das exportações líquidas"
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "title": "9. Movimento ao longo da curva versus deslocamento",
+            "blocks": [
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Movimento na mesma curva",
+                    "Deslocamento da curva"
+                  ],
+                  [
+                    "Mudança do nível geral de preços",
+                    "Mudança dos demais determinantes da DA"
+                  ],
+                  [
+                    "Preço cai → maior quantidade demandada",
+                    "Investimento autônomo sobe → DA se desloca para a direita"
+                  ],
+                  [
+                    "Preço sobe → menor quantidade demandada",
+                    "Gastos autônomos caem → DA se desloca para a esquerda"
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Questão de fixação — Demanda agregada",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Fixação 7"
+              },
+              {
+                "type": "paragraph",
+                "text": "A queda do nível de preços desloca a curva DA?"
+              },
+              {
+                "type": "paragraph",
+                "text": "Resposta: Não: provoca movimento ao longo da curva, mantidos os demais fatores."
+              }
+            ]
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Oferta e demanda agregadas",
+        "studyGroupOrder": 8,
+        "studyOrder": 103
+      },
+      {
+        "id": "macro-integrada-fgv-multiplicador",
+        "modifiedAt": "2026-10-24T17:24:32.411Z",
+        "analyzedAt": "2026-10-24T17:24:32.411Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Multiplicador keynesiano: modelos e fórmulas — Apostila integrada FGV",
+        "category": "Macroeconomia",
+        "summary": "Apostila integrada FGV · páginas 4, 5, 8 · leitura em texto e quadros.",
+        "source": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 4, 5, 8. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica.",
+        "sourcePages": [
+          4,
+          5,
+          8
+        ],
+        "sourceAsset": "assets/apostila-macroeconomia-integrada-fgv.pdf",
+        "contentSections": [
+          {
+            "title": "Origem deste complemento",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 4, 5, 8. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica."
+              }
+            ]
+          },
+          {
+            "title": "10. Multiplicador keynesiano",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Uma despesa autônoma inicial aumenta a renda; parte dessa renda vira consumo e gera nova renda. As rodadas diminuem devido à poupança, aos tributos e às importações."
+              },
+              {
+                "type": "paragraph",
+                "text": "k = 1 / (1 - c)"
+              },
+              {
+                "type": "paragraph",
+                "text": "Exemplo: com c = 0,8 e aumento autônomo dos gastos de R$ 100, k = 5 e a renda aumenta R$ 500 no modelo simples com preços fixos e capacidade ociosa."
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Modelo",
+                    "Multiplicador"
+                  ],
+                  [
+                    "Fechado, sem governo",
+                    "k = 1 / (1 - c)"
+                  ],
+                  [
+                    "Tributos proporcionais",
+                    "k = 1 / (1 - c + c×t)"
+                  ],
+                  [
+                    "Tributos e importações proporcionais",
+                    "k = 1 / (1 - c + c×t + m)"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "A última fórmula supõe consumo dependente da renda disponível e importações dependentes da renda total. Aumentar c eleva k; aumentar t ou m reduz k. O multiplicador também amplia quedas de gastos autônomos."
+              },
+              {
+                "type": "paragraph",
+                "text": "Multiplicador do investimento: variação da renda = k × variação do investimento autônomo. Multiplicador dos gastos do governo: variação da renda = k × variação dos gastos autônomos do governo. Sob as mesmas hipóteses, ambos usam o mesmo k."
+              },
+              {
+                "type": "paragraph",
+                "text": "ATENÇÃO FGV: Com capacidade produtiva ociosa, a resposta pode ocorrer sobretudo em produção. Perto da plena capacidade, estímulos adicionais tendem a pressionar mais os preços; não é rigoroso afirmar que sempre haverá apenas inflação."
+              }
+            ]
+          },
+          {
+            "title": "Questão de fixação — Multiplicador",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Fixação 4"
+              },
+              {
+                "type": "paragraph",
+                "text": "Se c = 0,8 em economia fechada sem governo, qual é k?"
+              },
+              {
+                "type": "paragraph",
+                "text": "Resposta: 5."
+              }
+            ]
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Modelo keynesiano e multiplicador",
+        "studyGroupOrder": 4,
+        "studyOrder": 104
+      },
+      {
+        "id": "macro-integrada-fgv-politicas",
+        "modifiedAt": "2026-10-24T17:24:32.411Z",
+        "analyzedAt": "2026-10-24T17:24:32.411Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Fiscal versus monetária e instrumentos do BC — Apostila integrada FGV",
+        "category": "Macroeconomia",
+        "summary": "Apostila integrada FGV · páginas 5, 8 · leitura em texto e quadros.",
+        "source": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 5, 8. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica.",
+        "sourcePages": [
+          5,
+          8
+        ],
+        "sourceAsset": "assets/apostila-macroeconomia-integrada-fgv.pdf",
+        "contentSections": [
+          {
+            "title": "Origem deste complemento",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 5, 8. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica."
+              }
+            ]
+          },
+          {
+            "title": "11. Fiscal versus monetária",
+            "blocks": [
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Dimensão",
+                    "Fiscal",
+                    "Monetária"
+                  ],
+                  [
+                    "Responsável",
+                    "Governo",
+                    "Banco Central"
+                  ],
+                  [
+                    "Instrumentos",
+                    "Gastos e tributos",
+                    "Juros, liquidez e reservas"
+                  ],
+                  [
+                    "Expansionista",
+                    "Aumenta gastos ou reduz tributos",
+                    "Afrouxa condições monetárias, geralmente reduz juros"
+                  ],
+                  [
+                    "Contracionista",
+                    "Reduz gastos ou aumenta tributos",
+                    "Aperta condições monetárias, geralmente aumenta juros"
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "title": "12. Instrumentos da política monetária",
+            "blocks": [
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Instrumento",
+                    "Expansionista",
+                    "Contracionista"
+                  ],
+                  [
+                    "Redesconto",
+                    "Reduz taxa",
+                    "Eleva taxa"
+                  ],
+                  [
+                    "Compulsório",
+                    "Reduz alíquota",
+                    "Eleva alíquota"
+                  ],
+                  [
+                    "Open Market",
+                    "BC compra títulos e injeta reservas",
+                    "BC vende títulos e retira reservas"
+                  ],
+                  [
+                    "Selic",
+                    "Meta menor, em geral",
+                    "Meta maior, em geral"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "Comprar títulos significa pagar por eles, injetando liquidez; vender significa receber o pagamento, retirando liquidez. Operações de mercado aberto também são usadas rotineiramente para manter a taxa de juros de curto prazo próxima da meta da Selic."
+              }
+            ]
+          },
+          {
+            "title": "13. Banco Central",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Funções: executar a política monetária; fornecer liquidez ao sistema bancário; gerir reservas internacionais; supervisionar instituições sob sua competência; exercer funções legalmente atribuídas como agente financeiro do governo. No Brasil, a estabilidade de preços é o objetivo fundamental previsto na LC 179/2021."
+              },
+              {
+                "type": "paragraph",
+                "text": "ATENÇÃO FGV: A Constituição proíbe empréstimos diretos do Banco Central ao Tesouro Nacional (art. 164, § 1º)."
+              }
+            ]
+          },
+          {
+            "title": "Questões de fixação — Política monetária",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Fixação 5"
+              },
+              {
+                "type": "paragraph",
+                "text": "O BC compra títulos no open market. O que acontece imediatamente com as reservas?"
+              },
+              {
+                "type": "paragraph",
+                "text": "Resposta: Em geral, aumentam."
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Fixação 6"
+              },
+              {
+                "type": "paragraph",
+                "text": "O aumento do compulsório é expansionista ou contracionista?"
+              },
+              {
+                "type": "paragraph",
+                "text": "Resposta: Contracionista."
+              }
+            ]
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Políticas fiscal e monetária",
+        "studyGroupOrder": 10,
+        "studyOrder": 105
+      },
+      {
+        "id": "macro-integrada-fgv-moeda",
+        "modifiedAt": "2026-10-24T17:24:32.411Z",
+        "analyzedAt": "2026-10-24T17:24:32.411Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Demanda por moeda, base e agregados monetários — Apostila integrada FGV",
+        "category": "Macroeconomia",
+        "summary": "Apostila integrada FGV · páginas 6, 7, 8 · leitura em texto e quadros.",
+        "source": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 6, 7, 8. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica.",
+        "sourcePages": [
+          6,
+          7,
+          8
+        ],
+        "sourceAsset": "assets/apostila-macroeconomia-integrada-fgv.pdf",
+        "contentSections": [
+          {
+            "title": "Origem deste complemento",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 6, 7, 8. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica."
+              }
+            ]
+          },
+          {
+            "title": "14. Três motivos keynesianos para demandar moeda",
+            "blocks": [
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Motivo",
+                    "Finalidade",
+                    "Exemplo"
+                  ],
+                  [
+                    "Transação",
+                    "Realizar pagamentos correntes",
+                    "Compras de mercado"
+                  ],
+                  [
+                    "Precaução",
+                    "Enfrentar imprevistos",
+                    "Reserva para emergência"
+                  ],
+                  [
+                    "Especulação",
+                    "Manter liquidez diante das expectativas sobre títulos e juros",
+                    "Esperar oportunidade de comprar títulos"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "Na teoria keynesiana tradicional, juros mais elevados aumentam o custo de oportunidade de manter moeda e tendem a reduzir a demanda especulativa por moeda, tudo o mais constante."
+              }
+            ]
+          },
+          {
+            "title": "15. Base monetária versus M1",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "PMC = PMPP + Caixa dos Bancos"
+              },
+              {
+                "type": "paragraph",
+                "text": "M1 = PMPP + Depósitos à Vista"
+              },
+              {
+                "type": "paragraph",
+                "text": "PMC é papel-moeda em circulação; PMPP é papel-moeda em poder do público. A base monetária compreende papel-moeda emitido em circulação e reservas bancárias, conforme a definição estatística adotada. O caixa dos bancos não é PMPP."
+              }
+            ]
+          },
+          {
+            "title": "16. Agregados monetários cumulativos",
+            "blocks": [
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Agregado",
+                    "Composição resumida"
+                  ],
+                  [
+                    "M1",
+                    "PMPP + depósitos à vista"
+                  ],
+                  [
+                    "M2",
+                    "M1 + poupança + depósitos a prazo e outros títulos privados de instituições depositárias"
+                  ],
+                  [
+                    "M3",
+                    "M2 + cotas de fundos pertinentes e operações compromissadas pertinentes"
+                  ],
+                  [
+                    "M4",
+                    "M3 + títulos públicos federais em poder do público não financeiro"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "A composição detalhada depende da metodologia estatística brasileira vigente. A classificação em M1, M2, M3 e M4 é cumulativa."
+              }
+            ]
+          },
+          {
+            "title": "17. Multiplicador monetário versus keynesiano",
+            "blocks": [
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Multiplicador keynesiano",
+                    "Multiplicador monetário"
+                  ],
+                  [
+                    "Relaciona variações de gastos autônomos e renda",
+                    "Relaciona meios de pagamento e base monetária"
+                  ],
+                  [
+                    "Depende de consumo, tributos e importações",
+                    "Depende da retenção de moeda e das reservas bancárias"
+                  ],
+                  [
+                    "Exemplo: k = 1/(1-c)",
+                    "Relação contábil: mm = M1 / base monetária"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "ATENÇÃO FGV: O multiplicador monetário não implica controle mecânico de M1 pelo Banco Central. A oferta de crédito, a demanda por moeda e a política de juros também importam."
+              }
+            ]
+          },
+          {
+            "title": "Questão de fixação — Agregados",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Fixação 8"
+              },
+              {
+                "type": "paragraph",
+                "text": "Qual agregado contém PMPP e depósitos à vista?"
+              },
+              {
+                "type": "paragraph",
+                "text": "Resposta: M1."
+              }
+            ]
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Moeda e sistema monetário",
+        "studyGroupOrder": 6,
+        "studyOrder": 106
+      },
+      {
+        "id": "macro-integrada-fgv-revisao",
+        "modifiedAt": "2026-10-24T17:24:32.411Z",
+        "analyzedAt": "2026-10-24T17:24:32.411Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Revisão integrada: conceitos que não podem ser confundidos",
+        "category": "Macroeconomia",
+        "summary": "Apostila integrada FGV · páginas 7, 8 · leitura em texto e quadros.",
+        "source": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 7, 8. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica.",
+        "sourcePages": [
+          7,
+          8
+        ],
+        "sourceAsset": "assets/apostila-macroeconomia-integrada-fgv.pdf",
+        "contentSections": [
+          {
+            "title": "Origem deste complemento",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Fonte: Apostila_Macroeconomia_Integrada_FGV.pdf, página(s) 7, 8. Conteúdo do arquivo enviado, organizado por assunto; sem nova revisão técnica."
+              }
+            ]
+          },
+          {
+            "title": "Quadro de revisão — Não confundir",
+            "blocks": [
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Não confundir",
+                    "Diferença-chave"
+                  ],
+                  [
+                    "Produto / renda / despesa",
+                    "Três óticas da mesma produção"
+                  ],
+                  [
+                    "PIB / RNB",
+                    "Território / residentes"
+                  ],
+                  [
+                    "PIBpm / PIBcf",
+                    "Preços de mercado / custo dos fatores"
+                  ],
+                  [
+                    "Renda nacional / disponível",
+                    "Renda dos residentes / renda para consumo e poupança"
+                  ],
+                  [
+                    "Consumo / investimento",
+                    "Consumo final / formação de capital"
+                  ],
+                  [
+                    "Poupança / investimento",
+                    "Renda não consumida / formação de capital"
+                  ],
+                  [
+                    "Movimento / deslocamento da DA",
+                    "Preço muda / outro determinante muda"
+                  ],
+                  [
+                    "Multiplicador keynesiano / monetário",
+                    "Gastos e renda / moeda e base monetária"
+                  ],
+                  [
+                    "Fiscal / monetária",
+                    "Gastos e tributos / juros e liquidez"
+                  ],
+                  [
+                    "Demanda / oferta de moeda",
+                    "Desejo de manter / quantidade disponível"
+                  ],
+                  [
+                    "PMC / PMPP",
+                    "Circulação total / poder do público"
+                  ],
+                  [
+                    "M1 / M2 / M3 / M4",
+                    "Medidas cumulativas com ativos adicionais"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "Recomendação da apostila: revisar primeiro os quadros de comparação, depois resolver questões sem consultar as fórmulas. As oito questões foram distribuídas nos assuntos correspondentes."
+              }
+            ]
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Revisão integrada e comparações de Macroeconomia",
+        "studyGroupOrder": 13,
+        "studyOrder": 107
       }
     ],
     "findings": [],
@@ -8900,7 +9978,8 @@
               "id": "macro-topico-01",
               "title": "Conceitos básicos e sequência da Macroeconomia",
               "fileIds": [
-                "1BzPVi3sWUYU2DuwF-Fti-XpfCV7X6T9G"
+                "1BzPVi3sWUYU2DuwF-Fti-XpfCV7X6T9G",
+                "macro-integrada-fgv-mapa"
               ]
             },
             {
@@ -8909,7 +9988,8 @@
               "fileIds": [
                 "1EsVS_vDUuTnWt2NbF4EAe1WYDVY7duMd",
                 "1W-BSMn_6JBKivenuYcIsmBIb94ZYyYOt",
-                "1fgQYL6xHH8mEbyCrnqmxlTUiYVRCzoXu"
+                "1fgQYL6xHH8mEbyCrnqmxlTUiYVRCzoXu",
+                "macro-integrada-fgv-contas"
               ],
               "children": [
                 {
@@ -8940,7 +10020,18 @@
               "id": "macro-topico-04",
               "title": "Modelo keynesiano e multiplicador",
               "fileIds": [
-                "1lZlXen9Q8Ou0C6fEqpAZZyWdTVyG9V3l"
+                "1lZlXen9Q8Ou0C6fEqpAZZyWdTVyG9V3l",
+                "macro-integrada-fgv-consumo",
+                "macro-integrada-fgv-multiplicador"
+              ],
+              "children": [
+                {
+                  "id": "macro-consumo-poupanca",
+                  "title": "Consumo, poupança e investimento",
+                  "fileIds": [
+                    "macro-integrada-fgv-consumo"
+                  ]
+                }
               ]
             },
             {
@@ -8959,7 +10050,8 @@
                 "1Kx5-7SlFbRckbLiWM38hPnV1ScVMJA0j",
                 "1oAlnlnNWY118EHkSRyJaGW9MMg1eUww2",
                 "1XJOvgrB9f0l4-gDY4xRhq5Ek4l5VtEYZ",
-                "12Lsdl6_3cJ1wn8tXR3Gnn9l5K5tD3D83"
+                "12Lsdl6_3cJ1wn8tXR3Gnn9l5K5tD3D83",
+                "macro-integrada-fgv-moeda"
               ],
               "children": [
                 {
@@ -8971,21 +10063,26 @@
                 },
                 {
                   "id": "macro-demanda",
-                  "title": "Demanda por moeda"
+                  "title": "Demanda por moeda",
+                  "fileIds": [
+                    "macro-integrada-fgv-moeda"
+                  ]
                 },
                 {
                   "id": "macro-oferta",
                   "title": "Oferta de moeda e agregados monetários",
                   "fileIds": [
                     "1Ix3GFJT_Q7-1tq4VtWMsnaEYSFZ5FKuB",
-                    "1Kx5-7SlFbRckbLiWM38hPnV1ScVMJA0j"
+                    "1Kx5-7SlFbRckbLiWM38hPnV1ScVMJA0j",
+                    "macro-integrada-fgv-moeda"
                   ]
                 },
                 {
                   "id": "macro-multiplicador",
                   "title": "Multiplicador monetário",
                   "fileIds": [
-                    "1oAlnlnNWY118EHkSRyJaGW9MMg1eUww2"
+                    "1oAlnlnNWY118EHkSRyJaGW9MMg1eUww2",
+                    "macro-integrada-fgv-moeda"
                   ]
                 },
                 {
@@ -9028,7 +10125,9 @@
             {
               "id": "macro-topico-07",
               "title": "Oferta e demanda agregadas",
-              "fileIds": []
+              "fileIds": [
+                "macro-integrada-fgv-demanda"
+              ]
             },
             {
               "id": "macro-topico-08",
@@ -9063,7 +10162,8 @@
                 "1PLxYIjSQsQYTg5y-lR4Jru82Z05A6Vog",
                 "1X3xVr8PiO1BbKLLx8qc5isZJTAETrXCr",
                 "1ps9olopFw4IQQ9CejNN9mAToPCS1KHnA",
-                "1JKKHVr6GN5V7Mq1k78gGaUz1JXYRQVc3"
+                "1JKKHVr6GN5V7Mq1k78gGaUz1JXYRQVc3",
+                "macro-integrada-fgv-politicas"
               ],
               "children": [
                 {
@@ -9071,7 +10171,8 @@
                   "title": "Política fiscal e equivalência ricardiana",
                   "fileIds": [
                     "1PLxYIjSQsQYTg5y-lR4Jru82Z05A6Vog",
-                    "1X3xVr8PiO1BbKLLx8qc5isZJTAETrXCr"
+                    "1X3xVr8PiO1BbKLLx8qc5isZJTAETrXCr",
+                    "macro-integrada-fgv-politicas"
                   ]
                 },
                 {
@@ -9079,7 +10180,8 @@
                   "title": "Política monetária e seus instrumentos",
                   "fileIds": [
                     "1ps9olopFw4IQQ9CejNN9mAToPCS1KHnA",
-                    "1JKKHVr6GN5V7Mq1k78gGaUz1JXYRQVc3"
+                    "1JKKHVr6GN5V7Mq1k78gGaUz1JXYRQVc3",
+                    "macro-integrada-fgv-politicas"
                   ]
                 }
               ]
@@ -9110,6 +10212,13 @@
                   "title": "Crescimento endógeno e outros modelos"
                 }
               ]
+            },
+            {
+              "id": "macro-revisao-integrada",
+              "title": "Revisão integrada e comparações de Macroeconomia",
+              "fileIds": [
+                "macro-integrada-fgv-revisao"
+              ]
             }
           ]
         },
@@ -9135,5 +10244,16 @@
     "groupRelatedTopics": true,
     "criticalRule": "Marcar como crítico somente quando o usuário indicar dificuldade maior, por mensagem ou botão próprio. Materiais de estudo, sozinhos, não comprovam dificuldade.",
     "macroMicroSeparated": true
-  }
+  },
+  "supplementalSources": [
+    {
+      "title": "Apostila_Macroeconomia_Integrada_FGV.pdf",
+      "libraryFileId": "libfile_8bd61e23351c81918a8478393a2a5873",
+      "asset": "assets/apostila-macroeconomia-integrada-fgv.pdf",
+      "importedAt": "2026-10-24T17:24:32.411Z",
+      "pages": 8,
+      "sectionCount": 25,
+      "assessment": "not-assessed"
+    }
+  ]
 }
