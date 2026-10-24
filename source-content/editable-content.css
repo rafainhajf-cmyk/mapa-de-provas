@@ -16,3 +16,5 @@
 .illustration-original:not([open])>*:not(summary){display:none}
 .illustration-original .study-pdf-page{margin:5px 0!important}
 @media(max-width:760px){.text-edit-toolbar{right:8px;top:10px;max-width:calc(100vw - 180px)}.editing-study-text .text-edit-toolbar{top:52px;max-width:calc(100vw - 16px)}}
+
+.text-edit-toolbar[hidden]{display:none!important}
