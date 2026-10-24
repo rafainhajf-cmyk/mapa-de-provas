@@ -10,25 +10,40 @@ async function cropPaper(img){
    const canvas=document.createElement('canvas');canvas.width=w;canvas.height=h;
    const ctx=canvas.getContext('2d',{willReadFrequently:true});ctx.drawImage(img,0,0);
    const pixels=ctx.getImageData(0,0,w,h).data;
-   let top=h,bottom=-1,left=w,right=-1;
+   const inkRows=new Uint8Array(h);let top=h,bottom=-1,left=w,right=-1;
    for(let y=0;y<h;y++)for(let x=0;x<w;x++){
     const i=(y*w+x)*4;
     if(pixels[i+3]>32&&Math.min(pixels[i],pixels[i+1],pixels[i+2])<235){
-     if(y<top)top=y;if(y>bottom)bottom=y;if(x<left)left=x;if(x>right)right=x;
+     inkRows[y]=1;if(y<top)top=y;if(y>bottom)bottom=y;if(x<left)left=x;if(x>right)right=x;
     }
    }
    if(bottom<top||right-left<20){img.dataset.compactPaper='unchanged';return;}
-   const pad=16;top=Math.max(0,top-pad);bottom=Math.min(h-1,bottom+pad);
+   const pad=6;top=Math.max(0,top-pad);bottom=Math.min(h-1,bottom+pad);
    left=Math.max(0,left-pad);right=Math.min(w-1,right+pad);
    const cw=right-left+1,ch=bottom-top+1;
    if(cw*ch>w*h*.94){img.dataset.compactPaper='unchanged';return;}
-   const out=document.createElement('canvas');out.width=cw;out.height=ch;
-   out.getContext('2d').drawImage(canvas,left,top,cw,ch,0,0,cw,ch);
+   // Keep every inked row; collapse only long, entirely blank horizontal bands.
+   const bands=[];let cursor=top,y=top;
+   while(y<=bottom){
+    if(inkRows[y]){y++;continue;}
+    const blankStart=y;while(y<=bottom&&!inkRows[y])y++;
+    if(y-blankStart>=48){
+     const keep=6;
+     if(blankStart+keep>cursor)bands.push([cursor,blankStart+keep-cursor]);
+     cursor=Math.max(cursor,y-keep);
+    }
+   }
+   if(cursor<=bottom)bands.push([cursor,bottom-cursor+1]);
+   const packedHeight=bands.reduce((sum,b)=>sum+b[1],0);
+   const out=document.createElement('canvas');out.width=cw;out.height=packedHeight;
+   const output=out.getContext('2d');let dest=0;
+   for(const [sourceY,height] of bands){output.drawImage(canvas,left,sourceY,cw,height,0,dest,cw,height);dest+=height;}
+
    const blob=await new Promise(resolve=>out.toBlob(resolve,'image/png'));
    if(!blob||!img.isConnected)return;
    const url=URL.createObjectURL(blob);urls.add(url);
    img.dataset.originalWidth=String(w);img.dataset.originalHeight=String(h);
-   img.dataset.croppedHeight=String(ch);img.dataset.compactPaper='cropped';
+   img.dataset.croppedHeight=String(packedHeight);img.dataset.compactPaper='cropped';
    img.src=url;
   }catch{img.dataset.compactPaper='unchanged';}
  };
@@ -51,4 +66,4 @@ function compact(){
  for(const url of urls)if(![...root.querySelectorAll('img')].some(img=>img.src===url)){URL.revokeObjectURL(url);urls.delete(url);}
 }
 if(root){new MutationObserver(()=>{if(!scheduled){scheduled=true;requestAnimationFrame(compact);}}).observe(root,{childList:true,subtree:true});compact();}
-window.addEventListener('pagehide',()=>{for(const url of urls)URL.revokeObjectURL(url);});
+window.addEventListener('pagehide',event=>{if(!event.persisted)for(const url of urls)URL.revokeObjectURL(url);});
