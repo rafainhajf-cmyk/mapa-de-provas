@@ -10595,6 +10595,67 @@
       "coverage": "partial",
       "source": "Área independente de Microeconomia. Materiais ainda não enviados.",
       "nodes": []
+    },
+    "Matemática Financeira": {
+      "coverage": "complete",
+      "source": "Índice completo informado pelo usuário em 24/10/2026. Ordem preservada; conteúdos serão preenchidos com os materiais enviados.",
+      "nodes": [
+        {
+          "id": "matfin-topico-01",
+          "title": "Juros Simples e Compostos",
+          "fileIds": []
+        },
+        {
+          "id": "matfin-topico-02",
+          "title": "Descontos Simples e Compostos (racional e comercial)",
+          "fileIds": []
+        },
+        {
+          "id": "matfin-topico-03",
+          "title": "Taxas Efetivas, Nominais e Equivalentes",
+          "fileIds": []
+        },
+        {
+          "id": "matfin-topico-04",
+          "title": "Convenção Linear e Exponencial",
+          "fileIds": []
+        },
+        {
+          "id": "matfin-topico-05",
+          "title": "Capitalização Contínua",
+          "fileIds": []
+        },
+        {
+          "id": "matfin-topico-06",
+          "title": "Inflação",
+          "fileIds": []
+        },
+        {
+          "id": "matfin-topico-07",
+          "title": "Juros Reais x Aparentes",
+          "fileIds": []
+        },
+        {
+          "id": "matfin-topico-08",
+          "title": "Equivalência de Capitais",
+          "fileIds": []
+        },
+        {
+          "id": "matfin-topico-09",
+          "title": "Série de Pagamentos - Rendas",
+          "fileIds": []
+        },
+        {
+          "id": "matfin-topico-10",
+          "title": "Sistemas de Amortização",
+          "fileIds": []
+        },
+        {
+          "id": "matfin-topico-11",
+          "title": "Análise de Investimentos",
+          "fileIds": []
+        }
+      ]
     }
   },
   "subjectResources": [
@@ -10611,7 +10672,8 @@
     "sequence": "Seguir o índice enviado para cada conteúdo, dentro do sumário da matéria. Enquanto o índice específico não for enviado, preservar a sequência existente.",
     "groupRelatedTopics": true,
     "criticalRule": "Marcar como crítico somente quando o usuário indicar dificuldade maior, por mensagem ou botão próprio. Materiais de estudo, sozinhos, não comprovam dificuldade.",
-    "macroMicroSeparated": true
+    "macroMicroSeparated": true,
+    "pendingSubmissions": "Ao receber os lançamentos guardados para análise neste chat, perguntar ao usuário como proceder antes de incorporar ou alterar a apostila."
   },
   "supplementalSources": [
     {
