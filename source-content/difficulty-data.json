@@ -97,7 +97,50 @@
         "Matemática Financeira"
       ],
       "status": "read",
-      "files": [],
+      "files": [
+        {
+          "id": "matfin-formulas-juros",
+          "title": "Fórmulas de juros simples e compostos",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:05:00Z",
+          "url": "formulas.html"
+        },
+        {
+          "id": "matfin-formulas-taxas",
+          "title": "Fórmulas de taxas equivalentes",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:05:00Z",
+          "url": "formulas.html"
+        },
+        {
+          "id": "matfin-formulas-descontos",
+          "title": "Fórmulas de descontos racionais e comerciais",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:05:00Z",
+          "url": "formulas.html"
+        },
+        {
+          "id": "matfin-formulas-rendas",
+          "title": "Fórmulas de séries de pagamentos e perpetuidades",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:05:00Z",
+          "url": "formulas.html"
+        },
+        {
+          "id": "matfin-formulas-price",
+          "title": "PRICE: valor financiado e prestação",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:05:00Z",
+          "url": "formulas.html"
+        },
+        {
+          "id": "matfin-formulas-papg",
+          "title": "Apoio: fórmulas de PA e PG",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:05:00Z",
+          "url": "formulas.html"
+        }
+      ],
       "subject": "Matemática Financeira"
     },
     {
@@ -9684,6 +9727,549 @@
         "studyGroup": "Revisão integrada e comparações de Macroeconomia",
         "studyGroupOrder": 13,
         "studyOrder": 107
+      },
+      {
+        "id": "matfin-formulas-juros",
+        "modifiedAt": "2026-10-24T23:05:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Fórmulas de juros simples e compostos",
+        "category": "Matemática Financeira",
+        "summary": "Fórmulas compiladas dos materiais enviados; consulta compacta e quiz disponíveis no formulário.",
+        "source": "PDFs enviados pelo usuário em 24/10/2026. Notação padronizada e ressalvas indicadas no formulário.",
+        "contentSections": [
+          {
+            "title": "Relação fundamental",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "J = M − C"
+              }
+            ]
+          },
+          {
+            "title": "Juros simples",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "J = C · i · n"
+              }
+            ]
+          },
+          {
+            "title": "Montante simples",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "M = C · (1 + i · n)"
+              }
+            ]
+          },
+          {
+            "title": "Montante composto",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "M = C · (1 + i)ⁿ"
+              }
+            ]
+          },
+          {
+            "title": "Juros compostos",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "J = C · [(1 + i)ⁿ − 1]"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "matfin-formulas-taxas",
+        "modifiedAt": "2026-10-24T23:05:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Fórmulas de taxas equivalentes",
+        "category": "Matemática Financeira",
+        "summary": "Fórmulas compiladas dos materiais enviados; consulta compacta e quiz disponíveis no formulário.",
+        "source": "PDFs enviados pelo usuário em 24/10/2026. Notação padronizada e ressalvas indicadas no formulário.",
+        "contentSections": [
+          {
+            "title": "Taxas equivalentes — composto",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "1 + iₐ = (1 + iₚ)ᵏ"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "k períodos menores em um ano; iₐ anual, iₚ por período."
+              }
+            ]
+          },
+          {
+            "title": "Taxa por período a partir da anual",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "iₚ = (1 + iₐ)^(1/k) − 1"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Isolamento da taxa na relação de equivalência."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "matfin-formulas-descontos",
+        "modifiedAt": "2026-10-24T23:05:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Fórmulas de descontos racionais e comerciais",
+        "category": "Matemática Financeira",
+        "summary": "Fórmulas compiladas dos materiais enviados; consulta compacta e quiz disponíveis no formulário.",
+        "source": "PDFs enviados pelo usuário em 24/10/2026. Notação padronizada e ressalvas indicadas no formulário.",
+        "contentSections": [
+          {
+            "title": "Relação do desconto",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "D = N − A"
+              }
+            ]
+          },
+          {
+            "title": "Desconto racional simples",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Dᵣ = A · i · n = N · i · n / (1 + i · n)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Por dentro: a base é o valor atual A."
+              }
+            ]
+          },
+          {
+            "title": "Valor atual — racional simples",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A = N / (1 + i · n)"
+              }
+            ]
+          },
+          {
+            "title": "Valor atual — racional composto",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A = N / (1 + i)ⁿ"
+              }
+            ]
+          },
+          {
+            "title": "Desconto racional composto",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Dᵣ = N · [1 − (1 + i)⁻ⁿ]"
+              }
+            ]
+          },
+          {
+            "title": "Desconto comercial simples",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "D𝚌 = N · d · n"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Por fora: a base é N. Usa-se d para a taxa de desconto comercial."
+              }
+            ]
+          },
+          {
+            "title": "Valor atual — comercial simples",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A = N · (1 − d · n)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Para valor atual positivo: d · n < 1, com N > 0 e d, n ≥ 0."
+              }
+            ]
+          },
+          {
+            "title": "Valor atual — comercial composto",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A = N · (1 − d)ⁿ"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "No uso usual: 0 ≤ d < 1."
+              }
+            ]
+          },
+          {
+            "title": "Desconto comercial composto",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "D𝚌 = N · [1 − (1 − d)ⁿ]"
+              }
+            ]
+          },
+          {
+            "title": "Comercial × racional — simples",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "D𝚌 = Dᵣ · (1 + i · n)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Mesmo N, prazo n e mesmo valor numérico de taxa (d = i). Não aplicar a taxas diferentes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "matfin-formulas-rendas",
+        "modifiedAt": "2026-10-24T23:05:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Fórmulas de séries de pagamentos e perpetuidades",
+        "category": "Matemática Financeira",
+        "summary": "Fórmulas compiladas dos materiais enviados; consulta compacta e quiz disponíveis no formulário.",
+        "source": "PDFs enviados pelo usuário em 24/10/2026. Notação padronizada e ressalvas indicadas no formulário.",
+        "contentSections": [
+          {
+            "title": "Valor atual postecipado / PRICE",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A = P · [(1 + i)ⁿ − 1] / [i · (1 + i)ⁿ]"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "n parcelas iguais; primeira em t = 1. É a mesma fórmula nos PDFs de PRICE e de séries."
+              }
+            ]
+          },
+          {
+            "title": "Prestação do sistema PRICE",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "P = A · i · (1 + i)ⁿ / [(1 + i)ⁿ − 1]"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Rearranjo da fórmula de valor atual, sem encargos extras; parcelas iguais e taxa constante."
+              }
+            ]
+          },
+          {
+            "title": "Valor futuro postecipado",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "F = P · [(1 + i)ⁿ − 1] / i"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Valor em t = n, imediatamente após a última parcela."
+              }
+            ]
+          },
+          {
+            "title": "Valor atual antecipado",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Aₐₙₜ = Aₚₒₛₜ · (1 + i)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Primeira parcela em t = 0; mesmos P, i e n."
+              }
+            ]
+          },
+          {
+            "title": "Valor futuro antecipado",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Fₐₙₜ = Fₚₒₛₜ · (1 + i)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Valor em t = n; pagamentos em 0, 1, …, n − 1."
+              }
+            ]
+          },
+          {
+            "title": "Perpetuidade simples",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A = P / i"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "P constante, i > 0; primeira parcela em t = 1."
+              }
+            ]
+          },
+          {
+            "title": "Perpetuidade diferida",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A₀ = P / [i · (1 + i)ᵏ]"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "k períodos adicionais de adiamento; primeira parcela em t = k + 1. Corrige a expressão P/[i·(1+g)] do PDF, cujo g não foi definido."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "matfin-formulas-price",
+        "modifiedAt": "2026-10-24T23:05:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "PRICE: valor financiado e prestação",
+        "category": "Matemática Financeira",
+        "summary": "Fórmulas compiladas dos materiais enviados; consulta compacta e quiz disponíveis no formulário.",
+        "source": "PDFs enviados pelo usuário em 24/10/2026. Notação padronizada e ressalvas indicadas no formulário.",
+        "contentSections": [
+          {
+            "title": "Valor atual postecipado / PRICE",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A = P · [(1 + i)ⁿ − 1] / [i · (1 + i)ⁿ]"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "n parcelas iguais; primeira em t = 1. É a mesma fórmula nos PDFs de PRICE e de séries."
+              }
+            ]
+          },
+          {
+            "title": "Prestação do sistema PRICE",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "P = A · i · (1 + i)ⁿ / [(1 + i)ⁿ − 1]"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Rearranjo da fórmula de valor atual, sem encargos extras; parcelas iguais e taxa constante."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "matfin-formulas-papg",
+        "modifiedAt": "2026-10-24T23:05:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Apoio: fórmulas de PA e PG",
+        "category": "Matemática Financeira",
+        "summary": "Fórmulas compiladas dos materiais enviados; consulta compacta e quiz disponíveis no formulário.",
+        "source": "PDFs enviados pelo usuário em 24/10/2026. Notação padronizada e ressalvas indicadas no formulário.",
+        "contentSections": [
+          {
+            "title": "PA — razão",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "r = aₙ₊₁ − aₙ"
+              }
+            ]
+          },
+          {
+            "title": "PA — termo geral",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "aₘ = a₁ + (m − 1) · r"
+              }
+            ]
+          },
+          {
+            "title": "PA — relação entre dois termos",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "aₘ = aₙ + (m − n) · r"
+              }
+            ]
+          },
+          {
+            "title": "PA — soma finita",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Sₙ = (a₁ + aₙ) · n / 2"
+              }
+            ]
+          },
+          {
+            "title": "PA — soma infinita",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "a₁ = r = 0 ⇒ S∞ = 0; nos demais casos, diverge"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Em PA real, não use “±∞” como regra universal: a sequência nula tem soma zero."
+              }
+            ]
+          },
+          {
+            "title": "PG — razão",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "q = aₙ₊₁ / aₙ"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Para aₙ ≠ 0."
+              }
+            ]
+          },
+          {
+            "title": "PG — termo geral",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "aₘ = a₁ · q^(m − 1)"
+              }
+            ]
+          },
+          {
+            "title": "PG — relação entre dois termos",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "aₘ = aₙ · q^(m − n)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Para expoentes negativos, q ≠ 0."
+              }
+            ]
+          },
+          {
+            "title": "PG — soma finita",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Sₙ = a₁ · (qⁿ − 1) / (q − 1)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "q ≠ 1. Se q = 1, Sₙ = n · a₁."
+              }
+            ]
+          },
+          {
+            "title": "PG — soma infinita",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "S∞ = a₁ / (1 − q), para |q| < 1"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Abrange também razões negativas com módulo menor que 1; amplia a condição 0 < q < 1 do quadro."
+              }
+            ]
+          }
+        ]
       }
     ],
     "findings": [],
@@ -10603,17 +11189,24 @@
         {
           "id": "matfin-topico-01",
           "title": "Juros Simples e Compostos",
-          "fileIds": []
+          "fileIds": [
+            "matfin-formulas-juros",
+            "matfin-formulas-papg"
+          ]
         },
         {
           "id": "matfin-topico-02",
           "title": "Descontos Simples e Compostos (racional e comercial)",
-          "fileIds": []
+          "fileIds": [
+            "matfin-formulas-descontos"
+          ]
         },
         {
           "id": "matfin-topico-03",
           "title": "Taxas Efetivas, Nominais e Equivalentes",
-          "fileIds": []
+          "fileIds": [
+            "matfin-formulas-taxas"
+          ]
         },
         {
           "id": "matfin-topico-04",
@@ -10643,12 +11236,16 @@
         {
           "id": "matfin-topico-09",
           "title": "Série de Pagamentos - Rendas",
-          "fileIds": []
+          "fileIds": [
+            "matfin-formulas-rendas"
+          ]
         },
         {
           "id": "matfin-topico-10",
           "title": "Sistemas de Amortização",
-          "fileIds": []
+          "fileIds": [
+            "matfin-formulas-price"
+          ]
         },
         {
           "id": "matfin-topico-11",

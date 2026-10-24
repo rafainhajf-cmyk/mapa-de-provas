@@ -1,0 +1,359 @@
+{
+  "title": "Formulário de Matemática Financeira",
+  "scope": "Compilação dos cinco PDFs enviados. Não representa, por si só, todas as fórmulas dos 11 tópicos do índice.",
+  "legend": "C: capital · M: montante · J: juros · A: valor atual/financiado · N: valor nominal · D: desconto · P: prestação · F: valor futuro · i: taxa de juros · d: taxa comercial · n: períodos/parcelas · r/q: razão de PA/PG. Taxas em decimal e na mesma unidade do prazo. Nas fórmulas com divisão por i, use i ≠ 0; para séries finitas com i = 0, A = F = n·P.",
+  "formulas": [
+    {
+      "id": "relacao",
+      "group": "Juros",
+      "title": "Relação fundamental",
+      "text": "J = M − C",
+      "html": "J = M − C",
+      "note": "",
+      "source": "Juros .pdf"
+    },
+    {
+      "id": "js",
+      "group": "Juros",
+      "title": "Juros simples",
+      "text": "J = C · i · n",
+      "html": "J = C · i · n",
+      "note": "",
+      "source": "Juros .pdf"
+    },
+    {
+      "id": "ms",
+      "group": "Juros",
+      "title": "Montante simples",
+      "text": "M = C · (1 + i · n)",
+      "html": "M = C · (1 + i · n)",
+      "note": "",
+      "source": "Juros .pdf"
+    },
+    {
+      "id": "mc",
+      "group": "Juros",
+      "title": "Montante composto",
+      "text": "M = C · (1 + i)ⁿ",
+      "html": "M = C · (1 + i)<sup>n</sup>",
+      "note": "",
+      "source": "Juros .pdf"
+    },
+    {
+      "id": "jc",
+      "group": "Juros",
+      "title": "Juros compostos",
+      "text": "J = C · [(1 + i)ⁿ − 1]",
+      "html": "J = C · [(1 + i)<sup>n</sup> − 1]",
+      "note": "",
+      "source": "Juros .pdf"
+    },
+    {
+      "id": "taxaeq",
+      "group": "Taxas equivalentes",
+      "title": "Taxas equivalentes — composto",
+      "text": "1 + iₐ = (1 + iₚ)ᵏ",
+      "html": "1 + i<sub>a</sub> = (1 + i<sub>p</sub>)<sup>k</sup>",
+      "note": "k períodos menores em um ano; iₐ anual, iₚ por período.",
+      "source": "Juros .pdf"
+    },
+    {
+      "id": "taxainv",
+      "group": "Taxas equivalentes",
+      "title": "Taxa por período a partir da anual",
+      "text": "iₚ = (1 + iₐ)^(1/k) − 1",
+      "html": "i<sub>p</sub> = (1 + i<sub>a</sub>)<sup>1/k</sup> − 1",
+      "note": "Isolamento da taxa na relação de equivalência.",
+      "source": "Juros .pdf — forma equivalente"
+    },
+    {
+      "id": "descrel",
+      "group": "Descontos",
+      "title": "Relação do desconto",
+      "text": "D = N − A",
+      "html": "D = N − A",
+      "note": "",
+      "source": "Descontos.pdf"
+    },
+    {
+      "id": "drs",
+      "group": "Descontos",
+      "title": "Desconto racional simples",
+      "text": "Dᵣ = A · i · n = N · i · n / (1 + i · n)",
+      "html": "D<sub>r</sub> = A · i · n = <span class=\"frac\"><span>N · i · n</span><span>1 + i · n</span></span>",
+      "note": "Por dentro: a base é o valor atual A.",
+      "source": "Descontos.pdf"
+    },
+    {
+      "id": "ars",
+      "group": "Descontos",
+      "title": "Valor atual — racional simples",
+      "text": "A = N / (1 + i · n)",
+      "html": "A = <span class=\"frac\"><span>N</span><span>1 + i · n</span></span>",
+      "note": "",
+      "source": "Descontos.pdf"
+    },
+    {
+      "id": "arc",
+      "group": "Descontos",
+      "title": "Valor atual — racional composto",
+      "text": "A = N / (1 + i)ⁿ",
+      "html": "A = <span class=\"frac\"><span>N</span><span>(1 + i)<sup>n</sup></span></span>",
+      "note": "",
+      "source": "Descontos.pdf"
+    },
+    {
+      "id": "drc",
+      "group": "Descontos",
+      "title": "Desconto racional composto",
+      "text": "Dᵣ = N · [1 − (1 + i)⁻ⁿ]",
+      "html": "D<sub>r</sub> = N · [1 − (1 + i)<sup>−n</sup>]",
+      "note": "",
+      "source": "Descontos.pdf"
+    },
+    {
+      "id": "dcs",
+      "group": "Descontos",
+      "title": "Desconto comercial simples",
+      "text": "D𝚌 = N · d · n",
+      "html": "D<sub>c</sub> = N · d · n",
+      "note": "Por fora: a base é N. Usa-se d para a taxa de desconto comercial.",
+      "source": "Descontos.pdf — notação d no lugar de i"
+    },
+    {
+      "id": "acs",
+      "group": "Descontos",
+      "title": "Valor atual — comercial simples",
+      "text": "A = N · (1 − d · n)",
+      "html": "A = N · (1 − d · n)",
+      "note": "Para valor atual positivo: d · n < 1, com N > 0 e d, n ≥ 0.",
+      "source": "Descontos.pdf — notação d no lugar de i"
+    },
+    {
+      "id": "acc",
+      "group": "Descontos",
+      "title": "Valor atual — comercial composto",
+      "text": "A = N · (1 − d)ⁿ",
+      "html": "A = N · (1 − d)<sup>n</sup>",
+      "note": "No uso usual: 0 ≤ d < 1.",
+      "source": "Descontos.pdf — notação d no lugar de i"
+    },
+    {
+      "id": "dcc",
+      "group": "Descontos",
+      "title": "Desconto comercial composto",
+      "text": "D𝚌 = N · [1 − (1 − d)ⁿ]",
+      "html": "D<sub>c</sub> = N · [1 − (1 − d)<sup>n</sup>]",
+      "note": "",
+      "source": "Descontos.pdf — notação d no lugar de i"
+    },
+    {
+      "id": "relacaod",
+      "group": "Descontos",
+      "title": "Comercial × racional — simples",
+      "text": "D𝚌 = Dᵣ · (1 + i · n)",
+      "html": "D<sub>c</sub> = D<sub>r</sub> · (1 + i · n)",
+      "note": "Mesmo N, prazo n e mesmo valor numérico de taxa (d = i). Não aplicar a taxas diferentes.",
+      "source": "Descontos.pdf"
+    },
+    {
+      "id": "vp",
+      "group": "Rendas e PRICE",
+      "title": "Valor atual postecipado / PRICE",
+      "text": "A = P · [(1 + i)ⁿ − 1] / [i · (1 + i)ⁿ]",
+      "html": "A = P · <span class=\"frac\"><span>(1 + i)<sup>n</sup> − 1</span><span>i · (1 + i)<sup>n</sup></span></span>",
+      "note": "n parcelas iguais; primeira em t = 1. É a mesma fórmula nos PDFs de PRICE e de séries.",
+      "source": "PRICE.pdf; Serie de pagamentos.pdf"
+    },
+    {
+      "id": "pricep",
+      "group": "Rendas e PRICE",
+      "title": "Prestação do sistema PRICE",
+      "text": "P = A · i · (1 + i)ⁿ / [(1 + i)ⁿ − 1]",
+      "html": "P = A · <span class=\"frac\"><span>i · (1 + i)<sup>n</sup></span><span>(1 + i)<sup>n</sup> − 1</span></span>",
+      "note": "Rearranjo da fórmula de valor atual, sem encargos extras; parcelas iguais e taxa constante.",
+      "source": "PRICE.pdf — fórmula isolada para P"
+    },
+    {
+      "id": "vf",
+      "group": "Rendas e PRICE",
+      "title": "Valor futuro postecipado",
+      "text": "F = P · [(1 + i)ⁿ − 1] / i",
+      "html": "F = P · <span class=\"frac\"><span>(1 + i)<sup>n</sup> − 1</span><span>i</span></span>",
+      "note": "Valor em t = n, imediatamente após a última parcela.",
+      "source": "Serie de pagamentos.pdf"
+    },
+    {
+      "id": "vpant",
+      "group": "Rendas e PRICE",
+      "title": "Valor atual antecipado",
+      "text": "Aₐₙₜ = Aₚₒₛₜ · (1 + i)",
+      "html": "A<sub>ant</sub> = A<sub>post</sub> · (1 + i)",
+      "note": "Primeira parcela em t = 0; mesmos P, i e n.",
+      "source": "Serie de pagamentos.pdf"
+    },
+    {
+      "id": "vfant",
+      "group": "Rendas e PRICE",
+      "title": "Valor futuro antecipado",
+      "text": "Fₐₙₜ = Fₚₒₛₜ · (1 + i)",
+      "html": "F<sub>ant</sub> = F<sub>post</sub> · (1 + i)",
+      "note": "Valor em t = n; pagamentos em 0, 1, …, n − 1.",
+      "source": "Serie de pagamentos.pdf"
+    },
+    {
+      "id": "perp",
+      "group": "Rendas e PRICE",
+      "title": "Perpetuidade simples",
+      "text": "A = P / i",
+      "html": "A = <span class=\"frac\"><span>P</span><span>i</span></span>",
+      "note": "P constante, i > 0; primeira parcela em t = 1.",
+      "source": "Serie de pagamentos.pdf"
+    },
+    {
+      "id": "perpdif",
+      "group": "Rendas e PRICE",
+      "title": "Perpetuidade diferida",
+      "text": "A₀ = P / [i · (1 + i)ᵏ]",
+      "html": "A<sub>0</sub> = <span class=\"frac\"><span>P</span><span>i · (1 + i)<sup>k</sup></span></span>",
+      "note": "k períodos adicionais de adiamento; primeira parcela em t = k + 1. Corrige a expressão P/[i·(1+g)] do PDF, cujo g não foi definido.",
+      "source": "Serie de pagamentos.pdf — expressão corrigida por desconto do valor P/i por k períodos"
+    },
+    {
+      "id": "par",
+      "group": "PA e PG",
+      "title": "PA — razão",
+      "text": "r = aₙ₊₁ − aₙ",
+      "html": "r = a<sub>n+1</sub> − a<sub>n</sub>",
+      "note": "",
+      "source": "PA e PG.pdf"
+    },
+    {
+      "id": "patermo",
+      "group": "PA e PG",
+      "title": "PA — termo geral",
+      "text": "aₘ = a₁ + (m − 1) · r",
+      "html": "a<sub>m</sub> = a<sub>1</sub> + (m − 1) · r",
+      "note": "",
+      "source": "PA e PG.pdf"
+    },
+    {
+      "id": "patermos",
+      "group": "PA e PG",
+      "title": "PA — relação entre dois termos",
+      "text": "aₘ = aₙ + (m − n) · r",
+      "html": "a<sub>m</sub> = a<sub>n</sub> + (m − n) · r",
+      "note": "",
+      "source": "PA e PG.pdf"
+    },
+    {
+      "id": "pasoma",
+      "group": "PA e PG",
+      "title": "PA — soma finita",
+      "text": "Sₙ = (a₁ + aₙ) · n / 2",
+      "html": "S<sub>n</sub> = <span class=\"frac\"><span>(a<sub>1</sub> + a<sub>n</sub>) · n</span><span>2</span></span>",
+      "note": "",
+      "source": "PA e PG.pdf"
+    },
+    {
+      "id": "painf",
+      "group": "PA e PG",
+      "title": "PA — soma infinita",
+      "text": "a₁ = r = 0 ⇒ S∞ = 0; nos demais casos, diverge",
+      "html": "a<sub>1</sub> = r = 0 ⇒ S<sub>∞</sub> = 0;<br>nos demais casos, diverge",
+      "note": "Em PA real, não use “±∞” como regra universal: a sequência nula tem soma zero.",
+      "source": "PA e PG.pdf — ressalva à generalização do quadro"
+    },
+    {
+      "id": "pgq",
+      "group": "PA e PG",
+      "title": "PG — razão",
+      "text": "q = aₙ₊₁ / aₙ",
+      "html": "q = <span class=\"frac\"><span>a<sub>n+1</sub></span><span>a<sub>n</sub></span></span>",
+      "note": "Para aₙ ≠ 0.",
+      "source": "PA e PG.pdf"
+    },
+    {
+      "id": "pgtermo",
+      "group": "PA e PG",
+      "title": "PG — termo geral",
+      "text": "aₘ = a₁ · q^(m − 1)",
+      "html": "a<sub>m</sub> = a<sub>1</sub> · q<sup>m − 1</sup>",
+      "note": "",
+      "source": "PA e PG.pdf"
+    },
+    {
+      "id": "pgtermos",
+      "group": "PA e PG",
+      "title": "PG — relação entre dois termos",
+      "text": "aₘ = aₙ · q^(m − n)",
+      "html": "a<sub>m</sub> = a<sub>n</sub> · q<sup>m − n</sup>",
+      "note": "Para expoentes negativos, q ≠ 0.",
+      "source": "PA e PG.pdf"
+    },
+    {
+      "id": "pgsoma",
+      "group": "PA e PG",
+      "title": "PG — soma finita",
+      "text": "Sₙ = a₁ · (qⁿ − 1) / (q − 1)",
+      "html": "S<sub>n</sub> = <span class=\"frac\"><span>a<sub>1</sub> · (q<sup>n</sup> − 1)</span><span>q − 1</span></span>",
+      "note": "q ≠ 1. Se q = 1, Sₙ = n · a₁.",
+      "source": "PA e PG.pdf"
+    },
+    {
+      "id": "pginf",
+      "group": "PA e PG",
+      "title": "PG — soma infinita",
+      "text": "S∞ = a₁ / (1 − q), para |q| < 1",
+      "html": "S<sub>∞</sub> = <span class=\"frac\"><span>a<sub>1</sub></span><span>1 − q</span></span>; |q| &lt; 1",
+      "note": "Abrange também razões negativas com módulo menor que 1; amplia a condição 0 < q < 1 do quadro.",
+      "source": "PA e PG.pdf; IMPA/OBMEP"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Juros .pdf",
+      "libraryId": "libfile_4bccdbae57c08191a559c23d44e58419"
+    },
+    {
+      "name": "Descontos.pdf",
+      "libraryId": "libfile_70de0ac202c8819191f081d4bfdc6870"
+    },
+    {
+      "name": "PRICE.pdf",
+      "libraryId": "libfile_224eaac01dd88191bf01a82551fa7f83"
+    },
+    {
+      "name": "Serie de pagamentos.pdf",
+      "libraryId": "libfile_689d6dd003a88191a2c87c01449222f0"
+    },
+    {
+      "name": "PA e PG.pdf",
+      "libraryId": "libfile_a630261ebc388191913451039daf8bce"
+    }
+  ],
+  "checks": [
+    {
+      "title": "Perpetuidade diferida",
+      "text": "P/[i·(1+g)] foi substituída pelo desconto de P/i por k períodos, com primeiro pagamento em k+1. Não confundir adiamento com perpetuidade crescente."
+    },
+    {
+      "title": "PA e PG",
+      "text": "A PA nula tem soma infinita zero. Para a PG convergente, a condição geral é |q| < 1."
+    },
+    {
+      "title": "Notação",
+      "text": "A taxa comercial foi chamada d para diferenciá-la de i. O PDF usa i nas duas modalidades. A relação D𝚌 = Dᵣ(1+in) requer o mesmo valor numérico de taxa."
+    }
+  ],
+  "references": [
+    {
+      "name": "CECIERJ — Matemática Financeira e Análise de Investimentos",
+      "url": "https://canal.cecierj.edu.br/012016/d477f2f77a93e854d511fb69c11eb948.pdf"
+    },
+    {
+      "name": "IMPA/OBMEP — Progressões Geométricas",
+      "url": "https://portaldaobmep.impa.br/index.php/modulo/ver?a=1&modulo=80"
+    }
+  ]
+}
