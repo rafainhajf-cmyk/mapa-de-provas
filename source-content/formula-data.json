@@ -1,7 +1,7 @@
 {
   "title": "Formulário de Matemática Financeira",
-  "scope": "Compilação dos cinco PDFs enviados. Não representa, por si só, todas as fórmulas dos 11 tópicos do índice.",
-  "legend": "C: capital · M: montante · J: juros · A: valor atual/financiado · N: valor nominal · D: desconto · P: prestação · F: valor futuro · i: taxa de juros · d: taxa comercial · n: períodos/parcelas · r/q: razão de PA/PG. Taxas em decimal e na mesma unidade do prazo. Nas fórmulas com divisão por i, use i ≠ 0; para séries finitas com i = 0, A = F = n·P.",
+  "scope": "Compilação dos cinco PDFs enviados, com complemento de capitalização contínua solicitado pelo usuário. Não representa, por si só, todas as fórmulas dos 11 tópicos do índice.",
+  "legend": "C: capital · M: montante · J: juros · A: valor atual/financiado · N: valor nominal · D: desconto · P: prestação · F: valor futuro · i: taxa de juros · d: taxa comercial · n: períodos/parcelas · r/q: razão de PA/PG. Taxas em decimal e na mesma unidade do prazo. Nas fórmulas com divisão por i, use i ≠ 0; para séries finitas com i = 0, A = F = n·P. Na contínua: δ é a taxa instantânea; t é o tempo na mesma unidade.",
   "formulas": [
     {
       "id": "relacao",
@@ -47,6 +47,15 @@
       "html": "J = C · [(1 + i)<sup>n</sup> − 1]",
       "note": "",
       "source": "Juros .pdf"
+    },
+    {
+      "id": "continua",
+      "group": "Juros",
+      "title": "Capitalização contínua — montante",
+      "text": "M = C · e^(δ · t)",
+      "html": "M = C · e<sup>δ · t</sup>",
+      "note": "δ: taxa contínua em decimal por unidade de tempo; t: prazo nessa unidade; e ≈ 2,71828. Alguns materiais usam i ou i꜀ no lugar de δ. Não substituir uma taxa efetiva diretamente por δ.",
+      "source": "Complemento solicitado pelo usuário em 24/10/2026; capitalização contínua."
     },
     {
       "id": "taxaeq",

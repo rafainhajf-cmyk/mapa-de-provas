@@ -139,6 +139,13 @@
           "mimeType": "text/plain",
           "modifiedAt": "2026-10-24T23:05:00Z",
           "url": "formulas.html"
+        },
+        {
+          "id": "matfin-formulas-continua",
+          "title": "Capitalização contínua: fórmula do montante",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:25:00Z",
+          "url": "formulas.html"
         }
       ],
       "subject": "Matemática Financeira"
@@ -10270,6 +10277,34 @@
             ]
           }
         ]
+      },
+      {
+        "id": "matfin-formulas-continua",
+        "modifiedAt": "2026-10-24T23:25:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Capitalização contínua: fórmula do montante",
+        "category": "Matemática Financeira",
+        "summary": "M = C · e^(δ · t)",
+        "source": "Complemento solicitado pelo usuário em 24/10/2026.",
+        "contentSections": [
+          {
+            "title": "Montante com capitalização contínua",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "M = C · e^(δ · t)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "δ: taxa contínua em decimal por unidade de tempo; t: prazo nessa unidade; e ≈ 2,71828. Alguns materiais usam i ou i꜀ no lugar de δ. Não substituir uma taxa efetiva diretamente por δ."
+              }
+            ]
+          }
+        ]
       }
     ],
     "findings": [],
@@ -11216,7 +11251,9 @@
         {
           "id": "matfin-topico-05",
           "title": "Capitalização Contínua",
-          "fileIds": []
+          "fileIds": [
+            "matfin-formulas-continua"
+          ]
         },
         {
           "id": "matfin-topico-06",
