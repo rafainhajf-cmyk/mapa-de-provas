@@ -97,3 +97,5 @@ body:has(.study-note-dialog[open]){overflow:hidden}
 .difficulty-page .uniform-subjects>p{margin:4px 0 8px;line-height:1.4;font-size:12px}
 .difficulty-page footer{margin-top:12px;padding-top:10px;font-size:10px}
 @media(max-width:760px){.difficulty-page:not(.reading-mode) main>.page{padding:12px}.difficulty-page .difficulty-intro h1{font-size:23px}.difficulty-page .difficulty-section-heading{flex-wrap:wrap}.difficulty-page .difficulty-content-name{padding:8px 10px}}
+
+.difficulty-page #subjectResources .subject-resource-link{padding:7px 10px;margin:0 0 8px;gap:10px;border-radius:6px}.difficulty-page #subjectResources .subject-resource-link>.primary{font-size:11px;padding:7px 10px}.difficulty-page #subjectResources .subject-resource-link small,.difficulty-page #subjectResources .subject-resource-link>a:last-child{font-size:10px}
