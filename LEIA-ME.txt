@@ -1,0 +1,42 @@
+MAPA FISCAL RAFAEL — ACESSO COM SENHA ÚNICA
+
+Esta versão inclui tela de entrada, sessão de 24 horas e botão Sair do acesso.
+A senha é conferida no servidor. HTML, dados, imagens e PDFs só são enviados
+após a autenticação. Trocar a senha invalida as sessões anteriores.
+
+PUBLICAR NO PROJETO EXISTENTE
+1. Extraia o ZIP.
+2. No Mac, abra o Terminal na pasta mapa-fiscal-rafael-login.
+   Dica: digite cd e um espaço, arraste a pasta para o Terminal e pressione Enter.
+3. Execute: bash publicar.sh
+4. Siga o login oficial da Vercel que aparecer. Use sua conta do workspace
+   rafainhajf-cmyks-projects. O script publica SOMENTE no projeto existente
+   mapa-fiscal-rafael, ID prj_q7NGHozosJYLhohTIEj5jch9VL8u.
+5. Ao concluir, o Terminal mostra o endereço e a senha única. Ela também fica
+   em SENHA-DE-ACESSO.txt no seu computador. Esse arquivo não vai para o site.
+
+É necessário Node.js 22 ou superior: https://nodejs.org
+O envio por Vercel Drop é voltado ao site estático; use o script acima para
+publicar esta versão, que inclui verificação no servidor.
+
+AJUSTE ÚNICO NA VERCEL
+Se o projeto ainda exigir login da própria Vercel, desative Vercel Authentication
+nas configurações de Deployment Protection, mantendo o login do aplicativo.
+
+LINKS ANTIGOS
+O login protege a NOVA publicação. O endereço antigo do ChatGPT Sites e as
+publicações antigas da Vercel não recebem essa proteção automaticamente.
+Depois de conferir a nova versão, restrinja o site antigo e exclua na Vercel
+as versões públicas antigas que não quiser manter disponíveis.
+Links do Google Drive continuam respeitando as permissões próprias do Drive.
+
+SENHA E CONVIDADOS
+Compartilhe o endereço da nova publicação e a senha, sem sua conta da Vercel.
+Todos usam a mesma senha. Não existem contas nem permissões individuais.
+Executar publicar.sh novamente troca a senha para todos.
+Não publique nem compartilhe SENHA-DE-ACESSO.txt como arquivo do site.
+
+VERIFICAÇÃO
+Teste em janela anônima: antes de entrar, um PDF direto deve redirecionar para
+a tela de senha. Depois de entrar, os mapas e PDFs devem abrir. Ao sair, o
+conteúdo volta a exigir senha.

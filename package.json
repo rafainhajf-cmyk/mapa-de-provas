@@ -1,0 +1,8 @@
+{
+  "name": "mapa-fiscal-rafael-login",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node scripts/build.mjs", "test": "node --test test.mjs" },
+  "engines": { "node": ">=22" },
+  "dependencies": { "iron-session": "9.0.1" }
+}
