@@ -7617,8 +7617,8 @@
         "kind": "study-note",
         "topic": "Balança de pagamento",
         "category": "Macroeconomia",
-        "summary": "2 página(s) · material original enviado, com imagens e quadros preservados.",
-        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "summary": "Estrutura do balanço de pagamentos e conta financeira: ativos, passivos, convenção BPM6 e exemplos de sinais.",
+        "source": "PDF e anotações enviados pelo usuário em 24/10/2026; organização e distinções sobre sinais conferidas na Nota Metodológica nº 1 do BCB (BPM6), seções 3.1 a 3.4.",
         "pageCount": 2,
         "pdfAsset": "assets/macroeconomia-balanca-de-pagamento.pdf",
         "pdfPages": [
@@ -7638,7 +7638,254 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Balanço de pagamentos",
         "studyGroupOrder": 3,
-        "studyOrder": 0
+        "studyOrder": 0,
+        "preferStructuredText": true,
+        "contentSections": [
+          {
+            "title": "Estrutura do balanço de pagamentos",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O balanço de pagamentos registra transações entre residentes e não residentes durante um período. Siga esta ordem: transações correntes → conta capital → conta financeira → erros e omissões."
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Grupo",
+                    "Composição / exemplos"
+                  ],
+                  [
+                    "1. Balança comercial",
+                    "Exportações e importações de bens."
+                  ],
+                  [
+                    "2. Serviços",
+                    "Manufatura sobre insumos de terceiros; manutenção e reparos; transportes; viagens; construção; seguros; serviços financeiros; outros serviços."
+                  ],
+                  [
+                    "3. Renda primária",
+                    "Salários e ordenados; renda de investimentos (lucros, dividendos e juros); demais rendas primárias."
+                  ],
+                  [
+                    "4. Renda secundária",
+                    "Transferências correntes, como transferências pessoais sem contraprestação."
+                  ],
+                  [
+                    "Transações correntes (TC)",
+                    "Soma dos saldos de bens, serviços, renda primária e renda secundária: 1 + 2 + 3 + 4."
+                  ],
+                  [
+                    "5. Conta capital (CK)",
+                    "Transferências de capital e transações com ativos não financeiros não produzidos."
+                  ],
+                  [
+                    "6. Conta financeira (CF)",
+                    "Investimento direto; investimento em carteira; derivativos; outros investimentos; ativos de reserva."
+                  ],
+                  [
+                    "7. Erros e omissões (EO)",
+                    "Ajuste das discrepâncias estatísticas entre os registros."
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Conta financeira: ativos e passivos",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Olhe sempre pela perspectiva dos residentes no Brasil. Ativos externos são direitos dos residentes contra não residentes; passivos externos são obrigações de residentes perante não residentes, incluindo participações de estrangeiros em empresas brasileiras."
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Pergunta",
+                    "ATIVOS: aplicação de residentes no exterior",
+                    "PASSIVOS: aplicação de não residentes no Brasil"
+                  ],
+                  [
+                    "Quem investe?",
+                    "Residente no Brasil adquire um ativo externo.",
+                    "Não residente adquire um direito contra um residente no Brasil."
+                  ],
+                  [
+                    "Exemplo principal",
+                    "Residente compra títulos do Tesouro dos EUA.",
+                    "Fundo estrangeiro compra ações de uma empresa brasileira na B3."
+                  ],
+                  [
+                    "Outros exemplos",
+                    "Ações estrangeiras e investimento direto em empresa no exterior.",
+                    "Investimento estrangeiro em empresa brasileira; empréstimo externo tomado por residente."
+                  ],
+                  [
+                    "Movimento de recursos no exemplo simples",
+                    "Aplicação de recursos no exterior, associada à saída de capital.",
+                    "Financiamento recebido do exterior, associado à entrada de capital."
+                  ],
+                  [
+                    "O que aumenta?",
+                    "Os ativos externos dos residentes.",
+                    "Os passivos externos dos residentes."
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "“Passivo” não significa somente dívida com juros: a participação de um estrangeiro no capital de uma empresa brasileira também integra o passivo externo. Imóveis no exterior são tratados por meio de uma unidade residente fictícia no país do imóvel e da participação do investidor nessa unidade (investimento direto)."
+              }
+            ]
+          },
+          {
+            "title": "Sinais no BPM6: coluna não é saldo",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Saldo da conta financeira = aquisição líquida de ativos financeiros − incorrência líquida de passivos financeiros."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Forma abreviada para os exercícios: CF = ΔA − ΔP. Aqui, ΔA e ΔP representam transações financeiras líquidas do período, não toda variação dos estoques patrimoniais."
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Operação",
+                    "Registro na própria coluna",
+                    "Efeito do componente no saldo CF = ΔA − ΔP"
+                  ],
+                  [
+                    "Aumento de ativos",
+                    "ΔA positivo (+)",
+                    "Soma: aumenta o saldo."
+                  ],
+                  [
+                    "Redução de ativos",
+                    "ΔA negativo (−)",
+                    "Reduz o saldo."
+                  ],
+                  [
+                    "Aumento de passivos",
+                    "ΔP positivo (+)",
+                    "É subtraído: reduz o saldo."
+                  ],
+                  [
+                    "Redução de passivos",
+                    "ΔP negativo (−)",
+                    "Subtrair um negativo aumenta o saldo."
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Macete: ATIVO entra direto; PASSIVO entra subtraindo. Aumento de passivo não recebe sinal negativo na sua própria coluna: o efeito negativo aparece porque a fórmula subtrai ΔP."
+              }
+            ]
+          },
+          {
+            "title": "Exemplos: títulos dos EUA e ações na B3",
+            "blocks": [
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Transação isolada",
+                    "Como registrar o componente",
+                    "Contribuição para o saldo"
+                  ],
+                  [
+                    "Residente compra US$ 20 em títulos dos EUA de um não residente",
+                    "Aquisição de ativo externo: ΔA = +20.",
+                    "+20 no componente de investimento em carteira — ativos."
+                  ],
+                  [
+                    "Estrangeiro compra US$ 30 em ações de empresa brasileira de um residente",
+                    "Aumento do passivo externo: ΔP = +30.",
+                    "−30 no componente de investimento em carteira — passivos."
+                  ],
+                  [
+                    "Residente vende US$ 10 em títulos externos a um não residente",
+                    "Redução de ativo externo: ΔA = −10.",
+                    "−10 no componente de ativos."
+                  ],
+                  [
+                    "Residente amortiza US$ 8 de empréstimo externo",
+                    "Redução do passivo externo: ΔP = −8.",
+                    "−(−8) = +8 no componente de passivos."
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Cada linha mostra apenas o componente indicado. O balanço usa partidas dobradas: registre também a contrapartida. Comprar um título externo com um depósito que o residente já mantinha no exterior pode aumentar títulos e reduzir depósitos no mesmo valor; nesse caso, o total de ativos não aumenta. Não conclua o saldo total da CF apenas pelo investimento comprado."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Exemplo com totais líquidos já apurados e contrapartidas consideradas: se ΔA = 40 e ΔP = 70, CF = 40 − 70 = −30, indicando captação líquida de financiamento. Se ΔA = 70 e ΔP = 40, CF = +30, indicando concessão líquida."
+              }
+            ]
+          },
+          {
+            "title": "Fluxo financeiro, patrimônio e entrada de dólares",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A conta financeira registra transações que alteram ativos e passivos externos. A Posição de Investimento Internacional (PII) mostra os estoques em uma data. Câmbio, valorização de ações e outras mudanças também alteram esses estoques, sem necessariamente serem transações da conta financeira."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Portanto, “variação positiva de ativos” neste assunto significa aquisição líquida positiva por transações. Não basta o ativo ficar mais caro. “Saiu/entrou dólar” ajuda nos exemplos de aplicações pagas em dinheiro, mas não define todos os registros: há reinvestimento de lucros, operações sem movimento imediato de caixa e trocas entre ativos."
+              }
+            ]
+          },
+          {
+            "title": "Fechamento do balanço e reservas: não misturar convenções",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Na convenção BPM6 usada nesta leitura: TC + CK + EO = CF. Equivalentemente: EO = CF − TC − CK."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Os ativos de reserva fazem parte da conta financeira. Não some novamente uma variação das reservas por fora da CF quando elas já estiverem incluídas."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O quadro colorido do PDF traz uma apresentação com saldo global e reservas separados. Não aplique automaticamente sua soma TC + CK + CF ao saldo financeiro definido aqui como ativos menos passivos: a apresentação e os sinais precisam ser compatíveis com o enunciado."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Fonte para conferir os sinais e o fechamento: Banco Central do Brasil, Nota Metodológica nº 1 — BPM6, seções 3.1 a 3.4, especialmente Quadro 2: https://www.bcb.gov.br/content/estatisticas/Documents/notas_metodologicas/balanco_pagamentos/bpm6/nm1bpm6p.pdf"
+              }
+            ]
+          }
+        ],
+        "sourceAdditions": [
+          {
+            "date": "2026-10-24",
+            "type": "user-pdf-and-text",
+            "libraryFileId": "libfile_dc8645abb9208191b16dc5059675d67e",
+            "description": "Estrutura do BP e explicação de ativos, passivos e sinais."
+          }
+        ]
       },
       {
         "id": "1Kx5-7SlFbRckbLiWM38hPnV1ScVMJA0j",
@@ -10361,7 +10608,7 @@
     }
   ],
   "studyPreferences": {
-    "sequence": "Seguir o sumário enviado em cada matéria.",
+    "sequence": "Seguir o índice enviado para cada conteúdo, dentro do sumário da matéria. Enquanto o índice específico não for enviado, preservar a sequência existente.",
     "groupRelatedTopics": true,
     "criticalRule": "Marcar como crítico somente quando o usuário indicar dificuldade maior, por mensagem ou botão próprio. Materiais de estudo, sozinhos, não comprovam dificuldade.",
     "macroMicroSeparated": true
