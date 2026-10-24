@@ -24,17 +24,6 @@
       "subject": "AFO e Direito Financeiro"
     },
     {
-      "id": "1ScWP9YQqFT-p08PJ9nUfZ1UIUhjfSkzs",
-      "title": "Macroeconomia, Microeconomia e Finanças Públicas",
-      "url": "https://drive.google.com/drive/folders/1ScWP9YQqFT-p08PJ9nUfZ1UIUhjfSkzs",
-      "path": [
-        "Economia"
-      ],
-      "status": "read",
-      "files": [],
-      "subject": "Economia"
-    },
-    {
       "id": "1RhogbacxFExG07-AJELPrkVUHW6rXQ1m",
       "title": "Língua Portuguesa",
       "url": "https://drive.google.com/drive/folders/1RhogbacxFExG07-AJELPrkVUHW6rXQ1m",
@@ -1224,10 +1213,9 @@
       "title": "Macroeconomia",
       "url": "https://drive.google.com/drive/folders/1oYS6LP81ZS-CuX8diBmHJoPYjih1L_Xr",
       "path": [
-        "Economia",
         "Macroeconomia"
       ],
-      "subject": "Economia",
+      "subject": "Macroeconomia",
       "status": "read",
       "checkedAt": "2026-10-24T12:11:11.159380+00:00",
       "files": [
@@ -1544,10 +1532,9 @@
       "title": "Microeconomia",
       "url": "https://drive.google.com/drive/folders/1g76vFQJ4fhrRVJOp2Dy4igoBiFQZnuHK",
       "path": [
-        "Economia",
         "Microeconomia"
       ],
-      "subject": "Economia",
+      "subject": "Microeconomia",
       "status": "read",
       "checkedAt": "2026-10-24T12:11:11.159380+00:00",
       "files": []
@@ -9966,267 +9953,262 @@
         }
       ]
     },
-    "Economia": {
+    "Macroeconomia": {
       "coverage": "partial",
       "source": "Sequência do sumário do usuário em Conceitos básicos da Macroeconomia objetivos e tipos de mercados.pdf, recebido em 24/10/2026. Arquivos semelhantes agrupados; Microeconomia aguardando materiais.",
       "nodes": [
         {
-          "id": "economia-macro",
-          "title": "Macroeconomia",
+          "id": "macro-topico-01",
+          "title": "Conceitos básicos e sequência da Macroeconomia",
+          "fileIds": [
+            "1BzPVi3sWUYU2DuwF-Fti-XpfCV7X6T9G",
+            "macro-integrada-fgv-mapa"
+          ]
+        },
+        {
+          "id": "macro-topico-02",
+          "title": "Contas nacionais e PIB",
+          "fileIds": [
+            "1EsVS_vDUuTnWt2NbF4EAe1WYDVY7duMd",
+            "1W-BSMn_6JBKivenuYcIsmBIb94ZYyYOt",
+            "1fgQYL6xHH8mEbyCrnqmxlTUiYVRCzoXu",
+            "macro-integrada-fgv-contas"
+          ],
           "children": [
             {
-              "id": "macro-topico-01",
-              "title": "Conceitos básicos e sequência da Macroeconomia",
-              "fileIds": [
-                "1BzPVi3sWUYU2DuwF-Fti-XpfCV7X6T9G",
-                "macro-integrada-fgv-mapa"
-              ]
-            },
-            {
-              "id": "macro-topico-02",
-              "title": "Contas nacionais e PIB",
+              "id": "macro-identidades",
+              "title": "Conceitos e identidades macroeconômicos",
               "fileIds": [
                 "1EsVS_vDUuTnWt2NbF4EAe1WYDVY7duMd",
-                "1W-BSMn_6JBKivenuYcIsmBIb94ZYyYOt",
-                "1fgQYL6xHH8mEbyCrnqmxlTUiYVRCzoXu",
-                "macro-integrada-fgv-contas"
-              ],
-              "children": [
-                {
-                  "id": "macro-identidades",
-                  "title": "Conceitos e identidades macroeconômicos",
-                  "fileIds": [
-                    "1EsVS_vDUuTnWt2NbF4EAe1WYDVY7duMd",
-                    "1W-BSMn_6JBKivenuYcIsmBIb94ZYyYOt"
-                  ]
-                },
-                {
-                  "id": "macro-deflator",
-                  "title": "Produto nominal e produto real e deflator do PIB",
-                  "fileIds": [
-                    "1fgQYL6xHH8mEbyCrnqmxlTUiYVRCzoXu"
-                  ]
-                }
+                "1W-BSMn_6JBKivenuYcIsmBIb94ZYyYOt"
               ]
             },
             {
-              "id": "macro-topico-03",
-              "title": "Balanço de pagamentos",
+              "id": "macro-deflator",
+              "title": "Produto nominal e produto real e deflator do PIB",
               "fileIds": [
-                "1Bh4xhpJXE2eWqBhaw6Ctdu9begrT6hLG"
+                "1fgQYL6xHH8mEbyCrnqmxlTUiYVRCzoXu"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "macro-topico-03",
+          "title": "Balanço de pagamentos",
+          "fileIds": [
+            "1Bh4xhpJXE2eWqBhaw6Ctdu9begrT6hLG"
+          ]
+        },
+        {
+          "id": "macro-topico-04",
+          "title": "Modelo keynesiano e multiplicador",
+          "fileIds": [
+            "1lZlXen9Q8Ou0C6fEqpAZZyWdTVyG9V3l",
+            "macro-integrada-fgv-consumo",
+            "macro-integrada-fgv-multiplicador"
+          ],
+          "children": [
+            {
+              "id": "macro-consumo-poupanca",
+              "title": "Consumo, poupança e investimento",
+              "fileIds": [
+                "macro-integrada-fgv-consumo"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "macro-classica",
+          "title": "Economia Clássica",
+          "fileIds": [
+            "1FqJbnRIrxi523hl6oK0rCh4u4kWLIkOV"
+          ]
+        },
+        {
+          "id": "macro-topico-05",
+          "title": "Moeda e sistema monetário",
+          "fileIds": [
+            "10O1iElzWcjA6lN_x1UzPaMb6wUPchGbS",
+            "1Ix3GFJT_Q7-1tq4VtWMsnaEYSFZ5FKuB",
+            "1Kx5-7SlFbRckbLiWM38hPnV1ScVMJA0j",
+            "1oAlnlnNWY118EHkSRyJaGW9MMg1eUww2",
+            "1XJOvgrB9f0l4-gDY4xRhq5Ek4l5VtEYZ",
+            "12Lsdl6_3cJ1wn8tXR3Gnn9l5K5tD3D83",
+            "macro-integrada-fgv-moeda"
+          ],
+          "children": [
+            {
+              "id": "macro-funcoes",
+              "title": "Funções e atributos da moeda",
+              "fileIds": [
+                "10O1iElzWcjA6lN_x1UzPaMb6wUPchGbS"
               ]
             },
             {
-              "id": "macro-topico-04",
-              "title": "Modelo keynesiano e multiplicador",
+              "id": "macro-demanda",
+              "title": "Demanda por moeda",
               "fileIds": [
-                "1lZlXen9Q8Ou0C6fEqpAZZyWdTVyG9V3l",
-                "macro-integrada-fgv-consumo",
-                "macro-integrada-fgv-multiplicador"
-              ],
-              "children": [
-                {
-                  "id": "macro-consumo-poupanca",
-                  "title": "Consumo, poupança e investimento",
-                  "fileIds": [
-                    "macro-integrada-fgv-consumo"
-                  ]
-                }
+                "macro-integrada-fgv-moeda"
               ]
             },
             {
-              "id": "macro-classica",
-              "title": "Economia Clássica",
+              "id": "macro-oferta",
+              "title": "Oferta de moeda e agregados monetários",
               "fileIds": [
-                "1FqJbnRIrxi523hl6oK0rCh4u4kWLIkOV"
-              ]
-            },
-            {
-              "id": "macro-topico-05",
-              "title": "Moeda e sistema monetário",
-              "fileIds": [
-                "10O1iElzWcjA6lN_x1UzPaMb6wUPchGbS",
                 "1Ix3GFJT_Q7-1tq4VtWMsnaEYSFZ5FKuB",
                 "1Kx5-7SlFbRckbLiWM38hPnV1ScVMJA0j",
-                "1oAlnlnNWY118EHkSRyJaGW9MMg1eUww2",
-                "1XJOvgrB9f0l4-gDY4xRhq5Ek4l5VtEYZ",
-                "12Lsdl6_3cJ1wn8tXR3Gnn9l5K5tD3D83",
                 "macro-integrada-fgv-moeda"
-              ],
-              "children": [
-                {
-                  "id": "macro-funcoes",
-                  "title": "Funções e atributos da moeda",
-                  "fileIds": [
-                    "10O1iElzWcjA6lN_x1UzPaMb6wUPchGbS"
-                  ]
-                },
-                {
-                  "id": "macro-demanda",
-                  "title": "Demanda por moeda",
-                  "fileIds": [
-                    "macro-integrada-fgv-moeda"
-                  ]
-                },
-                {
-                  "id": "macro-oferta",
-                  "title": "Oferta de moeda e agregados monetários",
-                  "fileIds": [
-                    "1Ix3GFJT_Q7-1tq4VtWMsnaEYSFZ5FKuB",
-                    "1Kx5-7SlFbRckbLiWM38hPnV1ScVMJA0j",
-                    "macro-integrada-fgv-moeda"
-                  ]
-                },
-                {
-                  "id": "macro-multiplicador",
-                  "title": "Multiplicador monetário",
-                  "fileIds": [
-                    "1oAlnlnNWY118EHkSRyJaGW9MMg1eUww2",
-                    "macro-integrada-fgv-moeda"
-                  ]
-                },
-                {
-                  "id": "macro-quantitativa",
-                  "title": "Teoria quantitativa da moeda",
-                  "fileIds": [
-                    "1XJOvgrB9f0l4-gDY4xRhq5Ek4l5VtEYZ"
-                  ]
-                }
               ]
             },
             {
-              "id": "macro-topico-06",
-              "title": "Modelo IS–LM e situações específicas",
+              "id": "macro-multiplicador",
+              "title": "Multiplicador monetário",
+              "fileIds": [
+                "1oAlnlnNWY118EHkSRyJaGW9MMg1eUww2",
+                "macro-integrada-fgv-moeda"
+              ]
+            },
+            {
+              "id": "macro-quantitativa",
+              "title": "Teoria quantitativa da moeda",
+              "fileIds": [
+                "1XJOvgrB9f0l4-gDY4xRhq5Ek4l5VtEYZ"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "macro-topico-06",
+          "title": "Modelo IS–LM e situações específicas",
+          "fileIds": [
+            "1-iAbJi6jp2sOlMBKjrJEOFObyQ2MeIfN",
+            "1RfuvCIfwUSjKkIC1UAx7HjczYFNfSrpB",
+            "1c3vLOun6yGWZHbD1-scrK08yNuzZtMzT",
+            "1FqJbnRIrxi523hl6oK0rCh4u4kWLIkOV",
+            "13SyQZWGZzjd7akNk4Yz4HevGeab_alRU"
+          ],
+          "children": [
+            {
+              "id": "macro-fechada",
+              "title": "Economia fechada",
               "fileIds": [
                 "1-iAbJi6jp2sOlMBKjrJEOFObyQ2MeIfN",
                 "1RfuvCIfwUSjKkIC1UAx7HjczYFNfSrpB",
                 "1c3vLOun6yGWZHbD1-scrK08yNuzZtMzT",
                 "1FqJbnRIrxi523hl6oK0rCh4u4kWLIkOV",
                 "13SyQZWGZzjd7akNk4Yz4HevGeab_alRU"
-              ],
-              "children": [
-                {
-                  "id": "macro-fechada",
-                  "title": "Economia fechada",
-                  "fileIds": [
-                    "1-iAbJi6jp2sOlMBKjrJEOFObyQ2MeIfN",
-                    "1RfuvCIfwUSjKkIC1UAx7HjczYFNfSrpB",
-                    "1c3vLOun6yGWZHbD1-scrK08yNuzZtMzT",
-                    "1FqJbnRIrxi523hl6oK0rCh4u4kWLIkOV",
-                    "13SyQZWGZzjd7akNk4Yz4HevGeab_alRU"
-                  ]
-                },
-                {
-                  "id": "macro-aberta",
-                  "title": "Economia aberta e modelo Mundell Fleming"
-                }
               ]
             },
             {
-              "id": "macro-topico-07",
-              "title": "Oferta e demanda agregadas",
+              "id": "macro-aberta",
+              "title": "Economia aberta e modelo Mundell Fleming"
+            }
+          ]
+        },
+        {
+          "id": "macro-topico-07",
+          "title": "Oferta e demanda agregadas",
+          "fileIds": [
+            "macro-integrada-fgv-demanda"
+          ]
+        },
+        {
+          "id": "macro-topico-08",
+          "title": "Curva de Phillips e inflação",
+          "fileIds": [
+            "1BsQ2o-gbM0Bv1P_fkL5RbLAWDOOfR6rM",
+            "1lB34k2Zx6dtP-py8KpGqfbE1DYQs4LUP",
+            "1UIVkdg5URRQU7jL2uwX8OXJ9IZktEjEJ"
+          ],
+          "children": [
+            {
+              "id": "macro-phillips",
+              "title": "Curvas de Phillips",
               "fileIds": [
-                "macro-integrada-fgv-demanda"
+                "1BsQ2o-gbM0Bv1P_fkL5RbLAWDOOfR6rM"
               ]
             },
             {
-              "id": "macro-topico-08",
-              "title": "Curva de Phillips e inflação",
+              "id": "macro-inflacao",
+              "title": "Inflação e índices de preços",
               "fileIds": [
-                "1BsQ2o-gbM0Bv1P_fkL5RbLAWDOOfR6rM",
                 "1lB34k2Zx6dtP-py8KpGqfbE1DYQs4LUP",
                 "1UIVkdg5URRQU7jL2uwX8OXJ9IZktEjEJ"
-              ],
-              "children": [
-                {
-                  "id": "macro-phillips",
-                  "title": "Curvas de Phillips",
-                  "fileIds": [
-                    "1BsQ2o-gbM0Bv1P_fkL5RbLAWDOOfR6rM"
-                  ]
-                },
-                {
-                  "id": "macro-inflacao",
-                  "title": "Inflação e índices de preços",
-                  "fileIds": [
-                    "1lB34k2Zx6dtP-py8KpGqfbE1DYQs4LUP",
-                    "1UIVkdg5URRQU7jL2uwX8OXJ9IZktEjEJ"
-                  ]
-                }
-              ]
-            },
-            {
-              "id": "macro-topico-09",
-              "title": "Políticas fiscal e monetária",
-              "fileIds": [
-                "1PLxYIjSQsQYTg5y-lR4Jru82Z05A6Vog",
-                "1X3xVr8PiO1BbKLLx8qc5isZJTAETrXCr",
-                "1ps9olopFw4IQQ9CejNN9mAToPCS1KHnA",
-                "1JKKHVr6GN5V7Mq1k78gGaUz1JXYRQVc3",
-                "macro-integrada-fgv-politicas"
-              ],
-              "children": [
-                {
-                  "id": "macro-fiscal",
-                  "title": "Política fiscal e equivalência ricardiana",
-                  "fileIds": [
-                    "1PLxYIjSQsQYTg5y-lR4Jru82Z05A6Vog",
-                    "1X3xVr8PiO1BbKLLx8qc5isZJTAETrXCr",
-                    "macro-integrada-fgv-politicas"
-                  ]
-                },
-                {
-                  "id": "macro-monetaria",
-                  "title": "Política monetária e seus instrumentos",
-                  "fileIds": [
-                    "1ps9olopFw4IQQ9CejNN9mAToPCS1KHnA",
-                    "1JKKHVr6GN5V7Mq1k78gGaUz1JXYRQVc3",
-                    "macro-integrada-fgv-politicas"
-                  ]
-                }
-              ]
-            },
-            {
-              "id": "macro-topico-10",
-              "title": "Regimes e taxas de câmbio",
-              "fileIds": [
-                "1NGtGkEq2VJDzYdFdySQP-Ada0awJB_Uc"
-              ]
-            },
-            {
-              "id": "macro-topico-11",
-              "title": "Crescimento econômico e Modelo de Solow",
-              "fileIds": [
-                "1SBTV-pQTA1qZF55yyjVGUdcCpIvepMws"
-              ],
-              "children": [
-                {
-                  "id": "macro-solow",
-                  "title": "Modelo de Solow",
-                  "fileIds": [
-                    "1SBTV-pQTA1qZF55yyjVGUdcCpIvepMws"
-                  ]
-                },
-                {
-                  "id": "macro-endogeno",
-                  "title": "Crescimento endógeno e outros modelos"
-                }
-              ]
-            },
-            {
-              "id": "macro-revisao-integrada",
-              "title": "Revisão integrada e comparações de Macroeconomia",
-              "fileIds": [
-                "macro-integrada-fgv-revisao"
               ]
             }
           ]
         },
         {
-          "id": "economia-micro",
-          "title": "Microeconomia"
+          "id": "macro-topico-09",
+          "title": "Políticas fiscal e monetária",
+          "fileIds": [
+            "1PLxYIjSQsQYTg5y-lR4Jru82Z05A6Vog",
+            "1X3xVr8PiO1BbKLLx8qc5isZJTAETrXCr",
+            "1ps9olopFw4IQQ9CejNN9mAToPCS1KHnA",
+            "1JKKHVr6GN5V7Mq1k78gGaUz1JXYRQVc3",
+            "macro-integrada-fgv-politicas"
+          ],
+          "children": [
+            {
+              "id": "macro-fiscal",
+              "title": "Política fiscal e equivalência ricardiana",
+              "fileIds": [
+                "1PLxYIjSQsQYTg5y-lR4Jru82Z05A6Vog",
+                "1X3xVr8PiO1BbKLLx8qc5isZJTAETrXCr",
+                "macro-integrada-fgv-politicas"
+              ]
+            },
+            {
+              "id": "macro-monetaria",
+              "title": "Política monetária e seus instrumentos",
+              "fileIds": [
+                "1ps9olopFw4IQQ9CejNN9mAToPCS1KHnA",
+                "1JKKHVr6GN5V7Mq1k78gGaUz1JXYRQVc3",
+                "macro-integrada-fgv-politicas"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "macro-topico-10",
+          "title": "Regimes e taxas de câmbio",
+          "fileIds": [
+            "1NGtGkEq2VJDzYdFdySQP-Ada0awJB_Uc"
+          ]
+        },
+        {
+          "id": "macro-topico-11",
+          "title": "Crescimento econômico e Modelo de Solow",
+          "fileIds": [
+            "1SBTV-pQTA1qZF55yyjVGUdcCpIvepMws"
+          ],
+          "children": [
+            {
+              "id": "macro-solow",
+              "title": "Modelo de Solow",
+              "fileIds": [
+                "1SBTV-pQTA1qZF55yyjVGUdcCpIvepMws"
+              ]
+            },
+            {
+              "id": "macro-endogeno",
+              "title": "Crescimento endógeno e outros modelos"
+            }
+          ]
+        },
+        {
+          "id": "macro-revisao-integrada",
+          "title": "Revisão integrada e comparações de Macroeconomia",
+          "fileIds": [
+            "macro-integrada-fgv-revisao"
+          ]
         }
       ]
+    },
+    "Microeconomia": {
+      "coverage": "partial",
+      "source": "Área independente de Microeconomia. Materiais ainda não enviados.",
+      "nodes": []
     }
   },
   "subjectResources": [
@@ -10255,5 +10237,8 @@
       "sectionCount": 25,
       "assessment": "not-assessed"
     }
-  ]
+  ],
+  "subjectAliases": {
+    "Economia": "Macroeconomia"
+  }
 }
