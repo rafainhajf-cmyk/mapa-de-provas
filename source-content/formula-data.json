@@ -58,6 +58,24 @@
       "source": "Complemento solicitado pelo usuário em 24/10/2026; capitalização contínua."
     },
     {
+      "id": "efetiva-instantanea",
+      "group": "Juros",
+      "title": "Taxa efetiva → instantânea",
+      "text": "δ = ln(1 + iₑf)",
+      "html": "δ = ln(1 + i<sub>ef</sub>)",
+      "note": "Para o mesmo período, com iₑf > −1. Taxas em decimal. Ex.: 10% efetivos ao ano ⇒ δ = ln(1,10) ≈ 0,09531 = 9,531% ao ano em capitalização contínua.",
+      "source": "Complemento solicitado pelo usuário: equivalência entre as taxas efetiva e instantânea."
+    },
+    {
+      "id": "instantanea-efetiva",
+      "group": "Juros",
+      "title": "Taxa instantânea → efetiva",
+      "text": "iₑf = e^δ − 1",
+      "html": "i<sub>ef</sub> = e<sup>δ</sup> − 1",
+      "note": "Para o mesmo período, com taxas em decimal. Ex.: δ = 0,10 ao ano ⇒ iₑf = e^0,10 − 1 ≈ 0,10517 = 10,517% efetivos ao ano.",
+      "source": "Complemento solicitado pelo usuário: equivalência entre as taxas instantânea e efetiva."
+    },
+    {
       "id": "taxaeq",
       "group": "Taxas equivalentes",
       "title": "Taxas equivalentes — composto",

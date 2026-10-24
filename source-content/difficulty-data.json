@@ -10303,6 +10303,36 @@
                 "text": "δ: taxa contínua em decimal por unidade de tempo; t: prazo nessa unidade; e ≈ 2,71828. Alguns materiais usam i ou i꜀ no lugar de δ. Não substituir uma taxa efetiva diretamente por δ."
               }
             ]
+          },
+          {
+            "title": "Taxa efetiva → instantânea",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "δ = ln(1 + iₑf)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Para o mesmo período, com iₑf > −1. Taxas em decimal. Ex.: 10% efetivos ao ano ⇒ δ = ln(1,10) ≈ 0,09531 = 9,531% ao ano em capitalização contínua."
+              }
+            ]
+          },
+          {
+            "title": "Taxa instantânea → efetiva",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "iₑf = e^δ − 1"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Para o mesmo período, com taxas em decimal. Ex.: δ = 0,10 ao ano ⇒ iₑf = e^0,10 − 1 ≈ 0,10517 = 10,517% efetivos ao ano."
+              }
+            ]
           }
         ]
       }
