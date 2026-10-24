@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { createServer } from 'node:http';
 import { randomBytes } from 'node:crypto';
 import handler from './api/gateway.mjs';
-process.env.STUDY_ACCESS_PASSWORD=randomBytes(24).toString('base64url');
+process.env.STUDY_ACCESS_PASSWORD='483726';
 process.env.STUDY_SESSION_SECRET=randomBytes(48).toString('base64url');
 process.env.STUDY_LOCAL_TEST='1';
 test('entrada, sessão, PDFs, rotas privadas e saída',async()=>{

@@ -28,7 +28,7 @@ export default async function handler(req, res) {
   res.setHeader('X-Robots-Tag','noindex, nofollow');
   const password = process.env.STUDY_ACCESS_PASSWORD;
   const secret = process.env.STUDY_SESSION_SECRET;
-  if (!password || password.length < 16 || !secret || secret.length < 32) return send(res,503,'<h1>Acesso em preparação</h1><p>O responsável precisa concluir a configuração da senha.</p>');
+  if (!password || password.length < 6 || !secret || secret.length < 32) return send(res,503,'<h1>Acesso em preparação</h1><p>O responsável precisa concluir a configuração da senha.</p>');
   try {
     const session = await getIronSession(req, res, { cookieName:'study_access', password:createHash('sha256').update(secret+'\0'+password).digest('hex'), ttl:86400, cookieOptions:{ secure:process.env.STUDY_LOCAL_TEST !== '1', httpOnly:true, sameSite:'strict', path:'/' } });
     const url = new URL(req.url, 'https://'+req.headers.host);
