@@ -1,0 +1,21 @@
+/* Shared, always available navigation for the three study areas. */
+.main-header-navigation{position:fixed;inset:0 0 auto;height:54px;z-index:140;background:#fafcf9f5;border-bottom:1px solid #dce5d9;backdrop-filter:blur(10px);display:flex;align-items:center;justify-content:center;padding:5px 12px;box-sizing:border-box}
+.main-header-navigation nav{display:flex;align-items:center;justify-content:center;gap:8px;min-width:0;max-width:100%}
+.main-header-navigation .main-header-button{display:inline-flex;align-items:center;justify-content:center;padding:9px 15px;border:1px solid #bfd0bd;border-radius:7px;background:#fff;color:#24523d;font:600 13px/1.2 system-ui,sans-serif;text-decoration:none;white-space:nowrap;box-sizing:border-box}
+.main-header-navigation .main-header-button:hover{background:#eaf3e5;border-color:#7f9d7e}
+.main-header-navigation .main-header-button.is-active{background:#1c5141;border-color:#1c5141;color:#fff}
+.main-header-navigation .main-header-button:focus-visible{outline:3px solid #c29b46;outline-offset:2px}
+body.map-page,body.difficulty-page{padding-top:54px}
+.map-page .map-sidebar-drawer,.difficulty-page .study-library-drawer{z-index:160}
+.difficulty-page.reading-mode{padding-top:108px}
+.difficulty-page.reading-mode>main{padding-top:12px}
+.reading-mode .study-reader-toggle{top:64px}
+.reading-mode .study-reader-panel{top:112px}
+.reading-mode .study-reader-heading,.reading-mode .study-search-current-hit{scroll-margin-top:138px}
+.text-edit-toolbar{top:64px}
+.tax-book-page{padding-top:108px}
+.tax-book-page #reading{padding-top:12px}
+.tax-book-page .floating-menu{top:64px}
+.tax-book-page .outline{top:112px;height:calc(100dvh - 124px);bottom:12px}
+.tax-book-page .book-section{scroll-margin-top:132px}
+@media(max-width:760px){.main-header-navigation{padding:5px 6px;height:52px}.main-header-navigation nav{gap:4px;width:100%}.main-header-navigation .main-header-button{font-size:11px;padding:9px 6px;white-space:normal;text-align:center;flex:1;min-height:38px}.difficulty-page.reading-mode,.tax-book-page{padding-top:104px}.reading-mode .study-reader-toggle,.tax-book-page .floating-menu{top:60px}.reading-mode .study-reader-panel,.tax-book-page .outline{top:108px}.text-edit-toolbar,.editing-study-text .text-edit-toolbar{top:60px}.reading-mode .study-reader-heading,.reading-mode .study-search-current-hit{scroll-margin-top:132px}}
