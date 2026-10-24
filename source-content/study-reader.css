@@ -2,3 +2,30 @@
 .study-reader-critical{padding:7px 12px;border:1px solid #e0cac1;border-radius:6px;color:#8b4a35;background:#fff;font-size:11px;cursor:pointer}.study-reader-critical[aria-pressed=true],.critical-badge{color:#9d3127;background:#fff0ed;border-color:#e7aba2;font-weight:700}.study-reader-heading.is-critical{border-left:4px solid #be4d3d;padding-left:12px}.study-reader-section-tools{flex-wrap:wrap}.critical-badge{display:inline-block;padding:3px 8px;font-size:12px;border-radius:5px}.economics-area{padding:20px 0}.economics-area>h4{font-size:21px;color:#234d3b;margin:0 0 16px}
 /* A single full-page reader for every entry point, matching the tax booklet. */
 .difficulty-page.reading-mode{background:#fafbf8}.difficulty-page.reading-mode>main{margin:0 auto;max-width:1080px;padding:88px 48px 80px}.reading-mode main>.topbar,.reading-mode .difficulty-intro,.reading-mode #difficultyStats,.reading-mode .difficulty-tabs,.reading-mode .difficulty-section-heading,.reading-mode #subjectResources,.reading-mode .difficulty-filters,.reading-mode main>.page>footer,.reading-mode #studyLibraryDrawer{display:none!important}.reading-mode main>.page{max-width:none;margin:0;padding:0}.content-reading-toolbar{display:flex;justify-content:space-between;align-items:center;gap:18px;border-bottom:1px solid #dfe7e1;padding-bottom:22px}.content-reading-toolbar>span{font-size:10px;letter-spacing:1.4px;color:#66766f;white-space:nowrap}.content-reading-toolbar .secondary{font-size:12px;background:transparent;border:0;padding:0;color:#1b6654}.content-book-title{font:400 39px/1.2 Georgia,serif;letter-spacing:-.4px;color:#183c35;margin:34px 0 12px}.reading-mode .uniform-topic-area{font-size:12px;color:#66766f}.reading-mode .study-reading-hint{font-size:14px;line-height:1.8;color:#66766f;margin-bottom:30px}.reading-mode .topic-reading{margin-top:0}.reading-mode .reader-document{padding-top:34px;border-color:#dfe7e1}.reading-mode .study-reader-heading{scroll-margin-top:82px}.reading-mode .study-reader-toggle{top:16px;bottom:auto;left:20px;z-index:185;padding:11px 17px;border:1px solid #cddbd2;border-radius:28px;background:#fff;box-shadow:0 4px 20px #163f3614}.reading-mode .study-reader-panel{top:72px;bottom:20px;left:20px;width:328px;max-width:calc(100vw - 40px);border:1px solid #dfe7e1;border-radius:14px;box-shadow:0 14px 55px #122b2130;padding:25px 22px}.reading-mode .study-reader-panel-head{padding-bottom:13px;border-bottom:1px solid #dfe7e1}.reading-mode .study-reader-index-row{border-radius:6px;padding:6px}.reading-mode .study-reader-index-row:has(button:focus-visible){background:#e9f2e9}.reading-mode .reader-document .study-note-table table,.reading-mode .reader-document .study-comparison table{table-layout:auto;width:100%}.reading-mode .reader-document .study-note-table th,.reading-mode .reader-document .study-comparison th{background:#eaf0e8}.reading-mode .reader-document .study-note-table td,.reading-mode .reader-document .study-comparison td{background:#fff}.reading-mode .reader-document .study-note-table tr:nth-child(even) td,.reading-mode .reader-document .study-comparison tr:nth-child(even) td{background:#f7f9f5}@media(max-width:1000px){.difficulty-page.reading-mode>main{padding:86px 32px 60px}}@media(max-width:760px){.difficulty-page.reading-mode>main{padding:78px 18px 50px}.reading-mode .study-reader-toggle{top:12px;left:12px;padding:9px 14px}.reading-mode .study-reader-panel{left:12px;right:12px;top:64px;bottom:12px;width:auto;max-width:none}.content-book-title{font-size:32px}.content-reading-toolbar{gap:10px}.content-reading-toolbar>span{font-size:9px}.reading-mode .reader-document h3{font-size:26px}.reading-mode .study-reader-heading{scroll-margin-top:72px}}
+
+/* Dense continuous reading: use the screen instead of empty paper space. */
+.difficulty-page.reading-mode>main{max-width:1440px;padding:66px 28px 36px}
+.reading-mode .topic-reading{max-width:none}
+.reading-mode .content-reading-toolbar{padding-bottom:10px}
+.reading-mode .content-book-title{font-size:31px;margin:18px 0 6px}
+.reading-mode .uniform-topic-area{margin:4px 0}
+.reading-mode .study-reading-hint{margin:8px 0 14px;line-height:1.5;font-size:13px}
+.reading-mode .topic-reading .reader-document{padding:14px 0 18px}
+.reading-mode .reader-document>h3{font-size:24px;margin:0 0 8px}
+.reading-mode .reader-document h4{font-size:18px;margin:18px 0 8px}
+.reading-mode .reader-document p{font-size:15px;line-height:1.6;margin:8px 0}
+.reading-mode .reader-document>.study-reader-file-source{margin:0 0 10px;gap:10px;font-size:11px}
+.reading-mode .study-reader-section-tools{gap:8px;margin:0 0 10px}
+.reading-mode .study-reader-mark,.reading-mode .study-reader-critical{padding:5px 9px}
+.reading-mode .study-continuous-section{padding:8px 0 12px}
+.reading-mode .reader-document .study-note-table td,.reading-mode .reader-document .study-note-table th,.reading-mode .reader-document .study-comparison td,.reading-mode .reader-document .study-comparison th{padding:9px 10px;line-height:1.55}
+.reading-mode .reader-document .study-pdf-page{max-width:none;margin:12px 0;border-radius:5px}
+.reading-mode .study-pdf-page>figcaption{padding:6px 10px}
+.reading-mode .study-pdf-page>a,.reading-mode .study-note-image>a{display:block}
+.reading-mode .study-pdf-page img,.reading-mode .study-note-image img{display:block;width:100%;height:auto;margin:0}
+.reading-mode .study-note-image{margin:12px 0}
+.reading-mode .study-original-pdf{margin:8px 0}
+.reading-mode .compact-original-links{margin:6px 0 10px;font-size:12px;color:#526c5c}
+.compact-original-links>summary{cursor:pointer}
+.compact-original-links>a{display:inline-block;margin:8px 8px 0 0}
+@media(max-width:760px){.difficulty-page.reading-mode>main{padding:62px 12px 28px}.reading-mode .content-book-title{font-size:27px}.reading-mode .reader-document>h3{font-size:22px}}
