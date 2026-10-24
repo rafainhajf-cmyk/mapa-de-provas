@@ -29,3 +29,6 @@
 .compact-original-links>summary{cursor:pointer}
 .compact-original-links>a{display:inline-block;margin:8px 8px 0 0}
 @media(max-width:760px){.difficulty-page.reading-mode>main{padding:62px 12px 28px}.reading-mode .content-book-title{font-size:27px}.reading-mode .reader-document>h3{font-size:22px}}
+
+/* Keep previews at their native size so wider screens do not stretch them vertically. */
+.reading-mode .study-pdf-page img,.reading-mode .study-note-image img{width:auto;max-width:100%;margin:0 auto}
