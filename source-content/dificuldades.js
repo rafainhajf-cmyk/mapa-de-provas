@@ -1,4 +1,4 @@
-import { mountStudyReader, studyFileProgress } from './study-reader.js?v=64';
+import { mountStudyReader, studyFileProgress } from './study-reader.js?v=73';
 let topicReaderCleanup=()=>{}, noteReaderCleanup=()=>{};
 const escapeHTML=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();

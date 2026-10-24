@@ -68,3 +68,13 @@
 .reading-mode .save-caption{font-size:10px;line-height:1.3;margin:3px 0}
 .reading-mode .subject-content-pending{margin:4px 0;font-size:12px}
 @media(max-width:760px){.difficulty-page.reading-mode>main{padding:52px 10px 18px}.reading-mode .reader-document>h3+.study-reader-section-tools{margin-left:0;display:flex}.reading-mode .content-book-title{font-size:25px}}
+
+/* Outline opens as a short list of chapter names; details stay optional. */
+.study-reader-chapter{border-bottom:1px solid #e0e8dc;padding:0;margin:0}
+.study-reader-chapter>summary{padding:10px 2px;color:#173f35;font-size:13px;line-height:1.4;font-weight:600;cursor:pointer;overflow-wrap:anywhere}
+.study-reader-chapter>summary:focus-visible{outline:2px solid #d19833;outline-offset:2px}
+.study-reader-chapter[open]>summary{color:#1b6654}
+.study-reader-chapter-body{padding:0 0 9px 12px;border-left:2px solid #e4ecdf;margin-left:4px}
+.study-reader-chapter-body .study-reader-group{margin:8px 0 3px!important;font-size:10px!important}
+.study-reader-chapter-body .study-reader-index-row{padding:4px 2px}
+.study-reader-chapter-body .study-reader-index-row button{font-size:12px}
