@@ -28,11 +28,11 @@
       "title": "Macroeconomia, Microeconomia e Finanças Públicas",
       "url": "https://drive.google.com/drive/folders/1ScWP9YQqFT-p08PJ9nUfZ1UIUhjfSkzs",
       "path": [
-        "Macroeconomia, Microeconomia e Finanças Públicas"
+        "Economia"
       ],
       "status": "read",
       "files": [],
-      "subject": "Economia e Finanças Públicas"
+      "subject": "Economia"
     },
     {
       "id": "1RhogbacxFExG07-AJELPrkVUHW6rXQ1m",
@@ -482,8 +482,18 @@
         "Princípios e imunidades"
       ],
       "status": "read",
-      "files": [],
-      "subject": "Tributário"
+      "files": [
+        {
+          "id": "1IXcH5u6R_sf0t0YuMsztkvpj2svxae_0",
+          "title": "Imunidade das entidades beneficentes e das fundações públicas.md",
+          "url": "https://drive.google.com/file/d/1IXcH5u6R_sf0t0YuMsztkvpj2svxae_0/view?usp=drivesdk",
+          "mimeType": "text/markdown",
+          "modifiedAt": "2026-10-23T18:26:00.695Z",
+          "size": "789"
+        }
+      ],
+      "subject": "Tributário",
+      "checkedAt": "2026-10-23T18:26:33.716789+00:00"
     },
     {
       "id": "1eRyEFmHymMCl7eMxMTac6Mu9mPBOBCqe",
@@ -586,8 +596,26 @@
         "Competência e legislação tributária"
       ],
       "status": "read",
-      "files": [],
-      "subject": "Tributário"
+      "files": [
+        {
+          "id": "10qTocHojY7EqwYLj0dQZ17LhIaFtpkce",
+          "title": "Retroatividade benigna × interpretação favorável.md",
+          "url": "https://drive.google.com/file/d/10qTocHojY7EqwYLj0dQZ17LhIaFtpkce/view?usp=drivesdk",
+          "mimeType": "text/markdown",
+          "modifiedAt": "2026-10-23T18:48:16.754Z",
+          "size": "632"
+        },
+        {
+          "id": "1qiVA3zEg7Vn13SvdE8pntJdF7WvsIKTT",
+          "title": "Retroatividade benigna × interpretação favorável — imagem original.jpeg",
+          "url": "https://drive.google.com/file/d/1qiVA3zEg7Vn13SvdE8pntJdF7WvsIKTT/view?usp=drivesdk",
+          "mimeType": "image/jpeg",
+          "modifiedAt": "2026-10-23T18:48:27.545Z",
+          "size": "108952"
+        }
+      ],
+      "subject": "Tributário",
+      "checkedAt": "2026-10-23T18:49:02.858270+00:00"
     },
     {
       "id": "1JhnXwfHdTopPT0G4QoHcP8GvWV5O31UK",
@@ -1190,6 +1218,267 @@
           "size": 773
         }
       ]
+    },
+    {
+      "id": "1oYS6LP81ZS-CuX8diBmHJoPYjih1L_Xr",
+      "title": "Macroeconomia",
+      "url": "https://drive.google.com/drive/folders/1oYS6LP81ZS-CuX8diBmHJoPYjih1L_Xr",
+      "path": [
+        "Economia",
+        "Macroeconomia"
+      ],
+      "subject": "Economia",
+      "status": "read",
+      "checkedAt": "2026-10-24T12:11:11.159380+00:00",
+      "files": [
+        {
+          "id": "1Ix3GFJT_Q7-1tq4VtWMsnaEYSFZ5FKuB",
+          "title": "Agregados monetários.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1Ix3GFJT_Q7-1tq4VtWMsnaEYSFZ5FKuB/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:07:41.895Z",
+          "size": 324640,
+          "pageCount": 1
+        },
+        {
+          "id": "1Bh4xhpJXE2eWqBhaw6Ctdu9begrT6hLG",
+          "title": "Balança de pagamento.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1Bh4xhpJXE2eWqBhaw6Ctdu9begrT6hLG/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:08:47.969Z",
+          "size": 293539,
+          "pageCount": 2
+        },
+        {
+          "id": "1Kx5-7SlFbRckbLiWM38hPnV1ScVMJA0j",
+          "title": "Balancete BACEN.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1Kx5-7SlFbRckbLiWM38hPnV1ScVMJA0j/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:08:51.332Z",
+          "size": 51989,
+          "pageCount": 1
+        },
+        {
+          "id": "1BzPVi3sWUYU2DuwF-Fti-XpfCV7X6T9G",
+          "title": "Conceitos básicos da Macroeconomia objetivos e tipos de mercados.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1BzPVi3sWUYU2DuwF-Fti-XpfCV7X6T9G/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:08:54.824Z",
+          "size": 49656,
+          "pageCount": 1
+        },
+        {
+          "id": "1EsVS_vDUuTnWt2NbF4EAe1WYDVY7duMd",
+          "title": "Contas PIB.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1EsVS_vDUuTnWt2NbF4EAe1WYDVY7duMd/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:08:58.298Z",
+          "size": 179836,
+          "pageCount": 1
+        },
+        {
+          "id": "13SyQZWGZzjd7akNk4Yz4HevGeab_alRU",
+          "title": "crowding out .pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/13SyQZWGZzjd7akNk4Yz4HevGeab_alRU/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:01.568Z",
+          "size": 46497,
+          "pageCount": 1
+        },
+        {
+          "id": "1BsQ2o-gbM0Bv1P_fkL5RbLAWDOOfR6rM",
+          "title": "CURVA DE PHILLIPS.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1BsQ2o-gbM0Bv1P_fkL5RbLAWDOOfR6rM/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:04.837Z",
+          "size": 51675,
+          "pageCount": 1
+        },
+        {
+          "id": "1fgQYL6xHH8mEbyCrnqmxlTUiYVRCzoXu",
+          "title": "Deflator do pib.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1fgQYL6xHH8mEbyCrnqmxlTUiYVRCzoXu/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:07.986Z",
+          "size": 40589,
+          "pageCount": 1
+        },
+        {
+          "id": "1X3xVr8PiO1BbKLLx8qc5isZJTAETrXCr",
+          "title": "equivalência ricardiana .pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1X3xVr8PiO1BbKLLx8qc5isZJTAETrXCr/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:11.172Z",
+          "size": 61906,
+          "pageCount": 1
+        },
+        {
+          "id": "1XJOvgrB9f0l4-gDY4xRhq5Ek4l5VtEYZ",
+          "title": "Excesso de moeda.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1XJOvgrB9f0l4-gDY4xRhq5Ek4l5VtEYZ/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:14.420Z",
+          "size": 58447,
+          "pageCount": 1
+        },
+        {
+          "id": "1PLxYIjSQsQYTg5y-lR4Jru82Z05A6Vog",
+          "title": "Fiscal e monetária.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1PLxYIjSQsQYTg5y-lR4Jru82Z05A6Vog/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:18.187Z",
+          "size": 425704,
+          "pageCount": 2
+        },
+        {
+          "id": "10O1iElzWcjA6lN_x1UzPaMb6wUPchGbS",
+          "title": "Funções da moeda.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/10O1iElzWcjA6lN_x1UzPaMb6wUPchGbS/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:21.547Z",
+          "size": 138139,
+          "pageCount": 1
+        },
+        {
+          "id": "1c3vLOun6yGWZHbD1-scrK08yNuzZtMzT",
+          "title": "Inclinação reta.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1c3vLOun6yGWZHbD1-scrK08yNuzZtMzT/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:24.913Z",
+          "size": 117762,
+          "pageCount": 1
+        },
+        {
+          "id": "1lB34k2Zx6dtP-py8KpGqfbE1DYQs4LUP",
+          "title": "Indice de preços.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1lB34k2Zx6dtP-py8KpGqfbE1DYQs4LUP/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:27.949Z",
+          "size": 40852,
+          "pageCount": 1
+        },
+        {
+          "id": "1UIVkdg5URRQU7jL2uwX8OXJ9IZktEjEJ",
+          "title": "Indices.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1UIVkdg5URRQU7jL2uwX8OXJ9IZktEjEJ/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:37.021Z",
+          "size": 341349,
+          "pageCount": 1
+        },
+        {
+          "id": "1ps9olopFw4IQQ9CejNN9mAToPCS1KHnA",
+          "title": "Instrumentos de política monetária.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1ps9olopFw4IQQ9CejNN9mAToPCS1KHnA/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:40.530Z",
+          "size": 383018,
+          "pageCount": 1
+        },
+        {
+          "id": "1RfuvCIfwUSjKkIC1UAx7HjczYFNfSrpB",
+          "title": "Interação e equilíbrio entre IS e LM.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1RfuvCIfwUSjKkIC1UAx7HjczYFNfSrpB/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:43.644Z",
+          "size": 58042,
+          "pageCount": 1
+        },
+        {
+          "id": "1-iAbJi6jp2sOlMBKjrJEOFObyQ2MeIfN",
+          "title": "Is lm.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1-iAbJi6jp2sOlMBKjrJEOFObyQ2MeIfN/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:47.286Z",
+          "size": 401517,
+          "pageCount": 1
+        },
+        {
+          "id": "1FqJbnRIrxi523hl6oK0rCh4u4kWLIkOV",
+          "title": "IS-LM em situações específicas.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1FqJbnRIrxi523hl6oK0rCh4u4kWLIkOV/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:50.304Z",
+          "size": 50623,
+          "pageCount": 1
+        },
+        {
+          "id": "1JKKHVr6GN5V7Mq1k78gGaUz1JXYRQVc3",
+          "title": "Meta selic e inflação.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1JKKHVr6GN5V7Mq1k78gGaUz1JXYRQVc3/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:53.431Z",
+          "size": 75403,
+          "pageCount": 1
+        },
+        {
+          "id": "1SBTV-pQTA1qZF55yyjVGUdcCpIvepMws",
+          "title": "Modelo de Solow, .pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1SBTV-pQTA1qZF55yyjVGUdcCpIvepMws/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:56.524Z",
+          "size": 45394,
+          "pageCount": 1
+        },
+        {
+          "id": "1oAlnlnNWY118EHkSRyJaGW9MMg1eUww2",
+          "title": "multiplicador da base monetária .pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1oAlnlnNWY118EHkSRyJaGW9MMg1eUww2/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:09:59.469Z",
+          "size": 52454,
+          "pageCount": 1
+        },
+        {
+          "id": "1lZlXen9Q8Ou0C6fEqpAZZyWdTVyG9V3l",
+          "title": "Multiplicador Keynesiano.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1lZlXen9Q8Ou0C6fEqpAZZyWdTVyG9V3l/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:10:02.619Z",
+          "size": 89038,
+          "pageCount": 1
+        },
+        {
+          "id": "1W-BSMn_6JBKivenuYcIsmBIb94ZYyYOt",
+          "title": "Pela ótica da despe.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1W-BSMn_6JBKivenuYcIsmBIb94ZYyYOt/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:10:06.032Z",
+          "size": 57698,
+          "pageCount": 1
+        },
+        {
+          "id": "12Lsdl6_3cJ1wn8tXR3Gnn9l5K5tD3D83",
+          "title": "senhoriagem.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/12Lsdl6_3cJ1wn8tXR3Gnn9l5K5tD3D83/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:10:09.049Z",
+          "size": 52170,
+          "pageCount": 1
+        },
+        {
+          "id": "1NGtGkEq2VJDzYdFdySQP-Ada0awJB_Uc",
+          "title": "Taxas de câmbio.pdf",
+          "mimeType": "application/pdf",
+          "url": "https://drive.google.com/file/d/1NGtGkEq2VJDzYdFdySQP-Ada0awJB_Uc/view?usp=drivesdk",
+          "modifiedAt": "2026-10-24T12:10:12.177Z",
+          "size": 99917,
+          "pageCount": 1
+        }
+      ]
+    },
+    {
+      "id": "1g76vFQJ4fhrRVJOp2Dy4igoBiFQZnuHK",
+      "title": "Microeconomia",
+      "url": "https://drive.google.com/drive/folders/1g76vFQJ4fhrRVJOp2Dy4igoBiFQZnuHK",
+      "path": [
+        "Economia",
+        "Microeconomia"
+      ],
+      "subject": "Economia",
+      "status": "read",
+      "checkedAt": "2026-10-24T12:11:11.159380+00:00",
+      "files": []
     }
   ],
   "analysis": {
@@ -7111,6 +7400,839 @@
             "text": "ID\nArquivo exato\nPági\nnas\nCobertura\nP36\nResumo - Reforma Tributária - Bloco 1_ IBS, CBS (LC 214_25,\narts. 1 a 10)(1).pdf\n41\nExtraído; revisão dirigida de recortes\nP37\nResumo - Reforma Tributária - Bloco 2_ IBS, CBS (LC 214_25,\narts. 11 a 26)(1).pdf\n45\nExtraído; revisão dirigida de recortes\nP38\nResumo - Reforma Tributária - Bloco 3_ IBS, CBS (LC 214_25,\narts. 27 a 57)(1).pdf\n51\nExtraído; revisão dirigida de recortes\nP39\nResumo - Reforma Tributária - Bloco 4_ IBS, CBS (LC 214_25,\narts. 58 a 83)(1).pdf\n47\nExtraído; revisão dirigida de recortes\nP40\nResumo - Reforma Tributária - Bloco 5_ Imposto\nSeletivo(1).pdf\n42\nExtraído; revisão dirigida de recortes\nP41\nResumo - Reforma Tributária - Bloco 6_ Código de Defesa do\nContribuinte(1).pdf\n37\nExtraído; leitura integral pendente\nP42\nResumo - Reforma Tributária - Bloco 7_ Processo\nAdministrativo do IBS(1).pdf\n50\nExtraído; leitura integral pendente\nP43\nResumo - Reforma Tributária - Bloco 8_ Comitê Gestor do\nIBS(1).pdf\n63\nExtraído; leitura integral pendente\nP44\nResumo - Sigilo das operações de instituições financeiras.pdf\n29\nExtraído; leitura integral pendente\nP45\nilovepdf_merged.pdf\n335\nExtraído; leitura integral pendente\nA atribuição editorial deve ser confirmada pela folha de rosto de cada original. Os títulos em duas colunas\nsão tratados como material legal comentado do conjunto recebido; esta edição não certifica autoria\neditorial apenas pelo nome do arquivo.\nO ZIP anexado contém um PDF comparativo anterior. Não foi usado como prova de leitura dos originais,\nnem reproduzido como se atendesse à solicitação atual. A inspeção inicial do ZIP foi limitada ao inventário\ndo conteúdo.\nCOMPARAÇÃO LEGISLATIVA | EDIÇÃO DE TRABALHO\nCorte: 18/10/2026 | Cobertura e limites no capítulo 8\n43 / 43\n"
           }
         ]
+      },
+      {
+        "id": "1IXcH5u6R_sf0t0YuMsztkvpj2svxae_0",
+        "modifiedAt": "2026-10-23T18:26:00.695Z",
+        "analyzedAt": "2026-10-23T18:26:33.716789+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Imunidade das entidades beneficentes e das fundações públicas",
+        "category": "Imunidades tributárias",
+        "summary": "Anotação enviada: entidades beneficentes, fundações públicas, APAE e Santa Casa de Misericórdia.",
+        "source": "Anotação enviada pelo usuário. Conteúdo preservado conforme solicitado, sem complementação.",
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "text": "Imunidade das entidades beneficentes e das fundações públicas",
+            "style": "TITLE"
+          },
+          {
+            "type": "paragraph",
+            "text": "Se não tiver ligação com caso concreto eu não entendo nada. Por isso deixo sempre algum exemplo associado."
+          },
+          {
+            "type": "paragraph",
+            "text": "RESUMINDO → IMUNIDADE DAS ENTIDADES BENEFICICIENTES (IMPOSTOS + CONTRIBUIÇÕES SOCIAIS)"
+          },
+          {
+            "type": "paragraph",
+            "text": "IMUNIDADE DAS FUNDAÇÕES PÚBLICAS (IMPOSTOS)"
+          },
+          {
+            "type": "paragraph",
+            "text": "Exemplo:"
+          },
+          {
+            "type": "paragraph",
+            "text": "ENTIDADES BENEFICENTES: A Associação de Pais e Amigos dos Excepcionais (APAE) ou a Santa Casa de Misericórdia."
+          },
+          {
+            "type": "paragraph",
+            "text": "Associação/Fundação privada, sem fins lucrativos e presta assistência médica gratuita/hospitalar em colaboração com o SUS."
+          },
+          {
+            "type": "paragraph",
+            "text": "1. Impostos (IMUNE)"
+          },
+          {
+            "type": "paragraph",
+            "text": "2. Contribuições Sociais para a seguridade social (INSS patronal, PIS/Cofins, CSLL) (IMUNE)"
+          },
+          {
+            "type": "paragraph",
+            "text": "1. Outros tributos (Taxas, Outras Contribuições): PAGA NORMALMENTE"
+          }
+        ]
+      },
+      {
+        "id": "10qTocHojY7EqwYLj0dQZ17LhIaFtpkce",
+        "modifiedAt": "2026-10-23T18:48:16.754Z",
+        "analyzedAt": "2026-10-23T18:49:02.858270+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Retroatividade benigna × interpretação favorável",
+        "category": "Competência e legislação tributária",
+        "summary": "Quadro enviado pelo usuário: aplicação ao tributo e à multa/infração.",
+        "source": "Imagem enviada pelo usuário, com transcrição para pesquisa, sem complementação. Crédito presente na imagem: @bizudoauditor.",
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "TITLE",
+            "text": "Retroatividade benigna × interpretação favorável"
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Conceito (Aplicação da Lei)",
+                "Aplica-se ao TRIBUTO?",
+                "Aplica-se à MULTA/INFRAÇÃO?"
+              ],
+              [
+                "Retroatividade Benigna (Lei mais branda — Art. 106)",
+                "❌ NÃO. O valor do tributo nunca retroage para beneficiar. A lei que vale é a do fato gerador.",
+                "✅ SIM. Retroage se a lei reduzir a multa e o ato não foi julgado em definitivo."
+              ],
+              [
+                "Interpretação Favorável (Em caso de dúvida — Art. 112)",
+                "❌ NÃO. Dúvida sobre o valor do tributo não beneficia o contribuinte.",
+                "✅ SIM. Dúvida sobre a punição sempre beneficia o acusado."
+              ]
+            ]
+          },
+          {
+            "type": "image",
+            "src": "assets/retroatividade-interpretacao-original.jpeg",
+            "alt": "Retroatividade benigna × interpretação favorável",
+            "caption": "@bizudoauditor"
+          }
+        ]
+      },
+      {
+        "id": "1qiVA3zEg7Vn13SvdE8pntJdF7WvsIKTT",
+        "modifiedAt": "2026-10-23T18:48:27.545Z",
+        "analyzedAt": "2026-10-23T18:49:02.858270+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "source-image",
+        "topic": "Retroatividade benigna × interpretação favorável",
+        "category": "Competência e legislação tributária",
+        "summary": "Quadro enviado pelo usuário: aplicação ao tributo e à multa/infração.",
+        "source": "Imagem enviada pelo usuário, com transcrição para pesquisa, sem complementação. Crédito presente na imagem: @bizudoauditor.",
+        "contentBlocks": [
+          {
+            "type": "image",
+            "src": "assets/retroatividade-interpretacao-original.jpeg",
+            "alt": "Retroatividade benigna × interpretação favorável",
+            "caption": "@bizudoauditor"
+          }
+        ],
+        "searchImageText": "Conceito (Aplicação da Lei) | Aplica-se ao TRIBUTO? | Aplica-se à MULTA/INFRAÇÃO?\nRetroatividade Benigna (Lei mais branda — Art. 106) | ❌ NÃO. O valor do tributo nunca retroage para beneficiar. A lei que vale é a do fato gerador. | ✅ SIM. Retroage se a lei reduzir a multa e o ato não foi julgado em definitivo.\nInterpretação Favorável (Em caso de dúvida — Art. 112) | ❌ NÃO. Dúvida sobre o valor do tributo não beneficia o contribuinte. | ✅ SIM. Dúvida sobre a punição sempre beneficia o acusado.\n@bizudoauditor"
+      },
+      {
+        "id": "1Ix3GFJT_Q7-1tq4VtWMsnaEYSFZ5FKuB",
+        "modifiedAt": "2026-10-24T12:07:41.895Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Agregados monetários",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-agregados-monetarios.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-agregados-monetarios-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "Agregados monetários\nsábado, 19 de setembro de 2026\n09:06\n\nAgregados monetarios\n\nsibado, 19 de setembrade 2026 09:06\n\nAgregado Conceito Caracteristica Emissor\n\nM1 (meio de PMPP Liquidez Absoluta.\n\npagamento + DV (depésitos a vista) XNao rende juros.\n\nrestrito) Sofre impacto da inflag3o\n\nM2 Mi YRende Juros. Instituicbes\n+ Depésitos Especiais | Concentra os ativos financeiros | Depositarias\nRemunerados emitidos por bancos comerciais.\n+Poupanca\n\n+ Titulos emitidos elas.\ninstituicdes depositarias\n\nMB m2 YRende Juros. Particulares (privado)\n+ Cotas de Fundos de Renda Fixa | Concentra os ativos emitidos em\n+ Operacdes Compromissadas e | parceria com as_instituices\n\nRegistradas no SELIC depositdrias, mas sem se confundir\ncom elas.\nMA (poupanca | M3. YRende Juros. Governo\nfinanceira) + Titulos Publicos de Alta Concentra os titulos emitidos pelo\nPoder Publico. @rinhaconcurseira\n\nse ~~ FUNDOS\n\nM3: DINHEIRO M4: 0 COFRE\nDISTANTE\n\nO que vocé usa agora: Inclui tudo do M1 Soma o M2 com 0 M3 somado aos\nnotas na carteirae saldo _—_—mais o dinheiro na aplicagdes em fundos _Titulos Piblicos.\nna conta-corrente. poupanca, Rende juros, de rendarfixa. forma menos liquida\n\nTem liquidez total e ‘mas precisa de um E dinheiro que esta de dinheiro, pensada\nimediata. asso para ser usado. _trabalhando para vocé. _para o longo prazo."
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Moeda e sistema monetário",
+        "studyGroupOrder": 5,
+        "studyOrder": 1
+      },
+      {
+        "id": "1Bh4xhpJXE2eWqBhaw6Ctdu9begrT6hLG",
+        "modifiedAt": "2026-10-24T12:08:47.969Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Balança de pagamento",
+        "category": "Macroeconomia",
+        "summary": "2 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 2,
+        "pdfAsset": "assets/macroeconomia-balanca-de-pagamento.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-balanca-de-pagamento-1.png",
+          "assets/macroeconomia-balanca-de-pagamento-2.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "Balança de pagamento\nsegunda-feira, 10 de agosto de 2026\n19:40\n\nBalanca de pagamento\n\nsegunda-feira, 10 de agosto de 2026 19:40\n\nCompreende a conta de\n\nconta financeira\n\nAntes de falar sobre cada uma das contas e suas fungées, é conveniente que vocé veja a estrutura\natualmente utilizada, para ter um panorama geral. Entéo, dé uma rdpida olhada, sem\n\ncompromisso:\n\nExportacao\nImportagéo\n2. Balanca de servicos (receitas e despesas)\nManufatura sobre insumos fisicos de\nManutenco e reparo\nTransportes\nViagens\nConstrugao\nSeguros\nFinanceiros\nOutros\n\nSalérios e ordenados\n\nRenda de investimentos\nDemais rendas primérias,\n4. Renda secundaria (receitas e despesas)\nTransferéncias correntes\nSaldo do Balango de Pagamentos em Transages Correntes (1+2+8+()\n5. Conta Capital (receitas © despesas)\n‘Ativos nao financeiros nao produzidos\nTransferéncias de capital\n6. Conta Financeira Entrada liquida (-) ou saida liquida (+)\nInvestimento direto\nInvestimento em carteira\nDerivativos\nOutros investimentos\nAtivos de reserva"
+          },
+          {
+            "page": 2,
+            "text": ""
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Balanço de pagamentos",
+        "studyGroupOrder": 3,
+        "studyOrder": 0
+      },
+      {
+        "id": "1Kx5-7SlFbRckbLiWM38hPnV1ScVMJA0j",
+        "modifiedAt": "2026-10-24T12:08:51.332Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Balancete BACEN",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-balancete-bacen.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-balancete-bacen-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "ATIVO\nPASSIVO\n• Reservas Internacionais\nPassivo Monetário (Base \nMonetária)\n• Empréstimos ao Tesouro Nacional\nPapel Moeda Emitido (PME)\n• Redescontos e outros empréstimos aos bancos comerciais\nDepósitos dos bancos comerciais\n• Títulos Públicos Federais\n• Voluntários\n• Empréstimos ao Setor privado\n• Compulsórios\n• Empréstimos aos governos estaduais, municipais, autarquias e outras entidades \npúblicas\nPassivo Não Monetário\n• Imobilizado\n• Empréstimos Externos\n• Outras aplicações\n• Demais exigibilidades\n• Depósitos do Tesouro Nacional\nBalancete BACEN\nsábado, 5 de setembro de 2026\n12:26"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Moeda e sistema monetário",
+        "studyGroupOrder": 5,
+        "studyOrder": 2
+      },
+      {
+        "id": "1BzPVi3sWUYU2DuwF-Fti-XpfCV7X6T9G",
+        "modifiedAt": "2026-10-24T12:08:54.824Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Conceitos básicos da Macroeconomia objetivos e tipos de mercados",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-conceitos-basicos-da-macroeconomia-objetivos-e-tipos-de-mercados.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-conceitos-basicos-da-macroeconomia-objetivos-e-tipos-de-mercados-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "Conceitos básicos da Macroeconomia: objetivos e tipos de mercados\n•\nContas Nacionais\n•\nConceitos e identidades macroeconômicos\n•\nProduto nominal X produto real (deflator do PIB)\n•\nBalanço de pagamentos\n•\nModelo Keynesiano\n•\nEconomia Clássica\n•\nMoeda\n•\nFunções e atributos da moeda\n•\nDemanda por moeda\n•\nOferta de moeda e agregados monetários\n•\nMultiplicador monetário\n•\nTeoria quantitativa da moeda\n•\nModelo IS-LM de determinação da renda e dos juros\n•\nEconomia fechada\n•\nEconomia aberta (modelo Mundell-Flemming)\n•\nModelo de Oferta e Demanda agregada (OA-DA) de determinação da renda e dos preços\n•\nCurvas de Phillips\n•\nInflação\n•\nPolíticas de governo ou atuação do Estado na economia\n•\nPolítica fiscal\n•\nPolítica monetária\n•\nRegimes cambiais\n•\nCrescimento econômico\n•\nModelo de Solow\n•\nCrescimento endógeno e outros modelos\n•\nsegunda-feira, 12 de outubro de 2026\n16:50"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Conceitos básicos e sequência da Macroeconomia",
+        "studyGroupOrder": 1,
+        "studyOrder": 0
+      },
+      {
+        "id": "1EsVS_vDUuTnWt2NbF4EAe1WYDVY7duMd",
+        "modifiedAt": "2026-10-24T12:08:58.298Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Contas PIB",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-contas-pib.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-contas-pib-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "Contas PIB\nsegunda-feira, 10 de agosto de 2026\n20:19\n\nContas PIB\n\nsegunda-feira, 10 de agosto de 2026\n\nPRODUTO (RENDA)\n\nDessa estrutura tiramos\n\nSNOT EENS\n\nProduto Nacional Bruto a Custo de Fatores\n\nProduto Nacional Bruto a Prego de Mercado\n\nProduto Nacional Liquido a Custo de Fatores\n\nProduto Nacional Liquido a Prego de Mercado\n\nProduto interno Bruto a Custo de Fatores\n\nPRODUTO INTERNO BRUTO A PRECO DE MERCADO\nProduto Interno Liquido a Custo de Fatores\n\nProduto Interno Liquido a Prego de Mercado\n\n20:19\n\n+I1-suasiDios\n\n+11-sussipios:\n\n(0 PIB é considerado a melhor medida\nda economia de um pais. Ele é 0 valor\nMONETARIO de todos os produtos\nFINAIS produzidos dentro da fronteira\nde uma nacao.\n\nO PIB, neste caso, é 0 PIBPm\n\n14\n\n@economia_esquematizada"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Contas nacionais e PIB",
+        "studyGroupOrder": 2,
+        "studyOrder": 0
+      },
+      {
+        "id": "13SyQZWGZzjd7akNk4Yz4HevGeab_alRU",
+        "modifiedAt": "2026-10-24T12:09:01.568Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "crowding out",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-crowding-out.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-crowding-out-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "O efeito denominado crowding-out é o efeito decorrente do aumento da taxa de juros, dado um aumento dos \ngastos públicos, em que há redução dos gastos privados, especialmente dos investimentos em expansão de \ncapacidade produtiva, o que diminui o impacto da ação do governo sobre a demanda agregada\nO efeito denominado crowding-out é o efeito decorrente do aumento da taxa de juros, dado um aumento dos \ngastos públicos, em que há redução dos gastos privados, especialmente dos investimentos em expansão de \ncapacidade produtiva, o que diminui o impacto da ação do governo sobre a demanda agregada\ncrowding out\nquarta-feira, 30 de setembro de 2026\n19:25"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Modelo IS–LM e situações específicas",
+        "studyGroupOrder": 6,
+        "studyOrder": 4
+      },
+      {
+        "id": "1BsQ2o-gbM0Bv1P_fkL5RbLAWDOOfR6rM",
+        "modifiedAt": "2026-10-24T12:09:04.837Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "CURVA DE PHILLIPS",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-curva-de-phillips.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-curva-de-phillips-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "A Curva de Phillips original considerava o trade-off entre salário nominal e desemprego. Segundo a \nteoria, quando o desemprego está baixo, o salário sobe (como há muitas empresas disputando \npoucos trabalhadores, elas têm que oferecer um salário maior) e, ao contrário, quando o desemprego \nestá alto, o salário diminui.\nDepois, evoluiu para uma observação entre desemprego e inflação, dado que os salários altos \naumentam os custos, o que aumenta os preços e gera inflação. Então, a teoria passou para essa visão \nmais abrangente de inflação × desemprego.\nDepois, passou-se a considerar que a inflação não é só influenciada pelo desemprego, mas também \npela inflação esperada (aquilo que os trabalhadores e empregadores esperam que aconteça com os \npreços) e pelos choques de oferta (acontecimentos que mudam o custo ou a capacidade de produção \ndas empresas — pense em um exemplo clássico: o preço do petróleo sobe muito. O petróleo é usado \npara produzir e transportar praticamente tudo. Então, o custo das empresas aumenta. Elas repassam \nparte desse aumento para os preços).\nAssim, por fim, a teoria ficou no trade-off entre inflação × desemprego, considerando inflação \nesperada e choques de ofert\nCURVA DE PHILLIPS\nsábado, 19 de setembro de 2026\n09:57"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Curva de Phillips e inflação",
+        "studyGroupOrder": 8,
+        "studyOrder": 0
+      },
+      {
+        "id": "1fgQYL6xHH8mEbyCrnqmxlTUiYVRCzoXu",
+        "modifiedAt": "2026-10-24T12:09:07.986Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Deflator do pib",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-deflator-do-pib.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-deflator-do-pib-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "O PIB a preços correntes representa o PIB nominal, enquanto o PIB que reflete apenas a variação física da \nprodução é o PIB real. A relação entre essas variáveis é dada pela fórmula do deflator:\n𝐷𝑒𝑓𝑙𝑎𝑡𝑜𝑟= 𝑃𝐼𝐵!\"#$!%&\n𝑃𝐼𝐵'(%&\n×100\nCom isso, vamos calcular o PIB real:\nAno 2010:\n𝑃𝐼𝐵'(%&,*+,+ = 100\n105 ×100 ≈95,24\nAno 2020:\n𝑃𝐼𝐵'(%&,*+*+ = 125\n125 ×100 = 100,00\nCrescimento real:\n100 −95,24\n95,24\n×100 ≈5,0%\nDeflator do pib\nsegunda-feira, 12 de outubro de 2026\n20:30"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Contas nacionais e PIB",
+        "studyGroupOrder": 2,
+        "studyOrder": 2
+      },
+      {
+        "id": "1X3xVr8PiO1BbKLLx8qc5isZJTAETrXCr",
+        "modifiedAt": "2026-10-24T12:09:11.172Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "equivalência ricardiana",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-equivalencia-ricardiana.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-equivalencia-ricardiana-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "A equivalência ricardiana argumenta que, se o governo reduz impostos hoje e financia isso \ncom dívida, as pessoas sabem que, no futuro, os impostos terão que ser aumentados para \npagar essa dívida. Por causa disso, elas não gastam o dinheiro extra da desoneração. Em vez \ndisso, elas poupam para pagar os futuros impostos.\nA política de desoneração aumenta a renda disponível das pessoas.\n•\nconsumo corrente não muda: Pela equivalência ricardiana, as pessoas não aumentam o \nconsumo;\n•\nA poupança privada aumenta na mesma proporção da dívida pública. elas aumentam a \npoupança privada para cobrir os futuros impostos.\n•\nSe o consumo não aumenta, a demanda agregada e o produto não se alteram..\n•\na POLÍTICA FISCAL  é NEUTRA\n•\nequivalência ricardiana \nquinta-feira, 27 de agosto de 2026\n07:48"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Políticas fiscal e monetária",
+        "studyGroupOrder": 9,
+        "studyOrder": 1
+      },
+      {
+        "id": "1XJOvgrB9f0l4-gDY4xRhq5Ek4l5VtEYZ",
+        "modifiedAt": "2026-10-24T12:09:14.420Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Excesso de moeda",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-excesso-de-moeda.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-excesso-de-moeda-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "Excesso de moeda\nquinta-feira, 27 de agosto de 2026\n09:36\n\nExcesso de moeda\n\nquinta-feira, 27 de agosto de 2026 09:36\n\nLM\n\nexcesso de oferta\nde moeda excesso\nde demanda\n\nde moeda\n\n@Trembolona\n\nexcesso de oferta de bens\n\nexcesso de demanda\nde bens\n\nIs"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Moeda e sistema monetário",
+        "studyGroupOrder": 5,
+        "studyOrder": 4
+      },
+      {
+        "id": "1PLxYIjSQsQYTg5y-lR4Jru82Z05A6Vog",
+        "modifiedAt": "2026-10-24T12:09:18.187Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Fiscal e monetária",
+        "category": "Macroeconomia",
+        "summary": "2 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 2,
+        "pdfAsset": "assets/macroeconomia-fiscal-e-monetaria.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-fiscal-e-monetaria-1.png",
+          "assets/macroeconomia-fiscal-e-monetaria-2.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "Política Fiscal: Atua sobre gastos e tributos (política fiscal expansiva ou contracionista).\nPolítica Monetária: Atua sobre juros e oferta de dinheiro (política monetária expansionista ou \nrestritiva).\nFiscal e monetária\nsábado, 5 de setembro de 2026\n16:21"
+          },
+          {
+            "page": 2,
+            "text": "O.QuEE? EFEITOS DAS DECISOES\n\nae Times ATA DE DEST aS oS RES\nrush cnc eer ces =\ncts semetsamanconcs™ (Gh Matcmnini t,o\nao [BC empresta mais caro aos bancos ee\nPrecio Seas caracncne rermameerornti | (ac ia ma nn so\n‘0s bancos quando eles precisam de recursos 1 reduz a iquidez na economia Sevag latter a eroraa)\nSouates. pp eine | Prefrontal\n\n{CJ IDEIACENTRAL: _Paliticas expansionistas estimulam a atividade econémica e o emprego, mas podem pressionar ainflacio.\nPoliticas contracionistas controlam a inflagao, mas podem desacelera"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Políticas fiscal e monetária",
+        "studyGroupOrder": 9,
+        "studyOrder": 0
+      },
+      {
+        "id": "10O1iElzWcjA6lN_x1UzPaMb6wUPchGbS",
+        "modifiedAt": "2026-10-24T12:09:21.547Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Funções da moeda",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-funcoes-da-moeda.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-funcoes-da-moeda-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "Funções da moeda\nsábado, 19 de setembro de 2026\n09:31\n\nFuncdes da moeda\n\nsébado, 19 de setembro de 2026 09:31\n\nFungdes da Moeda\n\nInstrumento Medida de Valor Reserva de Valor\n(meio) de troca (unidade de conta)\n\nPromove o intercambio Serve de parametro para Permite que os agentes\nde certos bens e servigos se apurar o valor econémicos mantenham\n\nSu"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Moeda e sistema monetário",
+        "studyGroupOrder": 5,
+        "studyOrder": 0
+      },
+      {
+        "id": "1c3vLOun6yGWZHbD1-scrK08yNuzZtMzT",
+        "modifiedAt": "2026-10-24T12:09:24.913Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Inclinação reta",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-inclinacao-reta.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-inclinacao-reta-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "A inclinação das curvas IS e LM indica a sensibilidade, respectivamente, do investimento e da demanda por moeda \nàs variações na taxa de juros.\nIS e LM menos inclinadas (mais sensíveis):\nInclinação reta\nquarta-feira, 30 de setembro de 2026\n19:20"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Modelo IS–LM e situações específicas",
+        "studyGroupOrder": 6,
+        "studyOrder": 2
+      },
+      {
+        "id": "1lB34k2Zx6dtP-py8KpGqfbE1DYQs4LUP",
+        "modifiedAt": "2026-10-24T12:09:27.949Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Indice de preços",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-indice-de-precos.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-indice-de-precos-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "IPCA ( índice Nacional de Preços ao Consumidor Amplo): Calculado pelo IBGE\nINPC ( Íncide Nacional de Preços ao Consumidor): Calculado pelo  IBGE\nIGP-M (Índice Geral de Preços do Mercado): Calculado pela FGV\nIPA (Índice de Preços ao Produtor Amplo): Calculado pela FGV\nConselho Monetário Nacional Define a Meta de Inflação.\nBanco Central: Adota as medidas necessárias para alcançar a meta ( COPOM - um dos órgãos do BCB).\nBCB utiliza o IPCA no sistema de metas de inflação.\nIndice de preços\nquinta-feira, 27 de agosto de 2026\n09:33"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Curva de Phillips e inflação",
+        "studyGroupOrder": 8,
+        "studyOrder": 1
+      },
+      {
+        "id": "1UIVkdg5URRQU7jL2uwX8OXJ9IZktEjEJ",
+        "modifiedAt": "2026-10-24T12:09:37.021Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Indices",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-indices.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-indices-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "Exatamente! Afinal, o Índice Geral de Preços de Mercado (IGP-M) é apurado a partir da média poderada de \ntrês outros índices, aos quais são atribuídos pesos, da seguinte forma:\nÍndice Nacional de Custo da Construção (INCC) = 10%\nÍndice de Preços ao Consumidor (IPC) = 30%\nÍndice de Preços ao Produtor Amplo (IPA) = 60%\nIndices\nsábado, 5 de setembro de 2026\n12:05"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Curva de Phillips e inflação",
+        "studyGroupOrder": 8,
+        "studyOrder": 2
+      },
+      {
+        "id": "1ps9olopFw4IQQ9CejNN9mAToPCS1KHnA",
+        "modifiedAt": "2026-10-24T12:09:40.530Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Instrumentos de política monetária",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-instrumentos-de-politica-monetaria.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-instrumentos-de-politica-monetaria-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "Instrumentos de política monetária\nsábado, 5 de setembro de 2026\n13:01\n\nInstrumentos de politica monetaria\n\nsébado, 5 de setembrode 2026 13:01\n\n_ INSTRUMENTOS DE POLITICA MONETARIA as\n\nMECANISMOS DE OPERAGAO ESTIMULO A ECONOMIA CONTROLE DA INFLACAO\n\nAUMENTA A COMPRA AUMENTA A VENDA\nOPEN MARKET DE TITULOS PUBLICOS DE TITULOS PUBLICOS\n(MERCADO ABERTO) } LIQUIDEZ NA ECONOMIA\n\n LIQUIDEZ NA ECONOMIA\n\n& TAXAS DE JUROS & TAXAS DE JUROS\n: REDUZ 0 RECOLHIMENTO AUMENTA 0 RECOLHIMENTO\nTAXA DE DEPOSITOS fi, COMPULSORIO ft COMPULSORIO\nCOMPULSORIOS 4 RECURSOS DISPONIvEIS Nos BANCOS 4 RECURSOS DISPONIVE!S NOS BANCOS\n@bizuddauditor __ OFERTA DE cRéoiTo  oFERTA DE créorTo\nr REDUZ A TAXA DE AUMENTA A TAXA DE\nTAXA DE %o REDESCONTO %o REDESCONTO\nREDESCONTO + CUSTO 00 CREDITO PARA 0S BANCOS 4 cusTo Do cRéDITO PARA 05 BANCOS\n4 OFERTA De créoiTO + OFERTA De cRéoiTo\n\nAUMENTA A TAXA DE\nJUROS (SELIC)\n\ncusto 00 crépio\n‘} CONSUMO E INVESTIMENTO\n\nS&S REDUZ A TAXA DE\nTAXA DE JUROS JUROS (SELIC)\n(SELIC) fas’, custo bo créoiro\n\n CONSUMO E INVESTIMENTO\n\n“PA% wuroBAKo= | ~JURO ALTO = Differenca entre Redesconto e Taxa de Redesconto\nce \"AQUECE Bien, Agha @REDESCONTO: 0 aumento no Redesconto gera liquide (politica monetaria\nexpansionista). 0 BACEN empresta mais dinheiro aos Bancos Comerciais.\nGY 70 FP ccovonn BF 70 J economy — © TwAveEREDEscowTO: 0 aumento na Taxa de Redescontoreduza quer (otica\nBY | monetiriacontracionista).0 BACEN desestimulao redesconto."
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Políticas fiscal e monetária",
+        "studyGroupOrder": 9,
+        "studyOrder": 2
+      },
+      {
+        "id": "1RfuvCIfwUSjKkIC1UAx7HjczYFNfSrpB",
+        "modifiedAt": "2026-10-24T12:09:43.644Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Interação e equilíbrio entre IS e LM",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-interacao-e-equilibrio-entre-is-e-lm.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-interacao-e-equilibrio-entre-is-e-lm-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "IS/LM é composto por duas curvas, a curva IS, que representa a igualdade entre poupança e investimento, e a curva LM, \nque representa a igualdade entre a demanda por moeda e a oferta de moeda. \nO ponto de equilíbrio do modelo se encontra na intersecção entre as duas curvas e representa a renda e a taxa de juros \nque correspondem a um nível de produção e emprego consistente com a estabilidade dos preços. \nPolítica FIScal contracionista: curva IS (FIScal)deslocada para esquerda -> reduz o nível do produto para uma mesma \ntaxa de juros. Para preservar o nível do produto é importante uma política monetária expansionista: ex.: redução da \nalíquota dos depósitos compulsórios -> Os bancos comerciais terão maior disponibilidade de moeda.\nArmadilha da liquidez : política monetária se torna ineficaz devido à preferência dos agentes econômicos por manter o \ndinheiro em vez de investir em títulos. Acontece quando Taxa de juros estão excessivamente baixas, fazendo com que a \npolítica monetária não tenha efeito. Aumento da oferta de moeda não causa queda da taxa de juros, aumentando a \nretenção de saldos monetários ociosos e/ou reservas bancárias.\nNão há demanda por crédito \nLM horizontal: a elasticidade da demanda por moeda em relação à taxa de juros é infinita sensibilidade da demanda por \nmoeda do público é extremamente elevada. \nQuadro de depressão econômica: agentes acreditam que o preço dos ativos financeiros estão excessivamente altos e \nirão cair -> não investem para não ter prejuízo a taxa de juros se encontra em nível muito baixo e, certamente, \naumentará no futuro imediato \nEfeito Crownding out (expulsão): quando política fiscal não tem tanto efeito.\nUm aumento nos gastos do governo causa um aumento da taxa de juros e um aumento na taxa de juros causa uma \nredução no investimento (reduzindo a demanda agregada)\nInteração e equilíbrio entre IS e LM\nquarta-feira, 26 de agosto de 2026\n21:59"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Modelo IS–LM e situações específicas",
+        "studyGroupOrder": 6,
+        "studyOrder": 1
+      },
+      {
+        "id": "1-iAbJi6jp2sOlMBKjrJEOFObyQ2MeIfN",
+        "modifiedAt": "2026-10-24T12:09:47.286Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Is lm",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-is-lm.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-is-lm-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "Is lm\nsegunda-feira, 12 de outubro de 2026\n18:53\n\nIs Im\n\nsegunda-feira, 12 de outubro d\n\nle 2026 18:53\n\nModelo IS-LM s Situagdes Especiai\n\n1. Armadilha da liquidez\n(LM horizontal)\naaj)\n\n2. IS vertical\n(modelo keynesiano simples)\nasa deo) Is\n\n3. Caso classico\n(LM vertical)\n\nLM\n\ni\n\n(taxa de urs)\n\nIs\n\n% ¥ ends)\n\n‘+ ALM ¢ horizontal (juros muito baixos€\n‘levada preeréncia pela liquide2).\n\n+ Ademanda por moeda éextremamente\n‘sensivel taxa dejurs.\n\n+ A politica monetiraé ineficaz (aumento\nda oferta de moeda no reduz mais 0s juros).\n+ Apoltica fiscal é fica (aumentaarenda\nsem elevaro da taxa de jus).\n\nY% ¥ (enda)\n\n+ AIS€ vertical (0 investimento é\nindependente da taxa de juros).\n\n‘+ A variago da taxa de juros nfo altera a\nddemanda agregada (renda ¢ fixa no curto\nprazo)\n\n‘= A politica monetéria 6 ineficaz(alteragées\n‘na oferta de moeda s6 mudam a taxa de\njuros, ndo a renda).\n\n‘A politica fiscal é eficaz (desloca a IS para\na direita, aumentando a renda).\n\n1 ¥ (renda)\n‘+ ALM é vertical (a demanda por moeda é\nindependente da taxa de jus).\n\n‘+ A quantidade de moeda determina a taxa\nde juros.\n\n‘+ A politica fiscal ¢ineficaz (desloca a 1S\npara a direita, mas apenas aumenta a taxa\nde juros, sem alterar a renda ~ crowding out\ncompleto).\n\n‘+ A politica monetiria éeficaz (desloca a LM.\npara a direita, reduzindo os juros e\n\natumentando a renda).\n‘Situagio [| Formato da curva | Politicafiscal | Politica monetéria ‘Motivo principal\n\n“Armadilha da liquidez_ LM horizontal ‘Eficaz Ineficaz Juros no caem mais\n\n| IS vertical IS vertical Eficaz Ineficaz Investimento nio depende da taxa de juros\n\n| Caso cssico LM vertical Ineficaz Eficaz Demanda por moeda no depende da taxa de juros"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Modelo IS–LM e situações específicas",
+        "studyGroupOrder": 6,
+        "studyOrder": 0
+      },
+      {
+        "id": "1FqJbnRIrxi523hl6oK0rCh4u4kWLIkOV",
+        "modifiedAt": "2026-10-24T12:09:50.304Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "IS-LM em situações específicas",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-is-lm-em-situacoes-especificas.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-is-lm-em-situacoes-especificas-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "Modelo Clássico: LM Vertical; Demanda por moeda é perfeitamente inelástica; \nPolítica monetária é eficiente x Política fiscal sem efeito; \nModelo Keynesiano simplificado: IS Vertical; Investimento é perfeitamente inelástico à taxa de juros; Política monetária \nnão produz efeito x Política fiscal é eficiente;\nArmadilha da liquidez: LM horizontal; \nDemanda por moeda é totalmente elástica à taxa de juros;\nPolítica monetária não produz efeito x Política fiscal é eficiente\nIS-LM em situações específicas\nquinta-feira, 27 de agosto de 2026\n07:09"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Modelo IS–LM e situações específicas",
+        "studyGroupOrder": 6,
+        "studyOrder": 3
+      },
+      {
+        "id": "1JKKHVr6GN5V7Mq1k78gGaUz1JXYRQVc3",
+        "modifiedAt": "2026-10-24T12:09:53.431Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Meta selic e inflação",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-meta-selic-e-inflacao.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-meta-selic-e-inflacao-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "O Funcionamento do Regime:\nQuem define a Meta de Inflação? O Conselho Monetário Nacional (CMN).\n•\nQuem define a Meta da Taxa Selic? O Comitê de Política Monetária (Copom) do Banco Central.\n•\nComo o BC faz a taxa de mercado (Selic Efetiva) ficar igual à meta (Selic Meta)? Através das Operações de \nMercado Aberto (Open Market).\n•\nAnálise Detalhada da Alternativa D:\nO Anúncio: O Copom se reúne a cada 45 dias e define a Meta da Taxa Selic (ex: 10,75% a.a.).\n1.\nA Execução: Para que a taxa de juros praticada pelos bancos entre si (no mercado interbancário) respeite esse \nvalor, o Banco Central precisa ajustar a liquidez (a quantidade de dinheiro disponível nas reservas bancárias).\n2.\nO Instrumento:\n3.\nSe sobra dinheiro no mercado (o que faria a taxa cair abaixo da meta), o BC vende títulos públicos e \"enxuga\" \no dinheiro.\n•\nSe falta dinheiro (o que faria a taxa subir acima da meta), o BC compra títulos e injeta dinheiro.\n•\nMeta selic e inflação\nquinta-feira, 27 de agosto de 2026\n08:22"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Políticas fiscal e monetária",
+        "studyGroupOrder": 9,
+        "studyOrder": 3
+      },
+      {
+        "id": "1SBTV-pQTA1qZF55yyjVGUdcCpIvepMws",
+        "modifiedAt": "2026-10-24T12:09:56.524Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Modelo de Solow",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-modelo-de-solow.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-modelo-de-solow-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "No Modelo de Solow, um aumento na taxa de poupança:\nAumenta o nível de capital por trabalhador no longo prazo\nAumenta o nível de renda por trabalhador no longo prazo.\nNão altera a taxa de crescimento da economia no estado estacionário.\nModelo de Solow, \nsábado, 5 de setembro de 2026\n12:19"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Crescimento econômico e Modelo de Solow",
+        "studyGroupOrder": 11,
+        "studyOrder": 0
+      },
+      {
+        "id": "1oAlnlnNWY118EHkSRyJaGW9MMg1eUww2",
+        "modifiedAt": "2026-10-24T12:09:59.469Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "multiplicador da base monetária",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-multiplicador-da-base-monetaria.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-multiplicador-da-base-monetaria-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "O multiplicador da base monetária é definido como sendo a razão entre o total de Meios de \nPagamento pela Base Monetária.\nm=MP/BM\nUma forma didática para a visualização do efeito multiplicador se dá pela fórmula:\nOnde:\nM: é multiplicador monetário\nR: taxa de recolhimento compulsório\nmultiplicador da base monetária \nsábado, 19 de setembro de 2026\n10:55"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Moeda e sistema monetário",
+        "studyGroupOrder": 5,
+        "studyOrder": 3
+      },
+      {
+        "id": "1lZlXen9Q8Ou0C6fEqpAZZyWdTVyG9V3l",
+        "modifiedAt": "2026-10-24T12:10:02.619Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Multiplicador Keynesiano",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-multiplicador-keynesiano.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-multiplicador-keynesiano-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "Calcular o Multiplicador (k):\nO multiplicador de gastos mede o impacto total na renda de uma variação nos gastos autônomos. A fórmula é:\nk = 1 / (1 - PMC)\nOnde PMC é a Propensão Marginal a Consumir.\nk = 1 / (1 - 0,8)\nk = 1 / 0,2\nk = 5\nIsso significa que para cada R$ 1 de gasto autônomo, a renda total da economia aumenta em R$ 5.\n1.\nCalcular os Gastos Autônomos Totais (A):\nGastos autônomos são aqueles que não dependem do nível de renda. Neste modelo, são o Investimento (I) e os Gastos do \nGoverno (G).\nA = I + G\nA = 100 + 200\nA = 300\n2.\nCalcular a Renda de Equilíbrio (Y):\nA renda de equilíbrio é o produto do multiplicador pelos gastos autônomos totais.\nY = k * A\nY = 5 * 300\nY = 1.500\n3.\nComo a propensão marginal a poupar e a consumir de uma economia fechada devem se igualar a 1, \ntemos que:\ns + c = 1\nmultiplicador  de gastos = 1/1-c \nMultiplicador Keynesiano\nsegunda-feira, 10 de agosto de 2026\n21:02"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Modelo keynesiano e multiplicador",
+        "studyGroupOrder": 4,
+        "studyOrder": 0
+      },
+      {
+        "id": "1W-BSMn_6JBKivenuYcIsmBIb94ZYyYOt",
+        "modifiedAt": "2026-10-24T12:10:06.032Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Pela ótica da despe",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-pela-otica-da-despe.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-pela-otica-da-despe-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "O PIB pode ser analisado por três óticas equivalentes: a ótica do produto, que considera o valor dos bens e \nserviços finais produzidos; a ótica da renda, que observa a remuneração dos fatores de produção; e a ótica \nda despesa, que considera os gastos realizados na economia. Quando a mensuração é feita de forma \nconsistente, essas três óticas conduzem ao mesmo resultado.\nPela ótica da despesa, o PIB é representado pela identidade:\nPIB = C + I + G + X − M\nOnde:\nC = consumo das famílias;\nI = investimento;\nG = gastos do governo;\nX = exportações;\nM = importações.\nOutro ponto importante é a diferença entre PIB e PNB. O PIB considera a produção realizada dentro do \nterritório econômico do país, enquanto o PNB considera a renda pertencente aos residentes nacionais. \nAssim, quando há Renda Líquida Enviada ao Exterior (RLEE) positiva, o PNB tende a ser menor que o PIB, \npois parte da renda gerada internamente é enviada para o exterior\nsobre a formação de capital:\nPIB = C+I+G+(X-M)\nI = fbkf (formação bruta de capital fixo) + var estoques\nResumo\nMedida agregada →mede a economia (PIB, emprego, investimento, gasto)\n•\nPolítica econômica →atua sobre a economia (monetária, fiscal, cambial)\n•\nDica:\nProduto nacional →mede produção/renda\n•\nNível de emprego →mede mercado de trabalho\n•\nDespesa nacional →mede o gasto agregado\n•\nJá a política monetária:\nPode até ter indicadores associados (taxa Selic, base monetária etc.)\n•\nMas ela em si não é uma medida, e sim um conjunto de ações/decisões\n•\nPela ótica da despe\nsegunda-feira, 12 de outubro de 2026\n16:58"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Contas nacionais e PIB",
+        "studyGroupOrder": 2,
+        "studyOrder": 1
+      },
+      {
+        "id": "12Lsdl6_3cJ1wn8tXR3Gnn9l5K5tD3D83",
+        "modifiedAt": "2026-10-24T12:10:09.049Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "senhoriagem",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-senhoriagem.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-senhoriagem-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "A senhoriagem tem como efeito negativo a elevação das pressões inflacionárias.\nIsto porque, a senhoriagem resulta da diferença entre o valor estampado em \ncada moeda e o seu custo para emiti-la. Assim, por exemplo, se o governo emitir \n10 cédulas de R$10,00 e, para tal, cada uma tiver um custo de R$3,00 para ser \nproduzida, ele terá tido um \"lucro\" de [10.(R$10,00−R$3,00)], ou seja, de R\n$70,00, denominado de senhoriagem.\nPor fim, independentemente da destinação que o governo der \"lucro\" obtido \ncom a moeda gerada, seja para o financiamento do déficit público ou outra \ndestinação, o principal efeito negativo é o de aumento de preços (aumento das \npressões inflacionárias), de igual modo ao que vimos na assertiva \"I\".\nsenhoriagem\nquinta-feira, 27 de agosto de 2026\n07:45"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Moeda e sistema monetário",
+        "studyGroupOrder": 5,
+        "studyOrder": 5
+      },
+      {
+        "id": "1NGtGkEq2VJDzYdFdySQP-Ada0awJB_Uc",
+        "modifiedAt": "2026-10-24T12:10:12.177Z",
+        "analyzedAt": "2026-10-24T12:11:11.159380+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Taxas de câmbio",
+        "category": "Macroeconomia",
+        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
+        "pageCount": 1,
+        "pdfAsset": "assets/macroeconomia-taxas-de-cambio.pdf",
+        "pdfPages": [
+          "assets/macroeconomia-taxas-de-cambio-1.png"
+        ],
+        "searchPages": [
+          {
+            "page": 1,
+            "text": "Inicialmente, cabe relembrarmos os conceitos de Taxa de Câmbio Nominal (TCN) e Taxa de Câmbio \nReal (TCR). Vamos lá?!\nA) - TCN\n⇒Reflete o \"preço\" da moeda estrangeira medido pela moeda nacional, ou seja: \"quanto de moeda \nnacional é necessário para comprar uma unidade de moeda estrangeira?\"\n⇒Matematicamente, supondo o Real (R$) como moeda nacional e o Dólar americano (US$) como \nmoeda estrangeira, teríamos:\nTCN=R$US$\n(B) - TCR\n⇒Reflete o preço relativo de um bem entre os dois países, ou seja, indica a taxa pela qual \npoderíamos trocar um determinado bem de um país por outro. Em resumo, a TCR reflete não \nsomente a relação entre as duas moedas, mas os respectivos níveis de preços dos países de cada \nmoeda e o poder de compra de cada moeda medido pela outra.\n⇒Matematicamente, supondo o Real (R$) como moeda nacional, PBR (o nível de preços do Brasil), o \nDólar americano (US$) como moeda estrangeira e PEUA (o nível de preços americano), teríamos: \nTCR=TCN.PEUAPBR ou TCR=R$.PEUAUS$.PBR\nTaxas de câmbio\nsábado, 19 de setembro de 2026\n11:14"
+          }
+        ],
+        "studyArea": "Macroeconomia",
+        "studyGroup": "Regimes e taxas de câmbio",
+        "studyGroupOrder": 10,
+        "studyOrder": 0
       }
     ],
     "findings": [],
@@ -7765,6 +8887,237 @@
           ]
         }
       ]
+    },
+    "Economia": {
+      "coverage": "partial",
+      "source": "Sequência do sumário do usuário em Conceitos básicos da Macroeconomia objetivos e tipos de mercados.pdf, recebido em 24/10/2026. Arquivos semelhantes agrupados; Microeconomia aguardando materiais.",
+      "nodes": [
+        {
+          "id": "economia-macro",
+          "title": "Macroeconomia",
+          "children": [
+            {
+              "id": "macro-topico-01",
+              "title": "Conceitos básicos e sequência da Macroeconomia",
+              "fileIds": [
+                "1BzPVi3sWUYU2DuwF-Fti-XpfCV7X6T9G"
+              ]
+            },
+            {
+              "id": "macro-topico-02",
+              "title": "Contas nacionais e PIB",
+              "fileIds": [
+                "1EsVS_vDUuTnWt2NbF4EAe1WYDVY7duMd",
+                "1W-BSMn_6JBKivenuYcIsmBIb94ZYyYOt",
+                "1fgQYL6xHH8mEbyCrnqmxlTUiYVRCzoXu"
+              ],
+              "children": [
+                {
+                  "id": "macro-identidades",
+                  "title": "Conceitos e identidades macroeconômicos",
+                  "fileIds": [
+                    "1EsVS_vDUuTnWt2NbF4EAe1WYDVY7duMd",
+                    "1W-BSMn_6JBKivenuYcIsmBIb94ZYyYOt"
+                  ]
+                },
+                {
+                  "id": "macro-deflator",
+                  "title": "Produto nominal e produto real e deflator do PIB",
+                  "fileIds": [
+                    "1fgQYL6xHH8mEbyCrnqmxlTUiYVRCzoXu"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "macro-topico-03",
+              "title": "Balanço de pagamentos",
+              "fileIds": [
+                "1Bh4xhpJXE2eWqBhaw6Ctdu9begrT6hLG"
+              ]
+            },
+            {
+              "id": "macro-topico-04",
+              "title": "Modelo keynesiano e multiplicador",
+              "fileIds": [
+                "1lZlXen9Q8Ou0C6fEqpAZZyWdTVyG9V3l"
+              ]
+            },
+            {
+              "id": "macro-classica",
+              "title": "Economia Clássica",
+              "fileIds": [
+                "1FqJbnRIrxi523hl6oK0rCh4u4kWLIkOV"
+              ]
+            },
+            {
+              "id": "macro-topico-05",
+              "title": "Moeda e sistema monetário",
+              "fileIds": [
+                "10O1iElzWcjA6lN_x1UzPaMb6wUPchGbS",
+                "1Ix3GFJT_Q7-1tq4VtWMsnaEYSFZ5FKuB",
+                "1Kx5-7SlFbRckbLiWM38hPnV1ScVMJA0j",
+                "1oAlnlnNWY118EHkSRyJaGW9MMg1eUww2",
+                "1XJOvgrB9f0l4-gDY4xRhq5Ek4l5VtEYZ",
+                "12Lsdl6_3cJ1wn8tXR3Gnn9l5K5tD3D83"
+              ],
+              "children": [
+                {
+                  "id": "macro-funcoes",
+                  "title": "Funções e atributos da moeda",
+                  "fileIds": [
+                    "10O1iElzWcjA6lN_x1UzPaMb6wUPchGbS"
+                  ]
+                },
+                {
+                  "id": "macro-demanda",
+                  "title": "Demanda por moeda"
+                },
+                {
+                  "id": "macro-oferta",
+                  "title": "Oferta de moeda e agregados monetários",
+                  "fileIds": [
+                    "1Ix3GFJT_Q7-1tq4VtWMsnaEYSFZ5FKuB",
+                    "1Kx5-7SlFbRckbLiWM38hPnV1ScVMJA0j"
+                  ]
+                },
+                {
+                  "id": "macro-multiplicador",
+                  "title": "Multiplicador monetário",
+                  "fileIds": [
+                    "1oAlnlnNWY118EHkSRyJaGW9MMg1eUww2"
+                  ]
+                },
+                {
+                  "id": "macro-quantitativa",
+                  "title": "Teoria quantitativa da moeda",
+                  "fileIds": [
+                    "1XJOvgrB9f0l4-gDY4xRhq5Ek4l5VtEYZ"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "macro-topico-06",
+              "title": "Modelo IS–LM e situações específicas",
+              "fileIds": [
+                "1-iAbJi6jp2sOlMBKjrJEOFObyQ2MeIfN",
+                "1RfuvCIfwUSjKkIC1UAx7HjczYFNfSrpB",
+                "1c3vLOun6yGWZHbD1-scrK08yNuzZtMzT",
+                "1FqJbnRIrxi523hl6oK0rCh4u4kWLIkOV",
+                "13SyQZWGZzjd7akNk4Yz4HevGeab_alRU"
+              ],
+              "children": [
+                {
+                  "id": "macro-fechada",
+                  "title": "Economia fechada",
+                  "fileIds": [
+                    "1-iAbJi6jp2sOlMBKjrJEOFObyQ2MeIfN",
+                    "1RfuvCIfwUSjKkIC1UAx7HjczYFNfSrpB",
+                    "1c3vLOun6yGWZHbD1-scrK08yNuzZtMzT",
+                    "1FqJbnRIrxi523hl6oK0rCh4u4kWLIkOV",
+                    "13SyQZWGZzjd7akNk4Yz4HevGeab_alRU"
+                  ]
+                },
+                {
+                  "id": "macro-aberta",
+                  "title": "Economia aberta e modelo Mundell Fleming"
+                }
+              ]
+            },
+            {
+              "id": "macro-topico-07",
+              "title": "Oferta e demanda agregadas",
+              "fileIds": []
+            },
+            {
+              "id": "macro-topico-08",
+              "title": "Curva de Phillips e inflação",
+              "fileIds": [
+                "1BsQ2o-gbM0Bv1P_fkL5RbLAWDOOfR6rM",
+                "1lB34k2Zx6dtP-py8KpGqfbE1DYQs4LUP",
+                "1UIVkdg5URRQU7jL2uwX8OXJ9IZktEjEJ"
+              ],
+              "children": [
+                {
+                  "id": "macro-phillips",
+                  "title": "Curvas de Phillips",
+                  "fileIds": [
+                    "1BsQ2o-gbM0Bv1P_fkL5RbLAWDOOfR6rM"
+                  ]
+                },
+                {
+                  "id": "macro-inflacao",
+                  "title": "Inflação e índices de preços",
+                  "fileIds": [
+                    "1lB34k2Zx6dtP-py8KpGqfbE1DYQs4LUP",
+                    "1UIVkdg5URRQU7jL2uwX8OXJ9IZktEjEJ"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "macro-topico-09",
+              "title": "Políticas fiscal e monetária",
+              "fileIds": [
+                "1PLxYIjSQsQYTg5y-lR4Jru82Z05A6Vog",
+                "1X3xVr8PiO1BbKLLx8qc5isZJTAETrXCr",
+                "1ps9olopFw4IQQ9CejNN9mAToPCS1KHnA",
+                "1JKKHVr6GN5V7Mq1k78gGaUz1JXYRQVc3"
+              ],
+              "children": [
+                {
+                  "id": "macro-fiscal",
+                  "title": "Política fiscal e equivalência ricardiana",
+                  "fileIds": [
+                    "1PLxYIjSQsQYTg5y-lR4Jru82Z05A6Vog",
+                    "1X3xVr8PiO1BbKLLx8qc5isZJTAETrXCr"
+                  ]
+                },
+                {
+                  "id": "macro-monetaria",
+                  "title": "Política monetária e seus instrumentos",
+                  "fileIds": [
+                    "1ps9olopFw4IQQ9CejNN9mAToPCS1KHnA",
+                    "1JKKHVr6GN5V7Mq1k78gGaUz1JXYRQVc3"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "macro-topico-10",
+              "title": "Regimes e taxas de câmbio",
+              "fileIds": [
+                "1NGtGkEq2VJDzYdFdySQP-Ada0awJB_Uc"
+              ]
+            },
+            {
+              "id": "macro-topico-11",
+              "title": "Crescimento econômico e Modelo de Solow",
+              "fileIds": [
+                "1SBTV-pQTA1qZF55yyjVGUdcCpIvepMws"
+              ],
+              "children": [
+                {
+                  "id": "macro-solow",
+                  "title": "Modelo de Solow",
+                  "fileIds": [
+                    "1SBTV-pQTA1qZF55yyjVGUdcCpIvepMws"
+                  ]
+                },
+                {
+                  "id": "macro-endogeno",
+                  "title": "Crescimento endógeno e outros modelos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "economia-micro",
+          "title": "Microeconomia"
+        }
+      ]
     }
   },
   "subjectResources": [
@@ -7776,5 +9129,11 @@
       "asset": "assets/tributario-apostila-comparativa-43p.pdf",
       "pageCount": 43
     }
-  ]
+  ],
+  "studyPreferences": {
+    "sequence": "Seguir o sumário enviado em cada matéria.",
+    "groupRelatedTopics": true,
+    "criticalRule": "Marcar como crítico somente quando o usuário indicar dificuldade maior, por mensagem ou botão próprio. Materiais de estudo, sozinhos, não comprovam dificuldade.",
+    "macroMicroSeparated": true
+  }
 }

@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#163f36"><title>Apostila de Tributário · Mapa de Provas</title><link rel="stylesheet" href="apostila.css"></head>
+<body>
+<a class="skip" href="#reading">Pular para o conteúdo</a>
+<button id="menu" class="floating-menu" aria-controls="outline" aria-expanded="false">☰ Índice da apostila</button>
+<div class="scrim" id="scrim" hidden></div>
+<aside id="outline" class="outline" aria-label="Índice da apostila" inert><button id="closeOutline" class="close-outline" aria-label="Fechar índice">×</button>
+ <a class="brand" href="./">◫ <span>mapa<strong>deprovas</strong></span></a>
+ <nav class="app-nav" aria-label="Painéis"><a href="./">← Mapa de Provas</a><a href="dificuldades.html">Dificuldades por matéria</a></nav>
+ <div class="library-title"><span>SUA BIBLIOTECA</span><h1>Apostila de<br>Tributário</h1></div>
+ <section class="progress-box" aria-label="Progresso de leitura"><div><strong id="progressCount">Carregando…</strong><span id="progressPercent"></span></div><progress id="progress" value="0" max="100" aria-label="Assuntos já vistos"></progress></section>
+ <label class="search-label" for="search">Encontrar assunto</label><input type="search" id="search" placeholder="Ex.: Kandir, crédito, DIFAL…" autocomplete="off">
+ <label class="unread"><input id="onlyUnread" type="checkbox"> Mostrar apenas o que falta</label>
+ <nav id="chapters" aria-label="Capítulos e assuntos"></nav>
+ <p class="local-note" id="storageNotice">Seu progresso fica salvo neste navegador.</p>
+</aside>
+<main id="reading" tabindex="-1">
+ <div class="reader-top"><span>TRIBUTÁRIO <span class="slash">/</span> LEITURA CONTÍNUA</span><a href="assets/tributario-apostila-atualizada.pdf" target="_blank" rel="noopener">Abrir PDF ↗</a></div>
+ <div id="loadError" class="error" role="alert" hidden>Não foi possível carregar a apostila. <button onclick="location.reload()">Tentar novamente</button></div>
+ <h1 class="book-title">Apostila de Tributário</h1><p class="book-intro">Toda a apostila em uma página. Role para continuar a leitura ou abra o índice para ir direto a um assunto.</p><div id="article" aria-label="Apostila completa"><p>Carregando a apostila…</p></div>
+ <p id="status" class="sr-only" role="status" aria-live="polite"></p>
+</main><script type="module" src="apostila.js"></script></body></html>
