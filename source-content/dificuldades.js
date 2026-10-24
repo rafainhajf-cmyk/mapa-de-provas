@@ -1,5 +1,5 @@
 function editableExtractedHTML(text){return String(text||'').split(/\n\s*\n/).filter(part=>part.trim()).map(part=>'<p class="editable-transcript">'+esc(part.replace(/\s*\n\s*/g,' ').trim())+'</p>').join('');}
-import { mountStudyReader, studyFileProgress } from './study-reader.js?v=75';
+import { mountStudyReader, studyFileProgress } from './study-reader.js?v=78';
 let topicReaderCleanup=()=>{}, noteReaderCleanup=()=>{};
 const escapeHTML=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();

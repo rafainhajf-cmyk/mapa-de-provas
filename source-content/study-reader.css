@@ -98,3 +98,6 @@
 .reading-mode .continuous-topic{padding:4px 0}
 .reading-mode .topic-reading .reader-document,.reading-mode .continuous-topic .reader-document{padding:4px 0 6px}
 .reading-mode .reader-document>h3+.study-reader-section-tools{margin:1px 0 3px 7px}
+
+.study-reader-index-row .study-search-snippet{display:block;font-size:11px;line-height:1.45;font-weight:400;color:#63745c;margin:4px 0 2px;white-space:normal}
+.study-search-current-hit{background:#fff3bf!important;outline:2px solid #d0a449!important;outline-offset:3px;scroll-margin-top:88px}
