@@ -1,0 +1,77 @@
+/* One compact workspace for navigation, comparison and continuous study. */
+.main-header-navigation{height:44px;padding:4px 8px}
+.main-header-navigation nav{gap:6px}
+.main-header-navigation .main-header-button{padding:7px 12px;font-size:12px;min-height:30px}
+body.map-page,body.difficulty-page{padding-top:44px}
+.difficulty-page.reading-mode,.tax-book-page{padding-top:90px}
+.difficulty-page.reading-mode>main,.tax-book-page #reading{padding-top:10px;padding-bottom:24px}
+.reading-mode .study-reader-toggle,.tax-book-page .floating-menu{top:50px;padding:7px 12px;font-size:12px;max-width:185px}
+.reading-mode .study-reader-panel,.tax-book-page .outline{top:88px;bottom:10px;height:auto;padding:16px 14px}
+.text-edit-toolbar,.editing-study-text .text-edit-toolbar{top:50px;padding:3px}
+.text-edit-toolbar button{padding:4px 7px;font-size:11px}
+.quick-study-bar{position:fixed;top:50px;left:205px;right:155px;z-index:155;display:flex;align-items:center;gap:5px;min-height:31px;background:#fafcf9f5}
+.quick-study-bar select{box-sizing:border-box;min-width:0;max-width:100%;height:31px;border:1px solid #c5d5c5;border-radius:6px;padding:4px 7px;background:white;color:#24523d;font:12px system-ui,sans-serif;text-overflow:ellipsis}
+.quick-study-bar [data-quick-subject]{width:185px;flex-shrink:1}
+.quick-study-bar [data-quick-topic]{flex:1;width:100px}
+.quick-study-bar button{height:31px;padding:4px 10px;border:1px solid #c5d5c5;border-radius:6px;color:#24523d;background:white;font:12px system-ui,sans-serif;white-space:nowrap;cursor:pointer}
+.quick-study-bar select:focus-visible,.quick-study-bar button:focus-visible{outline:2px solid #bf963c;outline-offset:2px}
+.reading-mode .content-book-title{font-size:21px;margin:0 0 6px}
+.reading-mode .study-reading-hint{display:none}
+.reading-mode .continuous-area{font-size:22px;margin:10px 0 5px}
+.reading-mode .continuous-topic>header>h3{font-size:21px}
+.reading-mode .study-reader-heading,.reading-mode .study-search-current-hit{scroll-margin-top:108px}
+.reading-mode .study-reader-panel-head{padding-bottom:7px}
+.study-reader-panel-head strong{font-size:15px}
+.study-reader-panel .study-reader-progress{margin:8px 0 4px;font-size:11px}
+.study-reader-panel progress{margin-bottom:8px}
+.study-reader-panel input[type=search]{padding:7px 8px}
+.study-reader-panel .study-reader-filter{margin:7px 0;font-size:11px}
+.study-reader-panel .study-copy-observations{padding:5px 7px;margin-bottom:6px;font-size:11px}
+.study-reader-chapter>summary{padding:8px 2px;font-size:12px}
+.study-reader-panel .study-reader-info{margin-top:10px!important;padding-top:8px;font-size:10px!important}
+.study-options{margin:0 0 7px;border-bottom:1px solid #dfe7d9;padding-bottom:5px;font-size:11px;color:#607459}
+.study-options>summary{cursor:pointer;width:fit-content;padding:3px 0}
+.study-options[open]{padding-bottom:8px}
+.study-options[open]>.difficulty-tabs{margin-top:6px}
+.difficulty-page:not(.reading-mode) main>.page{padding-top:12px}
+.difficulty-page .difficulty-intro{margin-bottom:6px}
+.difficulty-page .difficulty-filters{margin-bottom:6px}
+.difficulty-page .uniform-subjects h3{margin:7px 0 6px}
+.map-page .intro p{display:none}
+.map-page .intro h1{font-size:23px;margin:0}
+.map-page .intro{margin-bottom:6px}
+.map-page .page{padding-top:9px}
+.map-page .stats{display:flex;gap:18px;flex-wrap:wrap;margin:6px 0 8px}
+.map-page .stat{padding:0;min-height:0;border:0;box-shadow:none;background:transparent;gap:0}
+.map-page .stat-icon{display:none}
+.map-page .stat>div{display:flex;align-items:baseline;gap:5px}
+.map-page .stat strong{font-size:16px}
+.map-page .stat small{font-size:10px;margin:0}
+.map-page .page-tabs{display:flex;flex-wrap:nowrap;overflow-x:auto;white-space:nowrap;margin:5px 0 8px;scrollbar-width:thin}
+.map-page .page-tabs button{flex:0 0 auto}
+.map-key-details{font-size:10px;color:#63785b;margin:5px 0}
+.map-key-details>summary{cursor:pointer;width:fit-content}
+.map-page .table-toolbar{margin:6px 0}
+.tax-book-page #reading{max-width:1440px;padding-left:24px;padding-right:24px}
+.tax-book-page .reader-top{padding-bottom:7px;font-size:9px}
+.tax-book-page .book-title{font-size:27px;margin:12px 0 5px}
+.tax-book-page .book-intro{font-size:12px;line-height:1.45;max-width:none;margin:0 0 12px}
+.tax-book-page .book-section,.tax-book-page .book-section.level-1{padding:13px 0 16px;scroll-margin-top:108px}
+.tax-book-page .book-section h2{font-size:23px;line-height:1.3;margin:0 0 8px}
+.tax-book-page .book-section.level-1 h2{font-size:26px}
+.tax-book-page .chapter-label{font-size:10px;margin-bottom:4px}
+.tax-book-page .section-tools{gap:8px;margin-bottom:10px}
+.tax-book-page .section-tools .mark{padding:4px 9px;font-size:10px}
+.tax-book-page .read-badge{font-size:10px;padding:2px 7px}
+.tax-book-page .article-body{max-width:none;font-size:15px;line-height:1.5}
+.tax-book-page .article-body p{margin:0 0 9px;line-height:1.5}
+.tax-book-page .table-wrap{margin:10px 0 12px}
+.tax-book-page th,.tax-book-page td{padding:8px 10px;line-height:1.45}
+.tax-book-page .outline .brand,.tax-book-page .outline .app-nav,.tax-book-page .library-title>span{display:none}
+.tax-book-page .library-title h1{font-size:20px;margin:8px 0 12px}
+.tax-book-page .progress-box{margin-bottom:10px}
+.tax-book-page #search{padding:7px 9px;margin:5px 0 8px}
+.tax-book-page .unread{margin-bottom:10px}
+.tax-book-page .local-note{padding-top:8px;margin-top:12px;font-size:10px}
+@media(max-width:1100px) and (min-width:761px){.quick-study-bar{left:190px;right:140px}.quick-study-bar [data-quick-subject]{width:145px}.quick-study-bar button{padding:4px 7px}.reading-mode .study-reader-toggle{max-width:165px;font-size:11px}}
+@media(max-width:760px){.main-header-navigation{height:44px}.main-header-navigation .main-header-button{min-height:32px;font-size:10px;padding:5px}.difficulty-page.reading-mode{padding-top:124px}.quick-study-bar{top:87px;left:10px;right:10px;gap:4px}.quick-study-bar [data-quick-subject]{width:37%}.quick-study-bar [data-quick-topic]{width:42%}.quick-study-bar button{padding:4px 7px}.reading-mode .study-reader-toggle,.tax-book-page .floating-menu{top:50px;left:10px;max-width:170px}.text-edit-toolbar,.editing-study-text .text-edit-toolbar{top:50px;right:10px}.reading-mode .study-reader-panel{top:124px}.reading-mode .study-reader-heading,.reading-mode .study-search-current-hit{scroll-margin-top:142px}.tax-book-page #reading{padding-left:12px;padding-right:12px}.tax-book-page .book-title{font-size:25px}.tax-book-page .book-section h2{font-size:21px}.tax-book-page th,.tax-book-page td{padding:7px 8px}}
