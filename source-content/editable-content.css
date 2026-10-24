@@ -1,0 +1,18 @@
+.text-edit-toolbar{position:fixed;right:14px;top:12px;z-index:190;display:flex;align-items:center;gap:5px;flex-wrap:wrap;max-width:calc(100vw - 225px);padding:5px;border:1px solid #cbd9ce;border-radius:9px;background:#fffffff5;box-shadow:0 2px 12px #173e3510;font:12px/1.3 system-ui;color:#315b43}
+.text-edit-toolbar button{font:inherit;padding:5px 8px;border:1px solid #c2d3bf;border-radius:5px;background:#f5f9f1;color:#28563f;cursor:pointer}
+.text-edit-toolbar button:disabled{opacity:.5}
+.text-edit-toolbar button:nth-child(2),.text-edit-toolbar button:nth-child(3),.text-edit-status{display:none}
+.text-edit-toolbar.has-saved-edits button:nth-child(2),.editing-study-text .text-edit-toolbar button:nth-child(3),.editing-study-text .text-edit-status{display:block}
+.text-edit-status{font-size:10px;flex-basis:100%}
+.text-edit-toolbar textarea{width:100%;min-height:130px;max-height:40vh}
+.editing-study-text .editable-study-text{outline:1px dashed #93b69b;outline-offset:2px;cursor:text;border-radius:2px}
+.editing-study-text .editable-study-text:focus{outline:2px solid #3d8256;background:#f7fff1}
+.editable-study-text.has-text-edit{box-shadow:inset 3px 0 #9abf7e}
+.reading-mode .reader-document p.editable-transcript{white-space:normal;line-height:1.5;margin:5px 0;font-size:15px}
+.converted-page{padding:4px 0}
+.conversion-notice{font-size:11px!important;color:#887044;margin:3px 0!important}
+.illustration-original{margin:5px 0;font-size:12px;color:#4a6c54}
+.illustration-original>summary{cursor:pointer;font-weight:500;padding:3px 0}
+.illustration-original:not([open])>*:not(summary){display:none}
+.illustration-original .study-pdf-page{margin:5px 0!important}
+@media(max-width:760px){.text-edit-toolbar{right:8px;top:10px;max-width:calc(100vw - 180px)}.editing-study-text .text-edit-toolbar{top:52px;max-width:calc(100vw - 16px)}}

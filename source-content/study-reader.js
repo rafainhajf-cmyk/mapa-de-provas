@@ -62,6 +62,7 @@ export function mountStudyReader(root,{title='Conteúdo de estudo'}={}){
  toggleButton.addEventListener('click',()=>open(panel.hidden));close.addEventListener('click',()=>{open(false);toggleButton.focus();});search.addEventListener('input',renderNav);filter.addEventListener('change',renderNav);criticalFilter.addEventListener('change',renderNav);
  const escape=e=>{if(e.key==='Escape'&&!panel.hidden){e.preventDefault();e.stopPropagation();open(false);toggleButton.focus();}};
  const sync=e=>{if(e.key===KEY&&!disposed){seen=read();critical=readCritical();update();}};
+ const editSync=event=>{const target=event.target,entry=entries.find(e=>e.heading===target);if(!entry)return;entry.label=target.textContent.trim();const chapter=target.closest('[data-reading-topic]');if(chapter?.querySelector(':scope>header>h3')===target)for(const e of entries)if(e.groupKey===entry.groupKey)e.groupTitle=entry.label;const file=target.closest('.reader-document');if(file?.querySelector('h3')===target)for(const e of entries)if(e.heading.closest('.reader-document')===file)e.fileTitle=entry.label;renderNav();};root.addEventListener('study-content-edited',editSync);
  root.addEventListener('keydown',escape);window.addEventListener('storage',sync);update();open(globalThis.matchMedia?.('(min-width: 1100px)').matches??false);
- return ()=>{disposed=true;root.removeEventListener('keydown',escape);window.removeEventListener('storage',sync);};
+ return ()=>{disposed=true;root.removeEventListener('study-content-edited',editSync);root.removeEventListener('keydown',escape);window.removeEventListener('storage',sync);};
 }
