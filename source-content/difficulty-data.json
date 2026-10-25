@@ -1890,6 +1890,161 @@
       "status": "read",
       "checkedAt": "2026-10-24T12:11:11.159380+00:00",
       "files": []
+    },
+    {
+      "id": "ti-ciencia-de-dados",
+      "title": "Ciência de Dados",
+      "url": "",
+      "path": [
+        "Ciência de Dados"
+      ],
+      "subject": "Ciência de Dados",
+      "parentSubject": "TI",
+      "sourceType": "user-upload",
+      "status": "read",
+      "checkedAt": "2026-10-25T15:36:53.910593+00:00",
+      "files": [
+        {
+          "id": "cd-a-01",
+          "title": "Teoria da Informação",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-a-02",
+          "title": "Dados Abertos",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-a-03",
+          "title": "Ciclo de Vida da Informação · ILM",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-a-04",
+          "title": "Governança de Dados e DAMA-DMBOK",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-a-05",
+          "title": "Qualidade de Dados",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-b-01",
+          "title": "Data mining e KDD",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-b-02",
+          "title": "Formatos de dados · CSV, XML e JSON",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-b-03",
+          "title": "CRISP-DM",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-c-01",
+          "title": "Machine Learning e algoritmos",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-c-02",
+          "title": "Avaliação de modelos · Matriz de confusão e ROC",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-c-03",
+          "title": "Detecção de anomalias",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-d-01",
+          "title": "Processamento de Linguagem Natural · PLN",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-d-02",
+          "title": "Inteligência Artificial · tipos e conceitos",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-d-03",
+          "title": "Modelos de Linguagem de Grande Porte · LLMs",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-d-04",
+          "title": "Ética em IA · FAT e vieses",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-e-01",
+          "title": "Power BI",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-e-02",
+          "title": "Análise Exploratória de Dados · AED",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-e-03",
+          "title": "Ferramentas de BI e Visualização de Dados",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-e-04",
+          "title": "Ferramentas de análise de dados",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        },
+        {
+          "id": "cd-e-05",
+          "title": "Observabilidade",
+          "mimeType": "text/plain",
+          "url": "",
+          "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
+        }
+      ]
     }
   ],
   "analysis": {
@@ -16460,6 +16615,1220 @@
             "questionTheory": []
           }
         ]
+      },
+      {
+        "id": "cd-a-01",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Teoria da Informação",
+        "category": "Ciência de Dados",
+        "summary": "Assunto do índice cadastrado; aguardando anotações.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Anotações",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Assunto cadastrado na sequência enviada. Aguardando suas anotações. Este trecho ainda não foi preenchido com teoria."
+              }
+            ]
+          }
+        ],
+        "sourceDocuments": []
+      },
+      {
+        "id": "cd-a-02",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Dados Abertos",
+        "category": "Ciência de Dados",
+        "summary": "Assunto do índice cadastrado; aguardando anotações.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Anotações",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Assunto cadastrado na sequência enviada. Aguardando suas anotações. Este trecho ainda não foi preenchido com teoria."
+              }
+            ]
+          }
+        ],
+        "sourceDocuments": []
+      },
+      {
+        "id": "cd-a-03",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Ciclo de Vida da Informação · ILM",
+        "category": "Ciência de Dados",
+        "summary": "1 PDF(s) do usuário organizados neste assunto.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "ILM  ciclo de vida informação",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "ILM (Information Lifecycle Management) gerencia a informação desde a criação até o descarte, por meio de políticas, processos e tecnologias."
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Etapa",
+                    "Finalidade nas suas anotações"
+                  ],
+                  [
+                    "1 · Criação / captura",
+                    "Criar ou coletar dados: e-mails, registros e relatórios."
+                  ],
+                  [
+                    "2 · Armazenamento",
+                    "Guardar com atenção a custo, desempenho e segurança."
+                  ],
+                  [
+                    "3 · Uso / distribuição",
+                    "Usar em operações, decisões, relatórios e análises."
+                  ],
+                  [
+                    "4 · Retenção",
+                    "Manter pelo tempo necessário ao negócio e aos requisitos aplicáveis."
+                  ],
+                  [
+                    "5 · Arquivamento",
+                    "Mover dados pouco ativos para guarda de longo prazo."
+                  ],
+                  [
+                    "6 · Exclusão / descarte",
+                    "Eliminar com segurança ao final da necessidade de guarda."
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Benefícios anotados: reduzir custos de armazenamento e backup, aumentar segurança, apoiar conformidade e reduzir riscos de vazamento ou perda."
+              }
+            ],
+            "sourceId": "libfile_1cb2f8c67824819198586fdeca6476b6"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "ILM  ciclo de vida informação.pdf",
+            "libraryFileId": "libfile_1cb2f8c67824819198586fdeca6476b6",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Ciência de Dados",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "cd-a-04",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Governança de Dados e DAMA-DMBOK",
+        "category": "Ciência de Dados",
+        "summary": "1 PDF(s) do usuário organizados neste assunto.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Modelos de governança · DAMA-DMBOK",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O DAMA-DMBOK2 (Data Management Body of Knowledge) é um guia reconhecido internacionalmente que oferece uma visão abrangente sobre as melhores práticas de gerenciamento de dados. Ele aborda os desafios e complexidades do gerenciamento eficaz de dados nas organizações, destacando seu valor estratégico. O gerenciamento de dados não é apenas uma questão técnica, mas também envolve aspectos organizacionais, éticos e de conformidade que são fundamentais para a operação bem-sucedida das corporações."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Dentro do DAMA-DMBOK2, um dos tópicos mais discutidos é a governança de dados, que se refere ao conjunto de práticas, processos e políticas que garantem a gestão eficaz e ética dos dados em uma organização. A governança de dados é crucial para assegurar a qualidade, segurança e acessibilidade das informações, além de garantir que os dados sejam usados de maneira responsável e em conformidade com as regulamentações vigentes."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Os modelos operacionais de governança de dados apresentados no DAMA-DMBOK2 incluem três categorias principais: centralizado, replicado e federado. Cada um desses modelos tem características distintas que podem ser aplicadas de acordo com as necessidades e a estrutura da organização."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Modelo Centralizado: Nesse modelo, todas as funções de governança de dados são gerenciadas de um único ponto ou departamento. Isso pode levar a uma abordagem mais coesa e uniforme para o gerenciamento de dados, facilitando a implementação de políticas e práticas de governança."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "1."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Modelo Replicado: Este modelo permite que as práticas de governança sejam implementadas em várias áreas da organização, mas com uma coordenação central. Embora as unidades possam operar de maneira independente, elas seguem diretrizes e políticas estabelecidas por uma autoridade central."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "2."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Modelo Federado: Aqui, a governança é compartilhada entre diferentes unidades da organização, permitindo que cada uma tenha seu próprio conjunto de práticas enquanto ainda se alinha a uma estratégia global de governança. Esse modelo é útil em organizações maiores ou com diversas divisões, onde as necessidades podem variar significativamente."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "3."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Portanto, a opção correta relacionada aos tipos de modelos operacionais de governança de dados discutidos no DAMA-DMBOK2 é a D: centralizado, replicado e federado. Esses modelos refletem a flexibilidade e a adaptabilidade necessárias para enfrentar os desafios do gerenciamento de dados em um ambiente corporativo em constante evolução."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Conclusão: O DAMA-DMBOK2 não apenas destaca a importância da governança de dados, mas também fornece um framework claro que ajuda as organizações a selecionar o modelo mais adequado para suas operações. Compreender esses modelos é fundamental para enfrentar os desafios do gerenciamento de dados e garantir que eles sejam tratados como um ativo estratégico, contribuindo para a eficiência e a competitividade da organização."
+              }
+            ],
+            "sourceId": "libfile_22adfc1593e48191bfa0b34264415dd9"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "DAMA modelos governança.pdf",
+            "libraryFileId": "libfile_22adfc1593e48191bfa0b34264415dd9",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Ciência de Dados",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "cd-a-05",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Qualidade de Dados",
+        "category": "Ciência de Dados",
+        "summary": "Assunto do índice cadastrado; aguardando anotações.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Anotações",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Assunto cadastrado na sequência enviada. Aguardando suas anotações. Este trecho ainda não foi preenchido com teoria."
+              }
+            ]
+          }
+        ],
+        "sourceDocuments": []
+      },
+      {
+        "id": "cd-b-01",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Data mining e KDD",
+        "category": "Ciência de Dados",
+        "summary": "1 PDF(s) do usuário organizados neste assunto.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "KDD",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "KDD (Knowledge Discovery in Databases) é o processo de descobrir conhecimento útil a partir dos dados."
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Etapa",
+                    "O que faz"
+                  ],
+                  [
+                    "1 · Seleção",
+                    "Escolhe os dados que serão usados."
+                  ],
+                  [
+                    "2 · Pré-processamento / limpeza",
+                    "Trata erros, duplicatas e valores ausentes."
+                  ],
+                  [
+                    "3 · Transformação",
+                    "Prepara a representação adequada para análise."
+                  ],
+                  [
+                    "4 · Mineração de dados",
+                    "Aplica algoritmos para identificar padrões ou modelos."
+                  ],
+                  [
+                    "5 · Interpretação / avaliação",
+                    "Analisa e interpreta os padrões obtidos."
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Para não confundir: mineração é uma etapa do KDD. CRISP-DM é uma metodologia para o ciclo de um projeto, que inclui entendimento do negócio e implantação; não cabe apenas dentro da etapa de mineração do KDD."
+              },
+              {
+                "type": "reference",
+                "text": "Referência: Fayyad, Piatetsky-Shapiro e Smyth · KDD e mineração",
+                "url": "https://www.microsoft.com/en-us/research/publication/knowledge-discovery-and-data-mining-towards-a-unifying-framework/"
+              }
+            ],
+            "sourceId": "libfile_5b02b74c5ea0819183b5c169f634a1df"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "kdd.pdf",
+            "libraryFileId": "libfile_5b02b74c5ea0819183b5c169f634a1df",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Ciência de Dados",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "cd-b-02",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Formatos de dados · CSV, XML e JSON",
+        "category": "Ciência de Dados",
+        "summary": "Assunto do índice cadastrado; aguardando anotações.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Anotações",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Assunto cadastrado na sequência enviada. Aguardando suas anotações. Este trecho ainda não foi preenchido com teoria."
+              }
+            ]
+          }
+        ],
+        "sourceDocuments": []
+      },
+      {
+        "id": "cd-b-03",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "CRISP-DM",
+        "category": "Ciência de Dados",
+        "summary": "1 PDF(s) do usuário organizados neste assunto.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "CRISP-DM",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Seu mnemônico: “NEGÓCIO DA PM AI”. São seis fases; o mnemônico não é uma fase adicional."
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Fase",
+                    "O que fazer"
+                  ],
+                  [
+                    "1 · Entendimento do negócio",
+                    "Definir objetivos, restrições e critérios de sucesso do negócio."
+                  ],
+                  [
+                    "2 · Entendimento dos dados",
+                    "Coletar inicialmente, descrever e explorar os dados."
+                  ],
+                  [
+                    "3 · Preparação dos dados",
+                    "Selecionar, limpar, transformar e integrar o conjunto de dados."
+                  ],
+                  [
+                    "4 · Modelagem",
+                    "Aplicar técnicas e algoritmos e construir modelos."
+                  ],
+                  [
+                    "5 · Avaliação",
+                    "Verificar os resultados e sua adequação ao objetivo de negócio."
+                  ],
+                  [
+                    "6 · Implantação",
+                    "Entregar os resultados: modelo, relatório ou integração; planejar uso e acompanhamento."
+                  ]
+                ]
+              },
+              {
+                "type": "image",
+                "src": "assets/ds-original-02-1-1.webp",
+                "alt": "CRISP-DM  — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_a51fdc1b94108191a44b57dce7fff2f2",
+                "sourcePage": 1
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Conferência: no PDF, a numeração chega a 7 porque o mnemônico ocupa o primeiro item. O CRISP-DM tem seis fases e admite retornos entre elas."
+              },
+              {
+                "type": "reference",
+                "text": "Referência: IBM · visão geral do CRISP-DM",
+                "url": "https://www.ibm.com/docs/en/spss-modeler/saas?topic=dm-crisp-help-overview"
+              }
+            ],
+            "sourceId": "libfile_a51fdc1b94108191a44b57dce7fff2f2"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "CRISP-DM .pdf",
+            "libraryFileId": "libfile_a51fdc1b94108191a44b57dce7fff2f2",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Ciência de Dados",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "cd-c-01",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Machine Learning e algoritmos",
+        "category": "Ciência de Dados",
+        "summary": "1 PDF(s) do usuário organizados neste assunto.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Algoritmos de Machine Learning",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/ds-original-08-1-1.webp",
+                "alt": "Mineracao tecnicas — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_7f56650a6d88819196b43c11be7dd0ab",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Aprendizado não supervisionado: trabalha sem rótulos de resposta; o quadro reúne agrupamento, associação, redução de dimensionalidade e detecção de anomalias."
+                  },
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Sem rótulos · técnica",
+                        "Finalidade no quadro"
+                      ],
+                      [
+                        "K-Means / DBSCAN / agrupamento hierárquico",
+                        "Agrupamento de observações semelhantes."
+                      ],
+                      [
+                        "PCA",
+                        "Redução de dimensionalidade."
+                      ],
+                      [
+                        "Apriori / FP-Growth",
+                        "Regras de associação."
+                      ],
+                      [
+                        "Isolation Forest",
+                        "Detecção de outliers."
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Aprendizado supervisionado: usa dados com rótulos ou valores-alvo."
+                  },
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Com rótulos · algoritmo",
+                        "Tarefa no quadro"
+                      ],
+                      [
+                        "k-NN",
+                        "Classificação e regressão."
+                      ],
+                      [
+                        "Regressão linear",
+                        "Regressão."
+                      ],
+                      [
+                        "Árvores de decisão / florestas aleatórias",
+                        "Classificação e regressão."
+                      ],
+                      [
+                        "Naive Bayes",
+                        "Classificação."
+                      ],
+                      [
+                        "Support Vector Machine (SVM)",
+                        "Classificação; a família inclui variantes de regressão."
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_7f56650a6d88819196b43c11be7dd0ab"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Mineracao tecnicas.pdf",
+            "libraryFileId": "libfile_7f56650a6d88819196b43c11be7dd0ab",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Ciência de Dados",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "cd-c-02",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Avaliação de modelos · Matriz de confusão e ROC",
+        "category": "Ciência de Dados",
+        "summary": "2 PDF(s) do usuário organizados neste assunto.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Matriz de confusão",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Conferência da acurácia: o numerador correto é VP + VN, dividido pelo total. Um dos itens do quadro escreve VP + FN, mas a fração logo abaixo traz VP + VN corretamente."
+              },
+              {
+                "type": "image",
+                "src": "assets/ds-original-07-1-1.webp",
+                "alt": "Matriz de confusão — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_2e3e2261e7dc819193ab6f287c780024",
+                "sourcePage": 1
+              },
+              {
+                "type": "image",
+                "src": "assets/ds-original-07-2-1.webp",
+                "alt": "Matriz de confusão — página 2",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_2e3e2261e7dc819193ab6f287c780024",
+                "sourcePage": 2
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Previsão / realidade",
+                        "Real positivo",
+                        "Real negativo"
+                      ],
+                      [
+                        "Previsto positivo",
+                        "VP · verdadeiro positivo",
+                        "FP · falso positivo"
+                      ],
+                      [
+                        "Previsto negativo",
+                        "FN · falso negativo",
+                        "VN · verdadeiro negativo"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Métrica",
+                        "Fórmula",
+                        "Pergunta para lembrar"
+                      ],
+                      [
+                        "Acurácia",
+                        "(VP+VN)/(VP+VN+FP+FN)",
+                        "Quantos acertos houve no total?"
+                      ],
+                      [
+                        "Precisão",
+                        "VP/(VP+FP)",
+                        "Dos previstos positivos, quantos eram positivos?"
+                      ],
+                      [
+                        "Recall / sensibilidade / revocação",
+                        "VP/(VP+FN)",
+                        "Dos positivos reais, quantos foram encontrados?"
+                      ],
+                      [
+                        "Especificidade",
+                        "VN/(VN+FP)",
+                        "Dos negativos reais, quantos foram reconhecidos?"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "VP = TP; VN = TN. Positivo/negativo indica a previsão; verdadeiro/falso indica se ela está correta. Precisão e sensibilidade usam denominadores diferentes."
+                  }
+                ]
+              },
+              {
+                "type": "reference",
+                "text": "Referência: scikit-learn · métricas de classificação",
+                "url": "https://scikit-learn.org/stable/modules/model_evaluation.html"
+              }
+            ],
+            "sourceId": "libfile_2e3e2261e7dc819193ab6f287c780024"
+          },
+          {
+            "title": "Curva ROC",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A curva ROC compara a taxa de verdadeiros positivos (sensibilidade) com a taxa de falsos positivos (1 − especificidade), variando o limiar de decisão."
+              },
+              {
+                "type": "image",
+                "src": "assets/ds-original-03-1-1.webp",
+                "alt": "Curva ROC — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_8fb5d1978b0c81918e906ce396d86728",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Item",
+                        "Leitura"
+                      ],
+                      [
+                        "Eixo vertical · TPR",
+                        "Sensibilidade = VP/(VP+FN)."
+                      ],
+                      [
+                        "Eixo horizontal · FPR",
+                        "1 − especificidade = FP/(FP+VN)."
+                      ],
+                      [
+                        "AUC",
+                        "Área sob a ROC; valores de 0 a 1. A diagonal aleatória tem AUC 0,5; a discriminação perfeita tem AUC 1."
+                      ],
+                      [
+                        "Ponto (0,1)",
+                        "Ausência de falsos positivos e sensibilidade máxima."
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "O ponto de corte depende do objetivo e dos custos de FP e FN. A proximidade de (0,1) é um critério geométrico, não uma regra universal de decisão."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Em classes muito desbalanceadas, examine também precisão e recall e a curva Precision–Recall; não escolha uma métrica apenas pelo desbalanceamento."
+                  }
+                ]
+              },
+              {
+                "type": "reference",
+                "text": "Referência: scikit-learn · Precision–Recall",
+                "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html"
+              }
+            ],
+            "sourceId": "libfile_8fb5d1978b0c81918e906ce396d86728"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Matriz de confusão.pdf",
+            "libraryFileId": "libfile_2e3e2261e7dc819193ab6f287c780024",
+            "pages": [
+              1,
+              2
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Ciência de Dados",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Curva ROC.pdf",
+            "libraryFileId": "libfile_8fb5d1978b0c81918e906ce396d86728",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Ciência de Dados",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "cd-c-03",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Detecção de anomalias",
+        "category": "Ciência de Dados",
+        "summary": "1 PDF(s) do usuário organizados neste assunto.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Tipos de anomalias",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/ds-original-09-1-1.webp",
+                "alt": "Tipos de anomalias — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_7d51054e104881918dab0f083e78378c",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Tipo no esquema",
+                        "Como reconhecer",
+                        "Exemplo do material"
+                      ],
+                      [
+                        "Não intencional / erro ou ruído",
+                        "Problema de medição ou registro.",
+                        "Sensor defeituoso registra temperatura errada."
+                      ],
+                      [
+                        "Pontual",
+                        "Uma observação isolada se destaca.",
+                        "Um saque muito maior que os anteriores."
+                      ],
+                      [
+                        "Contextual",
+                        "Valor estranho em seu contexto.",
+                        "Consumo elevado de energia num período em que deveria ser baixo."
+                      ],
+                      [
+                        "Coletiva",
+                        "Um conjunto de registros é anômalo em conjunto.",
+                        "Muitos endereços IP tentando acessar simultaneamente."
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Distinção: “não intencional” descreve uma possível origem, como erro ou ruído. Pontual, contextual e coletiva são categorias clássicas de anomalia; nem toda anomalia é um erro de dado."
+              },
+              {
+                "type": "reference",
+                "text": "Referência: Chandola, Banerjee e Kumar · Anomaly Detection: A Survey",
+                "url": "https://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf"
+              }
+            ],
+            "sourceId": "libfile_7d51054e104881918dab0f083e78378c"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Tipos de anomalias.pdf",
+            "libraryFileId": "libfile_7d51054e104881918dab0f083e78378c",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Ciência de Dados",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "cd-d-01",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Processamento de Linguagem Natural · PLN",
+        "category": "Ciência de Dados",
+        "summary": "Assunto do índice cadastrado; aguardando anotações.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Anotações",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Assunto cadastrado na sequência enviada. Aguardando suas anotações. Este trecho ainda não foi preenchido com teoria."
+              }
+            ]
+          }
+        ],
+        "sourceDocuments": []
+      },
+      {
+        "id": "cd-d-02",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Inteligência Artificial · tipos e conceitos",
+        "category": "Ciência de Dados",
+        "summary": "1 PDF(s) do usuário organizados neste assunto.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Tipos de ia",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/ds-original-10-1-1.webp",
+                "alt": "Tipos de ia — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_858acfa432b08191addb9319ea75fc29",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Categoria do quadro",
+                        "Ideia central",
+                        "Exemplos anotados"
+                      ],
+                      [
+                        "IA fraca / estreita",
+                        "Executa tarefas específicas.",
+                        "Assistentes virtuais e recomendação."
+                      ],
+                      [
+                        "IA forte / AGI",
+                        "Hipótese de capacidade geral de raciocínio e aprendizagem.",
+                        "JARVIS e Skynet são exemplos fictícios citados no quadro."
+                      ],
+                      [
+                        "IA generativa",
+                        "Gera conteúdo: texto, imagens, áudio etc.",
+                        "ChatGPT, DALL-E, Deepfake e MusicLM."
+                      ],
+                      [
+                        "Teste de Turing",
+                        "Teste comportamental de imitação de uma conversa humana.",
+                        "Não é um tipo de IA nem comprovação de consciência."
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Para organizar: “estreita/geral” trata da abrangência da capacidade; “generativa” trata da geração de conteúdo. São critérios diferentes, não categorias necessariamente excludentes."
+              }
+            ],
+            "sourceId": "libfile_858acfa432b08191addb9319ea75fc29"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Tipos de ia.pdf",
+            "libraryFileId": "libfile_858acfa432b08191addb9319ea75fc29",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Ciência de Dados",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "cd-d-03",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Modelos de Linguagem de Grande Porte · LLMs",
+        "category": "Ciência de Dados",
+        "summary": "Assunto do índice cadastrado; aguardando anotações.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Anotações",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Assunto cadastrado na sequência enviada. Aguardando suas anotações. Este trecho ainda não foi preenchido com teoria."
+              }
+            ]
+          }
+        ],
+        "sourceDocuments": []
+      },
+      {
+        "id": "cd-d-04",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Ética em IA · FAT e vieses",
+        "category": "Ciência de Dados",
+        "summary": "2 PDF(s) do usuário organizados neste assunto.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Princípios éticos · FAT",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "FAT reúne três princípios para a ética em IA."
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Sigla",
+                    "Princípio",
+                    "Ideia das suas anotações"
+                  ],
+                  [
+                    "F",
+                    "Fairness · Justiça",
+                    "Tratar pessoas e grupos de forma justa, sem discriminação."
+                  ],
+                  [
+                    "A",
+                    "Accountability · Responsabilização",
+                    "Responsáveis pelo desenvolvimento e uso respondem pelas consequências."
+                  ],
+                  [
+                    "T",
+                    "Transparency · Transparência",
+                    "Processos e decisões compreensíveis e auditáveis."
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Finalidade: reduzir problemas éticos e apoiar sistemas confiáveis e respeitosos dos direitos das pessoas."
+              }
+            ],
+            "sourceId": "libfile_3ed41a160fe0819197598e1baf05f113"
+          },
+          {
+            "title": "Vieses da IA generativa",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/ds-original-11-1-1.webp",
+                "alt": "Vieis — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_77cdc3761b548191950078c501cc538b",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Item do quadro",
+                        "Ideia e exemplo anotados"
+                      ],
+                      [
+                        "Viés de dados",
+                        "Dados representam mal certos grupos; poucas imagens de mulheres em posições de liderança."
+                      ],
+                      [
+                        "Viés de seleção",
+                        "A coleta privilegia certas fontes, culturas ou perfis; dados apenas de países desenvolvidos."
+                      ],
+                      [
+                        "Viés algorítmico",
+                        "O modelo ou método de treino favorece resultados; priorizar precisão sem considerar equidade."
+                      ],
+                      [
+                        "Confirmação",
+                        "Perguntas e premissas do usuário podem induzir respostas na mesma direção."
+                      ],
+                      [
+                        "Cultural / social",
+                        "Respostas reproduzem normas e valores dominantes como se fossem gerais."
+                      ],
+                      [
+                        "Automação",
+                        "Confiar excessivamente no sistema sem conferir."
+                      ],
+                      [
+                        "Representatividade",
+                        "Grupos aparecem pouco ou de forma estereotipada."
+                      ],
+                      [
+                        "Ancoragem",
+                        "Uma informação inicial influencia estimativas e respostas seguintes."
+                      ],
+                      [
+                        "Alucinação",
+                        "Conteúdo inventado com aparência de verdade: fontes, fatos ou dados inexistentes."
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "O quadro reúne fenômenos distintos: vieses de dados e modelos, vieses humanos e alucinações. Alucinação não é sinônimo de viés estatístico. O material propõe dados diversos, testes, transparência e supervisão humana."
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_77cdc3761b548191950078c501cc538b"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "acrônimo FAT.pdf",
+            "libraryFileId": "libfile_3ed41a160fe0819197598e1baf05f113",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Ciência de Dados",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Vieis.pdf",
+            "libraryFileId": "libfile_77cdc3761b548191950078c501cc538b",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Ciência de Dados",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "cd-e-01",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Power BI",
+        "category": "Ciência de Dados",
+        "summary": "Assunto do índice cadastrado; aguardando anotações.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Anotações",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Assunto cadastrado na sequência enviada. Aguardando suas anotações. Este trecho ainda não foi preenchido com teoria."
+              }
+            ]
+          }
+        ],
+        "sourceDocuments": []
+      },
+      {
+        "id": "cd-e-02",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Análise Exploratória de Dados · AED",
+        "category": "Ciência de Dados",
+        "summary": "Assunto do índice cadastrado; aguardando anotações.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Anotações",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Assunto cadastrado na sequência enviada. Aguardando suas anotações. Este trecho ainda não foi preenchido com teoria."
+              }
+            ]
+          }
+        ],
+        "sourceDocuments": []
+      },
+      {
+        "id": "cd-e-03",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Ferramentas de BI e Visualização de Dados",
+        "category": "Ciência de Dados",
+        "summary": "Assunto do índice cadastrado; aguardando anotações.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Anotações",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Assunto cadastrado na sequência enviada. Aguardando suas anotações. Este trecho ainda não foi preenchido com teoria."
+              }
+            ]
+          }
+        ],
+        "sourceDocuments": []
+      },
+      {
+        "id": "cd-e-04",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Ferramentas de análise de dados",
+        "category": "Ciência de Dados",
+        "summary": "Assunto do índice cadastrado; aguardando anotações.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Anotações",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Assunto cadastrado na sequência enviada. Aguardando suas anotações. Este trecho ainda não foi preenchido com teoria."
+              }
+            ]
+          }
+        ],
+        "sourceDocuments": []
+      },
+      {
+        "id": "cd-e-05",
+        "modifiedAt": "2026-10-25T15:36:53.910593+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Observabilidade",
+        "category": "Ciência de Dados",
+        "summary": "Assunto do índice cadastrado; aguardando anotações.",
+        "source": "Índice e anotações enviados pelo usuário em 25/10/2026. Imagens originais preservadas; transcrição editável e conferências pontuais identificadas.",
+        "parentSubject": "TI",
+        "contentSections": [
+          {
+            "title": "Anotações",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Assunto cadastrado na sequência enviada. Aguardando suas anotações. Este trecho ainda não foi preenchido com teoria."
+              }
+            ]
+          }
+        ],
+        "sourceDocuments": []
       }
     ],
     "findings": [],
@@ -17753,6 +19122,154 @@
           ]
         }
       ]
+    },
+    "Ciência de Dados": {
+      "coverage": "complete",
+      "source": "Conteúdo completo enviado pelo usuário; blocos A a E usados para sequência, com assuntos semelhantes reunidos. Preenchimento parcial conforme os 11 PDFs recebidos.",
+      "parentSubject": "TI",
+      "rootFolderId": "ti-ciencia-de-dados",
+      "nodes": [
+        {
+          "id": "cd-a-01",
+          "title": "Teoria da Informação",
+          "fileIds": [
+            "cd-a-01"
+          ]
+        },
+        {
+          "id": "cd-a-02",
+          "title": "Dados Abertos",
+          "fileIds": [
+            "cd-a-02"
+          ]
+        },
+        {
+          "id": "cd-a-03",
+          "title": "Ciclo de Vida da Informação · ILM",
+          "fileIds": [
+            "cd-a-03"
+          ]
+        },
+        {
+          "id": "cd-a-04",
+          "title": "Governança de Dados e DAMA-DMBOK",
+          "fileIds": [
+            "cd-a-04"
+          ]
+        },
+        {
+          "id": "cd-a-05",
+          "title": "Qualidade de Dados",
+          "fileIds": [
+            "cd-a-05"
+          ]
+        },
+        {
+          "id": "cd-b-01",
+          "title": "Data mining e KDD",
+          "fileIds": [
+            "cd-b-01"
+          ]
+        },
+        {
+          "id": "cd-b-02",
+          "title": "Formatos de dados · CSV, XML e JSON",
+          "fileIds": [
+            "cd-b-02"
+          ]
+        },
+        {
+          "id": "cd-b-03",
+          "title": "CRISP-DM",
+          "fileIds": [
+            "cd-b-03"
+          ]
+        },
+        {
+          "id": "cd-c-01",
+          "title": "Machine Learning e algoritmos",
+          "fileIds": [
+            "cd-c-01"
+          ]
+        },
+        {
+          "id": "cd-c-02",
+          "title": "Avaliação de modelos · Matriz de confusão e ROC",
+          "fileIds": [
+            "cd-c-02"
+          ]
+        },
+        {
+          "id": "cd-c-03",
+          "title": "Detecção de anomalias",
+          "fileIds": [
+            "cd-c-03"
+          ]
+        },
+        {
+          "id": "cd-d-01",
+          "title": "Processamento de Linguagem Natural · PLN",
+          "fileIds": [
+            "cd-d-01"
+          ]
+        },
+        {
+          "id": "cd-d-02",
+          "title": "Inteligência Artificial · tipos e conceitos",
+          "fileIds": [
+            "cd-d-02"
+          ]
+        },
+        {
+          "id": "cd-d-03",
+          "title": "Modelos de Linguagem de Grande Porte · LLMs",
+          "fileIds": [
+            "cd-d-03"
+          ]
+        },
+        {
+          "id": "cd-d-04",
+          "title": "Ética em IA · FAT e vieses",
+          "fileIds": [
+            "cd-d-04"
+          ]
+        },
+        {
+          "id": "cd-e-01",
+          "title": "Power BI",
+          "fileIds": [
+            "cd-e-01"
+          ]
+        },
+        {
+          "id": "cd-e-02",
+          "title": "Análise Exploratória de Dados · AED",
+          "fileIds": [
+            "cd-e-02"
+          ]
+        },
+        {
+          "id": "cd-e-03",
+          "title": "Ferramentas de BI e Visualização de Dados",
+          "fileIds": [
+            "cd-e-03"
+          ]
+        },
+        {
+          "id": "cd-e-04",
+          "title": "Ferramentas de análise de dados",
+          "fileIds": [
+            "cd-e-04"
+          ]
+        },
+        {
+          "id": "cd-e-05",
+          "title": "Observabilidade",
+          "fileIds": [
+            "cd-e-05"
+          ]
+        }
+      ]
     }
   },
   "subjectResources": [
@@ -18169,9 +19686,125 @@
       "receivedAt": "2026-10-25",
       "subject": "Contabilidade",
       "type": "user-pdf"
+    },
+    {
+      "name": "acrônimo FAT.pdf",
+      "libraryFileId": "libfile_3ed41a160fe0819197598e1baf05f113",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Ciência de Dados",
+      "type": "user-pdf"
+    },
+    {
+      "name": "CRISP-DM .pdf",
+      "libraryFileId": "libfile_a51fdc1b94108191a44b57dce7fff2f2",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Ciência de Dados",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Curva ROC.pdf",
+      "libraryFileId": "libfile_8fb5d1978b0c81918e906ce396d86728",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Ciência de Dados",
+      "type": "user-pdf"
+    },
+    {
+      "name": "DAMA modelos governança.pdf",
+      "libraryFileId": "libfile_22adfc1593e48191bfa0b34264415dd9",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Ciência de Dados",
+      "type": "user-pdf"
+    },
+    {
+      "name": "ILM  ciclo de vida informação.pdf",
+      "libraryFileId": "libfile_1cb2f8c67824819198586fdeca6476b6",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Ciência de Dados",
+      "type": "user-pdf"
+    },
+    {
+      "name": "kdd.pdf",
+      "libraryFileId": "libfile_5b02b74c5ea0819183b5c169f634a1df",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Ciência de Dados",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Matriz de confusão.pdf",
+      "libraryFileId": "libfile_2e3e2261e7dc819193ab6f287c780024",
+      "pages": [
+        1,
+        2
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Ciência de Dados",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Mineracao tecnicas.pdf",
+      "libraryFileId": "libfile_7f56650a6d88819196b43c11be7dd0ab",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Ciência de Dados",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Tipos de anomalias.pdf",
+      "libraryFileId": "libfile_7d51054e104881918dab0f083e78378c",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Ciência de Dados",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Tipos de ia.pdf",
+      "libraryFileId": "libfile_858acfa432b08191addb9319ea75fc29",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Ciência de Dados",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Vieis.pdf",
+      "libraryFileId": "libfile_77cdc3761b548191950078c501cc538b",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Ciência de Dados",
+      "type": "user-pdf"
     }
   ],
   "subjectAliases": {
     "Economia": "Macroeconomia"
+  },
+  "subjectFamilies": {
+    "TI": [
+      "Ciência de Dados"
+    ]
   }
 }
