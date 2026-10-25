@@ -174,3 +174,5 @@ function openPdfExport(topicKey='all'){
 $('#exportContentPdf').onclick=()=>openPdfExport();
 
 $('#results').addEventListener('click',e=>{const b=e.target.closest('[data-pdf-topic]');if(b)openPdfExport(b.dataset.pdfTopic)});
+
+window.addEventListener('storage',event=>{if(event.key!==KEY||!event.newValue)return;try{const next=JSON.parse(event.newValue);progress=next.progress||{};notes=next.notes||{};materialLinks=cleanMaterialLinks(next.materialLinks);render();}catch{}});

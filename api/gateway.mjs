@@ -4,6 +4,7 @@ import { readFile, stat } from 'node:fs/promises';
 import { createReadStream } from 'node:fs';
 import path from 'node:path';
 import { loginPage, logoutControl } from '../lib/login.mjs';
+import { handleStudySync } from '../lib/study-sync.mjs';
 
 const mime = { '.html':'text/html; charset=utf-8', '.js':'text/javascript; charset=utf-8', '.css':'text/css; charset=utf-8', '.json':'application/json; charset=utf-8', '.pdf':'application/pdf', '.png':'image/png', '.jpg':'image/jpeg', '.jpeg':'image/jpeg', '.svg':'image/svg+xml', '.ico':'image/x-icon', '.woff2':'font/woff2' };
 const digest = value => createHash('sha256').update(value).digest();
@@ -38,6 +39,7 @@ export default async function handler(req, res) {
     const target = safeDestination(url.searchParams.get('next'));
     if (!session.csrf) { session.csrf=randomBytes(24).toString('hex'); await session.save(); }
     const authenticated = session.allowed === true && Number.isFinite(session.until) && session.until > Date.now();
+    if (pathname === '/api/estudos/sync') return handleStudySync(req,res,{authenticated,csrf:session.csrf,origin:url.origin});
     if (pathname === '/entrar' || pathname === '/sair') {
       if (req.method === 'GET' && pathname === '/entrar') return authenticated ? redirect(res,target) : send(res,200,loginPage(session.csrf,target));
       if (req.method !== 'POST') { res.setHeader('Allow','POST'); return send(res,405,'Método não permitido.'); }
@@ -65,7 +67,7 @@ export default async function handler(req, res) {
     const type=mime[path.extname(name).toLowerCase()] || 'application/octet-stream';
     res.setHeader('Content-Type',type);
     if (type.startsWith('text/html')) {
-      const html=(await readFile(file,'utf8')).replace(/<\/body>/i,logoutControl(session.csrf)+'</body>');
+      const html=(await readFile(file,'utf8')).replace(/<head>/i,'<head><meta name="study-csrf" content="'+session.csrf+'">').replace(/<\/body>/i,logoutControl(session.csrf)+'</body>');
       res.statusCode=200; return res.end(req.method==='HEAD' ? undefined : html);
     }
     const info=await stat(file); let start=0,end=info.size-1;

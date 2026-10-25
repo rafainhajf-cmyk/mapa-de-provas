@@ -2,7 +2,15 @@
   "name": "mapa-fiscal-rafael-login",
   "private": true,
   "type": "module",
-  "scripts": { "build": "node scripts/build.mjs", "test": "node --test test.mjs" },
-  "engines": { "node": ">=22" },
-  "dependencies": { "iron-session": "9.0.1" }
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test test.mjs sync.test.mjs sync-client.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@vercel/blob": "2.8.0",
+    "iron-session": "9.0.1"
+  }
 }

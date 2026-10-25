@@ -1,0 +1,10 @@
+const KEY='mapa-study-favorites-v1';
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+export function favoriteEntries(){try{const x=JSON.parse(localStorage.getItem(KEY)||'{}');return x&&typeof x==='object'&&!Array.isArray(x)?Object.fromEntries(Object.entries(x).filter(([href,v])=>safeHref(href)&&v&&v.href===href&&typeof v.title==='string'&&typeof v.subject==='string')):{}}catch{return {}}}
+function safeHref(href){return typeof href==='string'&&/^dificuldades\.html\?|^apostila\.html#/.test(href)&&!/[\r\n]/.test(href);}
+export function favoriteButtonHTML({title,subject,href}){if(!safeHref(href))return '';const active=!!favoriteEntries()[href];return `<button type="button" class="study-favorite-mark" data-study-favorite="${esc(href)}" data-favorite-title="${esc(title)}" data-favorite-subject="${esc(subject)}" aria-label="${active?'Remover dos favoritos: ':'Favoritar: '}${esc(title)}" aria-pressed="${active}">${active?'★':'☆'}</button>`;}
+export function refreshFavoriteButtons(){for(const b of document.querySelectorAll('[data-study-favorite]')){const active=!!favoriteEntries()[b.dataset.studyFavorite];b.setAttribute('aria-pressed',String(active));b.setAttribute('aria-label',(active?'Remover dos favoritos: ':'Favoritar: ')+b.dataset.favoriteTitle);b.textContent=active?'★':'☆';}}
+if(typeof document!=='undefined'){
+ document.addEventListener('click',event=>{const b=event.target.closest('[data-study-favorite]');if(!b||!safeHref(b.dataset.studyFavorite))return;event.preventDefault();const entries=favoriteEntries(),href=b.dataset.studyFavorite;if(entries[href])delete entries[href];else entries[href]={href,title:b.dataset.favoriteTitle,subject:b.dataset.favoriteSubject,addedAt:new Date().toISOString()};try{localStorage.setItem(KEY,JSON.stringify(entries));refreshFavoriteButtons();document.dispatchEvent(new CustomEvent('study-favorites-changed'));}catch{b.setAttribute('title','Não foi possível salvar no navegador.');}});
+ window.addEventListener('storage',e=>{if(e.key===KEY){refreshFavoriteButtons();document.dispatchEvent(new CustomEvent('study-favorites-changed'));}});
+}
