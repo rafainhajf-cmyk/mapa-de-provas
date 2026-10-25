@@ -1,5 +1,5 @@
 import { studyVisualHTML } from './study-visuals.js?v=93';
-import { accountingStudyHTML } from './accounting-study.js?v=92';
+import { accountingStudyHTML } from './accounting-study.js?v=96';
 import { openStudyInbox } from './study-inbox.js?v=85';
 function editableExtractedHTML(text){return String(text||'').split(/\n\s*\n/).filter(part=>part.trim()).map(part=>'<p class="editable-transcript">'+esc(part.replace(/\s*\n\s*/g,' ').trim())+'</p>').join('');}
 import { mountStudyReader, studyFileProgress } from './study-reader.js?v=94';

@@ -11737,6 +11737,24 @@
                 "text": "Escolas: o PDF associa a personalista à “ciência da gestão patrimonial”. O quadro foi ajustado para destacar a personificação das contas, que caracteriza essa escola.",
                 "url": "https://www.unitins.br/RepositorioDigital/Publico/Home/BaixarPDF/1068"
               }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-01-1.svg",
+                "title": "Escolas da Contabilidade",
+                "sourceId": "libfile_160378bfe4c881919bec8d4b9368d0e8",
+                "page": 1,
+                "width": 425.0,
+                "height": 313.5
+              },
+              {
+                "src": "assets/accounting-originals/quadro-03-1.svg",
+                "title": "Fórmula lançamentos",
+                "sourceId": "libfile_41790553725c8191892d8bf567a4ca6c",
+                "page": 1,
+                "width": 200.5,
+                "height": 90.0
+              }
             ]
           }
         ],
@@ -11928,6 +11946,24 @@
                 ],
                 "receivedAt": "2026-10-25"
               }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-05-1.svg",
+                "title": "Objetivo dos relatórios financeiros gerais",
+                "sourceId": "libfile_4e51cc4654108191b9a18eb58a5dbd54",
+                "page": 1,
+                "width": 465.5,
+                "height": 168.0
+              },
+              {
+                "src": "assets/accounting-originals/quadro-06-1.svg",
+                "title": "Fundamentais e relevancia",
+                "sourceId": "libfile_c49911afa8c481918ff434eff7feff98",
+                "page": 1,
+                "width": 481.5,
+                "height": 253.5
+              }
             ]
           }
         ],
@@ -12096,6 +12132,16 @@
                     "style": "NORMAL_TEXT",
                     "text": "A divisão de R$ 5.000 por ano mostrada no original é linear e não corresponde à taxa efetiva composta."
                   }
+                ],
+                "originalAnswerPanels": [
+                  {
+                    "src": "assets/accounting-originals/quadro-07-1-exemplo.svg",
+                    "title": "CPC 12 — exemplo original",
+                    "sourceId": "libfile_b2bc12fc21608191a42886bb5cd2d3f3",
+                    "page": 1,
+                    "width": 337.5,
+                    "height": 92.0
+                  }
                 ]
               }
             ],
@@ -12114,6 +12160,24 @@
               {
                 "text": "O PDF faz uma apropriação linear dos juros e declara estar supondo juros simples. Para estudar o AVP pela taxa efetiva, a resolução foi recalculada em juros compostos. Os valores e os lançamentos corrigidos estão em “Revelar resposta”, no exemplo do PDF.",
                 "url": "https://www.cpc.org.br/Arquivos/Documentos/619_CPC%2012%20%28R1%29%20-%20Ajuste%20a%20Valor%20Presente.pdf"
+              }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-07-1-conceitos.svg",
+                "title": "CPC 12 — conceitos",
+                "sourceId": "libfile_b2bc12fc21608191a42886bb5cd2d3f3",
+                "page": 1,
+                "width": 339.5,
+                "height": 104.0
+              },
+              {
+                "src": "assets/accounting-originals/quadro-07-1-passivos.svg",
+                "title": "CPC 12 — passivos contratuais",
+                "sourceId": "libfile_b2bc12fc21608191a42886bb5cd2d3f3",
+                "page": 1,
+                "width": 318.5,
+                "height": 16.5
               }
             ]
           }
@@ -12226,6 +12290,16 @@
                 "text": "O PDF apresenta as três técnicas no contexto de instrumento patrimonial próprio. Esse contexto exige o tratamento específico dos itens 34 a 40 do CPC 46; não se deve presumir que custo de reposição seja uma técnica aplicável indistintamente a instrumentos patrimoniais. O quadro geral foi separado dessa situação.",
                 "url": "https://www.cpc.org.br/Arquivos/Documentos/395_CPC_46_rev%2006.pdf"
               }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-08-1.svg",
+                "title": "Técnicas de Avaliação O CPC 46",
+                "sourceId": "libfile_2eca1d09f738819195adac1f054dcde3",
+                "page": 1,
+                "width": 497.0,
+                "height": 498.5
+              }
             ]
           }
         ],
@@ -12322,6 +12396,16 @@
                 "text": "O PDF define praticabilidade como aplicação “sem custo ou esforço indevido”. Essa expressão foi corrigida: no CPC 23, a condição de impraticabilidade exige a impossibilidade de aplicar o requisito após todos os esforços razoáveis. Também foi destacado o ajuste do PL do período comparativo mais antigo apresentado.",
                 "url": "https://www.cpc.org.br/Arquivos/Documentos/296_CPC_23_rev%2020.pdf"
               }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-09-1.svg",
+                "title": "NBC 23",
+                "sourceId": "libfile_a0f91200cd5c8191a4b389a99ed1dbcd",
+                "page": 1,
+                "width": 492.0,
+                "height": 468.5
+              }
             ]
           }
         ],
@@ -12386,6 +12470,24 @@
                     "type": "paragraph",
                     "style": "NORMAL_TEXT",
                     "text": "O recebimento antecipado gera obrigação contratual nesse cenário. O lançamento apresentado não reconhece receita de venda no momento do adiantamento (CPC 47)."
+                  }
+                ],
+                "originalAnswerPanels": [
+                  {
+                    "src": "assets/accounting-originals/quadro-04-1-cabecalho.svg",
+                    "title": "Lançamentos contábeis — cabeçalho",
+                    "sourceId": "libfile_e0554fe029e481919b3e680693419de8",
+                    "page": 1,
+                    "width": 435.0,
+                    "height": 64.5
+                  },
+                  {
+                    "src": "assets/accounting-originals/quadro-04-1-linha-4.svg",
+                    "title": "Lançamentos contábeis — transação 4",
+                    "sourceId": "libfile_e0554fe029e481919b3e680693419de8",
+                    "page": 1,
+                    "width": 435.0,
+                    "height": 90.0
                   }
                 ]
               }
@@ -12591,6 +12693,24 @@
                     "style": "NORMAL_TEXT",
                     "text": "No quadro, a contrapartida da despesa é uma conta redutora do ativo financeiro. O tema é perda de crédito esperada (CPC 48), e não uma provisão de passivo do CPC 25."
                   }
+                ],
+                "originalAnswerPanels": [
+                  {
+                    "src": "assets/accounting-originals/quadro-04-1-cabecalho.svg",
+                    "title": "Lançamentos contábeis — cabeçalho",
+                    "sourceId": "libfile_e0554fe029e481919b3e680693419de8",
+                    "page": 1,
+                    "width": 435.0,
+                    "height": 64.5
+                  },
+                  {
+                    "src": "assets/accounting-originals/quadro-04-1-linha-2.svg",
+                    "title": "Lançamentos contábeis — transação 2",
+                    "sourceId": "libfile_e0554fe029e481919b3e680693419de8",
+                    "page": 1,
+                    "width": 435.0,
+                    "height": 90.0
+                  }
                 ]
               }
             ],
@@ -12617,6 +12737,16 @@
               {
                 "text": "O esquema foi complementado para não omitir o teste dos fluxos contratuais, a exceção dos custos de transação em VJR e as condições específicas das contas a receber (CPC 48, 4.1.2, 4.1.2A, 4.1.4, 5.1.1 e 5.1.3).",
                 "url": "https://www.cpc.org.br/Arquivos/Documentos/530_CPC_48_Rev%2017..pdf"
+              }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-10-1.svg",
+                "title": "Mensuração instrumentos financeiros",
+                "sourceId": "libfile_66153c278b3c81918c852e0701bd7718",
+                "page": 1,
+                "width": 431.5,
+                "height": 631.0
               }
             ]
           }
@@ -12790,6 +12920,24 @@
                     "style": "NORMAL_TEXT",
                     "text": "O quadro fundamenta a despesa na fase de pesquisa (CPC 04). Não generalizar essa resposta para toda atividade de desenvolvimento: o tratamento depende dos critérios próprios do intangível."
                   }
+                ],
+                "originalAnswerPanels": [
+                  {
+                    "src": "assets/accounting-originals/quadro-04-1-cabecalho.svg",
+                    "title": "Lançamentos contábeis — cabeçalho",
+                    "sourceId": "libfile_e0554fe029e481919b3e680693419de8",
+                    "page": 1,
+                    "width": 435.0,
+                    "height": 64.5
+                  },
+                  {
+                    "src": "assets/accounting-originals/quadro-04-1-linha-3.svg",
+                    "title": "Lançamentos contábeis — transação 3",
+                    "sourceId": "libfile_e0554fe029e481919b3e680693419de8",
+                    "page": 1,
+                    "width": 435.0,
+                    "height": 103.0
+                  }
                 ]
               }
             ],
@@ -12857,6 +13005,17 @@
                   1
                 ],
                 "receivedAt": "2026-10-25"
+              }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-12-1.svg",
+                "title": "Depreciação fiscal acelerada",
+                "sourceId": "libfile_09cbe6865a1881918c6a19806d4ba7f1",
+                "page": 1,
+                "width": 443.5,
+                "height": 435.0,
+                "reveal": true
               }
             ]
           }
@@ -12943,6 +13102,24 @@
                     "type": "paragraph",
                     "style": "NORMAL_TEXT",
                     "text": "Reconhecimento da despesa e da obrigação no período de competência; o caixa será afetado no pagamento. A conta Juros a pagar foi preservada conforme o quadro enviado."
+                  }
+                ],
+                "originalAnswerPanels": [
+                  {
+                    "src": "assets/accounting-originals/quadro-04-1-cabecalho.svg",
+                    "title": "Lançamentos contábeis — cabeçalho",
+                    "sourceId": "libfile_e0554fe029e481919b3e680693419de8",
+                    "page": 1,
+                    "width": 435.0,
+                    "height": 64.5
+                  },
+                  {
+                    "src": "assets/accounting-originals/quadro-04-1-linha-5.svg",
+                    "title": "Lançamentos contábeis — transação 5",
+                    "sourceId": "libfile_e0554fe029e481919b3e680693419de8",
+                    "page": 1,
+                    "width": 435.0,
+                    "height": 61.0
                   }
                 ]
               }
@@ -13150,6 +13327,24 @@
                 "text": "Substituído o atalho “≥ 50%”: o CPC 25 utiliza mais provável que sim do que não. Tabelas condicionadas aos demais requisitos e às regras de divulgação.",
                 "url": "https://www.cpc.org.br/Arquivos/Documentos/304_CPC_25_rev%2019.pdf"
               }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-13-1.svg",
+                "title": "Ativo contigente",
+                "sourceId": "libfile_d986915ef2088191b97a9015e5291f64",
+                "page": 1,
+                "width": 449.0,
+                "height": 241.5
+              },
+              {
+                "src": "assets/accounting-originals/quadro-14-1.svg",
+                "title": "provisão",
+                "sourceId": "libfile_5b8a236a37ec8191bd4b6a3f69fd4f6b",
+                "page": 1,
+                "width": 438.5,
+                "height": 304.5
+              }
             ]
           }
         ],
@@ -13250,6 +13445,16 @@
                     "type": "paragraph",
                     "style": "NORMAL_TEXT",
                     "text": "Contábil: 100 − 20 = 80. Fiscal: 100 − 40 = 60. Diferença: 80 − 60 = 20. O passivo fiscal diferido é 20 × alíquota aplicável na reversão; o PDF não informa a alíquota."
+                  }
+                ],
+                "originalAnswerPanels": [
+                  {
+                    "src": "assets/accounting-originals/quadro-12-1.svg",
+                    "title": "Depreciação fiscal acelerada",
+                    "sourceId": "libfile_09cbe6865a1881918c6a19806d4ba7f1",
+                    "page": 1,
+                    "width": 443.5,
+                    "height": 435.0
                   }
                 ]
               }
@@ -13561,6 +13766,16 @@
                 "text": "O PDF sem título foi identificado como resumo de reservas. “Facultativas” não dispensa condições legais. O art. 199 trata do conjunto de reservas sujeito ao limite, e não de permissão geral para cada reserva ultrapassar o capital.",
                 "url": "https://www.planalto.gov.br/ccivil_03/leis/l6404compilada.htm"
               }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-16-1.svg",
+                "title": "Página Sem Título",
+                "sourceId": "libfile_7a968865de888191bd9bfc2c9c453e92",
+                "page": 1,
+                "width": 443.5,
+                "height": 317.5
+              }
             ]
           }
         ],
@@ -13761,6 +13976,24 @@
                 "text": "Corrigida a simplificação do quadro: custo não permanece necessariamente igual ao preço de aquisição, pois considera depreciação e impairment. A regra “não sofre depreciação” refere-se à propriedade sob o modelo de valor justo.",
                 "url": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol107.pdf"
               }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-19-1.svg",
+                "title": "Propriedade para investimento",
+                "sourceId": "libfile_9c0ac8d96364819184b9e97d08e1cbcf",
+                "page": 1,
+                "width": 458.5,
+                "height": 318.5
+              },
+              {
+                "src": "assets/accounting-originals/quadro-21-1.svg",
+                "title": "propriedades para investimento",
+                "sourceId": "libfile_2d45f4df12908191b078699903bea5c5",
+                "page": 1,
+                "width": 446.0,
+                "height": 339.0
+              }
             ]
           }
         ],
@@ -13879,6 +14112,16 @@
               {
                 "text": "Ajustado o quadro: interrupção da depreciação vinculada à classificação; destaque na DRE é próprio de operação descontinuada, não de qualquer ativo à venda.",
                 "url": "https://www.cpc.org.br/Arquivos/Documentos/336_CPC_31_rev%2012.pdf"
+              }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-22-1.svg",
+                "title": "Anc mantido para venda",
+                "sourceId": "libfile_0b3ec2f8b34c81919ab37cfc23726b9a",
+                "page": 1,
+                "width": 422.5,
+                "height": 384.5
               }
             ]
           }
@@ -14030,6 +14273,16 @@
               {
                 "text": "O PDF contém uma anotação “Capital social: taxa média”, incompatível com o próprio quadro de taxa histórica. Corrigida para a taxa histórica da transação; média serve apenas como aproximação adequada para receitas/despesas.",
                 "url": "https://www.cpc.org.br/Arquivos/Documentos/62_CPC_02_R2_rev%2027_ComAVISO.pdf"
+              }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-24-1.svg",
+                "title": "Câmbio e Conversão ",
+                "sourceId": "libfile_9441123860388191b3ec5d7c8bb58e7a",
+                "page": 1,
+                "width": 494.0,
+                "height": 636.5
               }
             ]
           }
@@ -14244,6 +14497,24 @@
                     "style": "NORMAL_TEXT",
                     "text": "O quadro relaciona o caso ao método de equivalência patrimonial do CPC 18. O reconhecimento indicado não movimenta caixa."
                   }
+                ],
+                "originalAnswerPanels": [
+                  {
+                    "src": "assets/accounting-originals/quadro-04-1-cabecalho.svg",
+                    "title": "Lançamentos contábeis — cabeçalho",
+                    "sourceId": "libfile_e0554fe029e481919b3e680693419de8",
+                    "page": 1,
+                    "width": 435.0,
+                    "height": 64.5
+                  },
+                  {
+                    "src": "assets/accounting-originals/quadro-04-1-linha-1.svg",
+                    "title": "Lançamentos contábeis — transação 1",
+                    "sourceId": "libfile_e0554fe029e481919b3e680693419de8",
+                    "page": 1,
+                    "width": 435.5,
+                    "height": 74.0
+                  }
                 ]
               },
               {
@@ -14429,6 +14700,16 @@
               {
                 "text": "O quadro do PDF apenas marca “sim” para teste de recuperabilidade. O resumo diferencia teste anual de avaliação por indícios, sem presumir teste anual para todo intangível de vida definida.",
                 "url": "https://conteudo.cvm.gov.br/export/sites/cvm/menu/regulados/normascontabeis/cpc/CPC_01_R1_rev_12.pdf"
+              }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-28-1.svg",
+                "title": "Good Will",
+                "sourceId": "libfile_40e3607639b88191b31b24fe86e6c7fa",
+                "page": 1,
+                "width": 453.0,
+                "height": 245.0
               }
             ]
           }
@@ -14627,6 +14908,16 @@
               {
                 "text": "O resumo de lucros a realizar omitia o prazo do art. 197, § 1º, II. Aplicação mantida com hipótese explícita, pois o PDF não informa o exercício-base. Os percentuais de 50% e 25% foram distinguidos conforme art. 202.",
                 "url": "https://www.planalto.gov.br/ccivil_03/leis/l6404compilada.htm"
+              }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-16-1.svg",
+                "title": "Página Sem Título",
+                "sourceId": "libfile_7a968865de888191bd9bfc2c9c453e92",
+                "page": 1,
+                "width": 443.5,
+                "height": 317.5
               }
             ]
           }
@@ -14861,6 +15152,32 @@
               {
                 "text": "Acrescentada a condição de efeito material para o terceiro balanço (CPC 26, 40A). A coluna CPC 26 não significa que toda demonstração seja imposta a toda entidade sem considerar seu marco normativo.",
                 "url": "https://www.cpc.org.br/Arquivos/Documentos/312_CPC_26_R1_rev%2023.pdf"
+              }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-31-1.svg",
+                "title": "Completo das DC's",
+                "sourceId": "libfile_17e0fa0ad6648191b1c4bef541874b96",
+                "page": 1,
+                "width": 485.5,
+                "height": 339.0
+              },
+              {
+                "src": "assets/accounting-originals/quadro-32-1.svg",
+                "title": "NE",
+                "sourceId": "libfile_592a20b7d608819196ced175bdd15cb4",
+                "page": 1,
+                "width": 498.5,
+                "height": 214.5
+              },
+              {
+                "src": "assets/accounting-originals/quadro-33-1.svg",
+                "title": "Página Sem Título(1)",
+                "sourceId": "libfile_e265570133cc8191b5b909e46b268e4c",
+                "page": 1,
+                "width": 448.5,
+                "height": 206.0
               }
             ]
           }
@@ -15153,6 +15470,24 @@
                     "style": "NORMAL_TEXT",
                     "text": "PECLD, frete sobre vendas, comissões e propaganda são despesas posteriores ao lucro bruto neste caso. Não deduzi-las no cálculo solicitado."
                   }
+                ],
+                "originalAnswerPanels": [
+                  {
+                    "src": "assets/accounting-originals/quadro-35-2-exercicio.svg",
+                    "title": "DRE — exercício e anotações originais",
+                    "sourceId": "libfile_c4105bb7ea708191897535eeff545511",
+                    "page": 2,
+                    "width": 475.5,
+                    "height": 296.0
+                  },
+                  {
+                    "src": "assets/accounting-originals/quadro-35-3.svg",
+                    "title": "DRE — resolução original",
+                    "sourceId": "libfile_c4105bb7ea708191897535eeff545511",
+                    "page": 3,
+                    "width": 446.0,
+                    "height": 135.0
+                  }
                 ]
               }
             ],
@@ -15204,6 +15539,32 @@
               {
                 "text": "Os modelos são resumos didáticos do material enviado, não uma transcrição exaustiva dos requisitos de apresentação. Mantida a referência ao CPC 26 do índice do usuário.",
                 "url": "https://www.cpc.org.br/Arquivos/Documentos/312_CPC_26_R1_rev%2023.pdf"
+              }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-35-1.svg",
+                "title": "DRE",
+                "sourceId": "libfile_c4105bb7ea708191897535eeff545511",
+                "page": 1,
+                "width": 484.0,
+                "height": 668.5
+              },
+              {
+                "src": "assets/accounting-originals/quadro-35-2-comparativo.svg",
+                "title": "DRE — continuação do comparativo",
+                "sourceId": "libfile_c4105bb7ea708191897535eeff545511",
+                "page": 2,
+                "width": 466.5,
+                "height": 433.5
+              },
+              {
+                "src": "assets/accounting-originals/quadro-34-1.svg",
+                "title": "Análise da DRE",
+                "sourceId": "libfile_5db0b66062348191939edba458bbc70c",
+                "page": 1,
+                "width": 373.5,
+                "height": 219.5
               }
             ]
           }
@@ -15450,6 +15811,16 @@
                     "style": "NORMAL_TEXT",
                     "text": "Reconstrução do quadro, não uma regra para aplicar uma alíquota de 12% a toda DVA. O exemplo não fornece dividendos pagos ou outras distribuições. Os itens sem valor na imagem ficaram como categorias na teoria."
                   }
+                ],
+                "originalAnswerPanels": [
+                  {
+                    "src": "assets/accounting-originals/quadro-36-1.svg",
+                    "title": "DVA",
+                    "sourceId": "libfile_d95f748cd810819191e27298ce95b4ce",
+                    "page": 1,
+                    "width": 500.0,
+                    "height": 322.5
+                  }
                 ]
               }
             ],
@@ -15526,6 +15897,24 @@
                 ],
                 "receivedAt": "2026-10-25"
               }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-31-1.svg",
+                "title": "Completo das DC's",
+                "sourceId": "libfile_17e0fa0ad6648191b1c4bef541874b96",
+                "page": 1,
+                "width": 485.5,
+                "height": 339.0
+              },
+              {
+                "src": "assets/accounting-originals/quadro-33-1.svg",
+                "title": "Página Sem Título(1)",
+                "sourceId": "libfile_e265570133cc8191b5b909e46b268e4c",
+                "page": 1,
+                "width": 448.5,
+                "height": 206.0
+              }
             ]
           }
         ],
@@ -15596,6 +15985,24 @@
                   1
                 ],
                 "receivedAt": "2026-10-25"
+              }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-31-1.svg",
+                "title": "Completo das DC's",
+                "sourceId": "libfile_17e0fa0ad6648191b1c4bef541874b96",
+                "page": 1,
+                "width": 485.5,
+                "height": 339.0
+              },
+              {
+                "src": "assets/accounting-originals/quadro-33-1.svg",
+                "title": "Página Sem Título(1)",
+                "sourceId": "libfile_e265570133cc8191b5b909e46b268e4c",
+                "page": 1,
+                "width": 448.5,
+                "height": 206.0
               }
             ]
           }
@@ -15707,6 +16114,16 @@
               {
                 "text": "Mantido o conteúdo didático do PDF, com atualização da referência “disponíveis para venda” para as categorias aplicáveis do CPC 48. O tratamento depende do instrumento; nem todo ganho de valor justo integra ORA.",
                 "url": "https://www.cpc.org.br/Arquivos/Documentos/530_CPC_48_Rev%2017..pdf"
+              }
+            ],
+            "originalTheoryPanels": [
+              {
+                "src": "assets/accounting-originals/quadro-37-1.svg",
+                "title": "DRA",
+                "sourceId": "libfile_d4e493b6c7988191a7ce801b131938f0",
+                "page": 1,
+                "width": 486.5,
+                "height": 349.0
               }
             ]
           }
