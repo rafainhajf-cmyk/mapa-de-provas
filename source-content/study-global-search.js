@@ -1,0 +1,37 @@
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+const RECENT='mapa-study-recent-v1';
+function readRecent(){try{return JSON.parse(localStorage.getItem(RECENT)||'[]').filter(x=>x&&typeof x.title==='string'&&typeof x.href==='string'&&/^dificuldades\.html\?|^apostila\.html#/.test(x.href)).slice(0,8)}catch{return []}}
+export function rememberStudyLocation(entry){if(!entry?.title||!entry?.href)return;try{localStorage.setItem(RECENT,JSON.stringify([entry,...readRecent().filter(x=>x.href!==entry.href)].slice(0,8)))}catch{}}
+// Explicit allowlist keeps answer, solution, review notes and original references out of results.
+export function searchableStudyText(value){if(typeof value==='string')return value;if(Array.isArray(value))return value.map(searchableStudyText).join(' ');if(!value||typeof value!=='object')return '';return Object.entries(value).filter(([k])=>['text','title','description','rows','blocks','theory','exercises','statement','questionTheory','cards','lines','note','plots'].includes(k)).map(([,v])=>searchableStudyText(v)).join(' ')}
+export function buildGlobalStudyIndex(raw,book){
+ const entries=[],used=new Set();
+ const files=new Map(raw.folders.flatMap(folder=>(folder.files||[]).map(file=>[file.id,{file,folder}])));
+ for(const a of raw.analysis?.analyzedFiles||[]){const match=files.get(a.id);if(!match)continue;const {file,folder}=match;if(file.modifiedAt!==a.modifiedAt)continue;const title=a.topic||file.title;const dedup=norm(folder.subject+'|'+title);if(used.has(dedup))continue;used.add(dedup);
+ const body=a.accountingTopics?.length?searchableStudyText(a.accountingTopics):a.visualBlocks?.length?searchableStudyText(a.visualBlocks)+(a.visualPlacement==='append'?' '+searchableStudyText(a.contentBlocks.filter(b=>b.type!=='image')):''):a.preferStructuredText?searchableStudyText(a.contentSections):[searchableStudyText(a.contentBlocks),searchableStudyText(a.contentSections),...(a.searchPages||[]).map(p=>p.text||''),a.searchImageText||''].join(' ');
+ const text=(title+' '+body).replace(/\s+/g,' ').trim();entries.push({title,subject:folder.subject,text,normalized:norm(text),href:'dificuldades.html?'+new URLSearchParams({materia:folder.subject,anotacao:a.id})});
+ }
+ for(const s of book.sections||[]){const text=(s.title+' '+searchableStudyText(s.blocks)).replace(/\s+/g,' ').trim();entries.push({title:s.title,subject:'Apostila de Tributário',text,normalized:norm(text),href:'apostila.html#'+encodeURIComponent(s.id)});}
+ return entries;
+}
+if(typeof document!=='undefined'){
+ const nav=document.querySelector('.main-header-navigation nav');
+ if(nav){
+ const trigger=document.createElement('button');trigger.type='button';trigger.className='main-header-button study-global-trigger';trigger.innerHTML='⌕ Buscar <kbd>Ctrl K</kbd>';trigger.setAttribute('aria-label','Buscar em todas as matérias');trigger.setAttribute('aria-keyshortcuts','Control+k Meta+k');trigger.setAttribute('aria-haspopup','dialog');nav.append(trigger);
+ const dialog=document.createElement('dialog');dialog.className='study-global-dialog';dialog.setAttribute('aria-label','Busca em todo o conteúdo');dialog.innerHTML='<div class="study-global-head"><label><input type="search" aria-label="Buscar palavras em todas as matérias" placeholder="O que você quer encontrar?" autocomplete="off"></label><button type="button" aria-label="Fechar busca">Esc</button></div><div class="study-global-controls"><select aria-label="Filtrar matéria da busca"><option value="">Todas as matérias</option></select><span role="status"></span></div><div class="study-global-results"></div><p class="study-global-footer">↑ ↓ navegar · Enter abrir · Esc voltar. Recentes salvos neste navegador.</p>';document.body.append(dialog);
+ const input=dialog.querySelector('input'),select=dialog.querySelector('select'),status=dialog.querySelector('[role=status]'),results=dialog.querySelector('.study-global-results');let index=null,loading=null,lastFocus=null;
+ async function load(){if(index)return index;if(!loading)loading=Promise.all([fetch('difficulty-data.json',{cache:'no-store'}),fetch('apostila-data.json',{cache:'no-store'})]).then(async responses=>{if(responses.some(r=>!r.ok))throw Error('Não foi possível carregar a busca.');const [raw,book]=await Promise.all(responses.map(r=>r.json()));index=buildGlobalStudyIndex(raw,book);select.innerHTML='<option value="">Todas as matérias</option>'+[...new Set(index.map(x=>x.subject))].sort((a,b)=>a.localeCompare(b,'pt-BR')).map(s=>`<option value="${esc(s)}">${esc(s)}</option>`).join('');return index}).catch(e=>{loading=null;throw e});return loading;}
+ function render(){
+ const q=input.value.trim(),terms=norm(q).split(/\s+/).filter(Boolean),subject=select.value;const found=q?(index||[]).filter(x=>(!subject||x.subject===subject)&&terms.every(t=>x.normalized.includes(t))).sort((a,b)=>Number(norm(b.title).includes(norm(q)))-Number(norm(a.title).includes(norm(q)))):readRecent().filter(x=>!subject||x.subject===subject);
+ status.textContent=q?(found.length+' resultado(s)'):'Últimos conteúdos abertos';
+ results.innerHTML=found.slice(0,60).map(x=>{let href=x.href;if(q&&href.startsWith('dificuldades.html?'))href+='&busca='+encodeURIComponent(q);const start=q?Math.max(0,(x.normalized||'').indexOf(terms[0])-55):0,snippet=q?(start?'…':'')+(x.text||'').slice(start,start+190):'';return `<a href="${esc(href)}" data-title="${esc(x.title)}" data-subject="${esc(x.subject)}" data-location="${esc(x.href)}"><small>${esc(x.subject)}</small><strong>${esc(x.title)}</strong>${snippet?`<p>${esc(snippet)}</p>`:''}</a>`}).join('')||`<p class="study-global-empty">${q?'Nenhum trecho encontrado. Tente palavras mais curtas ou outra matéria.':'Digite uma palavra para pesquisar no conteúdo das matérias e na apostila.'}</p>`;
+ }
+ async function open(){lastFocus=document.activeElement;dialog.showModal();input.focus();render();status.textContent=index?status.textContent:'Carregando conteúdo…';try{await load();if(dialog.open)render()}catch{status.textContent='Falha ao carregar. Feche e tente novamente.'}}
+ trigger.addEventListener('click',open);dialog.querySelector('button').addEventListener('click',()=>dialog.close());dialog.addEventListener('close',()=>lastFocus?.isConnected&&lastFocus.focus());dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close();const a=e.target.closest('a[data-location]');if(a)rememberStudyLocation({title:a.dataset.title,subject:a.dataset.subject,href:a.dataset.location})});
+ input.addEventListener('input',render);select.addEventListener('change',render);
+ dialog.addEventListener('keydown',e=>{if(e.key==='ArrowDown'||e.key==='ArrowUp'){const links=[...results.querySelectorAll('a')];if(!links.length)return;e.preventDefault();const current=links.indexOf(document.activeElement),next=e.key==='ArrowDown'?(current+1)%links.length:(current<=0?links.length-1:current-1);links[next].focus()}else if(e.key==='Enter'&&e.target===input){e.preventDefault();results.querySelector('a')?.click()}});
+ document.addEventListener('keydown',e=>{if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==='k'){e.preventDefault();if(dialog.open)dialog.close();else open()}});
+ document.addEventListener('study-location-opened',e=>rememberStudyLocation(e.detail));
+ }
+}
