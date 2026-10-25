@@ -10764,8 +10764,8 @@
         "kind": "study-note",
         "topic": "Fórmulas de juros simples e compostos",
         "category": "Matemática Financeira",
-        "summary": "Fórmulas compiladas dos materiais enviados; consulta compacta e quiz disponíveis no formulário.",
-        "source": "PDFs enviados pelo usuário em 24/10/2026. Notação padronizada e ressalvas indicadas no formulário.",
+        "summary": "Juros simples e compostos, com binômio de Newton para aproximação de potências e montantes.",
+        "source": "PDFs enviados pelo usuário em 24/10/2026. Notação padronizada e ressalvas indicadas no formulário. Binômio de Newton e aproximação de três termos acrescentados a pedido do usuário em 25/10/2026.",
         "contentSections": [
           {
             "title": "Relação fundamental",
@@ -10816,8 +10816,65 @@
                 "text": "J = C · [(1 + i)ⁿ − 1]"
               }
             ]
+          },
+          {
+            "title": "Binômio de Newton — fórmula exata",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "(1 + x)ⁿ = Σ[k = 0 até n] C(n,k) · xᵏ"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "C(n,k) = n! / [k! · (n − k)!]. Na soma finita, n é um inteiro não negativo. A igualdade é exata."
+              }
+            ]
+          },
+          {
+            "title": "Binômio de Newton — aproximação com três termos",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "(1 + x)ⁿ ≈ 1 + n·x + [n(n − 1)/2] · x²"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Na fórmula",
+                    "Em Matemática Financeira"
+                  ],
+                  [
+                    "x",
+                    "Taxa em decimal: 1% = 0,01; 2% = 0,02."
+                  ],
+                  [
+                    "n",
+                    "Quantidade de períodos, na mesma unidade da taxa."
+                  ],
+                  [
+                    "Montante composto aproximado",
+                    "M ≈ C · {1 + n·i + [n(n − 1)/2] · i²}."
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "“x pequeno” significa próximo de zero em valor absoluto. A precisão também depende de n: uma taxa pequena, sozinha, não garante boa aproximação para prazos muito longos. Desprezam-se os termos de grau 3 em diante; use quando a questão permitir aproximação."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Exemplo: (1,01)¹² ≈ 1 + 12·0,01 + [12·11/2]·0,01² = 1,1266. Para C = R$ 100.000, M ≈ R$ 112.660. A potência exata é aproximadamente 1,126825, dando M ≈ R$ 112.682,50."
+              }
+            ]
           }
-        ]
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "matfin-formulas-taxas",

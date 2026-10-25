@@ -1,6 +1,6 @@
 {
   "title": "Formulário de Matemática Financeira",
-  "scope": "Compilação dos cinco PDFs enviados, com complemento de capitalização contínua solicitado pelo usuário. Não representa, por si só, todas as fórmulas dos 11 tópicos do índice.",
+  "scope": "Compilação dos cinco PDFs enviados, com complemento de capitalização contínua solicitado pelo usuário. Não representa, por si só, todas as fórmulas dos 11 tópicos do índice. Inclui o binômio de Newton e sua aproximação de três termos, solicitados em 25/10/2026.",
   "legend": "C: capital · M: montante · J: juros · A: valor atual/financiado · N: valor nominal · D: desconto · P: prestação · F: valor futuro · i: taxa de juros · d: taxa comercial · n: períodos/parcelas · r/q: razão de PA/PG. Taxas em decimal e na mesma unidade do prazo. Nas fórmulas com divisão por i, use i ≠ 0; para séries finitas com i = 0, A = F = n·P. Na contínua: δ é a taxa instantânea; t é o tempo na mesma unidade.",
   "formulas": [
     {
@@ -335,6 +335,24 @@
       "html": "S<sub>∞</sub> = <span class=\"frac\"><span>a<sub>1</sub></span><span>1 − q</span></span>; |q| &lt; 1",
       "note": "Abrange também razões negativas com módulo menor que 1; amplia a condição 0 < q < 1 do quadro.",
       "source": "PA e PG.pdf; IMPA/OBMEP"
+    },
+    {
+      "id": "newton-exato",
+      "group": "Aproximações",
+      "title": "Binômio de Newton — fórmula exata",
+      "text": "(1 + x)ⁿ = Σ[k = 0 até n] C(n,k) · xᵏ",
+      "html": "(1 + x)<sup>n</sup> = ∑<sub>k=0</sub><sup>n</sup> C(n,k) · x<sup>k</sup>",
+      "note": "n inteiro não negativo. C(n,k) = n! / [k! · (n − k)!].",
+      "source": "Fórmula enviada pelo usuário em 25/10/2026."
+    },
+    {
+      "id": "newton-tres-termos",
+      "group": "Aproximações",
+      "title": "Binômio de Newton — aproximação com três termos",
+      "text": "(1 + x)ⁿ ≈ 1 + n·x + [n(n − 1)/2] · x²",
+      "html": "(1 + x)<sup>n</sup> ≈ 1 + n·x + <span class=\"frac\"><span>n(n − 1)</span><span>2</span></span> · x<sup>2</sup>",
+      "note": "x próximo de zero; a precisão também depende de n. Para juros compostos: x = i em decimal e multiplicar a expressão por C para obter M aproximado.",
+      "source": "Fórmula enviada pelo usuário em 25/10/2026."
     }
   ],
   "sources": [
