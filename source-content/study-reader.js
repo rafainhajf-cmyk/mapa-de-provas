@@ -44,13 +44,13 @@ export function mountStudyReader(root,{title='Conteúdo de estudo'}={}){
   if(entry.searchContent)return entry.searchContent;
   const index=entries.indexOf(entry),next=entries.slice(index+1).find(other=>other.owner===entry.owner);
   const range=document.createRange();range.setStartAfter(entry.heading);if(next)range.setEndBefore(next.heading);else range.setEndAfter(entry.owner.lastChild);
-  const nodes=[...entry.owner.querySelectorAll('p,td,th,li')].filter(node=>range.intersectsNode(node)&&!node.closest('.study-reader-section-tools,.study-observation-editor,.study-reader-panel,.illustration-original,.compact-original-links')&&!node.classList.contains('conversion-notice'));
+  const nodes=[...entry.owner.querySelectorAll('p,td,th,li')].filter(node=>range.intersectsNode(node)&&!node.closest('.study-reader-section-tools,.study-observation-editor,.study-reader-panel,.illustration-original,.compact-original-links,.accounting-answer')&&!node.classList.contains('conversion-notice'));
   const text=nodes.map(node=>node.textContent).join(' ').replace(/\s+/g,' ').trim();
   return entry.searchContent={nodes,text,normalized:normalize(text)};
  }
  function searchTerms(){return normalize(search.value.trim()).split(/\s+/).filter(Boolean);}
  function matchingTarget(entry){const terms=searchTerms();if(!terms.length)return entry.heading;const {nodes}=sectionContent(entry);return nodes.find(node=>terms.every(term=>normalize(node.textContent).includes(term)))||nodes.find(node=>normalize(node.textContent).includes(terms[0]))||entry.heading;}
- function jumpTo(entry){open(false);for(const node of root.querySelectorAll('.study-search-current-hit'))node.classList.remove('study-search-current-hit');const target=matchingTarget(entry);if(search.value.trim())target.classList.add('study-search-current-hit');if(!target.hasAttribute('tabindex'))target.tabIndex=-1;target.focus({preventScroll:true});target.scrollIntoView({block:'start',behavior:'instant'});}
+ function jumpTo(entry){open(false);for(const node of root.querySelectorAll('.study-search-current-hit'))node.classList.remove('study-search-current-hit');const target=matchingTarget(entry);for(let parent=target.parentElement;parent&&root.contains(parent);parent=parent.parentElement){if(parent.tagName==='DETAILS'&&!parent.classList.contains('accounting-answer'))parent.open=true;}if(search.value.trim())target.classList.add('study-search-current-hit');if(!target.hasAttribute('tabindex'))target.tabIndex=-1;target.focus({preventScroll:true});target.scrollIntoView({block:'start',behavior:'instant'});}
 
  function indexRow(entry){const row=document.createElement('div');row.className='study-reader-index-row';const check=document.createElement('input');check.type='checkbox';check.checked=!!seen[entry.key];check.setAttribute('aria-label','Já vi no índice: '+entry.label);check.addEventListener('change',()=>toggle(entry));const jump=document.createElement('button');jump.type='button';jump.textContent=(critical[entry.key]?'⚑ Crítico · ':'')+entry.label;jump.className=seen[entry.key]?'is-seen':'';jump.addEventListener('click',()=>jumpTo(entry));row.append(check,jump);if(search.value.trim()){const text=sectionContent(entry).text,terms=searchTerms(),offset=normalize(text).indexOf(terms[0]),start=Math.max(0,offset-50);if(offset>=0){const snippet=document.createElement('small');snippet.className='study-search-snippet';snippet.textContent=(start?'…':'')+text.slice(start,start+180)+(text.length>start+180?'…':'');jump.append(snippet);}}return row;}
  function renderNav(){
@@ -77,3 +77,4 @@ export function mountStudyReader(root,{title='Conteúdo de estudo'}={}){
  root.addEventListener('keydown',escape);window.addEventListener('storage',sync);update();open(globalThis.matchMedia?.('(min-width: 1100px)').matches??false);
  return ()=>{disposed=true;root.removeEventListener('study-content-edited',editSync);root.removeEventListener('keydown',escape);window.removeEventListener('storage',sync);};
 }
+

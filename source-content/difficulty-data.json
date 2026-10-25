@@ -64,7 +64,309 @@
         "Contabilidade Geral e Avançada"
       ],
       "status": "read",
-      "files": [],
+      "files": [
+        {
+          "id": "conta-a-01",
+          "title": "Contabilidade Básica",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-a-02",
+          "title": "Estrutura Conceitual (CPC 00)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-a-03",
+          "title": "Ajuste a Valor Presente (CPC 12)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-a-04",
+          "title": "Mensuração a Valor Justo (CPC 46)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-a-05",
+          "title": "Políticas, erros e estimativas contábeis (CPC 23)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-a-06",
+          "title": "Receita com Contrato com Cliente (CPC 47)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-b-01",
+          "title": "Disponibilidades",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-b-02",
+          "title": "Ativo Realizável a Longo Prazo - ARLP",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-b-03",
+          "title": "Redução ao Valor Recuperável",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-b-04",
+          "title": "Instrumentos Financeiros (CPC 48)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-b-05",
+          "title": "Imobilizado (CPC 27)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-b-06",
+          "title": "Intangível (CPC 04)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-b-07",
+          "title": "Depreciação, Amortização e Exaustão",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-c-01",
+          "title": "Fornecedores",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-c-02",
+          "title": "Empréstimos",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-c-03",
+          "title": "Duplicatas Descontadas",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-c-04",
+          "title": "Debêntures",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-c-05",
+          "title": "Provisões (CPC 25)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-c-06",
+          "title": "Tributos sobre Lucro (CPC 32)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-c-07",
+          "title": "Folha de Pagamento (CPC 33)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-c-08",
+          "title": "Contas do Patrimônio Líquido (Capital Social; Ações; Reservas...)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-d-01",
+          "title": "Propriedades para Investimento",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-d-02",
+          "title": "Ativo Não Circulante Mantido para Venda",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-d-03",
+          "title": "Ajustes de Conversão de Câmbio (CPC 02)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-d-04",
+          "title": "Combinação de Negócios (CPC 15)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-d-05",
+          "title": "Investimentos MEP (CPC 18)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-d-06",
+          "title": "Goodwill",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-d-07",
+          "title": "Dividendos e Juros sobre Capital Próprio",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-d-08",
+          "title": "Lei 6.404 e suas alterações",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-e-01",
+          "title": "Apresentação das Demonstrações Contábeis (CPC 26)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-e-02",
+          "title": "Balanço Patrimonial",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-e-03",
+          "title": "Demonstração do Resultado do Exercício",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-e-04",
+          "title": "Demonstração do Valor Adicionado (CPC 09)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-e-05",
+          "title": "Demonstração de Mudança do Patrimônio Líquido (DMPL)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-e-06",
+          "title": "Demonstração de Lucro e Prejuízo Acumulado (DLPA)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-e-07",
+          "title": "Demonstração do Resultado Abrangente (DRA)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-e-08",
+          "title": "Demonstrações Consolidadas",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-f-01",
+          "title": "Demonstração de Fluxo de Caixa (CPC 03)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-f-02",
+          "title": "Arrendamento (CPC 06)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-f-03",
+          "title": "Partes Relacionadas (CPC 05)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-f-04",
+          "title": "Subvenções (CPC 07)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-f-05",
+          "title": "Estoques",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        },
+        {
+          "id": "conta-f-06",
+          "title": "Eventos Subsequentes (CPC 24)",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-24T23:50:00Z",
+          "url": "dificuldades.html?materia=Contabilidade"
+        }
+      ],
       "subject": "Contabilidade"
     },
     {
@@ -10335,6 +10637,909 @@
             ]
           }
         ]
+      },
+      {
+        "id": "conta-a-01",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Contabilidade Básica",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-a-01",
+            "title": "Contabilidade Básica",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-a-02",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Estrutura Conceitual (CPC 00)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-a-02",
+            "title": "Estrutura Conceitual (CPC 00)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-a-03",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Ajuste a Valor Presente (CPC 12)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-a-03",
+            "title": "Ajuste a Valor Presente (CPC 12)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-a-04",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Mensuração a Valor Justo (CPC 46)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-a-04",
+            "title": "Mensuração a Valor Justo (CPC 46)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-a-05",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Políticas, erros e estimativas contábeis (CPC 23)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-a-05",
+            "title": "Políticas, erros e estimativas contábeis (CPC 23)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-a-06",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Receita com Contrato com Cliente (CPC 47)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-a-06",
+            "title": "Receita com Contrato com Cliente (CPC 47)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-b-01",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Disponibilidades",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-b-01",
+            "title": "Disponibilidades",
+            "group": "Contas do ativo",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-b-02",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Ativo Realizável a Longo Prazo - ARLP",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-b-02",
+            "title": "Ativo Realizável a Longo Prazo - ARLP",
+            "group": "Contas do ativo",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-b-03",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Redução ao Valor Recuperável",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-b-03",
+            "title": "Redução ao Valor Recuperável",
+            "group": "Contas do ativo",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-b-04",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Instrumentos Financeiros (CPC 48)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-b-04",
+            "title": "Instrumentos Financeiros (CPC 48)",
+            "group": "Contas do ativo",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-b-05",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Imobilizado (CPC 27)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-b-05",
+            "title": "Imobilizado (CPC 27)",
+            "group": "Contas do ativo",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-b-06",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Intangível (CPC 04)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-b-06",
+            "title": "Intangível (CPC 04)",
+            "group": "Contas do ativo",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-b-07",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Depreciação, Amortização e Exaustão",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-b-07",
+            "title": "Depreciação, Amortização e Exaustão",
+            "group": "Contas do ativo",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-c-01",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Fornecedores",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-c-01",
+            "title": "Fornecedores",
+            "group": "Contas do passivo",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-c-02",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Empréstimos",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-c-02",
+            "title": "Empréstimos",
+            "group": "Contas do passivo",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-c-03",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Duplicatas Descontadas",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-c-03",
+            "title": "Duplicatas Descontadas",
+            "group": "Contas do passivo",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-c-04",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Debêntures",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-c-04",
+            "title": "Debêntures",
+            "group": "Contas do passivo",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-c-05",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Provisões (CPC 25)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-c-05",
+            "title": "Provisões (CPC 25)",
+            "group": "Contas do passivo",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-c-06",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Tributos sobre Lucro (CPC 32)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-c-06",
+            "title": "Tributos sobre Lucro (CPC 32)",
+            "group": "Contas do passivo",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-c-07",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Folha de Pagamento (CPC 33)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-c-07",
+            "title": "Folha de Pagamento (CPC 33)",
+            "group": "Contas do passivo",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-c-08",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Contas do Patrimônio Líquido (Capital Social; Ações; Reservas...)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-c-08",
+            "title": "Contas do Patrimônio Líquido (Capital Social; Ações; Reservas...)",
+            "group": "Patrimônio Líquido",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-d-01",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Propriedades para Investimento",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-d-01",
+            "title": "Propriedades para Investimento",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-d-02",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Ativo Não Circulante Mantido para Venda",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-d-02",
+            "title": "Ativo Não Circulante Mantido para Venda",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-d-03",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Ajustes de Conversão de Câmbio (CPC 02)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-d-03",
+            "title": "Ajustes de Conversão de Câmbio (CPC 02)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-d-04",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Combinação de Negócios (CPC 15)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-d-04",
+            "title": "Combinação de Negócios (CPC 15)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-d-05",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Investimentos MEP (CPC 18)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-d-05",
+            "title": "Investimentos MEP (CPC 18)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-d-06",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Goodwill",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-d-06",
+            "title": "Goodwill",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-d-07",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Dividendos e Juros sobre Capital Próprio",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-d-07",
+            "title": "Dividendos e Juros sobre Capital Próprio",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-d-08",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Lei 6.404 e suas alterações",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-d-08",
+            "title": "Lei 6.404 e suas alterações",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-e-01",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Apresentação das Demonstrações Contábeis (CPC 26)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-e-01",
+            "title": "Apresentação das Demonstrações Contábeis (CPC 26)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-e-02",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Balanço Patrimonial",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-e-02",
+            "title": "Balanço Patrimonial",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-e-03",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Demonstração do Resultado do Exercício",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-e-03",
+            "title": "Demonstração do Resultado do Exercício",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-e-04",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Demonstração do Valor Adicionado (CPC 09)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-e-04",
+            "title": "Demonstração do Valor Adicionado (CPC 09)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-e-05",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Demonstração de Mudança do Patrimônio Líquido (DMPL)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-e-05",
+            "title": "Demonstração de Mudança do Patrimônio Líquido (DMPL)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-e-06",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Demonstração de Lucro e Prejuízo Acumulado (DLPA)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-e-06",
+            "title": "Demonstração de Lucro e Prejuízo Acumulado (DLPA)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-e-07",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Demonstração do Resultado Abrangente (DRA)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-e-07",
+            "title": "Demonstração do Resultado Abrangente (DRA)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-e-08",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Demonstrações Consolidadas",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-e-08",
+            "title": "Demonstrações Consolidadas",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-f-01",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Demonstração de Fluxo de Caixa (CPC 03)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-f-01",
+            "title": "Demonstração de Fluxo de Caixa (CPC 03)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-f-02",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Arrendamento (CPC 06)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-f-02",
+            "title": "Arrendamento (CPC 06)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-f-03",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Partes Relacionadas (CPC 05)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-f-03",
+            "title": "Partes Relacionadas (CPC 05)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-f-04",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Subvenções (CPC 07)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-f-04",
+            "title": "Subvenções (CPC 07)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-f-05",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Estoques",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-f-05",
+            "title": "Estoques",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "conta-f-06",
+        "modifiedAt": "2026-10-24T23:50:00Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Eventos Subsequentes (CPC 24)",
+        "category": "Contabilidade",
+        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "accountingTopics": [
+          {
+            "id": "conta-f-06",
+            "title": "Eventos Subsequentes (CPC 24)",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
       }
     ],
     "findings": [],
@@ -11320,6 +12525,314 @@
           "fileIds": []
         }
       ]
+    },
+    "Contabilidade": {
+      "coverage": "complete",
+      "source": "Índice completo do usuário, com 43 assuntos na sequência dos blocos enviados, sem mostrar os blocos na navegação.",
+      "rootFolderId": "1B4UraURfol3GYFIXIeJrAJn86YtxxnSg",
+      "nodes": [
+        {
+          "id": "conta-a-01",
+          "title": "Contabilidade Básica",
+          "fileIds": [
+            "conta-a-01"
+          ]
+        },
+        {
+          "id": "conta-a-02",
+          "title": "Estrutura Conceitual (CPC 00)",
+          "fileIds": [
+            "conta-a-02"
+          ]
+        },
+        {
+          "id": "conta-a-03",
+          "title": "Ajuste a Valor Presente (CPC 12)",
+          "fileIds": [
+            "conta-a-03"
+          ]
+        },
+        {
+          "id": "conta-a-04",
+          "title": "Mensuração a Valor Justo (CPC 46)",
+          "fileIds": [
+            "conta-a-04"
+          ]
+        },
+        {
+          "id": "conta-a-05",
+          "title": "Políticas, erros e estimativas contábeis (CPC 23)",
+          "fileIds": [
+            "conta-a-05"
+          ]
+        },
+        {
+          "id": "conta-a-06",
+          "title": "Receita com Contrato com Cliente (CPC 47)",
+          "fileIds": [
+            "conta-a-06"
+          ]
+        },
+        {
+          "id": "conta-b-01",
+          "title": "Disponibilidades",
+          "fileIds": [
+            "conta-b-01"
+          ]
+        },
+        {
+          "id": "conta-b-02",
+          "title": "Ativo Realizável a Longo Prazo - ARLP",
+          "fileIds": [
+            "conta-b-02"
+          ]
+        },
+        {
+          "id": "conta-b-03",
+          "title": "Redução ao Valor Recuperável",
+          "fileIds": [
+            "conta-b-03"
+          ]
+        },
+        {
+          "id": "conta-b-04",
+          "title": "Instrumentos Financeiros (CPC 48)",
+          "fileIds": [
+            "conta-b-04"
+          ]
+        },
+        {
+          "id": "conta-b-05",
+          "title": "Imobilizado (CPC 27)",
+          "fileIds": [
+            "conta-b-05"
+          ]
+        },
+        {
+          "id": "conta-b-06",
+          "title": "Intangível (CPC 04)",
+          "fileIds": [
+            "conta-b-06"
+          ]
+        },
+        {
+          "id": "conta-b-07",
+          "title": "Depreciação, Amortização e Exaustão",
+          "fileIds": [
+            "conta-b-07"
+          ]
+        },
+        {
+          "id": "conta-c-01",
+          "title": "Fornecedores",
+          "fileIds": [
+            "conta-c-01"
+          ]
+        },
+        {
+          "id": "conta-c-02",
+          "title": "Empréstimos",
+          "fileIds": [
+            "conta-c-02"
+          ]
+        },
+        {
+          "id": "conta-c-03",
+          "title": "Duplicatas Descontadas",
+          "fileIds": [
+            "conta-c-03"
+          ]
+        },
+        {
+          "id": "conta-c-04",
+          "title": "Debêntures",
+          "fileIds": [
+            "conta-c-04"
+          ]
+        },
+        {
+          "id": "conta-c-05",
+          "title": "Provisões (CPC 25)",
+          "fileIds": [
+            "conta-c-05"
+          ]
+        },
+        {
+          "id": "conta-c-06",
+          "title": "Tributos sobre Lucro (CPC 32)",
+          "fileIds": [
+            "conta-c-06"
+          ]
+        },
+        {
+          "id": "conta-c-07",
+          "title": "Folha de Pagamento (CPC 33)",
+          "fileIds": [
+            "conta-c-07"
+          ]
+        },
+        {
+          "id": "conta-c-08",
+          "title": "Contas do Patrimônio Líquido (Capital Social; Ações; Reservas...)",
+          "fileIds": [
+            "conta-c-08"
+          ]
+        },
+        {
+          "id": "conta-d-01",
+          "title": "Propriedades para Investimento",
+          "fileIds": [
+            "conta-d-01"
+          ]
+        },
+        {
+          "id": "conta-d-02",
+          "title": "Ativo Não Circulante Mantido para Venda",
+          "fileIds": [
+            "conta-d-02"
+          ]
+        },
+        {
+          "id": "conta-d-03",
+          "title": "Ajustes de Conversão de Câmbio (CPC 02)",
+          "fileIds": [
+            "conta-d-03"
+          ]
+        },
+        {
+          "id": "conta-d-04",
+          "title": "Combinação de Negócios (CPC 15)",
+          "fileIds": [
+            "conta-d-04"
+          ]
+        },
+        {
+          "id": "conta-d-05",
+          "title": "Investimentos MEP (CPC 18)",
+          "fileIds": [
+            "conta-d-05"
+          ]
+        },
+        {
+          "id": "conta-d-06",
+          "title": "Goodwill",
+          "fileIds": [
+            "conta-d-06"
+          ]
+        },
+        {
+          "id": "conta-d-07",
+          "title": "Dividendos e Juros sobre Capital Próprio",
+          "fileIds": [
+            "conta-d-07"
+          ]
+        },
+        {
+          "id": "conta-d-08",
+          "title": "Lei 6.404 e suas alterações",
+          "fileIds": [
+            "conta-d-08"
+          ]
+        },
+        {
+          "id": "conta-e-01",
+          "title": "Apresentação das Demonstrações Contábeis (CPC 26)",
+          "fileIds": [
+            "conta-e-01"
+          ]
+        },
+        {
+          "id": "conta-e-02",
+          "title": "Balanço Patrimonial",
+          "fileIds": [
+            "conta-e-02"
+          ]
+        },
+        {
+          "id": "conta-e-03",
+          "title": "Demonstração do Resultado do Exercício",
+          "fileIds": [
+            "conta-e-03"
+          ]
+        },
+        {
+          "id": "conta-e-04",
+          "title": "Demonstração do Valor Adicionado (CPC 09)",
+          "fileIds": [
+            "conta-e-04"
+          ]
+        },
+        {
+          "id": "conta-e-05",
+          "title": "Demonstração de Mudança do Patrimônio Líquido (DMPL)",
+          "fileIds": [
+            "conta-e-05"
+          ]
+        },
+        {
+          "id": "conta-e-06",
+          "title": "Demonstração de Lucro e Prejuízo Acumulado (DLPA)",
+          "fileIds": [
+            "conta-e-06"
+          ]
+        },
+        {
+          "id": "conta-e-07",
+          "title": "Demonstração do Resultado Abrangente (DRA)",
+          "fileIds": [
+            "conta-e-07"
+          ]
+        },
+        {
+          "id": "conta-e-08",
+          "title": "Demonstrações Consolidadas",
+          "fileIds": [
+            "conta-e-08"
+          ]
+        },
+        {
+          "id": "conta-f-01",
+          "title": "Demonstração de Fluxo de Caixa (CPC 03)",
+          "fileIds": [
+            "conta-f-01"
+          ]
+        },
+        {
+          "id": "conta-f-02",
+          "title": "Arrendamento (CPC 06)",
+          "fileIds": [
+            "conta-f-02"
+          ]
+        },
+        {
+          "id": "conta-f-03",
+          "title": "Partes Relacionadas (CPC 05)",
+          "fileIds": [
+            "conta-f-03"
+          ]
+        },
+        {
+          "id": "conta-f-04",
+          "title": "Subvenções (CPC 07)",
+          "fileIds": [
+            "conta-f-04"
+          ]
+        },
+        {
+          "id": "conta-f-05",
+          "title": "Estoques",
+          "fileIds": [
+            "conta-f-05"
+          ]
+        },
+        {
+          "id": "conta-f-06",
+          "title": "Eventos Subsequentes (CPC 24)",
+          "fileIds": [
+            "conta-f-06"
+          ]
+        }
+      ]
     }
   },
   "subjectResources": [
@@ -11337,7 +12850,23 @@
     "groupRelatedTopics": true,
     "criticalRule": "Marcar como crítico somente quando o usuário indicar dificuldade maior, por mensagem ou botão próprio. Materiais de estudo, sozinhos, não comprovam dificuldade.",
     "macroMicroSeparated": true,
-    "pendingSubmissions": "Ao receber os lançamentos guardados para análise neste chat, perguntar ao usuário como proceder antes de incorporar ou alterar a apostila."
+    "pendingSubmissions": "Ao receber os lançamentos guardados para análise neste chat, perguntar ao usuário como proceder antes de incorporar ou alterar a apostila.",
+    "accounting": {
+      "layout": [
+        "Teoria da matéria",
+        "Exercícios",
+        "Teoria das questões"
+      ],
+      "answersHiddenByDefault": true,
+      "solutionsHiddenByDefault": true,
+      "questionTheorySeparate": true,
+      "boards": [
+        "Cebraspe/Cespe",
+        "FGV"
+      ],
+      "sequence": "Mostrar os 43 assuntos diretamente, preservando a sequência enviada. Blocos A a F servem apenas como referência de ordem e não devem aparecer na navegação.",
+      "contentPolicy": "Preencher com os materiais enviados pelo usuário; não inventar exercícios nem classificar dificuldade sem indicação."
+    }
   },
   "supplementalSources": [
     {
