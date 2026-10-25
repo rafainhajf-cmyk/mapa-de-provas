@@ -44,7 +44,7 @@ export function mountStudyReader(root,{title='Conteúdo de estudo'}={}){
   if(entry.searchContent)return entry.searchContent;
   const index=entries.indexOf(entry),next=entries.slice(index+1).find(other=>other.owner===entry.owner);
   const range=document.createRange();range.setStartAfter(entry.heading);if(next)range.setEndBefore(next.heading);else range.setEndAfter(entry.owner.lastChild);
-  const nodes=[...entry.owner.querySelectorAll('p,td,th,li')].filter(node=>range.intersectsNode(node)&&!node.closest('.study-reader-section-tools,.study-observation-editor,.study-reader-panel,.illustration-original,.compact-original-links,.accounting-answer')&&!node.classList.contains('conversion-notice'));
+  const nodes=[...entry.owner.querySelectorAll('p,td,th,li')].filter(node=>range.intersectsNode(node)&&!node.closest('.study-reader-section-tools,.study-observation-editor,.study-reader-panel,.illustration-original,.compact-original-links,.accounting-answer,.accounting-sources')&&!node.classList.contains('conversion-notice'));
   const text=nodes.map(node=>node.textContent).join(' ').replace(/\s+/g,' ').trim();
   return entry.searchContent={nodes,text,normalized:normalize(text)};
  }

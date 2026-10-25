@@ -10646,16 +10646,365 @@
         "kind": "study-note",
         "topic": "Contabilidade Básica",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Conteúdo parcial organizado dos PDFs enviados em 25/10/2026. 5 fonte(s); 0 aplicação(ões) com resposta oculta.",
+        "source": "PDFs enviados pelo usuário, transcritos e organizados por assunto. Ajustes pontuais registrados em Fontes e conferência; não é revisão exaustiva de todas as normas.",
         "accountingTopics": [
           {
             "id": "conta-a-01",
             "title": "Contabilidade Básica",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Objeto, finalidade e campo de aplicação",
+                "sourceId": "libfile_54eb9decb02c81919b41bc98c1805fa5"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Conceito",
+                    "Ideia central"
+                  ],
+                  [
+                    "Objeto",
+                    "Patrimônio das entidades: bens, direitos e obrigações."
+                  ],
+                  [
+                    "Controle",
+                    "Controle do patrimônio."
+                  ],
+                  [
+                    "Finalidade informacional",
+                    "Fornecer informações úteis aos usuários para tomar decisões."
+                  ],
+                  [
+                    "Campo de aplicação",
+                    "Aziendas: entidades econômico-administrativas, compreendendo patrimônio e gestão."
+                  ]
+                ],
+                "sourceId": "libfile_54eb9decb02c81919b41bc98c1805fa5"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Funções da Contabilidade",
+                "sourceId": "libfile_54eb9decb02c81919b41bc98c1805fa5"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Função econômica",
+                    "Função administrativa"
+                  ],
+                  [
+                    "Apuração do resultado.",
+                    "Controle do patrimônio."
+                  ]
+                ],
+                "sourceId": "libfile_54eb9decb02c81919b41bc98c1805fa5"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Técnicas contábeis",
+                "sourceId": "libfile_54eb9decb02c81919b41bc98c1805fa5"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Técnica",
+                    "Para que serve"
+                  ],
+                  [
+                    "Escrituração",
+                    "Registrar os fatos contábeis."
+                  ],
+                  [
+                    "Demonstrações contábeis",
+                    "Evidenciar os fatos registrados."
+                  ],
+                  [
+                    "Auditoria",
+                    "Examinar a escrituração e a evidenciação, verificando conformidade com as normas aplicáveis."
+                  ],
+                  [
+                    "Análise das demonstrações",
+                    "Extrair informações sobre a situação patrimonial, econômica e financeira para apoiar decisões."
+                  ]
+                ],
+                "sourceId": "libfile_54eb9decb02c81919b41bc98c1805fa5"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Mnemônico do material, atribuído ao professor Gabriel Rabelo: “É Ela, A Ana!” — Escrituração; Elaboração das demonstrações; Auditoria; Análise.",
+                "sourceId": "libfile_54eb9decb02c81919b41bc98c1805fa5"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Situação líquida patrimonial",
+                "sourceId": "libfile_54eb9decb02c81919b41bc98c1805fa5"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Situação",
+                    "Comparação",
+                    "Patrimônio líquido"
+                  ],
+                  [
+                    "Positiva / superavitária",
+                    "Ativo > passivo exigível",
+                    "PL > 0"
+                  ],
+                  [
+                    "Nula / equilibrada",
+                    "Ativo = passivo exigível",
+                    "PL = 0"
+                  ],
+                  [
+                    "Negativa / deficitária (passivo a descoberto)",
+                    "Ativo < passivo exigível",
+                    "PL < 0"
+                  ]
+                ],
+                "sourceId": "libfile_54eb9decb02c81919b41bc98c1805fa5"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Escolas da Contabilidade",
+                "sourceId": "libfile_160378bfe4c881919bec8d4b9368d0e8"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Escola",
+                    "Foco para comparar"
+                  ],
+                  [
+                    "Patrimonialista",
+                    "Patrimônio como objeto de estudo."
+                  ],
+                  [
+                    "Personalista",
+                    "Personificação das contas: relações de direitos e obrigações entre pessoas."
+                  ],
+                  [
+                    "Contista",
+                    "Contas e escrituração; apresentada como primeira escola no resumo enviado."
+                  ],
+                  [
+                    "Controlista",
+                    "Controle econômico."
+                  ]
+                ],
+                "sourceId": "libfile_160378bfe4c881919bec8d4b9368d0e8"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Atos e fatos contábeis",
+                "sourceId": "libfile_943b59eaeed081918d0616713a65f057"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "No recorte do material: atos não provocam alteração patrimonial imediata; fatos provocam alterações patrimoniais.",
+                "sourceId": "libfile_943b59eaeed081918d0616713a65f057"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Fato",
+                    "Altera o total do PL?",
+                    "Característica"
+                  ],
+                  [
+                    "Permutativo / qualitativo",
+                    "Não",
+                    "Muda a composição patrimonial."
+                  ],
+                  [
+                    "Modificativo / quantitativo aumentativo",
+                    "Sim: aumenta",
+                    "Aumenta o patrimônio líquido."
+                  ],
+                  [
+                    "Modificativo / quantitativo diminutivo",
+                    "Sim: diminui",
+                    "Reduz o patrimônio líquido."
+                  ],
+                  [
+                    "Misto aumentativo",
+                    "Sim: aumenta",
+                    "Combina permuta e modificação aumentativa."
+                  ],
+                  [
+                    "Misto diminutivo",
+                    "Sim: diminui",
+                    "Combina permuta e modificação diminutiva."
+                  ]
+                ],
+                "sourceId": "libfile_943b59eaeed081918d0616713a65f057"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Fórmulas dos lançamentos",
+                "sourceId": "libfile_41790553725c8191892d8bf567a4ca6c"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Fórmula",
+                    "Contas debitadas",
+                    "Contas creditadas"
+                  ],
+                  [
+                    "1ª",
+                    "Uma",
+                    "Uma"
+                  ],
+                  [
+                    "2ª",
+                    "Uma",
+                    "Duas ou mais"
+                  ],
+                  [
+                    "3ª",
+                    "Duas ou mais",
+                    "Uma"
+                  ],
+                  [
+                    "4ª",
+                    "Duas ou mais",
+                    "Duas ou mais"
+                  ]
+                ],
+                "sourceId": "libfile_41790553725c8191892d8bf567a4ca6c"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A fórmula depende da quantidade de contas em cada lado, e não da quantidade de valores monetários.",
+                "sourceId": "libfile_41790553725c8191892d8bf567a4ca6c"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [
+              {
+                "id": "mapa-lancamentos",
+                "board": "Quadro enviado — sem banca ou ano informados",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Os cinco casos de lançamentos do PDF foram distribuídos em Exercícios dos assuntos correspondentes: Investimentos MEP; Instrumentos Financeiros; Intangível; Receita com Contrato com Cliente; e Empréstimos. As respostas ficam ocultas em cada local. Não se trata de cinco questões integrais de prova: são as transações e as respostas do quadro enviado."
+                  }
+                ]
+              }
+            ],
+            "sourceDocuments": [
+              {
+                "name": "Conceitos Básicos de Contabilidade.pdf",
+                "libraryFileId": "libfile_54eb9decb02c81919b41bc98c1805fa5",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Escolas da Contabilidade.pdf",
+                "libraryFileId": "libfile_160378bfe4c881919bec8d4b9368d0e8",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Fatos Contábeis.pdf",
+                "libraryFileId": "libfile_943b59eaeed081918d0616713a65f057",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Fórmula lançamentos.pdf",
+                "libraryFileId": "libfile_41790553725c8191892d8bf567a4ca6c",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Lançamentos contábeis.pdf",
+                "libraryFileId": "libfile_e0554fe029e481919b3e680693419de8",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "Escolas: o PDF associa a personalista à “ciência da gestão patrimonial”. O quadro foi ajustado para destacar a personificação das contas, que caracteriza essa escola.",
+                "url": "https://www.unitins.br/RepositorioDigital/Publico/Home/BaixarPDF/1068"
+              }
+            ]
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25",
+        "sourceDocuments": [
+          {
+            "name": "Conceitos Básicos de Contabilidade.pdf",
+            "libraryFileId": "libfile_54eb9decb02c81919b41bc98c1805fa5",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Escolas da Contabilidade.pdf",
+            "libraryFileId": "libfile_160378bfe4c881919bec8d4b9368d0e8",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Fatos Contábeis.pdf",
+            "libraryFileId": "libfile_943b59eaeed081918d0616713a65f057",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Fórmula lançamentos.pdf",
+            "libraryFileId": "libfile_41790553725c8191892d8bf567a4ca6c",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Lançamentos contábeis.pdf",
+            "libraryFileId": "libfile_e0554fe029e481919b3e680693419de8",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
           }
         ]
       },
@@ -10667,16 +11016,162 @@
         "kind": "study-note",
         "topic": "Estrutura Conceitual (CPC 00)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Conteúdo parcial organizado dos PDFs enviados em 25/10/2026. 2 fonte(s); 0 aplicação(ões) com resposta oculta.",
+        "source": "PDFs enviados pelo usuário, transcritos e organizados por assunto. Ajustes pontuais registrados em Fontes e conferência; não é revisão exaustiva de todas as normas.",
         "accountingTopics": [
           {
             "id": "conta-a-02",
             "title": "Estrutura Conceitual (CPC 00)",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Objetivo dos relatórios financeiros para fins gerais",
+                "sourceId": "libfile_4e51cc4654108191b9a18eb58a5dbd54"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Fornecer informações financeiras úteis para decisões sobre a oferta de recursos à entidade. Os relatórios não são preparados para atender a uma demanda particular de um usuário individual.",
+                "sourceId": "libfile_4e51cc4654108191b9a18eb58a5dbd54"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Os relatórios não têm a finalidade de apresentar o valor da entidade; fornecem informações que ajudam os usuários a estimá-lo. Evidenciam recursos econômicos, reivindicações e os efeitos das transações e de outros eventos.",
+                "sourceId": "libfile_4e51cc4654108191b9a18eb58a5dbd54"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Usuários primários destacados no PDF"
+                  ],
+                  [
+                    "Investidores existentes e potenciais."
+                  ],
+                  [
+                    "Credores por empréstimos existentes e potenciais."
+                  ],
+                  [
+                    "Outros credores existentes e potenciais."
+                  ]
+                ],
+                "sourceId": "libfile_4e51cc4654108191b9a18eb58a5dbd54"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Características qualitativas fundamentais",
+                "sourceId": "libfile_c49911afa8c481918ff434eff7feff98"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Característica",
+                    "Composição / ideia-chave"
+                  ],
+                  [
+                    "Relevância",
+                    "Informação capaz de fazer diferença: valor preditivo, confirmatório ou ambos."
+                  ],
+                  [
+                    "Materialidade",
+                    "Aspecto da relevância relacionado à natureza, à magnitude ou a ambas no contexto da entidade."
+                  ],
+                  [
+                    "Representação fidedigna",
+                    "Completa, neutra e livre de erro. Reflete a essência econômica, e não apenas a forma jurídica."
+                  ]
+                ],
+                "sourceId": "libfile_c49911afa8c481918ff434eff7feff98"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Mnemônico do esquema: RE-RE — Relevância e Representação fidedigna.",
+                "sourceId": "libfile_c49911afa8c481918ff434eff7feff98"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Características qualitativas de melhoria",
+                "sourceId": "libfile_c49911afa8c481918ff434eff7feff98"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Característica",
+                    "Lembrete do esquema"
+                  ],
+                  [
+                    "Comparabilidade",
+                    "Comparabilidade não é sinônimo de consistência nem de uniformidade."
+                  ],
+                  [
+                    "Compreensibilidade",
+                    "Informação apresentada de forma compreensível."
+                  ],
+                  [
+                    "Tempestividade",
+                    "Informação disponível em tempo útil para as decisões."
+                  ],
+                  [
+                    "Verificabilidade",
+                    "Possibilidade de verificação por observadores independentes."
+                  ]
+                ],
+                "sourceId": "libfile_c49911afa8c481918ff434eff7feff98"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Mnemônico do esquema: CO-CO-TE-VE — Comparabilidade, Compreensibilidade, Tempestividade e Verificabilidade.",
+                "sourceId": "libfile_c49911afa8c481918ff434eff7feff98"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "Objetivo dos relatórios financeiros gerais.pdf",
+                "libraryFileId": "libfile_4e51cc4654108191b9a18eb58a5dbd54",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Fundamentais e relevancia.pdf",
+                "libraryFileId": "libfile_c49911afa8c481918ff434eff7feff98",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ]
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25",
+        "sourceDocuments": [
+          {
+            "name": "Objetivo dos relatórios financeiros gerais.pdf",
+            "libraryFileId": "libfile_4e51cc4654108191b9a18eb58a5dbd54",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Fundamentais e relevancia.pdf",
+            "libraryFileId": "libfile_c49911afa8c481918ff434eff7feff98",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
           }
         ]
       },
@@ -10688,16 +11183,174 @@
         "kind": "study-note",
         "topic": "Ajuste a Valor Presente (CPC 12)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Conteúdo parcial organizado dos PDFs enviados em 25/10/2026. 1 fonte(s); 1 aplicação(ões) com resposta oculta.",
+        "source": "PDFs enviados pelo usuário, transcritos e organizados por assunto. Ajustes pontuais registrados em Fontes e conferência; não é revisão exaustiva de todas as normas.",
         "accountingTopics": [
           {
             "id": "conta-a-03",
             "title": "Ajuste a Valor Presente (CPC 12)",
             "group": "",
-            "theory": [],
-            "exercises": [],
-            "questionTheory": []
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "AVP: cálculo, momento e taxa",
+                "sourceId": "libfile_b2bc12fc21608191a42886bb5cd2d3f3"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Valor presente: VP = VF / (1 + i)ⁿ. A quantificação é feita em base exponencial, com taxa da data de origem da transação e compatível com prazo e riscos. O ajuste é considerado no reconhecimento inicial; depois, os juros são apropriados pela taxa efetiva.",
+                "sourceId": "libfile_b2bc12fc21608191a42886bb5cd2d3f3"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Ponto",
+                    "Tratamento no material"
+                  ],
+                  [
+                    "Taxa e impostos",
+                    "Taxa antes dos impostos; não líquida de efeitos fiscais."
+                  ],
+                  [
+                    "Tributos diferidos",
+                    "Ativos e passivos fiscais diferidos não são descontados a valor presente."
+                  ],
+                  [
+                    "Valor presente × valor justo",
+                    "Podem coincidir, mas não são sinônimos."
+                  ],
+                  [
+                    "Venda a prazo",
+                    "Separar o componente de financiamento da receita de venda. No exemplo enviado, a receita inicial corresponde ao valor à vista."
+                  ],
+                  [
+                    "Compra a prazo",
+                    "Juros embutidos são separados do custo inicial do ativo e apropriados no tempo."
+                  ],
+                  [
+                    "Reversão do AVP",
+                    "Em regra, receita ou despesa financeira. O material ressalta a apresentação operacional quando o financiamento a clientes integrar comprovadamente as atividades operacionais."
+                  ],
+                  [
+                    "Passivos",
+                    "O material destaca passivos contratuais e não contratuais; a taxa de desconto considera o risco de crédito conforme as regras aplicáveis."
+                  ]
+                ],
+                "sourceId": "libfile_b2bc12fc21608191a42886bb5cd2d3f3"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O exemplo numérico e os lançamentos do PDF estão em Exercícios, com resposta oculta.",
+                "sourceId": "libfile_b2bc12fc21608191a42886bb5cd2d3f3"
+              }
+            ],
+            "exercises": [
+              {
+                "id": "avp-pdf-inicial",
+                "context": "Exemplo do PDF CPC 12 AVP, reorganizado como aplicação. A apropriação posterior foi corrigida para juros compostos.",
+                "statement": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Uma mercadoria é vendida/comprada por R$ 100.000,00, a receber/pagar integralmente ao fim de 2 anos. O valor à vista é R$ 90.000,00. Confira o registro inicial no vendedor e no comprador e a apropriação anual dos juros, sem pagamentos intermediários."
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Entidade",
+                        "Débito",
+                        "Crédito"
+                      ],
+                      [
+                        "Vendedor",
+                        "Clientes a longo prazo: R$ 100.000,00",
+                        "Vendas: R$ 90.000,00; AVP / receitas financeiras a apropriar (redutora de clientes): R$ 10.000,00"
+                      ],
+                      [
+                        "Comprador",
+                        "Estoques: R$ 90.000,00; encargos financeiros a transcorrer / AVP (redutora de fornecedores): R$ 10.000,00",
+                        "Fornecedores a longo prazo: R$ 100.000,00"
+                      ]
+                    ]
+                  }
+                ],
+                "solution": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Taxa anual implícita: i = (100.000/90.000)^(1/2) − 1 ≈ 5,409255%. Usar a taxa sem arredondamento intermediário."
+                  },
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Período",
+                        "Saldo líquido inicial",
+                        "Juros efetivos",
+                        "Saldo líquido final"
+                      ],
+                      [
+                        "1º ano",
+                        "R$ 90.000,00",
+                        "R$ 4.868,33",
+                        "R$ 94.868,33"
+                      ],
+                      [
+                        "2º ano",
+                        "R$ 94.868,33",
+                        "R$ 5.131,67",
+                        "R$ 100.000,00"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "No vendedor: D — receitas financeiras a apropriar (reduz a conta retificadora de clientes); C — receita financeira, pelo juro de cada ano. No comprador: D — despesa financeira; C — encargos financeiros a transcorrer (reduz a conta retificadora do passivo), pelos mesmos valores."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "A divisão de R$ 5.000 por ano mostrada no original é linear e não corresponde à taxa efetiva composta."
+                  }
+                ]
+              }
+            ],
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "CPC 12 AVP.pdf",
+                "libraryFileId": "libfile_b2bc12fc21608191a42886bb5cd2d3f3",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "O PDF faz uma apropriação linear dos juros e declara estar supondo juros simples. Para estudar o AVP pela taxa efetiva, a resolução foi recalculada em juros compostos. Os valores e os lançamentos corrigidos estão em “Revelar resposta”, no exemplo do PDF.",
+                "url": "https://www.cpc.org.br/Arquivos/Documentos/619_CPC%2012%20%28R1%29%20-%20Ajuste%20a%20Valor%20Presente.pdf"
+              }
+            ]
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25",
+        "sourceDocuments": [
+          {
+            "name": "CPC 12 AVP.pdf",
+            "libraryFileId": "libfile_b2bc12fc21608191a42886bb5cd2d3f3",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
           }
         ]
       },
@@ -10709,16 +11362,106 @@
         "kind": "study-note",
         "topic": "Mensuração a Valor Justo (CPC 46)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Conteúdo parcial organizado dos PDFs enviados em 25/10/2026. 1 fonte(s); 0 aplicação(ões) com resposta oculta.",
+        "source": "PDFs enviados pelo usuário, transcritos e organizados por assunto. Ajustes pontuais registrados em Fontes e conferência; não é revisão exaustiva de todas as normas.",
         "accountingTopics": [
           {
             "id": "conta-a-04",
             "title": "Mensuração a Valor Justo (CPC 46)",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Mensuração a valor justo: perspectiva do mercado",
+                "sourceId": "libfile_2eca1d09f738819195adac1f054dcde3"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O valor justo usa a perspectiva dos participantes de mercado, e não apenas a intenção ou a conveniência da entidade. O referencial é uma transação não forçada nas condições da data de mensuração.",
+                "sourceId": "libfile_2eca1d09f738819195adac1f054dcde3"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Abordagens e técnicas de avaliação",
+                "sourceId": "libfile_2eca1d09f738819195adac1f054dcde3"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Abordagem",
+                    "Ideia central",
+                    "Exemplo de técnica"
+                  ],
+                  [
+                    "Mercado",
+                    "Preços e informações de transações com itens idênticos ou comparáveis.",
+                    "Comparação com preços de mercado."
+                  ],
+                  [
+                    "Custo",
+                    "Montante para substituir a capacidade de serviço de um ativo.",
+                    "Custo de reposição atual."
+                  ],
+                  [
+                    "Receita",
+                    "Converter valores futuros em um valor atual.",
+                    "Fluxo de caixa descontado."
+                  ]
+                ],
+                "sourceId": "libfile_2eca1d09f738819195adac1f054dcde3"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O fluxo de caixa descontado é uma técnica da abordagem de receita. A escolha deve ser adequada ao item mensurado e aos dados disponíveis.",
+                "sourceId": "libfile_2eca1d09f738819195adac1f054dcde3"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Instrumento patrimonial próprio sem preço de transferência cotado",
+                "sourceId": "libfile_2eca1d09f738819195adac1f054dcde3"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Se um item idêntico for mantido como ativo por outra parte, observar a perspectiva do participante que o detém: usar o preço desse item em mercado ativo, depois outros dados observáveis e, na falta deles, técnica adequada, como abordagem de receita ou de mercado. Se o item não for mantido por outra parte como ativo, avaliar da perspectiva do participante que assume a posição. Não trocar essas condições pela simples intenção da entidade. Referência: CPC 46, itens 37, 38 e 40.",
+                "sourceId": "libfile_2eca1d09f738819195adac1f054dcde3"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "Técnicas de Avaliação O CPC 46.pdf",
+                "libraryFileId": "libfile_2eca1d09f738819195adac1f054dcde3",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "O PDF apresenta as três técnicas no contexto de instrumento patrimonial próprio. Esse contexto exige o tratamento específico dos itens 34 a 40 do CPC 46; não se deve presumir que custo de reposição seja uma técnica aplicável indistintamente a instrumentos patrimoniais. O quadro geral foi separado dessa situação.",
+                "url": "https://www.cpc.org.br/Arquivos/Documentos/395_CPC_46_rev%2006.pdf"
+              }
+            ]
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25",
+        "sourceDocuments": [
+          {
+            "name": "Técnicas de Avaliação O CPC 46.pdf",
+            "libraryFileId": "libfile_2eca1d09f738819195adac1f054dcde3",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
           }
         ]
       },
@@ -10730,16 +11473,91 @@
         "kind": "study-note",
         "topic": "Políticas, erros e estimativas contábeis (CPC 23)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Conteúdo parcial organizado dos PDFs enviados em 25/10/2026. 1 fonte(s); 0 aplicação(ões) com resposta oculta.",
+        "source": "PDFs enviados pelo usuário, transcritos e organizados por assunto. Ajustes pontuais registrados em Fontes e conferência; não é revisão exaustiva de todas as normas.",
         "accountingTopics": [
           {
             "id": "conta-a-05",
             "title": "Políticas, erros e estimativas contábeis (CPC 23)",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Mudança de política: aplicação retrospectiva",
+                "sourceId": "libfile_a0f91200cd5c8191a4b389a99ed1dbcd"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Quando se aplica uma política retrospectivamente, os comparativos são apresentados como se ela sempre tivesse sido utilizada. Ajustam-se os componentes afetados do PL na abertura do período comparativo mais antigo apresentado, observadas as disposições transitórias e os limites de aplicação praticável.",
+                "sourceId": "libfile_a0f91200cd5c8191a4b389a99ed1dbcd"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O efeito acumulado de períodos anteriores aos comparativos apresentados é refletido no saldo inicial do componente de PL pertinente; lucros ou prejuízos acumulados são um exemplo, não a única conta possível.",
+                "sourceId": "libfile_a0f91200cd5c8191a4b389a99ed1dbcd"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Limite: aplicação impraticável",
+                "sourceId": "libfile_a0f91200cd5c8191a4b389a99ed1dbcd"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A exceção não é uma simples escolha por conveniência ou custo. A aplicação é impraticável quando a entidade não consegue cumprir o requisito mesmo depois de todos os esforços razoáveis. Os efeitos específicos e cumulativos devem ser avaliados conforme o CPC 23.",
+                "sourceId": "libfile_a0f91200cd5c8191a4b389a99ed1dbcd"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [
+              {
+                "id": "nbc23-itens-ii-iii",
+                "board": "Anotações do PDF — banca não informada",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Item II: a retrospectividade alcança a informação comparativa, como se a nova política sempre tivesse sido aplicada. Verifique o período mais antigo apresentado e as limitações normativas; não confunda com mudança de estimativa."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Item III: o ajuste acumulado relativo a períodos anteriores aos apresentados é levado ao saldo de abertura do componente do PL afetado. Não é uma regra de lançar todo o ajuste como despesa do exercício atual."
+                  }
+                ]
+              }
+            ],
+            "sourceDocuments": [
+              {
+                "name": "NBC 23.pdf",
+                "libraryFileId": "libfile_a0f91200cd5c8191a4b389a99ed1dbcd",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "O PDF define praticabilidade como aplicação “sem custo ou esforço indevido”. Essa expressão foi corrigida: no CPC 23, a condição de impraticabilidade exige a impossibilidade de aplicar o requisito após todos os esforços razoáveis. Também foi destacado o ajuste do PL do período comparativo mais antigo apresentado.",
+                "url": "https://www.cpc.org.br/Arquivos/Documentos/296_CPC_23_rev%2020.pdf"
+              }
+            ]
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25",
+        "sourceDocuments": [
+          {
+            "name": "NBC 23.pdf",
+            "libraryFileId": "libfile_a0f91200cd5c8191a4b389a99ed1dbcd",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
           }
         ]
       },
@@ -10751,16 +11569,73 @@
         "kind": "study-note",
         "topic": "Receita com Contrato com Cliente (CPC 47)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Conteúdo parcial organizado dos PDFs enviados em 25/10/2026. 1 fonte(s); 1 aplicação(ões) com resposta oculta.",
+        "source": "PDFs enviados pelo usuário, transcritos e organizados por assunto. Ajustes pontuais registrados em Fontes e conferência; não é revisão exaustiva de todas as normas.",
         "accountingTopics": [
           {
             "id": "conta-a-06",
             "title": "Receita com Contrato com Cliente (CPC 47)",
             "group": "",
             "theory": [],
-            "exercises": [],
-            "questionTheory": []
+            "exercises": [
+              {
+                "id": "pdf-lanc-adiantamento-150000",
+                "context": "Aplicação extraída do quadro Lançamentos contábeis.pdf. Sem enunciado integral de banca; valores preservados.",
+                "statement": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Recebimento de adiantamento de cliente de R$ 150.000,00 antes da transferência dos bens ou serviços."
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Débito",
+                        "Crédito",
+                        "Valor"
+                      ],
+                      [
+                        "Caixa e equivalentes de caixa (ativo)",
+                        "Adiantamento de clientes / passivo de contrato",
+                        "R$ 150.000,00"
+                      ]
+                    ]
+                  }
+                ],
+                "solution": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "O recebimento antecipado gera obrigação contratual nesse cenário. O lançamento apresentado não reconhece receita de venda no momento do adiantamento (CPC 47)."
+                  }
+                ]
+              }
+            ],
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "Lançamentos contábeis.pdf",
+                "libraryFileId": "libfile_e0554fe029e481919b3e680693419de8",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ]
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25",
+        "sourceDocuments": [
+          {
+            "name": "Lançamentos contábeis.pdf",
+            "libraryFileId": "libfile_e0554fe029e481919b3e680693419de8",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
           }
         ]
       },
@@ -10835,16 +11710,73 @@
         "kind": "study-note",
         "topic": "Instrumentos Financeiros (CPC 48)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Conteúdo parcial organizado dos PDFs enviados em 25/10/2026. 1 fonte(s); 1 aplicação(ões) com resposta oculta.",
+        "source": "PDFs enviados pelo usuário, transcritos e organizados por assunto. Ajustes pontuais registrados em Fontes e conferência; não é revisão exaustiva de todas as normas.",
         "accountingTopics": [
           {
             "id": "conta-b-04",
             "title": "Instrumentos Financeiros (CPC 48)",
             "group": "Contas do ativo",
             "theory": [],
-            "exercises": [],
-            "questionTheory": []
+            "exercises": [
+              {
+                "id": "pdf-lanc-pecld-56000",
+                "context": "Aplicação extraída do quadro Lançamentos contábeis.pdf. Sem enunciado integral de banca; valores preservados.",
+                "statement": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Reconhecimento de perdas estimadas com créditos de liquidação duvidosa, no valor de R$ 56.000,00."
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Débito",
+                        "Crédito",
+                        "Valor"
+                      ],
+                      [
+                        "Despesa com perdas de crédito esperadas (resultado)",
+                        "Ajuste para perdas de crédito esperadas / PECLD (conta redutora do ativo)",
+                        "R$ 56.000,00"
+                      ]
+                    ]
+                  }
+                ],
+                "solution": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "No quadro, a contrapartida da despesa é uma conta redutora do ativo financeiro. O tema é perda de crédito esperada (CPC 48), e não uma provisão de passivo do CPC 25."
+                  }
+                ]
+              }
+            ],
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "Lançamentos contábeis.pdf",
+                "libraryFileId": "libfile_e0554fe029e481919b3e680693419de8",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ]
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25",
+        "sourceDocuments": [
+          {
+            "name": "Lançamentos contábeis.pdf",
+            "libraryFileId": "libfile_e0554fe029e481919b3e680693419de8",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
           }
         ]
       },
@@ -10877,16 +11809,73 @@
         "kind": "study-note",
         "topic": "Intangível (CPC 04)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Conteúdo parcial organizado dos PDFs enviados em 25/10/2026. 1 fonte(s); 1 aplicação(ões) com resposta oculta.",
+        "source": "PDFs enviados pelo usuário, transcritos e organizados por assunto. Ajustes pontuais registrados em Fontes e conferência; não é revisão exaustiva de todas as normas.",
         "accountingTopics": [
           {
             "id": "conta-b-06",
             "title": "Intangível (CPC 04)",
             "group": "Contas do ativo",
             "theory": [],
-            "exercises": [],
-            "questionTheory": []
+            "exercises": [
+              {
+                "id": "pdf-lanc-pesquisa-30000",
+                "context": "Aplicação extraída do quadro Lançamentos contábeis.pdf. Sem enunciado integral de banca; valores preservados.",
+                "statement": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Desembolso de R$ 30.000,00 em pesquisa, na fase de pesquisa indicada pela fundamentação do quadro."
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Débito",
+                        "Crédito",
+                        "Valor"
+                      ],
+                      [
+                        "Despesa com pesquisa e desenvolvimento (resultado)",
+                        "Caixa e equivalentes de caixa (ativo)",
+                        "R$ 30.000,00"
+                      ]
+                    ]
+                  }
+                ],
+                "solution": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "O quadro fundamenta a despesa na fase de pesquisa (CPC 04). Não generalizar essa resposta para toda atividade de desenvolvimento: o tratamento depende dos critérios próprios do intangível."
+                  }
+                ]
+              }
+            ],
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "Lançamentos contábeis.pdf",
+                "libraryFileId": "libfile_e0554fe029e481919b3e680693419de8",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ]
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25",
+        "sourceDocuments": [
+          {
+            "name": "Lançamentos contábeis.pdf",
+            "libraryFileId": "libfile_e0554fe029e481919b3e680693419de8",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
           }
         ]
       },
@@ -10940,16 +11929,73 @@
         "kind": "study-note",
         "topic": "Empréstimos",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Conteúdo parcial organizado dos PDFs enviados em 25/10/2026. 1 fonte(s); 1 aplicação(ões) com resposta oculta.",
+        "source": "PDFs enviados pelo usuário, transcritos e organizados por assunto. Ajustes pontuais registrados em Fontes e conferência; não é revisão exaustiva de todas as normas.",
         "accountingTopics": [
           {
             "id": "conta-c-02",
             "title": "Empréstimos",
             "group": "Contas do passivo",
             "theory": [],
-            "exercises": [],
-            "questionTheory": []
+            "exercises": [
+              {
+                "id": "pdf-lanc-juros-3000",
+                "context": "Aplicação extraída do quadro Lançamentos contábeis.pdf. Sem enunciado integral de banca; valores preservados.",
+                "statement": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Reconhecimento de juros sobre empréstimos de R$ 3.000,00, ainda não pagos."
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Débito",
+                        "Crédito",
+                        "Valor"
+                      ],
+                      [
+                        "Despesa financeira (resultado)",
+                        "Juros a pagar (passivo)",
+                        "R$ 3.000,00"
+                      ]
+                    ]
+                  }
+                ],
+                "solution": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Reconhecimento da despesa e da obrigação no período de competência; o caixa será afetado no pagamento. A conta Juros a pagar foi preservada conforme o quadro enviado."
+                  }
+                ]
+              }
+            ],
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "Lançamentos contábeis.pdf",
+                "libraryFileId": "libfile_e0554fe029e481919b3e680693419de8",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ]
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25",
+        "sourceDocuments": [
+          {
+            "name": "Lançamentos contábeis.pdf",
+            "libraryFileId": "libfile_e0554fe029e481919b3e680693419de8",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
           }
         ]
       },
@@ -11171,16 +12217,73 @@
         "kind": "study-note",
         "topic": "Investimentos MEP (CPC 18)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Conteúdo parcial organizado dos PDFs enviados em 25/10/2026. 1 fonte(s); 1 aplicação(ões) com resposta oculta.",
+        "source": "PDFs enviados pelo usuário, transcritos e organizados por assunto. Ajustes pontuais registrados em Fontes e conferência; não é revisão exaustiva de todas as normas.",
         "accountingTopics": [
           {
             "id": "conta-d-05",
             "title": "Investimentos MEP (CPC 18)",
             "group": "",
             "theory": [],
-            "exercises": [],
-            "questionTheory": []
+            "exercises": [
+              {
+                "id": "pdf-lanc-mep-120000",
+                "context": "Aplicação extraída do quadro Lançamentos contábeis.pdf. Sem enunciado integral de banca; valores preservados.",
+                "statement": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Receita de equivalência patrimonial de R$ 120.000,00."
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Débito",
+                        "Crédito",
+                        "Valor"
+                      ],
+                      [
+                        "Investimentos (ativo)",
+                        "Receita de equivalência patrimonial (resultado)",
+                        "R$ 120.000,00"
+                      ]
+                    ]
+                  }
+                ],
+                "solution": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "O quadro relaciona o caso ao método de equivalência patrimonial do CPC 18. O reconhecimento indicado não movimenta caixa."
+                  }
+                ]
+              }
+            ],
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "Lançamentos contábeis.pdf",
+                "libraryFileId": "libfile_e0554fe029e481919b3e680693419de8",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ]
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25",
+        "sourceDocuments": [
+          {
+            "name": "Lançamentos contábeis.pdf",
+            "libraryFileId": "libfile_e0554fe029e481919b3e680693419de8",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
           }
         ]
       },
@@ -12877,6 +13980,76 @@
       "pages": 8,
       "sectionCount": 25,
       "assessment": "not-assessed"
+    },
+    {
+      "name": "Conceitos Básicos de Contabilidade.pdf",
+      "libraryFileId": "libfile_54eb9decb02c81919b41bc98c1805fa5",
+      "subject": "Contabilidade",
+      "receivedAt": "2026-10-25",
+      "type": "user-pdf"
+    },
+    {
+      "name": "CPC 12 AVP.pdf",
+      "libraryFileId": "libfile_b2bc12fc21608191a42886bb5cd2d3f3",
+      "subject": "Contabilidade",
+      "receivedAt": "2026-10-25",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Escolas da Contabilidade.pdf",
+      "libraryFileId": "libfile_160378bfe4c881919bec8d4b9368d0e8",
+      "subject": "Contabilidade",
+      "receivedAt": "2026-10-25",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Fatos Contábeis.pdf",
+      "libraryFileId": "libfile_943b59eaeed081918d0616713a65f057",
+      "subject": "Contabilidade",
+      "receivedAt": "2026-10-25",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Fórmula lançamentos.pdf",
+      "libraryFileId": "libfile_41790553725c8191892d8bf567a4ca6c",
+      "subject": "Contabilidade",
+      "receivedAt": "2026-10-25",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Fundamentais e relevancia.pdf",
+      "libraryFileId": "libfile_c49911afa8c481918ff434eff7feff98",
+      "subject": "Contabilidade",
+      "receivedAt": "2026-10-25",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Lançamentos contábeis.pdf",
+      "libraryFileId": "libfile_e0554fe029e481919b3e680693419de8",
+      "subject": "Contabilidade",
+      "receivedAt": "2026-10-25",
+      "type": "user-pdf"
+    },
+    {
+      "name": "NBC 23.pdf",
+      "libraryFileId": "libfile_a0f91200cd5c8191a4b389a99ed1dbcd",
+      "subject": "Contabilidade",
+      "receivedAt": "2026-10-25",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Objetivo dos relatórios financeiros gerais.pdf",
+      "libraryFileId": "libfile_4e51cc4654108191b9a18eb58a5dbd54",
+      "subject": "Contabilidade",
+      "receivedAt": "2026-10-25",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Técnicas de Avaliação O CPC 46.pdf",
+      "libraryFileId": "libfile_2eca1d09f738819195adac1f054dcde3",
+      "subject": "Contabilidade",
+      "receivedAt": "2026-10-25",
+      "type": "user-pdf"
     }
   ],
   "subjectAliases": {
