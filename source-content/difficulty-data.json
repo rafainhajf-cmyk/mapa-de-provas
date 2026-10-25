@@ -11710,14 +11710,77 @@
         "kind": "study-note",
         "topic": "Instrumentos Financeiros (CPC 48)",
         "category": "Contabilidade",
-        "summary": "Conteúdo parcial organizado dos PDFs enviados em 25/10/2026. 1 fonte(s); 1 aplicação(ões) com resposta oculta.",
-        "source": "PDFs enviados pelo usuário, transcritos e organizados por assunto. Ajustes pontuais registrados em Fontes e conferência; não é revisão exaustiva de todas as normas.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-b-04",
             "title": "Instrumentos Financeiros (CPC 48)",
             "group": "Contas do ativo",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Mensuração de ativos financeiros — modelo de negócios",
+                "sourceId": "libfile_66153c278b3c81918c852e0701bd7718"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Categoria",
+                    "Objetivo resumido do esquema"
+                  ],
+                  [
+                    "Custo amortizado",
+                    "Manter para receber fluxos contratuais."
+                  ],
+                  [
+                    "Valor justo por outros resultados abrangentes (VJORA)",
+                    "Receber fluxos contratuais e vender."
+                  ],
+                  [
+                    "Valor justo por meio do resultado (VJR)",
+                    "Categoria residual; inclui ativos para negociação. Não depende exclusivamente de intenção de venda."
+                  ]
+                ],
+                "sourceId": "libfile_66153c278b3c81918c852e0701bd7718"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Nos instrumentos de dívida, as duas primeiras categorias exigem também fluxos contratuais que representem somente principal e juros (teste SPPI). O objetivo do modelo, sozinho, não basta para classificar.",
+                "sourceId": "libfile_66153c278b3c81918c852e0701bd7718"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Mensuração inicial",
+                "sourceId": "libfile_66153c278b3c81918c852e0701bd7718"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Caso",
+                    "Tratamento"
+                  ],
+                  [
+                    "Regra geral",
+                    "Valor justo; se não for VJR, ajustar por custos de transação diretamente atribuíveis: somar ao ativo ou deduzir do passivo."
+                  ],
+                  [
+                    "VJR",
+                    "Custos de transação reconhecidos no resultado."
+                  ],
+                  [
+                    "Contas a receber de clientes",
+                    "Preço de transação quando não há financiamento significativo ou quando se aplica o expediente prático do CPC 47."
+                  ]
+                ],
+                "sourceId": "libfile_66153c278b3c81918c852e0701bd7718"
+              }
+            ],
             "exercises": [
               {
                 "id": "pdf-lanc-pecld-56000",
@@ -11764,6 +11827,20 @@
                   1
                 ],
                 "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Mensuração instrumentos financeiros.pdf",
+                "libraryFileId": "libfile_66153c278b3c81918c852e0701bd7718",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "O esquema foi complementado para não omitir o teste dos fluxos contratuais, a exceção dos custos de transação em VJR e as condições específicas das contas a receber (CPC 48, 4.1.2, 4.1.2A, 4.1.4, 5.1.1 e 5.1.3).",
+                "url": "https://www.cpc.org.br/Arquivos/Documentos/530_CPC_48_Rev%2017..pdf"
               }
             ]
           }
@@ -11773,6 +11850,14 @@
           {
             "name": "Lançamentos contábeis.pdf",
             "libraryFileId": "libfile_e0554fe029e481919b3e680693419de8",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Mensuração instrumentos financeiros.pdf",
+            "libraryFileId": "libfile_66153c278b3c81918c852e0701bd7718",
             "pages": [
               1
             ],
@@ -11788,18 +11873,96 @@
         "kind": "study-note",
         "topic": "Imobilizado (CPC 27)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-b-05",
             "title": "Imobilizado (CPC 27)",
             "group": "Contas do ativo",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Conceito e reconhecimento",
+                "sourceId": "libfile_5459372f501481918cfc8836efb87ea9"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Imobilizado é item tangível mantido para produção, fornecimento, aluguel a terceiros ou administração, com uso esperado por mais de um período. Reconhecimento: benefícios econômicos futuros prováveis e custo mensurável com confiabilidade.",
+                "sourceId": "libfile_5459372f501481918cfc8836efb87ea9"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Custo inicial do imobilizado",
+                "sourceId": "libfile_5459372f501481918cfc8836efb87ea9"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Componente",
+                    "Tratamento"
+                  ],
+                  [
+                    "Aquisição",
+                    "Preço + impostos de importação + tributos não recuperáveis − descontos comerciais e abatimentos."
+                  ],
+                  [
+                    "Desmontagem, remoção e restauração",
+                    "Estimativa inicial da obrigação, a valor presente quando aplicável."
+                  ],
+                  [
+                    "Custos diretamente atribuíveis",
+                    "Para colocar o ativo no local e nas condições necessárias ao funcionamento pretendido."
+                  ],
+                  [
+                    "Exemplos",
+                    "Benefícios a empregados diretamente envolvidos; preparação do local; frete e manuseio; instalação e montagem; honorários profissionais; testes de funcionamento."
+                  ]
+                ],
+                "sourceId": "libfile_5459372f501481918cfc8836efb87ea9"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Itens produzidos antes do uso pretendido: receitas da venda e custos correspondentes vão ao resultado conforme as normas aplicáveis; custo dos itens mensurado pelo CPC 16. Não deduzir essas receitas do custo do imobilizado (item 20A).",
+                "sourceId": "libfile_5459372f501481918cfc8836efb87ea9"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "CPC 27 - Ativo Imobilizado.pdf",
+                "libraryFileId": "libfile_5459372f501481918cfc8836efb87ea9",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "O PDF contém finais de frases cortados. A ideia foi recomposta de forma resumida, incluindo o tratamento dos itens vendidos antes do uso pretendido previsto no item 20A.",
+                "url": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/001/resol058.pdf"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "CPC 27 - Ativo Imobilizado.pdf",
+            "libraryFileId": "libfile_5459372f501481918cfc8836efb87ea9",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-b-06",
@@ -11887,18 +12050,52 @@
         "kind": "study-note",
         "topic": "Depreciação, Amortização e Exaustão",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-b-07",
             "title": "Depreciação, Amortização e Exaustão",
             "group": "Contas do ativo",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Depreciação contábil × fiscal",
+                "sourceId": "libfile_09cbe6865a1881918c6a19806d4ba7f1"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A depreciação fiscal acelerada antecipa deduções fiscais sem alterar automaticamente a depreciação contábil. O comparativo e a aplicação numérica do PDF estão em Tributos sobre Lucro (CPC 32) → Exercícios.",
+                "sourceId": "libfile_09cbe6865a1881918c6a19806d4ba7f1"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "Depreciação fiscal acelerada.pdf",
+                "libraryFileId": "libfile_09cbe6865a1881918c6a19806d4ba7f1",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Depreciação fiscal acelerada.pdf",
+            "libraryFileId": "libfile_09cbe6865a1881918c6a19806d4ba7f1",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-c-01",
@@ -12049,18 +12246,156 @@
         "kind": "study-note",
         "topic": "Provisões (CPC 25)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-c-05",
             "title": "Provisões (CPC 25)",
             "group": "Contas do passivo",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Provisões × passivos contingentes",
+                "sourceId": "libfile_5b8a236a37ec8191bd4b6a3f69fd4f6b"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Provisão: passivo de prazo ou valor incertos. Reconhecer quando houver obrigação presente, legal ou não formalizada, decorrente de evento passado; saída provável de recursos; e estimativa confiável. Incerteza do valor não impede uma estimativa confiável.",
+                "sourceId": "libfile_5b8a236a37ec8191bd4b6a3f69fd4f6b"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Saída de recursos",
+                    "Registro",
+                    "Notas explicativas"
+                  ],
+                  [
+                    "Provável + demais critérios atendidos",
+                    "Reconhecer provisão",
+                    "Divulgar informações exigidas"
+                  ],
+                  [
+                    "Possível",
+                    "Não reconhecer",
+                    "Divulgar passivo contingente"
+                  ],
+                  [
+                    "Remota",
+                    "Não reconhecer",
+                    "Em regra, dispensada a divulgação"
+                  ]
+                ],
+                "sourceId": "libfile_5b8a236a37ec8191bd4b6a3f69fd4f6b"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Evento futuro, como reforma ou vistoria planejada, não basta para criar provisão. Se a saída for provável mas não houver estimativa confiável, em caso extremamente raro, tratar como passivo contingente.",
+                "sourceId": "libfile_5b8a236a37ec8191bd4b6a3f69fd4f6b"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Ativos contingentes",
+                "sourceId": "libfile_d986915ef2088191b97a9015e5291f64"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Ativo possível originado de evento passado, cuja existência depende de evento futuro incerto fora do controle total da entidade. Pode surgir de evento não planejado ou inesperado.",
+                "sourceId": "libfile_d986915ef2088191b97a9015e5291f64"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Entrada de benefícios",
+                    "Reconhecimento",
+                    "Divulgação"
+                  ],
+                  [
+                    "Praticamente certa",
+                    "Reconhecer ativo; deixa de ser contingente",
+                    "Informações pertinentes ao ativo reconhecido"
+                  ],
+                  [
+                    "Provável",
+                    "Não reconhecer",
+                    "Divulgar ativo contingente em notas"
+                  ],
+                  [
+                    "Possível ou remota",
+                    "Não reconhecer",
+                    "Não divulgar como ativo contingente"
+                  ]
+                ],
+                "sourceId": "libfile_d986915ef2088191b97a9015e5291f64"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [
+              {
+                "id": "libfile_5b8a236a37ec8191bd4b6a3f69fd4f6b",
+                "board": "Anotações do PDF — banca não informada",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Provável, no CPC 25, significa mais provável ocorrer do que não ocorrer. Ativo provável não recebe o mesmo tratamento de passivo provável: o reconhecimento do ativo exige entrada praticamente certa."
+                  }
+                ]
+              }
+            ],
+            "sourceDocuments": [
+              {
+                "name": "Ativo contigente.pdf",
+                "libraryFileId": "libfile_d986915ef2088191b97a9015e5291f64",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "provisão.pdf",
+                "libraryFileId": "libfile_5b8a236a37ec8191bd4b6a3f69fd4f6b",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "Substituído o atalho “≥ 50%”: o CPC 25 utiliza mais provável que sim do que não. Tabelas condicionadas aos demais requisitos e às regras de divulgação.",
+                "url": "https://www.cpc.org.br/Arquivos/Documentos/304_CPC_25_rev%2019.pdf"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Ativo contigente.pdf",
+            "libraryFileId": "libfile_d986915ef2088191b97a9015e5291f64",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "provisão.pdf",
+            "libraryFileId": "libfile_5b8a236a37ec8191bd4b6a3f69fd4f6b",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-c-06",
@@ -12070,18 +12405,109 @@
         "kind": "study-note",
         "topic": "Tributos sobre Lucro (CPC 32)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-c-06",
             "title": "Tributos sobre Lucro (CPC 32)",
             "group": "Contas do passivo",
-            "theory": [],
-            "exercises": [],
-            "questionTheory": []
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Depreciação fiscal acelerada e tributo diferido",
+                "sourceId": "libfile_09cbe6865a1881918c6a19806d4ba7f1"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Se a depreciação fiscal for maior que a contábil, a dedução fiscal é antecipada: a base fiscal do ativo cai mais depressa. No exemplo, isso gera diferença temporária tributável e passivo fiscal diferido, observados os critérios do CPC 32.",
+                "sourceId": "libfile_09cbe6865a1881918c6a19806d4ba7f1"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Para um ativo",
+                    "Consequência geral, observadas as exceções do CPC 32"
+                  ],
+                  [
+                    "Valor contábil > base fiscal",
+                    "Diferença temporária tributável → passivo fiscal diferido."
+                  ],
+                  [
+                    "Valor contábil < base fiscal",
+                    "Diferença temporária dedutível → possível ativo fiscal diferido, sujeito aos requisitos de reconhecimento."
+                  ]
+                ],
+                "sourceId": "libfile_09cbe6865a1881918c6a19806d4ba7f1"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Memória do PDF: deduz mais agora e menos depois. É efeito de momento do tributo, não perdão definitivo do imposto.",
+                "sourceId": "libfile_09cbe6865a1881918c6a19806d4ba7f1"
+              }
+            ],
+            "exercises": [
+              {
+                "id": "pdf-depreciacao-acelerada-100",
+                "sourceId": "libfile_09cbe6865a1881918c6a19806d4ba7f1",
+                "context": "Aplicação didática a partir do exemplo do PDF; banca e ano não informados.",
+                "statement": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Máquina com custo de R$ 100. No primeiro ano, depreciação contábil de R$ 20 e fiscal acelerada de R$ 40. Compare o valor contábil e a base fiscal e identifique o tributo diferido."
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Valor contábil de R$ 80; base fiscal de R$ 60. Diferença temporária tributável de R$ 20 → passivo fiscal diferido."
+                  }
+                ],
+                "solution": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Contábil: 100 − 20 = 80. Fiscal: 100 − 40 = 60. Diferença: 80 − 60 = 20. O passivo fiscal diferido é 20 × alíquota aplicável na reversão; o PDF não informa a alíquota."
+                  }
+                ]
+              }
+            ],
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "Depreciação fiscal acelerada.pdf",
+                "libraryFileId": "libfile_09cbe6865a1881918c6a19806d4ba7f1",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "Comparação entre valor contábil e base fiscal: CPC 32. O exemplo não informa alíquota; por isso não foi inventado valor monetário do passivo diferido.",
+                "url": "https://www.cpc.org.br/Arquivos/Documentos/340_CPC_32_rev%2004.pdf"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Depreciação fiscal acelerada.pdf",
+            "libraryFileId": "libfile_09cbe6865a1881918c6a19806d4ba7f1",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-c-07",
@@ -12112,18 +12538,291 @@
         "kind": "study-note",
         "topic": "Contas do Patrimônio Líquido (Capital Social; Ações; Reservas...)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-c-08",
             "title": "Contas do Patrimônio Líquido (Capital Social; Ações; Reservas...)",
             "group": "Patrimônio Líquido",
-            "theory": [],
-            "exercises": [],
-            "questionTheory": []
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Capitalização de lucros ou reservas",
+                "sourceId": "libfile_0e274bd7a3c88191a8e92d0000f2f97d"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Incorporação de lucros ou reservas ao capital social. É transferência dentro do patrimônio líquido: não representa entrada de caixa nem aumento do PL total por si só.",
+                "sourceId": "libfile_0e274bd7a3c88191a8e92d0000f2f97d"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Forma",
+                    "Efeito"
+                  ],
+                  [
+                    "Ações com valor nominal",
+                    "Aumentar o valor nominal ou distribuir novas ações proporcionalmente à participação."
+                  ],
+                  [
+                    "Ações sem valor nominal",
+                    "Pode ocorrer sem alterar a quantidade de ações."
+                  ]
+                ],
+                "sourceId": "libfile_0e274bd7a3c88191a8e92d0000f2f97d"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Exemplo do PDF: valor nominal de R$ 10 passa a R$ 12. Na bonificação, a distribuição deve respeitar a proporção de cada acionista.",
+                "sourceId": "libfile_0e274bd7a3c88191a8e92d0000f2f97d"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Reservas de capital e ações em tesouraria",
+                "sourceId": "libfile_dcb2d18355ec8191a79402c8ea8445ce"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Conta",
+                    "Origem / tratamento"
+                  ],
+                  [
+                    "Reservas de capital",
+                    "Ágio na emissão de ações e produto da alienação de partes beneficiárias e bônus de subscrição, nos termos do art. 182."
+                  ],
+                  [
+                    "Doações e subvenções",
+                    "Não são automaticamente reservas de capital. Reconhecer conforme a norma aplicável; a destinação à reserva de incentivos fiscais depende dos requisitos legais."
+                  ],
+                  [
+                    "Prêmio na emissão de debêntures",
+                    "Não integra atualmente as reservas de capital; observar seu reconhecimento contábil e eventual reserva específica no regime aplicável."
+                  ],
+                  [
+                    "Ações em tesouraria",
+                    "Ações da própria companhia readquiridas nas hipóteses permitidas. Conta redutora do PL, destacada como dedução da conta que originou os recursos. Não é ativo."
+                  ]
+                ],
+                "sourceId": "libfile_dcb2d18355ec8191a79402c8ea8445ce"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A vedação geral à negociação com as próprias ações comporta as exceções do art. 30, § 1º. O ágio referido é o da emissão de ações; não confundir com goodwill.",
+                "sourceId": "libfile_dcb2d18355ec8191a79402c8ea8445ce"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Reservas — visão comparativa",
+                "sourceId": "libfile_7a968865de888191bd9bfc2c9c453e92"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Reserva de capital: usos permitidos (art. 200)",
+                    "Reservas de lucros: espécies do esquema"
+                  ],
+                  [
+                    "Absorver prejuízos que excedam lucros acumulados e reservas de lucros.",
+                    "Legal; estatutária; contingências."
+                  ],
+                  [
+                    "Resgate, reembolso ou compra de ações.",
+                    "Especial de dividendos obrigatórios não distribuídos."
+                  ],
+                  [
+                    "Resgate de partes beneficiárias.",
+                    "Incentivos fiscais; retenção de lucros."
+                  ],
+                  [
+                    "Incorporação ao capital social.",
+                    "Lucros a realizar."
+                  ],
+                  [
+                    "Dividendos preferenciais, se a vantagem estiver assegurada na forma legal.",
+                    "Cada espécie exige suas condições próprias."
+                  ]
+                ],
+                "sourceId": "libfile_7a968865de888191bd9bfc2c9c453e92"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Reserva legal",
+                    "Regra"
+                  ],
+                  [
+                    "Constituição",
+                    "5% do lucro líquido do exercício, antes das demais destinações."
+                  ],
+                  [
+                    "Limite",
+                    "Saldo limitado a 20% do capital social."
+                  ],
+                  [
+                    "Dispensa facultativa",
+                    "Se reserva legal + reservas de capital excederem 30% do capital social."
+                  ]
+                ],
+                "sourceId": "libfile_7a968865de888191bd9bfc2c9c453e92"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Absorção de prejuízos: primeiro lucros acumulados, depois reservas de lucros e, por último, reserva legal; uso de reservas de capital nas condições do art. 200. Pelo art. 199, o limite das reservas de lucros exclui contingências, incentivos fiscais e lucros a realizar.",
+                "sourceId": "libfile_7a968865de888191bd9bfc2c9c453e92"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Resgate × reembolso",
+                "sourceId": "libfile_2b86abdcdef081919b147bec6d18271a"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Resgate — art. 44",
+                    "Reembolso — art. 45"
+                  ],
+                  [
+                    "Retirada definitiva das ações de circulação mediante pagamento.",
+                    "Pagamento ao acionista dissidente que exerce o direito de retirada nos casos legais."
+                  ],
+                  [
+                    "Não depende de discordância do acionista.",
+                    "Relaciona-se à discordância e ao direito de retirada."
+                  ],
+                  [
+                    "Memória: a companhia resgata a ação.",
+                    "Memória do PDF: Retirada por Revolta."
+                  ]
+                ],
+                "sourceId": "libfile_2b86abdcdef081919b147bec6d18271a"
+              }
+            ],
+            "exercises": [
+              {
+                "id": "pdf-capitalizacao-200000",
+                "sourceId": "libfile_0e274bd7a3c88191a8e92d0000f2f97d",
+                "context": "Aplicação didática a partir do exemplo do PDF; banca e ano não informados.",
+                "statement": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Capital social de R$ 1.000.000, lucros acumulados de R$ 200.000 e 1.000 ações de valor nominal de R$ 1.000. Capitalizam-se os R$ 200.000. Determine o novo capital e as alternativas para as ações."
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Capital social: R$ 1.200.000. Alternativas: 1.000 ações de R$ 1.200 ou 1.200 ações de R$ 1.000."
+                  }
+                ],
+                "solution": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Transferir R$ 200.000 de lucros acumulados para capital social: D — Lucros acumulados; C — Capital social. Emitir 200 novas ações, proporcionalmente aos acionistas, se escolhida a bonificação. O total do PL permanece o mesmo."
+                  }
+                ]
+              }
+            ],
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "capitalização.pdf",
+                "libraryFileId": "libfile_0e274bd7a3c88191a8e92d0000f2f97d",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Página Sem Título.pdf",
+                "libraryFileId": "libfile_7a968865de888191bd9bfc2c9c453e92",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Reserva de capital e açoes em tesouraria.pdf",
+                "libraryFileId": "libfile_dcb2d18355ec8191a79402c8ea8445ce",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Resgate e reembolso.pdf",
+                "libraryFileId": "libfile_2b86abdcdef081919b147bec6d18271a",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "Corrigido o texto sobre uso do caixa: capitalização de reservas/lucros é reclassificação do PL. Aumento do valor nominal não significa aumento automático do preço de mercado da ação.",
+                "url": "https://www.planalto.gov.br/ccivil_03/leis/l6404compilada.htm"
+              },
+              {
+                "text": "O PDF sem título foi identificado como resumo de reservas. “Facultativas” não dispensa condições legais. O art. 199 trata do conjunto de reservas sujeito ao limite, e não de permissão geral para cada reserva ultrapassar o capital.",
+                "url": "https://www.planalto.gov.br/ccivil_03/leis/l6404compilada.htm"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "capitalização.pdf",
+            "libraryFileId": "libfile_0e274bd7a3c88191a8e92d0000f2f97d",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Página Sem Título.pdf",
+            "libraryFileId": "libfile_7a968865de888191bd9bfc2c9c453e92",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Reserva de capital e açoes em tesouraria.pdf",
+            "libraryFileId": "libfile_dcb2d18355ec8191a79402c8ea8445ce",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Resgate e reembolso.pdf",
+            "libraryFileId": "libfile_2b86abdcdef081919b147bec6d18271a",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-d-01",
@@ -12133,18 +12832,189 @@
         "kind": "study-note",
         "topic": "Propriedades para Investimento",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-d-01",
             "title": "Propriedades para Investimento",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Modelo do custo — divulgação (CPC 28)",
+                "sourceId": "libfile_9c0ac8d96364819184b9e97d08e1cbcf"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O modelo do custo não elimina as informações exigidas nas notas explicativas.",
+                "sourceId": "libfile_9c0ac8d96364819184b9e97d08e1cbcf"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Informação do PDF",
+                    "Divulgação"
+                  ],
+                  [
+                    "Depreciação",
+                    "Métodos utilizados; vida útil ou taxas."
+                  ],
+                  [
+                    "Saldos",
+                    "Valor contábil bruto e depreciação acumulada, incluindo perdas acumuladas por impairment, no início e no fim do período."
+                  ],
+                  [
+                    "Valor justo",
+                    "Divulgar mesmo quando mensurada pelo custo, ressalvadas as situações excepcionais previstas na norma."
+                  ]
+                ],
+                "sourceId": "libfile_9c0ac8d96364819184b9e97d08e1cbcf"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Conceito e mensuração inicial",
+                "sourceId": "libfile_016168be7a7c8191a75fb4b3c92f7fa3"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Terreno, edifício ou parte deles mantidos para renda de aluguel, valorização do capital ou ambos. Pode ser propriedade própria ou ativo de direito de uso, nas condições do CPC 28. Não se destina a uso na produção/administração nem à venda no curso normal do negócio.",
+                "sourceId": "libfile_016168be7a7c8191a75fb4b3c92f7fa3"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Propriedade própria: mensuração inicial pelo custo, incluindo custos de transação. Direito de uso observa a mensuração inicial do CPC 06.",
+                "sourceId": "libfile_016168be7a7c8191a75fb4b3c92f7fa3"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Item 32A do resumo: a escolha entre custo e valor justo para imóveis que suportam passivos com retorno diretamente vinculado a ativos especificados pode ser independente da escolha para as demais propriedades; aplicar consistentemente em cada conjunto previsto.",
+                "sourceId": "libfile_016168be7a7c8191a75fb4b3c92f7fa3"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Modelo do valor justo × modelo do custo",
+                "sourceId": "libfile_2d45f4df12908191b078699903bea5c5"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Aspecto",
+                    "Valor justo",
+                    "Custo"
+                  ],
+                  [
+                    "Após reconhecimento",
+                    "Mensurar pelo valor justo em cada data aplicável.",
+                    "Custo menos depreciação e perdas acumuladas, quando cabíveis."
+                  ],
+                  [
+                    "Variações de valor justo",
+                    "Reconhecer no resultado do período.",
+                    "Não reconhecer simples valorização de mercado."
+                  ],
+                  [
+                    "Depreciação",
+                    "Não depreciar sob esse modelo.",
+                    "Depreciar componentes depreciáveis; terreno não é depreciado por regra geral."
+                  ],
+                  [
+                    "Notas explicativas",
+                    "Informações de mensuração e avaliação.",
+                    "Divulgar valor justo, observadas as exceções da norma."
+                  ]
+                ],
+                "sourceId": "libfile_2d45f4df12908191b078699903bea5c5"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [
+              {
+                "id": "libfile_9c0ac8d96364819184b9e97d08e1cbcf",
+                "board": "Anotações do PDF — banca não informada",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "“Intenções futuras da administração com os ativos do grupo” não integra a lista específica do item 79 do CPC 28. Isso não é dispensa geral de toda informação futura exigida por outras normas."
+                  }
+                ]
+              }
+            ],
+            "sourceDocuments": [
+              {
+                "name": "Propriedade para investimento.pdf",
+                "libraryFileId": "libfile_9c0ac8d96364819184b9e97d08e1cbcf",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "CPC 28 propriedade para investimento .pdf",
+                "libraryFileId": "libfile_016168be7a7c8191a75fb4b3c92f7fa3",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "propriedades para investimento.pdf",
+                "libraryFileId": "libfile_2d45f4df12908191b078699903bea5c5",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "Conferência pontual da lista de divulgação pelo custo: CPC 28, item 79; nos casos excepcionais, considerar as informações substitutivas previstas na norma.",
+                "url": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol107.pdf"
+              },
+              {
+                "text": "Corrigida a simplificação do quadro: custo não permanece necessariamente igual ao preço de aquisição, pois considera depreciação e impairment. A regra “não sofre depreciação” refere-se à propriedade sob o modelo de valor justo.",
+                "url": "https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol107.pdf"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Propriedade para investimento.pdf",
+            "libraryFileId": "libfile_9c0ac8d96364819184b9e97d08e1cbcf",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "CPC 28 propriedade para investimento .pdf",
+            "libraryFileId": "libfile_016168be7a7c8191a75fb4b3c92f7fa3",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "propriedades para investimento.pdf",
+            "libraryFileId": "libfile_2d45f4df12908191b078699903bea5c5",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-d-02",
@@ -12154,18 +13024,100 @@
         "kind": "study-note",
         "topic": "Ativo Não Circulante Mantido para Venda",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-d-02",
             "title": "Ativo Não Circulante Mantido para Venda",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "CPC 31 — mantido para venda",
+                "sourceId": "libfile_0b3ec2f8b34c81919ab37cfc23726b9a"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Ponto",
+                    "Tratamento"
+                  ],
+                  [
+                    "Classificação",
+                    "Recuperação do valor principalmente pela venda; ativo disponível para venda imediata e venda altamente provável. Apresentação separada no ativo circulante."
+                  ],
+                  [
+                    "Mensuração",
+                    "Menor entre valor contábil e valor justo menos despesas de venda, para os ativos abrangidos por essa regra."
+                  ],
+                  [
+                    "Depreciação e amortização",
+                    "Cessam quando o ativo é classificado como mantido para venda."
+                  ],
+                  [
+                    "Prazo",
+                    "Conclusão esperada em até um ano; extensão admitida nas condições do item 9."
+                  ],
+                  [
+                    "Exceção ao prazo",
+                    "Atraso por circunstâncias fora do controle da entidade, com evidência suficiente de que permanece comprometida com a venda."
+                  ]
+                ],
+                "sourceId": "libfile_0b3ec2f8b34c81919ab37cfc23726b9a"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Apresentação: ativo ou grupo de ativos separado no balanço. A apresentação separada do resultado de operação descontinuada depende de ela atender à definição do CPC 31.",
+                "sourceId": "libfile_0b3ec2f8b34c81919ab37cfc23726b9a"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [
+              {
+                "id": "libfile_0b3ec2f8b34c81919ab37cfc23726b9a",
+                "board": "Anotações do PDF — banca não informada",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Não confundir simples disponibilidade com classificação efetiva: os critérios do CPC 31 devem estar atendidos. O prazo superior a um ano não exclui automaticamente a classificação nas exceções admitidas."
+                  }
+                ]
+              }
+            ],
+            "sourceDocuments": [
+              {
+                "name": "Anc mantido para venda.pdf",
+                "libraryFileId": "libfile_0b3ec2f8b34c81919ab37cfc23726b9a",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "Ajustado o quadro: interrupção da depreciação vinculada à classificação; destaque na DRE é próprio de operação descontinuada, não de qualquer ativo à venda.",
+                "url": "https://www.cpc.org.br/Arquivos/Documentos/336_CPC_31_rev%2012.pdf"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Anc mantido para venda.pdf",
+            "libraryFileId": "libfile_0b3ec2f8b34c81919ab37cfc23726b9a",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-d-03",
@@ -12175,18 +13127,156 @@
         "kind": "study-note",
         "topic": "Ajustes de Conversão de Câmbio (CPC 02)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-d-03",
             "title": "Ajustes de Conversão de Câmbio (CPC 02)",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Transação em moeda estrangeira: itens no balanço",
+                "sourceId": "libfile_9441123860388191b3ec5d7c8bb58e7a"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Item",
+                    "Taxa",
+                    "Efeito cambial"
+                  ],
+                  [
+                    "Monetário: dinheiro ou valor fixo/determinável a receber/pagar",
+                    "Fechamento do balanço",
+                    "Em regra, resultado; existem exceções no CPC 02."
+                  ],
+                  [
+                    "Não monetário ao custo histórico",
+                    "Data da transação",
+                    "Não atualizar só pela taxa de fechamento."
+                  ],
+                  [
+                    "Não monetário ao valor justo",
+                    "Data da mensuração do valor justo",
+                    "Acompanha o destino do ganho/perda: resultado ou outros resultados abrangentes."
+                  ]
+                ],
+                "sourceId": "libfile_9441123860388191b3ec5d7c8bb58e7a"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Conversão para moeda de apresentação",
+                "sourceId": "libfile_9441123860388191b3ec5d7c8bb58e7a"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Elemento",
+                    "Critério resumido — ambiente não hiperinflacionário"
+                  ],
+                  [
+                    "Ativos e passivos",
+                    "Taxa de fechamento de cada balanço."
+                  ],
+                  [
+                    "Receitas e despesas",
+                    "Taxas nas datas das transações; média apenas se aproximação adequada."
+                  ],
+                  [
+                    "Capital social e movimentos de PL",
+                    "Taxas históricas correspondentes às transações; não adotar taxa média indiscriminadamente."
+                  ],
+                  [
+                    "Diferença de conversão",
+                    "Outros resultados abrangentes, acumulada em componente separado do PL."
+                  ]
+                ],
+                "sourceId": "libfile_9441123860388191b3ec5d7c8bb58e7a"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O ajuste de conversão completa a conciliação do balanço convertido: ativo = passivo + patrimônio líquido após considerar o ajuste. Não confundir conversão de demonstrações com atualização de transação individual.",
+                "sourceId": "libfile_9441123860388191b3ec5d7c8bb58e7a"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Baixa de entidade no exterior",
+                "sourceId": "libfile_4fef6add398c81918c9a4e873f219e1a"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Na baixa, o saldo acumulado de conversão relativo à operação no exterior é reclassificado do PL para o resultado quando se reconhece o ganho ou a perda correspondente, conforme CPC 02, item 48. Observar as regras específicas para baixa parcial e participação de não controladores.",
+                "sourceId": "libfile_4fef6add398c81918c9a4e873f219e1a"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [
+              {
+                "id": "libfile_4fef6add398c81918c9a4e873f219e1a",
+                "board": "Anotações do PDF — banca não informada",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "O comentário enviado destaca um ponto adicional de questão: além do ganho/perda da venda e da remensuração do investimento, verificar o ajuste acumulado de conversão. O PDF não informa valor desse ajuste."
+                  }
+                ]
+              }
+            ],
+            "sourceDocuments": [
+              {
+                "name": "baixa de entidade no exterior,.pdf",
+                "libraryFileId": "libfile_4fef6add398c81918c9a4e873f219e1a",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Câmbio e Conversão .pdf",
+                "libraryFileId": "libfile_9441123860388191b3ec5d7c8bb58e7a",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "O PDF contém uma anotação “Capital social: taxa média”, incompatível com o próprio quadro de taxa histórica. Corrigida para a taxa histórica da transação; média serve apenas como aproximação adequada para receitas/despesas.",
+                "url": "https://www.cpc.org.br/Arquivos/Documentos/62_CPC_02_R2_rev%2027_ComAVISO.pdf"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "baixa de entidade no exterior,.pdf",
+            "libraryFileId": "libfile_4fef6add398c81918c9a4e873f219e1a",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Câmbio e Conversão .pdf",
+            "libraryFileId": "libfile_9441123860388191b3ec5d7c8bb58e7a",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-d-04",
@@ -12196,18 +13286,124 @@
         "kind": "study-note",
         "topic": "Combinação de Negócios (CPC 15)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-d-04",
             "title": "Combinação de Negócios (CPC 15)",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Método de aquisição — CPC 15",
+                "sourceId": "libfile_e52aa3b45e388191b57cb37dc53a6270"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Nas combinações de negócios abrangidas pelo CPC 15, aplicar o método de aquisição.",
+                "sourceId": "libfile_e52aa3b45e388191b57cb37dc53a6270"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Etapa",
+                    "O que identificar / mensurar"
+                  ],
+                  [
+                    "1",
+                    "Adquirente."
+                  ],
+                  [
+                    "2",
+                    "Data da aquisição."
+                  ],
+                  [
+                    "3",
+                    "Ativos identificáveis adquiridos, passivos assumidos e participação dos não controladores."
+                  ],
+                  [
+                    "4",
+                    "Goodwill ou ganho por compra vantajosa."
+                  ]
+                ],
+                "sourceId": "libfile_e52aa3b45e388191b57cb37dc53a6270"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Valores na data de aquisição",
+                "sourceId": "libfile_5b08b6be81508191aaf8d37cbfd11cfb"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Regra geral da combinação abrangida pelo CPC 15: reconhecer ativos identificáveis adquiridos e passivos assumidos pelos valores justos na data da aquisição, independentemente dos valores contábeis anteriores. Há exceções específicas de reconhecimento e mensuração previstas no pronunciamento.",
+                "sourceId": "libfile_5b08b6be81508191aaf8d37cbfd11cfb"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [
+              {
+                "id": "libfile_e52aa3b45e388191b57cb37dc53a6270",
+                "board": "Anotações do PDF — banca não informada",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "O PDF registra que uma questão estava incorreta e remete aos itens 4 e 5 do CPC 15. Como o enunciado não foi enviado, não foi criado gabarito nem atribuída banca. Use as quatro etapas para conferir a alternativa."
+                  }
+                ]
+              }
+            ],
+            "sourceDocuments": [
+              {
+                "name": "CPC 15.pdf",
+                "libraryFileId": "libfile_e52aa3b45e388191b57cb37dc53a6270",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "CPC 15 (R1) - Combinação de Negócios.pdf",
+                "libraryFileId": "libfile_5b08b6be81508191aaf8d37cbfd11cfb",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "A referência a valor justo é a regra geral; o CPC 15 prevê exceções de reconhecimento e mensuração nos itens 21–31.",
+                "url": "https://conteudo.cvm.gov.br/export/sites/cvm/menu/regulados/normascontabeis/cpc/CPC_15_R1_rev_12.pdf"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "CPC 15.pdf",
+            "libraryFileId": "libfile_e52aa3b45e388191b57cb37dc53a6270",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "CPC 15 (R1) - Combinação de Negócios.pdf",
+            "libraryFileId": "libfile_5b08b6be81508191aaf8d37cbfd11cfb",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-d-05",
@@ -12217,14 +13413,27 @@
         "kind": "study-note",
         "topic": "Investimentos MEP (CPC 18)",
         "category": "Contabilidade",
-        "summary": "Conteúdo parcial organizado dos PDFs enviados em 25/10/2026. 1 fonte(s); 1 aplicação(ões) com resposta oculta.",
-        "source": "PDFs enviados pelo usuário, transcritos e organizados por assunto. Ajustes pontuais registrados em Fontes e conferência; não é revisão exaustiva de todas as normas.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-d-05",
             "title": "Investimentos MEP (CPC 18)",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Perda de influência significativa",
+                "sourceId": "libfile_45b85c1ff3d08191b70d69e7b5552e8d"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Quando a participação remanescente passa a ser ativo financeiro, cessa o MEP e ela é remensurada ao valor justo. O resultado básico é: valor recebido + valor justo da participação remanescente − valor contábil total anterior. Considerar separadamente os ajustes acumulados em outros resultados abrangentes que devam ser reclassificados.",
+                "sourceId": "libfile_45b85c1ff3d08191b70d69e7b5552e8d"
+              }
+            ],
             "exercises": [
               {
                 "id": "pdf-lanc-mep-120000",
@@ -12260,6 +13469,32 @@
                     "text": "O quadro relaciona o caso ao método de equivalência patrimonial do CPC 18. O reconhecimento indicado não movimenta caixa."
                   }
                 ]
+              },
+              {
+                "id": "pdf-perda-influencia-1700000",
+                "sourceId": "libfile_45b85c1ff3d08191b70d69e7b5552e8d",
+                "context": "Aplicação didática a partir do exemplo do PDF; banca e ano não informados.",
+                "statement": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Na perda de influência significativa, a participação remanescente passa a ser ativo financeiro. Valor justo remanescente: R$ 1.500.000; valor recebido pela venda: R$ 4.800.000; valor contábil total: R$ 4.600.000. Calcule o ganho ou a perda antes de eventuais reclassificações de ORA."
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Ganho no resultado: R$ 1.700.000."
+                  }
+                ],
+                "solution": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "1.500.000 + 4.800.000 − 4.600.000 = 1.700.000. Se houver ajuste de conversão de operação no exterior, analisar a reclassificação pertinente; nenhum valor adicional foi informado neste PDF."
+                  }
+                ]
               }
             ],
             "questionTheory": [],
@@ -12271,6 +13506,20 @@
                   1
                 ],
                 "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Cálculo do resultado pela perda de influência.pdf",
+                "libraryFileId": "libfile_45b85c1ff3d08191b70d69e7b5552e8d",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "Conferência da descontinuidade do MEP quando a participação remanescente passa a ativo financeiro: CPC 18, item 22; ajustes de ORA seguem a natureza do item.",
+                "url": "https://conteudo.cvm.gov.br/export/sites/cvm/menu/regulados/normascontabeis/cpc/CPC_18_R2_rev_12.pdf"
               }
             ]
           }
@@ -12280,6 +13529,14 @@
           {
             "name": "Lançamentos contábeis.pdf",
             "libraryFileId": "libfile_e0554fe029e481919b3e680693419de8",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Cálculo do resultado pela perda de influência.pdf",
+            "libraryFileId": "libfile_45b85c1ff3d08191b70d69e7b5552e8d",
             "pages": [
               1
             ],
@@ -12295,18 +13552,122 @@
         "kind": "study-note",
         "topic": "Goodwill",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-d-06",
             "title": "Goodwill",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Goodwill — apresentação e recuperabilidade",
+                "sourceId": "libfile_40e3607639b88191b31b24fe86e6c7fa"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Aspecto",
+                    "Resumo do material"
+                  ],
+                  [
+                    "Conceito",
+                    "Ágio por expectativa de rentabilidade futura em combinação de negócios."
+                  ],
+                  [
+                    "Balanço individual da investidora",
+                    "Integra o valor do investimento na aquisição da participação."
+                  ],
+                  [
+                    "Balanço consolidado",
+                    "Apresentado como goodwill no ativo intangível, separado dos ativos identificáveis."
+                  ],
+                  [
+                    "Amortização",
+                    "Não amortizar."
+                  ],
+                  [
+                    "Recuperabilidade",
+                    "Teste anual e também quando houver indícios de perda."
+                  ],
+                  [
+                    "Reversão",
+                    "Perda de impairment de goodwill não pode ser revertida."
+                  ]
+                ],
+                "sourceId": "libfile_40e3607639b88191b31b24fe86e6c7fa"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Comparação com outros intangíveis",
+                "sourceId": "libfile_40e3607639b88191b31b24fe86e6c7fa"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Tipo",
+                    "Amortização",
+                    "Teste de recuperabilidade",
+                    "Reversão de perda"
+                  ],
+                  [
+                    "Vida útil definida",
+                    "Sim, durante a vida útil.",
+                    "Quando houver indícios, observadas exigências específicas.",
+                    "Pode caber, com limites."
+                  ],
+                  [
+                    "Vida útil indefinida",
+                    "Não.",
+                    "Anual e se houver indícios.",
+                    "Pode caber, com limites."
+                  ],
+                  [
+                    "Goodwill",
+                    "Não.",
+                    "Anual e se houver indícios.",
+                    "Não."
+                  ]
+                ],
+                "sourceId": "libfile_40e3607639b88191b31b24fe86e6c7fa"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "Good Will.pdf",
+                "libraryFileId": "libfile_40e3607639b88191b31b24fe86e6c7fa",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "O quadro do PDF apenas marca “sim” para teste de recuperabilidade. O resumo diferencia teste anual de avaliação por indícios, sem presumir teste anual para todo intangível de vida definida.",
+                "url": "https://conteudo.cvm.gov.br/export/sites/cvm/menu/regulados/normascontabeis/cpc/CPC_01_R1_rev_12.pdf"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Good Will.pdf",
+            "libraryFileId": "libfile_40e3607639b88191b31b24fe86e6c7fa",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-d-07",
@@ -12316,18 +13677,211 @@
         "kind": "study-note",
         "topic": "Dividendos e Juros sobre Capital Próprio",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-d-07",
             "title": "Dividendos e Juros sobre Capital Próprio",
             "group": "",
-            "theory": [],
-            "exercises": [],
-            "questionTheory": []
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Lucro ajustado e dividendo obrigatório",
+                "sourceId": "libfile_7c85448fe8688191bdfc1405784c20f7"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Passo do resumo",
+                    "Operação"
+                  ],
+                  [
+                    "Lucro líquido do exercício",
+                    "Ponto de partida; compensar prejuízos acumulados quando existentes e ainda não absorvidos."
+                  ],
+                  [
+                    "Reserva legal",
+                    "Subtrair."
+                  ],
+                  [
+                    "Reserva para contingências",
+                    "Subtrair a constituição; somar a reversão."
+                  ],
+                  [
+                    "Incentivos fiscais",
+                    "Exclusão facultativa da base nas condições legais."
+                  ],
+                  [
+                    "Reserva específica de prêmio na emissão de debêntures",
+                    "O PDF inclui exclusão facultativa: verificar o regime legal e as condições aplicáveis ao caso."
+                  ],
+                  [
+                    "Cálculo",
+                    "Dividendo obrigatório = percentual aplicável × base ajustada."
+                  ]
+                ],
+                "sourceId": "libfile_7c85448fe8688191bdfc1405784c20f7"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Não descontar prejuízos acumulados duas vezes se o enunciado já fornecer lucro ajustado. O percentual depende do estatuto e da regra legal aplicável.",
+                "sourceId": "libfile_7c85448fe8688191bdfc1405784c20f7"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Estatuto omisso × alteração de estatuto omisso",
+                "sourceId": "libfile_7a968865de888191bd9bfc2c9c453e92"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Situação",
+                    "Regra para memorizar"
+                  ],
+                  [
+                    "Estatuto omisso",
+                    "50% do lucro líquido ajustado, conforme art. 202."
+                  ],
+                  [
+                    "Assembleia altera estatuto antes omisso",
+                    "Dividendo fixado não pode ser inferior a 25% do lucro líquido ajustado, nas condições do art. 202, § 2º."
+                  ]
+                ],
+                "sourceId": "libfile_7a968865de888191bd9bfc2c9c453e92"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Lucros a realizar — art. 197",
+                "sourceId": "libfile_8d5a328265dc8191b153f9dfdafeaea2"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Finalidade: permitir a constituição de reserva quando o dividendo obrigatório superar a parcela realizada do lucro. Não se confunde com eliminação de lucro intragrupo na consolidação ou no MEP.",
+                "sourceId": "libfile_8d5a328265dc8191b153f9dfdafeaea2"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Cálculo",
+                    "Regra"
+                  ],
+                  [
+                    "Parcela realizada",
+                    "Lucro líquido − resultado líquido positivo de equivalência patrimonial − lucros, rendimentos ou ganhos cuja realização financeira ocorra após o término do exercício social seguinte."
+                  ],
+                  [
+                    "Reserva de lucros a realizar",
+                    "Excesso do dividendo obrigatório sobre a parcela realizada, se positivo, por deliberação nas condições legais."
+                  ]
+                ],
+                "sourceId": "libfile_8d5a328265dc8191b153f9dfdafeaea2"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O prazo legal abrange também ganhos de mensuração a valor de mercado de ativos e passivos. Não basta dizer que um ganho ainda não virou caixa.",
+                "sourceId": "libfile_8d5a328265dc8191b153f9dfdafeaea2"
+              }
+            ],
+            "exercises": [
+              {
+                "id": "pdf-lucro-realizado-200000",
+                "sourceId": "libfile_8d5a328265dc8191b153f9dfdafeaea2",
+                "context": "Aplicação didática a partir do exemplo do PDF; banca e ano não informados.",
+                "statement": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "O PDF apresenta lucro líquido de R$ 200.000, equivalência patrimonial positiva de R$ 50.000 e ganho a valor justo de R$ 10.000 com realização indicada em 2026, sem informar o exercício-base. Calcule a parcela realizada sob a hipótese de que os R$ 10.000 atendam ao prazo do art. 197."
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Sob essa hipótese, parcela realizada = R$ 140.000."
+                  }
+                ],
+                "solution": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Valores não realizados: 50.000 + 10.000 = 60.000. Parcela realizada: 200.000 − 60.000 = 140.000. Sem conhecer o exercício-base, a indicação “realiza em 2026” não basta para classificar os R$ 10.000. Se a realização ocorrer até o fim do exercício seguinte, essa dedução não cabe. Não é possível calcular a reserva sem o dividendo obrigatório."
+                  }
+                ]
+              }
+            ],
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "LLE.pdf",
+                "libraryFileId": "libfile_7c85448fe8688191bdfc1405784c20f7",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Lucro não realizado.pdf",
+                "libraryFileId": "libfile_8d5a328265dc8191b153f9dfdafeaea2",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Página Sem Título.pdf",
+                "libraryFileId": "libfile_7a968865de888191bd9bfc2c9c453e92",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "O resumo de lucros a realizar omitia o prazo do art. 197, § 1º, II. Aplicação mantida com hipótese explícita, pois o PDF não informa o exercício-base. Os percentuais de 50% e 25% foram distinguidos conforme art. 202.",
+                "url": "https://www.planalto.gov.br/ccivil_03/leis/l6404compilada.htm"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "LLE.pdf",
+            "libraryFileId": "libfile_7c85448fe8688191bdfc1405784c20f7",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Lucro não realizado.pdf",
+            "libraryFileId": "libfile_8d5a328265dc8191b153f9dfdafeaea2",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Página Sem Título.pdf",
+            "libraryFileId": "libfile_7a968865de888191bd9bfc2c9c453e92",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-d-08",
@@ -12358,18 +13912,210 @@
         "kind": "study-note",
         "topic": "Apresentação das Demonstrações Contábeis (CPC 26)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-e-01",
             "title": "Apresentação das Demonstrações Contábeis (CPC 26)",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Conjunto completo de demonstrações",
+                "sourceId": "libfile_17e0fa0ad6648191b1c4bef541874b96"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Organização segundo o CPC 26 indicado no seu índice: BP, DRE, DRA, DMPL, DFC, notas explicativas e informações comparativas. DVA integra o conjunto quando exigida por lei/regulador ou apresentada voluntariamente.",
+                "sourceId": "libfile_17e0fa0ad6648191b1c4bef541874b96"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Terceiro balanço: abertura do período anterior quando aplicação/reapresentação retrospectiva ou reclassificação produzir efeito material nesse balanço. Títulos alternativos são admitidos respeitada a legislação brasileira.",
+                "sourceId": "libfile_17e0fa0ad6648191b1c4bef541874b96"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "CPC 26 × Lei 6.404 — obrigatoriedade",
+                "sourceId": "libfile_e265570133cc8191b5b909e46b268e4c"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Demonstração",
+                    "CPC 26 — conjunto completo",
+                    "Lei 6.404 — companhias"
+                  ],
+                  [
+                    "BP e DRE",
+                    "Integram",
+                    "Abertas e fechadas."
+                  ],
+                  [
+                    "DLPA",
+                    "Informações abrangidas pela DMPL",
+                    "Exigida; pode ser incluída na DMPL."
+                  ],
+                  [
+                    "DMPL",
+                    "Integra",
+                    "Pode incorporar a DLPA; observar exigências regulatórias."
+                  ],
+                  [
+                    "DRA",
+                    "Integra; separada da DRE",
+                    "Não listada nominalmente no art. 176."
+                  ],
+                  [
+                    "DFC",
+                    "Integra",
+                    "Abertas; fechadas dispensadas se PL inferior a R$ 2 milhões."
+                  ],
+                  [
+                    "DVA",
+                    "Quando exigida ou voluntária",
+                    "Exigida das abertas."
+                  ],
+                  [
+                    "Notas explicativas",
+                    "Integram",
+                    "Complementam as demonstrações."
+                  ]
+                ],
+                "sourceId": "libfile_e265570133cc8191b5b909e46b268e4c"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Dicas do material: “DVAberta” para DVA das abertas; “DLPA aparece o 4” para lembrar a Lei 6.404. A tabela compara esse marco legal com o CPC 26, sem dispensar normas de reguladores.",
+                "sourceId": "libfile_e265570133cc8191b5b909e46b268e4c"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Notas explicativas — NE",
+                "sourceId": "libfile_592a20b7d608819196ced175bdd15cb4"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "As notas integram as demonstrações e fornecem as informações materiais de políticas contábeis e outras explicações necessárias.",
+                "sourceId": "libfile_592a20b7d608819196ced175bdd15cb4"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Tema do resumo",
+                    "Exemplos de informação"
+                  ],
+                  [
+                    "Políticas e mensuração",
+                    "Práticas contábeis; critérios para estoques, provisões e ajustes; novas avaliações quando admitidas."
+                  ],
+                  [
+                    "Ativos e participações",
+                    "Ônus reais; garantias a terceiros; investimentos relevantes."
+                  ],
+                  [
+                    "Capital e direitos",
+                    "Número, espécies e classes de ações; opções de compra outorgadas e exercidas."
+                  ],
+                  [
+                    "Obrigações de longo prazo",
+                    "Juros, vencimentos e garantias."
+                  ],
+                  [
+                    "Eventos e ajustes",
+                    "Eventos significativos; ajustes de exercícios anteriores; eventos subsequentes relevantes."
+                  ],
+                  [
+                    "Complementos",
+                    "Informações exigidas não apresentadas nas demonstrações e outras necessárias à compreensão."
+                  ]
+                ],
+                "sourceId": "libfile_592a20b7d608819196ced175bdd15cb4"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O PDF termina com “Segundo o CPC 00, a entidade deve divulgar nas NE:”, sem completar a lista. Nenhuma continuação foi atribuída ao arquivo.",
+                "sourceId": "libfile_592a20b7d608819196ced175bdd15cb4"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "Completo das DC's.pdf",
+                "libraryFileId": "libfile_17e0fa0ad6648191b1c4bef541874b96",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "NE.pdf",
+                "libraryFileId": "libfile_592a20b7d608819196ced175bdd15cb4",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Página Sem Título(1).pdf",
+                "libraryFileId": "libfile_e265570133cc8191b5b909e46b268e4c",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "Conciliados os dois quadros: o art. 176, § 6º, dispensa a DFC apenas se o PL da companhia fechada for inferior a R$ 2 milhões. Logo, igualdade não está na dispensa; corrigido “>” do quadro sem título.",
+                "url": "https://www.planalto.gov.br/ccivil_03/leis/l6404compilada.htm"
+              },
+              {
+                "text": "Acrescentada a condição de efeito material para o terceiro balanço (CPC 26, 40A). A coluna CPC 26 não significa que toda demonstração seja imposta a toda entidade sem considerar seu marco normativo.",
+                "url": "https://www.cpc.org.br/Arquivos/Documentos/312_CPC_26_R1_rev%2023.pdf"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Completo das DC's.pdf",
+            "libraryFileId": "libfile_17e0fa0ad6648191b1c4bef541874b96",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "NE.pdf",
+            "libraryFileId": "libfile_592a20b7d608819196ced175bdd15cb4",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Página Sem Título(1).pdf",
+            "libraryFileId": "libfile_e265570133cc8191b5b909e46b268e4c",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-e-02",
@@ -12400,18 +14146,313 @@
         "kind": "study-note",
         "topic": "Demonstração do Resultado do Exercício",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-e-03",
             "title": "Demonstração do Resultado do Exercício",
             "group": "",
-            "theory": [],
-            "exercises": [],
-            "questionTheory": []
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Análise de despesas: função × natureza",
+                "sourceId": "libfile_5db0b66062348191939edba458bbc70c"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Por função",
+                    "Por natureza"
+                  ],
+                  [
+                    "Agrupa pelo destino da despesa.",
+                    "Agrupa pelo tipo do gasto."
+                  ],
+                  [
+                    "CMV; vendas; administração.",
+                    "Salários; comissões; depreciação."
+                  ]
+                ],
+                "sourceId": "libfile_5db0b66062348191939edba458bbc70c"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O esquema societário brasileiro utiliza a classificação funcional. Observar a norma e a legislação exigidas no enunciado.",
+                "sourceId": "libfile_5db0b66062348191939edba458bbc70c"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "DRE — sequência de cálculo",
+                "sourceId": "libfile_c4105bb7ea708191897535eeff545511"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Etapa",
+                    "Composição"
+                  ],
+                  [
+                    "Receita líquida",
+                    "Receita bruta − deduções: tributos sobre vendas, devoluções, abatimentos e descontos incondicionais."
+                  ],
+                  [
+                    "Resultado bruto",
+                    "Receita líquida − CMV / CPV / CSP."
+                  ],
+                  [
+                    "Resultado antes das receitas e despesas financeiras",
+                    "Resultado bruto − despesas com vendas, gerais e administrativas ± outras receitas/despesas e equivalência patrimonial, conforme a apresentação aplicável."
+                  ],
+                  [
+                    "Resultado antes de IR e CSLL",
+                    "Considerar receitas e despesas financeiras."
+                  ],
+                  [
+                    "Resultado líquido",
+                    "Considerar tributos sobre lucro, participações cabíveis e operações descontinuadas, quando existentes."
+                  ]
+                ],
+                "sourceId": "libfile_c4105bb7ea708191897535eeff545511"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Comparativo dos esquemas fornecidos",
+                "sourceId": "libfile_c4105bb7ea708191897535eeff545511"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Lei 6.404 — resumo do PDF",
+                    "CPC 26 — resumo do PDF"
+                  ],
+                  [
+                    "Parte da receita bruta e evidencia as deduções.",
+                    "Parte das receitas líquidas na apresentação resumida."
+                  ],
+                  [
+                    "Evidencia custos, despesas operacionais e outras receitas/despesas.",
+                    "Destaca resultado antes de receitas/despesas financeiras."
+                  ],
+                  [
+                    "Evidencia resultado antes de IR/CSLL e participações.",
+                    "Separa resultado de operações continuadas e descontinuadas, quando aplicável."
+                  ],
+                  [
+                    "Chega ao lucro líquido e ao valor por ação.",
+                    "Chega ao resultado líquido do período."
+                  ]
+                ],
+                "sourceId": "libfile_c4105bb7ea708191897535eeff545511"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Detalhamento societário do PDF: despesas com vendas, administrativas e gerais; resultado financeiro líquido; outras receitas e despesas; IR e CSLL; participações de debenturistas, empregados, administradores, partes beneficiárias e fundos de assistência/previdência de empregados. Tratar participações conforme sua natureza e a norma aplicável.",
+                "sourceId": "libfile_c4105bb7ea708191897535eeff545511"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O esquema menciona ajuste a valor presente de vendas entre os ajustes de receita. Separar o componente de financiamento da receita conforme CPC 47/CPC 12. O valor por ação segue os requisitos específicos aplicáveis, inclusive CPC 41; não é sempre simples divisão pelo número de ações no encerramento.",
+                "sourceId": "libfile_c4105bb7ea708191897535eeff545511"
+              }
+            ],
+            "exercises": [
+              {
+                "id": "pdf-dre-vendemos-de-tudo-2024",
+                "sourceId": "libfile_c4105bb7ea708191897535eeff545511",
+                "context": "Questão 8 transcrita do PDF DRE, páginas 2–3; banca e ano da prova não informados. 2024 é o exercício contábil do enunciado.",
+                "statement": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Questão 8 do PDF. A empresa Vendemos de Tudo S.A. apresentava, ao final de 2024, os saldos abaixo, em reais. Qual o lucro bruto evidenciado na DRE?"
+                  },
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Conta",
+                        "Valor (R$)"
+                      ],
+                      [
+                        "Abatimentos sobre vendas",
+                        "300.000"
+                      ],
+                      [
+                        "Custo das mercadorias vendidas",
+                        "6.000.000"
+                      ],
+                      [
+                        "Despesa com perdas estimadas em créditos de liquidação duvidosa",
+                        "60.000"
+                      ],
+                      [
+                        "Despesa com fretes sobre vendas",
+                        "100.000"
+                      ],
+                      [
+                        "Devoluções de vendas",
+                        "900.000"
+                      ],
+                      [
+                        "Comissões sobre vendas",
+                        "480.000"
+                      ],
+                      [
+                        "Impostos sobre vendas",
+                        "800.000"
+                      ],
+                      [
+                        "Receita bruta de vendas",
+                        "16.000.000"
+                      ],
+                      [
+                        "Despesas com propaganda",
+                        "1.600.000"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Alternativas: a) R$ 7.900.000; b) R$ 5.820.000; c) R$ 8.000.000; d) R$ 8.300.000; e) R$ 9.200.000."
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Alternativa c — R$ 8.000.000."
+                  }
+                ],
+                "solution": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Cálculo",
+                        "R$"
+                      ],
+                      [
+                        "Receita bruta",
+                        "16.000.000"
+                      ],
+                      [
+                        "− Devoluções",
+                        "900.000"
+                      ],
+                      [
+                        "− Abatimentos",
+                        "300.000"
+                      ],
+                      [
+                        "− Impostos sobre vendas",
+                        "800.000"
+                      ],
+                      [
+                        "= Receita líquida",
+                        "14.000.000"
+                      ],
+                      [
+                        "− CMV",
+                        "6.000.000"
+                      ],
+                      [
+                        "= Lucro bruto",
+                        "8.000.000"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "PECLD, frete sobre vendas, comissões e propaganda são despesas posteriores ao lucro bruto neste caso. Não deduzi-las no cálculo solicitado."
+                  }
+                ]
+              }
+            ],
+            "questionTheory": [
+              {
+                "id": "libfile_5db0b66062348191939edba458bbc70c",
+                "board": "Anotações do PDF — banca não informada",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "A ressalva “observados os dispositivos legais” é relevante na comparação de função e natureza. O PDF menciona uma alternativa III, mas não traz seu enunciado: não foi inventado julgamento para ela."
+                  }
+                ]
+              },
+              {
+                "id": "libfile_c4105bb7ea708191897535eeff545511",
+                "board": "Anotações do PDF — banca não informada",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Para achar o lucro bruto, classifique primeiro deduções da receita e custo de vendas. Despesas com vendas e administrativas entram depois desse subtotal."
+                  }
+                ]
+              }
+            ],
+            "sourceDocuments": [
+              {
+                "name": "Análise da DRE.pdf",
+                "libraryFileId": "libfile_5db0b66062348191939edba458bbc70c",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "DRE.pdf",
+                "libraryFileId": "libfile_c4105bb7ea708191897535eeff545511",
+                "pages": [
+                  1,
+                  2,
+                  3
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "Os modelos são resumos didáticos do material enviado, não uma transcrição exaustiva dos requisitos de apresentação. Mantida a referência ao CPC 26 do índice do usuário.",
+                "url": "https://www.cpc.org.br/Arquivos/Documentos/312_CPC_26_R1_rev%2023.pdf"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Análise da DRE.pdf",
+            "libraryFileId": "libfile_5db0b66062348191939edba458bbc70c",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "DRE.pdf",
+            "libraryFileId": "libfile_c4105bb7ea708191897535eeff545511",
+            "pages": [
+              1,
+              2,
+              3
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-e-04",
@@ -12421,18 +14462,245 @@
         "kind": "study-note",
         "topic": "Demonstração do Valor Adicionado (CPC 09)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-e-04",
             "title": "Demonstração do Valor Adicionado (CPC 09)",
             "group": "",
-            "theory": [],
-            "exercises": [],
-            "questionTheory": []
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "DVA — formação × distribuição",
+                "sourceId": "libfile_d95f748cd810819191e27298ce95b4ce"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Formação da riqueza",
+                    "Distribuição da riqueza"
+                  ],
+                  [
+                    "Receitas, incluindo tributos conforme CPC 09; considerar PECLD.",
+                    "Pessoal: remuneração direta, benefícios, FGTS."
+                  ],
+                  [
+                    "− Insumos de terceiros, com tributos incluídos conforme a norma.",
+                    "Impostos, taxas e contribuições: federais, estaduais e municipais."
+                  ],
+                  [
+                    "= Valor adicionado bruto; − depreciação/amortização/exaustão.",
+                    "Capitais de terceiros: juros, aluguéis e outras remunerações."
+                  ],
+                  [
+                    "= Valor adicionado líquido produzido; + transferências recebidas.",
+                    "Capitais próprios: JCP, dividendos e lucros retidos/prejuízo."
+                  ],
+                  [
+                    "= Valor adicionado total a distribuir.",
+                    "Total distribuído deve coincidir com o valor a distribuir."
+                  ]
+                ],
+                "sourceId": "libfile_d95f748cd810819191e27298ce95b4ce"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Transferências recebidas no modelo: equivalência patrimonial, receitas financeiras, royalties, aluguéis e dividendos quando cabíveis, evitando dupla contagem. Na consolidação, observar a participação dos não controladores.",
+                "sourceId": "libfile_d95f748cd810819191e27298ce95b4ce"
+              }
+            ],
+            "exercises": [
+              {
+                "id": "pdf-dva-38000",
+                "sourceId": "libfile_d95f748cd810819191e27298ce95b4ce",
+                "context": "Aplicação didática a partir do exemplo do PDF; banca e ano não informados.",
+                "statement": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Aplicação do quadro do PDF. DRE de 2021, em reais:"
+                  },
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Conta",
+                        "R$"
+                      ],
+                      [
+                        "Receita líquida de vendas",
+                        "88.000"
+                      ],
+                      [
+                        "CMV",
+                        "52.800"
+                      ],
+                      [
+                        "Lucro bruto",
+                        "35.200"
+                      ],
+                      [
+                        "Despesa de juros",
+                        "2.500"
+                      ],
+                      [
+                        "Salários",
+                        "10.000"
+                      ],
+                      [
+                        "PECLD",
+                        "1.000"
+                      ],
+                      [
+                        "Receita de equivalência patrimonial",
+                        "2.000"
+                      ],
+                      [
+                        "Depreciação",
+                        "3.000"
+                      ],
+                      [
+                        "Lucro antes do IR",
+                        "20.700"
+                      ],
+                      [
+                        "Imposto de renda",
+                        "6.700"
+                      ],
+                      [
+                        "Lucro líquido",
+                        "14.000"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Para reconstruir os valores de venda e insumos da DVA, o quadro utiliza 12% de tributo: receita líquida = 88% da venda bruta e CMV líquido = 88% dos insumos. Calcule o valor adicionado a distribuir e confira a distribuição."
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Valor adicionado total a distribuir: R$ 38.000."
+                  }
+                ],
+                "solution": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Formação",
+                        "R$"
+                      ],
+                      [
+                        "Vendas com tributos: 88.000 ÷ 0,88",
+                        "100.000"
+                      ],
+                      [
+                        "− PECLD",
+                        "1.000"
+                      ],
+                      [
+                        "= Receitas da DVA",
+                        "99.000"
+                      ],
+                      [
+                        "− Insumos: 52.800 ÷ 0,88",
+                        "60.000"
+                      ],
+                      [
+                        "= Valor adicionado bruto",
+                        "39.000"
+                      ],
+                      [
+                        "− Depreciação",
+                        "3.000"
+                      ],
+                      [
+                        "= Valor adicionado líquido produzido",
+                        "36.000"
+                      ],
+                      [
+                        "+ Equivalência patrimonial",
+                        "2.000"
+                      ],
+                      [
+                        "= Total a distribuir",
+                        "38.000"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Distribuição",
+                        "R$"
+                      ],
+                      [
+                        "Pessoal — salários",
+                        "10.000"
+                      ],
+                      [
+                        "Tributos federais — IR",
+                        "6.700"
+                      ],
+                      [
+                        "Tributos estaduais — 12.000 − 7.200",
+                        "4.800"
+                      ],
+                      [
+                        "Capitais de terceiros — juros",
+                        "2.500"
+                      ],
+                      [
+                        "Capitais próprios — lucro retido",
+                        "14.000"
+                      ],
+                      [
+                        "Total",
+                        "38.000"
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Reconstrução do quadro, não uma regra para aplicar uma alíquota de 12% a toda DVA. O exemplo não fornece dividendos pagos ou outras distribuições. Os itens sem valor na imagem ficaram como categorias na teoria."
+                  }
+                ]
+              }
+            ],
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "DVA.pdf",
+                "libraryFileId": "libfile_d95f748cd810819191e27298ce95b4ce",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "DVA.pdf",
+            "libraryFileId": "libfile_d95f748cd810819191e27298ce95b4ce",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-e-05",
@@ -12442,18 +14710,68 @@
         "kind": "study-note",
         "topic": "Demonstração de Mudança do Patrimônio Líquido (DMPL)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-e-05",
             "title": "Demonstração de Mudança do Patrimônio Líquido (DMPL)",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "DMPL e relação com a DLPA",
+                "sourceId": "libfile_17e0fa0ad6648191b1c4bef541874b96"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A DMPL integra o conjunto completo do CPC 26. A Lei 6.404 permite incluir nela a DLPA. Essa possibilidade não transforma a DMPL em facultativa para uma entidade sujeita ao conjunto completo do CPC 26 ou à exigência de regulador.",
+                "sourceId": "libfile_17e0fa0ad6648191b1c4bef541874b96"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "Completo das DC's.pdf",
+                "libraryFileId": "libfile_17e0fa0ad6648191b1c4bef541874b96",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Página Sem Título(1).pdf",
+                "libraryFileId": "libfile_e265570133cc8191b5b909e46b268e4c",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Completo das DC's.pdf",
+            "libraryFileId": "libfile_17e0fa0ad6648191b1c4bef541874b96",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Página Sem Título(1).pdf",
+            "libraryFileId": "libfile_e265570133cc8191b5b909e46b268e4c",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-e-06",
@@ -12463,18 +14781,68 @@
         "kind": "study-note",
         "topic": "Demonstração de Lucro e Prejuízo Acumulado (DLPA)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-e-06",
             "title": "Demonstração de Lucro e Prejuízo Acumulado (DLPA)",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "DLPA na sequência das demonstrações",
+                "sourceId": "libfile_17e0fa0ad6648191b1c4bef541874b96"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A DLPA é exigida pela Lei 6.404 e pode ser incluída na DMPL. No conjunto do CPC 26, suas informações estão abrangidas pela demonstração das mutações do patrimônio líquido. O comparativo completo está em Apresentação das Demonstrações Contábeis.",
+                "sourceId": "libfile_17e0fa0ad6648191b1c4bef541874b96"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "Completo das DC's.pdf",
+                "libraryFileId": "libfile_17e0fa0ad6648191b1c4bef541874b96",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              },
+              {
+                "name": "Página Sem Título(1).pdf",
+                "libraryFileId": "libfile_e265570133cc8191b5b909e46b268e4c",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Completo das DC's.pdf",
+            "libraryFileId": "libfile_17e0fa0ad6648191b1c4bef541874b96",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          },
+          {
+            "name": "Página Sem Título(1).pdf",
+            "libraryFileId": "libfile_e265570133cc8191b5b909e46b268e4c",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-e-07",
@@ -12484,18 +14852,100 @@
         "kind": "study-note",
         "topic": "Demonstração do Resultado Abrangente (DRA)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-e-07",
             "title": "Demonstração do Resultado Abrangente (DRA)",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "DRA — resultado abrangente",
+                "sourceId": "libfile_d4e493b6c7988191a7ce801b131938f0"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Resultado abrangente = resultado líquido do período + outros resultados abrangentes (ORA), incluindo a participação em ORA de investidas avaliadas pelo MEP. São mutações no PL decorrentes de eventos que não sejam transações com sócios como proprietários.",
+                "sourceId": "libfile_d4e493b6c7988191a7ce801b131938f0"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Exemplos do material",
+                    "Tratamento / cuidado"
+                  ],
+                  [
+                    "Conversão de operações no exterior",
+                    "Ajuste de conversão em ORA."
+                  ],
+                  [
+                    "Planos de benefício definido",
+                    "Remensurações atuariais segundo CPC 33."
+                  ],
+                  [
+                    "Ativos financeiros",
+                    "ORA nos casos previstos no CPC 48; o PDF usa a antiga expressão “disponíveis para venda”."
+                  ],
+                  [
+                    "Hedge de fluxo de caixa",
+                    "Parcela efetiva, conforme requisitos do CPC 48."
+                  ],
+                  [
+                    "Reavaliação",
+                    "Apenas quando admitida no marco aplicável; não presumir autorização geral no Brasil."
+                  ]
+                ],
+                "sourceId": "libfile_d4e493b6c7988191a7ce801b131938f0"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Apresentar os ORA por natureza, separando os itens passíveis de reclassificação futura ao resultado daqueles que não serão reclassificados. Efeito tributário: líquido em cada item ou antes do tributo, com divulgação correspondente na demonstração ou nas notas.",
+                "sourceId": "libfile_d4e493b6c7988191a7ce801b131938f0"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "No modelo brasileiro do CPC 26, DRA separada da DRE. Informações podem também constar da DMPL; apresentar somente na DMPL não substitui a demonstração exigida.",
+                "sourceId": "libfile_d4e493b6c7988191a7ce801b131938f0"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "DRA.pdf",
+                "libraryFileId": "libfile_d4e493b6c7988191a7ce801b131938f0",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "Mantido o conteúdo didático do PDF, com atualização da referência “disponíveis para venda” para as categorias aplicáveis do CPC 48. O tratamento depende do instrumento; nem todo ganho de valor justo integra ORA.",
+                "url": "https://www.cpc.org.br/Arquivos/Documentos/530_CPC_48_Rev%2017..pdf"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "DRA.pdf",
+            "libraryFileId": "libfile_d4e493b6c7988191a7ce801b131938f0",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-e-08",
@@ -12526,18 +14976,114 @@
         "kind": "study-note",
         "topic": "Demonstração de Fluxo de Caixa (CPC 03)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-f-01",
             "title": "Demonstração de Fluxo de Caixa (CPC 03)",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "DFC — operações, investimento e financiamento",
+                "sourceId": "libfile_19b9e7631a8c8191886c58013496f639"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Atividade",
+                    "Entradas (+)",
+                    "Saídas (−)"
+                  ],
+                  [
+                    "Operacionais (AO)",
+                    "Vendas de bens/serviços; royalties, honorários e comissões; restituições de IR, em regra.",
+                    "Fornecedores; empregados; IR, salvo identificação específica com AI/AF."
+                  ],
+                  [
+                    "Investimento (AI)",
+                    "Venda de imobilizado, intangíveis e outros ativos de longo prazo; recebimento de empréstimos concedidos a terceiros, salvo instituições financeiras.",
+                    "Aquisição dos ativos; desenvolvimento ativado e construção própria; concessão de empréstimos a terceiros, salvo instituições financeiras."
+                  ],
+                  [
+                    "Financiamento (AF)",
+                    "Emissão de ações, debêntures e outros títulos de dívida; contratação de empréstimos.",
+                    "Compra/resgate de ações próprias; amortização de empréstimos e financiamentos; redução do principal de arrendamentos."
+                  ]
+                ],
+                "sourceId": "libfile_19b9e7631a8c8191886c58013496f639"
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Exceções e instrumentos financeiros",
+                "sourceId": "libfile_19b9e7631a8c8191886c58013496f639"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Compra/venda de instrumentos patrimoniais ou de dívida de outras entidades e participações em joint ventures: investimento, exceto equivalentes de caixa e títulos de negociação. Contratos mantidos para negociação geram fluxos operacionais. Adiantamentos e empréstimos por instituições financeiras são normalmente operacionais.",
+                "sourceId": "libfile_19b9e7631a8c8191886c58013496f639"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Futuros, termos, opções e swaps: investimento, salvo negociação ou classificação como financiamento. Hedge de posição identificável acompanha a classificação do fluxo protegido.",
+                "sourceId": "libfile_19b9e7631a8c8191886c58013496f639"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Somente dividendos efetivamente pagos geram saída de caixa. Dividendos apenas provisionados não entram na DFC como pagamento. A classificação de dividendos e juros segue a política permitida pela norma aplicável, consistentemente adotada.",
+                "sourceId": "libfile_19b9e7631a8c8191886c58013496f639"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [
+              {
+                "id": "libfile_19b9e7631a8c8191886c58013496f639",
+                "board": "Anotações do PDF — banca não informada",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Atenção a três perguntas: houve caixa? Qual é a natureza da atividade? Há exceção específica (instituição financeira, negociação, equivalente de caixa ou hedge)?"
+                  }
+                ]
+              }
+            ],
+            "sourceDocuments": [
+              {
+                "name": "DFC fluxo de caixa.pdf",
+                "libraryFileId": "libfile_19b9e7631a8c8191886c58013496f639",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "Corrigida a exceção dos derivativos: o PDF repete “AI” dentro do próprio grupo de investimento; CPC 03, 16(g)-(h), ressalva financiamento e negociação.",
+                "url": "https://www.cpc.org.br/Arquivos/Documentos/183_CPC_03_R2_rev%2024.pdf"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "DFC fluxo de caixa.pdf",
+            "libraryFileId": "libfile_19b9e7631a8c8191886c58013496f639",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-f-02",
@@ -12589,18 +15135,96 @@
         "kind": "study-note",
         "topic": "Subvenções (CPC 07)",
         "category": "Contabilidade",
-        "summary": "Assunto cadastrado no índice. Teoria, exercícios e teoria das questões aguardam conteúdo.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Anotações parciais dos PDFs organizadas em teoria, aplicações e teoria das questões, conforme o material recebido.",
+        "source": "Índice do usuário e PDFs enviados no chat. Texto e quadros convertidos em conteúdo editável; ajustes pontuais indicados em Fontes e conferência. Não corresponde à cobertura integral do assunto.",
         "accountingTopics": [
           {
             "id": "conta-f-04",
             "title": "Subvenções (CPC 07)",
             "group": "",
-            "theory": [],
+            "theory": [
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Subvenção governamental — reconhecimento",
+                "sourceId": "libfile_f1f80ef0fde08191a0be97bf4b69f40f"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Reconhecer quando houver razoável segurança do cumprimento das condições e do recebimento. Receber dinheiro, isoladamente, não comprova que todas as condições estejam satisfeitas. Não creditar diretamente o benefício ao PL.",
+                "sourceId": "libfile_f1f80ef0fde08191a0be97bf4b69f40f"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Reconhecer receita sistematicamente nos períodos dos custos que a subvenção pretende compensar. Quando cabível o registro do ativo antes da receita, usar contrapartida específica no passivo e apropriar ao resultado ao longo dos períodos pertinentes.",
+                "sourceId": "libfile_f1f80ef0fde08191a0be97bf4b69f40f"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Situação",
+                    "Momento do resultado"
+                  ],
+                  [
+                    "Relacionado a ativo depreciável",
+                    "Acompanhar os encargos de depreciação ao longo da vida útil."
+                  ],
+                  [
+                    "Relacionado a ativo não depreciável, como terreno",
+                    "Considerar as obrigações e despesas exigidas: não há depreciação automática do terreno."
+                  ],
+                  [
+                    "Custeio ou compensação de despesas",
+                    "Confrontar com os custos/despesas; se compensa gastos já incorridos ou suporte imediato sem custos futuros relacionados, reconhecer quando se tornar recebível."
+                  ],
+                  [
+                    "Retenção exigida",
+                    "Depois do resultado, destinar o lucro à reserva apropriada, nas condições legais."
+                  ]
+                ],
+                "sourceId": "libfile_f1f80ef0fde08191a0be97bf4b69f40f"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Roteiro: recebimento/registro, quando cabível → apropriação da receita por competência → eventual reserva de incentivos fiscais. A contabilização não se confunde com o tratamento tributário da subvenção.",
+                "sourceId": "libfile_f1f80ef0fde08191a0be97bf4b69f40f"
+              }
+            ],
             "exercises": [],
-            "questionTheory": []
+            "questionTheory": [],
+            "sourceDocuments": [
+              {
+                "name": "CPC 07 (R1) Subvenção e Assistência Governamentais.pdf",
+                "libraryFileId": "libfile_f1f80ef0fde08191a0be97bf4b69f40f",
+                "pages": [
+                  1
+                ],
+                "receivedAt": "2026-10-25"
+              }
+            ],
+            "reviewNotes": [
+              {
+                "text": "Ajustado o exemplo de terreno: ativo não depreciável não gera apropriação por depreciação; observar as obrigações relacionadas. Subvenção para custeio não é receita automática na data do caixa.",
+                "url": "https://www.cpc.org.br/Arquivos/Documentos/167_CPC_07_R1_rev%2012.pdf"
+              }
+            ]
           }
-        ]
+        ],
+        "sourceDocuments": [
+          {
+            "name": "CPC 07 (R1) Subvenção e Assistência Governamentais.pdf",
+            "libraryFileId": "libfile_f1f80ef0fde08191a0be97bf4b69f40f",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25"
+          }
+        ],
+        "contentUpdatedAt": "2026-10-25"
       },
       {
         "id": "conta-f-05",
@@ -14049,6 +16673,308 @@
       "libraryFileId": "libfile_2eca1d09f738819195adac1f054dcde3",
       "subject": "Contabilidade",
       "receivedAt": "2026-10-25",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Anc mantido para venda.pdf",
+      "libraryFileId": "libfile_0b3ec2f8b34c81919ab37cfc23726b9a",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Ativo contigente.pdf",
+      "libraryFileId": "libfile_d986915ef2088191b97a9015e5291f64",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "capitalização.pdf",
+      "libraryFileId": "libfile_0e274bd7a3c88191a8e92d0000f2f97d",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "CPC 15.pdf",
+      "libraryFileId": "libfile_e52aa3b45e388191b57cb37dc53a6270",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "CPC 27 - Ativo Imobilizado.pdf",
+      "libraryFileId": "libfile_5459372f501481918cfc8836efb87ea9",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Depreciação fiscal acelerada.pdf",
+      "libraryFileId": "libfile_09cbe6865a1881918c6a19806d4ba7f1",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "LLE.pdf",
+      "libraryFileId": "libfile_7c85448fe8688191bdfc1405784c20f7",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Lucro não realizado.pdf",
+      "libraryFileId": "libfile_8d5a328265dc8191b153f9dfdafeaea2",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Mensuração instrumentos financeiros.pdf",
+      "libraryFileId": "libfile_66153c278b3c81918c852e0701bd7718",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Página Sem Título.pdf",
+      "libraryFileId": "libfile_7a968865de888191bd9bfc2c9c453e92",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Propriedade para investimento.pdf",
+      "libraryFileId": "libfile_9c0ac8d96364819184b9e97d08e1cbcf",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "provisão.pdf",
+      "libraryFileId": "libfile_5b8a236a37ec8191bd4b6a3f69fd4f6b",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Reserva de capital e açoes em tesouraria.pdf",
+      "libraryFileId": "libfile_dcb2d18355ec8191a79402c8ea8445ce",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Resgate e reembolso.pdf",
+      "libraryFileId": "libfile_2b86abdcdef081919b147bec6d18271a",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Análise da DRE.pdf",
+      "libraryFileId": "libfile_5db0b66062348191939edba458bbc70c",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "baixa de entidade no exterior,.pdf",
+      "libraryFileId": "libfile_4fef6add398c81918c9a4e873f219e1a",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Cálculo do resultado pela perda de influência.pdf",
+      "libraryFileId": "libfile_45b85c1ff3d08191b70d69e7b5552e8d",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Câmbio e Conversão .pdf",
+      "libraryFileId": "libfile_9441123860388191b3ec5d7c8bb58e7a",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Completo das DC's.pdf",
+      "libraryFileId": "libfile_17e0fa0ad6648191b1c4bef541874b96",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "CPC 07 (R1) Subvenção e Assistência Governamentais.pdf",
+      "libraryFileId": "libfile_f1f80ef0fde08191a0be97bf4b69f40f",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "CPC 15 (R1) - Combinação de Negócios.pdf",
+      "libraryFileId": "libfile_5b08b6be81508191aaf8d37cbfd11cfb",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "CPC 28 propriedade para investimento .pdf",
+      "libraryFileId": "libfile_016168be7a7c8191a75fb4b3c92f7fa3",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "DFC fluxo de caixa.pdf",
+      "libraryFileId": "libfile_19b9e7631a8c8191886c58013496f639",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "DRA.pdf",
+      "libraryFileId": "libfile_d4e493b6c7988191a7ce801b131938f0",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "DRE.pdf",
+      "libraryFileId": "libfile_c4105bb7ea708191897535eeff545511",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "DVA.pdf",
+      "libraryFileId": "libfile_d95f748cd810819191e27298ce95b4ce",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Good Will.pdf",
+      "libraryFileId": "libfile_40e3607639b88191b31b24fe86e6c7fa",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "NE.pdf",
+      "libraryFileId": "libfile_592a20b7d608819196ced175bdd15cb4",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Página Sem Título(1).pdf",
+      "libraryFileId": "libfile_e265570133cc8191b5b909e46b268e4c",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
+      "type": "user-pdf"
+    },
+    {
+      "name": "propriedades para investimento.pdf",
+      "libraryFileId": "libfile_2d45f4df12908191b078699903bea5c5",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Contabilidade",
       "type": "user-pdf"
     }
   ],
