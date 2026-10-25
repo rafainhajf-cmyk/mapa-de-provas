@@ -530,7 +530,148 @@
         "Auditoria"
       ],
       "status": "read",
-      "files": [],
+      "files": [
+        {
+          "id": "aud-a-01",
+          "title": "Normas Profissionais do Auditor Independente",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-a-02",
+          "title": "Auditoria Interna",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-a-03",
+          "title": "Planejamento de Auditoria Independente",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-a-04",
+          "title": "Documentação de Auditoria/Papéis de Trabalho",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-b-01",
+          "title": "Materialidade, Relevância e Risco em Auditoria Independente",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-b-02",
+          "title": "Testes e Procedimentos em Auditoria",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-b-03",
+          "title": "Evidência em Auditoria",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-b-04",
+          "title": "Fraude e Erro",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-b-05",
+          "title": "Representações Formais/Carta de Responsabilidade",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-c-01",
+          "title": "Amostragem em Auditoria",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-c-02",
+          "title": "Opinião do Auditor Independente/Relatórios e Pareceres de Auditoria",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-c-03",
+          "title": "Testes em Áreas Específicas das Demonstrações Contábeis",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-c-04",
+          "title": "Transações com Partes Relacionadas",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-c-05",
+          "title": "Transações e Eventos Subsequentes",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-d-01",
+          "title": "Auditoria Fiscal",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-d-02",
+          "title": "Perícia Contábil",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-d-03",
+          "title": "Controle Interno da Entidade Auditada",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-d-04",
+          "title": "Contingências e Estimativas Contábeis",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-d-05",
+          "title": "Continuidade Normal das Atividades da Entidade",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        },
+        {
+          "id": "aud-d-06",
+          "title": "Utilização do Trabalho de Outros Profissionais",
+          "mimeType": "text/plain",
+          "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+          "url": ""
+        }
+      ],
       "subject": "Auditoria"
     },
     {
@@ -17829,6 +17970,3368 @@
           }
         ],
         "sourceDocuments": []
+      },
+      {
+        "id": "aud-a-01",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Normas Profissionais do Auditor Independente",
+        "category": "Auditoria",
+        "summary": "9 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Ameaças à independência",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-03-1.webp",
+                "alt": "Ameaça a independência  — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_cd4fcc76f8dc8191a10e2ad9a00f38c8",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Ameaça",
+                        "Ideia do quadro"
+                      ],
+                      [
+                        "Interesse próprio",
+                        "Interesse financeiro ou de outra natureza influencia indevidamente o julgamento."
+                      ],
+                      [
+                        "Autorrevisão",
+                        "Reavaliar trabalho, julgamento ou serviço anterior da própria firma/profissional."
+                      ],
+                      [
+                        "Defesa do interesse do cliente",
+                        "Promover a posição do cliente a ponto de comprometer a objetividade."
+                      ],
+                      [
+                        "Familiaridade",
+                        "Relação longa ou próxima gera simpatia excessiva ou aceitação do trabalho do cliente."
+                      ],
+                      [
+                        "Intimidação",
+                        "Pressões reais ou percebidas impedem atuação objetiva."
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "O quadro inclui regras de rotação e responsabilidades. Os prazos dependem do regime aplicável e da redação exigida; preserve a distinção entre rotação do responsável técnico e da firma."
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_cd4fcc76f8dc8191a10e2ad9a00f38c8"
+          },
+          {
+            "title": "Princípios fundamentais de ética",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-15-1.webp",
+                "alt": "Ética profissional — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_697413fcddcc8191b0efe3a699b0bb05",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Princípio",
+                        "Lembrete"
+                      ],
+                      [
+                        "Integridade",
+                        "Franqueza e honestidade."
+                      ],
+                      [
+                        "Objetividade",
+                        "Não comprometer o julgamento por viés, conflito de interesses ou influência indevida."
+                      ],
+                      [
+                        "Competência e zelo profissionais",
+                        "Manter conhecimentos e habilidades e atuar diligentemente."
+                      ],
+                      [
+                        "Confidencialidade",
+                        "Respeitar o sigilo das informações e as exceções aplicáveis."
+                      ],
+                      [
+                        "Comportamento profissional",
+                        "Cumprir leis e regulamentos e evitar condutas que desacreditem a profissão."
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Mnemônico do material: CO IN OB · competência, confidencialidade, comportamento, integridade e objetividade."
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_697413fcddcc8191b0efe3a699b0bb05"
+          },
+          {
+            "title": "Mapeamento dos princípios éticos",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Mapeamento dos princípios (NBC PG 100):"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "(3) Competência e zelo profissionais → obter/manter conhecimento e atuar diligentemente. •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "(4) Confidencialidade (sigilo profissional) → respeitar a confidencialidade das informações. •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "(1) Integridade → ser direto e honesto em todas as relações. •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "(5) Comportamento profissional → cumprir leis/regulamentos e evitar condutas que desacreditem a profissão. •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "(2) Objetividade → não comprometer o julgamento por viés, conflito de interesses ou influência indevida. •"
+              }
+            ],
+            "sourceId": "libfile_81349b14da408191afdb0bf8eca94426"
+          },
+          {
+            "title": "Ética, sigilo e exigências profissionais",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Conferência: a exceção a uma exigência relevante não autoriza simplesmente ignorar normas. Requer procedimento alternativo que atinja sua finalidade e documentação das razões. Consultoria não ser asseguração também não afasta ética ou outras normas aplicáveis."
+              },
+              {
+                "type": "reference",
+                "text": "NBC TA 230 · item 12",
+                "url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA230(R1).pdf"
+              }
+            ],
+            "sourceId": "libfile_48e29a5cf1788191a99eeabe93fce430"
+          },
+          {
+            "title": "Documentação de conclusões sobre independência",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "29. A documentação pode fornecer evidência do julgamento do auditor na formação de conclusões sobre o cumprimento de requisitos de independência, contudo a ausência de documentação não é um fator determinante se uma firma considerou ou não um assunto específico e nem se ela é independente."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O auditor deve documentar as conclusões sobre o cumprimento dos requisitos de independência e a essência de quaisquer discussões relevantes que suportam essas conclusões. Consequentemente:"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "(a) quando são necessárias salvaguardas para reduzir uma ameaça a um nível aceitável, o auditor deve documentar a natureza da ameaça e das salvaguardas existentes ou aplicadas que reduzem a ameaça a um nível aceitável;"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "(b) quando a ameaça precisou de análise significativa para avaliar se eram necessárias salvaguardas e o auditor concluiu que não porque a ameaça já estava em um nível aceitável, o auditor deve documentar a natureza da ameaça e a justificativa para a conclusão"
+              }
+            ],
+            "sourceId": "libfile_f354fd6d7408819198aeb164051b14b3"
+          },
+          {
+            "title": "Asseguração razoável × limitada; independência",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-22-1.webp",
+                "alt": "Limitada e razoável — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_543204c0ad28819187155111cc72323a",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Asseguração",
+                        "Forma usual da conclusão",
+                        "Nível de segurança"
+                      ],
+                      [
+                        "Razoável",
+                        "Positiva",
+                        "Elevado, sem ser absoluto."
+                      ],
+                      [
+                        "Limitada",
+                        "Negativa",
+                        "Menor que na asseguração razoável, mas significativo."
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Independência",
+                        "Lembrete do esquema"
+                      ],
+                      [
+                        "De pensamento",
+                        "Permite conclusão sem influências indevidas, preservando integridade, objetividade e ceticismo."
+                      ],
+                      [
+                        "Aparência de independência",
+                        "Evita circunstâncias que levem terceiro informado a concluir que a independência foi comprometida."
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_543204c0ad28819187155111cc72323a"
+          },
+          {
+            "title": "NBC TA × NBC PA",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Conferência: o exemplo da NBC PA 01 deve ser lido como gestão da qualidade para firmas. A expressão “controle de qualidade” aparece em materiais de redação anterior; observe a norma exigida no edital."
+              },
+              {
+                "type": "reference",
+                "text": "CFC · normas profissionais do auditor independente",
+                "url": "https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-pa-do-auditor-independente/"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "As Normas Brasileiras de Contabilidade são organizadas por grupos, cada um com escopos distintos. Dentre eles, estão as NBC TA (Técnicas) e as NBC PA (Profissionais):"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "NBC TA: Tratam da auditoria independente de informação contábil histórica, especialmente das demonstrações contábeis. Elas abrangem, dentre outros aspectos, os objetivos do auditor (NBC TA 200); o planejamento (NBC TA 300); a evidência (NBC TA 500); a amostragem (NBC TA 530); e a formação da opinião e relatório (NBC TA 700). São normas técnicas de execução da auditoria."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "NBC PA: Referem-se às Normas Profissionais do Auditor Independente. Abrangem, por exemplo, o controle de qualidade (NBC PA 01); independência e ética; e responsabilidades da firma de auditoria. Portanto, não são normas de procedimento técnico direto sobre as demonstrações, mas normas que disciplinam aspectos profissionais e estruturais da atuação do auditor."
+              }
+            ],
+            "sourceId": "libfile_aa871f0b8b048191bcfbed7be7ab17c7"
+          },
+          {
+            "title": "Objetivo da auditoria independente × finalidade da interna",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "OBJETIVO -> \"... Aumentar o grau de confiança nas demonstrações contábeis por parte dos usuários. Isso é alcançado mediante a expressão de uma opinião pelo auditor sobre se as DCs foram elaboradas, em todos os aspectos relevantes, em conformidade com uma estrutura de relatório financeiro aplicável."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "FINALIDADE -> \"... agregar valor ao resultado da organização ...\""
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "De acordo com a NBC TI 01 - Auditoria Interna"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "12.1 – CONCEITUAÇÃO E DISPOSIÇÕES GERAIS"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "12.1.1 – Conceituação e Objetivos da Auditoria Interna"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "12.1.1.3 – A Auditoria Interna compreende os exames, análises, avaliações, levantamentos e comprovações, metodologicamente estruturados para a avaliação da integridade, adequação, eficácia, eficiência e economicidade dos processos, dos sistemas de informações e de controles internos integrados ao ambiente, e de gerenciamento de riscos, com vistas a assistir à administração da entidade no cumprimento de seus objetivos."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "12.1.1.4 – A atividade da Auditoria Interna está estruturada em procedimentos, com enfoque técnico, objetivo, sistemático e disciplinado, e tem por finalidade agregar valor ao resultado da organização, apresentando subsídios para o aperfeiçoamento dos processos, da gestão e dos controles internos, por meio da recomendação de soluções para as não-conformidades apontadas nos relatórios."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Ou seja, o objetivo principal não é assegurar que não ocorram erros ou fraudes."
+              }
+            ],
+            "sourceId": "libfile_ac1110a35eac8191afd01c56b46c9119"
+          },
+          {
+            "title": "Conflitos entre estrutura de relatório e fontes de orientação",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A NBC TA 200 orienta que a autoridade relativa é determinada com base na hierarquia das fontes de orientação, na qual as fontes com maior autoridade são aquelas estabelecidas por entidades reguladoras, governamentais ou profissionais de reconhecido prestígio e respeitabilidade. Essas fontes podem incluir normas contábeis internacionais, legislação aplicável, interpretações e orientações emitidas por órgãos reguladores."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Portanto, nos termos da NBC TA 200, quando há conflito entre a estrutura de relatório financeiro aplicável e as fontes de orientação, o auditor deve dar preferência à fonte que possui a mais alta autoridade, seguindo a hierarquia estabelecida pelas entidades reguladoras, governamentais ou profissionais de reconhecido prestígio e respeitabilidade. Isso garante a aplicação consistente e apropriada da estrutura de relatório financeiro nas demonstrações financeiras auditadas."
+              }
+            ],
+            "sourceId": "libfile_719b7ee0dea48191a3a20b760ce2916f"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Ameaça a independência .pdf",
+            "libraryFileId": "libfile_cd4fcc76f8dc8191a10e2ad9a00f38c8",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Ética profissional.pdf",
+            "libraryFileId": "libfile_697413fcddcc8191b0efe3a699b0bb05",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "pricípios .pdf",
+            "libraryFileId": "libfile_81349b14da408191afdb0bf8eca94426",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "RE QUISI TOS P ARA O EX ERCÍ CIO DA AU DITORIA (PRIN CÍ PIOS ÉTI COS ).pdf",
+            "libraryFileId": "libfile_48e29a5cf1788191a99eeabe93fce430",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Falta doc.pdf",
+            "libraryFileId": "libfile_f354fd6d7408819198aeb164051b14b3",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Limitada e razoável.pdf",
+            "libraryFileId": "libfile_543204c0ad28819187155111cc72323a",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "NBC.pdf",
+            "libraryFileId": "libfile_aa871f0b8b048191bcfbed7be7ab17c7",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Objetivo e finalidade.pdf",
+            "libraryFileId": "libfile_ac1110a35eac8191afd01c56b46c9119",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Conflito de relatório.pdf",
+            "libraryFileId": "libfile_719b7ee0dea48191a3a20b760ce2916f",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-a-02",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Auditoria Interna",
+        "category": "Auditoria",
+        "summary": "4 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Auditoria interna · resumo",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-05-1.webp",
+                "alt": "Aud interna — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_d4c26679d8308191918be4d3a4c96580",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Auditoria interna: assistir à administração no cumprimento de objetivos; agregar valor aos processos, à gestão e aos controles. Não se confunde com o próprio controle interno."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "A administração implementa controles. O auditor avalia e recomenda. Indícios ou confirmações de irregularidades são informados por escrito e reservadamente; pode caber relatório parcial quando a providência é urgente."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Testes de observância: controles em funcionamento. Testes substantivos: suficiência, exatidão e validade dos dados produzidos pelos sistemas de informação."
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_d4c26679d8308191918be4d3a4c96580"
+          },
+          {
+            "title": "Subordinação administrativa × autonomia técnica",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "No controle externo governamental e na auditoria privada independente, é fácil de enxergar a independência, já que são auditores de fora do quadro do órgão, entidade ou empresa. Mas o auditor interno faz parte do quadro da empresa. Só por isso já não é uma independência 100% plena, pois o auditor interno está administrativamente vinculado/subordinado à empresa."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Mas, apesar dessa subordinação, ela deve receber independência no que se trata dos quesitos técnicos de sua atuação."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Subordinação tem ligação com vínculo funcional, ou seja, a auditoria interna se reporta ao CA. Mas isso é um conceito diferente de\"dependência\", que implicaria na perda de autonomia e na existência de influência nas atividades, o que não corresponde ao cenário adequado teoricamente, em que a auditoria é independente."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Ou seja:"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Independência no sentido técnico/funcional •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Vinculação/Subordinação no sentido administrativo ou hierárquico •"
+              }
+            ],
+            "sourceId": "libfile_7a9175858ff48191b6585d7f707b72ce"
+          },
+          {
+            "title": "Irregularidades e relatório parcial da auditoria interna",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "12.3.4 – A Auditoria Interna deve avaliar a necessidade de emissão de relatório parcial, na hipótese de constatar impropriedades/irregularidades/ ilegalidades que necessitem providências imediatas da administração da entidade, e que não possam aguardar o final dos exames, considerando o disposto no item 12.1.3.1."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "12.1.3.1 – A Auditoria Interna deve assessorar a administração da entidade no trabalho de prevenção de fraudes e erros, obrigando-se a informá-la, sempre por escrito, de maneira reservada, sobre quaisquer indícios ou confirmações de irregularidades detectadas no decorrer de seu trabalho."
+              }
+            ],
+            "sourceId": "libfile_a2ee08c526c8819191a078b7d0b8567c"
+          },
+          {
+            "title": "Riscos da auditoria interna",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "12.2.2.1 – A análise dos riscos da Auditoria Interna deve ser feita na fase de planejamento dos trabalhos; estão relacionados à possibilidade de não se atingir, de forma satisfatória, o objetivo dos trabalhos. Nesse sentido, devem ser considerados, principalmente, os seguintes aspectos:"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "a) a verificação e a comunicação de eventuais limitações ao alcance dos procedimentos da Auditoria Interna, a serem aplicados, considerando o volume ou a complexidade das transações e das operações;"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "b) a extensão da responsabilidade do auditor interno no uso dos trabalhos de especialistas."
+              }
+            ],
+            "sourceId": "libfile_c13a75167c488191b4ab84395b215eb3"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Aud interna.pdf",
+            "libraryFileId": "libfile_d4c26679d8308191918be4d3a4c96580",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Subordinação auditoria interna.pdf",
+            "libraryFileId": "libfile_7a9175858ff48191b6585d7f707b72ce",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "irregularidade.pdf",
+            "libraryFileId": "libfile_a2ee08c526c8819191a078b7d0b8567c",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Riscos da Auditoria Interna.pdf",
+            "libraryFileId": "libfile_c13a75167c488191b4ab84395b215eb3",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-a-03",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Planejamento de Auditoria Independente",
+        "category": "Auditoria",
+        "summary": "5 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Estratégia global, plano e planejamento interno",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A primeira página trata do planejamento independente; a segunda reproduz fatores da NBC TI 01 para planejamento da auditoria interna. A lista de uma norma não deve ser confundida com a da outra."
+              },
+              {
+                "type": "image",
+                "src": "assets/audit-original-35-1.webp",
+                "alt": "Planejamento aud — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_22db12a660c48191a5532614aa89218b",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "O Planejamento não é uma fase isolada da auditoria, mas um processo contínuo e iterativo, que muitas vezes começa logo após (ou em conexão com) a auditoria anterior, continuando até a conclusão do trabalho de auditoria atual."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "⚠Mnemônico para memorizar as a?vidades preliminares: TEC. Termos do trabalho, É?ca e Controle de qualidade."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "ESTRATÉGIA GLOBAL: O auditor deve estabelecer uma estratégia global de auditoria que DEFINA o alcance, a época e a direção da auditoria, para orientar o desenvolvimento do plano de auditoria."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Principais atividades:"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Identificar as características do trabalho para definir o alcance. 1."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Definir os objetivos do relatório do trabalho de forma a planejar a época da auditoria e a natureza das comunicações requeridas. 2."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Considerar os fatores que no julgamento profissional do auditor são significativos para orientar os esforços da equipe do trabalho. 3."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Considerar os resultados das atividades preliminares do trabalho de auditoria. 4."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Determinar a natureza, a época e a extensão dos recursos necessários para realizar o trabalho. (cuidado para não confundir com as atividades relacionadas ao plano de auditoria!)"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "PLANO DE AUDITORIA"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Natureza, época e a extensão dos procedimentos planejados de avaliação de risco. •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Natureza, a época e a extensão dos procedimentos adicionais de auditoria planejados no nível de afirmação. •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Outros procedimentos de auditoria planejados e necessários. •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "*Então pensou em plano de auditoria, pensou em procedimentos!"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "⚠ A definição da estratégia global de auditoria e o plano de auditoria detalhado não são necessariamente processos isolados ou sequenciais, estando in?mamente relacionados, uma vez que as mudanças em um podem resultar em mudanças no outro. ⚠ O auditor deve atualizar e alterar a estratégia global de auditoria e o plano de auditoria sempre que necessário no curso da auditoria. (alterações signifca:vas devem ser documentadas!) ⚠ O auditor pode optar por discu?r os elementos do planejamento com a Administração da en?dade, de forma a facilitar a condução e o gerenciamento do trabalho de auditoria. CONTUDO, isso NÃO re?ra a responsabilidade do auditor quanto à estratégia global e o plano de auditoria."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "12.2.1.2 – O planejamento deve considerar os fatores relevantes na execução dos trabalhos, especialmente os seguintes:"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "a) o conhecimento detalhado da política e dos instrumentos de gestão de riscos da entidade; b) o conhecimento detalhado das atividades operacionais e dos sistemas contábil e de controles internos e seu grau de confiabilidade da entidade; c) a natureza, a oportunidade e a extensão dos procedimentos de auditoria interna a serem aplicados, alinhados com a política de gestão de riscos da entidade; d) a existência de entidades associadas, filiais e partes relacionadas que estejam no âmbito dos trabalhos da Auditoria Interna; e) o uso do trabalho de especialistas; f) os riscos de auditoria, quer pelo volume ou pela complexidade das transações e operações; g) o conhecimento do resultado e das providências tomadas em relação a trabalhos anteriores, semelhantes ou relacionados; h) as orientações e as expectativas externadas pela administração aos auditores internos; e i) o conhecimento da missão e objetivos estratégicos da entidade"
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_22db12a660c48191a5532614aa89218b"
+          },
+          {
+            "title": "Discussão do planejamento com a administração",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A3. O auditor pode optar por discutir esses elementos do planejamento com a administração da entidade, de forma a facilitar a condução e o gerenciamento do trabalho de auditoria (por exemplo, coordenar alguns dos procedimentos de auditoria planejados com o trabalho do pessoal da entidade). Apesar de normalmente essas discussões ocorrerem, a estratégia global de auditoria e o plano de auditoria continuam sendo de responsabilidade do auditor. Na discussão de temas incluídos na estratégia global de auditoria ou no plano de auditoria deve-se atentar para não comprometer a eficácia dessa auditoria. Por exemplo, a discussão com a administração da natureza e da época de procedimentos de auditoria detalhados pode comprometer a eficácia da auditoria ao tornar tais procedimentos demasiadamente previsíveis.[grifos não constantes no original]"
+              }
+            ],
+            "sourceId": "libfile_e2cee580a43c8191a4be49e7bb856308"
+          },
+          {
+            "title": "Fatores que alteram planejamento, supervisão e revisão",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A natureza e a extensão das atividades do PLANEJAMENTO variam conforme:"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Porte e complexidade da entidade. •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Experiência anterior dos membros-chave da equipe •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Mudanças durante a auditoria. •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A natureza, a época e a extensão do direcionamento e da supervisão dos MEMBROS DA EQUIPE e a REVISÃO DO TRABALHO podem variar dependendo de diversos fatores, incluindo:"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Porte e complexidade da entidade •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Área da auditoria •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Riscos de distorções relevante •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Capacidade e competência dos membros individuais da equipe que realiza o trabalho de auditoria •"
+              }
+            ],
+            "sourceId": "libfile_93eadc5c3c208191a4704618e8bfbbfb"
+          },
+          {
+            "title": "Variação do direcionamento, supervisão e revisão",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "NBC TA 300 (R1):"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A16. A natureza, a época e a extensão do direcionamento e da supervisão dos membros da equipe e a revisão do seu trabalho podem variar dependendo de diversos fatores, incluindo:"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "(a) o porte e a complexidade da entidade;"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "(b) a área da auditoria;"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "(c) os riscos de distorções relevantes (por exemplo, um aumento no risco de distorções relevantes para uma dada área de auditoria costuma exigir um correspondente aumento na extensão e no direcionamento e supervisão tempestiva por parte dos membros da equipe e uma revisão mais detalhada do seu trabalho);"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "(d) a capacidade e a competência dos membros individuais da equipe que realiza o trabalho de auditoria."
+              }
+            ],
+            "sourceId": "libfile_ce8150e3ed688191bf70782771d66daa"
+          },
+          {
+            "title": "Trabalho de auditoria inicial e saldos iniciais",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-52-1.webp",
+                "alt": "trabalho de auditoria inicial  — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_2649aa1012c88191afc373a4e30f1672",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "OU as Demonstrações do ano anterior não foram auditadas; •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "OU foram auditadas por auditor independente antecessor (que também é definido pela Norma em questão). •"
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_2649aa1012c88191afc373a4e30f1672"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Planejamento aud.pdf",
+            "libraryFileId": "libfile_22db12a660c48191a5532614aa89218b",
+            "pages": [
+              1,
+              2
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "interna.pdf",
+            "libraryFileId": "libfile_e2cee580a43c8191a4be49e7bb856308",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Planejamento auditoria.pdf",
+            "libraryFileId": "libfile_93eadc5c3c208191a4704618e8bfbbfb",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Variação aud .pdf",
+            "libraryFileId": "libfile_ce8150e3ed688191bf70782771d66daa",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "trabalho de auditoria inicial .pdf",
+            "libraryFileId": "libfile_2649aa1012c88191afc373a4e30f1672",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-a-04",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Documentação de Auditoria/Papéis de Trabalho",
+        "category": "Auditoria",
+        "summary": "3 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Forma, conteúdo e extensão da documentação",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-17-1.webp",
+                "alt": "Forma, conteúdo, extensão da documentação — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_6316324f6bc481918b261a03870d43e5",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "A forma, o conteúdo e a extensão da documentação dependem de:"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Tamanho e complexidade da entidade; natureza dos procedimentos; riscos de distorção relevante; importância da evidência; natureza e extensão das exceções; necessidade de explicar conclusões que não são prontamente evidentes; metodologia e ferramentas utilizadas."
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_6316324f6bc481918b261a03870d43e5"
+          },
+          {
+            "title": "Documentação e papéis de trabalho",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Conferência: os itens 8 e 9 sobre documentação apresentados como “NBC TA 200” no quadro são da NBC TA 230. O original foi preservado. O arquivo também contém uma imagem ausente; só foi incorporado o conteúdo legível."
+              },
+              {
+                "type": "reference",
+                "text": "NBC TA 230 · documentação de auditoria",
+                "url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA230(R1).pdf"
+              },
+              {
+                "type": "image",
+                "src": "assets/audit-original-31-1.webp",
+                "alt": "papéis de trabalho — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_7049faa4c63c8191aa8b369a3c59fdeb",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "NBASP 100 NBC TA 200"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Documentação 42. (...) A documentação deve ser suficientemente detalhada para permitir a um auditor experiente, sem nenhum conhecimento prévio da auditoria,entender anatureza, a época, o escopo e os resultados dos procedimentos executados, a evidência obtida para apoiar as conclusões e recomendações da auditoria, (...)"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "8. O auditor deve preparar documentação de auditoria que seja suficiente para permitir que um auditor experiente, sem nenhum envolvimento anterior com a auditoria, entenda (ver itens A2 a A5 e A16 e A17): (a) a natureza, época e extensão dos procedimentos de auditoria executadospara cumprir com as normas de auditoria e exigências legais e regulamentares aplicáveis (ver itens A6 e A7); (...) 9. Ao documentar a natureza, a época e a extensão dos procedimentos de auditoria executados, o auditor deve registrar:"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Os papéis de trabalho são de propriedade do auditor e são utilizados para fundamentar seu parecer. Assim, não serve como base para a entidade elaborar seu relatório de gestão"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "3. Os papéis de trabalho destinam-se a:"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "a) ajudar, pela análise dos documentos de auditorias anteriores, ou pelos coligidos quando da contratação de uma primeira auditoria, no planejamento e execução da auditoria;"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "b) facilitar a revisão do trabalho de auditoria; e"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "c) registrar as evidências do trabalho executado, para fundamentar o parecer do auditor independente."
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_7049faa4c63c8191aa8b369a3c59fdeb"
+          },
+          {
+            "title": "Montagem e retenção da documentação",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Conferência: montagem administrativa do arquivo final geralmente em até 60 dias. Retenção geralmente não inferior a cinco anos desde o relatório ou, se posterior, o relatório do auditor do grupo. Não é um prazo máximo universal de descarte."
+              },
+              {
+                "type": "reference",
+                "text": "NBC TA 230 · itens A21–A23",
+                "url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA230(R1).pdf"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "16. Qual o limite de tempo apropriado para montagem e o período de retenção da documentação de auditoria?"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Limite de TEMPO RAZOÁVEL PARA MONTAGEM costuma ser de 60 DIAS APÓS A DATA DO RELATÓRIO do auditor. O auditor deve manter a custódia dos papéis de trabalho pelo prazo de 5 ANOS, a partir da data de emissão do seu parecer."
+              }
+            ],
+            "sourceId": "libfile_8c22b8a72c448191889afbe73be700d6"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Forma, conteúdo, extensão da documentação.pdf",
+            "libraryFileId": "libfile_6316324f6bc481918b261a03870d43e5",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "papéis de trabalho.pdf",
+            "libraryFileId": "libfile_7049faa4c63c8191aa8b369a3c59fdeb",
+            "pages": [
+              1,
+              2
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Retenção documentação.pdf",
+            "libraryFileId": "libfile_8c22b8a72c448191889afbe73be700d6",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-b-01",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Materialidade, Relevância e Risco em Auditoria Independente",
+        "category": "Auditoria",
+        "summary": "4 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Materialidade para execução e distorções agregadas",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A13. O planejamento da auditoria somente para detectar distorções individualmente relevantes ignora o fato de que o agregado de distorções individualmente irrelevantes pode fazer com que as demonstrações contábeis apresentem distorções relevantes e não deixa margem para possíveis distorções não detectadas"
+              }
+            ],
+            "sourceId": "libfile_b2148898ec6081918e1fc1b15cc76051"
+          },
+          {
+            "title": "Materialidade e relevância",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-23-1.webp",
+                "alt": "Materialidade e relevância — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_32fb32d2dbe08191a71fec94f37d91e1",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Materialidade: distorções podem influenciar decisões econômicas dos usuários, individualmente ou em conjunto. Depende da magnitude e/ou da natureza e das circunstâncias."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "No quadro: considerar aspectos quantitativos e qualitativos; há materialidade para as demonstrações como um todo e materialidade para execução da auditoria. Não confundir com relevância da evidência, que se relaciona com a finalidade do procedimento."
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_32fb32d2dbe08191a71fec94f37d91e1"
+          },
+          {
+            "title": "Risco de auditoria e seus componentes",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Conferência: não memorize RA como soma aritmética de RDR e RD. A NBC TA 200 define o risco de auditoria como função desses riscos; modelos matemáticos são ferramentas didáticas. O auditor identifica e avalia riscos de distorção relevante; a responsabilidade da administração pelos controles não elimina esse dever."
+              },
+              {
+                "type": "reference",
+                "text": "NBC TA 200 · risco de auditoria e deveres do auditor",
+                "url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA200(R1).pdf"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O resumo também mistura riscos de negócio da entidade com exemplos de riscos do próprio auditor, como litígio e publicidade adversa. Estes últimos não integram o conceito técnico de risco de auditoria da NBC TA 200."
+              },
+              {
+                "type": "image",
+                "src": "assets/audit-original-43-1.webp",
+                "alt": "Risco de auditoria — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_8f5292aff1ec81919b837f3f5d8b8112",
+                "sourcePage": 1
+              },
+              {
+                "type": "image",
+                "src": "assets/audit-original-43-2.webp",
+                "alt": "Risco de auditoria — página 2",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_8f5292aff1ec81919b837f3f5d8b8112",
+                "sourcePage": 2
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "RISCO DE AUDITORIA"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "🔎Definições Importantes: (As bancas costumam tentar fazer confusão com os conceitos abaixo, fique atento!)"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Risco de Auditoria: Risco de que o auditor expresse uma opinião de auditoria inadequada quando as DCs contiverem distorção relevante."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "NÃO inclui o risco de que o auditor possa expressar uma opinião de que as DCs contêm distorção relevante quando esse não é o caso! (Este risco geralmente é insignificante!) •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "O risco de auditoria é um termo técnico relacionado ao processo de auditoria, ele NÃO se refere aos riscos de negócio do auditor. Risco de Negócio: Risco que resulta de condições, eventos, circunstâncias, ações ou falta de ações significativas que possam afetar adversamente a capacidade da entidade de alcançar seus objetivos e executar suas estratégias, ou do estabelecimento de objetivos ou estratégias inadequadas. (ex: perda decorrente de litígio, publicidade adversa ou outros eventos surgidos em conexão com a auditoria das DCs)"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Risco de Detecção: Risco de que os procedimentos executados pelo auditor para reduzir os riscos de auditoria a um nível aceitável não detectem uma distorção."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Pode ser reduzido, mas nunca eliminado. •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "É uma função da EFICÁCIA do procedimento de auditoria e de sua aplicação pelo auditor. •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Este risco é composto pelo Risco Inerente e Risco de Controle. • •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Risco de Distorção Relevante: Risco de que as DCs contenham DISTORÇÃO RELEVANTE antes da auditoria."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "⚠ Os riscos de distorção relevante no nível da afirmação são avaliados para que se determine a natureza, a época e a extensão dos procedimentos adicionais de auditoria necessários para a obtenção de evidência de auditoria apropriada e suficiente."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "⚠ O risco inerente é MAIS ALTO para algumas afirmações e classes relacionadas de transações, saldos contábeis e divulgações, como para cálculos complexos ou contas compostas de valores derivados de esMmaMvas contábeis sujeitas à incerteza significaSva de esSmaSva."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "⚠ Circunstâncias EXTERNAS que dão origem a riscos de negócios podem influenciar o risco INERENTE."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "⬆ Riscos de distorção relevante ⬇ Risco de detecção (as evidências devem ser mais persuasivas) •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "A avaliação dos riscos é antes uma questão de JULGAMENTO PROFISSIONAL que uma questão passível de mensuração precisa. •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "⚠ A IDENTIFICAÇÃO DOS RISCOS é de responsabilidade da ADMINISTRAÇÃO. •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "💣ATENÇÃO! Pegadinha recorrente: O auditor NÃO pode reduzir o risco de auditoria a zero e, portanto, NÃO pode obter segurança absoluta de que as DCs estão livres de distorção relevante devido a fraude ou erro. Uma auditoria tem limitações inerentes e, como resultado, a maior parte das evidências de auditoria que propiciam ao auditor obter suas conclusões e nas quais baseia a sua opinião são persuasivas ao invés de conclusivas!"
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_8f5292aff1ec81919b837f3f5d8b8112"
+          },
+          {
+            "title": "Riscos de detecção, inerente e de controle",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-user-image-02.jpg",
+                "alt": "Risco de auditoria: detecção, inerente e controle",
+                "caption": "Imagem original · clique para ampliar",
+                "sourceId": "libfile_e4570e2ac9dc8191a27ed64973ae235a"
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Risco",
+                        "Conceito"
+                      ],
+                      [
+                        "Auditoria",
+                        "Emitir opinião inadequada sobre demonstrações com distorção relevante."
+                      ],
+                      [
+                        "Detecção",
+                        "Procedimentos do auditor não detectam distorção relevante existente."
+                      ],
+                      [
+                        "Inerente",
+                        "Suscetibilidade à distorção antes de considerar controles."
+                      ],
+                      [
+                        "Controle",
+                        "Controles da entidade não previnem ou não detectam e corrigem a distorção tempestivamente."
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Riscos inerente e de controle são da entidade; risco de detecção se relaciona aos procedimentos do auditor."
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_e4570e2ac9dc8191a27ed64973ae235a"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "A materialidade .pdf",
+            "libraryFileId": "libfile_b2148898ec6081918e1fc1b15cc76051",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Materialidade e relevância.pdf",
+            "libraryFileId": "libfile_32fb32d2dbe08191a71fec94f37d91e1",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Risco de auditoria.pdf",
+            "libraryFileId": "libfile_8f5292aff1ec81919b837f3f5d8b8112",
+            "pages": [
+              1,
+              2
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "2163538-6c0589c2-1a23-4a3b-a734-35cb3a27e4df.jpg",
+            "libraryFileId": "libfile_e4570e2ac9dc8191a27ed64973ae235a",
+            "pages": [],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-image"
+          }
+        ]
+      },
+      {
+        "id": "aud-b-02",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Testes e Procedimentos em Auditoria",
+        "category": "Auditoria",
+        "summary": "3 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Testes de observância × testes substantivos",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-38-1.webp",
+                "alt": "Procedimentos  — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_bacb223638008191aa2f238a4dac0669",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Teste",
+                        "O que busca"
+                      ],
+                      [
+                        "Observância / controle",
+                        "Funcionamento efetivo dos controles internos."
+                      ],
+                      [
+                        "Substantivo",
+                        "Evidência quanto aos dados e afirmações; inclui testes de detalhes e procedimentos analíticos substantivos."
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_bacb223638008191aa2f238a4dac0669"
+          },
+          {
+            "title": "Controles e testes substantivos na auditoria interna",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-49-1.webp",
+                "alt": "Testes de controle — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_8c9c71fca1d481919b6aece2711c220f",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Procedimentos de Auditoria Interna (Procedimentos-AI)"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "1. Testes de Observância ou controle •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Objetivo: Razoável Segurança (Razoável Seg) / Controle Interno (CI) em funcionamento •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Procedimentos: •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Inspeção: Registros, documentos e ativos tangíveis •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Observação: Acompanhamento de processos e procedimentos (proc e proced) •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Investigação e confirmação • 2. Testes Substantivos (Testes Subst) •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Critérios avaliados: •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Suficiência •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Exatidão •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Validade • Foco: Dados produzidos pelo Sistema de Informação (dados prod pelo SI) •"
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_8c9c71fca1d481919b6aece2711c220f"
+          },
+          {
+            "title": "Procedimentos de auditoria e procedimentos analíticos",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Conferência: procedimentos analíticos são utilizados na avaliação de riscos e são requeridos próximo do final para a conclusão geral. O uso como procedimento substantivo depende da abordagem e da adequação à afirmação; não é obrigatório em todas as fases indistintamente."
+              },
+              {
+                "type": "reference",
+                "text": "NBC TA 315 e NBC TA 520 · referências técnicas",
+                "url": "https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-ta-de-auditoria-independente/"
+              },
+              {
+                "type": "image",
+                "src": "assets/audit-original-39-1.webp",
+                "alt": "Procedimentos de auditoria — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_209b8a51dafc81918f7384a96082c758",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Procedimento",
+                        "Lembrete do mapa"
+                      ],
+                      [
+                        "Inspeção",
+                        "Examinar registros, documentos ou ativos."
+                      ],
+                      [
+                        "Observação",
+                        "Acompanhar a execução de processo ou procedimento."
+                      ],
+                      [
+                        "Confirmação externa",
+                        "Obter resposta direta de terceiro."
+                      ],
+                      [
+                        "Recálculo",
+                        "Verificar a exatidão matemática."
+                      ],
+                      [
+                        "Procedimentos analíticos",
+                        "Analisar relações plausíveis entre dados e investigar variações."
+                      ],
+                      [
+                        "Indagação",
+                        "Buscar informações de pessoas dentro ou fora da entidade."
+                      ],
+                      [
+                        "Reexecução",
+                        "Executar independentemente procedimento ou controle antes realizado pela entidade."
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "REVISÃO ANALÍTICA é ferramenta de PLANEJAMENTO E CONCLUSÃO •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Aplicada antes dos testes nas contas patrimoniais e de resultado •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Deve considerar mudanças contábeis relevantes •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Ajuda a identificar áreas de risco e distorções significativas •"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "NÃO é facultativa nas demais etapas, é contínua e estratégica •"
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_209b8a51dafc81918f7384a96082c758"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Procedimentos .pdf",
+            "libraryFileId": "libfile_bacb223638008191aa2f238a4dac0669",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Testes de controle.pdf",
+            "libraryFileId": "libfile_8c9c71fca1d481919b6aece2711c220f",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Procedimentos de auditoria.pdf",
+            "libraryFileId": "libfile_209b8a51dafc81918f7384a96082c758",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-b-03",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Evidência em Auditoria",
+        "category": "Auditoria",
+        "summary": "4 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Atributos da evidência · independente e interna",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-04-1.webp",
+                "alt": "Atributos das evidências — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_21287043276881918d44654d5dcb8f63",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Contexto",
+                        "Atributo",
+                        "Como lembrar"
+                      ],
+                      [
+                        "NBC TA 500",
+                        "Suficiência",
+                        "Quantidade de evidência."
+                      ],
+                      [
+                        "NBC TA 500",
+                        "Adequação",
+                        "Qualidade: relevância e confiabilidade."
+                      ],
+                      [
+                        "Auditoria interna · NBC TI 01",
+                        "Suficiente",
+                        "Factual e convincente."
+                      ],
+                      [
+                        "Auditoria interna · NBC TI 01",
+                        "Adequada",
+                        "Confiável, propicia a melhor evidência alcançável."
+                      ],
+                      [
+                        "Auditoria interna · NBC TI 01",
+                        "Relevante",
+                        "Apoia conclusões e recomendações."
+                      ],
+                      [
+                        "Auditoria interna · NBC TI 01",
+                        "Útil",
+                        "Ajuda a entidade a atingir suas metas."
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_21287043276881918d44654d5dcb8f63"
+          },
+          {
+            "title": "Informação suficiente, adequada, relevante e útil",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Conferência: informação adequada não é apenas “alcançável”; deve ser confiável e propiciar a melhor evidência alcançável. Suficiente = factual e convincente; relevante = sustenta conclusões/recomendações; útil = ajuda a atingir metas."
+              },
+              {
+                "type": "reference",
+                "text": "NBC TI 01 · item 12.2.3.5",
+                "url": "https://cfc.org.br/wp-content/uploads/2018/04/4_Publicacao_Auditoria_Interna.pdf"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Informação Suficiente = factual e convincente Informação Adequada = Alcançável Informação Relevante = dá suporte às conclusões e às recomendações (do auditor) Informação Útil = auxilia o atingimento de metas (da entidade)"
+              }
+            ],
+            "sourceId": "libfile_f9d7f703d4d88191bf1abe6426b8dd25"
+          },
+          {
+            "title": "Evidências física, documental, testemunhal e analítica",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-51-1.webp",
+                "alt": "Tipos de evidência — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_6b83020263908191921f999a43f024f5",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Tipo de evidência",
+                        "Origem e exemplo do quadro"
+                      ],
+                      [
+                        "Física",
+                        "Observação direta; pode ser registrada em fotos, vídeos, mapas ou documento."
+                      ],
+                      [
+                        "Documental",
+                        "Documentos escritos, eletrônicos ou outros suportes."
+                      ],
+                      [
+                        "Testemunhal",
+                        "Depoimentos e entrevistas; buscar corroboração quando apropriado."
+                      ],
+                      [
+                        "Analítica",
+                        "Análise, comparação, interpretação e processamento de dados."
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "O quadro foi elaborado com base no manual de auditoria operacional do TCU; não confundir essa classificação com os atributos de qualidade da NBC TA 500."
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_6b83020263908191921f999a43f024f5"
+          },
+          {
+            "title": "Características da evidência · SU-VA-CO-RELEVANTE",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-user-image-03.jpg",
+                "alt": "Características da evidência — SU-VA-CO-RELEVANTE",
+                "caption": "Imagem original · clique para ampliar",
+                "sourceId": "libfile_1e7b50a81d148191af6961e709bce87b"
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "SU-VA-CO-RELEVANTE",
+                        "Ideia do esquema"
+                      ],
+                      [
+                        "Suficiência",
+                        "Força da quantidade e da qualidade da evidência para persuadir."
+                      ],
+                      [
+                        "Validade",
+                        "Evidência legítima."
+                      ],
+                      [
+                        "Confiabilidade",
+                        "Consistência dos resultados quando a auditoria é repetida."
+                      ],
+                      [
+                        "Relevância",
+                        "Relação com os objetivos da auditoria."
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Esse esquema de auditoria governamental deve ser lido no seu contexto. Na NBC TA 500, suficiência mede quantidade; adequação mede qualidade, incluindo relevância e confiabilidade."
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_1e7b50a81d148191af6961e709bce87b"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Atributos das evidências.pdf",
+            "libraryFileId": "libfile_21287043276881918d44654d5dcb8f63",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "obtenção de informações.pdf",
+            "libraryFileId": "libfile_f9d7f703d4d88191bf1abe6426b8dd25",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Tipos de evidência.pdf",
+            "libraryFileId": "libfile_6b83020263908191921f999a43f024f5",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "3907173-a6d7b8ad-86cb-447c-ad19-4754bbb672c8.png.jpeg",
+            "libraryFileId": "libfile_1e7b50a81d148191af6961e709bce87b",
+            "pages": [],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-image"
+          }
+        ]
+      },
+      {
+        "id": "aud-b-04",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Fraude e Erro",
+        "category": "Auditoria",
+        "summary": "3 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Triângulo e diamante da fraude",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-12-1.webp",
+                "alt": "Diamante de fraude — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_992eb5c731f88191a01590ea3f1dee2f",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Modelo",
+                        "Elementos"
+                      ],
+                      [
+                        "Triângulo da fraude",
+                        "Incentivos/pressões; oportunidade; atitudes/racionalizações."
+                      ],
+                      [
+                        "Diamante da fraude",
+                        "Acrescenta a capacidade para realizar a fraude."
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Incentivo/pressão: motivação. Oportunidade: circunstâncias para executar. Racionalização: justificativa. Capacidade: habilidades e posição necessárias para viabilizar a ação."
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_992eb5c731f88191a01590ea3f1dee2f"
+          },
+          {
+            "title": "Fatores de risco de fraude · quadro comparativo",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-user-image-01.jpg",
+                "alt": "Fatores de risco de fraude",
+                "caption": "Imagem original · clique para ampliar",
+                "sourceId": "libfile_077142264ee08191b280f5aa3712c83c"
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Fator de risco",
+                        "Informação contábil fraudulenta",
+                        "Apropriação indevida de ativos"
+                      ],
+                      [
+                        "Incentivos / pressões",
+                        "Ameaças à estabilidade financeira ou à lucratividade.",
+                        "Obrigações financeiras pessoais, demissões previstas e relações adversas com empregados que acessam ativos."
+                      ],
+                      [
+                        "Oportunidade",
+                        "Natureza da indústria ou das operações favorece manipulação.",
+                        "Características dos ativos facilitam apropriação; exemplo: ativos pequenos e sem identificação clara."
+                      ],
+                      [
+                        "Atitudes / racionalizações",
+                        "Comunicação e aplicação inadequadas de valores éticos pela administração.",
+                        "Desconsideração da necessidade de monitorar riscos e mudanças de estilo de vida."
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_077142264ee08191b280f5aa3712c83c"
+          },
+          {
+            "title": "Lei de Benford",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Conferência de leitura: a lei de Benford é uma ferramenta para investigar padrões em conjuntos apropriados de dados. Divergência não prova fraude sozinha, e nem todo conjunto aleatório segue essa distribuição."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A Lei de Benford, resumidamente, trata da frequência dos primeiros dígitos de dados aleatórios que não sofreram intervenção humana. Mostrou-se muito útil em auditoria pela sua eficiência em identificar fraudes."
+              }
+            ],
+            "sourceId": "libfile_5e5c3e35a42081918ea3c740c5b34769"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Diamante de fraude.pdf",
+            "libraryFileId": "libfile_992eb5c731f88191a01590ea3f1dee2f",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "693026-f7b75443-2e20-4c28-92b2-30a59e8ac931.jpg",
+            "libraryFileId": "libfile_077142264ee08191b280f5aa3712c83c",
+            "pages": [],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-image"
+          },
+          {
+            "name": "Lei de Benford.pdf",
+            "libraryFileId": "libfile_5e5c3e35a42081918ea3c740c5b34769",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-b-05",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Representações Formais/Carta de Responsabilidade",
+        "category": "Auditoria",
+        "summary": "Assunto cadastrado no índice; aguardando anotações.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Anotações",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Assunto cadastrado na sequência enviada. Aguardando suas anotações; a teoria deste tópico ainda não foi enviada."
+              }
+            ]
+          }
+        ],
+        "sourceDocuments": []
+      },
+      {
+        "id": "aud-c-01",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Amostragem em Auditoria",
+        "category": "Auditoria",
+        "summary": "5 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Amostragem por atributos × unidade monetária",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "s editais mais recentes da área de controle têm delimitado o conteúdo sobre amostragem em auditoria aos métodos por unidades monetárias e por atributos. Por isso, é essencial que você saiba diferenciar claramente essas duas abordagens."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "1. Amostragem por Atributos"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Técnica de amostragem estatística usada para testes de controle. •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Objetivo: Estimar a taxa de ocorrência de desvios/erros em uma população (ex.: número de falhas em lançamentos contábeis). •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Cada item da população é avaliado como conforme ou não conforme (característica de atributo). •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Exemplo: O auditor seleciona 100 notas fiscais para verificar se possuem assinatura de autorização. Se 5 não tiverem, a taxa de desvio é 5%. •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "2. Amostragem por Unidades Monetárias"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Técnica de amostragem estatística usada principalmente em procedimentos substantivos. •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Objetivo: Estimar o valor de distorções monetárias na população. •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A amostra é selecionada com base em valores monetários, ou seja, cada unidade monetária da população tem a mesma chance de ser selecionada. •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Exemplo: Em uma população de R$ 1.000.000, cada real tem igual probabilidade de ser escolhido. Assim, itens de maior valor têm maior chance de compor a amostra, pois concentram mais unidades monetárias."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Aspecto Amostragem por Atributos Amostragem por Unidades Monetárias"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Uso principal Testes de controle Testes substantivos"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Medida avaliada Taxa de desvio (erros/falhas) -> Proporção"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Valor da distorção monetária -> Média por unidade monetária"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Unidade da amostra"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Item da população (conforme/não conforme)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Unidade monetária (R$)"
+              }
+            ],
+            "sourceId": "libfile_88b9a3fae00c8191aac25d6f6cea2a8e"
+          },
+          {
+            "title": "Desvio de controle × distorção na amostra",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-11-1.webp",
+                "alt": "Desvio e destorção — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_7622417867b08191829e7c25bfec0872",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Se não for possível executar o procedimento ou alternativa adequada no item selecionado",
+                        "Tratamento"
+                      ],
+                      [
+                        "Teste de controle",
+                        "Considerar desvio do controle previsto."
+                      ],
+                      [
+                        "Teste de detalhes",
+                        "Considerar distorção."
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "O lembrete refere-se à seleção de amostra da NBC TA 530, item 11. Não confundir desvio de controle com valor de distorção monetária."
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_7622417867b08191829e7c25bfec0872"
+          },
+          {
+            "title": "Técnicas de amostragem",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-46-1.webp",
+                "alt": "Técnicas de amostragem — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_ff71ce533e3081918801586d82b4f77a",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Técnica",
+                        "Lembrete do material"
+                      ],
+                      [
+                        "Aleatória simples",
+                        "Cada unidade tem chance de seleção; pode usar sorteio ou números aleatórios."
+                      ],
+                      [
+                        "Sistemática",
+                        "Seleciona a cada intervalo, com ponto inicial adequado."
+                      ],
+                      [
+                        "Estratificada",
+                        "Divide a população em estratos e seleciona em cada estrato."
+                      ],
+                      [
+                        "Conglomerados",
+                        "Seleciona grupos e examina seus elementos, conforme o desenho."
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "\"Ao usar método de amostragem, estatística ou não, deve ser projetada e selecionada uma amostra que possa proporcionar evidência de auditoria suficiente e apropriada.\""
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_ff71ce533e3081918801586d82b4f77a"
+          },
+          {
+            "title": "Métodos de seleção de amostras",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-24-1.webp",
+                "alt": "Métodos de seleção — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_d087ec932d3481918d5cf2c4736a3f33",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Método",
+                        "Lembrete"
+                      ],
+                      [
+                        "Seleção aleatória",
+                        "Uso de números aleatórios."
+                      ],
+                      [
+                        "Seleção sistemática",
+                        "Intervalo de seleção a partir de ponto inicial."
+                      ],
+                      [
+                        "Unidade monetária",
+                        "Seleção ponderada pelo valor; a unidade de amostragem é monetária."
+                      ],
+                      [
+                        "Seleção ao acaso",
+                        "Sem técnica estruturada, evitando viés consciente; não equivale a seleção aleatória estatística."
+                      ],
+                      [
+                        "Seleção em bloco",
+                        "Itens contíguos; geralmente inadequada para representar toda a população em amostragem."
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_d087ec932d3481918d5cf2c4736a3f33"
+          },
+          {
+            "title": "Seleção de itens e amostragem · classificação",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-50-1.webp",
+                "alt": "Tipos de auditoria — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_50e7dbd92bb88191b82e374dc883de0a",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Apesar do nome “Tipos de auditoria”, este PDF mostra seleção de itens e amostragem."
+                  },
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Seleção de itens",
+                        "Desdobramentos do mapa"
+                      ],
+                      [
+                        "Todos os itens",
+                        "Exame integral / censo."
+                      ],
+                      [
+                        "Itens específicos",
+                        "Escolha dirigida de itens; não se confunde com amostragem representativa da população."
+                      ],
+                      [
+                        "Amostragem não estatística",
+                        "Seleção ao acaso ou em bloco, conforme o mapa."
+                      ],
+                      [
+                        "Amostragem estatística",
+                        "Seleção aleatória, sistemática ou por unidade monetária, com uso da teoria das probabilidades na avaliação."
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_50e7dbd92bb88191b82e374dc883de0a"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Am. Atributo e U monetária.pdf",
+            "libraryFileId": "libfile_88b9a3fae00c8191aac25d6f6cea2a8e",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Desvio e destorção.pdf",
+            "libraryFileId": "libfile_7622417867b08191829e7c25bfec0872",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Técnicas de amostragem.pdf",
+            "libraryFileId": "libfile_ff71ce533e3081918801586d82b4f77a",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Métodos de seleção.pdf",
+            "libraryFileId": "libfile_d087ec932d3481918d5cf2c4736a3f33",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Tipos de auditoria.pdf",
+            "libraryFileId": "libfile_50e7dbd92bb88191b82e374dc883de0a",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-c-02",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Opinião do Auditor Independente/Relatórios e Pareceres de Auditoria",
+        "category": "Auditoria",
+        "summary": "2 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Objetivos gerais e tipos de opinião",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-28-1.webp",
+                "alt": "Opinião do auditor e objetivos gerais — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_4bca1daba8ec81919d856fb0b3d80e0a",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Objetivos gerais: obter segurança razoável sobre ausência de distorção relevante, formar uma opinião e comunicar de acordo com as normas."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Não é objetivo assegurar a viabilidade futura, atestar a eficiência da gestão, elaborar as demonstrações ou garantir a prevenção de toda fraude/erro."
+                  },
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Opinião",
+                        "Lembrete"
+                      ],
+                      [
+                        "Não modificada / sem ressalva",
+                        "Demonstrações adequadas nos aspectos relevantes."
+                      ],
+                      [
+                        "Com ressalva",
+                        "Distorção relevante não generalizada, ou impossibilidade de obter evidência com possíveis efeitos relevantes não generalizados."
+                      ],
+                      [
+                        "Adversa",
+                        "Distorções relevantes e generalizadas, com evidência obtida."
+                      ],
+                      [
+                        "Abstenção",
+                        "Não se obtém evidência suficiente e os possíveis efeitos podem ser relevantes e generalizados."
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_4bca1daba8ec81919d856fb0b3d80e0a"
+          },
+          {
+            "title": "Ênfase × outros assuntos",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Conferência: o parágrafo de ênfase não modifica a opinião, mas não é exclusivo de relatório “limpo”. A NBC TA 706, Apêndice 4, exemplifica opinião com ressalva e ênfase sobre outro assunto. Ênfase não substitui a modificação exigida para o assunto que a motivaria."
+              },
+              {
+                "type": "reference",
+                "text": "NBC TA 706 · requisitos e exemplo do Apêndice 4",
+                "url": "https://cfc.org.br/wp-content/uploads/2026/06/NBC-TA-706.pdf"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Parágrafo de ênfase é pra relatório limpo (Opinião não modificada / sem ressalva), Parágrafo de ênfase é pra assunto já divulgado (não é pra assunto novo não)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O assunto já está na nota explicativa, mas o auditor quer destacar, porque é crítico para a compreensão, sem alterar a opinião."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Outros assuntos = assunto não apresentado nem divulgado nas demonstrações."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Além disso, o parágrafo de ênfase não modifica a opinião do auditor."
+              }
+            ],
+            "sourceId": "libfile_c85720b0b800819186e5366c079fb16f"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Opinião do auditor e objetivos gerais.pdf",
+            "libraryFileId": "libfile_4bca1daba8ec81919d856fb0b3d80e0a",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Parágrafos de ênfase.pdf",
+            "libraryFileId": "libfile_c85720b0b800819186e5366c079fb16f",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-c-03",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Testes em Áreas Específicas das Demonstrações Contábeis",
+        "category": "Auditoria",
+        "summary": "2 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Conciliação bancária · cheque em trânsito",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-08-1.webp",
+                "alt": "Conciliação bancária — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_f5748df45be481918b1ef419c3d1a621",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Cheque em trânsito: cheque emitido pela empresa e ainda não compensado pelo banco. O extrato ainda não registra a saída que já foi contabilizada."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Na conciliação, o cheque pendente deve reduzir o saldo do extrato para chegar ao saldo ajustado; não deve ser lançado como uma nova saída na contabilidade se já foi registrado."
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_f5748df45be481918b1ef419c3d1a621"
+          },
+          {
+            "title": "Teste principal × teste secundário",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "TESTE PRINCIPAL (PRIMÁRIO)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "De superavaliação => É aplicado em contas devedoras (ativos e despesas) •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "De subavaliação => É aplicado em contas credoras (passivos e receitas) •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "TESTE SECUNDÁRIO"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "De superavaliação => É aplicado em contas credoras (passivos e receitas) •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "De subavaliação => É aplicado em contas devedoras (ativos e despesas) •"
+              }
+            ],
+            "sourceId": "libfile_24da69bdb800819183cf147d0caf2671"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Conciliação bancária.pdf",
+            "libraryFileId": "libfile_f5748df45be481918b1ef419c3d1a621",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Teste principal e secundário.pdf",
+            "libraryFileId": "libfile_24da69bdb800819183cf147d0caf2671",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-c-04",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Transações com Partes Relacionadas",
+        "category": "Auditoria",
+        "summary": "1 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Partes relacionadas não identificadas anteriormente",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Segundo as diretrizes técnicas (NBC TA 550), quando o auditor se depara com a situação descrita no enunciado (a descoberta de partes ou transações que estavam \"escondidas\" pelo gestor), é estabelecida uma sequência rígida de obrigações ao profissional:"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "1. Comunicar prontamente as informações relevantes aos outros membros da equipe de trabalho (para que eles também reavaliem os riscos em suas áreas). 2. Solicitar à administração que identifique todas as transações com as partes recém-identificadas. 3. Indagar o motivo de os controles internos terem falhado ao ponto de não identificarem as transações tempestivamente. 4. Executar procedimentos substantivos em relação a essas partes e operações recém-descobertas. 5. Reconsiderar o risco de que existam ainda outras omissões e aplicar os testes adicionais necessários. 6. Avaliar as implicações do fato para a auditoria se a não divulgação parecer um ato intencional da diretoria."
+              }
+            ],
+            "sourceId": "libfile_314e7686bbb881918504d8221cbbd689"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Partes Relacionadas .pdf",
+            "libraryFileId": "libfile_314e7686bbb881918504d8221cbbd689",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-c-05",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Transações e Eventos Subsequentes",
+        "category": "Auditoria",
+        "summary": "1 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Eventos subsequentes e datas relevantes",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-53-1.webp",
+                "alt": "transações subsequentes — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_59075ac0b8048191929d543da357ae5b",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "O item 6 da supracitada norma menciona a data limite para que o auditor  deva executar procedimentos de auditoria desenhados para obter evidência de auditoria apropriada e suficiente sobre os eventos que afetaram as demonstrações contábeis. Veja:"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Eventos ocorridos entre a data das demonstrações contábeis e a data do relatório do auditor independente"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "6. O auditor independente deve executar procedimentos de auditoria desenhados para obter evidência de auditoria apropriada e suficiente de que todos os eventos ocorridos entre a data das demonstrações contábeis e a data do relatório do auditor independente que precisam ser ajustados ou divulgados nas demonstrações contábeis foram identificados. Não se espera, contudo, que o auditor execute procedimentos adicionais de auditoria para assuntos para os quais os procedimentos de auditoria anteriormente aplicados forneceram conclusões satisfatórias (ver item A6)."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "10. O auditor independente não tem obrigação de executar nenhum procedimento de auditoria em relação às demonstrações contábeis após a data do seu relatório. Entretanto, se, após a data do seu relatório, mas antes da data de divulgação das demonstrações contábeis, o auditor tomar conhecimento de fato que, se fosse do seu conhecimento na data do relatório, poderia ter levado o auditor a alterar seu relatório, ele deve (ver item A12):"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "(a) discutir o assunto com a administração e, quando apropriado, com os responsáveis pela governança;"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "(b) determinar se as demonstrações contábeis precisam ser alteradas e, caso afirmativo;"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "(c) indagar como a administração pretende tratar o assunto nas demonstrações contábeis."
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "11. Caso a administração altere as demonstrações contábeis, o auditor independente deve:"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "(a) aplicar os procedimentos de auditoria necessários nas circunstâncias da alteração;"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "(b) exceto se as circunstâncias no item12 forem aplicáveis:"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "(i) estender os procedimentos de auditoria mencionados nos itens 6 e 7 até a data do novo relatório do auditor independente; e"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "(ii) fornecer novo relatório de auditoria sobre as demonstrações contábeis alteradas. O novo relatório do auditor independente não deve ter data anterior à data de aprovação das demonstrações contábeis alteradas."
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_59075ac0b8048191929d543da357ae5b"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "transações subsequentes.pdf",
+            "libraryFileId": "libfile_59075ac0b8048191929d543da357ae5b",
+            "pages": [
+              1,
+              2
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-d-01",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Auditoria Fiscal",
+        "category": "Auditoria",
+        "summary": "3 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "ECD · livros digitais",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A Escrituração Contábil Digital (ECD) é parte integrante do projeto SPED e tem por objetivo a substituição da escrituração em papel pela escrituração transmitida via arquivo, ou seja, corresponde à obrigação de transmitir, em versão digital, os seguintes livros:"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "I - Livro Diário e seus auxiliares, se houver;"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "II - Livro Razão e seus auxiliares, se houver;"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "III - Livro Balancetes Diários, Balanços e fichas de lançamento comprobatórias dos assentamentos neles transcritos."
+              }
+            ],
+            "sourceId": "libfile_fa35f0a559008191895238436c4e3f30"
+          },
+          {
+            "title": "EFD ICMS/IPI × NF-e · estruturas distintas",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Para não confundir: os registros 0000/9999 e blocos 0/B/C/D/E/G/H/K/1/9 são da EFD ICMS/IPI. A NF-e é um documento em XML. Este arquivo reúne referências às duas estruturas, que foram mantidas distintas."
+              },
+              {
+                "type": "reference",
+                "text": "Receita Federal · Guia Prático EFD ICMS/IPI",
+                "url": "https://sped.rfb.gov.br/item/show/1573"
+              },
+              {
+                "type": "image",
+                "src": "assets/audit-original-18-1.webp",
+                "alt": "Informações NF — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_b69a5419f12c819193669093c7695d50",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Registro 0000 - abertura do arquivo"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Bloco 0 - Identificação e referências (registros de tabelas)"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Blocos B, C, D, E, G, H, K - Informações fiscais (dados)"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Bloco 1 - Outras Informações (dados)"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Bloco 9 - Controle e encerramento do arquivo (dados)"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Registro 9999 - encerramento do arquivo"
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "Início da NF"
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_b69a5419f12c819193669093c7695d50"
+          },
+          {
+            "title": "NF-e · mapa da estrutura XML",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-41-1.webp",
+                "alt": "Resumo NF — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_259d414d643481918162006a7996cf66",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "NF-e: documento eletrônico em XML, modelo 55, com assinatura digital e autorização de uso. O esquema separa abertura, identificação, logística, produtos, tributação e totais."
+                  },
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Grupos destacados",
+                        "Conteúdo no quadro"
+                      ],
+                      [
+                        "A",
+                        "Abertura / infNFe."
+                      ],
+                      [
+                        "B, C, D, E",
+                        "Identificação, emitente, destinatário e informações correlatas."
+                      ],
+                      [
+                        "F, G",
+                        "Local de retirada e entrega."
+                      ],
+                      [
+                        "H, I",
+                        "Detalhamento e dados de produtos."
+                      ],
+                      [
+                        "M, N, U",
+                        "Informações de impostos."
+                      ],
+                      [
+                        "W",
+                        "Totais."
+                      ]
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "style": "NORMAL_TEXT",
+                    "text": "O quadro também reúne emissão, credenciamento, assinatura, autorização e os componentes da chave de acesso. Essas informações pertencem à NF-e; os registros 0000/9999 e blocos numéricos em outra anotação pertencem à EFD."
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_259d414d643481918162006a7996cf66"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Doc obrigatórios.pdf",
+            "libraryFileId": "libfile_fa35f0a559008191895238436c4e3f30",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Informações NF.pdf",
+            "libraryFileId": "libfile_b69a5419f12c819193669093c7695d50",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Resumo NF.pdf",
+            "libraryFileId": "libfile_259d414d643481918162006a7996cf66",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-d-02",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Perícia Contábil",
+        "category": "Auditoria",
+        "summary": "1 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Procedimentos periciais contábeis",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-34-1.webp",
+                "alt": "Perícias contábeis — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_0879ab3686548191ba753ae07ccc6806",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Procedimento pericial",
+                        "Ideia no quadro"
+                      ],
+                      [
+                        "Exame",
+                        "Análise de livros, registros de transações e documentos."
+                      ],
+                      [
+                        "Vistoria",
+                        "Verificação circunstancial de situação, coisa ou fato."
+                      ],
+                      [
+                        "Indagação",
+                        "Busca de informações por entrevistas com conhecedores do objeto."
+                      ],
+                      [
+                        "Investigação",
+                        "Pesquisa do que está oculto nas circunstâncias."
+                      ],
+                      [
+                        "Arbitramento",
+                        "Determinação de valores, quantidades ou solução de controvérsia por critério técnico-científico."
+                      ],
+                      [
+                        "Mensuração",
+                        "Qualificação e quantificação física de coisas, bens, direitos e obrigações."
+                      ],
+                      [
+                        "Avaliação",
+                        "Estabelecimento de valores."
+                      ],
+                      [
+                        "Certificação",
+                        "Atestar informação obtida na formação da prova pericial."
+                      ],
+                      [
+                        "Testabilidade",
+                        "Verificar os elementos probantes e confrontá-los com as premissas."
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_0879ab3686548191ba753ae07ccc6806"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Perícias contábeis.pdf",
+            "libraryFileId": "libfile_0879ab3686548191ba753ae07ccc6806",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-d-03",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Controle Interno da Entidade Auditada",
+        "category": "Auditoria",
+        "summary": "1 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Comunicação de deficiências de controle interno",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Conferência: deficiências significativas devem ser comunicadas por escrito à governança e, no nível adequado, à administração, salvo circunstâncias que tornem isso inapropriado. Outras deficiências que mereçam atenção da administração também são comunicadas; não é uma divisão exclusiva entre destinatários."
+              },
+              {
+                "type": "reference",
+                "text": "NBC TA 265 · comunicação de deficiências",
+                "url": "https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-ta-de-auditoria-independente/"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Deficiências Significa-vas: Impacto relevante ➡ Governança ➡ Comunicação formal. ✅ Deficiências Não Significa-vas: Impacto menor ➡ Administração ➡ Comunicação informal."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Deficiências significativas de controle interno:"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Aquela que o auditor, por meio do seu julgamento profissional, acredita que merece atenção da governança; •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Considera a probabilidade e a magnitude da distorção; •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Auditor deve comunicar tempestivamente e por escrito essas distorções (comunicação formal); •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Essa comunicação faz parte dos papeis de trabalho. •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Deficiências não significativas no controle interno:"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "São deficiências que merecem atenção da administração; •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Essas não precisam ser comunicadas por escrito; •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Podem ser comunicadas verbalmente (comunicação informal). •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Deficiência de controle interno e distorção nas demonstrações são conceitos relacionados, mas não sinônimos."
+              }
+            ],
+            "sourceId": "libfile_9f21813fccd08191ba0e2ca749a4bb2d"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Deficiências Significativas Impacto relevante ➡️ Governança ➡️ Comunicação formal. ✅.pdf",
+            "libraryFileId": "libfile_9f21813fccd08191ba0e2ca749a4bb2d",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-d-04",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Contingências e Estimativas Contábeis",
+        "category": "Auditoria",
+        "summary": "2 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Conceitos de estimativas contábeis",
+            "blocks": [
+              {
+                "type": "image",
+                "src": "assets/audit-original-14-1.webp",
+                "alt": "Estimativas contábeis — página 1",
+                "caption": "Quadro original · clique para ampliar",
+                "sourceId": "libfile_26bfabe5cb7c8191af52da9554a546f9",
+                "sourcePage": 1
+              },
+              {
+                "type": "transcript",
+                "blocks": [
+                  {
+                    "type": "table",
+                    "rows": [
+                      [
+                        "Termo",
+                        "Ideia",
+                        "Exemplo do quadro"
+                      ],
+                      [
+                        "Estimativa contábil",
+                        "Valor sujeito a incerteza de mensuração.",
+                        "A empresa calcula perda de R$ 100 mil com inadimplência."
+                      ],
+                      [
+                        "Incerteza da estimativa",
+                        "Variabilidade possível do resultado.",
+                        "A perda pode ser maior ou menor que R$ 100 mil."
+                      ],
+                      [
+                        "Estimativa pontual da administração",
+                        "Valor específico escolhido para registro.",
+                        "Administração reconhece R$ 100 mil de perda."
+                      ],
+                      [
+                        "Intervalo do auditor",
+                        "Faixa de valores usados na avaliação da estimativa.",
+                        "Auditor trabalha com a faixa entre R$ 80 mil e R$ 120 mil."
+                      ],
+                      [
+                        "Tendenciosidade da administração",
+                        "Falta de neutralidade.",
+                        "A gestão reconhece apenas R$ 50 mil de perda para aumentar o lucro."
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ],
+            "sourceId": "libfile_26bfabe5cb7c8191af52da9554a546f9"
+          },
+          {
+            "title": "Teste de provisões · movimentação do saldo",
+            "blocks": [
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Movimentação das provisões",
+                    "Itens das suas anotações"
+                  ],
+                  [
+                    "Saldo inicial",
+                    "Ponto de partida."
+                  ],
+                  [
+                    "Pagamentos",
+                    "Utilização da provisão."
+                  ],
+                  [
+                    "Provisões constituídas",
+                    "Reconhecimento de novas provisões."
+                  ],
+                  [
+                    "Saldo final",
+                    "Saldo após as movimentações."
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Provisões"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "1) saldo INÍCIO"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "2) pagamentos"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "3) provisões constituídas"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "4) saldo FIM"
+              }
+            ],
+            "sourceId": "libfile_55aaec1fe40081919762ea43ed47d66c"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Estimativas contábeis.pdf",
+            "libraryFileId": "libfile_26bfabe5cb7c8191af52da9554a546f9",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          },
+          {
+            "name": "Teste de provisão.pdf",
+            "libraryFileId": "libfile_55aaec1fe40081919762ea43ed47d66c",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-d-05",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Continuidade Normal das Atividades da Entidade",
+        "category": "Auditoria",
+        "summary": "1 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Continuidade operacional e efeitos no relatório",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Conferência: base de continuidade inadequada leva à opinião adversa. Com base adequada e incerteza relevante divulgada adequadamente, a opinião é não modificada, com seção específica sobre a incerteza — não se resume a parágrafo de ênfase. Divulgação inadequada pode levar a ressalva ou opinião adversa."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Corte normativo: as revisões NBC TA 240 (R2) e 570 (R1) foram publicadas em 25/09/2026, com aplicação a períodos iniciados em ou após 01/01/2027. Confira a redação e o período exigidos pela prova."
+              },
+              {
+                "type": "reference",
+                "text": "CFC · atualização e aplicação das normas de fraude e continuidade",
+                "url": "https://cfc.org.br/noticias/cfc-atualiza-normas-de-auditoria-sobre-fraudes-e-continuidade-operacional/"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Não é Ressalva: A ressalva serve para erros pontuais (materiais, mas não generalizados). Usar a base errada \"contamina\" o balanço inteiro. •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Não é Abstenção: A abstenção ocorre quando o auditor não consegue evidências (ex: pegou fogo nos documentos). No caso da continuidade, o auditor tem a evidência de que a empresa vai mal; logo, ele deve afirmar que está errado (opinião adversa)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Base para continuidade operacional é inapropriada -> OPINIÃO ADVERSA"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Base para continuidade operacional é adequada, mas existe incerteza relevante -> OPINIÃO SEM RESSALVA + PARÁGRAFO DE ÊNFASE"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Não é feita divulgação adequada da incerteza -> OPINIÃO ADVERSA ou COM RESSALVA, conforme o caso."
+              }
+            ],
+            "sourceId": "libfile_74b73b6068a88191b8874e2534ef6cba"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "Opinião.pdf",
+            "libraryFileId": "libfile_74b73b6068a88191b8874e2534ef6cba",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
+      },
+      {
+        "id": "aud-d-06",
+        "modifiedAt": "2026-10-25T15:54:28.589279+00:00",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Utilização do Trabalho de Outros Profissionais",
+        "category": "Auditoria",
+        "summary": "1 anotação(ões) do usuário agrupadas neste assunto.",
+        "source": "Blocos.pdf e anotações enviados pelo usuário em 25/10/2026. Conteúdo agrupado sem duplicação; quadros preservados e transcrição editável. Conferências pontuais indicadas junto ao material, sem revisão normativa integral.",
+        "contentSections": [
+          {
+            "title": "Uso do trabalho da auditoria interna pelo auditor independente",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A NBC TA 610 estabelece situações em que o auditor independente deve reduzir o uso do trabalho da auditoria interna e executar diretamente a maior parte dos procedimentos, justamente para evitar uso indevido."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Essas situações são bem clássicas:"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "atividades com alto julgamento profissional (A) •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "áreas com maior risco de distorção relevante (B) •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "problemas de objetividade da auditoria interna (C) •"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "baixa competência da auditoria interna (E) •"
+              }
+            ],
+            "sourceId": "libfile_8cc163b6c77c8191b7c8ebba96fd384c"
+          }
+        ],
+        "sourceDocuments": [
+          {
+            "name": "auditor independente-aud interna.pdf",
+            "libraryFileId": "libfile_8cc163b6c77c8191b7c8ebba96fd384c",
+            "pages": [
+              1
+            ],
+            "receivedAt": "2026-10-25",
+            "subject": "Auditoria",
+            "type": "user-pdf"
+          }
+        ]
       }
     ],
     "findings": [],
@@ -19270,6 +22773,185 @@
           ]
         }
       ]
+    },
+    "Auditoria": {
+      "coverage": "complete",
+      "source": "Índice completo de Blocos.pdf. Os blocos A a D indicam sequência, sem agrupamento visual adicional. Anotações reunidas por assunto pelo conteúdo efetivo.",
+      "rootFolderId": "1ABCjGsKnJNzkNXxItsmyROlkCrq8BpKi",
+      "nodes": [
+        {
+          "id": "aud-a-01",
+          "title": "Normas Profissionais do Auditor Independente",
+          "fileIds": [
+            "aud-a-01"
+          ]
+        },
+        {
+          "id": "aud-a-02",
+          "title": "Auditoria Interna",
+          "fileIds": [
+            "aud-a-02"
+          ]
+        },
+        {
+          "id": "aud-a-03",
+          "title": "Planejamento de Auditoria Independente",
+          "fileIds": [
+            "aud-a-03"
+          ]
+        },
+        {
+          "id": "aud-a-04",
+          "title": "Documentação de Auditoria/Papéis de Trabalho",
+          "fileIds": [
+            "aud-a-04"
+          ]
+        },
+        {
+          "id": "aud-b-01",
+          "title": "Materialidade, Relevância e Risco em Auditoria Independente",
+          "fileIds": [
+            "aud-b-01"
+          ]
+        },
+        {
+          "id": "aud-b-02",
+          "title": "Testes e Procedimentos em Auditoria",
+          "fileIds": [
+            "aud-b-02"
+          ]
+        },
+        {
+          "id": "aud-b-03",
+          "title": "Evidência em Auditoria",
+          "fileIds": [
+            "aud-b-03"
+          ]
+        },
+        {
+          "id": "aud-b-04",
+          "title": "Fraude e Erro",
+          "fileIds": [
+            "aud-b-04"
+          ]
+        },
+        {
+          "id": "aud-b-05",
+          "title": "Representações Formais/Carta de Responsabilidade",
+          "fileIds": [
+            "aud-b-05"
+          ]
+        },
+        {
+          "id": "aud-c-01",
+          "title": "Amostragem em Auditoria",
+          "fileIds": [
+            "aud-c-01"
+          ]
+        },
+        {
+          "id": "aud-c-02",
+          "title": "Opinião do Auditor Independente/Relatórios e Pareceres de Auditoria",
+          "fileIds": [
+            "aud-c-02"
+          ]
+        },
+        {
+          "id": "aud-c-03",
+          "title": "Testes em Áreas Específicas das Demonstrações Contábeis",
+          "fileIds": [
+            "aud-c-03"
+          ]
+        },
+        {
+          "id": "aud-c-04",
+          "title": "Transações com Partes Relacionadas",
+          "fileIds": [
+            "aud-c-04"
+          ]
+        },
+        {
+          "id": "aud-c-05",
+          "title": "Transações e Eventos Subsequentes",
+          "fileIds": [
+            "aud-c-05"
+          ]
+        },
+        {
+          "id": "aud-d-01",
+          "title": "Auditoria Fiscal",
+          "fileIds": [
+            "aud-d-01"
+          ]
+        },
+        {
+          "id": "aud-d-02",
+          "title": "Perícia Contábil",
+          "fileIds": [
+            "aud-d-02"
+          ]
+        },
+        {
+          "id": "aud-d-03",
+          "title": "Controle Interno da Entidade Auditada",
+          "fileIds": [
+            "aud-d-03"
+          ]
+        },
+        {
+          "id": "aud-d-04",
+          "title": "Contingências e Estimativas Contábeis",
+          "fileIds": [
+            "aud-d-04"
+          ]
+        },
+        {
+          "id": "aud-d-05",
+          "title": "Continuidade Normal das Atividades da Entidade",
+          "fileIds": [
+            "aud-d-05"
+          ]
+        },
+        {
+          "id": "aud-d-06",
+          "title": "Utilização do Trabalho de Outros Profissionais",
+          "fileIds": [
+            "aud-d-06"
+          ]
+        }
+      ],
+      "sourceDocuments": [
+        {
+          "name": "Blocos.pdf",
+          "libraryFileId": "libfile_1273ae1f6ca88191be63f87af9f6bcb6",
+          "pages": [
+            1
+          ],
+          "receivedAt": "2026-10-25",
+          "subject": "Auditoria",
+          "type": "user-pdf"
+        }
+      ],
+      "importNotes": [
+        {
+          "libraryFileId": "libfile_d7ad19996f088191b90ea070bc5df0cd",
+          "name": "Página Sem Título(2).pdf",
+          "status": "empty-content",
+          "message": "PDF com data/cabeçalho, sem conteúdo de estudo legível."
+        },
+        {
+          "libraryFileId": "libfile_7049faa4c63c8191aa8b369a3c59fdeb",
+          "name": "papéis de trabalho.pdf",
+          "status": "missing-images",
+          "message": "Há espaço de imagem ausente no original; conteúdo legível incorporado."
+        },
+        {
+          "libraryFileId": "libfile_59075ac0b8048191929d543da357ae5b",
+          "name": "transações subsequentes.pdf",
+          "status": "missing-images",
+          "message": "Há espaço de imagem ausente na segunda página; texto e diagramas legíveis incorporados."
+        }
+      ]
     }
   },
   "subjectResources": [
@@ -19797,6 +23479,574 @@
       "receivedAt": "2026-10-25",
       "subject": "Ciência de Dados",
       "type": "user-pdf"
+    },
+    {
+      "name": "A materialidade .pdf",
+      "libraryFileId": "libfile_b2148898ec6081918e1fc1b15cc76051",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Am. Atributo e U monetária.pdf",
+      "libraryFileId": "libfile_88b9a3fae00c8191aac25d6f6cea2a8e",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Ameaça a independência .pdf",
+      "libraryFileId": "libfile_cd4fcc76f8dc8191a10e2ad9a00f38c8",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Atributos das evidências.pdf",
+      "libraryFileId": "libfile_21287043276881918d44654d5dcb8f63",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Aud interna.pdf",
+      "libraryFileId": "libfile_d4c26679d8308191918be4d3a4c96580",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "auditor independente-aud interna.pdf",
+      "libraryFileId": "libfile_8cc163b6c77c8191b7c8ebba96fd384c",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Blocos.pdf",
+      "libraryFileId": "libfile_1273ae1f6ca88191be63f87af9f6bcb6",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Conciliação bancária.pdf",
+      "libraryFileId": "libfile_f5748df45be481918b1ef419c3d1a621",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Conflito de relatório.pdf",
+      "libraryFileId": "libfile_719b7ee0dea48191a3a20b760ce2916f",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Deficiências Significativas Impacto relevante ➡️ Governança ➡️ Comunicação formal. ✅.pdf",
+      "libraryFileId": "libfile_9f21813fccd08191ba0e2ca749a4bb2d",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Desvio e destorção.pdf",
+      "libraryFileId": "libfile_7622417867b08191829e7c25bfec0872",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Diamante de fraude.pdf",
+      "libraryFileId": "libfile_992eb5c731f88191a01590ea3f1dee2f",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Doc obrigatórios.pdf",
+      "libraryFileId": "libfile_fa35f0a559008191895238436c4e3f30",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Estimativas contábeis.pdf",
+      "libraryFileId": "libfile_26bfabe5cb7c8191af52da9554a546f9",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Ética profissional.pdf",
+      "libraryFileId": "libfile_697413fcddcc8191b0efe3a699b0bb05",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Falta doc.pdf",
+      "libraryFileId": "libfile_f354fd6d7408819198aeb164051b14b3",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Forma, conteúdo, extensão da documentação.pdf",
+      "libraryFileId": "libfile_6316324f6bc481918b261a03870d43e5",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Informações NF.pdf",
+      "libraryFileId": "libfile_b69a5419f12c819193669093c7695d50",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "interna.pdf",
+      "libraryFileId": "libfile_e2cee580a43c8191a4be49e7bb856308",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "irregularidade.pdf",
+      "libraryFileId": "libfile_a2ee08c526c8819191a078b7d0b8567c",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Lei de Benford.pdf",
+      "libraryFileId": "libfile_5e5c3e35a42081918ea3c740c5b34769",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Limitada e razoável.pdf",
+      "libraryFileId": "libfile_543204c0ad28819187155111cc72323a",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Materialidade e relevância.pdf",
+      "libraryFileId": "libfile_32fb32d2dbe08191a71fec94f37d91e1",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Métodos de seleção.pdf",
+      "libraryFileId": "libfile_d087ec932d3481918d5cf2c4736a3f33",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "NBC.pdf",
+      "libraryFileId": "libfile_aa871f0b8b048191bcfbed7be7ab17c7",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Objetivo e finalidade.pdf",
+      "libraryFileId": "libfile_ac1110a35eac8191afd01c56b46c9119",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "obtenção de informações.pdf",
+      "libraryFileId": "libfile_f9d7f703d4d88191bf1abe6426b8dd25",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Opinião do auditor e objetivos gerais.pdf",
+      "libraryFileId": "libfile_4bca1daba8ec81919d856fb0b3d80e0a",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Opinião.pdf",
+      "libraryFileId": "libfile_74b73b6068a88191b8874e2534ef6cba",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Página Sem Título(2).pdf",
+      "libraryFileId": "libfile_d7ad19996f088191b90ea070bc5df0cd",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "papéis de trabalho.pdf",
+      "libraryFileId": "libfile_7049faa4c63c8191aa8b369a3c59fdeb",
+      "pages": [
+        1,
+        2
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Parágrafos de ênfase.pdf",
+      "libraryFileId": "libfile_c85720b0b800819186e5366c079fb16f",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Partes Relacionadas .pdf",
+      "libraryFileId": "libfile_314e7686bbb881918504d8221cbbd689",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Perícias contábeis.pdf",
+      "libraryFileId": "libfile_0879ab3686548191ba753ae07ccc6806",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Planejamento aud.pdf",
+      "libraryFileId": "libfile_22db12a660c48191a5532614aa89218b",
+      "pages": [
+        1,
+        2
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Planejamento auditoria.pdf",
+      "libraryFileId": "libfile_93eadc5c3c208191a4704618e8bfbbfb",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "pricípios .pdf",
+      "libraryFileId": "libfile_81349b14da408191afdb0bf8eca94426",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Procedimentos .pdf",
+      "libraryFileId": "libfile_bacb223638008191aa2f238a4dac0669",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Procedimentos de auditoria.pdf",
+      "libraryFileId": "libfile_209b8a51dafc81918f7384a96082c758",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "RE QUISI TOS P ARA O EX ERCÍ CIO DA AU DITORIA (PRIN CÍ PIOS ÉTI COS ).pdf",
+      "libraryFileId": "libfile_48e29a5cf1788191a99eeabe93fce430",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Resumo NF.pdf",
+      "libraryFileId": "libfile_259d414d643481918162006a7996cf66",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Retenção documentação.pdf",
+      "libraryFileId": "libfile_8c22b8a72c448191889afbe73be700d6",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Risco de auditoria.pdf",
+      "libraryFileId": "libfile_8f5292aff1ec81919b837f3f5d8b8112",
+      "pages": [
+        1,
+        2
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Riscos da Auditoria Interna.pdf",
+      "libraryFileId": "libfile_c13a75167c488191b4ab84395b215eb3",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Subordinação auditoria interna.pdf",
+      "libraryFileId": "libfile_7a9175858ff48191b6585d7f707b72ce",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Técnicas de amostragem.pdf",
+      "libraryFileId": "libfile_ff71ce533e3081918801586d82b4f77a",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Teste de provisão.pdf",
+      "libraryFileId": "libfile_55aaec1fe40081919762ea43ed47d66c",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Teste principal e secundário.pdf",
+      "libraryFileId": "libfile_24da69bdb800819183cf147d0caf2671",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Testes de controle.pdf",
+      "libraryFileId": "libfile_8c9c71fca1d481919b6aece2711c220f",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Tipos de auditoria.pdf",
+      "libraryFileId": "libfile_50e7dbd92bb88191b82e374dc883de0a",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Tipos de evidência.pdf",
+      "libraryFileId": "libfile_6b83020263908191921f999a43f024f5",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "trabalho de auditoria inicial .pdf",
+      "libraryFileId": "libfile_2649aa1012c88191afc373a4e30f1672",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "transações subsequentes.pdf",
+      "libraryFileId": "libfile_59075ac0b8048191929d543da357ae5b",
+      "pages": [
+        1,
+        2
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "Variação aud .pdf",
+      "libraryFileId": "libfile_ce8150e3ed688191bf70782771d66daa",
+      "pages": [
+        1
+      ],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-pdf"
+    },
+    {
+      "name": "693026-f7b75443-2e20-4c28-92b2-30a59e8ac931.jpg",
+      "libraryFileId": "libfile_077142264ee08191b280f5aa3712c83c",
+      "pages": [],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-image"
+    },
+    {
+      "name": "2163538-6c0589c2-1a23-4a3b-a734-35cb3a27e4df.jpg",
+      "libraryFileId": "libfile_e4570e2ac9dc8191a27ed64973ae235a",
+      "pages": [],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-image"
+    },
+    {
+      "name": "3907173-a6d7b8ad-86cb-447c-ad19-4754bbb672c8.png.jpeg",
+      "libraryFileId": "libfile_1e7b50a81d148191af6961e709bce87b",
+      "pages": [],
+      "receivedAt": "2026-10-25",
+      "subject": "Auditoria",
+      "type": "user-image"
     }
   ],
   "subjectAliases": {
