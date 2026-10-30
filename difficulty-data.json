@@ -1190,6 +1190,29 @@
           "size": 773
         }
       ]
+    },
+    {
+      "id": "1BSE-vM28stxZQU4K8rxjiDrZXIEvr5aY",
+      "title": "Reforma — LC 236/2026 (alterações no CTN)",
+      "url": "https://drive.google.com/drive/folders/1BSE-vM28stxZQU4K8rxjiDrZXIEvr5aY",
+      "path": [
+        "Tributário",
+        "Reforma",
+        "Reforma — LC 236/2026 (alterações no CTN)"
+      ],
+      "status": "read",
+      "files": [
+        {
+          "id": "1xVJ_RhniJjKIGszflLKHTWvgOQTi_coZXoBpXyq5IR8",
+          "title": "Reforma — LC 236/2026 | Mapa de alterações no CTN (página 1)",
+          "url": "https://docs.google.com/document/d/1xVJ_RhniJjKIGszflLKHTWvgOQTi_coZXoBpXyq5IR8/edit?usp=drivesdk",
+          "mimeType": "application/vnd.google-apps.document",
+          "modifiedAt": "2026-10-30T00:38:15.293Z",
+          "size": "4350"
+        }
+      ],
+      "subject": "Tributário",
+      "checkedAt": "2026-10-30T00:38:15.293Z"
     }
   ],
   "analysis": {
@@ -7111,6 +7134,326 @@
             "text": "ID\nArquivo exato\nPági\nnas\nCobertura\nP36\nResumo - Reforma Tributária - Bloco 1_ IBS, CBS (LC 214_25,\narts. 1 a 10)(1).pdf\n41\nExtraído; revisão dirigida de recortes\nP37\nResumo - Reforma Tributária - Bloco 2_ IBS, CBS (LC 214_25,\narts. 11 a 26)(1).pdf\n45\nExtraído; revisão dirigida de recortes\nP38\nResumo - Reforma Tributária - Bloco 3_ IBS, CBS (LC 214_25,\narts. 27 a 57)(1).pdf\n51\nExtraído; revisão dirigida de recortes\nP39\nResumo - Reforma Tributária - Bloco 4_ IBS, CBS (LC 214_25,\narts. 58 a 83)(1).pdf\n47\nExtraído; revisão dirigida de recortes\nP40\nResumo - Reforma Tributária - Bloco 5_ Imposto\nSeletivo(1).pdf\n42\nExtraído; revisão dirigida de recortes\nP41\nResumo - Reforma Tributária - Bloco 6_ Código de Defesa do\nContribuinte(1).pdf\n37\nExtraído; leitura integral pendente\nP42\nResumo - Reforma Tributária - Bloco 7_ Processo\nAdministrativo do IBS(1).pdf\n50\nExtraído; leitura integral pendente\nP43\nResumo - Reforma Tributária - Bloco 8_ Comitê Gestor do\nIBS(1).pdf\n63\nExtraído; leitura integral pendente\nP44\nResumo - Sigilo das operações de instituições financeiras.pdf\n29\nExtraído; leitura integral pendente\nP45\nilovepdf_merged.pdf\n335\nExtraído; leitura integral pendente\nA atribuição editorial deve ser confirmada pela folha de rosto de cada original. Os títulos em duas colunas\nsão tratados como material legal comentado do conjunto recebido; esta edição não certifica autoria\neditorial apenas pelo nome do arquivo.\nO ZIP anexado contém um PDF comparativo anterior. Não foi usado como prova de leitura dos originais,\nnem reproduzido como se atendesse à solicitação atual. A inspeção inicial do ZIP foi limitada ao inventário\ndo conteúdo.\nCOMPARAÇÃO LEGISLATIVA | EDIÇÃO DE TRABALHO\nCorte: 18/10/2026 | Cobertura e limites no capítulo 8\n43 / 43\n"
           }
         ]
+      },
+      {
+        "id": "1xVJ_RhniJjKIGszflLKHTWvgOQTi_coZXoBpXyq5IR8",
+        "modifiedAt": "2026-10-30T00:38:15.293Z",
+        "analyzedAt": "2026-10-30T00:38:15.293Z",
+        "coverage": "complete",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "Reforma — Lei Complementar 236/2026: alterações no CTN (página 1)",
+        "category": "Reforma Tributária — LC 236/2026",
+        "summary": "Mapa da página 1 da LC 236/2026: alterações no CTN por sete áreas, capítulo novo de Processo Administrativo Fiscal, vetos e referências de volumes e páginas.",
+        "source": "Página 1 do arquivo LC_236_2026_-_Trechos_Modificados.pdf encontrado no Google Drive. O quadro mantém o conteúdo do material enviado, sem verificação independente com legislação oficial.",
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "TITLE",
+            "text": "REFORMA — LC 236/2026 | MAPA DAS ALTERAÇÕES NO CTN"
+          },
+          {
+            "type": "paragraph",
+            "style": "SUBTITLE",
+            "text": "Transcrição organizada da PÁGINA 1 do PDF do material de estudo. Mantidos os artigos, alertas e referências dos volumes indicados no mapa."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Fonte: LC_236_2026_-_Trechos_Modificados.pdf · página 1 de 65. PDF original: https://drive.google.com/file/d/1qG2wqrikaCJL0KkOPEsqxOGC7rcen-HR/view"
+          },
+          {
+            "type": "paragraph",
+            "style": "HEADING_2",
+            "text": "VISÃO GERAL — O QUE MUDOU (SEGUNDO O MAPA)"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "01 Espécies tributárias — sem mudança no recorte."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "02 Princípios tributários — sem mudança no recorte. No volume 2, o não confisco (03.3, p. 11) já remete ao teto do art. 113-A."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "03 Competência e legislação tributária — 1 ponto."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "04 Obrigação e sujeição tributária — 2 pontos."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "05 Crédito tributário — 8 pontos."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "06 Extinção do crédito — 7 pontos."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "07 Fiscalização e repartição de receitas — 7 pontos."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "08 Processo Administrativo Fiscal (PAF) — capítulo inteiro novo."
+          },
+          {
+            "type": "paragraph",
+            "style": "HEADING_2",
+            "text": "03 — COMPETÊNCIA E LEGISLAÇÃO TRIBUTÁRIA (1 PONTO)"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 107, §§ 1º a 3º — Consulta e pareceres fixam a interpretação; vinculam somente o órgão emissor; solução de consulta produz efeitos apenas para o consulente. Volume 3, seção 11.1, p. 29."
+          },
+          {
+            "type": "paragraph",
+            "style": "HEADING_2",
+            "text": "04 — OBRIGAÇÃO E SUJEIÇÃO TRIBUTÁRIA (2 PONTOS)"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "R Art. 138 — Denúncia espontânea exclui a responsabilidade inclusive quanto à multa de mora. Volume 4, seção 09.3, p. 35."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 113-A — Teto da multa: 75%; 100% com fraude, sonegação ou conluio; 150% na reincidência. Volume 4, seção 09.4, p. 36."
+          },
+          {
+            "type": "paragraph",
+            "style": "HEADING_2",
+            "text": "05 — CRÉDITO TRIBUTÁRIO (8 PONTOS)"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 142, §§ 2º e 3º — Lançamento para prevenir decadência sob suspensão do art. 151, II, IV ou V: sem multa. Volume 5, seção 02.1, p. 4."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 142, §§ 5º a 10 — Reduções de 50%, 40%, 30% e 20%; atenuantes, agravantes e devedor contumaz. Volume 5, seções 02.2–02.4, p. 6–9."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 211-A — Estados, DF e municípios: 2 anos para adotar critérios de redução. Volume 5, seção 02.5, p. 10."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "R Art. 146 — Mudança de critério jurídico também por sentença arbitral. Volume 5, seção 03.4, p. 13."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 150, §§ 5º e 6º — Dolo, fraude ou simulação: art. 173, I. Pagamento parcial: conta do fato gerador. Volume 5, seções 06.4–06.5, p. 24."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 151, VII a X — Suspensão da exigibilidade passa a dez hipóteses: arbitragem, transação aceita, mediação, seguro-garantia ou fiança aceitos. Volume 5, seção 07.1 e 08, p. 25 e 32–33."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 151, § 2º — Vedada caução ou garantia para impugnar ou recorrer. Volume 5, seção 07.5, p. 30."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 151, § 3º — Arbitragem com execução em curso: suspensão prévia ou garantia integral. Volume 5, seção 08.3, p. 34."
+          },
+          {
+            "type": "paragraph",
+            "style": "HEADING_2",
+            "text": "06 — EXTINÇÃO DO CRÉDITO (7 PONTOS)"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 156, XII e XIII — Extinção passa a treze hipóteses: sentença arbitral favorável e cumprimento do acordo de mediação. Volume 6, seção 01.4, p. 5."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 161, § 3º — Liminar ou tutela: multa de mora só volta 30 dias após decisão que considerar devido o tributo. Volume 6, seção 02.5, p. 9."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 165-A — Indébito atualizado pelos mesmos índices do crédito. Volume 6, seção 04.2, p. 15."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 168, §§ 2º e 3º — 5 anos para habilitar o indébito, contados da certificação do trânsito em julgado. Volume 6, seção 04.5, p. 17."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Arts. 171-A a 171-C — Arbitragem e mediação; com a transação, não configuram renúncia de receita. Volume 6, seção 05.4, p. 21–22."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 174, § 1º — Causas de interrupção da prescrição passam de quatro a nove. Volume 6, seções 07.2–07.4, p. 29–31."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 174, § 3º — Prescrição interrompida recomeça do ato que a interrompeu ou do último ato do processo. Volume 6, seção 07.5, p. 33."
+          },
+          {
+            "type": "paragraph",
+            "style": "HEADING_2",
+            "text": "07 — FISCALIZAÇÃO E REPARTIÇÃO DE RECEITAS (7 PONTOS)"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 194, §§ 2º e 3º — Autorregularização antes do auto e programas de conformidade. Volume 7, seção 02.2, p. 4."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 194-A — Decisão vinculante do STF ou do STJ vincula a administração. Volume 7, seção 02.3, p. 5."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 127-A — Intimação por Domicílio Tributário Eletrônico. Volume 7, seção 02.4, p. 7."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 196, §§ 2º a 4º — Documento de início da fiscalização; força policial só com justo receio. Volume 7, seções 03.3–03.4, p. 9–10."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 199-A — Convênio para compartilhar fiscalização, lançamento e cobrança. Volume 7, seção 06.3, p. 17."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "+ Art. 201, §§ 2º e 3º — Controle de legalidade da inscrição em dívida ativa. Volume 7, seção 07.2, p. 19."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "R Art. 202, I — Termo de inscrição: devedor e corresponsáveis. Volume 7, seção 07.3, p. 20."
+          },
+          {
+            "type": "paragraph",
+            "style": "HEADING_2",
+            "text": "08 — PROCESSO ADMINISTRATIVO FISCAL (VOLUME INTEIRO NOVO)"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O Capítulo IV do CTN (arts. 208-A a 208-J e 211-B) foi inserido, segundo o mapa, pela LC 236/2026."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 208-A — Normas gerais para todos os entes; duplo grau em entes com mais de 100 mil habitantes. Volume 8, cap. 01, p. 1–2."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Arts. 208-B e 208-C — Sete requisitos do auto de infração; impugnação suspende exigibilidade. Volume 8, cap. 02, p. 2–5."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 208-D — Prazos de 20 dias (embargos: 5 dias), contados em dias úteis. Volume 8, cap. 03, p. 6–8."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Arts. 208-E e 208-F — Ação judicial com mesmo objeto renuncia ao recurso; decisão motivada. Volume 8, cap. 04, p. 9–10."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 208-G — O que vincula o julgador administrativo. Volume 8, cap. 05, p. 11–13."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 208-H — Nulidades e autotutela: anular é dever. Volume 8, cap. 06, p. 13–15."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Arts. 208-I e 208-J — Rito diferenciado e sobrestamento automático. Volume 8, cap. 07, p. 16–17."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 211-B — 2 anos para adaptar; se não, aplicação direta. Volume 8, cap. 08, p. 17–18."
+          },
+          {
+            "type": "paragraph",
+            "style": "HEADING_2",
+            "text": "OLHO NO VETO — NÃO COBRAR COMO REGRA VIGENTE"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 168, § 1º — vetado. Volume 6, p. 17."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 174, §§ 2º e 4º — vetados. Volume 6, p. 33."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 205, §§ 1º e 2º — vetados; conforme mapa, certidão segue em 10 dias. Volume 7, p. 21."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 208-H, II e IV — vetados; numeração salta de I para III. Volume 8, p. 14."
+          },
+          {
+            "type": "paragraph",
+            "style": "HEADING_2",
+            "text": "ROTA EXPRESSA DO MATERIAL"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Pouco tempo? Volumes 5, 6 e 7 concentram as mudanças; o volume 8 é todo novo."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "LEGENDA: + = dispositivo novo (incluído); R = nova redação."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "NOTA DE FONTE: este quadro reproduz o mapa da primeira página do PDF indicado. Não representa conferência independente da legislação oficial nem estudo integral das outras 64 páginas."
+          }
+        ],
+        "contentVerifiedAt": "2026-10-30T00:38:15.293Z"
       }
     ],
     "findings": [],
