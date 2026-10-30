@@ -39,7 +39,7 @@ function clean(html){
  function walk(node){
   for(const child of [...node.children]){
    if(!safeTags.has(child.tagName)){if(['SCRIPT','STYLE','IFRAME','OBJECT','EMBED','FORM','INPUT','BUTTON','SVG'].includes(child.tagName)){child.remove();continue}
-    child.replaceWith(...child.childNodes);continue;}
+    walk(child);child.replaceWith(...child.childNodes);continue;}
    const image=child.tagName==='IMG',link=child.tagName==='A';
    const src=image?child.getAttribute('src'):null,alt=image?child.getAttribute('alt'):null;
    const href=link?child.getAttribute('href'):null,style=child.getAttribute('style')||'';
@@ -59,10 +59,11 @@ function clean(html){
 async function attachMedia(element,cardKey){
  for(const img of element.querySelectorAll('[data-fc-media]')){
   if(!document.contains(img))continue;
-  const name=img.dataset.fcMedia;
+  const name=img.dataset.fcMedia, card=cardsById.get(cardKey);
+  const key=(card?.sourceFile||'')+'::'+name;
   try {
-   let uri=mediaURLs.get(name);
-   if(!uri){const blob=await mediaBlob(name);if(!blob)continue;uri=URL.createObjectURL(blob);mediaURLs.set(name,uri);}
+   let uri=mediaURLs.get(key);
+   if(!uri){const blob=await mediaBlob(name,card?.sourceFile||'');if(!blob)continue;uri=URL.createObjectURL(blob);mediaURLs.set(key,uri);}
    if(document.contains(img))img.setAttribute('src',uri);
   }catch{}
  }
@@ -72,9 +73,9 @@ async function attachMedia(element,cardKey){
   const raw=String(card?.fields?.[field]||'');
   const list=[...raw.matchAll(/\[sound:([^\]]+)\]/g)];
   for(const match of list){
-   const audio=await mediaBlob(match[1]).catch(()=>null);
+   const audio=await mediaBlob(match[1],card?.sourceFile||'').catch(()=>null);
    if(!audio||!document.contains(section))continue;
-   let uri=mediaURLs.get(match[1]);if(!uri){uri=URL.createObjectURL(audio);mediaURLs.set(match[1],uri);}
+   const key=(card?.sourceFile||'')+'::'+match[1];let uri=mediaURLs.get(key);if(!uri){uri=URL.createObjectURL(audio);mediaURLs.set(key,uri);}
    const player=document.createElement('audio');player.controls=true;player.preload='none';player.src=uri;section.append(player);
   }
  }
