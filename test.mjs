@@ -24,7 +24,7 @@ test('entrada, sessão, PDFs, rotas privadas e saída',async()=>{
   r=await request('/api/gateway?__study_path=entrar',post({csrf,password:process.env.STUDY_ACCESS_PASSWORD,next:'/dificuldades.html'}));assert.equal(r.status,303);assert.equal(r.headers.get('location'),'/dificuldades.html');assert.match(r.headers.get('set-cookie'),/HttpOnly/i);assert.match(r.headers.get('set-cookie'),/SameSite=Strict/i);
   // O navegador conserva a sessão por 30 dias; a senha não é salva no cliente.
   const persistentCookie=r.headers.get('set-cookie')||'';
-  const cookieAge=Number(/(?:^|;\\s*)Max-Age=(\\d+)/i.exec(persistentCookie)?.[1]);
+  const cookieAge=Number(/(?:^|;\s*)Max-Age=(\d+)/i.exec(persistentCookie)?.[1]);
   assert.ok(cookieAge>=29*86400,'sessão persistente por ~30 dias no mesmo navegador');
   const validCookie=cookie;
   // Depois de um dia de uso, o servidor estende a sessão sem exigir nova senha.
