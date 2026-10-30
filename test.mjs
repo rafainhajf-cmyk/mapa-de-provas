@@ -22,7 +22,19 @@ test('entrada, sessão, PDFs, rotas privadas e saída',async()=>{
   r=await request('/entrar',post({csrf:'fake',password:process.env.STUDY_ACCESS_PASSWORD}));assert.equal(r.status,403);
   r=await request('/entrar',post({csrf,password:'incorreta'}));assert.equal(r.status,401);
   r=await request('/api/gateway?__study_path=entrar',post({csrf,password:process.env.STUDY_ACCESS_PASSWORD,next:'/dificuldades.html'}));assert.equal(r.status,303);assert.equal(r.headers.get('location'),'/dificuldades.html');assert.match(r.headers.get('set-cookie'),/HttpOnly/i);assert.match(r.headers.get('set-cookie'),/SameSite=Strict/i);
+  // O navegador conserva a sessão por 30 dias; a senha não é salva no cliente.
+  const persistentCookie=r.headers.get('set-cookie')||'';
+  const cookieAge=Number(/(?:^|;\\s*)Max-Age=(\\d+)/i.exec(persistentCookie)?.[1]);
+  assert.ok(cookieAge>=29*86400,'sessão persistente por ~30 dias no mesmo navegador');
   const validCookie=cookie;
+  // Depois de um dia de uso, o servidor estende a sessão sem exigir nova senha.
+  const realNow=Date.now;
+  try {
+   Date.now=()=>realNow()+2*86400000;
+   r=await request('/');
+   assert.equal(r.status,200,'sessão permanece autenticada após 48 horas');
+   assert.match(r.headers.get('set-cookie')||'',/HttpOnly/i,'renova o cookie seguro após uso');
+  }finally{Date.now=realNow;}
   r=await request('/');html=await r.text();assert.equal(r.status,200);assert.match(html,/Sair do acesso/);
   const logoutCsrf=/name="csrf" value="([a-f0-9]+)"/.exec(html)[1];
   r=await request('/dificuldades.html');assert.equal(r.status,200);assert.match(await r.text(),/dificuldades\.js/);
