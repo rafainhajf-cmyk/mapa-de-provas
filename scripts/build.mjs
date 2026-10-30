@@ -41,6 +41,14 @@ const catalog=liveData.subjectCatalogs['Tributário'];
 catalog.nodes ||= [];
 if(!catalog.nodes.some(n=>n.id==='reforma-lei-236-2026'))
   catalog.nodes.push({id:'reforma-lei-236-2026',title:'Reforma — Lei 236/2026',fileIds:[contentId]});
+// Atualiza a apostila de Terceiro Setor sem substituir as outras anotações.
+const thirdSectorId='1u1MmLJt6Mv2WMLb_PPN5MU_8bOjpQ6_CovatTzF8PFc';
+const updatedThirdSector=rootData.analysis?.analyzedFiles?.find(n=>n.id===thirdSectorId);
+if(updatedThirdSector){
+ const i=liveData.analysis.analyzedFiles.findIndex(n=>n.id===thirdSectorId);
+ if(i>=0)liveData.analysis.analyzedFiles[i]={...liveData.analysis.analyzedFiles[i],...updatedThirdSector};
+ else liveData.analysis.analyzedFiles.push(updatedThirdSector);
+}
 liveData.source ||= {};
 liveData.source.checkedAt=new Date().toISOString();
 await writeFile(liveDataPath,JSON.stringify(liveData));
