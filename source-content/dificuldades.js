@@ -70,9 +70,19 @@ export function libraryTopics(model,subject=''){
 }
 function librarySubjects(){return [...new Set(model.folders.map(f=>f.subject))].sort((a,b)=>a.localeCompare(b,'pt-BR'))}
 function topicCriticalHTML(topic){const n=studyFileProgress(topic.fileIds).critical;return n?`<span class="critical-badge">⚑ ${n} crítico(s)</span>`:'';}
+const TAX_GROUPS=['Reforma Tributária','LTE com Convênios','Direito Tributário'];
+function taxGroup(t){
+ const v=norm([t.area,t.title].join(' '));
+ if(/reforma|ibs|cbs|imposto seletivo|lei 214|lei 227|lei 236|lc 214|lc 227|lc 236|ec 132|transicao/.test(v))return TAX_GROUPS[0];
+ if(/lte|convenio|confaz|icms|kandir|difal|substituicao tributaria|legislacao tributaria estadual/.test(v))return TAX_GROUPS[1];
+ return TAX_GROUPS[2];
+}
+function taxGroups(topics,render){
+ return TAX_GROUPS.map(g=>'<details class="difficulty-library-group tax-category"><summary>'+esc(g)+' ('+topics.filter(t=>taxGroup(t)===g).length+')</summary><div class="difficulty-content-list">'+(topics.filter(t=>taxGroup(t)===g).map(render).join('')||'<p>Sem materiais cadastrados.</p>')+'</div></details>').join('');
+}
 function uniformLibraryHTML(subject=''){
  if(!subject)return `<section class="uniform-subjects"><h3>Escolha a matéria</h3><div class="difficulty-content-list">${groupedSubjectsHTML(librarySubjects(),model.raw.subjectFamilies,s=>`<button class="difficulty-content-name" data-library-subject="${esc(s)}">${esc(s)}</button>`)}</div></section>`;
- const topics=libraryTopics(model,subject);return `<section class="uniform-subjects"><h3>Conteúdos de ${esc(subject)}</h3>${subject==='Matemática Financeira'?'<a class="secondary" href="formulas.html">ƒ Fórmulas compactas e quiz</a>':''}${subject==='Contabilidade'?'<p class="accounting-overview">43 assuntos na sequência enviada · Teoria da matéria, exercícios e teoria das questões. Escolha um assunto para estudar ou enviar conteúdo.</p>':'<p>Escolha um conteúdo para ver os materiais. Os subtópicos ficam dentro dele.</p>'}${subject==='Contabilidade'?accountingReadingToolbarHTML(accountingReadingMode):''}<div class="difficulty-content-list">${topics.map(t=>`<button class="difficulty-content-name" data-library-topic="${esc(t.id)}">${esc(t.title)} ${topicCriticalHTML(t)}${t.area?`<small>${esc(t.area)}</small>`:''}</button>`).join('')}</div>${topics.length?'':'<p>Esta matéria ainda não tem materiais lançados na biblioteca.</p>'}${state.view!=='contents'?`<button class="secondary" data-subject-content="${esc(subject)}">Ver sumário completo da matéria</button>`:''}</section>`;
+ const topics=libraryTopics(model,subject);return `<section class="uniform-subjects"><h3>Conteúdos de ${esc(subject)}</h3>${subject==='Matemática Financeira'?'<a class="secondary" href="formulas.html">ƒ Fórmulas compactas e quiz</a>':''}${subject==='Contabilidade'?'<p class="accounting-overview">43 assuntos na sequência enviada · Teoria da matéria, exercícios e teoria das questões. Escolha um assunto para estudar ou enviar conteúdo.</p>':'<p>Escolha um conteúdo para ver os materiais. Os subtópicos ficam dentro dele.</p>'}${subject==='Contabilidade'?accountingReadingToolbarHTML(accountingReadingMode):''}<div class="difficulty-content-list">${subject==='Tributário'?taxGroups(topics,t=>`<button class="difficulty-content-name" data-library-topic="${esc(t.id)}">${esc(t.title)} ${topicCriticalHTML(t)}</button>`):topics.map(t=>`<button class="difficulty-content-name" data-library-topic="${esc(t.id)}">${esc(t.title)} ${topicCriticalHTML(t)}${t.area?`<small>${esc(t.area)}</small>`:''}</button>`).join('')}</div>${topics.length?'':'<p>Esta matéria ainda não tem materiais lançados na biblioteca.</p>'}${state.view!=='contents'?`<button class="secondary" data-subject-content="${esc(subject)}">Ver sumário completo da matéria</button>`:''}</section>`;
 }
 function findLibraryTopic(id){return libraryTopics(model).find(t=>t.id===id)||(id?.startsWith('folder:')?(()=>{const f=model.folders.find(f=>f.id===id.slice(7));return f?{id,title:f.title,subject:f.subject,folderId:f.id,fileIds:f.files.map(f=>f.id)}:null;})():null);}
 function uniformTopicHTML(topic){
@@ -92,7 +102,7 @@ function openLibraryTopic(id,fileId=''){if(id==='folder:1ScWP9YQqFT-p08PJ9nUfZ1U
 
 function renderNav(){
  const selected=model.folders.find(f=>f.id===state.selected),subject=state.subject||selected?.subject||'';
- const entry=s=>`<details class="difficulty-library-group" ${s===subject?'open':''}><summary data-library-subject="${esc(s)}">${esc(s)}</summary>${libraryTopics(model,s).map(t=>`<button class="difficulty-library-button ${state.libraryTopic===t.id?'active':''}" data-content="${esc(t.folderId)}" data-library-topic="${esc(t.id)}">${esc(t.title)} ${topicCriticalHTML(t)}</button>`).join('')||'<p class="library-no-material">Sem materiais enviados</p>'}</details>`;
+ const entry=s=>`<details class="difficulty-library-group" ${s===subject?'open':''}><summary data-library-subject="${esc(s)}">${esc(s)}</summary>${s==='Tributário'?taxGroups(libraryTopics(model,s),t=>`<button class="difficulty-library-button ${state.libraryTopic===t.id?'active':''}" data-content="${esc(t.folderId)}" data-library-topic="${esc(t.id)}">${esc(t.title)} ${topicCriticalHTML(t)}</button>`):libraryTopics(model,s).map(t=>`<button class="difficulty-library-button ${state.libraryTopic===t.id?'active':''}" data-content="${esc(t.folderId)}" data-library-topic="${esc(t.id)}">${esc(t.title)} ${topicCriticalHTML(t)}</button>`).join('')||'<p class="library-no-material">Sem materiais enviados</p>'}</details>`;
  $('#difficultyLibrary').innerHTML=`<button class="difficulty-library-button difficulty-all" data-library-subject="">Todas as matérias</button>`+groupedSubjectsHTML(librarySubjects(),model.raw.subjectFamilies,entry,{navigation:true,active:subject});
 }
 
