@@ -94,7 +94,14 @@ export async function importApkg(file,subjectKey,onProgress=()=>{}){
     throw Error('Este importador aceita apenas baralhos originais do Literalidade ou o recorte da LC 236.');
   if(!cards.every(c=>String(c.flds).split('\x1f').length===models[String(c.mid)].flds.length))
     throw Error('Os campos do baralho não correspondem ao modelo original; importação interrompida.');
-  const isReform=/236[\\s._-]*2026|lc[\\s._-]*236/i.test(file.name)||Object.values(decks).some(d=>/^LC 236[- ]2026/.test(d.name||''));
+  const isReform=/(?:LC[_\s-]*236(?:[_\s-]*2026)?|236[_\s-]*2026)/i.test(file.name)||Object.values(decks).some(d=>/^LC[_\s-]*236(?:[_\s-]*2026)?/i.test(d.name||''));
+  const roots=[...new Set(cardDecks.map(x=>x.split('::')[0]))];
+  if(subjectKey==='lte'&&roots.some(x=>/direito tribut[aá]rio/i.test(x)))
+    throw Error('Este arquivo é de Direito Tributário, não de LTE. Selecione a matéria correspondente.');
+  if(subjectKey==='reforma'&&!isReform&&roots.some(x=>/direito tribut[aá]rio/i.test(x)))
+    throw Error('Para Reforma, importe o baralho próprio da reforma ou o recorte LC 236; o baralho completo deve ficar em Direito Tributário.');
+  if(subjectKey==='tributario'&&roots.some(x=>/\bLTE\b|legisla[cç][aã]o tribut[aá]ria estadual/i.test(x)))
+    throw Error('Este baralho é de LTE. Selecione a matéria LTE.');
   const parsed=cards.map(c=>{
     const model=models[String(c.mid)], names=model.flds.map(f=>f.name), values=String(c.flds).split('\x1f');
     const fields=Object.fromEntries(names.map((name,i)=>[name,values[i]??'']));
@@ -124,12 +131,15 @@ export async function importApkg(file,subjectKey,onProgress=()=>{}){
       // O subconjunto LC 236 prevalece, mesmo quando o baralho geral for importado depois.
       if(oldCard.subjectKey==='reforma'&&c.subjectKey==='tributario')c.subjectKey='reforma';
       if(c.subjectKey!==oldCard.subjectKey)counts.moved++;
-      // Não substituir o texto de uma importação anterior na mesma área.
+      // Preserva SEMPRE os campos da primeira importação (texto original intocado).
       if(c.subjectKey===oldCard.subjectKey){
         counts.kept++;continue;
       }
       counts.updated++;
-    } else counts.added++;
+      next.push({...oldCard,subjectKey:c.subjectKey,deckPath:c.deckPath});
+      continue;
+    }
+    counts.added++;
     next.push(c);
   }
   onProgress('Salvando os cartões originais…');
