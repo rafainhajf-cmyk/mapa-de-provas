@@ -42,8 +42,10 @@ function request(req){return new Promise((resolve,reject)=>{req.onsuccess=()=>re
 export async function allCards(){
   const db=await openDB();return request(db.transaction('cards').objectStore('cards').getAll());
 }
-export async function mediaBlob(name){
-  const db=await openDB();return (await request(db.transaction('media').objectStore('media').get(name)))?.blob||null;
+export async function mediaBlob(name,sourceFile=''){
+  const db=await openDB();
+  const indexed=await request(db.transaction('media').objectStore('media').get(sourceFile+'::'+name));
+  return indexed?.blob||null;
 }
 function transact(db,stores,callback){
   return new Promise((resolve,reject)=>{
@@ -87,6 +89,11 @@ export async function importApkg(file,subjectKey,onProgress=()=>{}){
   if(cards.length>15000)throw Error('Importação excede o limite de 15 mil cartões por arquivo.');
   if(!cards.every(c=>models[String(c.mid)]?.name?.toLowerCase().includes('literalidade')))
     throw Error('Para LTE, Direito Tributário e Reforma, importe somente baralhos do Literalidade.');
+  const cardDecks=cards.map(c=>String(decks[String(c.did)]?.name||''));
+  if(!cardDecks.every(name=>/literalidade|LC[ _-]*236/i.test(name)))
+    throw Error('Este importador aceita apenas baralhos originais do Literalidade ou o recorte da LC 236.');
+  if(!cards.every(c=>String(c.flds).split('\x1f').length===models[String(c.mid)].flds.length))
+    throw Error('Os campos do baralho não correspondem ao modelo original; importação interrompida.');
   const isReform=/236[\\s._-]*2026|lc[\\s._-]*236/i.test(file.name)||Object.values(decks).some(d=>/^LC 236[- ]2026/.test(d.name||''));
   const parsed=cards.map(c=>{
     const model=models[String(c.mid)], names=model.flds.map(f=>f.name), values=String(c.flds).split('\x1f');
@@ -140,7 +147,7 @@ export async function importApkg(file,subjectKey,onProgress=()=>{}){
         const s=tx.objectStore('media');
         for(const [index,name] of batch){
           const bytes=entries[index];
-          s.put({name,blob:new Blob([bytes],{type:fileMime(name)}),updatedAt:new Date().toISOString()});
+          s.put({name:file.name+'::'+name,originalName:name,blob:new Blob([bytes],{type:fileMime(name)}),updatedAt:new Date().toISOString()});
           counts.media++;
         }
       });
