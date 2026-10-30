@@ -1,4 +1,4 @@
-import {SYNC_STORES,flattenStore,mergeEntries,materialize,compareRegisters} from './study-sync-core.js?v=94';
+import {SYNC_STORES,flattenStore,mergeEntries,materialize,compareRegisters} from './study-sync-core.js?v=95';
 const CONFIG='mapa-study-sync-config-v1',META='mapa-study-sync-state-v1';
 const REMOTE='https://mapa-de-provas.vercel.app/api/estudos/sync';
 const uid=()=>[...crypto.getRandomValues(new Uint8Array(16))].map(x=>x.toString(16).padStart(2,'0')).join('');
