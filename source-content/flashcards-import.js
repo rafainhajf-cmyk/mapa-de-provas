@@ -67,9 +67,9 @@ function fileMime(filename){
   const ext=filename.split('.').pop().toLowerCase();
   return ({png:'image/png',jpg:'image/jpeg',jpeg:'image/jpeg',gif:'image/gif',webp:'image/webp',svg:'image/svg+xml',mp3:'audio/mpeg',ogg:'audio/ogg',wav:'audio/wav',mp4:'video/mp4'})[ext]||'application/octet-stream';
 }
-export const LABELS={lte:'LTE',tributario:'Direito Tributário',reforma:'Reforma Tributária'};
+export const LABELS={lei236:'Alterações Lei 236',tributario:'Direito Tributário',lte:'LTE',reforma:'Reforma Tributária'};
 export async function importApkg(file,subjectKey,onProgress=()=>{}){
-  if(!LABELS[subjectKey])throw Error('Escolha uma das três matérias.');
+  if(!LABELS[subjectKey])throw Error('Escolha uma das quatro matérias.');
   if(!/\.apkg$/i.test(file.name))throw Error('Selecione um baralho Anki (.apkg).');
   if(file.size>65*1024*1024)throw Error('O arquivo é grande demais para importação no navegador (limite de 65 MB).');
   onProgress('Abrindo o baralho…');
@@ -115,7 +115,7 @@ export async function importApkg(file,subjectKey,onProgress=()=>{}){
       sourceFile:file.name,
       originalNoteId:String(c.noteId),originalCardId:String(c.cardId),ord:Number(c.ord)||0,
       tags:String(c.tags||''),
-      subjectKey:isReform?'reforma':subjectKey,
+      subjectKey:isReform?'lei236':subjectKey,
       importedAt:new Date().toISOString()
     };
   });
@@ -129,7 +129,7 @@ export async function importApkg(file,subjectKey,onProgress=()=>{}){
     const oldCard=existing.get(c.id);
     if(oldCard){
       // O subconjunto LC 236 prevalece, mesmo quando o baralho geral for importado depois.
-      if(oldCard.subjectKey==='reforma'&&c.subjectKey==='tributario')c.subjectKey='reforma';
+      if(['reforma','lei236'].includes(oldCard.subjectKey)&&c.subjectKey==='tributario')c.subjectKey=oldCard.subjectKey;
       if(c.subjectKey!==oldCard.subjectKey)counts.moved++;
       // Preserva SEMPRE os campos da primeira importação (texto original intocado).
       if(c.subjectKey===oldCard.subjectKey){
