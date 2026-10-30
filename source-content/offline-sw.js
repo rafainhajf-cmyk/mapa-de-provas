@@ -1,16 +1,16 @@
-const CACHE='mapa-provas-offline-v1';
+const CACHE='mapa-provas-offline-v2';
 self.addEventListener('install',()=>self.skipWaiting());
 self.addEventListener('activate',event=>event.waitUntil(self.clients.claim()));
 const eligible=url=>url.origin===self.location.origin&&!url.pathname.startsWith('/api/')&&!['/entrar','/sair'].includes(url.pathname);
 const valid=response=>response&&response.ok&&response.type!=='opaque'&&!new URL(response.url).pathname.startsWith('/entrar')&&!/text\/html/.test(response.headers.get('content-type')||'')||false;
-function canStore(request,response){if(!eligible(new URL(request.url))||!response?.ok||response.redirected)return false;const dest=new URL(response.url);if(!eligible(dest))return false;const type=response.headers.get('content-type')||'';return !type.includes('text/html')||type.includes('text/html')&&request.mode==='navigate';}
+function canStore(request,response){if(!eligible(new URL(request.url))||!response?.ok||response.redirected)return false;const dest=new URL(response.url);if(!eligible(dest))return false;const type=response.headers.get('content-type')||'';return !type.includes('text/html')||(!/<\/entrar/.test(dest.pathname)&&!response.headers.get('x-offline-do-not-cache'));}
 self.addEventListener('fetch',event=>{
  const req=event.request,url=new URL(req.url);
  if(req.method==='POST'&&url.pathname==='/sair'){event.respondWith((async()=>{const response=await fetch(req);if(response.ok||response.redirected)await caches.delete(CACHE);return response})());return}
  if(req.method!=='GET'||!eligible(url)||req.headers.has('range'))return;
  event.respondWith((async()=>{
   const cache=await caches.open(CACHE);
-  try{const response=await fetch(req);const marker=await cache.match('/offline-enabled-marker');if(marker&&canStore(req,response))await cache.put(req,response.clone());return response}
+  try{const response=await fetch(req);const marker=await cache.match('/offline-enabled-marker');if(canStore(req,response))await cache.put(req,response.clone());return response}
   catch(error){const cached=await cache.match(req,{ignoreSearch:true});if(cached)return cached;throw error}
  })());
 });
