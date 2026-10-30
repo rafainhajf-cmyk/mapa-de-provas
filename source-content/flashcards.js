@@ -1,9 +1,9 @@
-import {allCards,importApkg,mediaBlob,LABELS} from './flashcards-import.js?v=3';
+import {allCards,importApkg,mediaBlob,LABELS} from './flashcards-import.js?v=4';
 
 const progressKey='mapa-anki-reviews-v1';
 const $=q=>document.querySelector(q);
 const cardsById=new Map(),mediaURLs=new Map();
-let cards=[],subject='tributario',filter='',current=null,turned=false,showAll=false,busy=false;
+let cards=[],subject='lei236',filter='',current=null,turned=false,showAll=false,busy=false;
 const now=()=>Date.now(),esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function loadReviews(){try{const obj=JSON.parse(localStorage.getItem(progressKey)||'{}');return obj&&typeof obj==='object'?obj:{}}catch{return {}}}
 let reviews=loadReviews();
@@ -133,7 +133,7 @@ function exportProgress(){
  const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='flashcards_literalidade_progresso.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),2000);
 }
 async function refresh(keep=false){
- cards=await allCards();cardsById.clear();for(const c of cards)cardsById.set(c.id,c);
+ cards=(await allCards()).map(c=>c.subjectKey==='reforma'&&/(?:LC[_\\s-]*236|236[_\\s-]*2026)/i.test(c.sourceFile||'')?{...c,subjectKey:'lei236'}:c);cardsById.clear();for(const c of cards)cardsById.set(c.id,c);
  reviews=loadReviews();renderNav();
  if(!keep||!cardsById.has(current?.id)||current?.subjectKey!==subject||!currentGroup().some(c=>c.id===current.id))chooseCard();
  else renderCard();
