@@ -7,6 +7,10 @@ import { loginPage, logoutControl } from '../lib/login.mjs';
 import { handleStudySync } from '../lib/study-sync.mjs';
 
 const mime = { '.html':'text/html; charset=utf-8', '.js':'text/javascript; charset=utf-8', '.css':'text/css; charset=utf-8', '.json':'application/json; charset=utf-8', '.pdf':'application/pdf', '.png':'image/png', '.jpg':'image/jpeg', '.jpeg':'image/jpeg', '.svg':'image/svg+xml', '.webp':'image/webp', '.ico':'image/x-icon', '.woff2':'font/woff2' };
+const SESSION_DAYS = 30;
+const SESSION_TTL_SECONDS = SESSION_DAYS * 24 * 60 * 60;
+const SESSION_TTL_MS = SESSION_TTL_SECONDS * 1000;
+const SESSION_RENEW_AFTER_MS = 24 * 60 * 60;
 const digest = value => createHash('sha256').update(value).digest();
 const same = (a, b) => typeof a === 'string' && typeof b === 'string' && timingSafeEqual(digest(a), digest(b));
 const safeDestination = value => typeof value === 'string' && value.startsWith('/') && !value.startsWith('//') && !/[\\\r\n]/.test(value) && !/^\/(entrar|sair|api)(\/|\?|$)/.test(value) ? value : '/';
@@ -31,14 +35,21 @@ export default async function handler(req, res) {
   const secret = process.env.STUDY_SESSION_SECRET;
   if (!password || password.length < 6 || !secret || secret.length < 32) return send(res,503,'<h1>Acesso em preparação</h1><p>O responsável precisa concluir a configuração da senha.</p>');
   try {
-    const session = await getIronSession(req, res, { cookieName:'study_access', password:createHash('sha256').update(secret+'\0'+password).digest('hex'), ttl:86400, cookieOptions:{ secure:process.env.STUDY_LOCAL_TEST !== '1', httpOnly:true, sameSite:'strict', path:'/' } });
+    const session = await getIronSession(req, res, { cookieName:'study_access', password:createHash('sha256').update(secret+'\0'+password).digest('hex'), ttl:SESSION_TTL_SECONDS, cookieOptions:{ secure:process.env.STUDY_LOCAL_TEST !== '1', httpOnly:true, sameSite:'strict', path:'/' } });
     const url = new URL(req.url, 'https://'+req.headers.host);
     const routed = req.query?.__study_path ?? url.searchParams.get('__study_path');
     const pathname = typeof routed === 'string' ? '/'+routed.replace(/^\/+/, '') : url.pathname;
     url.searchParams.delete('__study_path');
     const target = safeDestination(url.searchParams.get('next'));
     if (!session.csrf) { session.csrf=randomBytes(24).toString('hex'); await session.save(); }
-    const authenticated = session.allowed === true && Number.isFinite(session.until) && session.until > Date.now();
+    const now = Date.now();
+    const authenticated = session.allowed === true && Number.isFinite(session.until) && session.until > now;
+    // Cookie HttpOnly/Secure: renova o prazo em dias de uso, sem armazenar a senha no navegador.
+    // Uma sessão antiga de 24 horas também é renovada ao ser usada antes de expirar.
+    if (authenticated && session.until - now <= SESSION_TTL_MS - SESSION_RENEW_AFTER_MS) {
+      session.until = now + SESSION_TTL_MS;
+      await session.save();
+    }
     if (pathname === '/api/estudos/sync') return handleStudySync(req,res,{authenticated,csrf:session.csrf,origin:url.origin});
     if (pathname === '/entrar' || pathname === '/sair') {
       if (req.method === 'GET' && pathname === '/entrar') return authenticated ? redirect(res,target) : send(res,200,loginPage(session.csrf,target));
@@ -49,7 +60,7 @@ export default async function handler(req, res) {
       if (pathname === '/sair') { session.destroy(); return redirect(res,'/entrar'); }
       const next = safeDestination(form.get('next'));
       if (!same(form.get('password'),password)) return send(res,401,loginPage(session.csrf,next,'Senha incorreta. Confira a senha recebida e tente novamente.'));
-      session.allowed=true; session.until=Date.now()+86400000; session.csrf=randomBytes(24).toString('hex'); await session.save();
+      session.allowed=true; session.until=Date.now()+SESSION_TTL_MS; session.csrf=randomBytes(24).toString('hex'); await session.save();
       return redirect(res,next);
     }
     if (!authenticated) return redirect(res,'/entrar?next='+encodeURIComponent(safeDestination(pathname+url.search)));
