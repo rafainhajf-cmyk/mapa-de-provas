@@ -54,7 +54,7 @@ async function walk(dir, relative = '') {
   }
 }
 await walk('private-content');
-await writeFile('private-content/_allowlist.json', JSON.stringify(files));
+
 const offlineCore=['index.html','dificuldades.html','apostila.html','flashcards.html','provas.html','offline.js','offline-sw.js','offline-files.json'];
 const offlineFiles=[];let offlineBytes=0;
 for(const name of [...offlineCore,...files.filter(name=>/\.(?:html|js|css|json|pdf|svg|png|jpg|jpeg|webp)$/.test(name))]){
@@ -66,6 +66,7 @@ for(const name of [...offlineCore,...files.filter(name=>/\.(?:html|js|css|json|p
 }
 await writeFile('private-content/offline-files.json',JSON.stringify(offlineFiles));
 files.push('offline-files.json');
+await writeFile('private-content/_allowlist.json', JSON.stringify(files));
 
 await rm('public', { recursive: true, force: true });
 await mkdir('public');
