@@ -1,9 +1,14 @@
 import { cp, mkdir, readdir, rm, writeFile, readFile, access } from 'node:fs/promises';
 import path from 'node:path';
+import { execFileSync } from 'node:child_process';
 let source = path.resolve('source-content');
 try { await access(path.join(source, 'index.html')); }
 catch { source = path.resolve('../dist'); }
 await access(path.join(source, 'index.html'));
+// Valida a sintaxe dos novos módulos antes de publicar a área de flashcards.
+for(const file of ['flashcards.js','flashcards-import.js']) {
+  execFileSync(process.execPath,['--check',path.join(source,file)],{stdio:'inherit'});
+}
 await rm('private-content', { recursive: true, force: true });
 await cp(source, 'private-content', { recursive: true });
 // Sincroniza o conteúdo da LC 236/2026 com o catálogo realmente publicado.
