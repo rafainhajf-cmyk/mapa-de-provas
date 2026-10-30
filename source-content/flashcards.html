@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-BR">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#163f36"><title>Flashcards Literalidade · Mapa de Provas</title>
+<link rel="stylesheet" href="main-navigation.css?v=79"><link rel="stylesheet" href="flashcards.css?v=1"><link rel="stylesheet" href="study-tools.css?v=94">
+</head>
+<body class="fc-page">
+<header class="main-header-navigation"><nav aria-label="Navegação principal">
+<a class="main-header-button" href="./">Mapa de Provas</a><a class="main-header-button" href="dificuldades.html">Dificuldades por matéria</a><a class="main-header-button is-active" href="flashcards.html" aria-current="page">Flashcards</a><a class="main-header-button" href="apostila.html">Apostila de Tributário</a>
+</nav></header>
+<main class="fc-main">
+<section class="fc-heading"><div class="fc-eyebrow">REVISÃO ESPAÇADA · SOMENTE LITERALIDADE</div><h1>Flashcards</h1><p>Importe seus baralhos originais do Anki. Texto, imagens e subbaralhos são preservados. LTE, Direito Tributário e Reforma Tributária ficam separados.</p></section>
+<div class="fc-layout">
+<aside class="fc-sidebar" aria-label="Matérias dos flashcards">
+<h2>Matérias</h2><div id="flashcardSubjects" class="fc-subjects"></div>
+<div class="fc-side-note"><strong>Fonte exclusiva</strong><p>Nestas três matérias, apenas cartões importados dos arquivos originais do Literalidade. Não geramos ou reescrevemos perguntas.</p></div>
+</aside>
+<div class="fc-content">
+<section class="fc-import">
+<details id="importDetails" open><summary>Importar baralho do Literalidade (.apkg)</summary>
+<form id="importForm">
+<label>Matéria de destino
+<select id="importSubject" required><option value="tributario">Direito Tributário</option><option value="reforma">Reforma Tributária</option><option value="lte">LTE</option></select></label>
+<label>Arquivo original do Anki
+<input id="importFile" type="file" accept=".apkg,application/octet-stream" required></label>
+<button id="importButton" type="submit">Importar baralho</button>
+</form>
+<p class="fc-import-note"><strong>Primeira importação sugerida:</strong> <em>Literalidade | Direito Tributário.apkg</em> em Direito Tributário; depois <em>Literalidade…Somente_LC_236_2026.apkg</em> em Reforma Tributária. Os 121 cartões da LC 236 serão movidos, não duplicados. Cada arquivo é importado uma única vez em cada aparelho. Os textos originais não são modificados.</p>
+<p class="fc-import-note">Os cartões e as imagens ficam guardados no armazenamento local do navegador. Para usá-los também no tablet, importe os mesmos arquivos lá. O progresso de revisão pode ser sincronizado pelo perfil ☁ do programa.</p>
+</details><p id="status" role="status" aria-live="polite"></p>
+</section>
+<section class="fc-study">
+<div class="fc-controls"><div><h2 id="subjectTitle">Direito Tributário</h2><p id="subjectDetail">Carregando cartões…</p></div>
+<div class="fc-select"><label for="filterDeck">Subbaralho / volume</label><select id="filterDeck"><option value="">Todos</option></select></div>
+<label class="fc-all"><input type="checkbox" id="showAll"> Mostrar todos, inclusive os que ainda não venceram</label></div>
+<div class="fc-progress"><span id="counter">—</span><span id="lastReview"></span></div>
+<div id="studyArea" class="fc-studyarea"><p>Carregando flashcards…</p></div>
+</section>
+<section class="fc-backup"><h2>Seu histórico</h2><p>Seu progresso de revisão é registrado no navegador e integrado ao perfil de sincronização do Mapa de Provas. Para cópia extra, exporte um arquivo de segurança.</p><button id="backupProgress" type="button" class="fc-secondary">Exportar histórico (.json)</button><label class="fc-secondary fc-upload">Restaurar histórico <input id="importProgress" type="file" accept=".json,application/json"></label></section>
+</div></div>
+</main>
+<script type="module" src="study-sync.js?v=94"></script><script type="module" src="flashcards.js?v=1"></script>
+</body></html>
