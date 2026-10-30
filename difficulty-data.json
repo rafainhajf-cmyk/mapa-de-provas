@@ -8,7 +8,7 @@
       "title": "Biblioteca de Conteúdo – Rafael",
       "url": "https://drive.google.com/drive/folders/1e3Xdu-V0aPpqKi86AiLIbqt13st_B3kf"
     },
-    "checkedAt": "2026-10-20T01:09:02.588Z",
+    "checkedAt": "2026-10-30T00:38:15.293Z",
     "updateMode": "chat-request"
   },
   "folders": [
@@ -7142,9 +7142,9 @@
         "coverage": "complete",
         "assessment": "not-assessed",
         "kind": "study-note",
-        "topic": "Reforma — Lei Complementar 236/2026: alterações no CTN (página 1)",
-        "category": "Reforma Tributária — LC 236/2026",
-        "summary": "Mapa da página 1 da LC 236/2026: alterações no CTN por sete áreas, capítulo novo de Processo Administrativo Fiscal, vetos e referências de volumes e páginas.",
+        "topic": "Reforma — Lei 236/2026",
+        "category": "Reforma Tributária — Lei Complementar 236/2026 (alterações no CTN)",
+        "summary": "Tópico próprio de revisão: mapa das alterações da LC 236/2026 no CTN (página 1), com artigos alterados/incluídos, prazos, vetos, processo administrativo fiscal e indicação dos volumes.",
         "source": "Página 1 do arquivo LC_236_2026_-_Trechos_Modificados.pdf encontrado no Google Drive. O quadro mantém o conteúdo do material enviado, sem verificação independente com legislação oficial.",
         "contentBlocks": [
           {
@@ -8105,6 +8105,19 @@
               "id": "afo-topico-61",
               "title": "Disposições Finais e Transitórias da LRF (arts. 60 a 75)"
             }
+          ]
+        }
+      ]
+    },
+    "Tributário": {
+      "coverage": "partial",
+      "source": "Tópico Reforma — Lei 236/2026 solicitado pelo usuário, extraído da página 1 do PDF LC_236_2026_-_Trechos_Modificados.pdf, registrado em documento próprio. Outros sumários de Tributário não foram fornecidos nesta estrutura.",
+      "nodes": [
+        {
+          "id": "reforma-lei-236-2026",
+          "title": "Reforma — Lei 236/2026",
+          "fileIds": [
+            "1xVJ_RhniJjKIGszflLKHTWvgOQTi_coZXoBpXyq5IR8"
           ]
         }
       ]
