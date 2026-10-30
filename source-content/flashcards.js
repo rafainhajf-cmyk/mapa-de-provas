@@ -9,7 +9,7 @@ function loadReviews(){try{const obj=JSON.parse(localStorage.getItem(progressKey
 let reviews=loadReviews();
 function noteScore(card){const r=reviews[card.id];return r?.due||0}
 function isDue(card){const r=reviews[card.id];return !r||!r.due||r.due<=now()}
-function subjectCards(){return cards.filter(c=>c.subjectKey===subject&&(!filter||c.deckPath.includes(filter)))}
+function subjectCards(){return cards.filter(c=>c.subjectKey===subject&&(!filter||(filter.startsWith('v:')?medianVolume(c.deckPath)===filter.slice(2):filter.startsWith('d:')?c.deckPath===decodeURIComponent(filter.slice(2)):false)))}
 function currentGroup(){return subjectCards().filter(c=>showAll||isDue(c)).sort((a,b)=>noteScore(a)-noteScore(b)||a.id.localeCompare(b.id))}
 function medianVolume(path){return String(path||'').split('::')[1]||'Geral'}
 function subjStats(key){const chosen=cards.filter(c=>c.subjectKey===key);return {all:chosen.length,due:chosen.filter(isDue).length,studied:chosen.filter(c=>reviews[c.id]).length};}
@@ -22,9 +22,18 @@ function renderNav(){
  const s=subjStats(subject);
  $('#subjectTitle').textContent=LABELS[subject];
  $('#subjectDetail').textContent=s.all+' cartões originais · '+s.due+' disponíveis para revisão · '+s.studied+' já revisados';
- const paths=[...new Set(cards.filter(c=>c.subjectKey===subject).map(c=>medianVolume(c.deckPath)))].sort((a,b)=>a.localeCompare(b,'pt-BR',{numeric:true}));
- $('#filterDeck').innerHTML='<option value="">Todos os volumes e assuntos</option>'+paths.map(p=>'<option value="'+esc(p)+'">'+esc(p)+'</option>').join('');
- if(!paths.includes(filter))filter='';
+ const decks=[...new Set(cards.filter(c=>c.subjectKey===subject).map(c=>c.deckPath))].sort((a,b)=>a.localeCompare(b,'pt-BR',{numeric:true}));
+ const volumeMap=new Map();
+ for(const d of decks){const parts=String(d).split('::'),volume=parts[1]||'Geral',topic=parts[2]||'Geral';if(!volumeMap.has(volume))volumeMap.set(volume,[]);volumeMap.get(volume).push({path:d,title:topic});}
+ const possible=new Set(['']);
+ let options='<option value="">Todos os volumes e assuntos</option>';
+ for(const [volume,entries] of volumeMap){
+  const value='v:'+volume;possible.add(value);
+  options+='<option value="'+esc(value)+'">'+esc(volume)+'</option>';
+  for(const entry of entries){const dv='d:'+encodeURIComponent(entry.path);possible.add(dv);options+='<option value="'+esc(dv)+'">↳ '+esc(entry.title)+'</option>';}
+ }
+ $('#filterDeck').innerHTML=options;
+ if(!possible.has(filter))filter='';
  $('#filterDeck').value=filter;
  $('#showAll').checked=showAll;
 }
@@ -121,7 +130,7 @@ function gradeCard(grade){
 function exportProgress(){
  const data={format:'mapa-literalidade-progresso-v1',exportedAt:new Date().toISOString(),reviews};
  const blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'});
- const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='flashcards_literaliadade_progresso.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),2000);
+ const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='flashcards_literalidade_progresso.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),2000);
 }
 async function refresh(keep=false){
  cards=await allCards();cardsById.clear();for(const c of cards)cardsById.set(c.id,c);
