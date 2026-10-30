@@ -55,6 +55,18 @@ async function walk(dir, relative = '') {
 }
 await walk('private-content');
 await writeFile('private-content/_allowlist.json', JSON.stringify(files));
+const offlineCore=['index.html','dificuldades.html','apostila.html','flashcards.html','provas.html','offline.js','offline-sw.js','offline-files.json'];
+const offlineFiles=[];let offlineBytes=0;
+for(const name of [...offlineCore,...files.filter(name=>/\.(?:html|js|css|json|pdf|svg|png|jpg|jpeg|webp)$/.test(name))]){
+ if(name==='offline-files.json'||offlineFiles.includes('/'+name)||!files.includes(name)&&!offlineCore.includes(name))continue;
+ const size=(await import('node:fs/promises')).stat(path.join('private-content',name)).then(x=>x.size).catch(()=>0);
+ const bytes=await size;
+ if(!offlineCore.includes(name)&&(bytes>8*1024*1024||offlineBytes+bytes>45*1024*1024))continue;
+ offlineFiles.push('/'+name);offlineBytes+=bytes;
+}
+await writeFile('private-content/offline-files.json',JSON.stringify(offlineFiles));
+files.push('offline-files.json');
+
 await rm('public', { recursive: true, force: true });
 await mkdir('public');
 await writeFile('public/.keep', '');
