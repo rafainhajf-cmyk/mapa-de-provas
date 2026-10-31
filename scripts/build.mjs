@@ -64,6 +64,9 @@ if(afoNote){const i=liveData.analysis.analyzedFiles.findIndex(n=>n.id===afoId);i
 // Sincroniza todas as anotações revisadas de AFO mantendo os PDFs originais.
 const afoFileIds=new Set(rootData.folders.filter(f=>f.subject==='AFO e Direito Financeiro').flatMap(f=>f.files.map(x=>x.id)));
 for(const afoId2 of afoFileIds){const note=rootData.analysis.analyzedFiles.find(n=>n.id===afoId2);if(!note)continue;const i=liveData.analysis.analyzedFiles.findIndex(n=>n.id===afoId2);if(i<0)liveData.analysis.analyzedFiles.push(note);else liveData.analysis.analyzedFiles[i]={...liveData.analysis.analyzedFiles[i],...note};}
+// Sincroniza os índices visuais do conteúdo constitucional enviado, preservando os PDFs.
+const constitutionalIds=new Set(rootData.folders.filter(f=>f.subject==='Direito Constitucional').flatMap(f=>(f.files||[]).map(x=>x.id)));
+for(const id of constitutionalIds){const note=rootData.analysis.analyzedFiles.find(n=>n.id===id);if(!note?.contentBlocks?.length)continue;const i=liveData.analysis.analyzedFiles.findIndex(n=>n.id===id);if(i>=0)liveData.analysis.analyzedFiles[i]={...liveData.analysis.analyzedFiles[i],...note};}
 liveData.source ||= {};
 liveData.source.checkedAt=new Date().toISOString();
 await writeFile(liveDataPath,JSON.stringify(liveData));
