@@ -42,15 +42,15 @@ function setSeen(id,seen){if(seen)progress.seen[id]=new Date().toISOString();els
 function renderOutline(){
  const q=normalize($('search').value.trim()),unread=$('onlyUnread').checked;
  const fragment=document.createDocumentFragment();let count=0;
- for(const s of visibleSections()){
+ for(const s of (q?sections:visibleSections())){
   if(unread&&progress.seen[s.id]||q&&!normalize(text(s)).includes(q))continue;
   count++;
   const row=document.createElement('div');row.dataset.section=s.id;row.className='section-row level-2'+(progress.seen[s.id]?' done':'');
   const check=document.createElement('input');check.type='checkbox';check.checked=!!progress.seen[s.id];check.setAttribute('aria-label','Já vi: '+s.title);check.addEventListener('change',()=>setSeen(s.id,check.checked));
-  const button=document.createElement('button');button.className='section-link';button.textContent=s.title;button.addEventListener('click',()=>jump(s.id,true));
+  const button=document.createElement('button');button.className='section-link';button.textContent=(q?'['+(volumes.find(v=>v.id===volumeFor(s))?.title||'Tributário')+'] ':'')+s.title;button.addEventListener('click',()=>jump(s.id,true));
   row.append(check,button);fragment.append(row);
  }
- if(!count){const p=document.createElement('p');p.className='empty';p.textContent='Nenhum assunto encontrado nesta apostila.';fragment.append(p);}
+ if(!count){const p=document.createElement('p');p.className='empty';p.textContent=q?'Nenhum assunto encontrado em todo o Tributário.':'Nenhum assunto neste tópico.';fragment.append(p);}
  $('chapters').replaceChildren(fragment);updateReadStates();
 }
 function content(blocks){return blocks.map(b=>b.type==='detail'?'<details class="study-detail"><summary>'+escapeHTML(b.title||'Ver explicação detalhada')+'</summary><div class="study-detail-content">'+content(b.blocks||[])+'</div></details>':b.type==='table'?'<div class="table-wrap" role="region" aria-label="Quadro comparativo" tabindex="0"><table><thead><tr>'+b.rows[0].map(c=>'<th scope="col">'+escapeHTML(c)+'</th>').join('')+'</tr></thead><tbody>'+b.rows.slice(1).map(row=>'<tr>'+row.map(c=>'<td>'+escapeHTML(c)+'</td>').join('')+'</tr>').join('')+'</tbody></table></div>':'<p'+(b.source?' class="source"':'')+'>'+escapeHTML(b.text)+'</p>').join('');}
