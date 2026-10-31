@@ -67,6 +67,8 @@ for(const afoId2 of afoFileIds){const note=rootData.analysis.analyzedFiles.find(
 // Sincroniza os índices visuais do conteúdo constitucional enviado, preservando os PDFs.
 const constitutionalIds=new Set(rootData.folders.filter(f=>f.subject==='Direito Constitucional').flatMap(f=>(f.files||[]).map(x=>x.id)));
 for(const id of constitutionalIds){const note=rootData.analysis.analyzedFiles.find(n=>n.id===id);if(!note?.contentBlocks?.length)continue;const i=liveData.analysis.analyzedFiles.findIndex(n=>n.id===id);if(i>=0)liveData.analysis.analyzedFiles[i]={...liveData.analysis.analyzedFiles[i],...note};}
+// Atualiza os blocos visuais de todas as matérias catalogadas, preservando arquivos originais.
+for(const originalNote of rootData.analysis.analyzedFiles){if(!originalNote.contentBlocks?.some(b=>b.type==='callout'||b.type==='flowchart'))continue;const index=liveData.analysis.analyzedFiles.findIndex(n=>n.id===originalNote.id);if(index>=0)liveData.analysis.analyzedFiles[index]={...liveData.analysis.analyzedFiles[index],contentBlocks:originalNote.contentBlocks};}
 liveData.source ||= {};
 liveData.source.checkedAt=new Date().toISOString();
 await writeFile(liveDataPath,JSON.stringify(liveData));
