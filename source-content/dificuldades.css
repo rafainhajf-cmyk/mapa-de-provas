@@ -105,3 +105,18 @@ body:has(.study-note-dialog[open]){overflow:hidden}
 .topic-reading[data-reader-title="Ciência de Dados"] .study-note-image{width:fit-content;max-width:min(100%,800px)}
 
 .topic-reading[data-reader-title="Auditoria"] .study-note-image{width:fit-content;max-width:min(100%,800px)}
+
+/* Visual de revisão: referência editorial Literalidade — identidade própria do Mapa */
+.difficulty-page .study-note-text .study-note-table{margin:14px 0 18px;overflow-x:auto;border:1px solid #c8ddeb;border-radius:9px;box-shadow:0 3px 15px #193c6310;background:#fff}
+.difficulty-page .study-note-text .study-note-table table{width:100%;border-collapse:separate;border-spacing:0;font-size:clamp(12px,1.4vw,14px);line-height:1.48}
+.difficulty-page .study-note-text .study-note-table th{background:#eaf4fc;color:#174b80;border-bottom:2px solid #89b9dc;padding:11px 13px;text-align:left;font-weight:800}
+.difficulty-page .study-note-text .study-note-table th:not(:first-child){background:#fff0f4;color:#9b2d56;border-bottom-color:#e5a8bd}
+.difficulty-page .study-note-text .study-note-table td{padding:10px 13px;border-bottom:1px solid #e8eef3;vertical-align:top}
+.difficulty-page .study-note-text .study-note-table td:first-child{font-weight:650;color:#254e72;background:#f5f9fd}
+.difficulty-page .study-note-text .study-note-table tr:last-child td{border-bottom:0}
+.difficulty-page .study-note-text h4{font-size:clamp(15px,1.8vw,19px);color:#17619e;border-left:4px solid #267bca;background:#edf6fd;padding:10px 14px;border-radius:0 6px 6px 0;margin:20px 0 12px}
+.difficulty-page .study-note-text .study-detail-toggle{display:block;width:100%;padding:12px 15px;border:1px solid #b9d4e7;border-left:4px solid #267bca;background:#f0f7fd;color:#18507b;border-radius:7px;text-align:left;font-size:14px;font-weight:750;cursor:pointer}
+.difficulty-page .study-note-text .study-detail-body{padding:12px 15px;background:#f8fbff;border:1px solid #d6e5f0;border-top:0;border-radius:0 0 7px 7px;font-size:13px;line-height:1.6}
+.difficulty-page .study-note-text .study-note-table tr td:nth-child(2):not(:last-child){background:#f2f9f4}
+.difficulty-page .study-note-text .study-note-table tr td:last-child:not(:nth-child(2)){background:#fffaf0}
+@media(max-width:600px){.difficulty-page .study-note-text .study-note-table th,.difficulty-page .study-note-text .study-note-table td{padding:8px 9px;font-size:12px}}
