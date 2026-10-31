@@ -10,12 +10,13 @@ const volumes=[
 {id:'lc227',title:'Alterações da LC 227/2026'},
 {id:'ipva',title:'IPVA'},
 {id:'itcmd',title:'ITCMD'},
-{id:'rmit',title:'Regra-Matriz (RMIT)'}
+{id:'rmit',title:'Regra-Matriz (RMIT)'},
+{id:'reserva',title:'Lei Ordinária × Lei Complementar'}
 ];
 const VOLKEY='mapa-tributario-volume-v1';
 let selectedVolume=localStorage.getItem(VOLKEY)||'comparativo';
 if(!volumes.some(v=>v.id===selectedVolume))selectedVolume='comparativo';
-function volumeFor(s){const t=normalize(s.title),n=Number(s.originalIndex);
+function volumeFor(s){if(s.volume==='reserva'||s.id.startsWith('reserva-lei-'))return 'reserva';const t=normalize(s.title),n=Number(s.originalIndex);
  if(n>=60||n===14)return 'rmit';
  if(n>=19&&n<=22)return 'ipva';
  if(n>=26&&n<=30)return 'itcmd';
