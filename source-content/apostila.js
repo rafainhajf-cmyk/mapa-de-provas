@@ -11,12 +11,13 @@ const volumes=[
 {id:'ipva',title:'IPVA'},
 {id:'itcmd',title:'ITCMD'},
 {id:'rmit',title:'Regra-Matriz (RMIT)'},
-{id:'reserva',title:'Lei Ordinária × Lei Complementar'}
+{id:'reserva',title:'Lei Ordinária × Lei Complementar'},
+{id:'judicial',title:'Ações e Remédios Tributários'}
 ];
 const VOLKEY='mapa-tributario-volume-v1';
 let selectedVolume=localStorage.getItem(VOLKEY)||'comparativo';
 if(!volumes.some(v=>v.id===selectedVolume))selectedVolume='comparativo';
-function volumeFor(s){if(s.volume==='reserva'||s.id.startsWith('reserva-lei-'))return 'reserva';const t=normalize(s.title),n=Number(s.originalIndex);
+function volumeFor(s){if(s.volume&&volumes.some(v=>v.id===s.volume))return s.volume;if(s.volume==='reserva'||s.id.startsWith('reserva-lei-'))return 'reserva';const t=normalize(s.title),n=Number(s.originalIndex);
  if(n>=60||n===14)return 'rmit';
  if(n>=19&&n<=22)return 'ipva';
  if(n>=26&&n<=30)return 'itcmd';
@@ -64,7 +65,7 @@ $('menu').addEventListener('click',()=>openMenu(!document.body.classList.contain
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&document.body.classList.contains('nav-open')){openMenu(false);$('menu').focus();}});
 window.addEventListener('hashchange',()=>sections.length&&jump(location.hash.slice(1)));window.addEventListener('scroll',trackScroll,{passive:true});window.addEventListener('pagehide',save);
 window.addEventListener('storage',e=>{if(e.key===KEY){progress=loadProgress();renderOutline();updateReadStates();}});
-async function init(){try{const response=await fetch('apostila-data.json?v=20261030',{cache:'no-store'});if(!response.ok)throw Error('load');const data=await response.json();if(!Array.isArray(data.sections)||!data.sections.length)throw Error('empty');sections=data.sections.map((s,originalIndex)=>({...s,originalIndex}));progress=loadProgress();renderVolumes();const target=sections.find(s=>s.id===location.hash.slice(1));if(target)selectedVolume=volumeFor(target);const initial=target||visibleSections().find(s=>s.id===progress.last)||visibleSections()[0];current=initial;chooseVolume(selectedVolume,false);if(initial!==visibleSections()[0])requestAnimationFrame(()=>jump(initial.id));}catch{$('article').replaceChildren();$('loadError').hidden=false;$('progressCount').textContent='Conteúdo indisponível';}}
+async function init(){try{const response=await fetch('apostila-data.json?v=20261031',{cache:'no-store'});if(!response.ok)throw Error('load');const data=await response.json();if(!Array.isArray(data.sections)||!data.sections.length)throw Error('empty');sections=data.sections.map((s,originalIndex)=>({...s,originalIndex}));progress=loadProgress();renderVolumes();const target=sections.find(s=>s.id===location.hash.slice(1));if(target)selectedVolume=volumeFor(target);const initial=target||visibleSections().find(s=>s.id===progress.last)||visibleSections()[0];current=initial;chooseVolume(selectedVolume,false);if(initial!==visibleSections()[0])requestAnimationFrame(()=>jump(initial.id));}catch{$('article').replaceChildren();$('loadError').hidden=false;$('progressCount').textContent='Conteúdo indisponível';}}
 $('article').addEventListener('study-content-edited',event=>{const heading=event.target;if(heading.tagName!=='H2')return;const section=sections.find(s=>s.id===heading.closest('.book-section')?.id);if(section){section.title=heading.textContent.trim();renderOutline();}});
 init();
 
