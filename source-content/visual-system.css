@@ -105,3 +105,8 @@ body:has(#provasApp) h1{color:#205a8b}
 .tax-related-link small{color:#657d92}
 .tax-related-link:hover{background:#e7f3fc}
 .tax-book-page .change-history{margin:12px 0 20px;padding:12px 15px;background:#fffaf0;border:1px solid #e6d5b5;border-radius:10px;color:#6a552f;font-size:13px}
+
+/* Atalho discreto da biblioteca para a fonte consolidada */
+.tax-unified-notice{position:relative;z-index:5;display:flex;gap:9px;align-items:center;flex-wrap:wrap;margin:56px 20px 0 auto;width:calc(100% - 300px);padding:11px 15px;border:1px solid #bdd9ee;background:#eef7ff;color:#285a81;border-radius:9px;font-size:12px}
+.tax-unified-notice strong{color:#125c92}.tax-unified-notice span{flex:1 1 280px}.tax-unified-notice a{white-space:nowrap;font-weight:750}
+@media(max-width:850px){.tax-unified-notice{width:calc(100% - 32px);margin:54px 16px 8px}}
