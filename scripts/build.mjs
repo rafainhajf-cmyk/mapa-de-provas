@@ -57,6 +57,10 @@ const consortiumFile=rootAdmin?.files.find(f=>f.id===consortiumId);
 const consortiumNote=rootData.analysis.analyzedFiles.find(n=>n.id===consortiumId);
 if(liveAdmin&&consortiumFile&&!liveAdmin.files.some(f=>f.id===consortiumId))liveAdmin.files.push(consortiumFile);
 if(consortiumNote){const i=liveData.analysis.analyzedFiles.findIndex(n=>n.id===consortiumId);if(i<0)liveData.analysis.analyzedFiles.push(consortiumNote);else liveData.analysis.analyzedFiles[i]=consortiumNote;}
+// Publica o quadro compacto de AFO preservando o catálogo e o PDF original.
+const afoId='1fRQUGhq2tcrpwU3sCJV0wdveCVO04zWw';
+const afoNote=rootData.analysis?.analyzedFiles?.find(n=>n.id===afoId);
+if(afoNote){const i=liveData.analysis.analyzedFiles.findIndex(n=>n.id===afoId);if(i>=0)liveData.analysis.analyzedFiles[i]={...liveData.analysis.analyzedFiles[i],...afoNote};else liveData.analysis.analyzedFiles.push(afoNote);}
 liveData.source ||= {};
 liveData.source.checkedAt=new Date().toISOString();
 await writeFile(liveDataPath,JSON.stringify(liveData));
