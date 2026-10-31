@@ -4,6 +4,21 @@
   "buildCommand": "npm run build",
   "installCommand": "npm ci",
   "outputDirectory": "public",
-  "functions": { "api/gateway.mjs": { "includeFiles": "private-content/**", "maxDuration": 30 } },
-  "rewrites": [{ "source": "/(.*)", "destination": "/api/gateway?__study_path=$1" }]
+  "functions": {
+    "api/gateway.mjs": {
+      "includeFiles": "private-content/**",
+      "maxDuration": 30
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/api/gateway?__study_path=$1"
+    }
+  ],
+  "git": {
+    "deploymentEnabled": {
+      "dev/revisoes-mapa-de-provas": false
+    }
+  }
 }
