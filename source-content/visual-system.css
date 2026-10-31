@@ -50,3 +50,23 @@ body:has(#provasApp) h1{color:#205a8b}
 ::-webkit-scrollbar{width:10px;height:10px}::-webkit-scrollbar-thumb{background:#b8cad9;border:2px solid #f5f8fc;border-radius:20px}
 @media(max-width:740px){.main-header-navigation nav{justify-content:flex-start;overflow-x:auto;max-width:100%}.main-header-navigation .main-header-button{padding:7px 10px!important;font-size:11px!important}.tax-book-page .book-title{font-size:clamp(23px,5vw,32px)}.study-note-table th,.study-note-table td{padding:9px!important}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition-duration:.01ms!important;animation-duration:.01ms!important}}
+
+/* Componentes visuais compartilhados, para todas as matérias */
+.visual-flow{padding:14px;margin:16px 0;border:1px solid #c9e0f0;border-radius:13px;background:#f8fbff}
+.visual-flow h5{color:#155a91;font-size:14px;margin:0 0 12px}
+.visual-flow-track{display:flex;flex-direction:column;align-items:center;gap:7px}
+.visual-flow-node{width:min(100%,420px);padding:11px 15px;text-align:center;border:1px solid #bed5e8;border-left:4px solid #3986bd;border-radius:9px;background:white}
+.visual-flow-node strong,.visual-flow-node small{display:block}
+.visual-flow-node small{margin-top:3px;font-size:12px;color:#536e83}
+.visual-flow-node.success{border-left-color:#29865b;background:#edf8f1}
+.visual-flow-node.danger{border-left-color:#bc4862;background:#fff1f3}
+.visual-flow-node.warning{border-left-color:#d3a13c;background:#fffaeb}
+.visual-flow-arrow{color:#438abe;font-size:21px;line-height:1}
+.visual-callout{border:1px solid #bad8ee;border-left:4px solid #2c80bf;background:#eff7fe;padding:12px 14px;border-radius:8px;margin:12px 0}
+.visual-callout strong{color:#175f93}.visual-callout p{margin:5px 0 0!important}
+.visual-callout.rule{background:#edf8f1;border-color:#b9dfc8;border-left-color:#26965c}
+.visual-callout.warning{background:#fffae9;border-color:#ead7a2;border-left-color:#ca962f}
+.visual-callout.danger{background:#fff0f3;border-color:#e8b6c1;border-left-color:#c24f68}
+.visual-study-detail{background:#f2f8ff;border:1px solid #c7e0f0;border-radius:9px;padding:10px 14px;margin:14px 0}
+.visual-study-detail summary{cursor:pointer;color:#175c92;font-weight:750}
+.visual-study-detail>p{font-size:13px;line-height:1.6}
