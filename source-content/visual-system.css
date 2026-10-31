@@ -86,3 +86,12 @@ body:has(#provasApp) h1{color:#205a8b}
 .visual-decision-yes{background:#edf8f1;border-color:#b4dac4!important;color:#246b47}
 .visual-decision-no{background:#fff0f3;border-color:#edc4ce!important;color:#91425c}
 @media(max-width:550px){.visual-timeline{display:block}.visual-timeline-step{margin-bottom:13px}.visual-timeline-step:not(:last-child)::after{content:'↓';right:50%;top:auto;bottom:-17px;transform:translateX(50%)}.visual-decision-choices{gap:7px}.visual-decision-choices>div{padding:9px}}
+
+/* Leitura editorial contextual — aplicada à biblioteca de todas as matérias */
+.visual-reading-label{display:flex;align-items:center;gap:9px;margin:10px 0 13px;padding:9px 13px;border-radius:9px;background:#eef6fc;border-left:4px solid #3280bb;color:#235e8a;font-weight:700;font-size:13px}
+.visual-reading-label span{font-size:20px;line-height:1}
+.difficulty-page .study-note-text .study-note-table{max-width:100%;overflow-x:auto}
+.difficulty-page .study-note-text .study-note-table th{position:relative}
+.difficulty-page .study-note-text .study-note-table td{line-height:1.55}
+.difficulty-page .study-note-text .study-note-table tr:hover td{box-shadow:inset 0 0 0 100vw #227ac008}
+@media (max-width:640px){.visual-reading-label{font-size:12px}.difficulty-page .study-note-text .study-note-table{scrollbar-color:#87b7dc #f3f8fc}}
