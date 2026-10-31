@@ -1680,9 +1680,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "contabilidade1.pdf",
       "page": 12,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "1117812",
@@ -1850,9 +1850,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "contabilidade1.pdf",
       "page": 12,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "1821281",
@@ -1870,9 +1870,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "contabilidade1.pdf",
       "page": 11,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "1889225",
@@ -1970,9 +1970,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "contabilidade1.pdf",
       "page": 12,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "2013231",
@@ -2311,8 +2311,8 @@
       "source": "contabilidade1.pdf",
       "page": 12,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "2163620",
@@ -2411,8 +2411,8 @@
       "source": "contabilidade1.pdf",
       "page": 16,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "2215156",
@@ -2420,9 +2420,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "contabilidade1.pdf",
       "page": 11,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "2218600",
@@ -2601,8 +2601,8 @@
       "source": "contabilidade1.pdf",
       "page": 15,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "2272183",
@@ -2670,9 +2670,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "contabilidade1.pdf",
       "page": 17,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "2293652",
@@ -2940,9 +2940,9 @@
       "topic": "Contabilidade Geral - Ativo Não Circulante Mantido p/ Venda e Operação Descontinuada (CPC 31)",
       "source": "contabilidade1.pdf",
       "page": 16,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "2414501",
@@ -3060,9 +3060,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "contabilidade1.pdf",
       "page": 10,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "2709621",
@@ -3191,8 +3191,8 @@
       "source": "contabilidade1.pdf",
       "page": 13,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "2792320",
@@ -3201,8 +3201,8 @@
       "source": "contabilidade1.pdf",
       "page": 18,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "2792329",
@@ -3221,8 +3221,8 @@
       "source": "contabilidade1.pdf",
       "page": 17,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "2818479",
@@ -3681,8 +3681,8 @@
       "source": "contabilidade1.pdf",
       "page": 17,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "3084213",
@@ -3791,8 +3791,8 @@
       "source": "contabilidade1.pdf",
       "page": 16,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "3113663",
@@ -4070,9 +4070,9 @@
       "topic": "Contabilidade Geral - Propriedades para Investimento (CPC 28)",
       "source": "contabilidade1.pdf",
       "page": 13,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "3201293",
@@ -4081,8 +4081,8 @@
       "source": "contabilidade1.pdf",
       "page": 13,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "3202360",
@@ -4221,8 +4221,8 @@
       "source": "contabilidade1.pdf",
       "page": 18,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "3240926",
@@ -4281,8 +4281,8 @@
       "source": "contabilidade1.pdf",
       "page": 15,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "3349493",
@@ -4530,9 +4530,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "contabilidade1.pdf",
       "page": 16,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "3448138",
@@ -4690,9 +4690,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "contabilidade1.pdf",
       "page": 14,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "3552256",
@@ -4790,9 +4790,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "contabilidade1.pdf",
       "page": 15,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "3557767",
@@ -5051,8 +5051,8 @@
       "source": "contabilidade1.pdf",
       "page": 14,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 3,
+      "status": "resolvida"
     },
     {
       "id": "3567672",

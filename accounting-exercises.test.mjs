@@ -19,8 +19,8 @@ import {tecOriginals} from './source-content/accounting-originals.js';
 import {secondBatch} from './source-content/accounting-solutions-02.js';
 test('inventário conta questões únicas analisadas e preserva a origem',()=>{
  assert.equal(secondBatch.length,17);
- assert.equal(resolvedQuestions.length,38);
- assert.equal(new Set(resolvedQuestions.map(q=>q.id)).size,38);
+ assert.equal(resolvedQuestions.length,62);
+ assert.equal(new Set(resolvedQuestions.map(q=>q.id)).size,62);
  for(const q of resolvedQuestions){
   assert.ok(tecOriginals[q.id]?.text.length>80,q.id);
   assert.ok(tecOriginals[q.id].page>0,q.id);
@@ -40,4 +40,6 @@ test('tabelas do lote conservam células e valores separados',()=>{
  assert.match(html,/<th>31\/12\/2023<\/th>/);
  assert.match(html,/<td>1.140.000<\/td>/);
  assert.match(html,/<td>R\$ 3.000.000<\/td>/);
+ assert.match(tecOriginals['2266771'].text,/Investimentos \(Cia X\) \| 48.000/);
+ assert.match(html,/<th>Patrimônio Líquido<\/th>/);
 });

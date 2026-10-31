@@ -129,10 +129,10 @@ export const tecOriginals = {
     "id": "2163618",
     "exam": "FCC - FRE (SEFAZ AP)/SEFAZ AP/2022",
     "topic": "Contabilidade Geral - Instrumentos Financeiros",
-    "text": "Atenção: Para responder a questão, utilize as informações abaixo.A tabela a seguir apresenta as aplicações financeiras realizadas pela empresa Só Caixa S.A. no dia 30/11/2021. São apresentadas as características, a forma demensuração definida pela empresa e os respectivos valores justos para cada aplicação em 31/12/2021: \n(Valores em reais)\nValor\nAplicado\nData de\nvencimento Mensuração definida pela empresaTaxa de juros\ncompostos\nValor Justo em 31/12/2021\n(R$)\n100.000,0031/05/2022 Mensuração ao custo amortizado2% a.m. 103.500,00\n200.000,0031/07/2023Mensuração ao valor justo por meio de outros resultados\nabrangentes 1% a.m. 201.000,00\n150.000,0031/03/2024Mensuração ao valor justo por meio do resultado1% a.m. 149.000,00\n O impacto reconhecido no resultado de dezembro de 2021 da empresa Só Caixa S.A., referente às aplicações financeiras realizadas em 30/11/2021, foi, em reais,\na)  3.500,00.b)  5.500,00.c)  3.000,00.d)  2.000,00.e)  4.500,00.",
+    "text": "Atenção: Para responder a questão, utilize as informações abaixo.A tabela a seguir apresenta as aplicações financeiras realizadas pela empresa Só Caixa S.A. no dia 30/11/2021. São apresentadas as características, a forma demensuração definida pela empresa e os respectivos valores justos para cada aplicação em 31/12/2021: \n(Valores em reais)\nValor Aplicado | Data de vencimento | Mensuração definida pela empresa | Taxa de juros compostos | Valor Justo em 31/12/2021 (R$)\n100.000,00 | 31/05/2022 | Mensuração ao custo amortizado | 2% a.m. | 103.500,00\n200.000,00 | 31/07/2023 | Mensuração ao valor justo por meio de outros resultados abrangentes | 1% a.m. | 201.000,00\n150.000,00 | 31/03/2024 | Mensuração ao valor justo por meio do resultado | 1% a.m. | 149.000,00\n\nO impacto reconhecido no resultado de dezembro de 2021 da empresa Só Caixa S.A., referente às aplicações financeiras realizadas em 30/11/2021, foi, em reais,\na)  3.500,00.b)  5.500,00.c)  3.000,00.d)  2.000,00.e)  4.500,00.",
     "source": "contabilidade1.pdf",
     "page": 12,
-    "transcription": "extraída do PDF fornecido"
+    "transcription": "conferida no PDF fornecido — lote 03"
   },
   "2163640": {
     "id": "2163640",
@@ -159,7 +159,7 @@ export const tecOriginals = {
     "text": "Uma entidade decide colocar à venda um terreno que antes era mantido para valorização. O terreno passa a ser contabilizado como ativo não circulante mantidopara venda.\nA entidade obtém um compromisso firme de compra e, como resultado, o comprador impõe inesperadamente condições à transferência do terreno que irão estender operíodo exigido para que a venda seja concluída por mais doze meses. As ações necessárias para responder às condições foram tomadas e a administração espera umasolução favorável dos fatores que causaram o atraso.\nNo balanço patrimonial, o terreno deve ser contabilizado como\na)  Ativo Imobilizado.b)  Patrimônio Líquido.c)  Ativo Realizável a Longo Prazo.d)  Propriedade para Investimento.e)  Ativo não Circulante mantido para venda.",
     "source": "contabilidade1.pdf",
     "page": 16,
-    "transcription": "extraída do PDF fornecido"
+    "transcription": "conferida no PDF fornecido — lote 03"
   },
   "2218620": {
     "id": "2218620",
@@ -201,10 +201,10 @@ export const tecOriginals = {
     "id": "2266771",
     "exam": "FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023",
     "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
-    "text": "Uma sociedade empresária tinha 80% de participação na Cia. X. Em 30/12/X0, a sociedade empresária apresentava o seguinte balanço patrimonial: \n No ano de X0, a Cia. X auferiu lucro de R$ 10.000 e distribuiu dividendos no total de R$ 2.000. Assinale a opção que indica o saldo da conta “Investimentos” no balanço patrimonial da sociedade empresária em 31/12/X0, após a apuração do lucro e oreconhecimento dos dividendos pela Cia X.\na)  R$ 54.000.b)  R$ 54.400.c)  R$ 56.000.d)  R$ 57.600.e)  R$ 60.000.",
+    "text": "Uma sociedade empresária tinha 80% de participação na Cia. X. Em 30/12/X0, a sociedade empresária apresentava o seguinte balanço patrimonial: \n Ativo | Valor | Patrimônio Líquido | Valor\nAtivo Circulante | 30.000 | Patrimônio Líquido | 78.000\nCaixa | 30.000 | | \nAtivo não Circulante | 48.000 | | \nInvestimentos | | | \nInvestimentos (Cia X) | 48.000 | | \nAtivo Total | 78.000 | PL Total | 78.000\n\nNo ano de X0, a Cia. X auferiu lucro de R$ 10.000 e distribuiu dividendos no total de R$ 2.000. Assinale a opção que indica o saldo da conta “Investimentos” no balanço patrimonial da sociedade empresária em 31/12/X0, após a apuração do lucro e oreconhecimento dos dividendos pela Cia X.\na)  R$ 54.000.b)  R$ 54.400.c)  R$ 56.000.d)  R$ 57.600.e)  R$ 60.000.",
     "source": "contabilidade1.pdf",
     "page": 15,
-    "transcription": "extraída do PDF fornecido"
+    "transcription": "conferida no PDF fornecido — lote 03"
   },
   "2272184": {
     "id": "2272184",
@@ -420,7 +420,7 @@ export const tecOriginals = {
     "text": "A companhia pode ter imóveis que sejam mantidos para fins de locação ou arrendamento ou para fins de valorização da propriedade, tendo em vista uma futuravenda a terceiros, ou ambos os objetivos. A propriedade (terreno ou edifício) pode ser mantida pelo proprietário ou pelo arrendatário para auferir aluguel ou paravalorização do capital ou para ambos. Dessa forma, a empresa pode escolher mensurar como política contábil de suas propriedades para investimento o método do valor:\na)  justo ou método do custo e deve aplicar a política de custo para os edifícios e valor justo para os terrenos;b)  justo ou método do custo e deve aplicar a política escolhida a todas as suas propriedades para investimento;c)  em uso e método do custo corrente e deve aplicar a política de valor em uso para os edifícios e custo corrente para os terrenos;d)  de cumprimento ou método do custo e deve aplicar a política de custo para os edifícios e valor de cumprimento para os terrenos;e)  de mercado ou método do custo corrente e deve aplicar a política escolhida a todas as suas propriedades para investimento.",
     "source": "contabilidade1.pdf",
     "page": 13,
-    "transcription": "extraída do PDF fornecido"
+    "transcription": "conferida no PDF fornecido — lote 03"
   },
   "2792320": {
     "id": "2792320",
@@ -429,7 +429,7 @@ export const tecOriginals = {
     "text": "Uma empresa comprou um jato executivo para uso da alta administração. O custo total foi de R$ 15 milhões e seus principais componentes com custo significativosão: jato, motor e pneus. A empresa espera usar o método linear e estima que o jato seja utilizado por um período de 7 anos. O motor do jato tem vida útil de 5 anos eos pneus são trocados a cada 2 anos. Considerando-se as informações apresentadas, os componentes serão depreciados pelo método linear ao longo de uma vida útil de:\na)  7 anos para os ativos baseado na prudência (a maior vida útil de todas as peças do jato);b)  5 anos para o motor, 2 anos para os pneus e 7 anos para o jato;c)  2 anos para os ativos baseado no conservadorismo (a menor vida útil de todas as peças do jato);d)  5 anos com base numa média simples das vidas úteis de todos os principais componentes do jato;e)  5 anos para o motor, 7 anos para o jato e os pneus são considerados manutenção periódica.",
     "source": "contabilidade1.pdf",
     "page": 18,
-    "transcription": "extraída do PDF fornecido"
+    "transcription": "conferida no PDF fornecido — lote 03"
   },
   "2792329": {
     "id": "2792329",
@@ -447,7 +447,7 @@ export const tecOriginals = {
     "text": "Com relação aos ativos imobilizados, é correto afirmar que o valor estimado que a entidade obteria com a venda do ativo, após deduzir as despesas estimadas devenda, caso o ativo já tivesse a idade e a condição esperadas para o fim de sua vida útil, corresponde ao\na) valor residual.b) valor depreciável.c) custo do ativo.d) valor contábil.e) valor recuperável.",
     "source": "contabilidade1.pdf",
     "page": 17,
-    "transcription": "extraída do PDF fornecido"
+    "transcription": "conferida no PDF fornecido — lote 03"
   },
   "2818479": {
     "id": "2818479",
@@ -582,7 +582,7 @@ export const tecOriginals = {
     "text": "Acerca dos registros, mensuração e evidenciação contábeis e seus reflexos no patrimônio das organizações, julgue o item seguinte. A mensuração inicial de ativos intangíveis adquiridos em combinação de negócios deve ser realizada ao valor justo na data da aquisição.\nCertoErrado",
     "source": "contabilidade1.pdf",
     "page": 17,
-    "transcription": "extraída do PDF fornecido"
+    "transcription": "conferida no PDF fornecido — lote 03"
   },
   "3084213": {
     "id": "3084213",
@@ -636,7 +636,7 @@ export const tecOriginals = {
     "text": "Em 01/01/2023, uma empresa de consultoria adquiriu dez bicicletas elétricas para emprestar a seus funcionários, para que utilizassem como meio de transporte aolocal de trabalho. O preço da bicicleta era de R$6.000, no entanto, por ter adquirido em quantidade, a empresa recebeu um desconto de 10% sobre o preço. Além disso, na data da compra, a empresa adquiriu o direito de receber manutenção ilimitada das bicicletas durante cinco anos por R$10.000. A empresa esperava que as bicicletas fossem utilizadas durante cinco anos e, depois disso, pretendia vendê-las a seus funcionários ao valor unitário de R$2.000. Assinale a opção que indica o valor líquido contábil das bicicletas no balanço patrimonial da sociedade empresária em 31/12/2023.\na)  R$47.200.b)  R$48.000.c)  R$52.000.d)  R$55.200.e)  R$60.000.",
     "source": "contabilidade1.pdf",
     "page": 16,
-    "transcription": "extraída do PDF fornecido"
+    "transcription": "conferida no PDF fornecido — lote 03"
   },
   "3149114": {
     "id": "3149114",
@@ -663,7 +663,7 @@ export const tecOriginals = {
     "text": "Uma empresa de perícia contábil possui imóveis que são alugados a terceiros. Estes são avaliados a valor justo. Em relação às notas explicativas relacionadas àsquantias reconhecidas no resultado referentes a esses ativos, avalie se a empresa deve divulgar as seguintes quantias reconhecidas no resultado I. lucros de rendas dos ativos. II. despesa de depreciação dos ativos. III. gastos operacionais diretos provenientes dos ativos, independentemente de ter gerado rendas durante o período. Está correto o que se afirma em\na)  I, somente.b)  I e II, somente.c)  I e III, somente.d)  II e III, somente.e)  I, II e III.",
     "source": "contabilidade1.pdf",
     "page": 13,
-    "transcription": "extraída do PDF fornecido"
+    "transcription": "conferida no PDF fornecido — lote 03"
   },
   "3202360": {
     "id": "3202360",
@@ -717,7 +717,7 @@ export const tecOriginals = {
     "text": "Uma companhia adquiriu uma máquina destinada à fabricação de peças automotivas, comprometendo-se a efetuar o pagamento ao fornecedor, no prazo de seismeses, por um valor superior ao preço que pagaria se a transação tivesse sido realizada à vista. A vida útil estimada da máquina é de cinco anos, podendo ela, ao finaldesse período, ser negociada no mercado por um valor estimado equivalente a 30% do seu preço na data de aquisição. Com base nessa situação hipotética, julgue o item a seguir, considerando o disposto na legislação societária e no pronunciamento técnico do Comitê de PronunciamentosContábeis (CPC) que trata dos critérios de reconhecimento e mensuração aplicáveis a bens da espécie. Caso a companhia venha a utilizar o método linear, o valor da depreciação anual da máquina será igual ao montante resultante da aplicação da taxa de 20% sobre ocusto de aquisição.\nCertoErrado",
     "source": "contabilidade1.pdf",
     "page": 18,
-    "transcription": "extraída do PDF fornecido"
+    "transcription": "conferida no PDF fornecido — lote 03"
   },
   "3240926": {
     "id": "3240926",
@@ -753,7 +753,7 @@ export const tecOriginals = {
     "text": "Sobre a classificação e mensuração de ativos não circulantes mantidos para a venda, de acordo com a NBC TG 31 (R4) - ATIVO NÃO CIRCULANTE MANTIDO PARAVENDA E OPERAÇÃO DESCONTINUADA, analise as seguintes afirmativas: I. Os ativos não circulantes mantidos para a venda, desde que satisfeitos os critérios de classificação, são realocados para o ativo circulante da entidade. II. A classificação, a apresentação e a mensuração requeridas pela NBC TG 31 aplicáveis a ativo não circulante classificado como mantido para venda também seaplicam a ativo não circulante que seja classificado como destinado a ser distribuído aos sócios na sua condição de proprietários. III. O ativo não circulante mantido para venda será mensurado pelo maior entre o seu valor contábil e o valor justo menos as despesas de venda. Está correto o que se afirma em\na)  I, somente.b)  I e II, somente.c)  I, II e III.d)  II, somente.",
     "source": "contabilidade1.pdf",
     "page": 15,
-    "transcription": "extraída do PDF fornecido"
+    "transcription": "conferida no PDF fornecido — lote 03"
   },
   "3365888": {
     "id": "3365888",
@@ -888,7 +888,7 @@ export const tecOriginals = {
     "text": "No Balanço Patrimonial da empresa Calças e Camisas S.A., em 31/12/2023, o valor contábil do Patrimônio Líquido evidenciado era R$ 140.000.000. Nesta mesmadata, o valor justo líquido dos seus ativos e passivos identificáveis era R$ 185.000.000, e a diferença entre o valor justo e o valor contábil do Patrimônio Líquidocorrespondia à variação entre o custo contabilizado e o valor justo de alguns terrenos. A empresa Roupas Completas S.A. adquiriu sessenta por cento (60%) das ações da empresa Calças e Camisas S.A. pagando o valor de R$ 102.000.000 e passando adeter seu controle. As seguintes informações, referentes ao período de 01/01/2024 a 31/12/2024, são conhecidas sobre a empresa Calças e Camisas S.A.:    • Lucro líquido de 2024 ........................................................................... R$ 15.000.000   • Distribuição e pagamento de dividendos em 2024 ..............................  R$   7.500.000 A empresa Roupas Completas S.A. registrou:\na)  no resultado do ano de 2024, o resultado de equivalência patrimonial no valor de R$ 4.500.000.b)  na conta Investimentos, no ativo não circulante, o valor de R$ 18.000.000 como ágio por expectativa de rentabilidade futura na data da aquisição.c)  na conta Investimentos, no ativo não circulante, o valor de R$ 102.000.000 na data da aquisição.d)  na conta Investimentos, no ativo não circulante, o valor de R$ 84.000.000 na data da aquisição.e)  resultado positivo de R$ 9.000.000, na data da aquisição.",
     "source": "contabilidade1.pdf",
     "page": 14,
-    "transcription": "extraída do PDF fornecido"
+    "transcription": "conferida no PDF fornecido — lote 03"
   },
   "3584435": {
     "id": "3584435",
@@ -1195,5 +1195,113 @@ export const tecOriginals = {
     "source": "sp 3.pdf",
     "page": 41,
     "transcription": "extraída do PDF fornecido"
+  },
+  "2687937": {
+    "id": "2687937",
+    "exam": "FGV - AFCE (TCE-BA)/TCE BA/2023",
+    "topic": "Contabilidade Geral - Instrumentos Financeiros",
+    "text": "Uma empresa comercial adquiriu três ativos financeiros para receber o principal e juros. O modelo de negócios de gestão dos ativos financeiros objetiva receber osfluxos de caixa contratuais. Observe as seguintes descrições:\nDescrição | Custo amortizado | Valor Justo | Ganhos (perdas) não realizados\nAtivo financeiro 1 | R$ 43.860 | R$ 51.500 | R$ 7.640\nAtivo financeiro 2 | R$ 184.230 | R$ 175.200 | (R$ 9.030)\nAtivo financeiro 3 | R$ 86.360 | R$ 91.500 | R$ 5.140\n\nConsiderando-se as informações apresentadas, a empresa deve:\na)  contabilizar um ganho de R$ 3.750 no resultado;b)  contabilizar uma perda de R$ 9.030 no resultado;c)  mensurar no Balanço Patrimonial um total de R$ 314.450 em ativos financeiros ao custo amortizado;d)  avaliar os ativos financeiros a valor justo com um ganho de R$ 3.750 em outros resultados abrangentes;e)  mensurar no Balanço Patrimonial um total de R$ 318.200 em ativos financeiros a valor justo.",
+    "source": "contabilidade1.pdf",
+    "page": 10,
+    "transcription": "conferida no PDF fornecido — lote 03"
+  },
+  "1889210": {
+    "id": "1889210",
+    "exam": "FGV - Cons TE (SEFAZ ES)/SEFAZ ES/Ciências Contábeis/2022",
+    "topic": "Contabilidade Geral - Instrumentos Financeiros",
+    "text": "Em 31/12/X0, uma sociedade empresária adquiriu 5% das ações de uma companhia aberta por R$ 20.000. No ano de X1, a variação do valor justo das ações foi de R$ 12.000. A sociedade empresária reconheceu esse efeito em resultados abrangentes, de acordo com a NBC TG48- Instrumentos Financeiros. Em 31/12/X1, a sociedade empresária vendeu esse investimento por R$ 32.000. Assinale a opção que indica o valor reconhecido na Demonstração do Resultado do Exercício da sociedade empresária no momento da venda.\na)  Zero.b)  R$ 12.000.c)  R$ 20.000.d)  R$ 32.000.e)  R$ 44.000.",
+    "source": "contabilidade1.pdf",
+    "page": 11,
+    "transcription": "conferida no PDF fornecido — lote 03"
+  },
+  "2215156": {
+    "id": "2215156",
+    "exam": "FGV - AT (TCE TO)/TCE TO/Ciências Contábeis/2022",
+    "topic": "Contabilidade Geral - Instrumentos Financeiros",
+    "text": "Uma empresa realizou um investimento em títulos e valores mobiliários (TVM) em 1º de janeiro de 20x1, com as seguintes características:\ni. Valor aplicado: $ 10.000ii. Prazo: 4 anosiii. Taxa de juros: 7% a.a. (juros compostos)iv. Valor de mercado do título ao final de cada ano, para os 4 anos:\n• 31 de dezembro de 20x1: $ 11.000,00;• 31 de dezembro de 20x2: $ 11.600,00;• 31 de dezembro de 20x3: $ 12.000,00;• 31 de dezembro de 20x4: $ 13.107,96.\nSegundo o modelo de negócios e o fluxo de caixa contratual, a empresa decide mensurar a operação como valor justo por meio do resultado (VJR).\nDessa forma, o saldo da marcação a mercado dos TVM no Balanço Patrimonial em 31 de dezembro 20x1 é:\na) devedor em $ 300;b) devedor em $ 700;c) devedor em $ 10.000;d) credor em $ 11.000;e) credor em $ 11.600.",
+    "source": "contabilidade1.pdf",
+    "page": 11,
+    "transcription": "conferida no PDF fornecido — lote 03"
+  },
+  "1990613": {
+    "id": "1990613",
+    "exam": "FGV - AFCTE (Sefaz AM)/SEFAZ AM/2022",
+    "topic": "Contabilidade Geral - Instrumentos Financeiros",
+    "text": "De acordo com a modificação trazida pela Lei nº 11.941/2009 à Lei nº 6.404/1976, no balanço patrimonial, as aplicações em instrumentos financeiros e em direitos etítulos de crédito, classificados no ativo circulante ou no ativo realizável, a longo prazo, são avaliadas pelo seu valor justo no seguinte caso:\na)  são aplicações destinadas à negociação ou disponíveis para venda.b)  são aplicações relevantes para a entidade.c)  dizem respeito a créditos com sociedades controladas.d)  representam investimentos em bancos de primeira linha.e)  dizem respeito a vendas a crédito com empresas no exterior.",
+    "source": "contabilidade1.pdf",
+    "page": 12,
+    "transcription": "conferida no PDF fornecido — lote 03"
+  },
+  "1813325": {
+    "id": "1813325",
+    "exam": "CEBRASPE (CESPE) - ATM (Pref Aracaju)/Pref Aracaju/Abrangência Geral/2021",
+    "topic": "Contabilidade Geral - Instrumentos Financeiros",
+    "text": "Acerca dos instrumentos financeiros, seu reconhecimento, sua mensuração, seu registro e sua evidenciação, assinale a opção correta.\na) Para ativos e passivos que sejam protegidos em conjunto como grupo no hedge de valor justo, o ganho ou a perda no balanço patrimonial em ativos e passivosindividuais devem ser reconhecidos como ajuste ao valor contábil do grupo de itens.b) Para atender ao objetivo de reconhecer perdas de crédito esperadas para aumentos significativos em risco de crédito desde o reconhecimento inicial, somenteserão permitidas as avaliações individuais de aumentos significativos de risco de crédito.c) Caso a empresa descontinue a mensuração do instrumento financeiro, que dá origem ao risco de crédito, ao valor justo por meio do resultado, o valor justo desseinstrumento financeiro, na data da descontinuação, tornar-se-á seu novo valor contábil.d) Para ser designado como item protegido, o componente de risco deve ser um componente conjunto ao item financeiro, e as alterações, nos fluxos de caixa,podem ser estimadas com base em situações semelhantes.e) As perdas de crédito esperadas devem ser reconhecidas no caso de existência de evidência do ativo financeiro que apresenta problemas de recuperação decrédito somente na data do relatório contábil.",
+    "source": "contabilidade1.pdf",
+    "page": 12,
+    "transcription": "conferida no PDF fornecido — lote 03"
+  },
+  "1037603": {
+    "id": "1037603",
+    "exam": "CEBRASPE (CESPE) - ACE (TCE-RO)/TCE RO/Ciências Contábeis/2019",
+    "topic": "Contabilidade Geral - Instrumentos Financeiros",
+    "text": "Uma empresa constituiu uma carteira de ativos financeiros classificada como avaliada a valor justo no resultado. Nos três primeiros meses de existência dessesinstrumentos, foram registradas perdas em sua recuperabilidade. Ao final do quarto mês, dentro do mesmo exercício social, o valor de mercado desses ativos superou oseu valor presente. Nessas condições, a empresa deve\na)  reverter as perdas registradas anteriormente e reconhecer o ganho adicional em contas de receita efetiva.b)  registrar toda a variação do quarto mês em conta de ajuste de valor patrimonial, no patrimônio líquido.c)  baixar as perdas reconhecidas anteriormente e registrar o ganho em conta do patrimônio líquido.d) reconhecer a variação de valor até o limite das perdas registradas anteriormente.e) contabilizar os ganhos do quarto mês integralmente como receita financeira efetiva.",
+    "source": "contabilidade1.pdf",
+    "page": 12,
+    "transcription": "conferida no PDF fornecido — lote 03"
+  },
+  "3166725": {
+    "id": "3166725",
+    "exam": "FGV - AJ (TJ RR)/TJ RR/Contabilidade/2024",
+    "topic": "Contabilidade Geral - Propriedades para Investimento (CPC 28)",
+    "text": "Uma entidade apresentava saldo de R$50.000 em propriedade para investimento. Após o reconhecimento inicial, a entidade havia escolhido o modelo do custo paramensurar os ativos deste grupo. De acordo com o Pronunciamento Técnico CPC 28- Propriedade para Investimento, a entidade deve divulgar, em notas explicativas, os seguintes itens, à exceção deum. Assinale-o.\na)  a intenção futura com os ativos do grupo.b)  os métodos de depreciação usados.c)  as vidas úteis ou as taxas de depreciação usadas.d)  o valor justo das propriedades para investimento.e)  o valor contábil bruto e a depreciação acumulada, agregada com as perdas por impairment acumuladas, no início e no fim do período.",
+    "source": "contabilidade1.pdf",
+    "page": 13,
+    "transcription": "conferida no PDF fornecido — lote 03"
+  },
+  "3552253": {
+    "id": "3552253",
+    "exam": "FCC - Ag Trib (SEFAZ PI)/SEFAZ PI/Geral/2025",
+    "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
+    "text": "A empresa Investidora S.A. possui 80% das ações da empresa Dependente S.A. e detém o seu controle. O investimento é avaliado pelo Método da EquivalênciaPatrimonial e estava registrado em 31/12/2020 no Balanço Patrimonial da Investidora S.A. pelo valor de R$ 40.000.000,00. No período de 01/01/2021 a 31/12/2021, a empresa Dependente S.A. reconheceu as seguintes mutações em seu Patrimônio Líquido: - Lucro líquido apurado em 2021: R$ 5.000.000,00- Pagamento de dividendos relativos ao resultado apurado em 2020: R$ 1.200.000,00- Proposta de dividendos referentes ao ano de 2021: R$ 2.000.000,00 Se, à época da aquisição do investimento, não houve pagamento de ágio nem ganho por compra vantajosa, o valor líquido evidenciado na Demonstração do Resultado doano de 2021 da empresa Investidora S.A., referente à sua participação na empresa Dependente S.A., foi\na)  R$ 3.040.000,00b)  R$ 1.440.000,00c)  R$ 5.000.000,00d)  R$ 2.400.000,00e)  R$ 4.000.000,00",
+    "source": "contabilidade1.pdf",
+    "page": 14,
+    "transcription": "conferida no PDF fornecido — lote 03"
+  },
+  "3557748": {
+    "id": "3557748",
+    "exam": "FCC - ATE (SEFAZ PI)/SEFAZ PI/Geral/2025",
+    "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
+    "text": "A empresa Investidora S.A. possui 80% das ações da empresa Dependente S.A. e detém o seu controle. O investimento é avaliado pelo Método da EquivalênciaPatrimonial e estava registrado em 31/12/2020 no Balanço Patrimonial da Investidora S.A. pelo valor de R$ 40.000.000,00. No período de 01/01/2021 a 31/12/2021, a empresa Dependente S.A. reconheceu as seguintes mutações em seu Patrimônio Líquido: – Lucro líquido apurado em 2021: R$ 5.000.000,00– Pagamento de dividendos relativos ao resultado apurado em 2020: R$ 1.200.000,00– Proposta de dividendos referentes ao ano de 2021: R$ 2.000.000,00 Se, à época da aquisição do investimento, não houve pagamento de ágio nem ganho por compra vantajosa, o valor líquido evidenciado na Demonstração do Resultado doano de 2021 da empresa Investidora S.A., referente à sua participação na empresa Dependente S.A., foi\na)  R$ 2.400.000,00b)  R$ 4.000.000,00c)  R$ 3.040.000,00d)  R$ 1.440.000,00e)  R$ 5.000.000,00",
+    "source": "contabilidade1.pdf",
+    "page": 15,
+    "transcription": "conferida no PDF fornecido — lote 03"
+  },
+  "2396959": {
+    "id": "2396959",
+    "exam": "CEBRASPE (CESPE) - AJ 02 (TJ ES)/TJ ES/Apoio Especializado/Contabilidade/2023",
+    "topic": "Contabilidade Geral - Ativo Não Circulante Mantido p/ Venda e Operação Descontinuada (CPC 31)",
+    "text": "Considerando as normas vigentes, julgue o item seguinte, relativo à elaboração de demonstrações contábeis.\nNo balanço patrimonial, um ativo significativo que represente uma linha de negócios da entidade e seja classificado como mantido para venda deve ser segregado deitens que não possuam a mesma classificação.\nCertoErrado",
+    "source": "contabilidade1.pdf",
+    "page": 16,
+    "transcription": "conferida no PDF fornecido — lote 03"
+  },
+  "3448136": {
+    "id": "3448136",
+    "exam": "FCC - AJ TRT1/TRT 1/Administrativa/Contabilidade/2025",
+    "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
+    "text": "Uma empresa adquiriu um equipamento por R$ 3.400.000,00 e efetuou o pagamento à vista. A aquisição ocorreu em 30/06/2022 e a empresa começou a utilizá-loem 01/07/2022. A empresa definiu a vida útil para o equipamento em 10 anos e o valor residual esperado para o final do prazo de vida útil era R$ 200.000,00. Sabendoque a empresa adota o método das quotas constantes para o cálculo da depreciação, o valor da despesa de depreciação registrado em 2022 e o saldo contábilapresentado para o equipamento no Balanço Patrimonial da empresa em 31/12/2022 foram, respectivamente:\na)  R$ 160.000,00 e R$ 3.240.000,00b)  R$ 320.000,00 e R$ 2.880.000,00c)  R$ 170.000,00 e R$ 3.230.000,00d)  R$ 160.000,00 e R$ 3.040.000,00e)  R$ 320.000,00 e R$ 3.040.000,00",
+    "source": "contabilidade1.pdf",
+    "page": 16,
+    "transcription": "conferida no PDF fornecido — lote 03"
+  },
+  "2292795": {
+    "id": "2292795",
+    "exam": "FGV - Aud Est (CGE SC)/CGE SC/Ciências Contábeis/2023",
+    "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
+    "text": "Uma sociedade empresária deu início a obras para expansão de seu escritório. Estima-se que a obra tenha dois anos de duração, com início em 02/01/X0 e términoem 31/12/X1.\nPara a obra, foram adquiridos R$40.000 em material de construção.\nAssinale a opção que indica a contabilização do material de construção no balanço patrimonial da sociedade empresária.\na)  R$40.000 em ativo circulante.b)  R$40.000 em ativo realizável a longo prazo.c)  R$40.000 em investimentos.d)  R$40.000 em ativo imobilizado.e)  R$20.000 em ativo circulante e R$20.000 em ativo realizável a longo prazo.",
+    "source": "contabilidade1.pdf",
+    "page": 17,
+    "transcription": "conferida no PDF fornecido — lote 03"
   }
 };

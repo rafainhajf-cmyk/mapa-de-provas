@@ -14,7 +14,7 @@ try{
  const errors=[];page.on('pageerror',e=>errors.push(e.message));
  const url=`http://127.0.0.1:${server.address().port}/contabilidade-exercicios.html`;
  await page.goto(url);await page.waitForSelector('[data-curated-id="TEC-2013231"]');
- assert.equal(await page.locator('article[data-exercise-kind]').count(),161);
+ assert.equal(await page.locator('article[data-exercise-kind]').count(),173);
  assert.equal(await page.locator('article details[open]').count(),0);
  const original=page.locator('article').filter({has:page.locator('[data-curated-id="TEC-2013231"]')});
  assert.ok(await original.locator('.tec-statement').isVisible());
@@ -28,11 +28,11 @@ try{
  await page.selectOption('#filterKind','all');await page.selectOption('#filterSolved','all');
  await original.locator('summary').click();assert.ok(await original.locator('details').getAttribute('open')!==null);
  await page.screenshot({path:'/tmp/mapa-contab-desktop.png'});
- await page.locator('article').filter({has:page.locator('[data-curated-id="TEC-3847013"]')}).screenshot({path:'/tmp/mapa-contab-tabela.png'});
+ await page.locator('article').filter({has:page.locator('[data-curated-id="TEC-2266771"]')}).screenshot({path:'/tmp/mapa-contab-lote03-tabela.png'});
  await page.locator('article').filter({has:page.locator('[data-curated-id="IA-11"]')}).screenshot({path:'/tmp/mapa-contab-ia.png'});
  await page.setViewportSize({width:390,height:844});await page.reload();
  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
  await page.screenshot({path:'/tmp/mapa-contab-mobile.png'});
  assert.deepEqual(errors,[]);
- console.log('Browser: 161 cartões; enunciados visíveis; respostas recolhidas; filtros; progresso após recarga; mobile sem overflow; zero erros.');
+ console.log('Browser: 173 cartões; enunciados visíveis; respostas recolhidas; filtros; progresso após recarga; mobile sem overflow; zero erros.');
 }finally{await browser?.close();await new Promise(resolve=>server.close(resolve))}
