@@ -70,3 +70,19 @@ body:has(#provasApp) h1{color:#205a8b}
 .visual-study-detail{background:#f2f8ff;border:1px solid #c7e0f0;border-radius:9px;padding:10px 14px;margin:14px 0}
 .visual-study-detail summary{cursor:pointer;color:#175c92;font-weight:750}
 .visual-study-detail>p{font-size:13px;line-height:1.6}
+
+/* Recursos gráficos sob demanda, sem forçar fluxogramas em comparações */
+.visual-timeline{display:flex;flex-wrap:wrap;align-items:stretch;gap:8px;margin:14px 0;padding:14px;background:#f1f8fe;border:1px solid #c9e0ef;border-radius:12px}
+.visual-timeline-step{flex:1 1 125px;min-width:105px;display:flex;align-items:center;gap:8px;padding:10px;background:#fff;border:1px solid #d2e3f0;border-radius:9px;position:relative;font-size:13px}
+.visual-timeline-step b{display:grid;place-items:center;flex-shrink:0;width:28px;height:28px;border-radius:50%;background:#dceefb;color:#155b91}
+.visual-timeline-step:not(:last-child)::after{content:'→';color:#2883bd;position:absolute;right:-10px;top:50%;transform:translateY(-50%);font-weight:800;z-index:2;background:#f1f8fe}
+.visual-decision{padding:14px;margin:14px 0;background:#f4f9ff;border:1px solid #cee0ee;border-radius:12px}
+.visual-decision-question{border:1px solid #99c1de;border-radius:9px;background:#eaf4fd;color:#1c5c8e;font-weight:750;text-align:center;padding:13px}
+.visual-decision-choices{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:18px}
+.visual-decision-choices>div{border-radius:9px;border:1px solid;padding:10px 12px;position:relative}
+.visual-decision-choices>div:before{content:'↓';position:absolute;top:-21px;left:50%;font-size:17px;color:#6987a0}
+.visual-decision-choices b{font-size:12px;letter-spacing:.04em}
+.visual-decision-choices p{font-size:13px;line-height:1.45;margin:5px 0 0}
+.visual-decision-yes{background:#edf8f1;border-color:#b4dac4!important;color:#246b47}
+.visual-decision-no{background:#fff0f3;border-color:#edc4ce!important;color:#91425c}
+@media(max-width:550px){.visual-timeline{display:block}.visual-timeline-step{margin-bottom:13px}.visual-timeline-step:not(:last-child)::after{content:'↓';right:50%;top:auto;bottom:-17px;transform:translateX(50%)}.visual-decision-choices{gap:7px}.visual-decision-choices>div{padding:9px}}
