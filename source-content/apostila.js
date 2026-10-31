@@ -40,7 +40,8 @@ function updateReadStates(){
  for(const row of $('chapters').querySelectorAll('[data-section]')){const active=row.dataset.section===current?.id;row.classList.toggle('active',active);const button=row.querySelector('button');if(active)button.setAttribute('aria-current','location');else button.removeAttribute('aria-current');}
 }
 function setSeen(id,seen){if(seen)progress.seen[id]=new Date().toISOString();else delete progress.seen[id];save();renderOutline();updateReadStates();$('status').textContent=seen?'Assunto marcado como já visto.':'Assunto desmarcado.';}
-function highlightResult(title,q){const terms=q.trim().split(/\s+/).filter(Boolean);if(!terms.length)return escapeHTML(title);const re=new RegExp('('+terms.map(x=>x.replace(/[.*+?^${}()|[\]\\]/g,'\\function renderOutline(){')).join('|')+')','ig');return escapeHTML(title).replace(re,'<mark>$1</mark>')}
+function highlightResult(title,q){const safe=escapeHTML(title);const terms=q.trim().split(/\s+/).filter(x=>x.length>1);if(!terms.length)return safe;const escaped=terms.map(x=>x.replace(/[^a-zA-Z0-9À-ÿ]/g,''));return escaped.reduce((value,term)=>term?value.replace(new RegExp('('+term+')','ig'),'<mark>$1</mark>'):value,safe)}
+function renderOutline(){')).join('|')+')','ig');return escapeHTML(title).replace(re,'<mark>$1</mark>')}
 function renderOutline(){
  const q=normalize($('search').value.trim()),unread=$('onlyUnread').checked;
  const fragment=document.createDocumentFragment();let count=0,lastGroup='';
