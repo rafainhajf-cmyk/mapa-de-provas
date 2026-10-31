@@ -1,0 +1,52 @@
+/* Mapa de Provas · identidade editorial 2026 · sistema unificado */
+:root{color-scheme:light;--ink:#203b56;--muted:#5b7185;--green:#1769a3;--pale:#ebf4fc;--line:#d7e3ee;--paper:#f5f8fc;--white:#fff;--gold:#c88a32;--soft:#edf5fc;--accent:#247dc4;--accent-strong:#155b95;--warning:#fff4d9;--danger:#fff0f3;--success:#eaf7f0}
+html{scroll-behavior:smooth}
+body.map-page,body.difficulty-page,body.tax-book-page,body.fc-page,body{--ink:#203b56;--muted:#5b7185;--green:#1769a3;--pale:#ebf4fc;--line:#d7e3ee;--paper:#f5f8fc;color:#203b56;background:#f5f8fc}
+body{font-family:system-ui,-apple-system,'Segoe UI',sans-serif;line-height:1.6}
+a{color:#1769a3}
+a:hover{color:#0c4778}
+:focus-visible{outline:3px solid #e6a84d!important;outline-offset:3px}
+.main-header-navigation{background:rgba(255,255,255,.97)!important;border-bottom:1px solid #d6e5f2!important;box-shadow:0 2px 14px #183e6511}
+.main-header-navigation .main-header-button{color:#365d80!important;background:#fff!important;border:1px solid transparent!important;border-radius:10px!important;font-weight:650!important;transition:background .18s,border-color .18s,transform .18s}
+.main-header-navigation .main-header-button:hover{background:#edf5fd!important;border-color:#bad8ee!important}
+.main-header-navigation .main-header-button.is-active,.main-header-navigation .main-header-button[aria-current="page"]{background:#dfeffc!important;border-color:#9bc6e4!important;color:#124e84!important;box-shadow:inset 0 -2px #2f8ac9}
+.sidebar,.study-library-drawer .sidebar,.outline,.study-reader-panel{background:#fff!important;border-color:#d8e5f0!important;box-shadow:3px 0 18px #183e6509}
+.brand,.brand strong,.library-title h1{color:#235b88!important}
+.sidebar h2,.sidebar h3,.study-library-family>summary,.study-subject-family>h4,.outline h2{color:#215a8a!important}
+button,.btn,input,textarea,select{font-family:inherit}
+button,.btn{border-radius:9px;transition:background .18s,border-color .18s,box-shadow .18s}
+button:hover,.btn:hover{box-shadow:0 2px 8px #1b568318}
+input:not([type="checkbox"]):not([type="radio"]),select,textarea{border-color:#cbddeb;background:#fff;color:#233e56;border-radius:9px}
+input:focus,select:focus,textarea:focus{border-color:#5b9ed1}
+main{color:#203b56}
+h1,h2,h3,h4{letter-spacing:-.017em;color:#204d74}
+:is(.difficulty-page,.tax-book-page,.map-page,.fc-page) :is(.card,.panel,.progress-box,.subject-resource-link,.topic-reading,.study-continuous-section,.study-subject-family,.difficulty-content-name){border-color:#d9e6f0;border-radius:12px}
+.tax-book-page #reading{background:transparent}
+.tax-book-page .book-title,.difficulty-page h1{color:#194f81;letter-spacing:-.025em}
+.tax-book-page .volume-nav button{border-color:#d4e3ef;background:#fff;color:#335f82;border-radius:10px}
+.tax-book-page .volume-nav button.selected{background:#e7f3ff;color:#14578a;border-color:#88bde2;box-shadow:inset 3px 0 #277fc0}
+.tax-book-page #article article,.tax-book-page .study-section,.tax-book-page section{border-color:#dbe8f2}
+.tax-book-page .table-wrap,.difficulty-page .study-note-table{border:1px solid #d3e5f1;border-radius:10px;overflow-x:auto;background:white}
+.tax-book-page table,.difficulty-page .study-note-table table{border-collapse:separate;border-spacing:0}
+.tax-book-page th,.difficulty-page .study-note-table th{background:#e9f3fb;color:#175a91;border-bottom:2px solid #9dc7e6}
+.tax-book-page td,.difficulty-page .study-note-table td{border-bottom:1px solid #e3ebf3}
+.tax-book-page tr:nth-child(even) td{background:#f8fbfe}
+.tax-book-page details.study-detail{background:#f1f8fe;border:1px solid #c8e0ef;border-left:4px solid #3186c4;border-radius:10px;padding:10px 14px;margin:12px 0}
+.tax-book-page details.study-detail summary{color:#17609a;font-weight:750;cursor:pointer}
+.difficulty-page .study-note-text h4{background:#eaf4fc;color:#195b91;border-left-color:#2b82c5}
+.difficulty-page .study-note-table td:first-child{background:#f2f8fd;color:#205b8b}
+.difficulty-page .study-note-table tr td:last-child:not(:nth-child(2)){background:#fff9ea}
+.difficulty-page .study-note-table tr td:nth-child(2):not(:last-child){background:#f0f9f3}
+.difficulty-page .study-note-table th:not(:first-child){background:#fff0f5;color:#9b3d60}
+.study-comparison{border:1px solid #d4e4ef;border-radius:10px;padding:10px;background:white}
+.study-comparison th{background:#e9f3fb;color:#175a91}
+.study-comparison td{border-bottom:1px solid #e7edf4}
+.study-note-text p{max-width:85ch}
+.study-note-text :is(.study-note-transcript,.illustration-original){border:1px solid #d3e4ef;background:#f6faff;border-radius:9px;padding:10px 12px;margin:12px 0}
+.study-note-text details>summary{color:#1d659b;font-weight:700;cursor:pointer}
+.fc-page :is(.fc-card,.flashcard,.deck-card,.fc-panel),body:has(#provasApp) section{border-color:#d4e4ef;background:#fff;box-shadow:0 3px 16px #1c4d7510}
+.fc-page button,.fc-page .btn{border-color:#b6d6ea}
+body:has(#provasApp) h1{color:#205a8b}
+::-webkit-scrollbar{width:10px;height:10px}::-webkit-scrollbar-thumb{background:#b8cad9;border:2px solid #f5f8fc;border-radius:20px}
+@media(max-width:740px){.main-header-navigation nav{justify-content:flex-start;overflow-x:auto;max-width:100%}.main-header-navigation .main-header-button{padding:7px 10px!important;font-size:11px!important}.tax-book-page .book-title{font-size:clamp(23px,5vw,32px)}.study-note-table th,.study-note-table td{padding:9px!important}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition-duration:.01ms!important;animation-duration:.01ms!important}}
