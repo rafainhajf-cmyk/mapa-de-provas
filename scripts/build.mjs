@@ -49,6 +49,14 @@ if(updatedThirdSector){
  if(i>=0)liveData.analysis.analyzedFiles[i]={...liveData.analysis.analyzedFiles[i],...updatedThirdSector};
  else liveData.analysis.analyzedFiles.push(updatedThirdSector);
 }
+// Copia a revisão de consórcios para o catálogo efetivamente publicado.
+const consortiumId='nota-consorcio-contrato-programa-2026';
+const rootAdmin=rootData.folders.find(f=>f.subject==='Direito Administrativo'&&f.path.length===1);
+const liveAdmin=liveData.folders.find(f=>f.id===rootAdmin?.id);
+const consortiumFile=rootAdmin?.files.find(f=>f.id===consortiumId);
+const consortiumNote=rootData.analysis.analyzedFiles.find(n=>n.id===consortiumId);
+if(liveAdmin&&consortiumFile&&!liveAdmin.files.some(f=>f.id===consortiumId))liveAdmin.files.push(consortiumFile);
+if(consortiumNote){const i=liveData.analysis.analyzedFiles.findIndex(n=>n.id===consortiumId);if(i<0)liveData.analysis.analyzedFiles.push(consortiumNote);else liveData.analysis.analyzedFiles[i]=consortiumNote;}
 liveData.source ||= {};
 liveData.source.checkedAt=new Date().toISOString();
 await writeFile(liveDataPath,JSON.stringify(liveData));
