@@ -70,15 +70,27 @@ export function libraryTopics(model,subject=''){
 }
 function librarySubjects(){return [...new Set(model.folders.map(f=>f.subject))].sort((a,b)=>a.localeCompare(b,'pt-BR'))}
 function topicCriticalHTML(topic){const n=studyFileProgress(topic.fileIds).critical;return n?`<span class="critical-badge">⚑ ${n} crítico(s)</span>`:'';}
-const TAX_GROUPS=['Reforma Tributária','LTE com Convênios','Direito Tributário'];
+// Categorias exclusivas da biblioteca de Tributário, sem mover ou excluir arquivos.
+const TAX_GROUPS=['IPVA','ITCMD','ITBI','ISSQN e LC 116','Reforma — LC 236','Comparativo Tributário','LC 227/2026 — Texto legal','RMIT da Reforma','Reforma — Temas exclusivos','Direito Tributário Normativo'];
 function taxGroup(t){
- const v=norm([t.area,t.title].join(' '));
- if(/reforma|ibs|cbs|imposto seletivo|lei 214|lei 227|lei 236|lc 214|lc 227|lc 236|ec 132|transicao/.test(v))return TAX_GROUPS[0];
- if(/lte|convenio|confaz|icms|kandir|difal|substituicao tributaria|legislacao tributaria estadual/.test(v))return TAX_GROUPS[1];
- return TAX_GROUPS[2];
+ const title=norm(t.title||''),area=norm(t.area||''),v=title+' '+area;
+ // Priorizar o assunto específico; não classificar comparativos como reforma genérica.
+ if(/comparativ|kandir x reforma|antes x depois|diferencas entre (leis|regimes)/.test(v))return 'Comparativo Tributário';
+ if(/\bipva\b|propriedade de veiculos automotores/.test(v))return 'IPVA';
+ if(/\bitcmd\b|\bitcdm\b|causa mortis|doacao de bens/.test(v))return 'ITCMD';
+ if(/\bitbi\b|transmissao inter vivos de imoveis/.test(v))return 'ITBI';
+ if(/\bissqn\b|\biss\b|\blc 116\b|\blei complementar 116\b/.test(v))return 'ISSQN e LC 116';
+ if(/\blc 236\b|\blei 236\b|\blei complementar 236\b/.test(v))return 'Reforma — LC 236';
+ if(/\blc 227\b|\blei 227\b|\blei complementar 227\b/.test(v))return 'LC 227/2026 — Texto legal';
+ if(/\brmit\b|regra matriz de incidencia/.test(v))return 'RMIT da Reforma';
+ if(/reforma|\bibs\b|\bcbs\b|imposto seletivo|\blc 214\b|\bec 132\b|transicao tributaria/.test(v))return 'Reforma — Temas exclusivos';
+ // Convênios e LTE ficam fora do núcleo normativo geral, em categoria própria.
+ if(/\blte\b|convenio|confaz|\bkandir\b|\bdifal\b|substituicao tributaria|legislacao tributaria estadual/.test(v))return 'LTE e Convênios';
+ return 'Direito Tributário Normativo';
 }
 function taxGroups(topics,render){
- return TAX_GROUPS.map(g=>'<details class="difficulty-library-group tax-category"><summary>'+esc(g)+' ('+topics.filter(t=>taxGroup(t)===g).length+')</summary><div class="difficulty-content-list">'+(topics.filter(t=>taxGroup(t)===g).map(render).join('')||'<p>Sem materiais cadastrados.</p>')+'</div></details>').join('');
+ const groups=[...TAX_GROUPS.slice(0,9),'LTE e Convênios',TAX_GROUPS[9]];
+ return groups.map(g=>'<details class="difficulty-library-group tax-category"><summary>'+esc(g)+' ('+topics.filter(t=>taxGroup(t)===g).length+')</summary><div class="difficulty-content-list">'+(topics.filter(t=>taxGroup(t)===g).map(render).join('')||'<p>Sem materiais cadastrados.</p>')+'</div></details>').join('');
 }
 function uniformLibraryHTML(subject=''){
  if(!subject)return `<section class="uniform-subjects"><h3>Escolha a matéria</h3><div class="difficulty-content-list">${groupedSubjectsHTML(librarySubjects(),model.raw.subjectFamilies,s=>`<button class="difficulty-content-name" data-library-subject="${esc(s)}">${esc(s)}</button>`)}</div></section>`;
