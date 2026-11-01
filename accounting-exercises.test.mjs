@@ -19,8 +19,8 @@ import {tecOriginals} from './source-content/accounting-originals.js';
 import {secondBatch} from './source-content/accounting-solutions-02.js';
 test('inventário conta questões únicas analisadas e preserva a origem',()=>{
  assert.equal(secondBatch.length,17);
- assert.equal(resolvedQuestions.length,62);
- assert.equal(new Set(resolvedQuestions.map(q=>q.id)).size,62);
+ assert.equal(resolvedQuestions.length,597);
+ assert.equal(new Set(resolvedQuestions.map(q=>q.id)).size,597);
  for(const q of resolvedQuestions){
   assert.ok(tecOriginals[q.id]?.text.length>80,q.id);
   assert.ok(tecOriginals[q.id].page>0,q.id);

@@ -10,9 +10,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "cont sp.pdf",
       "page": 27,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "97280",
@@ -20,9 +20,9 @@
       "topic": "Contabilidade Geral - Demonstração das Mutações do Patrimônio Líquido (DMPL)",
       "source": "sp 3.pdf",
       "page": 4,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "97282",
@@ -30,9 +30,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "cont sp.pdf",
       "page": 68,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "97286",
@@ -40,9 +40,9 @@
       "topic": "Contabilidade Geral - Notas Explicativas (Contabilidade Geral)",
       "source": "sp 3.pdf",
       "page": 29,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "97294",
@@ -50,9 +50,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "cont sp.pdf",
       "page": 27,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "97354",
@@ -60,9 +60,9 @@
       "topic": "Contabilidade Geral - CPC 07: Subvenção e Assistência Governamentais",
       "source": "cont 3.pdf",
       "page": 40,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "97358",
@@ -70,9 +70,9 @@
       "topic": "Contabilidade Geral - CPC 02: Efeitos de Mudanças/Taxas de Câmbio/Investimentos no Exterior e Conversão de Demonstrações",
       "source": "sp 3.pdf",
       "page": 31,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "104988",
@@ -80,9 +80,9 @@
       "topic": "Contabilidade Geral - Capital Social (Subscrito, a Realizar, Realizado)",
       "source": "cont sp.pdf",
       "page": 46,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "120852",
@@ -91,8 +91,8 @@
       "source": "cont sp.pdf",
       "page": 51,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "126854",
@@ -101,8 +101,8 @@
       "source": "sp 3.pdf",
       "page": 1,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "154056",
@@ -110,9 +110,9 @@
       "topic": "Contabilidade Geral - Demonstração das Mutações do Patrimônio Líquido (DMPL)",
       "source": "con2.pdf",
       "page": 66,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "172601",
@@ -120,9 +120,9 @@
       "topic": "Contabilidade Geral - CPC 23: Políticas Contábeis, Mudanças de Estimativa e Retificação de Erro",
       "source": "cont 3.pdf",
       "page": 45,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "172609",
@@ -130,9 +130,9 @@
       "topic": "Contabilidade Geral - Ações em Tesouraria",
       "source": "cont sp.pdf",
       "page": 50,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "190231",
@@ -140,9 +140,9 @@
       "topic": "Contabilidade Geral - Demonstração Contábil Consolidada (CPC 36, Lei 6.404, art. 249 e 250)",
       "source": "sp 3.pdf",
       "page": 28,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "225462",
@@ -150,9 +150,9 @@
       "topic": "Contabilidade Geral - Estrutura Conceitual Básica da Contabilidade (CPC 00)",
       "source": "cont sp.pdf",
       "page": 2,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "227909",
@@ -160,9 +160,9 @@
       "topic": "Contabilidade Geral - Propriedades para Investimento (CPC 28)",
       "source": "cont sp.pdf",
       "page": 15,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "228376",
@@ -170,9 +170,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "cont sp.pdf",
       "page": 26,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "228380",
@@ -180,9 +180,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "cont sp.pdf",
       "page": 67,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "253580",
@@ -191,8 +191,8 @@
       "source": "cont 3.pdf",
       "page": 32,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "253599",
@@ -200,9 +200,9 @@
       "topic": "Contabilidade Geral - CPC 23: Políticas Contábeis, Mudanças de Estimativa e Retificação de Erro",
       "source": "cont 3.pdf",
       "page": 45,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "256212",
@@ -210,9 +210,9 @@
       "topic": "Contabilidade Geral - Reservas de Lucros",
       "source": "cont sp.pdf",
       "page": 49,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "256310",
@@ -220,9 +220,9 @@
       "topic": "Contabilidade Geral - Ações em Tesouraria",
       "source": "cont sp.pdf",
       "page": 50,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "256315",
@@ -230,9 +230,9 @@
       "topic": "Contabilidade Geral - CPC 07: Subvenção e Assistência Governamentais",
       "source": "cont 3.pdf",
       "page": 39,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "256491",
@@ -240,9 +240,9 @@
       "topic": "Contabilidade Geral - Goodwill",
       "source": "cont sp.pdf",
       "page": 39,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "256669",
@@ -251,8 +251,8 @@
       "source": "cont 3.pdf",
       "page": 48,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "256987",
@@ -260,9 +260,9 @@
       "topic": "Contabilidade Geral - Demonstração das Mutações do Patrimônio Líquido (DMPL)",
       "source": "sp 3.pdf",
       "page": 3,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "259029",
@@ -270,9 +270,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 23,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "259388",
@@ -280,9 +280,9 @@
       "topic": "Contabilidade Geral - Propriedades para Investimento (CPC 28)",
       "source": "con2.pdf",
       "page": 16,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "269318",
@@ -290,9 +290,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "cont sp.pdf",
       "page": 64,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "269319",
@@ -300,9 +300,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "sp 3.pdf",
       "page": 18,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "271408",
@@ -310,9 +310,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 23,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "272917",
@@ -320,9 +320,9 @@
       "topic": "Contabilidade Geral - Estrutura Conceitual Básica da Contabilidade (CPC 00)",
       "source": "cont sp.pdf",
       "page": 2,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "283012",
@@ -330,9 +330,9 @@
       "topic": "Contabilidade Geral - Goodwill",
       "source": "cont sp.pdf",
       "page": 39,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "289632",
@@ -340,9 +340,9 @@
       "topic": "Contabilidade Geral - Demonstração das Mutações do Patrimônio Líquido (DMPL)",
       "source": "con2.pdf",
       "page": 66,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "315640",
@@ -350,9 +350,9 @@
       "topic": "Contabilidade Geral - Debêntures e Títulos de Dívida",
       "source": "cont sp.pdf",
       "page": 44,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "323994",
@@ -360,9 +360,9 @@
       "topic": "Contabilidade Geral - Goodwill",
       "source": "cont sp.pdf",
       "page": 39,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "325273",
@@ -370,9 +370,9 @@
       "topic": "Contabilidade Geral - Reservas de Lucros",
       "source": "cont sp.pdf",
       "page": 49,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "337898",
@@ -380,9 +380,9 @@
       "topic": "Contabilidade Geral - Demonstração das Mutações do Patrimônio Líquido (DMPL)",
       "source": "sp 3.pdf",
       "page": 3,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "337899",
@@ -390,9 +390,9 @@
       "topic": "Contabilidade Geral - Elaboração e Apresentação das Demonstrações Contábeis (CPC 26, Lei 6.404, arts. 176 e 177)",
       "source": "cont sp.pdf",
       "page": 58,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "358755",
@@ -400,9 +400,9 @@
       "topic": "Contabilidade Geral - Empréstimos e Fornecedores",
       "source": "cont sp.pdf",
       "page": 42,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "358765",
@@ -410,9 +410,9 @@
       "topic": "Contabilidade Geral - CPC 15: Combinação de Negócios, Fusão, Incorporação e Cisão",
       "source": "sp 3.pdf",
       "page": 36,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "371117",
@@ -420,9 +420,9 @@
       "topic": "Contabilidade Geral - Ativos Intangíveis (CPC 04, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 30,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "375657",
@@ -430,9 +430,9 @@
       "topic": "Contabilidade Geral - Ativos Intangíveis (CPC 04, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 30,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "400601",
@@ -440,9 +440,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "cont sp.pdf",
       "page": 64,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "400602",
@@ -450,9 +450,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "cont sp.pdf",
       "page": 26,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "410489",
@@ -460,9 +460,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "cont sp.pdf",
       "page": 37,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "410967",
@@ -470,9 +470,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "cont sp.pdf",
       "page": 38,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "410972",
@@ -480,9 +480,9 @@
       "topic": "Contabilidade Geral - CPC 02: Efeitos de Mudanças/Taxas de Câmbio/Investimentos no Exterior e Conversão de Demonstrações",
       "source": "sp 3.pdf",
       "page": 31,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "411529",
@@ -490,9 +490,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "cont sp.pdf",
       "page": 63,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "414021",
@@ -500,9 +500,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "cont sp.pdf",
       "page": 26,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "426895",
@@ -510,9 +510,9 @@
       "topic": "Contabilidade Geral - Ativos Intangíveis (CPC 04, Lei 6.404)",
       "source": "con2.pdf",
       "page": 31,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "438264",
@@ -520,9 +520,9 @@
       "topic": "Contabilidade Geral - Demonstração de Resultados Abrangentes (DRA)",
       "source": "sp 3.pdf",
       "page": 27,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "438266",
@@ -530,9 +530,9 @@
       "topic": "Contabilidade Geral - CPC 02: Efeitos de Mudanças/Taxas de Câmbio/Investimentos no Exterior e Conversão de Demonstrações",
       "source": "sp 3.pdf",
       "page": 30,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "455688",
@@ -540,9 +540,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "sp 3.pdf",
       "page": 36,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "455691",
@@ -550,9 +550,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "sp 3.pdf",
       "page": 14,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "455693",
@@ -561,8 +561,8 @@
       "source": "cont sp.pdf",
       "page": 49,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "455696",
@@ -571,8 +571,8 @@
       "source": "sp 3.pdf",
       "page": 27,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "461332",
@@ -581,8 +581,8 @@
       "source": "cont sp.pdf",
       "page": 44,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "461400",
@@ -590,9 +590,9 @@
       "topic": "Contabilidade Geral - Ativos Intangíveis (CPC 04, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 29,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "461401",
@@ -600,9 +600,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "sp 3.pdf",
       "page": 36,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "476888",
@@ -611,8 +611,8 @@
       "source": "cont sp.pdf",
       "page": 46,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "487234",
@@ -620,9 +620,9 @@
       "topic": "Contabilidade Geral - CPC 07: Subvenção e Assistência Governamentais",
       "source": "cont 3.pdf",
       "page": 40,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "488352",
@@ -630,9 +630,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "cont sp.pdf",
       "page": 7,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "488366",
@@ -640,9 +640,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 56,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "488371",
@@ -650,9 +650,9 @@
       "topic": "Contabilidade Geral - Demonstração das Mutações do Patrimônio Líquido (DMPL)",
       "source": "sp 3.pdf",
       "page": 3,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "489925",
@@ -660,9 +660,9 @@
       "topic": "Contabilidade Geral - Critérios de Avaliação do Estoque (PEPS, UEPS, Média Ponderada)",
       "source": "cont sp.pdf",
       "page": 8,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "489926",
@@ -670,9 +670,9 @@
       "topic": "Contabilidade Geral - Ativos Intangíveis (CPC 04, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 29,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "489940",
@@ -680,9 +680,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "sp 3.pdf",
       "page": 26,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "489942",
@@ -690,9 +690,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "sp 3.pdf",
       "page": 15,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "489944",
@@ -700,9 +700,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "sp 3.pdf",
       "page": 17,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "489947",
@@ -710,9 +710,9 @@
       "topic": "Contabilidade Geral - Empréstimos e Fornecedores",
       "source": "cont sp.pdf",
       "page": 42,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "527154",
@@ -720,9 +720,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "cont sp.pdf",
       "page": 67,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "527158",
@@ -730,9 +730,9 @@
       "topic": "Contabilidade Geral - Goodwill",
       "source": "cont sp.pdf",
       "page": 38,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "530961",
@@ -740,9 +740,9 @@
       "topic": "Contabilidade Geral - Demonstração de Resultados Abrangentes (DRA)",
       "source": "cont 3.pdf",
       "page": 31,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "540158",
@@ -750,9 +750,9 @@
       "topic": "Contabilidade Geral - CPC 02: Efeitos de Mudanças/Taxas de Câmbio/Investimentos no Exterior e Conversão de Demonstrações",
       "source": "sp 3.pdf",
       "page": 30,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "540177",
@@ -760,9 +760,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 22,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "540188",
@@ -770,9 +770,9 @@
       "topic": "Contabilidade Geral - Reservas de Lucros",
       "source": "cont sp.pdf",
       "page": 48,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "584423",
@@ -780,9 +780,9 @@
       "topic": "Contabilidade Geral - Ativos Intangíveis (CPC 04, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 29,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "584686",
@@ -790,9 +790,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 22,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "584688",
@@ -800,9 +800,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 57,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "584701",
@@ -810,9 +810,9 @@
       "topic": "Contabilidade Geral - Capital Social (Subscrito, a Realizar, Realizado)",
       "source": "cont sp.pdf",
       "page": 45,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "606276",
@@ -820,9 +820,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 21,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "606281",
@@ -830,9 +830,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "sp 3.pdf",
       "page": 35,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "606282",
@@ -840,9 +840,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "cont sp.pdf",
       "page": 36,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "606285",
@@ -850,9 +850,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 55,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "606286",
@@ -860,9 +860,9 @@
       "topic": "Contabilidade Geral - Dividendos",
       "source": "sp 3.pdf",
       "page": 46,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "640072",
@@ -870,9 +870,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "cont sp.pdf",
       "page": 62,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "640083",
@@ -880,9 +880,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 21,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "640103",
@@ -890,9 +890,9 @@
       "topic": "Contabilidade Geral - Demonstração das Mutações do Patrimônio Líquido (DMPL)",
       "source": "sp 3.pdf",
       "page": 2,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "645395",
@@ -900,9 +900,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "sp 3.pdf",
       "page": 12,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "645565",
@@ -910,9 +910,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 19,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "645962",
@@ -920,9 +920,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "cont sp.pdf",
       "page": 7,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "655285",
@@ -930,9 +930,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 20,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "655300",
@@ -940,9 +940,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "cont sp.pdf",
       "page": 62,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "656039",
@@ -950,9 +950,9 @@
       "topic": "Contabilidade Geral - Goodwill",
       "source": "cont sp.pdf",
       "page": 38,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "656045",
@@ -960,9 +960,9 @@
       "topic": "Contabilidade Geral - Empréstimos e Fornecedores",
       "source": "cont sp.pdf",
       "page": 41,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "656222",
@@ -970,9 +970,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "cont sp.pdf",
       "page": 37,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "656224",
@@ -980,9 +980,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 20,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "656226",
@@ -990,9 +990,9 @@
       "topic": "Contabilidade Geral - Depreciação, Amortização e Exaustão",
       "source": "cont sp.pdf",
       "page": 32,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "656256",
@@ -1000,9 +1000,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "sp 3.pdf",
       "page": 35,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "660105",
@@ -1010,9 +1010,9 @@
       "topic": "Contabilidade Geral - Dividendos",
       "source": "sp 3.pdf",
       "page": 45,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "660117",
@@ -1020,9 +1020,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "sp 3.pdf",
       "page": 35,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "660119",
@@ -1031,8 +1031,8 @@
       "source": "sp 3.pdf",
       "page": 28,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "660127",
@@ -1040,9 +1040,9 @@
       "topic": "Contabilidade Geral - CPC 02: Efeitos de Mudanças/Taxas de Câmbio/Investimentos no Exterior e Conversão de Demonstrações",
       "source": "cont 3.pdf",
       "page": 34,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "684695",
@@ -1060,9 +1060,9 @@
       "topic": "Contabilidade Geral - Empréstimos e Fornecedores",
       "source": "cont sp.pdf",
       "page": 41,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "686820",
@@ -1070,9 +1070,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 56,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "693000",
@@ -1080,9 +1080,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 21,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "693007",
@@ -1090,9 +1090,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "sp 3.pdf",
       "page": 35,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "693010",
@@ -1100,9 +1100,9 @@
       "topic": "Contabilidade Geral - Debêntures e Títulos de Dívida",
       "source": "cont sp.pdf",
       "page": 43,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "693019",
@@ -1110,9 +1110,9 @@
       "topic": "Contabilidade Geral - CPC 06: Arrendamento Mercantil (Financeiro e Operacional)",
       "source": "cont 3.pdf",
       "page": 37,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "693021",
@@ -1120,9 +1120,9 @@
       "topic": "Contabilidade Geral - Propriedades para Investimento (CPC 28)",
       "source": "cont sp.pdf",
       "page": 15,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "697203",
@@ -1130,9 +1130,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "cont sp.pdf",
       "page": 14,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "719073",
@@ -1140,9 +1140,9 @@
       "topic": "Contabilidade Geral - Depreciação, Amortização e Exaustão",
       "source": "cont sp.pdf",
       "page": 31,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "719076",
@@ -1151,8 +1151,8 @@
       "source": "cont sp.pdf",
       "page": 9,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "719094",
@@ -1160,9 +1160,9 @@
       "topic": "Contabilidade Geral - Empréstimos e Fornecedores",
       "source": "cont sp.pdf",
       "page": 41,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "719217",
@@ -1170,9 +1170,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "sp 3.pdf",
       "page": 13,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "719224",
@@ -1180,9 +1180,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "cont sp.pdf",
       "page": 67,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "719235",
@@ -1190,9 +1190,9 @@
       "topic": "Contabilidade Geral - Ativos Intangíveis (CPC 04, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 28,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "719382",
@@ -1200,9 +1200,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 21,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "719383",
@@ -1210,9 +1210,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "con2.pdf",
       "page": 24,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "719385",
@@ -1220,9 +1220,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 22,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "719386",
@@ -1230,9 +1230,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 19,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "719388",
@@ -1240,9 +1240,9 @@
       "topic": "Contabilidade Geral - CPC 02: Efeitos de Mudanças/Taxas de Câmbio/Investimentos no Exterior e Conversão de Demonstrações",
       "source": "sp 3.pdf",
       "page": 29,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "719389",
@@ -1250,9 +1250,9 @@
       "topic": "Contabilidade Geral - CPC 06: Arrendamento Mercantil (Financeiro e Operacional)",
       "source": "cont 3.pdf",
       "page": 37,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "719416",
@@ -1260,9 +1260,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "cont sp.pdf",
       "page": 37,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "719424",
@@ -1270,9 +1270,9 @@
       "topic": "Contabilidade Geral - CPC 02: Efeitos de Mudanças/Taxas de Câmbio/Investimentos no Exterior e Conversão de Demonstrações",
       "source": "sp 3.pdf",
       "page": 29,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "719425",
@@ -1280,9 +1280,9 @@
       "topic": "Contabilidade Geral - CPC 23: Políticas Contábeis, Mudanças de Estimativa e Retificação de Erro",
       "source": "cont 3.pdf",
       "page": 45,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "719426",
@@ -1291,8 +1291,8 @@
       "source": "sp 3.pdf",
       "page": 33,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "719428",
@@ -1300,9 +1300,9 @@
       "topic": "Contabilidade Geral - Propriedades para Investimento (CPC 28)",
       "source": "con2.pdf",
       "page": 16,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "719760",
@@ -1320,9 +1320,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 18,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "758370",
@@ -1330,9 +1330,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "cont sp.pdf",
       "page": 7,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "758371",
@@ -1340,9 +1340,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "cont sp.pdf",
       "page": 13,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "760022",
@@ -1370,9 +1370,9 @@
       "topic": "Contabilidade Geral - CPC 23: Políticas Contábeis, Mudanças de Estimativa e Retificação de Erro",
       "source": "sp 3.pdf",
       "page": 37,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "789084",
@@ -1380,9 +1380,9 @@
       "topic": "Contabilidade Geral - CPC 23: Políticas Contábeis, Mudanças de Estimativa e Retificação de Erro",
       "source": "sp 3.pdf",
       "page": 37,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "789085",
@@ -1390,9 +1390,9 @@
       "topic": "Contabilidade Geral - CPC 23: Políticas Contábeis, Mudanças de Estimativa e Retificação de Erro",
       "source": "sp 3.pdf",
       "page": 37,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "789105",
@@ -1400,9 +1400,9 @@
       "topic": "Contabilidade Geral - CPC 23: Políticas Contábeis, Mudanças de Estimativa e Retificação de Erro",
       "source": "sp 3.pdf",
       "page": 37,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "790546",
@@ -1410,9 +1410,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "sp 3.pdf",
       "page": 25,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "790548",
@@ -1420,9 +1420,9 @@
       "topic": "Contabilidade Geral - CPC 06: Arrendamento Mercantil (Financeiro e Operacional)",
       "source": "sp 3.pdf",
       "page": 32,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "866960",
@@ -1430,9 +1430,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "cont sp.pdf",
       "page": 6,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "866962",
@@ -1440,9 +1440,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 19,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "866974",
@@ -1450,9 +1450,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "cont sp.pdf",
       "page": 36,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "866988",
@@ -1460,9 +1460,9 @@
       "topic": "Contabilidade Geral - CPC 06: Arrendamento Mercantil (Financeiro e Operacional)",
       "source": "sp 3.pdf",
       "page": 32,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "867021",
@@ -1470,9 +1470,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "cont 3.pdf",
       "page": 17,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "867189",
@@ -1490,9 +1490,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "con2.pdf",
       "page": 7,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "877345",
@@ -1500,9 +1500,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "sp 3.pdf",
       "page": 34,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "877348",
@@ -1510,9 +1510,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "cont sp.pdf",
       "page": 13,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "877373",
@@ -1520,9 +1520,9 @@
       "topic": "Contabilidade Geral - Dividendos",
       "source": "sp 3.pdf",
       "page": 45,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "878062",
@@ -1540,9 +1540,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "con2.pdf",
       "page": 6,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "881729",
@@ -1570,9 +1570,9 @@
       "topic": "Contabilidade Geral - Estrutura Conceitual Básica da Contabilidade (CPC 00)",
       "source": "cont sp.pdf",
       "page": 1,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "984389",
@@ -1580,9 +1580,9 @@
       "topic": "Contabilidade Geral - Elaboração e Apresentação das Demonstrações Contábeis (CPC 26, Lei 6.404, arts. 176 e 177)",
       "source": "cont sp.pdf",
       "page": 58,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "984393",
@@ -1590,9 +1590,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "con2.pdf",
       "page": 63,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "984395",
@@ -1600,9 +1600,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "sp 3.pdf",
       "page": 25,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "984396",
@@ -1610,9 +1610,9 @@
       "topic": "Contabilidade Geral - CPC 07: Subvenção e Assistência Governamentais",
       "source": "sp 3.pdf",
       "page": 33,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "984530",
@@ -1621,8 +1621,8 @@
       "source": "sp 3.pdf",
       "page": 41,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "984532",
@@ -1631,8 +1631,8 @@
       "source": "sp 3.pdf",
       "page": 41,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "984533",
@@ -1640,9 +1640,9 @@
       "topic": "Contabilidade Geral - Conceitos de SPED e seus Módulos",
       "source": "sp 3.pdf",
       "page": 41,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "1010021",
@@ -1650,9 +1650,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "con2.pdf",
       "page": 64,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "1010022",
@@ -1660,9 +1660,9 @@
       "topic": "Contabilidade Geral - Reservas de Lucros",
       "source": "cont sp.pdf",
       "page": 48,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "1037349",
@@ -1690,9 +1690,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "cont sp.pdf",
       "page": 26,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "1117819",
@@ -1700,9 +1700,9 @@
       "topic": "Contabilidade Geral - Ativos Intangíveis (CPC 04, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 28,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "1118022",
@@ -1710,9 +1710,9 @@
       "topic": "Contabilidade Geral - Depreciação, Amortização e Exaustão",
       "source": "cont sp.pdf",
       "page": 31,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "1118033",
@@ -1720,9 +1720,9 @@
       "topic": "Contabilidade Geral - CPC 23: Políticas Contábeis, Mudanças de Estimativa e Retificação de Erro",
       "source": "cont 3.pdf",
       "page": 44,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "1239404",
@@ -1730,9 +1730,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 18,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "1239407",
@@ -1740,9 +1740,9 @@
       "topic": "Contabilidade Geral - Demonstração das Mutações do Patrimônio Líquido (DMPL)",
       "source": "con2.pdf",
       "page": 65,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "1239427",
@@ -1750,9 +1750,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "con2.pdf",
       "page": 57,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "1241384",
@@ -1760,9 +1760,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 55,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "1241389",
@@ -1770,9 +1770,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "cont sp.pdf",
       "page": 66,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "1241391",
@@ -1780,9 +1780,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "cont sp.pdf",
       "page": 62,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "1241397",
@@ -1790,9 +1790,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "cont sp.pdf",
       "page": 6,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "1241403",
@@ -1800,9 +1800,9 @@
       "topic": "Contabilidade Geral - Ativos Intangíveis (CPC 04, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 28,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "1241415",
@@ -1810,9 +1810,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "cont sp.pdf",
       "page": 25,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "1736947",
@@ -1830,9 +1830,9 @@
       "topic": "Contabilidade Geral - Decreto nº 6.022/2007 - Sistema Público de Escrituração Digital (SPED)",
       "source": "sp 3.pdf",
       "page": 40,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "1810572",
@@ -1841,8 +1841,8 @@
       "source": "contabilidade1.pdf",
       "page": 38,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "1813325",
@@ -1860,9 +1860,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 18,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "1889210",
@@ -1880,9 +1880,9 @@
       "topic": "Contabilidade Geral - CPC 02: Efeitos de Mudanças/Taxas de Câmbio/Investimentos no Exterior e Conversão de Demonstrações",
       "source": "contabilidade1.pdf",
       "page": 37,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "1889254",
@@ -1900,9 +1900,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 55,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "1896699",
@@ -1910,9 +1910,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "sp 3.pdf",
       "page": 25,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "1896826",
@@ -1920,9 +1920,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "cont sp.pdf",
       "page": 25,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "1907614",
@@ -1950,9 +1950,9 @@
       "topic": "Contabilidade Geral - Propriedades para Investimento (CPC 28)",
       "source": "contabilidade1.pdf",
       "page": 13,
-      "kind": null,
+      "kind": "calculo",
       "batch": null,
-      "status": "pendente"
+      "status": "divergencia"
     },
     {
       "id": "1990325",
@@ -1961,8 +1961,8 @@
       "source": "contabilidade1.pdf",
       "page": 31,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "1990613",
@@ -1990,9 +1990,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "contabilidade1.pdf",
       "page": 39,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2022064",
@@ -2000,9 +2000,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "con2.pdf",
       "page": 62,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2064755",
@@ -2020,9 +2020,9 @@
       "topic": "Contabilidade Geral - Goodwill",
       "source": "contabilidade1.pdf",
       "page": 21,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2100126",
@@ -2031,8 +2031,8 @@
       "source": "contabilidade1.pdf",
       "page": 25,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2113058",
@@ -2040,9 +2040,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "sp 3.pdf",
       "page": 8,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2116789",
@@ -2051,8 +2051,8 @@
       "source": "sp 3.pdf",
       "page": 42,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2154021",
@@ -2060,9 +2060,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "sp 3.pdf",
       "page": 34,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2154055",
@@ -2070,9 +2070,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 17,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2154057",
@@ -2080,9 +2080,9 @@
       "topic": "Contabilidade Geral - Depreciação, Amortização e Exaustão",
       "source": "cont sp.pdf",
       "page": 31,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2154061",
@@ -2090,9 +2090,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "cont 3.pdf",
       "page": 28,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2154064",
@@ -2100,9 +2100,9 @@
       "topic": "Contabilidade Geral - Empréstimos e Fornecedores",
       "source": "cont sp.pdf",
       "page": 40,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2159081",
@@ -2110,9 +2110,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "sp 3.pdf",
       "page": 11,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2159093",
@@ -2120,9 +2120,9 @@
       "topic": "Contabilidade Geral - Depreciação, Amortização e Exaustão",
       "source": "cont sp.pdf",
       "page": 31,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2159113",
@@ -2130,9 +2130,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "cont sp.pdf",
       "page": 12,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2159115",
@@ -2140,9 +2140,9 @@
       "topic": "Contabilidade Geral - Reservas de Lucros",
       "source": "cont sp.pdf",
       "page": 47,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2159117",
@@ -2150,9 +2150,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 17,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2159127",
@@ -2160,9 +2160,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "sp 3.pdf",
       "page": 34,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2160888",
@@ -2171,8 +2171,8 @@
       "source": "cont sp.pdf",
       "page": 8,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2160903",
@@ -2180,9 +2180,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "cont sp.pdf",
       "page": 5,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2163345",
@@ -2190,9 +2190,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "cont sp.pdf",
       "page": 66,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2163350",
@@ -2200,9 +2200,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "contabilidade1.pdf",
       "page": 20,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2163352",
@@ -2211,8 +2211,8 @@
       "source": "contabilidade1.pdf",
       "page": 28,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2163361",
@@ -2220,9 +2220,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "cont 3.pdf",
       "page": 16,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2163369",
@@ -2230,9 +2230,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "cont sp.pdf",
       "page": 35,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2163370",
@@ -2240,9 +2240,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "sp 3.pdf",
       "page": 24,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2163371",
@@ -2250,9 +2250,9 @@
       "topic": "Contabilidade Geral - Reservas de Lucros",
       "source": "cont sp.pdf",
       "page": 48,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2163519",
@@ -2260,9 +2260,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "con2.pdf",
       "page": 22,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2163529",
@@ -2281,8 +2281,8 @@
       "source": "con2.pdf",
       "page": 46,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2163607",
@@ -2290,9 +2290,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "cont sp.pdf",
       "page": 61,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2163613",
@@ -2300,9 +2300,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "cont sp.pdf",
       "page": 65,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2163618",
@@ -2320,9 +2320,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 54,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2163622",
@@ -2330,9 +2330,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "cont 3.pdf",
       "page": 13,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2163640",
@@ -2350,9 +2350,9 @@
       "topic": "Contabilidade Geral - Empréstimos e Fornecedores",
       "source": "cont sp.pdf",
       "page": 40,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2163735",
@@ -2360,9 +2360,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "sp 3.pdf",
       "page": 34,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2163738",
@@ -2370,9 +2370,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 17,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2163741",
@@ -2380,9 +2380,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "con2.pdf",
       "page": 22,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2164370",
@@ -2390,9 +2390,9 @@
       "topic": "Contabilidade Geral - Decreto nº 6.022/2007 - Sistema Público de Escrituração Digital (SPED)",
       "source": "sp 3.pdf",
       "page": 40,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2208479",
@@ -2401,8 +2401,8 @@
       "source": "contabilidade1.pdf",
       "page": 24,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2212148",
@@ -2430,9 +2430,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "contabilidade1.pdf",
       "page": 20,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2218620",
@@ -2441,8 +2441,8 @@
       "source": "contabilidade1.pdf",
       "page": 38,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2223547",
@@ -2450,9 +2450,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "cont sp.pdf",
       "page": 61,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2223559",
@@ -2460,9 +2460,9 @@
       "topic": "Contabilidade Geral - Regimes Contábeis (Competência, Caixa e Misto)",
       "source": "cont sp.pdf",
       "page": 3,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2223562",
@@ -2470,9 +2470,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "con2.pdf",
       "page": 62,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2223569",
@@ -2480,9 +2480,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "contabilidade1.pdf",
       "page": 34,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2223756",
@@ -2490,9 +2490,9 @@
       "topic": "Contabilidade Geral - Demonstração de Resultados Abrangentes (DRA)",
       "source": "cont 3.pdf",
       "page": 31,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2231001",
@@ -2510,9 +2510,9 @@
       "topic": "Contabilidade Geral - Elaboração e Apresentação das Demonstrações Contábeis (CPC 26, Lei 6.404, arts. 176 e 177)",
       "source": "con2.pdf",
       "page": 55,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2235668",
@@ -2520,9 +2520,9 @@
       "topic": "Contabilidade Geral - Goodwill",
       "source": "cont sp.pdf",
       "page": 38,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2235687",
@@ -2530,9 +2530,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "sp 3.pdf",
       "page": 9,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2235697",
@@ -2540,9 +2540,9 @@
       "topic": "Contabilidade Geral - Empréstimos e Fornecedores",
       "source": "cont sp.pdf",
       "page": 40,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2235706",
@@ -2550,9 +2550,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "cont sp.pdf",
       "page": 35,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2235714",
@@ -2560,9 +2560,9 @@
       "topic": "Contabilidade Geral - Dividendos",
       "source": "sp 3.pdf",
       "page": 44,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2235717",
@@ -2570,9 +2570,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "cont sp.pdf",
       "page": 13,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2266744",
@@ -2581,8 +2581,8 @@
       "source": "contabilidade1.pdf",
       "page": 43,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2266770",
@@ -2591,8 +2591,8 @@
       "source": "contabilidade1.pdf",
       "page": 42,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2266771",
@@ -2610,9 +2610,9 @@
       "topic": "Contabilidade Geral - Operações com Mercadorias (CMV, RCM, Tributos, Frete, etc.)",
       "source": "con2.pdf",
       "page": 9,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2272184",
@@ -2621,8 +2621,8 @@
       "source": "contabilidade1.pdf",
       "page": 22,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2272187",
@@ -2630,9 +2630,9 @@
       "topic": "Contabilidade Geral - Depreciação, Amortização e Exaustão",
       "source": "cont sp.pdf",
       "page": 30,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2272188",
@@ -2640,9 +2640,9 @@
       "topic": "Contabilidade Geral - Dividendos",
       "source": "sp 3.pdf",
       "page": 44,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2272190",
@@ -2650,9 +2650,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "cont 3.pdf",
       "page": 15,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2292786",
@@ -2661,8 +2661,8 @@
       "source": "contabilidade1.pdf",
       "page": 21,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2292795",
@@ -2680,9 +2680,9 @@
       "topic": "Contabilidade Geral - Estrutura Conceitual Básica da Contabilidade (CPC 00)",
       "source": "con2.pdf",
       "page": 3,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2293653",
@@ -2690,9 +2690,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "sp 3.pdf",
       "page": 23,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2293657",
@@ -2700,9 +2700,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "sp 3.pdf",
       "page": 10,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2293659",
@@ -2710,9 +2710,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 18,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2293662",
@@ -2720,9 +2720,9 @@
       "topic": "Contabilidade Geral - Dividendos",
       "source": "sp 3.pdf",
       "page": 45,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2293666",
@@ -2730,9 +2730,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "cont sp.pdf",
       "page": 6,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2339029",
@@ -2740,9 +2740,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "cont sp.pdf",
       "page": 11,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2339034",
@@ -2750,9 +2750,9 @@
       "topic": "Contabilidade Geral - Depreciação, Amortização e Exaustão",
       "source": "con2.pdf",
       "page": 33,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2339081",
@@ -2761,8 +2761,8 @@
       "source": "contabilidade1.pdf",
       "page": 39,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2339101",
@@ -2770,9 +2770,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "sp 3.pdf",
       "page": 7,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2339115",
@@ -2780,9 +2780,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 54,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2346659",
@@ -2801,8 +2801,8 @@
       "source": "contabilidade1.pdf",
       "page": 37,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2369049",
@@ -2830,9 +2830,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "contabilidade1.pdf",
       "page": 31,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2395533",
@@ -2840,9 +2840,9 @@
       "topic": "Contabilidade Geral - Critérios de Avaliação do Estoque (PEPS, UEPS, Média Ponderada)",
       "source": "cont sp.pdf",
       "page": 7,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2395547",
@@ -2850,9 +2850,9 @@
       "topic": "Contabilidade Geral - Estrutura Conceitual Básica da Contabilidade (CPC 00)",
       "source": "con2.pdf",
       "page": 2,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2395551",
@@ -2860,9 +2860,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "cont 3.pdf",
       "page": 27,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2395558",
@@ -2870,9 +2870,9 @@
       "topic": "Contabilidade Geral - Tributos sobre Lucro (IRPJ, CSLL, Lucro Real, Presumido e Arbitrado)",
       "source": "cont sp.pdf",
       "page": 44,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2395560",
@@ -2880,9 +2880,9 @@
       "topic": "Contabilidade Geral - Demonstração Contábil Consolidada (CPC 36, Lei 6.404, art. 249 e 250)",
       "source": "sp 3.pdf",
       "page": 28,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2395562",
@@ -2890,9 +2890,9 @@
       "topic": "Contabilidade Geral - Reservas de Lucros",
       "source": "cont sp.pdf",
       "page": 47,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2395608",
@@ -2900,9 +2900,9 @@
       "topic": "Contabilidade Geral - Estrutura Conceitual Básica da Contabilidade (CPC 00)",
       "source": "cont sp.pdf",
       "page": 1,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2395609",
@@ -2910,9 +2910,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "cont sp.pdf",
       "page": 5,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2395611",
@@ -2920,9 +2920,9 @@
       "topic": "Contabilidade Geral - Operações com Duplicatas",
       "source": "cont sp.pdf",
       "page": 51,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2395613",
@@ -2930,9 +2930,9 @@
       "topic": "Contabilidade Geral - Propriedades para Investimento (CPC 28)",
       "source": "cont sp.pdf",
       "page": 14,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2396959",
@@ -2961,8 +2961,8 @@
       "source": "contabilidade1.pdf",
       "page": 20,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2571016",
@@ -2981,8 +2981,8 @@
       "source": "cont sp.pdf",
       "page": 45,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2581057",
@@ -2990,9 +2990,9 @@
       "topic": "Contabilidade Geral - Decreto nº 6.022/2007 - Sistema Público de Escrituração Digital (SPED)",
       "source": "sp 3.pdf",
       "page": 39,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2581991",
@@ -3000,9 +3000,9 @@
       "topic": "Contabilidade Geral - Demonstração das Mutações do Patrimônio Líquido (DMPL)",
       "source": "con2.pdf",
       "page": 67,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2590390",
@@ -3011,8 +3011,8 @@
       "source": "contabilidade1.pdf",
       "page": 17,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2590870",
@@ -3021,8 +3021,8 @@
       "source": "sp 3.pdf",
       "page": 38,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2590871",
@@ -3031,8 +3031,8 @@
       "source": "sp 3.pdf",
       "page": 42,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2612588",
@@ -3041,8 +3041,8 @@
       "source": "sp 3.pdf",
       "page": 40,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2635928",
@@ -3050,9 +3050,9 @@
       "topic": "Contabilidade Geral - Demonstração das Mutações do Patrimônio Líquido (DMPL)",
       "source": "sp 3.pdf",
       "page": 3,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2687937",
@@ -3070,9 +3070,9 @@
       "topic": "Contabilidade Geral - Decreto nº 6.022/2007 - Sistema Público de Escrituração Digital (SPED)",
       "source": "sp 3.pdf",
       "page": 39,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2709624",
@@ -3080,9 +3080,9 @@
       "topic": "Contabilidade Geral - Instruções Normativas da RFB sobre Escrituração Contábil Digital",
       "source": "sp 3.pdf",
       "page": 42,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2759747",
@@ -3091,8 +3091,8 @@
       "source": "contabilidade1.pdf",
       "page": 37,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2759777",
@@ -3100,9 +3100,9 @@
       "topic": "Contabilidade Geral - Decreto nº 6.022/2007 - Sistema Público de Escrituração Digital (SPED)",
       "source": "sp 3.pdf",
       "page": 40,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2759779",
@@ -3110,9 +3110,9 @@
       "topic": "Contabilidade Geral - Decreto nº 6.022/2007 - Sistema Público de Escrituração Digital (SPED)",
       "source": "sp 3.pdf",
       "page": 39,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2759780",
@@ -3120,9 +3120,9 @@
       "topic": "Contabilidade Geral - Decreto nº 6.022/2007 - Sistema Público de Escrituração Digital (SPED)",
       "source": "sp 3.pdf",
       "page": 39,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2759781",
@@ -3130,9 +3130,9 @@
       "topic": "Contabilidade Geral - Decreto nº 6.022/2007 - Sistema Público de Escrituração Digital (SPED)",
       "source": "sp 3.pdf",
       "page": 39,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2771977",
@@ -3161,8 +3161,8 @@
       "source": "contabilidade1.pdf",
       "page": 36,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2782139",
@@ -3181,8 +3181,8 @@
       "source": "contabilidade1.pdf",
       "page": 23,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2792286",
@@ -3231,8 +3231,8 @@
       "source": "cont sp.pdf",
       "page": 8,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2818480",
@@ -3240,9 +3240,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "cont 3.pdf",
       "page": 26,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2818481",
@@ -3250,9 +3250,9 @@
       "topic": "Contabilidade Geral - Elaboração e Apresentação das Demonstrações Contábeis (CPC 26, Lei 6.404, arts. 176 e 177)",
       "source": "con2.pdf",
       "page": 54,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2818482",
@@ -3260,9 +3260,9 @@
       "topic": "Contabilidade Geral - Notas Explicativas (Contabilidade Geral)",
       "source": "sp 3.pdf",
       "page": 29,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2823682",
@@ -3270,9 +3270,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "cont sp.pdf",
       "page": 34,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2823684",
@@ -3280,9 +3280,9 @@
       "topic": "Contabilidade Geral - Estrutura Conceitual Básica da Contabilidade (CPC 00)",
       "source": "con2.pdf",
       "page": 2,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2823686",
@@ -3290,9 +3290,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "cont sp.pdf",
       "page": 5,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2823688",
@@ -3300,9 +3300,9 @@
       "topic": "Contabilidade Geral - Reservas de Lucros",
       "source": "cont sp.pdf",
       "page": 47,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2823703",
@@ -3310,9 +3310,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "contabilidade1.pdf",
       "page": 27,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2823704",
@@ -3320,9 +3320,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 17,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2857667",
@@ -3330,9 +3330,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "cont sp.pdf",
       "page": 11,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2857669",
@@ -3340,9 +3340,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "cont 3.pdf",
       "page": 12,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2857670",
@@ -3350,9 +3350,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "cont 3.pdf",
       "page": 42,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2857671",
@@ -3360,9 +3360,9 @@
       "topic": "Contabilidade Geral - Dividendos",
       "source": "cont 3.pdf",
       "page": 47,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2857684",
@@ -3371,8 +3371,8 @@
       "source": "contabilidade1.pdf",
       "page": 24,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2857687",
@@ -3380,9 +3380,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "cont sp.pdf",
       "page": 5,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2857688",
@@ -3400,9 +3400,9 @@
       "topic": "Contabilidade Geral - Instruções Normativas da RFB sobre Escrituração Contábil Digital",
       "source": "sp 3.pdf",
       "page": 42,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2870103",
@@ -3410,9 +3410,9 @@
       "topic": "Contabilidade Geral - CPC 06: Arrendamento Mercantil (Financeiro e Operacional)",
       "source": "sp 3.pdf",
       "page": 32,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2870105",
@@ -3430,9 +3430,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "con2.pdf",
       "page": 55,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2870134",
@@ -3440,9 +3440,9 @@
       "topic": "Contabilidade Geral - Demonstração das Mutações do Patrimônio Líquido (DMPL)",
       "source": "sp 3.pdf",
       "page": 2,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2870141",
@@ -3450,9 +3450,9 @@
       "topic": "Contabilidade Geral - Ativos Intangíveis (CPC 04, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 28,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2870147",
@@ -3460,9 +3460,9 @@
       "topic": "Contabilidade Geral - Estrutura Conceitual Básica da Contabilidade (CPC 00)",
       "source": "con2.pdf",
       "page": 1,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2873777",
@@ -3470,9 +3470,9 @@
       "topic": "Contabilidade Geral - CPC 23: Políticas Contábeis, Mudanças de Estimativa e Retificação de Erro",
       "source": "sp 3.pdf",
       "page": 36,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2873788",
@@ -3480,9 +3480,9 @@
       "topic": "Contabilidade Geral - Depreciação, Amortização e Exaustão",
       "source": "cont sp.pdf",
       "page": 30,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2873873",
@@ -3490,9 +3490,9 @@
       "topic": "Contabilidade Geral - Propriedades para Investimento (CPC 28)",
       "source": "cont sp.pdf",
       "page": 14,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "2890597",
@@ -3501,8 +3501,8 @@
       "source": "contabilidade1.pdf",
       "page": 21,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2890835",
@@ -3510,9 +3510,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "contabilidade1.pdf",
       "page": 33,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2915805",
@@ -3520,9 +3520,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "contabilidade1.pdf",
       "page": 33,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "2924798",
@@ -3541,8 +3541,8 @@
       "source": "contabilidade1.pdf",
       "page": 25,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2961162",
@@ -3551,8 +3551,8 @@
       "source": "contabilidade1.pdf",
       "page": 41,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "2965563",
@@ -3560,9 +3560,9 @@
       "topic": "Contabilidade Geral - Instruções Normativas da RFB sobre Escrituração Contábil Digital",
       "source": "sp 3.pdf",
       "page": 41,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2967112",
@@ -3581,8 +3581,8 @@
       "source": "contabilidade1.pdf",
       "page": 22,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "2985314",
@@ -3601,8 +3601,8 @@
       "source": "contabilidade1.pdf",
       "page": 36,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3039443",
@@ -3610,9 +3610,9 @@
       "topic": "Contabilidade Geral - CPC 15: Combinação de Negócios, Fusão, Incorporação e Cisão",
       "source": "contabilidade1.pdf",
       "page": 41,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3043696",
@@ -3620,9 +3620,9 @@
       "topic": "Contabilidade Geral - Depreciação, Amortização e Exaustão",
       "source": "contabilidade1.pdf",
       "page": 18,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3046908",
@@ -3631,8 +3631,8 @@
       "source": "contabilidade1.pdf",
       "page": 23,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3048150",
@@ -3640,9 +3640,9 @@
       "topic": "Contabilidade Geral - CPC 15: Combinação de Negócios, Fusão, Incorporação e Cisão",
       "source": "contabilidade1.pdf",
       "page": 40,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3048238",
@@ -3660,9 +3660,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "contabilidade1.pdf",
       "page": 31,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3079046",
@@ -3691,8 +3691,8 @@
       "source": "contabilidade1.pdf",
       "page": 29,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3092661",
@@ -3701,8 +3701,8 @@
       "source": "contabilidade1.pdf",
       "page": 29,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3093142",
@@ -3711,8 +3711,8 @@
       "source": "contabilidade1.pdf",
       "page": 25,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3093568",
@@ -3720,9 +3720,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "contabilidade1.pdf",
       "page": 33,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3093570",
@@ -3740,9 +3740,9 @@
       "topic": "Contabilidade Geral - Decreto nº 6.022/2007 - Sistema Público de Escrituração Digital (SPED)",
       "source": "sp 3.pdf",
       "page": 38,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3093986",
@@ -3750,9 +3750,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "contabilidade1.pdf",
       "page": 35,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3101851",
@@ -3761,8 +3761,8 @@
       "source": "contabilidade1.pdf",
       "page": 43,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3101877",
@@ -3770,9 +3770,9 @@
       "topic": "Contabilidade Geral - CPC 15: Combinação de Negócios, Fusão, Incorporação e Cisão",
       "source": "contabilidade1.pdf",
       "page": 40,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3101882",
@@ -3780,9 +3780,9 @@
       "topic": "Contabilidade Geral - CPC 15: Combinação de Negócios, Fusão, Incorporação e Cisão",
       "source": "contabilidade1.pdf",
       "page": 41,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3105773",
@@ -3810,9 +3810,9 @@
       "topic": "Contabilidade Geral - Estrutura Conceitual Básica da Contabilidade (CPC 00)",
       "source": "cont sp.pdf",
       "page": 1,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3114168",
@@ -3820,9 +3820,9 @@
       "topic": "Contabilidade Geral - Escrituração: Normas, Livros Contábeis, Lançamentos, Método das Partidas Dobradas",
       "source": "cont sp.pdf",
       "page": 3,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3114175",
@@ -3830,9 +3830,9 @@
       "topic": "Contabilidade Geral - Elaboração e Apresentação das Demonstrações Contábeis (CPC 26, Lei 6.404, arts. 176 e 177)",
       "source": "cont sp.pdf",
       "page": 57,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3114186",
@@ -3840,9 +3840,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 16,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3114242",
@@ -3850,9 +3850,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "sp 3.pdf",
       "page": 23,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3114258",
@@ -3860,9 +3860,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 54,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3114432",
@@ -3870,9 +3870,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "con2.pdf",
       "page": 61,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3116028",
@@ -3920,9 +3920,9 @@
       "topic": "Contabilidade Geral - CPC 07: Subvenção e Assistência Governamentais",
       "source": "sp 3.pdf",
       "page": 32,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3116783",
@@ -3930,9 +3930,9 @@
       "topic": "Contabilidade Geral - Ativos Intangíveis (CPC 04, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 27,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3116791",
@@ -3940,9 +3940,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "cont sp.pdf",
       "page": 34,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3116840",
@@ -3950,9 +3950,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "con2.pdf",
       "page": 53,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3116850",
@@ -3960,9 +3960,9 @@
       "topic": "Contabilidade Geral - Estrutura Conceitual Básica da Contabilidade (CPC 00)",
       "source": "cont sp.pdf",
       "page": 1,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3116882",
@@ -3970,9 +3970,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "cont sp.pdf",
       "page": 60,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3116903",
@@ -3980,9 +3980,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "sp 3.pdf",
       "page": 22,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3149057",
@@ -3990,9 +3990,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "sp 3.pdf",
       "page": 21,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3149059",
@@ -4000,9 +4000,9 @@
       "topic": "Contabilidade Geral - CPC 46: Mensuração a Valor Justo (Lei 6.404, art. 183, §1º)",
       "source": "sp 3.pdf",
       "page": 38,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3149114",
@@ -4011,8 +4011,8 @@
       "source": "cont sp.pdf",
       "page": 3,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3149875",
@@ -4020,9 +4020,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "cont sp.pdf",
       "page": 58,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3154649",
@@ -4030,9 +4030,9 @@
       "topic": "Contabilidade Geral - CPC 06: Arrendamento Mercantil (Financeiro e Operacional)",
       "source": "sp 3.pdf",
       "page": 31,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3154666",
@@ -4040,9 +4040,9 @@
       "topic": "Contabilidade Geral - Escrituração: Normas, Livros Contábeis, Lançamentos, Método das Partidas Dobradas",
       "source": "con2.pdf",
       "page": 3,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3154729",
@@ -4050,9 +4050,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "cont sp.pdf",
       "page": 25,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3157931",
@@ -4061,8 +4061,8 @@
       "source": "contabilidade1.pdf",
       "page": 34,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3166725",
@@ -4090,9 +4090,9 @@
       "topic": "Contabilidade Geral - Goodwill",
       "source": "contabilidade1.pdf",
       "page": 21,
-      "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3220261",
@@ -4101,8 +4101,8 @@
       "source": "cont sp.pdf",
       "page": 50,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3220273",
@@ -4110,9 +4110,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "con2.pdf",
       "page": 53,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3225391",
@@ -4120,9 +4120,9 @@
       "topic": "Contabilidade Geral - Debêntures e Títulos de Dívida",
       "source": "cont sp.pdf",
       "page": 43,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3225393",
@@ -4130,9 +4130,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 16,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3225396",
@@ -4140,9 +4140,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "cont sp.pdf",
       "page": 11,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3225406",
@@ -4150,9 +4150,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "sp 3.pdf",
       "page": 22,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3225415",
@@ -4160,9 +4160,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "sp 3.pdf",
       "page": 33,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3225421",
@@ -4170,9 +4170,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "sp 3.pdf",
       "page": 6,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3228158",
@@ -4190,9 +4190,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "cont sp.pdf",
       "page": 59,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3240899",
@@ -4201,8 +4201,8 @@
       "source": "contabilidade1.pdf",
       "page": 30,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3240910",
@@ -4231,8 +4231,8 @@
       "source": "contabilidade1.pdf",
       "page": 22,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3240931",
@@ -4240,9 +4240,9 @@
       "topic": "Contabilidade Geral - Ativos Intangíveis (CPC 04, Lei 6.404)",
       "source": "contabilidade1.pdf",
       "page": 17,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3251802",
@@ -4251,8 +4251,8 @@
       "source": "contabilidade1.pdf",
       "page": 31,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3259149",
@@ -4261,8 +4261,8 @@
       "source": "contabilidade1.pdf",
       "page": 31,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3320315",
@@ -4270,9 +4270,9 @@
       "topic": "Contabilidade Geral - Capital Social (Subscrito, a Realizar, Realizado)",
       "source": "contabilidade1.pdf",
       "page": 22,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3349474",
@@ -4290,9 +4290,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "contabilidade1.pdf",
       "page": 27,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3365888",
@@ -4301,8 +4301,8 @@
       "source": "sp 3.pdf",
       "page": 1,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3365911",
@@ -4310,9 +4310,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "cont sp.pdf",
       "page": 24,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3365912",
@@ -4321,8 +4321,8 @@
       "source": "contabilidade1.pdf",
       "page": 27,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3365954",
@@ -4330,9 +4330,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "sp 3.pdf",
       "page": 5,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3365976",
@@ -4340,9 +4340,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 15,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3365979",
@@ -4350,9 +4350,9 @@
       "topic": "Contabilidade Geral - Escrituração: Normas, Livros Contábeis, Lançamentos, Método das Partidas Dobradas",
       "source": "cont sp.pdf",
       "page": 2,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3365982",
@@ -4360,9 +4360,9 @@
       "topic": "Contabilidade Geral - Elaboração e Apresentação das Demonstrações Contábeis (CPC 26, Lei 6.404, arts. 176 e 177)",
       "source": "contabilidade1.pdf",
       "page": 28,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3366895",
@@ -4370,9 +4370,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "cont sp.pdf",
       "page": 32,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3367265",
@@ -4380,9 +4380,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "cont sp.pdf",
       "page": 24,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3367308",
@@ -4390,9 +4390,9 @@
       "topic": "Contabilidade Geral - Demonstração de Resultados Abrangentes (DRA)",
       "source": "sp 3.pdf",
       "page": 27,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3367324",
@@ -4400,9 +4400,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 52,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3367366",
@@ -4410,9 +4410,9 @@
       "topic": "Contabilidade Geral - Dividendos",
       "source": "sp 3.pdf",
       "page": 43,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3367452",
@@ -4420,9 +4420,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "sp 3.pdf",
       "page": 21,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3367664",
@@ -4430,9 +4430,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "sp 3.pdf",
       "page": 4,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3385418",
@@ -4441,8 +4441,8 @@
       "source": "contabilidade1.pdf",
       "page": 8,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3385421",
@@ -4450,9 +4450,9 @@
       "topic": "Contabilidade Geral - Goodwill",
       "source": "contabilidade1.pdf",
       "page": 20,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3385428",
@@ -4462,7 +4462,7 @@
       "page": 40,
       "kind": "teoria",
       "batch": null,
-      "status": "pendente"
+      "status": "divergencia"
     },
     {
       "id": "3401244",
@@ -4470,9 +4470,9 @@
       "topic": "Contabilidade Geral - CPC 02: Efeitos de Mudanças/Taxas de Câmbio/Investimentos no Exterior e Conversão de Demonstrações",
       "source": "contabilidade1.pdf",
       "page": 36,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3401267",
@@ -4481,8 +4481,8 @@
       "source": "contabilidade1.pdf",
       "page": 42,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3412175",
@@ -4491,8 +4491,8 @@
       "source": "contabilidade1.pdf",
       "page": 23,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3412215",
@@ -4501,8 +4501,8 @@
       "source": "contabilidade1.pdf",
       "page": 42,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3446245",
@@ -4510,9 +4510,9 @@
       "topic": "Contabilidade Geral - Decreto nº 6.022/2007 - Sistema Público de Escrituração Digital (SPED)",
       "source": "sp 3.pdf",
       "page": 38,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3448129",
@@ -4520,9 +4520,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "cont sp.pdf",
       "page": 65,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3448136",
@@ -4540,9 +4540,9 @@
       "topic": "Contabilidade Geral - Reservas de Lucros",
       "source": "cont sp.pdf",
       "page": 46,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3454091",
@@ -4561,8 +4561,8 @@
       "source": "contabilidade1.pdf",
       "page": 23,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3504315",
@@ -4570,9 +4570,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "contabilidade1.pdf",
       "page": 26,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3539073",
@@ -4580,9 +4580,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "con2.pdf",
       "page": 12,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3539078",
@@ -4590,9 +4590,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "cont sp.pdf",
       "page": 16,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3539080",
@@ -4600,9 +4600,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "con2.pdf",
       "page": 19,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3539087",
@@ -4610,9 +4610,9 @@
       "topic": "Contabilidade Geral - Demonstração de Resultados Abrangentes (DRA)",
       "source": "cont 3.pdf",
       "page": 30,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3539089",
@@ -4620,9 +4620,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "sp 3.pdf",
       "page": 20,
-      "kind": null,
+      "kind": "calculo",
       "batch": null,
-      "status": "pendente"
+      "status": "divergencia"
     },
     {
       "id": "3546511",
@@ -4630,9 +4630,9 @@
       "topic": "Contabilidade Geral - Operações com Mercadorias (CMV, RCM, Tributos, Frete, etc.)",
       "source": "con2.pdf",
       "page": 8,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3546692",
@@ -4640,9 +4640,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "contabilidade1.pdf",
       "page": 26,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3552249",
@@ -4650,9 +4650,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "cont sp.pdf",
       "page": 4,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3552250",
@@ -4660,9 +4660,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "con2.pdf",
       "page": 4,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3552251",
@@ -4670,9 +4670,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "con2.pdf",
       "page": 13,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3552252",
@@ -4680,9 +4680,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "con2.pdf",
       "page": 12,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3552253",
@@ -4700,9 +4700,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "cont sp.pdf",
       "page": 33,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3552257",
@@ -4710,9 +4710,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "cont sp.pdf",
       "page": 34,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3552258",
@@ -4720,9 +4720,9 @@
       "topic": "Contabilidade Geral - Empréstimos e Fornecedores",
       "source": "cont sp.pdf",
       "page": 39,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3553900",
@@ -4730,9 +4730,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 52,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3553910",
@@ -4740,9 +4740,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 53,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3553917",
@@ -4750,9 +4750,9 @@
       "topic": "Contabilidade Geral - Reservas de Lucros",
       "source": "con2.pdf",
       "page": 46,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3553924",
@@ -4760,9 +4760,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "sp 3.pdf",
       "page": 19,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3557735",
@@ -4770,9 +4770,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "cont sp.pdf",
       "page": 9,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3557740",
@@ -4801,8 +4801,8 @@
       "source": "contabilidade1.pdf",
       "page": 19,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3557771",
@@ -4810,9 +4810,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "contabilidade1.pdf",
       "page": 19,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3561624",
@@ -4820,9 +4820,9 @@
       "topic": "Contabilidade Geral - Depreciação, Amortização e Exaustão",
       "source": "cont sp.pdf",
       "page": 30,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3561684",
@@ -4830,9 +4830,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "cont sp.pdf",
       "page": 32,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3561701",
@@ -4840,9 +4840,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "cont sp.pdf",
       "page": 53,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3561707",
@@ -4851,8 +4851,8 @@
       "source": "sp 3.pdf",
       "page": 43,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3561720",
@@ -4860,9 +4860,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "cont 3.pdf",
       "page": 5,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3561722",
@@ -4870,9 +4870,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "cont 3.pdf",
       "page": 9,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3561723",
@@ -4880,9 +4880,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "cont 3.pdf",
       "page": 24,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3561725",
@@ -4890,9 +4890,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "sp 3.pdf",
       "page": 20,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3561728",
@@ -4901,8 +4901,8 @@
       "source": "con2.pdf",
       "page": 8,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3561729",
@@ -4910,9 +4910,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "cont 3.pdf",
       "page": 41,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3561734",
@@ -4920,9 +4920,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "cont sp.pdf",
       "page": 10,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3561737",
@@ -4930,9 +4930,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "cont sp.pdf",
       "page": 10,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3561739",
@@ -4940,9 +4940,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "con2.pdf",
       "page": 20,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3561740",
@@ -4950,9 +4950,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "con2.pdf",
       "page": 19,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3561742",
@@ -4960,9 +4960,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "cont sp.pdf",
       "page": 23,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3561745",
@@ -4971,8 +4971,8 @@
       "source": "cont sp.pdf",
       "page": 43,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3561747",
@@ -4980,9 +4980,9 @@
       "topic": "Contabilidade Geral - Debêntures e Títulos de Dívida",
       "source": "cont sp.pdf",
       "page": 42,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3566983",
@@ -4990,9 +4990,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "cont sp.pdf",
       "page": 24,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3567022",
@@ -5000,9 +5000,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "cont sp.pdf",
       "page": 33,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3567056",
@@ -5010,9 +5010,9 @@
       "topic": "Contabilidade Geral - Dividendos",
       "source": "sp 3.pdf",
       "page": 43,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3567110",
@@ -5020,9 +5020,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "cont 3.pdf",
       "page": 23,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3567120",
@@ -5030,9 +5030,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "sp 3.pdf",
       "page": 19,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3567620",
@@ -5040,9 +5040,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "cont sp.pdf",
       "page": 65,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3567649",
@@ -5060,9 +5060,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "cont 3.pdf",
       "page": 22,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3567674",
@@ -5070,9 +5070,9 @@
       "topic": "Contabilidade Geral - Empréstimos e Fornecedores",
       "source": "con2.pdf",
       "page": 40,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3584435",
@@ -5091,8 +5091,8 @@
       "source": "contabilidade1.pdf",
       "page": 24,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3584443",
@@ -5101,8 +5101,8 @@
       "source": "contabilidade1.pdf",
       "page": 24,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3599068",
@@ -5110,9 +5110,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "contabilidade1.pdf",
       "page": 32,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3657093",
@@ -5120,9 +5120,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "contabilidade1.pdf",
       "page": 19,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3662027",
@@ -5151,8 +5151,8 @@
       "source": "contabilidade1.pdf",
       "page": 37,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3681103",
@@ -5170,9 +5170,9 @@
       "topic": "Contabilidade Geral - Operações com Mercadorias (CMV, RCM, Tributos, Frete, etc.)",
       "source": "con2.pdf",
       "page": 8,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3764444",
@@ -5180,9 +5180,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "cont 3.pdf",
       "page": 6,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3766730",
@@ -5190,9 +5190,9 @@
       "topic": "Contabilidade Geral - Empréstimos e Fornecedores",
       "source": "con2.pdf",
       "page": 40,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3766739",
@@ -5200,9 +5200,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "con2.pdf",
       "page": 36,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3766768",
@@ -5210,9 +5210,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "cont 3.pdf",
       "page": 21,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3798925",
@@ -5220,9 +5220,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "contabilidade1.pdf",
       "page": 30,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3800492",
@@ -5230,9 +5230,9 @@
       "topic": "Contabilidade Geral - Demonstração de Resultados Abrangentes (DRA)",
       "source": "cont 3.pdf",
       "page": 29,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3800511",
@@ -5240,9 +5240,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "con2.pdf",
       "page": 59,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3800520",
@@ -5250,9 +5250,9 @@
       "topic": "Contabilidade Geral - Depreciação, Amortização e Exaustão",
       "source": "con2.pdf",
       "page": 32,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3800549",
@@ -5260,9 +5260,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "con2.pdf",
       "page": 10,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3800829",
@@ -5270,9 +5270,9 @@
       "topic": "Contabilidade Geral - CPC 15: Combinação de Negócios, Fusão, Incorporação e Cisão",
       "source": "cont 3.pdf",
       "page": 43,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3800833",
@@ -5280,9 +5280,9 @@
       "topic": "Contabilidade Geral - Empréstimos e Fornecedores",
       "source": "con2.pdf",
       "page": 39,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3800891",
@@ -5290,9 +5290,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "cont 3.pdf",
       "page": 2,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3814596",
@@ -5300,9 +5300,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "contabilidade1.pdf",
       "page": 35,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3814598",
@@ -5311,8 +5311,8 @@
       "source": "contabilidade1.pdf",
       "page": 36,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3816107",
@@ -5320,9 +5320,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "contabilidade1.pdf",
       "page": 30,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3822169",
@@ -5340,9 +5340,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "con2.pdf",
       "page": 18,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3822211",
@@ -5350,9 +5350,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "con2.pdf",
       "page": 3,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3822215",
@@ -5360,9 +5360,9 @@
       "topic": "Contabilidade Geral - Depreciação, Amortização e Exaustão",
       "source": "con2.pdf",
       "page": 32,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3822216",
@@ -5380,9 +5380,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "cont 3.pdf",
       "page": 1,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3822308",
@@ -5390,9 +5390,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "contabilidade1.pdf",
       "page": 26,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3822313",
@@ -5400,9 +5400,9 @@
       "topic": "Contabilidade Geral - Demonstração de Resultados Abrangentes (DRA)",
       "source": "cont 3.pdf",
       "page": 30,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3823077",
@@ -5410,9 +5410,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "con2.pdf",
       "page": 55,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3830921",
@@ -5421,8 +5421,8 @@
       "source": "contabilidade1.pdf",
       "page": 36,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3831178",
@@ -5430,9 +5430,9 @@
       "topic": "Contabilidade Geral - CPC 06: Arrendamento Mercantil (Financeiro e Operacional)",
       "source": "contabilidade1.pdf",
       "page": 38,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3846334",
@@ -5440,9 +5440,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "con2.pdf",
       "page": 10,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3846339",
@@ -5450,9 +5450,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "con2.pdf",
       "page": 18,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3846342",
@@ -5460,9 +5460,9 @@
       "topic": "Contabilidade Geral - CPC 06: Arrendamento Mercantil (Financeiro e Operacional)",
       "source": "cont 3.pdf",
       "page": 35,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3846345",
@@ -5470,9 +5470,9 @@
       "topic": "Contabilidade Geral - Empréstimos e Fornecedores",
       "source": "con2.pdf",
       "page": 39,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3846655",
@@ -5480,9 +5480,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "con2.pdf",
       "page": 59,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3846659",
@@ -5490,9 +5490,9 @@
       "topic": "Contabilidade Geral - Depreciação, Amortização e Exaustão",
       "source": "con2.pdf",
       "page": 32,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3846690",
@@ -5500,9 +5500,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "con2.pdf",
       "page": 59,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3846697",
@@ -5510,9 +5510,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "con2.pdf",
       "page": 26,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3846719",
@@ -5520,9 +5520,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "con2.pdf",
       "page": 34,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3846725",
@@ -5540,9 +5540,9 @@
       "topic": "Contabilidade Geral - Reservas de Lucros",
       "source": "con2.pdf",
       "page": 44,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3846765",
@@ -5550,9 +5550,9 @@
       "topic": "Contabilidade Geral - CPC 16 - Tratamento Contábil para os Estoques",
       "source": "con2.pdf",
       "page": 4,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3846777",
@@ -5560,9 +5560,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "con2.pdf",
       "page": 34,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3846785",
@@ -5570,9 +5570,9 @@
       "topic": "Contabilidade Geral - Demonstração de Resultados Abrangentes (DRA)",
       "source": "cont 3.pdf",
       "page": 29,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3846793",
@@ -5580,9 +5580,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "con2.pdf",
       "page": 50,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3846794",
@@ -5590,9 +5590,9 @@
       "topic": "Contabilidade Geral - CPC 02: Efeitos de Mudanças/Taxas de Câmbio/Investimentos no Exterior e Conversão de Demonstrações",
       "source": "cont 3.pdf",
       "page": 33,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3846874",
@@ -5601,8 +5601,8 @@
       "source": "contabilidade1.pdf",
       "page": 38,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3846980",
@@ -5630,9 +5630,9 @@
       "topic": "Contabilidade Geral - CPC 06: Arrendamento Mercantil (Financeiro e Operacional)",
       "source": "cont 3.pdf",
       "page": 36,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3847015",
@@ -5640,9 +5640,9 @@
       "topic": "Contabilidade Geral - CPC 02: Efeitos de Mudanças/Taxas de Câmbio/Investimentos no Exterior e Conversão de Demonstrações",
       "source": "cont 3.pdf",
       "page": 33,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3847016",
@@ -5650,9 +5650,9 @@
       "topic": "Contabilidade Geral - Goodwill",
       "source": "con2.pdf",
       "page": 38,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3847017",
@@ -5660,9 +5660,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "con2.pdf",
       "page": 17,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3847018",
@@ -5670,9 +5670,9 @@
       "topic": "Contabilidade Geral - CPC 02: Efeitos de Mudanças/Taxas de Câmbio/Investimentos no Exterior e Conversão de Demonstrações",
       "source": "cont 3.pdf",
       "page": 33,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3847020",
@@ -5680,9 +5680,9 @@
       "topic": "Contabilidade Geral - CPC 23: Políticas Contábeis, Mudanças de Estimativa e Retificação de Erro",
       "source": "cont 3.pdf",
       "page": 43,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3847023",
@@ -5690,9 +5690,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "cont 3.pdf",
       "page": 40,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3847031",
@@ -5700,9 +5700,9 @@
       "topic": "Contabilidade Geral - Empréstimos e Fornecedores",
       "source": "con2.pdf",
       "page": 39,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3847045",
@@ -5710,9 +5710,9 @@
       "topic": "Contabilidade Geral - Demonstração do Valor Adicionado (DVA - CPC 09, Lei 6.404, art. 188, II)",
       "source": "cont 3.pdf",
       "page": 19,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3847057",
@@ -5720,9 +5720,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "con2.pdf",
       "page": 17,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3847069",
@@ -5730,9 +5730,9 @@
       "topic": "Contabilidade Geral - Propriedades para Investimento (CPC 28)",
       "source": "con2.pdf",
       "page": 15,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3847070",
@@ -5740,9 +5740,9 @@
       "topic": "Contabilidade Geral - CPC 07: Subvenção e Assistência Governamentais",
       "source": "cont 3.pdf",
       "page": 38,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3847071",
@@ -5751,8 +5751,8 @@
       "source": "contabilidade1.pdf",
       "page": 32,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3847072",
@@ -5760,9 +5760,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "cont 3.pdf",
       "page": 4,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3850867",
@@ -5770,9 +5770,9 @@
       "topic": "Contabilidade Geral - Demonstração de Resultados Abrangentes (DRA)",
       "source": "cont 3.pdf",
       "page": 30,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3850868",
@@ -5780,9 +5780,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "con2.pdf",
       "page": 18,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3850871",
@@ -5790,9 +5790,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "con2.pdf",
       "page": 33,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3850887",
@@ -5800,9 +5800,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "con2.pdf",
       "page": 58,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3850892",
@@ -5810,9 +5810,9 @@
       "topic": "Contabilidade Geral - Ativos Intangíveis (CPC 04, Lei 6.404)",
       "source": "con2.pdf",
       "page": 29,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3850901",
@@ -5820,9 +5820,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "con2.pdf",
       "page": 51,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3850904",
@@ -5830,9 +5830,9 @@
       "topic": "Contabilidade Geral - Empréstimos e Fornecedores",
       "source": "con2.pdf",
       "page": 40,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3863553",
@@ -5841,8 +5841,8 @@
       "source": "con2.pdf",
       "page": 48,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3863557",
@@ -5850,9 +5850,9 @@
       "topic": "Contabilidade Geral - Ativos Intangíveis (CPC 04, Lei 6.404)",
       "source": "con2.pdf",
       "page": 29,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3863558",
@@ -5860,9 +5860,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "con2.pdf",
       "page": 26,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3863560",
@@ -5870,9 +5870,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "con2.pdf",
       "page": 25,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3863562",
@@ -5880,9 +5880,9 @@
       "topic": "Contabilidade Geral - Estrutura Conceitual Básica da Contabilidade (CPC 00)",
       "source": "con2.pdf",
       "page": 1,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3863578",
@@ -5890,9 +5890,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "con2.pdf",
       "page": 49,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3864879",
@@ -5900,9 +5900,9 @@
       "topic": "Contabilidade Geral - Demonstração de Resultados Abrangentes (DRA)",
       "source": "cont 3.pdf",
       "page": 29,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3864882",
@@ -5910,9 +5910,9 @@
       "topic": "Contabilidade Geral - Instrumentos Financeiros",
       "source": "con2.pdf",
       "page": 11,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3864888",
@@ -5920,9 +5920,9 @@
       "topic": "Contabilidade Geral - Ativo Imobilizado (Conceito, Classificação, Mensuração Inicial, Reavaliação)",
       "source": "con2.pdf",
       "page": 26,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3864891",
@@ -5930,9 +5930,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "con2.pdf",
       "page": 17,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3883229",
@@ -5951,8 +5951,8 @@
       "source": "contabilidade1.pdf",
       "page": 39,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3883244",
@@ -5971,8 +5971,8 @@
       "source": "contabilidade1.pdf",
       "page": 29,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3883366",
@@ -5980,9 +5980,9 @@
       "topic": "Contabilidade Geral - Balanço Patrimonial",
       "source": "contabilidade1.pdf",
       "page": 30,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3907140",
@@ -5990,9 +5990,9 @@
       "topic": "Contabilidade Geral - CPC 07: Subvenção e Assistência Governamentais",
       "source": "cont 3.pdf",
       "page": 38,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3907144",
@@ -6000,9 +6000,9 @@
       "topic": "Contabilidade Geral - CPC 12: Ajuste a Valor Presente",
       "source": "cont 3.pdf",
       "page": 41,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3962799",
@@ -6010,9 +6010,9 @@
       "topic": "Contabilidade Geral - Reservas de Lucros",
       "source": "con2.pdf",
       "page": 45,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3975802",
@@ -6020,9 +6020,9 @@
       "topic": "Contabilidade Geral - Depreciação, Amortização e Exaustão",
       "source": "con2.pdf",
       "page": 31,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3975805",
@@ -6030,9 +6030,9 @@
       "topic": "Contabilidade Geral - Reservas de Lucros",
       "source": "con2.pdf",
       "page": 45,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3975808",
@@ -6040,9 +6040,9 @@
       "topic": "Contabilidade Geral - Operações com Mercadorias (CMV, RCM, Tributos, Frete, etc.)",
       "source": "con2.pdf",
       "page": 7,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3975809",
@@ -6050,9 +6050,9 @@
       "topic": "Contabilidade Geral - Elaboração e Apresentação das Demonstrações Contábeis (CPC 26, Lei 6.404, arts. 176 e 177)",
       "source": "contabilidade1.pdf",
       "page": 28,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3975812",
@@ -6060,9 +6060,9 @@
       "topic": "Contabilidade Geral - Redução ao Valor Recuperável de Ativos (CPC 01, Lei 6.404, art. 183, §3º, I)",
       "source": "contabilidade1.pdf",
       "page": 18,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3975826",
@@ -6070,9 +6070,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "con2.pdf",
       "page": 50,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3975830",
@@ -6080,9 +6080,9 @@
       "topic": "Contabilidade Geral - Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)",
       "source": "contabilidade1.pdf",
       "page": 26,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "teoria",
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3975832",
@@ -6090,9 +6090,9 @@
       "topic": "Contabilidade Geral - Demonstração do Resultado do Exercício (DRE) e Destinação do Resultado",
       "source": "con2.pdf",
       "page": 60,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3975837",
@@ -6110,9 +6110,9 @@
       "topic": "Contabilidade Geral - Depreciação, Amortização e Exaustão",
       "source": "con2.pdf",
       "page": 31,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3975976",
@@ -6121,8 +6121,8 @@
       "source": "cont 3.pdf",
       "page": 49,
       "kind": "teoria",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3975984",
@@ -6130,9 +6130,9 @@
       "topic": "Contabilidade Geral - Propriedades para Investimento (CPC 28)",
       "source": "con2.pdf",
       "page": 15,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 4,
+      "status": "resolvida"
     },
     {
       "id": "3975985",
@@ -6141,8 +6141,8 @@
       "source": "contabilidade1.pdf",
       "page": 22,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 7,
+      "status": "resolvida"
     },
     {
       "id": "3975988",
@@ -6161,8 +6161,8 @@
       "source": "contabilidade1.pdf",
       "page": 35,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3975994",
@@ -6170,9 +6170,9 @@
       "topic": "Contabilidade Geral - CPC 02: Efeitos de Mudanças/Taxas de Câmbio/Investimentos no Exterior e Conversão de Demonstrações",
       "source": "cont 3.pdf",
       "page": 32,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3975995",
@@ -6181,8 +6181,8 @@
       "source": "cont 3.pdf",
       "page": 36,
       "kind": "calculo",
-      "batch": null,
-      "status": "pendente"
+      "batch": 6,
+      "status": "resolvida"
     },
     {
       "id": "3975996",
@@ -6190,9 +6190,9 @@
       "topic": "Contabilidade Geral - Investimentos Avaliados pelo Custo ou MEP (CPC 18, Lei 6.404, art. 248)",
       "source": "contabilidade1.pdf",
       "page": 14,
-      "kind": null,
+      "kind": "calculo",
       "batch": null,
-      "status": "pendente"
+      "status": "divergencia"
     },
     {
       "id": "3976034",
@@ -6200,9 +6200,9 @@
       "topic": "Contabilidade Geral - Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)",
       "source": "cont 3.pdf",
       "page": 4,
-      "kind": null,
-      "batch": null,
-      "status": "pendente"
+      "kind": "calculo",
+      "batch": 5,
+      "status": "resolvida"
     },
     {
       "id": "3976043",
