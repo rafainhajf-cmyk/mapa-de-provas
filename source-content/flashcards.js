@@ -3,7 +3,7 @@ import {allCards,importApkg,mediaBlob,LABELS} from './flashcards-import.js?v=4';
 const progressKey='mapa-anki-reviews-v1';
 const $=q=>document.querySelector(q);
 const cardsById=new Map(),mediaURLs=new Map();
-let cards=[],subject='lei236',filter='',current=null,turned=false,showAll=false,busy=false;
+let cards=[],subject='lei236',filter='',current=null,turned=false,showAll=true,busy=false;
 const now=()=>Date.now(),esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function loadReviews(){try{const obj=JSON.parse(localStorage.getItem(progressKey)||'{}');return obj&&typeof obj==='object'?obj:{}}catch{return {}}}
 let reviews=loadReviews();
@@ -97,7 +97,7 @@ function renderCard(){
  const target=$('#studyArea'),s=subjStats(subject);
  $('#counter').textContent=s.due+' para revisar · '+subjectCards().length+' no filtro';
  if(!current){
-   target.innerHTML='<div class="fc-empty"><h3>'+(s.all?'Revisões do momento concluídas':'Nenhum cartão importado nesta matéria')+'</h3><p>'+(s.all?'Você pode marcar “Mostrar todos” para estudar novamente ou voltar quando houver revisões.':'Importe seus arquivos .apkg originais do Literalidade pelo formulário acima.')+'</p></div>';
+   target.innerHTML='<div class="fc-empty"><h3>'+(s.all?'Não há cartões correspondentes ao filtro':'Nenhum cartão importado nesta matéria')+'</h3><p>'+(s.all?'Limpe o filtro de subbaralho para ver os cartões disponíveis.':'Os baralhos importados são locais deste navegador. Importe o arquivo .apkg original aqui, sem limpar os dados do navegador.')+'</p></div>';
    return;
  }
  const f=current.fields||{},front=f.Sentença||f.Pergunta||'',answer=f.Gabarito||f.Resposta||'';
@@ -145,14 +145,14 @@ async function doImport(file){
  try{
   const report=await importApkg(file,subjectAtStart,msg=>{bar.textContent=msg;});
   subject=report.forcedReform?'reforma':subjectAtStart;
-  filter='';showAll=false;
+  filter='';showAll=true;
   await refresh();
   bar.textContent='Importação concluída: '+report.added+' novos, '+report.moved+' movidos de matéria, '+report.kept+' já existentes. '+report.media+' mídias preservadas. Total do arquivo: '+report.fromFile+'.';
  }catch(e){bar.textContent='Não foi possível importar: '+e.message;}
  finally{busy=false;$('#importButton').disabled=false;$('#importFile').value='';}
 }
 function init(){
- $('#flashcardSubjects').addEventListener('click',e=>{const b=e.target.closest('[data-subject]');if(!b)return;subject=b.dataset.subject;filter='';showAll=false;renderNav();chooseCard();});
+ $('#flashcardSubjects').addEventListener('click',e=>{const b=e.target.closest('[data-subject]');if(!b)return;subject=b.dataset.subject;filter='';showAll=true;renderNav();chooseCard();});
  $('#filterDeck').addEventListener('change',e=>{filter=e.target.value;chooseCard();});
  $('#showAll').addEventListener('change',e=>{showAll=e.target.checked;chooseCard();});
  $('#studyArea').addEventListener('click',e=>{
