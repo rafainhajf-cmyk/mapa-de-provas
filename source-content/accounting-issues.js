@@ -10,11 +10,6 @@ export const accountingIssues = [
     "sourceKey": "E"
   },
   {
-    "id": "3385428",
-    "reason": "Divergência material de gabarito: chave fornecida B, mas II e IV são verdadeiras e levam a D. A cisão total extingue a companhia cindida (Lei 6.404/1976, art.229). I erra ao falar em liquidação de ativos/passivos e III ao excluir intangíveis. Fonte primária: https://www2.camara.leg.br/legin/fed/lei/1970-1979/lei-6404-15-dezembro-1976-368447-normaatualizada-pl.html . Necessita conferência de gabarito definitivo/retificação antes da integração como resolvida.",
-    "sourceKey": "B"
-  },
-  {
     "id": "3975996",
     "reason": "Gabarito D (investimento32milhões; equivalência4milhões) é possível somente se os dividendos meramente propostos não gerarem direito a receber na data-base. Se forem dividendos mínimos obrigatórios/declarados, o saldo é28+40%×10−40%×4=30,4milhões, ausente das alternativas. O enunciado não informa natureza/aprovação dos dividendos. Manter pendente até esclarecer a premissa de dividendos adicionais propostos, sem falsear o saldo32milhões como conclusão incondicional. Fonte primária ICPC08(R1), itens23-24: https://conteudo.cvm.gov.br/export/sites/cvm/menu/regulados/normascontabeis/cpc/ICPC_08_R1.pdf",
     "sourceKey": "D"

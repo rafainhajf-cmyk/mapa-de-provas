@@ -4,6 +4,7 @@ import {accountingSetsHTML} from './source-content/accounting-curated.js';
 test('questões TEC exibem enunciados e alternativas antes da resposta recolhida',()=>{
  const html=accountingSetsHTML();
  assert.match(html,/A contabilidade tem por objeto/);
+ assert.match(html,/companhia fechada\)/);
  assert.match(html,/o patrimônio das entidades/);
  assert.match(html,/data-curated-id="TEC-2013231"/);
  const at=html.indexOf('A contabilidade tem por objeto');
@@ -19,8 +20,8 @@ import {tecOriginals} from './source-content/accounting-originals.js';
 import {secondBatch} from './source-content/accounting-solutions-02.js';
 test('inventário conta questões únicas analisadas e preserva a origem',()=>{
  assert.equal(secondBatch.length,17);
- assert.equal(resolvedQuestions.length,597);
- assert.equal(new Set(resolvedQuestions.map(q=>q.id)).size,597);
+ assert.equal(resolvedQuestions.length,598);
+ assert.equal(new Set(resolvedQuestions.map(q=>q.id)).size,598);
  for(const q of resolvedQuestions){
   assert.ok(tecOriginals[q.id]?.text.length>80,q.id);
   assert.ok(tecOriginals[q.id].page>0,q.id);

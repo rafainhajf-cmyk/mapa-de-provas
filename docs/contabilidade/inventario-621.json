@@ -4461,8 +4461,10 @@
       "source": "contabilidade1.pdf",
       "page": 40,
       "kind": "teoria",
-      "batch": null,
-      "status": "divergencia"
+      "batch": 8,
+      "status": "resolvida",
+      "sourceKey": "B",
+      "technicalKey": "D"
     },
     {
       "id": "3401244",
