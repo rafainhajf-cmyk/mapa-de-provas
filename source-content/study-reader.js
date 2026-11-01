@@ -7,12 +7,17 @@ export function readerSectionKey(fileId,title,occurrence=0){return fileId+':'+no
 function read(){try{const p=JSON.parse(localStorage.getItem(KEY)||'{}');return p.seen&&typeof p.seen==='object'&&!Array.isArray(p.seen)?p.seen:{};}catch{return {};}}
 function readCritical(){try{const p=JSON.parse(localStorage.getItem(KEY)||'{}');return p.critical&&typeof p.critical==='object'&&!Array.isArray(p.critical)?p.critical:{};}catch{return {};}}
 export function studyFileProgress(ids=[]){const critical=readCritical(),seen=read();const matches=key=>ids.some(id=>key.startsWith(id+':'));return {critical:Object.keys(critical).filter(matches).length,seen:Object.keys(seen).filter(matches).length};}
+export function readerSections(root){
+ const result=[];
+ for(const file of root.querySelectorAll('[data-reader-file]')){const occurrences=new Map();for(const heading of file.querySelectorAll('h3,h4,h5,.study-pdf-page>figcaption')){
+  if(heading.closest('.study-searchable-text'))continue;const label=heading.textContent.trim();if(!label)continue;const count=occurrences.get(label)||0;occurrences.set(label,count+1);const key=readerSectionKey(file.dataset.readerFile,label,count);if(heading.closest('[hidden]'))continue;
+  result.push({file,heading,label,key});
+ }}return result;
+}
 export function mountStudyReader(root,{title='Conteúdo de estudo'}={}){
  if(!root)return ()=>{};
  let seen=read(),critical=readCritical(),entries=[],disposed=false;
- const files=[...root.querySelectorAll('[data-reader-file]')];
- for(const file of files){const occurrences=new Map();for(const heading of file.querySelectorAll('h3,h4,h5,.study-pdf-page>figcaption')){
-  if(heading.closest('.study-searchable-text'))continue;const label=heading.textContent.trim();if(!label)continue;const count=occurrences.get(label)||0;occurrences.set(label,count+1);const key=readerSectionKey(file.dataset.readerFile,label,count);if(heading.closest('[hidden]'))continue;
+ for(const {file,heading,label,key} of readerSections(root)){
   const target='study-section-'+entries.length+'-'+Array.from(key).reduce((h,c)=>((h*31+c.charCodeAt(0))>>>0),0).toString(36);heading.id=target;heading.dataset.studySectionKey=key;heading.tabIndex=-1;heading.classList.add('study-reader-heading');
   const controls=document.createElement('div');controls.className='study-reader-section-tools';const mark=document.createElement('button');mark.className='study-reader-mark';mark.type='button';mark.setAttribute('aria-label','Já vi: '+label);controls.append(mark);heading.after(controls);
   const criticalMark=document.createElement('button');criticalMark.type='button';criticalMark.className='study-reader-critical';criticalMark.setAttribute('aria-label','Crítico: '+label);controls.append(criticalMark);const chapter=file.closest('[data-reading-topic]'),chapterTitle=chapter?.querySelector(':scope>header>h3')?.textContent.trim();const entry={key,label,heading,mark,criticalMark,owner:file,fileTitle:file.dataset.readerTitle||title,groupKey:chapter?.dataset.readingTopic||file.dataset.readerFile,groupTitle:chapterTitle||file.dataset.readerTitle||title};entries.push(entry);const favoriteHref='dificuldades.html?'+new URLSearchParams({materia:title,...(file.dataset.readerFile.startsWith('chapter:')?{conteudo:entry.groupKey}:{anotacao:file.dataset.readerFile}),secao:key});controls.insertAdjacentHTML('beforeend',favoriteButtonHTML({title:label,subject:title,href:favoriteHref}));
@@ -25,7 +30,7 @@ export function mountStudyReader(root,{title='Conteúdo de estudo'}={}){
  observation.addEventListener('click',()=>{editor.hidden=!editor.hidden;observation.setAttribute('aria-expanded',String(!editor.hidden));if(!editor.hidden)field.focus();});
  field.addEventListener('input',()=>{try{const observations=readObservations();if(field.value.trim())observations[key]={text:field.value,subject:title,material:entry.fileTitle,section:label,updatedAt:new Date().toISOString()};else delete observations[key];localStorage.setItem(OBS_KEY,JSON.stringify(observations));observation.textContent=field.value.trim()?'✎ Observação salva':'✎ Observação';note.textContent='Salvo. No índice, copie as observações e cole no chat para eu ajustar.';}catch{note.textContent='Não foi possível salvar no navegador. Copie sua observação antes de sair.';}});
  mark.addEventListener('click',()=>toggle(entry));criticalMark.addEventListener('click',()=>{if(critical[key])delete critical[key];else critical[key]=new Date().toISOString();save();update();status.textContent=critical[key]?'Seção marcada como crítica por você.':'Prioridade crítica removida.';});
- }}
+ }
  if(!entries.length)return ()=>{};
  const toggleButton=document.createElement('button');toggleButton.type='button';toggleButton.className='study-reader-toggle';toggleButton.textContent='☰ Índice do conteúdo';toggleButton.setAttribute('aria-expanded','false');
  const panel=document.createElement('aside');panel.className='study-reader-panel';panel.setAttribute('aria-label','Índice deste conteúdo');panel.id='reader-outline-'+Math.random().toString(36).slice(2);panel.hidden=true;toggleButton.setAttribute('aria-controls',panel.id);

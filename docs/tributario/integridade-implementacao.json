@@ -1,0 +1,8 @@
+{
+  "otherSubjectsEqualToBaselineBuild": true,
+  "beforeTaxFiles": 7,
+  "afterTaxFiles": 12,
+  "noDuplicateTaxFiles": true,
+  "sourceJsonsUnmodified": true,
+  "rollback": "Fontes JSON originais intactas; build anterior reproduzido isoladamente em /tmp e dados não tributários comparados integralmente."
+}

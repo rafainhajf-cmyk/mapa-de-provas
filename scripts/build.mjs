@@ -1,4 +1,4 @@
-import { cp, mkdir, readdir, rm, writeFile, readFile, access } from 'node:fs/promises';
+import { cp, mkdir, readdir, rm, writeFile, readFile, access, stat } from 'node:fs/promises';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 let source = path.resolve('source-content');
@@ -11,36 +11,13 @@ for(const file of ['flashcards.js','flashcards-import.js']) {
 }
 await rm('private-content', { recursive: true, force: true });
 await cp(source, 'private-content', { recursive: true });
-// Sincroniza o conteúdo da LC 236/2026 com o catálogo realmente publicado.
-// O deploy usa source-content/ (não os arquivos JSON/JS da raiz).
-// Preserve todos os assuntos já presentes no catálogo completo do site.
-const contentId='1xVJ_RhniJjKIGszflLKHTWvgOQTi_coZXoBpXyq5IR8';
-const contentFolderId='1BSE-vM28stxZQU4K8rxjiDrZXIEvr5aY';
+// Reconcilia apenas Tributário; fontes versionadas permanecem intactas.
 const rootData=JSON.parse(await readFile('difficulty-data.json','utf8'));
 const liveDataPath=path.join('private-content','difficulty-data.json');
-const liveData=JSON.parse(await readFile(liveDataPath,'utf8'));
-const sourceFolder=rootData.folders.find(f=>f.id===contentFolderId);
-const sourceNote=rootData.analysis?.analyzedFiles?.find(n=>n.id===contentId);
-if(!sourceFolder||!sourceNote)throw Error('LC 236/2026: pasta ou anotação não encontrada na fonte de atualização.');
-if(!Array.isArray(liveData.folders)||!Array.isArray(liveData.analysis?.analyzedFiles))throw Error('Catálogo principal do site inválido.');
-const targetFolder=liveData.folders.find(f=>f.id===contentFolderId);
-if(targetFolder){
-  for(const file of sourceFolder.files) {
-    const index=targetFolder.files.findIndex(f=>f.id===file.id);
-    if(index<0)targetFolder.files.push(file);
-    else targetFolder.files[index]=file;
-  }
-}else liveData.folders.push(sourceFolder);
-const note={...sourceNote,topic:'Reforma — Lei 236/2026',pinnedOrder:0};
-const existingNote=liveData.analysis.analyzedFiles.findIndex(n=>n.id===contentId);
-if(existingNote<0)liveData.analysis.analyzedFiles.push(note);
-else liveData.analysis.analyzedFiles[existingNote]=note;
-liveData.subjectCatalogs ||= {};
-liveData.subjectCatalogs['Tributário'] ||= {coverage:'partial',source:'Materiais enviados para Tributário',nodes:[]};
-const catalog=liveData.subjectCatalogs['Tributário'];
-catalog.nodes ||= [];
-if(!catalog.nodes.some(n=>n.id==='reforma-lei-236-2026'))
-  catalog.nodes.push({id:'reforma-lei-236-2026',title:'Reforma — Lei 236/2026',fileIds:[contentId]});
+const {reconcileTaxCatalog}=await import('../lib/tax-catalog.mjs');
+const reconciled=reconcileTaxCatalog(JSON.parse(await readFile(liveDataPath,'utf8')),rootData);
+const liveData=reconciled.data;
+await writeFile('private-content/tax-reconciliation-report.json',JSON.stringify(reconciled.report));
 // Atualiza a apostila de Terceiro Setor sem substituir as outras anotações.
 const thirdSectorId='1u1MmLJt6Mv2WMLb_PPN5MU_8bOjpQ6_CovatTzF8PFc';
 const updatedThirdSector=rootData.analysis?.analyzedFiles?.find(n=>n.id===thirdSectorId);
@@ -68,11 +45,11 @@ for(const afoId2 of afoFileIds){const note=rootData.analysis.analyzedFiles.find(
 const constitutionalIds=new Set(rootData.folders.filter(f=>f.subject==='Direito Constitucional').flatMap(f=>(f.files||[]).map(x=>x.id)));
 for(const id of constitutionalIds){const note=rootData.analysis.analyzedFiles.find(n=>n.id===id);if(!note?.contentBlocks?.length)continue;const i=liveData.analysis.analyzedFiles.findIndex(n=>n.id===id);if(i>=0)liveData.analysis.analyzedFiles[i]={...liveData.analysis.analyzedFiles[i],...note};}
 // Atualiza os blocos visuais de todas as matérias catalogadas, preservando arquivos originais.
-for(const originalNote of rootData.analysis.analyzedFiles){if(!originalNote.contentBlocks?.some(b=>b.type==='callout'||b.type==='flowchart'))continue;const index=liveData.analysis.analyzedFiles.findIndex(n=>n.id===originalNote.id);if(index>=0)liveData.analysis.analyzedFiles[index]={...liveData.analysis.analyzedFiles[index],contentBlocks:originalNote.contentBlocks};}
+for(const originalNote of rootData.analysis.analyzedFiles){if(liveData.folders.filter(f=>f.subject==='Tributário').some(f=>f.files.some(x=>x.id===originalNote.id)))continue;if(!originalNote.contentBlocks?.some(b=>b.type==='callout'||b.type==='flowchart'))continue;const index=liveData.analysis.analyzedFiles.findIndex(n=>n.id===originalNote.id);if(index>=0)liveData.analysis.analyzedFiles[index]={...liveData.analysis.analyzedFiles[index],contentBlocks:originalNote.contentBlocks};}
 liveData.source ||= {};
 liveData.source.checkedAt=new Date().toISOString();
 await writeFile(liveDataPath,JSON.stringify(liveData));
-console.log('Conteúdo destacado: Tributário > Reforma — Lei 236/2026 (1 anotação, página 1).');
+console.log('Tributário conciliado por ID; variantes preservadas no relatório de build.');
 const files = [];
 async function walk(dir, relative = '') {
   for (const entry of await readdir(dir, { withFileTypes: true })) {
@@ -83,15 +60,9 @@ async function walk(dir, relative = '') {
 }
 await walk('private-content');
 
-const offlineCore=['index.html','dificuldades.html','apostila.html','flashcards.html','provas.html','offline.js','offline-sw.js','offline-files.json'];
-const offlineFiles=[];let offlineBytes=0;
-for(const name of [...offlineCore,...files.filter(name=>/\.(?:html|js|css|json|pdf|svg|png|jpg|jpeg|webp)$/.test(name))]){
- if(name==='offline-files.json'||offlineFiles.includes('/'+name)||!files.includes(name)&&!offlineCore.includes(name))continue;
- const size=(await import('node:fs/promises')).stat(path.join('private-content',name)).then(x=>x.size).catch(()=>0);
- const bytes=await size;
- if(!offlineCore.includes(name)&&(bytes>8*1024*1024||offlineBytes+bytes>45*1024*1024))continue;
- offlineFiles.push('/'+name);offlineBytes+=bytes;
-}
+const {selectOfflineFiles}=await import('../lib/offline-files.mjs');
+const offlineEntries=await Promise.all(files.map(async name=>({name,bytes:(await stat(path.join('private-content',name))).size})));
+const offlineFiles=selectOfflineFiles(offlineEntries);
 await writeFile('private-content/offline-files.json',JSON.stringify(offlineFiles));
 files.push('offline-files.json');
 await writeFile('private-content/_allowlist.json', JSON.stringify(files));

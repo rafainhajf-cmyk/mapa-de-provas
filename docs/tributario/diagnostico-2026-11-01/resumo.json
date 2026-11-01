@@ -1,0 +1,102 @@
+{
+  "baseCommit": "74b6cd80840d8fb4f6bd94fb125abd454ad220d7",
+  "scope": "Prévia estática; sem migração nem leitura dos estados privados do navegador/Blob/Drive",
+  "categories": [
+    {
+      "order": 1,
+      "title": "IPVA",
+      "fileRecords": 0
+    },
+    {
+      "order": 2,
+      "title": "ITCMD",
+      "fileRecords": 0
+    },
+    {
+      "order": 3,
+      "title": "ITBI",
+      "fileRecords": 0
+    },
+    {
+      "order": 4,
+      "title": "ISSQN — LC 116/2003",
+      "fileRecords": 0
+    },
+    {
+      "order": 5,
+      "title": "REFORMA — LEI 236",
+      "fileRecords": 1
+    },
+    {
+      "order": 6,
+      "title": "COMPARATIVO TRIBUTÁRIO",
+      "fileRecords": 2
+    },
+    {
+      "order": 7,
+      "title": "LC 227/2026: TEXTO LEGAL",
+      "fileRecords": 0
+    },
+    {
+      "order": 8,
+      "title": "RMIT — REFORMA TRIBUTÁRIA",
+      "fileRecords": 0
+    },
+    {
+      "order": 9,
+      "title": "NOVIDADES EXCLUSIVAS DA REFORMA TRIBUTÁRIA",
+      "fileRecords": 0
+    },
+    {
+      "order": 10,
+      "title": "DIREITO TRIBUTÁRIO NORMATIVO",
+      "fileRecords": 9
+    }
+  ],
+  "uniqueFiles": 12,
+  "uniqueFolders": 35,
+  "studyNotes": 10,
+  "sourceCounts": {
+    "difficulty-data.json": {
+      "folders": 35,
+      "fileRecords": 9,
+      "areas": {
+        "Raiz": 1,
+        "Tributação municipal": 4,
+        "Reforma": 9,
+        "LTE": 6,
+        "Direito Tributário": 14,
+        "Comparativo tributário de leis": 1
+      },
+      "findings": 0,
+      "attempts": 0
+    },
+    "source-content/difficulty-data.json": {
+      "folders": 34,
+      "fileRecords": 6,
+      "areas": {
+        "Raiz": 1,
+        "Tributação municipal": 4,
+        "Reforma": 8,
+        "LTE": 6,
+        "Direito Tributário": 14,
+        "Comparativo tributário de leis": 1
+      },
+      "findings": 0,
+      "attempts": 0
+    }
+  },
+  "onlyRoot": [
+    "1xVJ_RhniJjKIGszflLKHTWvgOQTi_coZXoBpXyq5IR8",
+    "comparativo-emprestimo-compulsorio-ieg",
+    "ctn-artigos-109-110-direito-privado",
+    "ctn-competencia-residual-extraordinaria-154",
+    "ctn-legislacao-normas-complementares-96-100",
+    "ctn-responsabilidade-124-131-134-135"
+  ],
+  "onlySource": [
+    "10qTocHojY7EqwYLj0dQZ17LhIaFtpkce",
+    "1IXcH5u6R_sf0t0YuMsztkvpj2svxae_0",
+    "1qiVA3zEg7Vn13SvdE8pntJdF7WvsIKTT"
+  ]
+}
