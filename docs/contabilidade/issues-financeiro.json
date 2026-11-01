@@ -1,6 +1,9 @@
 [
   {
     "id": "3975996",
-    "reason": "Gabarito D (investimento32milhões; equivalência4milhões) é possível somente se os dividendos meramente propostos não gerarem direito a receber na data-base. Se forem dividendos mínimos obrigatórios/declarados, o saldo é28+40%×10−40%×4=30,4milhões, ausente das alternativas. O enunciado não informa natureza/aprovação dos dividendos. Manter pendente até esclarecer a premissa de dividendos adicionais propostos, sem falsear o saldo32milhões como conclusão incondicional. Fonte primária ICPC08(R1), itens23-24: https://conteudo.cvm.gov.br/export/sites/cvm/menu/regulados/normascontabeis/cpc/ICPC_08_R1.pdf"
+    "reason": "Resolução com duas hipóteses. Na aquisição, 40% do PL contábil = R$20 milhões; mais-valia do terreno = 40%×(60−50) = R$4 milhões; goodwill = 28−24 = R$4 milhões. O investimento total inicial é R$28 milhões. O MEP de 2024 é 40%×10 = R$4 milhões; não há depreciação da mais-valia de terreno. Se a proposta de dividendos ainda não originou obrigação/direito (adicionais não aprovados), investimento = 28+4 = R$32 milhões e DRE = R$4 milhões: letra D do PDF. Se os R$4 milhões forem dividendos obrigatórios ou já declarados, deduzir 40%×4 = R$1,6 milhão do investimento: saldo R$30,4 milhões e DRE R$4 milhões, sem alternativa. ICPC08 distingue proposta adicional de obrigação presente. Como natureza/aprovação não foi informada, D é resposta condicionada à primeira hipótese, não conclusão universal.",
+    "sourceKey": "D",
+    "analysisComplete": true,
+    "status": "premissa_nao_especificada"
   }
 ]

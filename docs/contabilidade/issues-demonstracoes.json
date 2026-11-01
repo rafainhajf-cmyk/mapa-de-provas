@@ -1,6 +1,9 @@
 [
   {
     "id": "3539089",
-    "reason": "Inconsistência confirmada visualmente em sp3.pdf,p.20–21: DRE informa receita31.200.000, CMV13.200.000, depreciação1.600.000 e despesas gerais200.000 de terceiros. Tributos recuperáveis1.920.000. CPC09: VA=31.200.000−13.200.000−1.920.000−200.000−1.600.000=14.280.000, sem alternativa. GabaritoE traz14.480.000, omitindo serviços de terceiros. A própria DRE também tem soma incorreta:9.600.000−1.600.000−600.000−200.000=7.200.000 é correta; portanto o problema está especificamente nas alternativas da DVA. Não alterar números impressos para forçarE."
+    "reason": "Resolução pelos dados impressos: receita bruta na DVA R$31.200.000; insumos de terceiros = CMV R$13.200.000 + tributos recuperáveis R$1.920.000 + serviços de terceiros R$200.000 = R$15.320.000. Valor adicionado bruto = R$15.880.000. Deduzir depreciação R$1.600.000: valor adicionado a distribuir = R$14.280.000. Pessoal e tributos sobre vendas/renda pertencem à distribuição da riqueza, não são nova dedução na formação. A alternativa E do PDF, R$14.480.000, resulta de ignorar os serviços de terceiros de R$200.000 explicitamente informados. Nenhuma alternativa corresponde ao cálculo completo. A análise foi concluída sem alterar os números do enunciado para forçar a letra E.",
+    "sourceKey": "E",
+    "analysisComplete": true,
+    "status": "sem_alternativa_compativel"
   }
 ]

@@ -12,7 +12,8 @@
       "page": 27,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "97280",
@@ -22,7 +23,8 @@
       "page": 4,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "97282",
@@ -32,7 +34,8 @@
       "page": 68,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "97286",
@@ -42,7 +45,8 @@
       "page": 29,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "97294",
@@ -52,7 +56,8 @@
       "page": 27,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "97354",
@@ -62,7 +67,8 @@
       "page": 40,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "97358",
@@ -72,7 +78,8 @@
       "page": 31,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "104988",
@@ -82,7 +89,8 @@
       "page": 46,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "120852",
@@ -92,7 +100,8 @@
       "page": 51,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "126854",
@@ -102,7 +111,8 @@
       "page": 1,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "154056",
@@ -112,7 +122,8 @@
       "page": 66,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "172601",
@@ -122,7 +133,8 @@
       "page": 45,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "172609",
@@ -132,7 +144,8 @@
       "page": 50,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "190231",
@@ -142,7 +155,8 @@
       "page": 28,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "225462",
@@ -152,7 +166,8 @@
       "page": 2,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "227909",
@@ -162,7 +177,8 @@
       "page": 15,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "228376",
@@ -172,7 +188,8 @@
       "page": 26,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "228380",
@@ -182,7 +199,8 @@
       "page": 67,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "253580",
@@ -192,7 +210,8 @@
       "page": 32,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "253599",
@@ -202,7 +221,8 @@
       "page": 45,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "256212",
@@ -212,7 +232,8 @@
       "page": 49,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "256310",
@@ -222,7 +243,8 @@
       "page": 50,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "256315",
@@ -232,7 +254,8 @@
       "page": 39,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "256491",
@@ -242,7 +265,8 @@
       "page": 39,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "256669",
@@ -252,7 +276,8 @@
       "page": 48,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "256987",
@@ -262,7 +287,8 @@
       "page": 3,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "259029",
@@ -272,7 +298,8 @@
       "page": 23,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "259388",
@@ -282,7 +309,8 @@
       "page": 16,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "269318",
@@ -292,7 +320,8 @@
       "page": 64,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "269319",
@@ -302,7 +331,8 @@
       "page": 18,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "271408",
@@ -312,7 +342,8 @@
       "page": 23,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "272917",
@@ -322,7 +353,8 @@
       "page": 2,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "283012",
@@ -332,7 +364,8 @@
       "page": 39,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "289632",
@@ -342,7 +375,8 @@
       "page": 66,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "315640",
@@ -352,7 +386,8 @@
       "page": 44,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "323994",
@@ -362,7 +397,8 @@
       "page": 39,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "325273",
@@ -372,7 +408,8 @@
       "page": 49,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "337898",
@@ -382,7 +419,8 @@
       "page": 3,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "337899",
@@ -392,7 +430,8 @@
       "page": 58,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "358755",
@@ -402,7 +441,8 @@
       "page": 42,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "358765",
@@ -412,7 +452,8 @@
       "page": 36,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "371117",
@@ -422,7 +463,8 @@
       "page": 30,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "375657",
@@ -432,7 +474,8 @@
       "page": 30,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "400601",
@@ -442,7 +485,8 @@
       "page": 64,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "400602",
@@ -452,7 +496,8 @@
       "page": 26,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "410489",
@@ -462,7 +507,8 @@
       "page": 37,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "410967",
@@ -472,7 +518,8 @@
       "page": 38,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "410972",
@@ -482,7 +529,8 @@
       "page": 31,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "411529",
@@ -492,7 +540,8 @@
       "page": 63,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "414021",
@@ -502,7 +551,8 @@
       "page": 26,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "426895",
@@ -512,7 +562,8 @@
       "page": 31,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "438264",
@@ -522,7 +573,8 @@
       "page": 27,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "438266",
@@ -532,7 +584,8 @@
       "page": 30,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "455688",
@@ -542,7 +595,8 @@
       "page": 36,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "455691",
@@ -552,7 +606,8 @@
       "page": 14,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "455693",
@@ -562,7 +617,8 @@
       "page": 49,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "455696",
@@ -572,7 +628,8 @@
       "page": 27,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "461332",
@@ -582,7 +639,8 @@
       "page": 44,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "461400",
@@ -592,7 +650,8 @@
       "page": 29,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "461401",
@@ -602,7 +661,8 @@
       "page": 36,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "476888",
@@ -612,7 +672,8 @@
       "page": 46,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "487234",
@@ -622,7 +683,8 @@
       "page": 40,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "488352",
@@ -632,7 +694,8 @@
       "page": 7,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "488366",
@@ -642,7 +705,8 @@
       "page": 56,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "488371",
@@ -652,7 +716,8 @@
       "page": 3,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "489925",
@@ -662,7 +727,8 @@
       "page": 8,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "489926",
@@ -672,7 +738,8 @@
       "page": 29,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "489940",
@@ -682,7 +749,8 @@
       "page": 26,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "489942",
@@ -692,7 +760,8 @@
       "page": 15,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "489944",
@@ -702,7 +771,8 @@
       "page": 17,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "489947",
@@ -712,7 +782,8 @@
       "page": 42,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "527154",
@@ -722,7 +793,8 @@
       "page": 67,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "527158",
@@ -732,7 +804,8 @@
       "page": 38,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "530961",
@@ -742,7 +815,8 @@
       "page": 31,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "540158",
@@ -752,7 +826,8 @@
       "page": 30,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "540177",
@@ -762,7 +837,8 @@
       "page": 22,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "540188",
@@ -772,7 +848,8 @@
       "page": 48,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "584423",
@@ -782,7 +859,8 @@
       "page": 29,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "584686",
@@ -792,7 +870,8 @@
       "page": 22,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "584688",
@@ -802,7 +881,8 @@
       "page": 57,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "584701",
@@ -812,7 +892,8 @@
       "page": 45,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "606276",
@@ -822,7 +903,8 @@
       "page": 21,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "606281",
@@ -832,7 +914,8 @@
       "page": 35,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "606282",
@@ -842,7 +925,8 @@
       "page": 36,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "606285",
@@ -852,7 +936,8 @@
       "page": 55,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "606286",
@@ -862,7 +947,8 @@
       "page": 46,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "640072",
@@ -872,7 +958,8 @@
       "page": 62,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "640083",
@@ -882,7 +969,8 @@
       "page": 21,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "640103",
@@ -892,7 +980,8 @@
       "page": 2,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "645395",
@@ -902,7 +991,8 @@
       "page": 12,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "645565",
@@ -912,7 +1002,8 @@
       "page": 19,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "645962",
@@ -922,7 +1013,8 @@
       "page": 7,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "655285",
@@ -932,7 +1024,8 @@
       "page": 20,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "655300",
@@ -942,7 +1035,8 @@
       "page": 62,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "656039",
@@ -952,7 +1046,8 @@
       "page": 38,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "656045",
@@ -962,7 +1057,8 @@
       "page": 41,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "656222",
@@ -972,7 +1068,8 @@
       "page": 37,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "656224",
@@ -982,7 +1079,8 @@
       "page": 20,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "656226",
@@ -992,7 +1090,8 @@
       "page": 32,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "656256",
@@ -1002,7 +1101,8 @@
       "page": 35,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "660105",
@@ -1012,7 +1112,8 @@
       "page": 45,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "660117",
@@ -1022,7 +1123,8 @@
       "page": 35,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "660119",
@@ -1032,7 +1134,8 @@
       "page": 28,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "660127",
@@ -1042,7 +1145,8 @@
       "page": 34,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "684695",
@@ -1062,7 +1166,8 @@
       "page": 41,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "686820",
@@ -1072,7 +1177,8 @@
       "page": 56,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "693000",
@@ -1082,7 +1188,8 @@
       "page": 21,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "693007",
@@ -1092,7 +1199,8 @@
       "page": 35,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "693010",
@@ -1102,7 +1210,8 @@
       "page": 43,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "693019",
@@ -1112,7 +1221,8 @@
       "page": 37,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "693021",
@@ -1122,7 +1232,8 @@
       "page": 15,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "697203",
@@ -1132,7 +1243,8 @@
       "page": 14,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719073",
@@ -1142,7 +1254,8 @@
       "page": 31,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719076",
@@ -1152,7 +1265,8 @@
       "page": 9,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719094",
@@ -1162,7 +1276,8 @@
       "page": 41,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719217",
@@ -1172,7 +1287,8 @@
       "page": 13,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719224",
@@ -1182,7 +1298,8 @@
       "page": 67,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719235",
@@ -1192,7 +1309,8 @@
       "page": 28,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719382",
@@ -1202,7 +1320,8 @@
       "page": 21,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719383",
@@ -1212,7 +1331,8 @@
       "page": 24,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719385",
@@ -1222,7 +1342,8 @@
       "page": 22,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719386",
@@ -1232,7 +1353,8 @@
       "page": 19,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719388",
@@ -1242,7 +1364,8 @@
       "page": 29,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719389",
@@ -1252,7 +1375,8 @@
       "page": 37,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719416",
@@ -1262,7 +1386,8 @@
       "page": 37,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719424",
@@ -1272,7 +1397,8 @@
       "page": 29,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719425",
@@ -1282,7 +1408,8 @@
       "page": 45,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719426",
@@ -1292,7 +1419,8 @@
       "page": 33,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719428",
@@ -1302,7 +1430,8 @@
       "page": 16,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "719760",
@@ -1322,7 +1451,8 @@
       "page": 18,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "758370",
@@ -1332,7 +1462,8 @@
       "page": 7,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "758371",
@@ -1342,7 +1473,8 @@
       "page": 13,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "760022",
@@ -1372,7 +1504,8 @@
       "page": 37,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "789084",
@@ -1382,7 +1515,8 @@
       "page": 37,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "789085",
@@ -1392,7 +1526,8 @@
       "page": 37,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "789105",
@@ -1402,7 +1537,8 @@
       "page": 37,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "790546",
@@ -1412,7 +1548,8 @@
       "page": 25,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "790548",
@@ -1422,7 +1559,8 @@
       "page": 32,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "866960",
@@ -1432,7 +1570,8 @@
       "page": 6,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "866962",
@@ -1442,7 +1581,8 @@
       "page": 19,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "866974",
@@ -1452,7 +1592,8 @@
       "page": 36,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "866988",
@@ -1462,7 +1603,8 @@
       "page": 32,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "867021",
@@ -1472,7 +1614,8 @@
       "page": 17,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "867189",
@@ -1492,7 +1635,8 @@
       "page": 7,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "877345",
@@ -1502,7 +1646,8 @@
       "page": 34,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "877348",
@@ -1512,7 +1657,8 @@
       "page": 13,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "877373",
@@ -1522,7 +1668,8 @@
       "page": 45,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "878062",
@@ -1542,7 +1689,8 @@
       "page": 6,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "881729",
@@ -1572,7 +1720,8 @@
       "page": 1,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "984389",
@@ -1582,7 +1731,8 @@
       "page": 58,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "984393",
@@ -1592,7 +1742,8 @@
       "page": 63,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "984395",
@@ -1602,7 +1753,8 @@
       "page": 25,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "984396",
@@ -1612,7 +1764,8 @@
       "page": 33,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "984530",
@@ -1622,7 +1775,8 @@
       "page": 41,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "984532",
@@ -1632,7 +1786,8 @@
       "page": 41,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "984533",
@@ -1642,7 +1797,8 @@
       "page": 41,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1010021",
@@ -1652,7 +1808,8 @@
       "page": 64,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1010022",
@@ -1662,7 +1819,8 @@
       "page": 48,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1037349",
@@ -1682,7 +1840,8 @@
       "page": 12,
       "kind": "teoria",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1117812",
@@ -1692,7 +1851,8 @@
       "page": 26,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1117819",
@@ -1702,7 +1862,8 @@
       "page": 28,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1118022",
@@ -1712,7 +1873,8 @@
       "page": 31,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1118033",
@@ -1722,7 +1884,8 @@
       "page": 44,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1239404",
@@ -1732,7 +1895,8 @@
       "page": 18,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1239407",
@@ -1742,7 +1906,8 @@
       "page": 65,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1239427",
@@ -1752,7 +1917,8 @@
       "page": 57,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1241384",
@@ -1762,7 +1928,8 @@
       "page": 55,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1241389",
@@ -1772,7 +1939,8 @@
       "page": 66,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1241391",
@@ -1782,7 +1950,8 @@
       "page": 62,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1241397",
@@ -1792,7 +1961,8 @@
       "page": 6,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1241403",
@@ -1802,7 +1972,8 @@
       "page": 28,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1241415",
@@ -1812,7 +1983,8 @@
       "page": 25,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1736947",
@@ -1832,7 +2004,8 @@
       "page": 40,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1810572",
@@ -1842,7 +2015,8 @@
       "page": 38,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1813325",
@@ -1852,7 +2026,8 @@
       "page": 12,
       "kind": "teoria",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1821281",
@@ -1862,7 +2037,8 @@
       "page": 18,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1889210",
@@ -1872,7 +2048,8 @@
       "page": 11,
       "kind": "teoria",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1889225",
@@ -1882,7 +2059,8 @@
       "page": 37,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1889254",
@@ -1892,7 +2070,8 @@
       "page": 6,
       "kind": "calculo",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1896649",
@@ -1902,7 +2081,8 @@
       "page": 55,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1896699",
@@ -1912,7 +2092,8 @@
       "page": 25,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1896826",
@@ -1922,7 +2103,8 @@
       "page": 25,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1907614",
@@ -1932,7 +2114,8 @@
       "page": 1,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1921581",
@@ -1942,7 +2125,8 @@
       "page": 2,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1936754",
@@ -1952,7 +2136,8 @@
       "page": 13,
       "kind": "calculo",
       "batch": null,
-      "status": "divergencia"
+      "status": "analise_com_ressalva",
+      "analysisComplete": true
     },
     {
       "id": "1990325",
@@ -1962,7 +2147,8 @@
       "page": 31,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "1990613",
@@ -1972,7 +2158,8 @@
       "page": 12,
       "kind": "teoria",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2013231",
@@ -1982,7 +2169,8 @@
       "page": 1,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2013494",
@@ -1992,7 +2180,8 @@
       "page": 39,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2022064",
@@ -2002,7 +2191,8 @@
       "page": 62,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2064755",
@@ -2012,7 +2202,8 @@
       "page": 1,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2070281",
@@ -2022,7 +2213,8 @@
       "page": 21,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2100126",
@@ -2032,7 +2224,8 @@
       "page": 25,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2113058",
@@ -2042,7 +2235,8 @@
       "page": 8,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2116789",
@@ -2052,7 +2246,8 @@
       "page": 42,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2154021",
@@ -2062,7 +2257,8 @@
       "page": 34,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2154055",
@@ -2072,7 +2268,8 @@
       "page": 17,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2154057",
@@ -2082,7 +2279,8 @@
       "page": 31,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2154061",
@@ -2092,7 +2290,8 @@
       "page": 28,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2154064",
@@ -2102,7 +2301,8 @@
       "page": 40,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2159081",
@@ -2112,7 +2312,8 @@
       "page": 11,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2159093",
@@ -2122,7 +2323,8 @@
       "page": 31,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2159113",
@@ -2132,7 +2334,8 @@
       "page": 12,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2159115",
@@ -2142,7 +2345,8 @@
       "page": 47,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2159117",
@@ -2152,7 +2356,8 @@
       "page": 17,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2159127",
@@ -2162,7 +2367,8 @@
       "page": 34,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2160888",
@@ -2172,7 +2378,8 @@
       "page": 8,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2160903",
@@ -2182,7 +2389,8 @@
       "page": 5,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163345",
@@ -2192,7 +2400,8 @@
       "page": 66,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163350",
@@ -2202,7 +2411,8 @@
       "page": 20,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163352",
@@ -2212,7 +2422,8 @@
       "page": 28,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163361",
@@ -2222,7 +2433,8 @@
       "page": 16,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163369",
@@ -2232,7 +2444,8 @@
       "page": 35,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163370",
@@ -2242,7 +2455,8 @@
       "page": 24,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163371",
@@ -2252,7 +2466,8 @@
       "page": 48,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163519",
@@ -2262,7 +2477,8 @@
       "page": 22,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163529",
@@ -2282,7 +2498,8 @@
       "page": 46,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163607",
@@ -2292,7 +2509,8 @@
       "page": 61,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163613",
@@ -2302,7 +2520,8 @@
       "page": 65,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163618",
@@ -2312,7 +2531,8 @@
       "page": 12,
       "kind": "calculo",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163620",
@@ -2322,7 +2542,8 @@
       "page": 54,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163622",
@@ -2332,7 +2553,8 @@
       "page": 13,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163640",
@@ -2342,7 +2564,8 @@
       "page": 4,
       "kind": "calculo",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163642",
@@ -2352,7 +2575,8 @@
       "page": 40,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163735",
@@ -2362,7 +2586,8 @@
       "page": 34,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163738",
@@ -2372,7 +2597,8 @@
       "page": 17,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2163741",
@@ -2382,7 +2608,8 @@
       "page": 22,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2164370",
@@ -2392,7 +2619,8 @@
       "page": 40,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2208479",
@@ -2402,7 +2630,8 @@
       "page": 24,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2212148",
@@ -2412,7 +2641,8 @@
       "page": 16,
       "kind": "teoria",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2215156",
@@ -2422,7 +2652,8 @@
       "page": 11,
       "kind": "calculo",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2218600",
@@ -2432,7 +2663,8 @@
       "page": 20,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2218620",
@@ -2442,7 +2674,8 @@
       "page": 38,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2223547",
@@ -2452,7 +2685,8 @@
       "page": 61,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2223559",
@@ -2462,7 +2696,8 @@
       "page": 3,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2223562",
@@ -2472,7 +2707,8 @@
       "page": 62,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2223569",
@@ -2482,7 +2718,8 @@
       "page": 34,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2223756",
@@ -2492,7 +2729,8 @@
       "page": 31,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2231001",
@@ -2502,7 +2740,8 @@
       "page": 2,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2235655",
@@ -2512,7 +2751,8 @@
       "page": 55,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2235668",
@@ -2522,7 +2762,8 @@
       "page": 38,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2235687",
@@ -2532,7 +2773,8 @@
       "page": 9,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2235697",
@@ -2542,7 +2784,8 @@
       "page": 40,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2235706",
@@ -2552,7 +2795,8 @@
       "page": 35,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2235714",
@@ -2562,7 +2806,8 @@
       "page": 44,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2235717",
@@ -2572,7 +2817,8 @@
       "page": 13,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2266744",
@@ -2582,7 +2828,8 @@
       "page": 43,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2266770",
@@ -2592,7 +2839,8 @@
       "page": 42,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2266771",
@@ -2602,7 +2850,8 @@
       "page": 15,
       "kind": "calculo",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2272183",
@@ -2612,7 +2861,8 @@
       "page": 9,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2272184",
@@ -2622,7 +2872,8 @@
       "page": 22,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2272187",
@@ -2632,7 +2883,8 @@
       "page": 30,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2272188",
@@ -2642,7 +2894,8 @@
       "page": 44,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2272190",
@@ -2652,7 +2905,8 @@
       "page": 15,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2292786",
@@ -2662,7 +2916,8 @@
       "page": 21,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2292795",
@@ -2672,7 +2927,8 @@
       "page": 17,
       "kind": "teoria",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2293652",
@@ -2682,7 +2938,8 @@
       "page": 3,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2293653",
@@ -2692,7 +2949,8 @@
       "page": 23,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2293657",
@@ -2702,7 +2960,8 @@
       "page": 10,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2293659",
@@ -2712,7 +2971,8 @@
       "page": 18,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2293662",
@@ -2722,7 +2982,8 @@
       "page": 45,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2293666",
@@ -2732,7 +2993,8 @@
       "page": 6,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2339029",
@@ -2742,7 +3004,8 @@
       "page": 11,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2339034",
@@ -2752,7 +3015,8 @@
       "page": 33,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2339081",
@@ -2762,7 +3026,8 @@
       "page": 39,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2339101",
@@ -2772,7 +3037,8 @@
       "page": 7,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2339115",
@@ -2782,7 +3048,8 @@
       "page": 54,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2346659",
@@ -2792,7 +3059,8 @@
       "page": 5,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2355232",
@@ -2802,7 +3070,8 @@
       "page": 37,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2369049",
@@ -2812,7 +3081,8 @@
       "page": 2,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2369050",
@@ -2822,7 +3092,8 @@
       "page": 6,
       "kind": "calculo",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2371661",
@@ -2832,7 +3103,8 @@
       "page": 31,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2395533",
@@ -2842,7 +3114,8 @@
       "page": 7,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2395547",
@@ -2852,7 +3125,8 @@
       "page": 2,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2395551",
@@ -2862,7 +3136,8 @@
       "page": 27,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2395558",
@@ -2872,7 +3147,8 @@
       "page": 44,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2395560",
@@ -2882,7 +3158,8 @@
       "page": 28,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2395562",
@@ -2892,7 +3169,8 @@
       "page": 47,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2395608",
@@ -2902,7 +3180,8 @@
       "page": 1,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2395609",
@@ -2912,7 +3191,8 @@
       "page": 5,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2395611",
@@ -2922,7 +3202,8 @@
       "page": 51,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2395613",
@@ -2932,7 +3213,8 @@
       "page": 14,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2396959",
@@ -2942,7 +3224,8 @@
       "page": 16,
       "kind": "teoria",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2414501",
@@ -2952,7 +3235,8 @@
       "page": 10,
       "kind": "teoria",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2414524",
@@ -2962,7 +3246,8 @@
       "page": 20,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2571016",
@@ -2972,7 +3257,8 @@
       "page": 10,
       "kind": "teoria",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2572630",
@@ -2982,7 +3268,8 @@
       "page": 45,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2581057",
@@ -2992,7 +3279,8 @@
       "page": 39,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2581991",
@@ -3002,7 +3290,8 @@
       "page": 67,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2590390",
@@ -3012,7 +3301,8 @@
       "page": 17,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2590870",
@@ -3022,7 +3312,8 @@
       "page": 38,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2590871",
@@ -3032,7 +3323,8 @@
       "page": 42,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2612588",
@@ -3042,7 +3334,8 @@
       "page": 40,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2635928",
@@ -3052,7 +3345,8 @@
       "page": 3,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2687937",
@@ -3062,7 +3356,8 @@
       "page": 10,
       "kind": "calculo",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2709621",
@@ -3072,7 +3367,8 @@
       "page": 39,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2709624",
@@ -3082,7 +3378,8 @@
       "page": 42,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2759747",
@@ -3092,7 +3389,8 @@
       "page": 37,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2759777",
@@ -3102,7 +3400,8 @@
       "page": 40,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2759779",
@@ -3112,7 +3411,8 @@
       "page": 39,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2759780",
@@ -3122,7 +3422,8 @@
       "page": 39,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2759781",
@@ -3132,7 +3433,8 @@
       "page": 39,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2771977",
@@ -3142,7 +3444,8 @@
       "page": 3,
       "kind": "calculo",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2775131",
@@ -3152,7 +3455,8 @@
       "page": 3,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2777037",
@@ -3162,7 +3466,8 @@
       "page": 36,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2782139",
@@ -3172,7 +3477,8 @@
       "page": 5,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2782140",
@@ -3182,7 +3488,8 @@
       "page": 23,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2792286",
@@ -3192,7 +3499,8 @@
       "page": 13,
       "kind": "teoria",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2792320",
@@ -3202,7 +3510,8 @@
       "page": 18,
       "kind": "teoria",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2792329",
@@ -3212,7 +3521,8 @@
       "page": 9,
       "kind": "calculo",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2814660",
@@ -3222,7 +3532,8 @@
       "page": 17,
       "kind": "teoria",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2818479",
@@ -3232,7 +3543,8 @@
       "page": 8,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2818480",
@@ -3242,7 +3554,8 @@
       "page": 26,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2818481",
@@ -3252,7 +3565,8 @@
       "page": 54,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2818482",
@@ -3262,7 +3576,8 @@
       "page": 29,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2823682",
@@ -3272,7 +3587,8 @@
       "page": 34,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2823684",
@@ -3282,7 +3598,8 @@
       "page": 2,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2823686",
@@ -3292,7 +3609,8 @@
       "page": 5,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2823688",
@@ -3302,7 +3620,8 @@
       "page": 47,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2823703",
@@ -3312,7 +3631,8 @@
       "page": 27,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2823704",
@@ -3322,7 +3642,8 @@
       "page": 17,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2857667",
@@ -3332,7 +3653,8 @@
       "page": 11,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2857669",
@@ -3342,7 +3664,8 @@
       "page": 12,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2857670",
@@ -3352,7 +3675,8 @@
       "page": 42,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2857671",
@@ -3362,7 +3686,8 @@
       "page": 47,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2857684",
@@ -3372,7 +3697,8 @@
       "page": 24,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2857687",
@@ -3382,7 +3708,8 @@
       "page": 5,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2857688",
@@ -3402,7 +3729,8 @@
       "page": 42,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2870103",
@@ -3412,7 +3740,8 @@
       "page": 32,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2870105",
@@ -3422,7 +3751,8 @@
       "page": 5,
       "kind": "calculo",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2870117",
@@ -3432,7 +3762,8 @@
       "page": 55,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2870134",
@@ -3442,7 +3773,8 @@
       "page": 2,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2870141",
@@ -3452,7 +3784,8 @@
       "page": 28,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2870147",
@@ -3462,7 +3795,8 @@
       "page": 1,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2873777",
@@ -3472,7 +3806,8 @@
       "page": 36,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2873788",
@@ -3482,7 +3817,8 @@
       "page": 30,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2873873",
@@ -3492,7 +3828,8 @@
       "page": 14,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2890597",
@@ -3502,7 +3839,8 @@
       "page": 21,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2890835",
@@ -3512,7 +3850,8 @@
       "page": 33,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2915805",
@@ -3522,7 +3861,8 @@
       "page": 33,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2924798",
@@ -3532,7 +3872,8 @@
       "page": 6,
       "kind": "teoria",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2949362",
@@ -3542,7 +3883,8 @@
       "page": 25,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2961162",
@@ -3552,7 +3894,8 @@
       "page": 41,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2965563",
@@ -3562,7 +3905,8 @@
       "page": 41,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2967112",
@@ -3572,7 +3916,8 @@
       "page": 6,
       "kind": "calculo",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2985307",
@@ -3582,7 +3927,8 @@
       "page": 22,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "2985314",
@@ -3592,7 +3938,8 @@
       "page": 2,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3038937",
@@ -3602,7 +3949,8 @@
       "page": 36,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3039443",
@@ -3612,7 +3960,8 @@
       "page": 41,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3043696",
@@ -3622,7 +3971,8 @@
       "page": 18,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3046908",
@@ -3632,7 +3982,8 @@
       "page": 23,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3048150",
@@ -3642,7 +3993,8 @@
       "page": 40,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3048238",
@@ -3652,7 +4004,8 @@
       "page": 5,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3075499",
@@ -3662,7 +4015,8 @@
       "page": 31,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3079046",
@@ -3672,7 +4026,8 @@
       "page": 10,
       "kind": "teoria",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3079057",
@@ -3682,7 +4037,8 @@
       "page": 17,
       "kind": "teoria",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3084213",
@@ -3692,7 +4048,8 @@
       "page": 29,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3092661",
@@ -3702,7 +4059,8 @@
       "page": 29,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3093142",
@@ -3712,7 +4070,8 @@
       "page": 25,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3093568",
@@ -3722,7 +4081,8 @@
       "page": 33,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3093570",
@@ -3732,7 +4092,8 @@
       "page": 10,
       "kind": "teoria",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3093598",
@@ -3742,7 +4103,8 @@
       "page": 38,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3093986",
@@ -3752,7 +4114,8 @@
       "page": 35,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3101851",
@@ -3762,7 +4125,8 @@
       "page": 43,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3101877",
@@ -3772,7 +4136,8 @@
       "page": 40,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3101882",
@@ -3782,7 +4147,8 @@
       "page": 41,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3105773",
@@ -3792,7 +4158,8 @@
       "page": 16,
       "kind": "calculo",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3113663",
@@ -3812,7 +4179,8 @@
       "page": 1,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3114168",
@@ -3822,7 +4190,8 @@
       "page": 3,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3114175",
@@ -3832,7 +4201,8 @@
       "page": 57,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3114186",
@@ -3842,7 +4212,8 @@
       "page": 16,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3114242",
@@ -3852,7 +4223,8 @@
       "page": 23,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3114258",
@@ -3862,7 +4234,8 @@
       "page": 54,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3114432",
@@ -3872,7 +4245,8 @@
       "page": 61,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3116028",
@@ -3922,7 +4296,8 @@
       "page": 32,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3116783",
@@ -3932,7 +4307,8 @@
       "page": 27,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3116791",
@@ -3942,7 +4318,8 @@
       "page": 34,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3116840",
@@ -3952,7 +4329,8 @@
       "page": 53,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3116850",
@@ -3962,7 +4340,8 @@
       "page": 1,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3116882",
@@ -3972,7 +4351,8 @@
       "page": 60,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3116903",
@@ -3982,7 +4362,8 @@
       "page": 22,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3149057",
@@ -3992,7 +4373,8 @@
       "page": 21,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3149059",
@@ -4002,7 +4384,8 @@
       "page": 38,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3149114",
@@ -4012,7 +4395,8 @@
       "page": 3,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3149875",
@@ -4022,7 +4406,8 @@
       "page": 58,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3154649",
@@ -4032,7 +4417,8 @@
       "page": 31,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3154666",
@@ -4042,7 +4428,8 @@
       "page": 3,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3154729",
@@ -4052,7 +4439,8 @@
       "page": 25,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3157931",
@@ -4062,7 +4450,8 @@
       "page": 34,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3166725",
@@ -4072,7 +4461,8 @@
       "page": 13,
       "kind": "teoria",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3201293",
@@ -4082,7 +4472,8 @@
       "page": 13,
       "kind": "teoria",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3202360",
@@ -4092,7 +4483,8 @@
       "page": 21,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3220261",
@@ -4102,7 +4494,8 @@
       "page": 50,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3220273",
@@ -4112,7 +4505,8 @@
       "page": 53,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3225391",
@@ -4122,7 +4516,8 @@
       "page": 43,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3225393",
@@ -4132,7 +4527,8 @@
       "page": 16,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3225396",
@@ -4142,7 +4538,8 @@
       "page": 11,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3225406",
@@ -4152,7 +4549,8 @@
       "page": 22,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3225415",
@@ -4162,7 +4560,8 @@
       "page": 33,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3225421",
@@ -4172,7 +4571,8 @@
       "page": 6,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3228158",
@@ -4182,7 +4582,8 @@
       "page": 4,
       "kind": "calculo",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3231632",
@@ -4192,7 +4593,8 @@
       "page": 59,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3240899",
@@ -4202,7 +4604,8 @@
       "page": 30,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3240910",
@@ -4212,7 +4615,8 @@
       "page": 3,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3240920",
@@ -4222,7 +4626,8 @@
       "page": 18,
       "kind": "teoria",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3240926",
@@ -4232,7 +4637,8 @@
       "page": 22,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3240931",
@@ -4242,7 +4648,8 @@
       "page": 17,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3251802",
@@ -4252,7 +4659,8 @@
       "page": 31,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3259149",
@@ -4262,7 +4670,8 @@
       "page": 31,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3320315",
@@ -4272,7 +4681,8 @@
       "page": 22,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3349474",
@@ -4282,7 +4692,8 @@
       "page": 15,
       "kind": "teoria",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3349493",
@@ -4292,7 +4703,8 @@
       "page": 27,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3365888",
@@ -4302,7 +4714,8 @@
       "page": 1,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3365911",
@@ -4312,7 +4725,8 @@
       "page": 24,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3365912",
@@ -4322,7 +4736,8 @@
       "page": 27,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3365954",
@@ -4332,7 +4747,8 @@
       "page": 5,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3365976",
@@ -4342,7 +4758,8 @@
       "page": 15,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3365979",
@@ -4352,7 +4769,8 @@
       "page": 2,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3365982",
@@ -4362,7 +4780,8 @@
       "page": 28,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3366895",
@@ -4372,7 +4791,8 @@
       "page": 32,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3367265",
@@ -4382,7 +4802,8 @@
       "page": 24,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3367308",
@@ -4392,7 +4813,8 @@
       "page": 27,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3367324",
@@ -4402,7 +4824,8 @@
       "page": 52,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3367366",
@@ -4412,7 +4835,8 @@
       "page": 43,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3367452",
@@ -4422,7 +4846,8 @@
       "page": 21,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3367664",
@@ -4432,7 +4857,8 @@
       "page": 4,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3385418",
@@ -4442,7 +4868,8 @@
       "page": 8,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3385421",
@@ -4452,7 +4879,8 @@
       "page": 20,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3385428",
@@ -4464,7 +4892,8 @@
       "batch": 8,
       "status": "resolvida",
       "sourceKey": "B",
-      "technicalKey": "D"
+      "technicalKey": "D",
+      "analysisComplete": true
     },
     {
       "id": "3401244",
@@ -4474,7 +4903,8 @@
       "page": 36,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3401267",
@@ -4484,7 +4914,8 @@
       "page": 42,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3412175",
@@ -4494,7 +4925,8 @@
       "page": 23,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3412215",
@@ -4504,7 +4936,8 @@
       "page": 42,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3446245",
@@ -4514,7 +4947,8 @@
       "page": 38,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3448129",
@@ -4524,7 +4958,8 @@
       "page": 65,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3448136",
@@ -4534,7 +4969,8 @@
       "page": 16,
       "kind": "calculo",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3448138",
@@ -4544,7 +4980,8 @@
       "page": 46,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3454091",
@@ -4554,7 +4991,8 @@
       "page": 8,
       "kind": "teoria",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3455343",
@@ -4564,7 +5002,8 @@
       "page": 23,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3504315",
@@ -4574,7 +5013,8 @@
       "page": 26,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3539073",
@@ -4584,7 +5024,8 @@
       "page": 12,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3539078",
@@ -4594,7 +5035,8 @@
       "page": 16,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3539080",
@@ -4604,7 +5046,8 @@
       "page": 19,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3539087",
@@ -4614,7 +5057,8 @@
       "page": 30,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3539089",
@@ -4624,7 +5068,8 @@
       "page": 20,
       "kind": "calculo",
       "batch": null,
-      "status": "divergencia"
+      "status": "analise_com_ressalva",
+      "analysisComplete": true
     },
     {
       "id": "3546511",
@@ -4634,7 +5079,8 @@
       "page": 8,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3546692",
@@ -4644,7 +5090,8 @@
       "page": 26,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3552249",
@@ -4654,7 +5101,8 @@
       "page": 4,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3552250",
@@ -4664,7 +5112,8 @@
       "page": 4,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3552251",
@@ -4674,7 +5123,8 @@
       "page": 13,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3552252",
@@ -4684,7 +5134,8 @@
       "page": 12,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3552253",
@@ -4694,7 +5145,8 @@
       "page": 14,
       "kind": "calculo",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3552256",
@@ -4704,7 +5156,8 @@
       "page": 33,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3552257",
@@ -4714,7 +5167,8 @@
       "page": 34,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3552258",
@@ -4724,7 +5178,8 @@
       "page": 39,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3553900",
@@ -4734,7 +5189,8 @@
       "page": 52,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3553910",
@@ -4744,7 +5200,8 @@
       "page": 53,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3553917",
@@ -4754,7 +5211,8 @@
       "page": 46,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3553924",
@@ -4764,7 +5222,8 @@
       "page": 19,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3557735",
@@ -4774,7 +5233,8 @@
       "page": 9,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3557740",
@@ -4784,7 +5244,8 @@
       "page": 9,
       "kind": "calculo",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3557748",
@@ -4794,7 +5255,8 @@
       "page": 15,
       "kind": "calculo",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3557767",
@@ -4804,7 +5266,8 @@
       "page": 19,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3557771",
@@ -4814,7 +5277,8 @@
       "page": 19,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561624",
@@ -4824,7 +5288,8 @@
       "page": 30,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561684",
@@ -4834,7 +5299,8 @@
       "page": 32,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561701",
@@ -4844,7 +5310,8 @@
       "page": 53,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561707",
@@ -4854,7 +5321,8 @@
       "page": 43,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561720",
@@ -4864,7 +5332,8 @@
       "page": 5,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561722",
@@ -4874,7 +5343,8 @@
       "page": 9,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561723",
@@ -4884,7 +5354,8 @@
       "page": 24,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561725",
@@ -4894,7 +5365,8 @@
       "page": 20,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561728",
@@ -4904,7 +5376,8 @@
       "page": 8,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561729",
@@ -4914,7 +5387,8 @@
       "page": 41,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561734",
@@ -4924,7 +5398,8 @@
       "page": 10,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561737",
@@ -4934,7 +5409,8 @@
       "page": 10,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561739",
@@ -4944,7 +5420,8 @@
       "page": 20,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561740",
@@ -4954,7 +5431,8 @@
       "page": 19,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561742",
@@ -4964,7 +5442,8 @@
       "page": 23,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561745",
@@ -4974,7 +5453,8 @@
       "page": 43,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3561747",
@@ -4984,7 +5464,8 @@
       "page": 42,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3566983",
@@ -4994,7 +5475,8 @@
       "page": 24,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3567022",
@@ -5004,7 +5486,8 @@
       "page": 33,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3567056",
@@ -5014,7 +5497,8 @@
       "page": 43,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3567110",
@@ -5024,7 +5508,8 @@
       "page": 23,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3567120",
@@ -5034,7 +5519,8 @@
       "page": 19,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3567620",
@@ -5044,7 +5530,8 @@
       "page": 65,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3567649",
@@ -5054,7 +5541,8 @@
       "page": 14,
       "kind": "calculo",
       "batch": 3,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3567672",
@@ -5064,7 +5552,8 @@
       "page": 22,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3567674",
@@ -5074,7 +5563,8 @@
       "page": 40,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3584435",
@@ -5084,7 +5574,8 @@
       "page": 3,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3584440",
@@ -5094,7 +5585,8 @@
       "page": 24,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3584443",
@@ -5104,7 +5596,8 @@
       "page": 24,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3599068",
@@ -5114,7 +5607,8 @@
       "page": 32,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3657093",
@@ -5124,7 +5618,8 @@
       "page": 19,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3662027",
@@ -5134,7 +5629,8 @@
       "page": 1,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3662029",
@@ -5144,7 +5640,8 @@
       "page": 2,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3662330",
@@ -5154,7 +5651,8 @@
       "page": 37,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3681103",
@@ -5164,7 +5662,8 @@
       "page": 9,
       "kind": "teoria",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3764382",
@@ -5174,7 +5673,8 @@
       "page": 8,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3764444",
@@ -5184,7 +5684,8 @@
       "page": 6,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3766730",
@@ -5194,7 +5695,8 @@
       "page": 40,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3766739",
@@ -5204,7 +5706,8 @@
       "page": 36,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3766768",
@@ -5214,7 +5717,8 @@
       "page": 21,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3798925",
@@ -5224,7 +5728,8 @@
       "page": 30,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3800492",
@@ -5234,7 +5739,8 @@
       "page": 29,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3800511",
@@ -5244,7 +5750,8 @@
       "page": 59,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3800520",
@@ -5254,7 +5761,8 @@
       "page": 32,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3800549",
@@ -5264,7 +5772,8 @@
       "page": 10,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3800829",
@@ -5274,7 +5783,8 @@
       "page": 43,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3800833",
@@ -5284,7 +5794,8 @@
       "page": 39,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3800891",
@@ -5294,7 +5805,8 @@
       "page": 2,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3814596",
@@ -5304,7 +5816,8 @@
       "page": 35,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3814598",
@@ -5314,7 +5827,8 @@
       "page": 36,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3816107",
@@ -5324,7 +5838,8 @@
       "page": 30,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3822169",
@@ -5344,7 +5859,8 @@
       "page": 18,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3822211",
@@ -5354,7 +5870,8 @@
       "page": 3,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3822215",
@@ -5364,7 +5881,8 @@
       "page": 32,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3822216",
@@ -5374,7 +5892,8 @@
       "page": 7,
       "kind": "calculo",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3822290",
@@ -5384,7 +5903,8 @@
       "page": 1,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3822308",
@@ -5394,7 +5914,8 @@
       "page": 26,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3822313",
@@ -5404,7 +5925,8 @@
       "page": 30,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3823077",
@@ -5414,7 +5936,8 @@
       "page": 55,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3830921",
@@ -5424,7 +5947,8 @@
       "page": 36,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3831178",
@@ -5434,7 +5958,8 @@
       "page": 38,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846334",
@@ -5444,7 +5969,8 @@
       "page": 10,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846339",
@@ -5454,7 +5980,8 @@
       "page": 18,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846342",
@@ -5464,7 +5991,8 @@
       "page": 35,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846345",
@@ -5474,7 +6002,8 @@
       "page": 39,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846655",
@@ -5484,7 +6013,8 @@
       "page": 59,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846659",
@@ -5494,7 +6024,8 @@
       "page": 32,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846690",
@@ -5504,7 +6035,8 @@
       "page": 59,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846697",
@@ -5514,7 +6046,8 @@
       "page": 26,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846719",
@@ -5524,7 +6057,8 @@
       "page": 34,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846725",
@@ -5534,7 +6068,8 @@
       "page": 4,
       "kind": "calculo",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846744",
@@ -5544,7 +6079,8 @@
       "page": 44,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846765",
@@ -5554,7 +6090,8 @@
       "page": 4,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846777",
@@ -5564,7 +6101,8 @@
       "page": 34,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846785",
@@ -5574,7 +6112,8 @@
       "page": 29,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846793",
@@ -5584,7 +6123,8 @@
       "page": 50,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846794",
@@ -5594,7 +6134,8 @@
       "page": 33,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846874",
@@ -5604,7 +6145,8 @@
       "page": 38,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3846980",
@@ -5624,7 +6166,8 @@
       "page": 7,
       "kind": "calculo",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3847014",
@@ -5634,7 +6177,8 @@
       "page": 36,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3847015",
@@ -5644,7 +6188,8 @@
       "page": 33,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3847016",
@@ -5654,7 +6199,8 @@
       "page": 38,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3847017",
@@ -5664,7 +6210,8 @@
       "page": 17,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3847018",
@@ -5674,7 +6221,8 @@
       "page": 33,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3847020",
@@ -5684,7 +6232,8 @@
       "page": 43,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3847023",
@@ -5694,7 +6243,8 @@
       "page": 40,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3847031",
@@ -5704,7 +6254,8 @@
       "page": 39,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3847045",
@@ -5714,7 +6265,8 @@
       "page": 19,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3847057",
@@ -5724,7 +6276,8 @@
       "page": 17,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3847069",
@@ -5734,7 +6287,8 @@
       "page": 15,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3847070",
@@ -5744,7 +6298,8 @@
       "page": 38,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3847071",
@@ -5754,7 +6309,8 @@
       "page": 32,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3847072",
@@ -5764,7 +6320,8 @@
       "page": 4,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3850867",
@@ -5774,7 +6331,8 @@
       "page": 30,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3850868",
@@ -5784,7 +6342,8 @@
       "page": 18,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3850871",
@@ -5794,7 +6353,8 @@
       "page": 33,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3850887",
@@ -5804,7 +6364,8 @@
       "page": 58,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3850892",
@@ -5814,7 +6375,8 @@
       "page": 29,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3850901",
@@ -5824,7 +6386,8 @@
       "page": 51,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3850904",
@@ -5834,7 +6397,8 @@
       "page": 40,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3863553",
@@ -5844,7 +6408,8 @@
       "page": 48,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3863557",
@@ -5854,7 +6419,8 @@
       "page": 29,
       "kind": "teoria",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3863558",
@@ -5864,7 +6430,8 @@
       "page": 26,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3863560",
@@ -5874,7 +6441,8 @@
       "page": 25,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3863562",
@@ -5884,7 +6452,8 @@
       "page": 1,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3863578",
@@ -5894,7 +6463,8 @@
       "page": 49,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3864879",
@@ -5904,7 +6474,8 @@
       "page": 29,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3864882",
@@ -5914,7 +6485,8 @@
       "page": 11,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3864888",
@@ -5924,7 +6496,8 @@
       "page": 26,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3864891",
@@ -5934,7 +6507,8 @@
       "page": 17,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3883229",
@@ -5944,7 +6518,8 @@
       "page": 3,
       "kind": "teoria",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3883243",
@@ -5954,7 +6529,8 @@
       "page": 39,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3883244",
@@ -5964,7 +6540,8 @@
       "page": 7,
       "kind": "teoria",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3883268",
@@ -5974,7 +6551,8 @@
       "page": 29,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3883366",
@@ -5984,7 +6562,8 @@
       "page": 30,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3907140",
@@ -5994,7 +6573,8 @@
       "page": 38,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3907144",
@@ -6004,7 +6584,8 @@
       "page": 41,
       "kind": "teoria",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3962799",
@@ -6014,7 +6595,8 @@
       "page": 45,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975802",
@@ -6024,7 +6606,8 @@
       "page": 31,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975805",
@@ -6034,7 +6617,8 @@
       "page": 45,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975808",
@@ -6044,7 +6628,8 @@
       "page": 7,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975809",
@@ -6054,7 +6639,8 @@
       "page": 28,
       "kind": "teoria",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975812",
@@ -6064,7 +6650,8 @@
       "page": 18,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975826",
@@ -6074,7 +6661,8 @@
       "page": 50,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975830",
@@ -6084,7 +6672,8 @@
       "page": 26,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975832",
@@ -6094,7 +6683,8 @@
       "page": 60,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975837",
@@ -6104,7 +6694,8 @@
       "page": 4,
       "kind": "calculo",
       "batch": 1,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975840",
@@ -6114,7 +6705,8 @@
       "page": 31,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975976",
@@ -6124,7 +6716,8 @@
       "page": 49,
       "kind": "teoria",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975984",
@@ -6134,7 +6727,8 @@
       "page": 15,
       "kind": "calculo",
       "batch": 4,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975985",
@@ -6144,7 +6738,8 @@
       "page": 22,
       "kind": "calculo",
       "batch": 7,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975988",
@@ -6154,7 +6749,8 @@
       "page": 8,
       "kind": "calculo",
       "batch": 2,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975991",
@@ -6164,7 +6760,8 @@
       "page": 35,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975994",
@@ -6174,7 +6771,8 @@
       "page": 32,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975995",
@@ -6184,7 +6782,8 @@
       "page": 36,
       "kind": "calculo",
       "batch": 6,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3975996",
@@ -6194,7 +6793,8 @@
       "page": 14,
       "kind": "calculo",
       "batch": null,
-      "status": "divergencia"
+      "status": "analise_com_ressalva",
+      "analysisComplete": true
     },
     {
       "id": "3976034",
@@ -6204,7 +6804,8 @@
       "page": 4,
       "kind": "calculo",
       "batch": 5,
-      "status": "resolvida"
+      "status": "resolvida",
+      "analysisComplete": true
     },
     {
       "id": "3976043",

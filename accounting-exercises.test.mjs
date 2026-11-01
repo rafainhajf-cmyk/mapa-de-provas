@@ -44,3 +44,13 @@ test('tabelas do lote conservam células e valores separados',()=>{
  assert.match(tecOriginals['2266771'].text,/Investimentos \(Cia X\) \| 48.000/);
  assert.match(html,/<th>Patrimônio Líquido<\/th>/);
 });
+import {studyRoute} from './source-content/accounting-study-route.js';
+test('roteiro enxuto cobre os assuntos sem repetir cartões ou incluir pendências',()=>{
+ const html=accountingSetsHTML();
+ assert.match(html,/data-study-route="core"/);
+ assert.equal(studyRoute.length,60);
+ const selected=studyRoute.flatMap(x=>[x.coreId,x.complementId].filter(Boolean));
+ assert.equal(selected.length,new Set(selected).size);
+ for(const id of selected)assert.ok(resolvedQuestions.some(q=>q.id===id),id);
+ assert.deepEqual(new Set(studyRoute.flatMap(x=>x.sourceIds)),new Set(resolvedQuestions.map(q=>q.id)));
+});

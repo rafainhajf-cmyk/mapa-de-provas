@@ -1,6 +1,9 @@
 [
   {
     "id": "1936754",
-    "reason": "Nenhuma alternativa atende à classificação e ao AVP. Terreno para valorização é propriedade para investimento (investimentos), inicialmente por 100.000, com passivo líquido de 100.000. Gabarito do PDF D indica imobilizado de 100.000, mas a destinação expressa é valorização de capital, sem uso próprio. Necessário registrar a divergência, não ensinar imobilizado como regra correta."
+    "reason": "Resolução técnica: terreno mantido para valorização é propriedade para investimento, no grupo Investimentos, e não imobilizado de uso próprio. Pelo valor à vista relevante, registrar ativo de R$100.000 e passivo líquido de R$100.000. O contrato nominal de R$120.000 contém R$20.000 de juros a apropriar, que não compõem o custo inicial. Nenhuma alternativa apresenta essa combinação. A letra D do PDF acerta o valor de R$100.000, mas usa a classificação Imobilizado. A letra C apresenta o passivo bruto sem a dedução financeira. Conclusão: não há alternativa integralmente compatível com os dados e o CPC28/CPC12; não foi localizada retificação oficial nos arquivos fornecidos.",
+    "sourceKey": "D",
+    "analysisComplete": true,
+    "status": "sem_alternativa_compativel"
   }
 ]

@@ -16,6 +16,11 @@ try{
  await page.goto(url);await page.waitForSelector('[data-curated-id="TEC-2013231"]');
  assert.equal(await page.locator('article[data-exercise-kind]').count(),629);
  assert.equal(await page.locator('article details[open]').count(),0);
+ for(const [list,count] of [['core',60],['complement',33],['tec',601],['ia',28],['issue',3],['all',629]]){
+  await page.selectOption('#filterList',list);
+  assert.equal(await page.locator('article[data-exercise-kind]:visible').count(),count,'lista '+list);
+ }
+
  const original=page.locator('article').filter({has:page.locator('[data-curated-id="TEC-2013231"]')});
  assert.ok(await original.locator('.tec-statement').isVisible());
  await page.locator('[data-curated-id="TEC-2013231"]').check();
@@ -34,5 +39,5 @@ try{
  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
  await page.screenshot({path:'/tmp/mapa-contab-mobile.png'});
  assert.deepEqual(errors,[]);
- console.log('Browser: 629 cartões; enunciados visíveis; respostas recolhidas; filtros; progresso após recarga; mobile sem overflow; zero erros.');
+ console.log('Browser: 629 cartões; roteiros60/33; TEC601; IA28; ressalvas3; enunciados visíveis; respostas recolhidas; filtros; progresso após recarga; mobile sem overflow; zero erros.');
 }finally{await browser?.close();await new Promise(resolve=>server.close(resolve))}
