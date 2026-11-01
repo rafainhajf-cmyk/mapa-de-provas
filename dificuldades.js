@@ -78,6 +78,18 @@ function studyMaterialsHTML(contents){const ids=new Set(contents.map(c=>c.id)),n
 
 
 function studyNoteTextHTML(value){return esc(value).replace(/((?:Lei(?: Complementar)?|Decreto) nº [\d.]+\/\d{4}|(?:LC|EC|CF|CTN)(?:[ ,]+(?:arts?\. )?[\dº.§,–/ a]+)?|[Aa]rts?\. [\dº.,–]+)/g,'<span class="study-note-law">$1</span>')}
+function microGraphHTML(block){
+ const kind=block.kind;
+ const defs={
+  supply:{title:'Expansão da oferta e novo equilíbrio',lines:[['M55 42 L300 195','#c45d56','Demanda'],['M90 205 L250 33','#5679bd','Oferta inicial'],['M159 205 L319 33','#15966c','Oferta ampliada']],markers:[[159,116,'E₁'],[194,141,'E₂']],annotation:'Oferta desloca para a direita: preço de equilíbrio cai e quantidade aumenta.'},
+  engel:{title:'Curva de Engel: bem normal e inferior',lines:[['M55 194 L297 36','#15966c','Bem normal'],['M55 37 L297 191','#c45d56','Bem inferior']],markers:[],annotation:'Eixo horizontal: renda; eixo vertical: quantidade. Os traçados são esquemáticos.'},
+  externality:{title:'Externalidade negativa e imposto corretivo',lines:[['M55 37 L297 190','#c45d56','Demanda / benefício marginal'],['M55 178 L297 44','#5679bd','Custo marginal privado'],['M55 122 L297 11','#15966c','Custo marginal social']],markers:[],annotation:'O imposto corrige a diferença entre custo marginal social e privado no nível eficiente.'}
+ };
+ const g=defs[kind];if(!g)return '';
+ const label=esc(block.caption||g.annotation),paths=g.lines.map(([d,color])=>'<path d="'+d+'" stroke="'+color+'" stroke-width="3" fill="none" stroke-linecap="round"/>').join('');
+ const key=g.lines.map(([,color,name])=>'<span><i style="background:'+color+'"></i>'+esc(name)+'</span>').join('');
+ return '<figure class="micro-study-chart" role="group" aria-label="'+esc(g.title)+'"><h4>'+esc(g.title)+'</h4><svg viewBox="0 0 350 245" role="img" aria-label="'+esc(g.annotation)+'"><path d="M48 18 V210 H324" fill="none" stroke="currentColor" stroke-width="2"/><path d="M43 25 L48 15 L53 25 M316 205 L325 210 L316 215" fill="none" stroke="currentColor" stroke-width="1.5"/><text x="4" y="13" fill="currentColor" font-size="11">'+(kind==='engel'?'Quantidade':'Preço / custo')+'</text><text x="255" y="230" fill="currentColor" font-size="11">'+(kind==='engel'?'Renda':'Quantidade')+'</text>'+paths+'</svg><div class="micro-chart-legend">'+key+'</div><figcaption>'+label+'</figcaption></figure>';
+}
 export function studyNoteBodyHTML(blocks){return (blocks||[]).map(block=>{if(block.type==='image'){if(!/^assets\/[a-z0-9-]+\.(?:jpeg|jpg|png|webp)$/.test(block.src||''))return '';return `<figure class="study-note-image"><a href="${esc(block.src)}" target="_blank" rel="noopener noreferrer"><img src="${esc(block.src)}" alt="${esc(block.alt)}" loading="lazy"></a><figcaption>${esc(block.caption||'Clique na imagem para ampliar.')}</figcaption></figure>`}if(block.type==='table')return `<div class="study-note-table"><table><tbody>${(block.rows||[]).map((row,i)=>`<tr>${row.map((cell,j)=>i===0?`<th scope="col">${esc(cell)}</th>`:`<td data-label="${esc(block.rows[0]?.[j]||'')}">${studyNoteTextHTML(cell)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;if(block.type!=='paragraph')return '';const text=studyNoteTextHTML(block.text);return block.style==='TITLE'?`<h3>${text}</h3>`:block.style?.startsWith('HEADING')?`<h4>${text}</h4>`:`<p>${text}</p>`}).join('')}
 
 
