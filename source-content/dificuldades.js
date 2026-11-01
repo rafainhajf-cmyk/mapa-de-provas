@@ -1,4 +1,4 @@
-import {taxIndexHTML,taxRecords,taxReaderHTML} from './tax-index.js?v=1';
+import {taxIndexHTML,taxRecords,taxReaderHTML} from './tax-index.js?v=2';
 import {TAX_CATEGORIES,TAX_SECTION_REFERENCES} from './tax-classification.js?v=1';
 import {readTaxPreferences,saveTaxPreference,resetTaxPreference,TAX_PREFERENCES_KEY} from './tax-preferences.js?v=1';
 import { groupedSubjectsHTML } from './study-subject-families.js?v=98';
@@ -83,11 +83,11 @@ function taxTopics(model,topics=libraryTopics(model,'Tributário')){return topic
  if(!sectionKeys){const root=document.createElement('div');root.innerHTML=taxReaderHTML(t,t.fileIds.map(id=>model.files.get(id)).filter(Boolean).map(readerDocumentHTML).join(''));sectionKeys=t.fileIds.length?readerSections(root).map(x=>x.key):[];taxSectionCache.set(t.id,sectionKeys);}
  return {...t,primaryId:file?.id,sectionKeys,originalPath:folder?.path.join(' / ')||t.area,searchText:t.fileIds.map(id=>model.searchIndex.get(id)||'').join(' '),findings:model.findings.filter(f=>t.fileIds.includes(f.fileId))};
  });}
-function taxReferences(){const refs=[];for(const ref of TAX_SECTION_REFERENCES){const file=model.files.get(ref.fileId);if(!file)continue;const root=document.createElement('div');root.innerHTML=readerDocumentHTML(file);const section=readerSections(root).find(s=>s.label===ref.title);if(section)refs.push({...ref,key:section.key});}return refs;}
+function taxReferences(){const refs=[];for(const ref of TAX_SECTION_REFERENCES){const file=model.files.get(ref.fileId);if(!file)continue;const root=document.createElement('div');root.innerHTML=readerDocumentHTML(file);const section=readerSections(root).find(s=>s.label===ref.title);if(section)refs.push({...ref,key:section.key});}let seen={};try{seen=JSON.parse(localStorage.getItem('mapa-tributario-reader-v1')||'{}').seen||{}}catch{}refs.push(...(model.raw.taxBookReferences||[]).map(r=>({...r,seen:!!seen[r.sectionId]})));return refs;}
 function taxPanel(model,search=''){const conflicts=model.raw.taxReconciliation?.conflictIds||[];return (conflicts.length?'<p class="tax-review-notice">'+conflicts.length+' material(is) com versões divergentes. A versão já disponível foi mantida e a outra foi preservada para conferência. <a href="tax-reconciliation-report.json" download>Baixar relatório de versões</a></p>':'')+'<p role="status" class="tax-save-status">'+esc(taxNotice)+'</p>'+taxIndexHTML(model,taxTopics(model),{search,status:taxStatus,overrides:readTaxPreferences(localStorage),progress:taxProgress(),references:taxReferences()});}
 function taxGroups(topics,render){
  const records=taxRecords(topics.map(t=>({...t,primaryId:t.fileIds[0]})),readTaxPreferences(localStorage));
- const group=(title,list)=>'<details class="difficulty-library-group tax-category"><summary>'+esc(title)+' ('+list.length+')</summary><div class="difficulty-content-list">'+(list.map(render).join('')||'<p>Sem materiais cadastrados.</p>')+'</div></details>';
+ const group=(title,list)=>'<details class="difficulty-library-group tax-category"><summary>'+esc(title)+' ('+(title==='RMIT — REFORMA TRIBUTÁRIA'&&model.raw.taxBookReferences?.length?model.raw.taxBookReferences.length+' trechos':list.length)+')</summary><div class="difficulty-content-list">'+(list.map(render).join('')||'<p>Sem materiais próprios cadastrados.</p>')+(title==='RMIT — REFORMA TRIBUTÁRIA'?(model.raw.taxBookReferences||[]).map(r=>'<a class="difficulty-library-button" href="'+esc(r.href)+'">'+esc(r.title)+'</a>').join(''):'')+'</div></details>';
  return TAX_CATEGORIES.map(c=>group(c.title,records.filter(t=>t.classification.categoryId===c.id))).join('')+group('Conferir classificação',records.filter(t=>!t.classification.categoryId));
 }
 function uniformLibraryHTML(subject=''){
@@ -213,4 +213,4 @@ document.addEventListener('submit',event=>{const form=event.target.closest('[dat
 document.addEventListener('change',event=>{if(event.target.matches('[data-tax-status]')){taxStatus=event.target.value;render();}});
 document.addEventListener('click',event=>{const reset=event.target.closest('[data-tax-reset]');if(!reset)return;try{resetTaxPreference(localStorage,reset.dataset.taxReset);taxNotice='Classificação sugerida restaurada. Progresso preservado.';render();}catch(error){reset.closest('form').querySelector('[role=status]').textContent=error.message;}});
 document.addEventListener('study-sync-applied',()=>{if(model&&state.subject==='Tributário'&&!state.libraryTopic)render();});
-window.addEventListener('storage',event=>{if(event.key===TAX_PREFERENCES_KEY&&model&&state.subject==='Tributário'&&!state.libraryTopic)render();});
+window.addEventListener('storage',event=>{if([TAX_PREFERENCES_KEY,'mapa-tributario-reader-v1','mapa-study-progress-v1'].includes(event.key)&&model&&state.subject==='Tributário'&&!state.libraryTopic)render();});

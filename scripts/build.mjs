@@ -6,7 +6,7 @@ try { await access(path.join(source, 'index.html')); }
 catch { source = path.resolve('../dist'); }
 await access(path.join(source, 'index.html'));
 // Valida a sintaxe dos novos módulos antes de publicar a área de flashcards.
-for(const file of ['flashcards.js','flashcards-import.js']) {
+for(const file of ['flashcards.js','flashcards-import.js','apostila.js']) {
   execFileSync(process.execPath,['--check',path.join(source,file)],{stdio:'inherit'});
 }
 await rm('private-content', { recursive: true, force: true });
@@ -17,6 +17,9 @@ const liveDataPath=path.join('private-content','difficulty-data.json');
 const {reconcileTaxCatalog}=await import('../lib/tax-catalog.mjs');
 const reconciled=reconcileTaxCatalog(JSON.parse(await readFile(liveDataPath,'utf8')),rootData);
 const liveData=reconciled.data;
+const {taxBookReferences}=await import('../source-content/tributario-volumes.js');
+const taxBook=JSON.parse(await readFile(path.join(source,'apostila-data.json'),'utf8'));
+liveData.taxBookReferences=taxBookReferences(taxBook.sections);
 await writeFile('private-content/tax-reconciliation-report.json',JSON.stringify(reconciled.report));
 // Atualiza a apostila de Terceiro Setor sem substituir as outras anotações.
 const thirdSectorId='1u1MmLJt6Mv2WMLb_PPN5MU_8bOjpQ6_CovatTzF8PFc';

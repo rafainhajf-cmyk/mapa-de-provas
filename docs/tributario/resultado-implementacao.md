@@ -15,7 +15,7 @@ O build anterior incluía sete arquivos de Tributário. A conciliação inclui o
 | REFORMA — LEI 236 | 1 | 1 | 1 |
 | COMPARATIVO TRIBUTÁRIO | 1 | 1 | 0 |
 | LC 227/2026: TEXTO LEGAL | 2 | 0 | 0 |
-| RMIT — REFORMA TRIBUTÁRIA | 0 | 0 | 0 |
+| RMIT — REFORMA TRIBUTÁRIA | 0 | 0 | 12 na apostila existente |
 | NOVIDADES EXCLUSIVAS DA REFORMA TRIBUTÁRIA | 2 | 0 | 1 |
 | DIREITO TRIBUTÁRIO NORMATIVO | 18 | 8 | 1 |
 
@@ -23,7 +23,7 @@ Há 28 assuntos classificados e quatro assuntos com classificação pendente, to
 
 Os quatro itens de conferência são Direitos e garantias do contribuinte, EC 132/2023: Constituição e transição, IBS e CBS e Legislação estadual do Ceará. Permanecem acessíveis pelo contexto original fora da contagem das dez categorias; edição manual resolve sua categoria sem alterar o registro original.
 
-RMIT não foi localizado como material próprio nos catálogos examinados. A categoria existe e informa a pendência. Não houve inspeção integral do Drive remoto nem dos dados privados; não é possível afirmar que o material inexiste nessas fontes.
+Correção após indicação do usuário: RMIT está no volume Regra-Matriz da Apostila de Tributário (`apostila-data.json` e leitor `apostila.js`), fora dos dois catálogos de dificuldade. A categoria08 e a biblioteca agora apontam para as12 seções do grupo existente, preservando seus IDs e a chave `mapa-tributario-reader-v1`. Isso conserva a organização anterior do volume, inclusive seus trechos contextuais, sem certificar que cada seção seja teoria específica de regra-matriz. Nenhuma seção ou texto foi duplicado. Foi corrigido também um fragmento de sintaxe inválida no leitor que impedia seu carregamento.
 
 ## Recursos implementados
 
@@ -50,7 +50,7 @@ Os dados das outras disciplinas foram comparados integralmente ao resultado do b
 
 O backup local dos398 arquivos versionados foi verificado no diagnóstico. Não foi realizado backup nem escrita de perfis reais no Blob, localStorage, IndexedDB ou Drive. O código atua como camada de navegação e metadados novos, evitando migração destrutiva de dados pessoais.
 
-Os cenários de offline/conflitos foram executados com dois aparelhos simulados em teste. O download offline efetivo e a reconexão em tablet físico não foram certificados. Arquivos externos do Drive não são prometidos offline. A auditoria profunda offline/sync permanece separada.
+Os cenários de offline/conflitos foram executados com dois aparelhos simulados em teste. O download offline efetivo e a reconexão em tablet físico não foram certificados; essa validação deixou de ser requisito por solicitação expressa do usuário. Arquivos externos do Drive não são prometidos offline. A auditoria profunda offline/sync permanece separada.
 
 Para reverter o código, voltar ao commit base e reconstruir a aplicação; as fontes originais estão intactas. O build anterior foi reproduzido isoladamente. As novas preferências não devem ser apagadas globalmente para reverter uma tela; basta desativar a nova navegação ou restaurar a sugestão por assunto. Nenhuma restauração de snapshot deve sobrescrever trabalho posterior de estudo.
 

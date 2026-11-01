@@ -1,3 +1,4 @@
+import {tributarioVolumeFor as volumeFor} from './tributario-volumes.js?v=1';
 import { favoriteButtonHTML } from './study-favorites.js?v=94';
 const KEY='mapa-tributario-reader-v1';
 const $=id=>document.getElementById(id);
@@ -17,14 +18,6 @@ const volumes=[
 const VOLKEY='mapa-tributario-volume-v1';
 let selectedVolume=localStorage.getItem(VOLKEY)||'comparativo';
 if(!volumes.some(v=>v.id===selectedVolume))selectedVolume='comparativo';
-function volumeFor(s){if(s.volume&&volumes.some(v=>v.id===s.volume))return s.volume;if(s.volume==='reserva'||s.id.startsWith('reserva-lei-'))return 'reserva';const t=normalize(s.title),n=Number(s.originalIndex);
- if(n>=60||n===14)return 'rmit';
- if(n>=19&&n<=22)return 'ipva';
- if(n>=26&&n<=30)return 'itcmd';
- if(n===47||n>=49&&n<=53)return 'lc236';
- if(n>=31&&n<=35||n===46)return 'lc227';
- return 'comparativo';
-}
 function visibleSections(){return sections.filter(s=>volumeFor(s)===selectedVolume)}
 function chooseVolume(id,focusFirst=true){if(!volumes.some(v=>v.id===id))return;selectedVolume=id;localStorage.setItem(VOLKEY,id);const selected=visibleSections();if(focusFirst&&selected.length)current=selected[0];$('bookVolumeTitle').textContent=volumes.find(v=>v.id===id).title;document.querySelectorAll('[data-volume]').forEach(b=>{b.classList.toggle('selected',b.dataset.volume===id);b.setAttribute('aria-pressed',String(b.dataset.volume===id))});renderBook();renderOutline();if(focusFirst&&selected.length){history.replaceState(null,'','#'+selected[0].id);$(selected[0].id)?.scrollIntoView({block:'start'});}}
 function renderVolumes(){const nav=$('volumes');nav.replaceChildren(...volumes.map(v=>{const b=document.createElement('button');b.type='button';b.dataset.volume=v.id;b.textContent=v.title;b.addEventListener('click',()=>chooseVolume(v.id));return b;}));}
@@ -53,7 +46,6 @@ function updateReadStates(){
 }
 function setSeen(id,seen){if(seen)progress.seen[id]=new Date().toISOString();else delete progress.seen[id];save();renderOutline();updateReadStates();$('status').textContent=seen?'Assunto marcado como já visto.':'Assunto desmarcado.';}
 function highlightResult(title,q){const safe=escapeHTML(title);const terms=q.trim().split(/\s+/).filter(x=>x.length>1);if(!terms.length)return safe;const escaped=terms.map(x=>x.replace(/[^a-zA-Z0-9À-ÿ]/g,''));return escaped.reduce((value,term)=>term?value.replace(new RegExp('('+term+')','ig'),'<mark>$1</mark>'):value,safe)}
-function renderOutline(){')).join('|')+')','ig');return escapeHTML(title).replace(re,'<mark>$1</mark>')}
 function renderOutline(){
  const q=normalize($('search').value.trim()),unread=$('onlyUnread').checked;
  const fragment=document.createDocumentFragment();let count=0,lastGroup='';
