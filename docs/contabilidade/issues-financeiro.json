@@ -1,0 +1,9 @@
+[
+  {
+    "id": "3975996",
+    "reason": "Resolução com duas hipóteses. Na aquisição, 40% do PL contábil = R$20 milhões; mais-valia do terreno = 40%×(60−50) = R$4 milhões; goodwill = 28−24 = R$4 milhões. O investimento total inicial é R$28 milhões. O MEP de 2024 é 40%×10 = R$4 milhões; não há depreciação da mais-valia de terreno. Se a proposta de dividendos ainda não originou obrigação/direito (adicionais não aprovados), investimento = 28+4 = R$32 milhões e DRE = R$4 milhões: letra D do PDF. Se os R$4 milhões forem dividendos obrigatórios ou já declarados, deduzir 40%×4 = R$1,6 milhão do investimento: saldo R$30,4 milhões e DRE R$4 milhões, sem alternativa. ICPC08 distingue proposta adicional de obrigação presente. Como natureza/aprovação não foi informada, D é resposta condicionada à primeira hipótese, não conclusão universal.",
+    "sourceKey": "D",
+    "analysisComplete": true,
+    "status": "premissa_nao_especificada"
+  }
+]
