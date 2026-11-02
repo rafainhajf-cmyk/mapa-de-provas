@@ -75,3 +75,11 @@ body:has(.study-note-dialog[open]){overflow:hidden}
 .uniform-subjects h3,.uniform-topic>h3{font-size:22px;color:var(--green);margin:22px 0 16px}.uniform-subjects>p,.uniform-topic>p{font-size:13px;line-height:1.8;color:#667760}.difficulty-content-name small{display:block;color:#738169;font-size:11px;font-weight:400;margin-top:7px}.uniform-topic .difficulty-folder-card{margin:15px 0}.uniform-topic-actions{display:flex;gap:15px;align-items:center;flex-wrap:wrap;margin-top:15px;font-size:12px}.uniform-topic-actions .subject-resource-link{flex-basis:100%}.library-no-material{font-size:11px;padding:0 16px;color:#7c8874}.uniform-topic .difficulty-folder-card h4{font-size:16px;color:var(--green)}
 
 .subject-syllabus{border:1px solid var(--line);padding:15px;border-radius:8px;margin:20px 0}.subject-syllabus>summary{font-weight:650;color:var(--green);cursor:pointer;font-size:14px}
+
+/* Cores de revisão: regras corretas, cuidados e vedações */
+.study-comparison tbody td.study-rule-correct{background:#eef8ef;color:#1f6538;border-left:4px solid #35935d}
+.study-comparison tbody td.study-rule-caution{background:#fff6df;color:#745215;border-left:4px solid #d4a537}
+.study-comparison tbody td.study-rule-prohibited{background:#fff0ee;color:#963b33;border-left:4px solid #c75449}
+.study-comparison tbody tr:hover td.study-rule-correct{background:#e4f3e6}
+.study-comparison tbody tr:hover td.study-rule-caution{background:#ffefd0}
+.study-comparison tbody tr:hover td.study-rule-prohibited{background:#ffe5e1}
