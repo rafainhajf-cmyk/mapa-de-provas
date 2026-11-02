@@ -12,7 +12,7 @@ export function classificationFor(record,overrides={}){
  const override=Object.hasOwn(overrides,record.id)?overrides[record.id]:null;
  if(override&&TAX_CATEGORIES.some(c=>c.id===override.categoryId))return {...override,review:false,manual:true};
  const text=taxNormalize(record.title),mapped=known[record.id];let categoryId=mapped||null;
- if(!categoryId){for(const [pattern,id] of [[/\bipva\b/,'ipva'],[/\bitcmd\b/,'itcmd'],[/\bitbi\b/,'itbi'],[/\bissqn\b/,'issqn'],[/\b236\b/,'lei236'],[/comparativo tributario|apostila comparativa/,'comparativo'],[/\b227\b|processo administrativo do ibs/,'lc227'],[/\brmit\b|regra.matriz/,'rmit'],[/imposto seletivo|comite gestor/,'novidades']])if(pattern.test(text)){categoryId=id;break;}
+ if(!categoryId){for(const [pattern,id] of [[/\bipva\b/,'ipva'],[/\bitcmd\b/,'itcmd'],[/\bitbi\b/,'itbi'],[/\bissqn\b/,'issqn'],[/\b(?:lc\s*)?236\b/,'lei236'],[/comparativo tributario|apostila comparativa/,'comparativo'],[/\b(?:lc\s*)?227\b|processo administrativo do ibs/,'lc227'],[/\brmit\b|regra.matriz/,'rmit'],[/imposto seletivo|comite gestor/,'novidades']])if(pattern.test(text)){categoryId=id;break;}
   if(!categoryId&&!/^(ibs e cbs|ec 132.*|direitos e garantias.*|reforma|lte|legislacao estadual do ceara)$/.test(text))categoryId='normativo';
  }
  const mixed=categoryId==='comparativo';return {categoryId,tags:mixed?['CTN','novidades da Reforma']:[],review:!categoryId||mixed||categoryId==='lei236',manual:false};

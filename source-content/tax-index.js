@@ -17,3 +17,12 @@ export function taxIndexHTML(model,topics,{search='',status='all',overrides={},p
 }
 
 export function taxReaderHTML(topic,filesHTML){return `<header data-reader-file="chapter:${esc(topic.id)}" data-reader-title="${esc(topic.area||topic.subject)}"><h3>${esc(topic.title)}</h3></header>${filesHTML||'<p class="subject-content-pending">Conteúdo cadastrado, ainda sem novos materiais enviados para este bloco.</p>'}`;}
+
+// A selected tax category owns its reading flow; ambiguous entries remain isolated.
+export function scopeTaxTopics(topics,selectedId,overrides={}){
+ const records=taxRecords(topics,overrides),selected=records.find(t=>t.id===selectedId);
+ if(!selected)return [];
+ const category=selected.classification.categoryId;
+ const ids=new Set(records.filter(t=>category?t.classification.categoryId===category:t.id===selectedId).map(t=>t.id));
+ return topics.filter(t=>ids.has(t.id));
+}

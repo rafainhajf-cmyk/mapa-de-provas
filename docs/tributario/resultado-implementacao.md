@@ -55,3 +55,7 @@ Os cenários de offline/conflitos foram executados com dois aparelhos simulados 
 Para reverter o código, voltar ao commit base e reconstruir a aplicação; as fontes originais estão intactas. O build anterior foi reproduzido isoladamente. As novas preferências não devem ser apagadas globalmente para reverter uma tela; basta desativar a nova navegação ou restaurar a sugestão por assunto. Nenhuma restauração de snapshot deve sobrescrever trabalho posterior de estudo.
 
 A publicação na Vercel depende de aprovação separada, como exigido na especificação fornecida. Não houve push da branch nesta etapa para evitar disparar publicação automática.
+
+## Ajuste de leitura por categoria
+
+A leitura contínua de Tributário agora contém somente os blocos da categoria selecionada. Direito Tributário Normativo não carrega junto os materiais dos grupos específicos. As outras categorias permanecem acessíveis na biblioteca; registros ambíguos abrem isoladamente. Títulos de seções, IDs de documentos e marcações foram preservados. As demais disciplinas mantêm seu fluxo anterior. Verificação:34 testes aprovados e revisão independente sem apontamentos; prévia local normativa conferida com os18 assuntos classificados no grupo10.

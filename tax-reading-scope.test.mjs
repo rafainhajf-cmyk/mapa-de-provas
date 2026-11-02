@@ -1,0 +1,5 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {scopeTaxTopics} from './source-content/tax-index.js';
+const topics=[{id:'material:ctn-artigos-109-110-direito-privado',primaryId:'ctn-artigos-109-110-direito-privado',title:'Art.109×110'},{id:'responsabilidade',title:'Responsabilidade tributária'},{id:'ipva',title:'IPVA'},{id:'reforma',title:'Reforma — LC236'},{id:'comparativo',title:'Comparativo tributário'},{id:'rmit',title:'RMIT'},{id:'ambiguous',title:'IBS e CBS'}];
+test('leitura normativa contém só Normativo, sem os outros grupos',()=>{const before=JSON.stringify(topics);assert.deepEqual(scopeTaxTopics(topics,topics[0].id).map(t=>t.id),[topics[0].id,'responsabilidade']);assert.equal(JSON.stringify(topics),before);});
+test('demais categorias e itens ambíguos mantêm leitura própria',()=>{for(const id of ['ipva','reforma','comparativo','rmit','ambiguous'])assert.deepEqual(scopeTaxTopics(topics,id).map(t=>t.id),[id]);});
+test('classificação manual é respeitada sem alterar IDs',()=>{assert.deepEqual(scopeTaxTopics(topics,topics[0].id,{responsabilidade:{categoryId:'lei236',tags:[]}}).map(t=>t.id),[topics[0].id]);});
