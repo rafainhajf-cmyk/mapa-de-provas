@@ -1,4 +1,7 @@
-import {allCards,importApkg,mediaBlob,LABELS} from './flashcards-import.js?v=4';
+import {allCards,importApkg,mediaBlob,LABELS as IMPORT_LABELS} from './flashcards-import.js?v=4';
+
+import {withMacroCards} from './flashcards-macroeconomia.js?v=1';
+const LABELS={...IMPORT_LABELS,macroeconomia:'Macroeconomia'};
 
 const progressKey='mapa-anki-reviews-v1';
 const $=q=>document.querySelector(q);
@@ -21,7 +24,7 @@ function renderNav(){
  }).join('');
  const s=subjStats(subject);
  $('#subjectTitle').textContent=LABELS[subject];
- $('#subjectDetail').textContent=s.all+' cartões originais · '+s.due+' disponíveis para revisão · '+s.studied+' já revisados';
+ $('#subjectDetail').textContent=s.all+' cartões · '+s.due+' disponíveis para revisão · '+s.studied+' já revisados';
  const decks=[...new Set(cards.filter(c=>c.subjectKey===subject).map(c=>c.deckPath))].sort((a,b)=>a.localeCompare(b,'pt-BR',{numeric:true}));
  const volumeMap=new Map();
  for(const d of decks){const parts=String(d).split('::'),volume=parts[1]||'Geral',topic=parts[2]||'Geral';if(!volumeMap.has(volume))volumeMap.set(volume,[]);volumeMap.get(volume).push({path:d,title:topic});}
@@ -133,7 +136,7 @@ function exportProgress(){
  const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='flashcards_literalidade_progresso.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),2000);
 }
 async function refresh(keep=false){
- cards=(await allCards()).map(c=>c.subjectKey==='reforma'&&/(?:LC[_\\s-]*236|236[_\\s-]*2026)/i.test(c.sourceFile||'')?{...c,subjectKey:'lei236'}:c);cardsById.clear();for(const c of cards)cardsById.set(c.id,c);
+ cards=withMacroCards(await allCards()).map(c=>c.subjectKey==='reforma'&&/(?:LC[_\\s-]*236|236[_\\s-]*2026)/i.test(c.sourceFile||'')?{...c,subjectKey:'lei236'}:c);cardsById.clear();for(const c of cards)cardsById.set(c.id,c);
  reviews=loadReviews();renderNav();
  if(!keep||!cardsById.has(current?.id)||current?.subjectKey!==subject||!currentGroup().some(c=>c.id===current.id))chooseCard();
  else renderCard();
