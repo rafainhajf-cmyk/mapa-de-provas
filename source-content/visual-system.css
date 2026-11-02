@@ -110,3 +110,12 @@ body:has(#provasApp) h1{color:#205a8b}
 .tax-unified-notice{position:relative;z-index:5;display:flex;gap:9px;align-items:center;flex-wrap:wrap;margin:56px 20px 0 auto;width:calc(100% - 300px);padding:11px 15px;border:1px solid #bdd9ee;background:#eef7ff;color:#285a81;border-radius:9px;font-size:12px}
 .tax-unified-notice strong{color:#125c92}.tax-unified-notice span{flex:1 1 280px}.tax-unified-notice a{white-space:nowrap;font-weight:750}
 @media(max-width:850px){.tax-unified-notice{width:calc(100% - 32px);margin:54px 16px 8px}}
+
+/* Macroeconomia: leitura esquematizada, quadros visíveis e teoria recolhida */
+.macro-review-section{margin:18px 0 24px;padding:16px;border:1px solid #cadfed;border-radius:13px;background:#fff;box-shadow:0 3px 14px #214d6a0a}
+.macro-review-section>h4{margin:0 0 14px;color:#194f7c;border-left:4px solid #2c80bf;padding:8px 12px;background:#eef6fc;border-radius:5px;font-size:1rem}
+.macro-review-section .study-comparison{margin:12px 0}
+.macro-formula{background:#eaf7f0;border-left:4px solid #27865a;color:#174d36;border-radius:7px;padding:11px 14px;margin:9px 0;font-weight:750;line-height:1.55}
+.macro-review-detail{margin:12px 0;border:1px solid #d3e4ef;border-radius:9px;background:#f6faff;padding:10px 13px}
+.macro-review-detail>summary{cursor:pointer;color:#205a88;font-weight:750}
+.macro-review-detail>p{line-height:1.6;max-width:85ch}
