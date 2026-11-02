@@ -6,7 +6,7 @@ try { await access(path.join(source, 'index.html')); }
 catch { source = path.resolve('../dist'); }
 await access(path.join(source, 'index.html'));
 // Valida a sintaxe dos novos módulos antes de publicar a área de flashcards.
-for(const file of ['flashcards.js','flashcards-import.js']) {
+for(const file of ['flashcards.js','flashcards-import.js','macro-concepts.js','dificuldades.js']) {
   execFileSync(process.execPath,['--check',path.join(source,file)],{stdio:'inherit'});
 }
 await rm('private-content', { recursive: true, force: true });

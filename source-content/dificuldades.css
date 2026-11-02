@@ -120,3 +120,24 @@ body:has(.study-note-dialog[open]){overflow:hidden}
 .difficulty-page .study-note-text .study-note-table tr td:nth-child(2):not(:last-child){background:#f2f9f4}
 .difficulty-page .study-note-text .study-note-table tr td:last-child:not(:nth-child(2)){background:#fffaf0}
 @media(max-width:600px){.difficulty-page .study-note-text .study-note-table th,.difficulty-page .study-note-text .study-note-table td{padding:8px 9px;font-size:12px}}
+
+/* Macroeconomia: revisão por conceito antes das fontes integrais. */
+.macro-concept-review{max-width:1120px;margin:18px auto 28px;font-family:system-ui,sans-serif}
+.macro-review-label{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;color:#315e71;font-size:12px;font-weight:750;letter-spacing:.05em}
+.macro-review-label span{font-weight:500;letter-spacing:0}
+.macro-concept-review .macro-review-section{background:#fff;border:1px solid #d5e3e9;border-radius:14px;padding:20px;margin:16px 0;box-shadow:0 3px 12px #23445606}
+.macro-concept-review .macro-review-section>h4{font-family:system-ui,sans-serif;font-size:21px;color:#1d536d;margin:0 0 16px;padding:0;border:0;background:none;line-height:1.35}
+.macro-concept-review .macro-formula{background:#eaf3ff;border:1px solid #adc8e3;border-left:5px solid #317fb0;border-radius:8px;padding:17px 20px;font:700 20px/1.55 system-ui,sans-serif;white-space:normal;overflow-wrap:anywhere;margin:16px 0;color:#173f5a}
+.macro-concept-review table{font:15px/1.5 system-ui,sans-serif;width:100%;border-collapse:collapse}
+.macro-concept-review th{background:#edf4f8;color:#1d4b61}
+.macro-concept-review td,.macro-concept-review th{padding:12px 14px;vertical-align:top;border:1px solid #dbe5eb}
+.macro-concept-review .visual-callout{border-radius:9px;padding:14px 17px;margin:14px 0;font:15px/1.55 system-ui,sans-serif}
+.macro-concept-review .visual-callout.rule{background:#edf8f0;border-left:5px solid #2f8a58;color:#205438}
+.macro-concept-review .visual-callout.danger{background:#fff0ef;border-left:5px solid #c84d4d;color:#862f2f}
+.macro-concept-review .visual-callout.warning{background:#fff8df;border-left:5px solid #cf9e23;color:#70550c}
+.macro-concept-review .visual-callout p{margin:6px 0 0}
+.macro-source-materials{margin:20px 0 32px;border:1px solid #cbdde4;border-radius:10px;padding:14px;background:#f7fafc}
+.macro-source-materials>summary{cursor:pointer;font:650 15px/1.5 system-ui,sans-serif;color:#315e71}
+.macro-source-materials[open]>.reader-document{margin-top:22px}
+.macro-existing-graphs{max-width:1120px;margin:20px auto}
+@media(max-width:640px){.macro-concept-review .macro-review-section{padding:13px}.macro-concept-review .macro-formula{font-size:17px;padding:13px}.macro-concept-review td,.macro-concept-review th{padding:9px}.macro-review-label{font-size:11px}}
