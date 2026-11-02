@@ -52,3 +52,12 @@ test('enunciado dos exercícios não é recolhido pelo compactador de teoria',as
  assert.equal(statementOptions.compact,false);assert.ok(html.indexOf(escapeReview(statement[0].text))<html.indexOf('Revelar resposta'));
  assert.doesNotMatch(html,/<details class="accounting-answer"[^>]*\bopen\b/);
 });
+
+test('colunas comparativas não recebem cores de erro ou exceção por posição',async()=>{
+ for(const path of ['source-content/dificuldades.css','source-content/visual-system.css']){
+  const css=await readFile(path,'utf8');
+  assert.doesNotMatch(css,/study-note-table th:not\(:first-child\)/);
+  assert.doesNotMatch(css,/study-note-table tr td:nth-child\(2\):not\(:last-child\)/);
+  assert.doesNotMatch(css,/study-note-table tr td:last-child:not\(:nth-child\(2\)\)/);
+ }
+});
