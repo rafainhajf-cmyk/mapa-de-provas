@@ -18,7 +18,8 @@
   ],
   "git": {
     "deploymentEnabled": {
-      "dev/revisoes-mapa-de-provas": false
+      "dev/revisoes-mapa-de-provas": false,
+      "docs/memoria-projeto-2026-11-02": false
     }
   }
 }

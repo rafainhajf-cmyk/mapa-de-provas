@@ -1,0 +1,5 @@
+# Dados
+Catálogos do projeto: data.json, difficulty-data.json e demais JSON referidos pelos consumidores; conferir o esquema real antes de editar.
+Sincronização: lib/study-sync-core.mjs declara SYNC_STORES, com mapas progress/notes/materialLinks e registros de classificação, observações, textos, favoritos, leitor, fórmulas e revisões. lib/study-sync.mjs usa Blob privado, perfis schema1 com entries e updatedAt, controle etag e tentativas por conflito. Não é evidência de backup remoto ou de sincronização validada em aparelhos reais.
+Planilha Normativo: Questões Normativo A:Q (ID B, resposta H, resolução I, conhecimentos J, fundamento K, fontes L, origem M:N, TEC O, status P, ressalva Q). Pontos para Esquemas A:J (ID B, matéria C, conhecimento D, regra E, fundamento F, questões G, campos exclusivos H:J). Índice Normativo contém 18 tópicos. Página1 original preservada.
+Campos exigidos adicionais ainda a auditar/adicionar sem perda: banca, concurso, cargo, ano estruturados, data da última verificação, referência CSV e classificação teoria/cálculo visível na planilha. Não dizer que estão todos estruturados hoje.
