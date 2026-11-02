@@ -5,8 +5,8 @@ let source = path.resolve('source-content');
 try { await access(path.join(source, 'index.html')); }
 catch { source = path.resolve('../dist'); }
 await access(path.join(source, 'index.html'));
-// Valida a sintaxe dos novos módulos antes de publicar a área de flashcards.
-for(const file of ['flashcards.js','flashcards-import.js','macro-concepts.js','dificuldades.js']) {
+// Valida todos os módulos publicados, incluindo os leitores da apostila.
+for(const file of (await readdir(source)).filter(file=>file.endsWith('.js'))) {
   execFileSync(process.execPath,['--check',path.join(source,file)],{stdio:'inherit'});
 }
 await rm('private-content', { recursive: true, force: true });
@@ -72,6 +72,8 @@ for(const originalNote of rootData.analysis.analyzedFiles){if(!originalNote.cont
 liveData.source ||= {};
 liveData.source.checkedAt=new Date().toISOString();
 await writeFile(liveDataPath,JSON.stringify(liveData));
+const {writeStudyAudit}=await import('./audit-study.mjs');
+await writeStudyAudit();
 console.log('Conteúdo destacado: Tributário > Reforma — Lei 236/2026 (1 anotação, página 1).');
 const files = [];
 async function walk(dir, relative = '') {

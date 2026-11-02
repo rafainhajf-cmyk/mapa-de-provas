@@ -12,7 +12,7 @@ test('o build publica a revisão conceitual para todos os 13 grupos existentes',
  }
  assert.equal(await readFile('private-content/macro-concepts.js','utf8'),await readFile('source-content/macro-concepts.js','utf8'));
  const html=await readFile('private-content/dificuldades.html','utf8');
- assert.match(html,/dificuldades.js\?v=108/);
+ assert.match(html,/dificuldades.js\?v=109/);
  const script=await readFile('private-content/dificuldades.js','utf8');
  assert.match(script,/import .*macroConcepts.*macro-concepts/);
  assert.match(script,/t.subject==='Macroeconomia'\?macroTopicHTML/);
