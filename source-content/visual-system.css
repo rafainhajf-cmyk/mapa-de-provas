@@ -35,9 +35,6 @@ h1,h2,h3,h4{letter-spacing:-.017em;color:#204d74}
 .tax-book-page details.study-detail summary{color:#17609a;font-weight:750;cursor:pointer}
 .difficulty-page .study-note-text h4{background:#eaf4fc;color:#195b91;border-left-color:#2b82c5}
 .difficulty-page .study-note-table td:first-child{background:#f2f8fd;color:#205b8b}
-.difficulty-page .study-note-table tr td:last-child:not(:nth-child(2)){background:#fff9ea}
-.difficulty-page .study-note-table tr td:nth-child(2):not(:last-child){background:#f0f9f3}
-.difficulty-page .study-note-table th:not(:first-child){background:#fff0f5;color:#9b3d60}
 .study-comparison{border:1px solid #d4e4ef;border-radius:10px;padding:10px;background:white}
 .study-comparison th{background:#e9f3fb;color:#175a91}
 .study-comparison td{border-bottom:1px solid #e7edf4}
@@ -83,8 +80,8 @@ body:has(#provasApp) h1{color:#205a8b}
 .visual-decision-choices>div:before{content:'↓';position:absolute;top:-21px;left:50%;font-size:17px;color:#6987a0}
 .visual-decision-choices b{font-size:12px;letter-spacing:.04em}
 .visual-decision-choices p{font-size:13px;line-height:1.45;margin:5px 0 0}
-.visual-decision-yes{background:#edf8f1;border-color:#b4dac4!important;color:#246b47}
-.visual-decision-no{background:#fff0f3;border-color:#edc4ce!important;color:#91425c}
+.visual-decision-yes{background:#f1f7fc;border-color:#bfd5e7!important;color:#245771}
+.visual-decision-no{background:#f1f7fc;border-color:#bfd5e7!important;color:#245771}
 @media(max-width:550px){.visual-timeline{display:block}.visual-timeline-step{margin-bottom:13px}.visual-timeline-step:not(:last-child)::after{content:'↓';right:50%;top:auto;bottom:-17px;transform:translateX(50%)}.visual-decision-choices{gap:7px}.visual-decision-choices>div{padding:9px}}
 
 /* Leitura editorial contextual — aplicada à biblioteca de todas as matérias */
@@ -119,3 +116,5 @@ body:has(#provasApp) h1{color:#205a8b}
 .macro-review-detail{margin:12px 0;border:1px solid #d3e4ef;border-radius:9px;background:#f6faff;padding:10px 13px}
 .macro-review-detail>summary{cursor:pointer;color:#205a88;font-weight:750}
 .macro-review-detail>p{line-height:1.6;max-width:85ch}
+
+/* Posição de coluna e respostas SIM/NÃO não determinam correção jurídica. */
