@@ -12,3 +12,7 @@ Materiais e imagens existem no repo (PPA/LDO/LOA e demais temas). Organização 
 Ainda não realizado: cartões/imagens IndexedDB, perfis Blob e planilha remota. Não chamar backup de código de backup completo. Criar cópia privada, restaurar isoladamente e preservar trabalho posterior. Não publicar dados pessoais nesta branch.
 ## Próximas ações
 Reproduzir flashcards com coleção de teste; desenhar backup integral e recuperação por origem/aparelho; rastrear caminho do treinamento SQL; inventariar AFO. Alterações funcionais exigem desenho concreto e validação; publicação permanece etapa separada.
+
+## Reprodução confirmada do filtro após importação
+flashcards-import.js:118 salva isReform em subjectKey lei236; retorno forcedReform indica esse caso. flashcards.js:147 seleciona reforma para o mesmo retorno. Prova local com nomes LC_236_2026.apkg, LC 236 2026.apkg e Somente_LC_236_2026.apkg: identificação verdadeira; savedSubject=lei236, selectedSubject=reforma, visibleAfterImport=false. Não prova exclusão ou perda de dados; prova seleção incompatível ao concluir importação.
+Correção proposta: selecionar lei236 quando forcedReform for verdadeiro, preservando IDs/textos/revisões e formatos existentes. Testar classificação e matéria selecionada, incluindo importação normal. Implementação ainda não feita: aguardando aprovação do desenho limitado conforme brainstorming. Backup integral é incremento separado.

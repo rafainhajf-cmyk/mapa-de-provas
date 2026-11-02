@@ -6,3 +6,5 @@ Documentação: arquivos obrigatórios existem, referências locais resolvem e n
 Pendentes de validação: produção autenticada, dois aparelhos físicos, restauração de dados pessoais e retomada de novo chat. Offline dispensado como critério pelo usuário.
 
 Execução 2026-11-02:33 testes passaram inicialmente; o teste de sessão foi bloqueado por EPERM ao abrir porta local. Reexecutado com permissão:1/1 passou. Total34/34. Build via runtime Node concluído:286 arquivos privados; nenhum conteúdo no diretório público. Mudanças desta etapa são documentais.
+
+Correção aprovada e implementada: importação identificada como LC236 seleciona lei236 ao concluir, como o importador salva. Teste de regressão reproduziu falha antes e passou depois;36 testes totais aprovados e build concluído. Mudança não publicada; backup integral e SQL continuam pendentes.

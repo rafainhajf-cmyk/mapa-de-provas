@@ -144,7 +144,7 @@ async function doImport(file){
  const bar=$('#status'),subjectAtStart=$('#importSubject').value;
  try{
   const report=await importApkg(file,subjectAtStart,msg=>{bar.textContent=msg;});
-  subject=report.forcedReform?'reforma':subjectAtStart;
+  subject=report.forcedReform?'lei236':subjectAtStart;
   filter='';showAll=false;
   await refresh();
   bar.textContent='Importação concluída: '+report.added+' novos, '+report.moved+' movidos de matéria, '+report.kept+' já existentes. '+report.media+' mídias preservadas. Total do arquivo: '+report.fromFile+'.';
