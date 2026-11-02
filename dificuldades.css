@@ -83,3 +83,12 @@ body:has(.study-note-dialog[open]){overflow:hidden}
 .study-comparison tbody tr:hover td.study-rule-correct{background:#e4f3e6}
 .study-comparison tbody tr:hover td.study-rule-caution{background:#ffefd0}
 .study-comparison tbody tr:hover td.study-rule-prohibited{background:#ffe5e1}
+
+/* Macroeconomia: esquemas visiveis diretamente no assunto */
+.macro-inline-schemes{margin:18px 0;padding:15px;border:1px solid #d3dfd0;border-radius:10px;background:#fbfcf9}
+.macro-inline-caption{font-size:11px;font-weight:800;letter-spacing:.08em;color:#315c42;margin:0 0 14px}
+.macro-inline-schemes .study-comparison{margin:0 0 18px}
+.macro-inline-schemes .study-comparison table{min-width:600px}
+.macro-more-schemes{margin:12px 0;border:1px solid #d6e2d1;border-radius:8px;padding:10px}
+.macro-more-schemes summary{font-weight:700;cursor:pointer;color:#315b3c;padding:6px}
+.macro-more-schemes .study-topic-body{padding:8px}
