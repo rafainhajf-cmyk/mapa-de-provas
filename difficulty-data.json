@@ -13012,6 +13012,72 @@
         "source": "Google Docs editável do usuário (Macro 09). Conteúdo transcrito sem avaliação de desempenho ou frequência de questões.",
         "contentSections": [
           {
+            "title": "09.0 Quadro para prova — estrutura do BP",
+            "blocks": [
+              {
+                "type": "table",
+                "comparison": true,
+                "rows": [
+                  [
+                    "Parte",
+                    "O que entra",
+                    "Pegadinha / diferença"
+                  ],
+                  [
+                    "1. Bens — balança comercial",
+                    "Exportação e importação de mercadorias, em geral FOB.",
+                    "⚠️ Frete e seguro internacionais separados dos bens: serviços, conforme critérios de registro."
+                  ],
+                  [
+                    "2. Serviços",
+                    "Manufatura de insumos de terceiros; reparos; transportes; viagens; construção; seguros; financeiros; propriedade intelectual; aluguel de equipamentos; demais serviços.",
+                    "⚠️ Royalties pelo uso de propriedade intelectual e aluguel de equipamentos são serviços, não renda primária."
+                  ],
+                  [
+                    "3. Renda primária",
+                    "Remuneração de trabalhadores, juros, dividendos, lucros e outras rendas de investimentos.",
+                    "⚠️ Juros são renda; principal de empréstimos é conta financeira."
+                  ],
+                  [
+                    "4. Renda secundária",
+                    "Transferências correntes, como transferências pessoais e certas doações sem contrapartida.",
+                    "⚠️ Nem toda transferência em bens é automaticamente exportação/importação: classificar conforme natureza e metodologia."
+                  ],
+                  [
+                    "Saldo de transações correntes",
+                    "Bens + Serviços + Renda primária + Renda secundária.",
+                    "✅ Identidade para revisão. Contas financeiras e capital ficam fora da soma."
+                  ],
+                  [
+                    "5. Conta de capital",
+                    "Transferências de capital, inclusive certos perdões de dívidas, e aquisições/cessões de ativos não financeiros não produzidos.",
+                    "⛔ Investimento estrangeiro direto NÃO integra a conta de capital. Mudança de residência com transferência de patrimônio, por si só, não é transação no BPM6."
+                  ],
+                  [
+                    "6. Conta financeira",
+                    "Investimento direto (participações e dívida entre empresas relacionadas), investimento em carteira, derivativos, outros investimentos, ativos de reserva.",
+                    "⚠️ Principal/amortização de empréstimos entram aqui. Reinvestimento de lucros gera contrapartida financeira; rendimento correspondente entra em renda primária."
+                  ],
+                  [
+                    "7. Erros e omissões",
+                    "Ajuste estatístico para discrepâncias entre registros do BP.",
+                    "⚠️ Não é uma categoria econômica de receita ou despesa."
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Transações correntes = bens + serviços + renda primária + renda secundária. Conta capital não é a conta dos investimentos estrangeiros; estes se classificam na conta financeira."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Referências: Banco Central do Brasil, Estatísticas do Setor Externo — BPM6; FMI, BPM6, capítulos de contas corrente, capital e financeira."
+              }
+            ]
+          },
+          {
             "title": "09.1 CÂMBIO NOMINAL (CONVENÇÃO REAL POR DÓLAR)",
             "blocks": [
               {
@@ -13140,6 +13206,57 @@
           }
         ],
         "comparisonTables": [
+          {
+            "title": "1.1 Estrutura do Balanço de Pagamentos — onde cada operação entra",
+            "description": "Quadro comparativo baseado no BPM6/BCB. Separação entre conta corrente, capital, financeira e ajuste estatístico.",
+            "columns": [
+              "Parte",
+              "O que entra",
+              "Pegadinha / diferença"
+            ],
+            "rows": [
+              [
+                "1. Bens — balança comercial",
+                "Exportação e importação de mercadorias, em geral FOB.",
+                "⚠️ Frete e seguro internacionais separados dos bens: serviços, conforme critérios de registro."
+              ],
+              [
+                "2. Serviços",
+                "Manufatura de insumos de terceiros; reparos; transportes; viagens; construção; seguros; financeiros; propriedade intelectual; aluguel de equipamentos; demais serviços.",
+                "⚠️ Royalties pelo uso de propriedade intelectual e aluguel de equipamentos são serviços, não renda primária."
+              ],
+              [
+                "3. Renda primária",
+                "Remuneração de trabalhadores, juros, dividendos, lucros e outras rendas de investimentos.",
+                "⚠️ Juros são renda; principal de empréstimos é conta financeira."
+              ],
+              [
+                "4. Renda secundária",
+                "Transferências correntes, como transferências pessoais e certas doações sem contrapartida.",
+                "⚠️ Nem toda transferência em bens é automaticamente exportação/importação: classificar conforme natureza e metodologia."
+              ],
+              [
+                "Saldo de transações correntes",
+                "Bens + Serviços + Renda primária + Renda secundária.",
+                "✅ Identidade para revisão. Contas financeiras e capital ficam fora da soma."
+              ],
+              [
+                "5. Conta de capital",
+                "Transferências de capital, inclusive certos perdões de dívidas, e aquisições/cessões de ativos não financeiros não produzidos.",
+                "⛔ Investimento estrangeiro direto NÃO integra a conta de capital. Mudança de residência com transferência de patrimônio, por si só, não é transação no BPM6."
+              ],
+              [
+                "6. Conta financeira",
+                "Investimento direto (participações e dívida entre empresas relacionadas), investimento em carteira, derivativos, outros investimentos, ativos de reserva.",
+                "⚠️ Principal/amortização de empréstimos entram aqui. Reinvestimento de lucros gera contrapartida financeira; rendimento correspondente entra em renda primária."
+              ],
+              [
+                "7. Erros e omissões",
+                "Ajuste estatístico para discrepâncias entre registros do BP.",
+                "⚠️ Não é uma categoria econômica de receita ou despesa."
+              ]
+            ]
+          },
           {
             "title": "Revisão rápida — Câmbio, Setor Externo e Balanço de Pagamentos",
             "description": "Síntese extraída dos documentos editáveis de Macroeconomia. Abra a explicação detalhada para ver o texto completo.",
