@@ -11727,6 +11727,82 @@
         "source": "Google Docs editável do usuário (Macro 01). Conteúdo transcrito sem avaliação de desempenho ou frequência de questões.",
         "contentSections": [
           {
+            "title": "01.0 Árvore de conversões — Interno, Nacional, Bruto e Líquido",
+            "blocks": [
+              {
+                "type": "table",
+                "comparison": true,
+                "rows": [
+                  [
+                    "Transformação",
+                    "Ida ↓",
+                    "Volta ↑"
+                  ],
+                  [
+                    "Interno ↔ Nacional",
+                    "PIB → PNB: subtrair RLEE",
+                    "PNB → PIB: somar RLEE"
+                  ],
+                  [
+                    "Bruto ↔ Líquido",
+                    "PIB → PIL: subtrair depreciação",
+                    "PIL → PIB: somar depreciação"
+                  ],
+                  [
+                    "Preços de mercado ↔ Custo de fatores",
+                    "pm → cf: subtrair impostos indiretos e somar subsídios",
+                    "cf → pm: somar impostos indiretos e subtrair subsídios"
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Fluxo de transformação — PIBpm até PNLcf"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "PIBpm 1.000 → (− RLEE 60) → PNBpm 940 → (− depreciação 100) → PNLpm 840 → (− impostos indiretos 80 + subsídios 20) → PNLcf 780."
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Pegadinhas"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Atenção",
+                    "Regra"
+                  ],
+                  [
+                    "RLEE positiva",
+                    "PIB é maior que PNB: PNB = PIB − RLEE."
+                  ],
+                  [
+                    "RLEE negativa",
+                    "Subtrair uma RLEE negativa aumenta o PNB."
+                  ],
+                  [
+                    "Siglas",
+                    "PIL = Produto Interno Líquido; PNL = Produto Nacional Líquido. Não usar PIN para Produto Interno Nacional."
+                  ],
+                  [
+                    "Preços de mercado",
+                    "Na abordagem tradicional de concursos: pm = cf + impostos indiretos − subsídios."
+                  ]
+                ]
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Referência visual: diagrama de conversão Interno/Nacional, Bruto/Líquido e preço de mercado/custo de fatores enviado pelo usuário. Esquema adaptado, sem reproduzir a imagem original."
+              }
+            ]
+          },
+          {
             "title": "01.1 TRÊS ÓTICAS DO MESMO PIB",
             "blocks": [
               {
@@ -11860,6 +11936,46 @@
           }
         ],
         "comparisonTables": [
+          {
+            "title": "Conversões em Contas Nacionais — quadro para memorização",
+            "columns": [
+              "Eixo",
+              "Transformação",
+              "Operação"
+            ],
+            "rows": [
+              [
+                "✅ Interno → Nacional",
+                "PIBpm → PNBpm",
+                "− RLEE"
+              ],
+              [
+                "✅ Nacional → Interno",
+                "PNBpm → PIBpm",
+                "+ RLEE"
+              ],
+              [
+                "✅ Bruto → Líquido",
+                "PIBpm → PILpm",
+                "− Depreciação"
+              ],
+              [
+                "✅ Líquido → Bruto",
+                "PILpm → PIBpm",
+                "+ Depreciação"
+              ],
+              [
+                "⚠️ Mercado → Fatores",
+                "pm → cf",
+                "− impostos indiretos + subsídios"
+              ],
+              [
+                "⚠️ Fatores → Mercado",
+                "cf → pm",
+                "+ impostos indiretos − subsídios"
+              ]
+            ]
+          },
           {
             "title": "Revisão rápida — Contas Nacionais, PIB, PNB e Deflator",
             "description": "Síntese extraída dos documentos editáveis de Macroeconomia. Abra a explicação detalhada para ver o texto completo.",
