@@ -166,3 +166,21 @@ export async function importApkg(file,subjectKey,onProgress=()=>{}){
   onProgress('Importação concluída.');
   return {...counts,fromFile:parsed.length,forcedReform:isReform};
 }
+
+// Snapshot único dos dois stores; não modifica a coleção.
+export async function readBackupContent(){
+ const db=await openDB();return new Promise((resolve,reject)=>{
+  const tx=db.transaction(['cards','media'],'readonly');let cards,media;
+  const c=tx.objectStore('cards').getAll(),m=tx.objectStore('media').getAll();
+  c.onsuccess=()=>{cards=c.result;};m.onsuccess=()=>{media=m.result;};
+  tx.oncomplete=()=>resolve({cards,media});tx.onerror=()=>reject(tx.error);tx.onabort=()=>reject(tx.error||Error('Leitura interrompida.'));
+ });
+}
+export async function addBackupContent(plan){
+ const db=await openDB();
+ // add, em vez de put: se outro separador gravar o mesmo ID, aborta sem substituir.
+ await transact(db,['cards','media'],tx=>{
+  for(const c of plan.cards)tx.objectStore('cards').add(c);
+  for(const m of plan.media)tx.objectStore('media').add(m);
+ });
+}

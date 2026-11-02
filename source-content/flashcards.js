@@ -1,4 +1,4 @@
-import {allCards,importApkg,mediaBlob,LABELS} from './flashcards-import.js?v=4';
+import {allCards,importApkg,mediaBlob,LABELS} from './flashcards-import.js?v=5';
 
 const progressKey='mapa-anki-reviews-v1';
 const $=q=>document.querySelector(q);

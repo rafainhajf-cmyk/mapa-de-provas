@@ -1,0 +1,10 @@
+<!doctype html><meta charset="utf-8"><title>Teste isolado do backup de flashcards</title><h1>Backup de flashcards — teste isolado</h1><button id="test">Executar ida e volta</button><pre id="result">Aguardando</pre><script type="module">
+import {createBackup,validateBackup,restoreBackup,planRestore} from '../source-content/flashcards-backup.js';
+import {readBackupContent,addBackupContent} from '../source-content/flashcards-import.js';
+document.querySelector('#test').onclick=async()=>{try{
+const source={cards:[{id:'literalidade:fixture-backup',sourceFile:'fixture.apkg',subjectKey:'reforma',deckPath:'Teste',type:'Basic',fieldOrder:['Front'],fields:{Front:'<b>Teste</b><img src="a.png">'}}],media:[{name:'fixture.apkg::a.png',originalName:'a.png',blob:new Blob([new Uint8Array([0,255,23])],{type:'image/png'})}],reviews:{'literalidade:fixture-backup':{last:100,attempts:2}}};
+const key='fixture-backup-reviews';const adapter={read:async()=>({...await readBackupContent(),reviews:JSON.parse(localStorage.getItem(key)||'{}')}),commit:addBackupContent,saveReviews:async r=>localStorage.setItem(key,JSON.stringify({...JSON.parse(localStorage.getItem(key)||'{}'),...r}))};
+const decoded=await validateBackup(JSON.parse(JSON.stringify(await createBackup(source))));await restoreBackup(decoded,adapter);const actual=await adapter.read();const c=actual.cards.find(x=>x.id===source.cards[0].id),m=actual.media.find(x=>x.name===source.media[0].name);if(JSON.stringify(c)!==JSON.stringify(source.cards[0])||[...new Uint8Array(await m.blob.arrayBuffer())].join()!=='0,255,23'||actual.reviews[c.id].attempts!==2)throw Error('Conteúdo divergente');
+const second=await restoreBackup(decoded,adapter);if(second.savedCards!==0||second.savedMedia!==0)throw Error('Duplicação');document.querySelector('#result').textContent='APROVADO: cartão/HTML, imagem/bytes e revisões restaurados. Segunda restauração sem duplicação. IndexedDB real em origem local isolada.';
+}catch(e){document.querySelector('#result').textContent='FALHOU: '+e.message;}};
+</script>
