@@ -1,0 +1,12 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import {gunzipSync} from 'node:zlib';
+import {compileNormativo} from './scripts/import-normativo.mjs';
+import {visualGuides} from './source-content/normativo-visuals.js';
+const d=await compileNormativo();
+test('importação idempotente mantém 503 IDs únicos e os 301 pontos integrais',async()=>{assert.deepEqual(await compileNormativo(),d);assert.equal(new Set(d.questions.map(q=>q.id)).size,503);assert.equal(d.questions.filter(q=>q.origin==='Original').length,328);assert.equal(d.questions.filter(q=>q.origin==='Complementar').length,175);const src=JSON.parse(gunzipSync(Buffer.from(await readFile('data-sources/tributario-normativo/snapshot.json.gz.base64','utf8'),'base64')));assert.deepEqual(d.legacyPoints,src[3].values.slice(1));for(const r of d.legacyPoints)assert(d.nuclei.some(n=>n.aliases.includes(r[1])));assert.equal(d.topics.length,18);});
+test('núcleos não inventam incidência direta por extração lexical ou distratores',()=>{assert(d.nuclei.every(n=>n.confirmedIds.length===0));assert.deepEqual(visualGuides.flatMap(g=>g.confirmed).sort(),['3023153','790682']);for(const id of ['1015171','3764380'])assert(!visualGuides.some(g=>g.confirmed.includes(id)));assert(d.nuclei.filter(n=>n.area==='ITCMD').every(n=>/ITCMD/i.test(n.title)));});
+test('questões completas e fontes preservadas, inclusive ressalvas e dados pessoais da planilha',()=>{for(const q of d.questions){assert(q.statement);assert(q.answer);assert(q.raw.length);assert(q.resolution);}for(const topic of d.topics.slice(7,12))assert(d.nuclei.some(n=>n.topics.includes(topic.id)));});
+test('conteúdo e dependências do Normativo estão no manifesto offline prioritário',async()=>{const files=JSON.parse(await readFile('private-content/offline-files.json'));for(const f of ['normativo.html','normativo-data.json','normativo.js','normativo-visuals.js','normativo.css','review-blocks.js','review-blocks.css'])assert(files.indexOf('/'+f)>=0&&files.indexOf('/'+f)<20);});
+test('tela reutiliza armazenamento sincronizado sem limpar dados ou expor gabarito antes dos detalhes',async()=>{const s=await readFile('source-content/normativo.js','utf8');assert(s.includes('mapa-study-progress-v1'));assert(s.includes('mapa-study-observations-v1'));assert(!s.includes('localStorage.clear'));assert(s.includes('<details><summary>Ver gabarito e explicação detalhada</summary>'));assert(s.includes('data[map]??={}'));assert(s.includes('data[id]=value'));});
