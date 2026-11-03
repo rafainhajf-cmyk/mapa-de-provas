@@ -2672,7 +2672,7 @@
         "endPage": 12
       },
       "reviewedAt": "2026-11-03",
-      "decisiveRule": "Gabarito correto do PDF é D: declaração tardia emjunho/2013 constitui crédito já vencido e inicia prazo para cobrança, não novo prazo para lançar.",
+      "decisiveRule": "Gabarito correto do PDF é D: declaração tardia em junho/2013 constitui crédito já vencido e inicia prazo para cobrança, não novo prazo para lançar.",
       "legalBasis": "CTN, art.174; STJ, Súmula436",
       "officialUrl": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=436.num.",
       "dtReferences": [],
@@ -2682,7 +2682,7 @@
       "sourceAnswer": "D",
       "sourceAnswerNote": "Gabarito e explicação corrigidos conforme PDF. O cadastro consolidado anterior contém B e permanece preservado para auditoria.",
       "reviewStatus": "with-caveat",
-      "displayResolution": "D é a alternativa correta do PDF. O vencimento foi emdezembro/2012, mas a declaração do débito ocorreu apenas emjunho/2013. A declaração constitui o crédito sem novo lançamento (Súmula436/STJ). Como o tributo já estava vencido, a contagem para cobrar começa na entrega da declaração: prazo quinquenal atéjunho/2018, nas condições do enunciado. A, B eC exigem indevidamente novo lançamento; E conta desde o vencimento anterior à constituição. O comentário antes cadastrado sobre imposto versus tributo não resolvia esta questão e foi substituído apenas na exibição.",
+      "displayResolution": "D é a alternativa correta do PDF. O vencimento foi em dezembro/2012, mas a declaração do débito ocorreu apenas em junho/2013. A declaração constitui o crédito sem novo lançamento (Súmula436/STJ). Como o tributo já estava vencido, a contagem para cobrar começa na entrega da declaração: prazo quinquenal até junho/2018, nas condições do enunciado. A, B eC exigem indevidamente novo lançamento; E conta desde o vencimento anterior à constituição. O comentário antes cadastrado sobre imposto versus tributo não resolvia esta questão e foi substituído apenas na exibição.",
       "displayKnowledge": "Declaração reconhecendo débito constitui o crédito. Para a cobrança, comparar a entrega da declaração com o vencimento: a contagem não começa antes de ambos.",
       "displayLaw": "CTN, art.174; STJ, Súmula436. Gabarito noPDF: D."
     },

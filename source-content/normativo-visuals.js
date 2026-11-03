@@ -1696,4 +1696,4 @@ const guides116=[
   }
 ];
 const bindings116={"dt-denuncia": ["373725", "3248385"], "dt-suspensao": ["3228235"]};
-export const visualGuides=[...guides104.map(g=>bindings116[g.id]?{...g,confirmed:[...g.confirmed,...bindings116[g.id]]}:g),...guides116];
+export const visualGuides=[...guides104.map(g=>bindings116[g.id]?{...g,confirmed:[...g.confirmed,...bindings116[g.id]],evidence:'Núcleo conferido; observar ressalvas e contexto temporal nas questões'}:g),...guides116];
