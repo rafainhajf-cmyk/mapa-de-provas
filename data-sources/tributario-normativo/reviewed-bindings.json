@@ -316,6 +316,1228 @@
           "page": 30
         }
       ]
+    },
+    {
+      "questionId": "734450",
+      "answer": "C",
+      "guideId": "guia-pedagio",
+      "decisiveRule": "Pedágio de rodovia concedida remunera uso efetivo como preço público; não é taxa.",
+      "legalBasis": "STF, ADI 800, julgamento de 11/06/2014; CF, art. 150, V",
+      "excludedMentions": "Não contabilizar como incidência autônoma as espécies e hipóteses presentes somente nos distratores.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Enunciado, todas as alternativas e gabarito lidos no PDF 3.pdf, página 2; confronto com fonte oficial indicada. Resolução da planilha preservada.",
+      "temporalStatus": "A jurisprudência citada antecede a prova de 2018. Não confundir com o antigo selo-pedágio nem exigir via alternativa gratuita.",
+      "officialUrl": "https://www.stf.jus.br/arquivo/informativo/documento/informativo750.htm",
+      "dtReferences": [],
+      "examYear": 2018,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 2
+      }
+    },
+    {
+      "questionId": "3112998",
+      "answer": "D",
+      "guideId": "guia-natureza",
+      "decisiveRule": "No recorte literal do art. 4º do CTN, a natureza específica decorre do fato gerador, não do nome, sujeito passivo, destinação ou lançamento.",
+      "legalBasis": "CTN, art. 4º",
+      "excludedMentions": "Não contabilizar como incidência autônoma as espécies e hipóteses presentes somente nos distratores.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Enunciado, todas as alternativas e gabarito lidos no PDF 3.pdf, página 3; confronto com fonte oficial indicada. Resolução da planilha preservada.",
+      "temporalStatus": "Prova de 2024. Ressalvar a finalidade constitucional das contribuições e empréstimos; isso não altera o gabarito literal pedido.",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [],
+      "examYear": 2024,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 3
+      },
+      "displayAlternatives": "a) com base na identificação do sujeito passivo da obrigação tributária.\nb) pela sua denominação\nc) pela destinação legal do produto da sua arrecadação.\nd) pelo fato gerador da respectiva obrigação.\ne) pela forma de seu lançamento."
+    },
+    {
+      "questionId": "3233108",
+      "answer": "D",
+      "guideId": "guia-natureza",
+      "decisiveRule": "Somente III: cobrança plenamente vinculada, sem alternativa discricionária; a expressão dentre outras formas contraria o recorte literal do art. 4º.",
+      "legalBasis": "CTN, arts. 3º e 4º",
+      "excludedMentions": "Não contabilizar como incidência autônoma as espécies e hipóteses presentes somente nos distratores.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Enunciado, todas as alternativas e gabarito lidos no PDF 3.pdf, página 3; confronto com fonte oficial indicada. Resolução da planilha preservada.",
+      "temporalStatus": "Prova de 2024. A interpretação do item II acompanha o recorte do CTN e o gabarito D impresso, sem generalizar para toda classificação constitucional.",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [],
+      "examYear": 2024,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 3
+      }
+    },
+    {
+      "questionId": "719764",
+      "answer": "E",
+      "guideId": "dt-taxas",
+      "decisiveRule": "Transmissão gratuita não configura poder de polícia nem serviço específico e divisível; chamar de taxa não modifica a hipótese de imposto.",
+      "legalBasis": "CTN, arts. 4º e 77; CF, art. 145, II e §2º",
+      "excludedMentions": "Não contabilizar como incidência autônoma as espécies e hipóteses presentes somente nos distratores.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Enunciado, todas as alternativas e gabarito lidos no PDF 3.pdf, página 3; confronto com fonte oficial indicada. Resolução da planilha preservada.",
+      "temporalStatus": "Prova de 2018. O núcleo não depende das mudanças posteriores na disciplina do ITCMD; não certificar por este vínculo toda a legislação desse imposto.",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [],
+      "examYear": 2018,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 3
+      }
+    },
+    {
+      "questionId": "719267",
+      "answer": "C",
+      "guideId": "guia-natureza",
+      "decisiveRule": "A natureza específica, na literalidade do CTN, decorre do fato gerador; nome e destinação são irrelevantes.",
+      "legalBasis": "CTN, art. 4º",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "Critério literal do CTN aplicável à prova de 2018; preservar a ressalva constitucional para espécies finalísticas.",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "01.2",
+          "title": "Natureza Jurídica",
+          "page": 2
+        }
+      ],
+      "examYear": 2018,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 4
+      }
+    },
+    {
+      "questionId": "3113702",
+      "answer": "D",
+      "guideId": "dt-taxas",
+      "decisiveRule": "Nenhuma das três taxas é válida: os fatos de ITCMD, ITR e IPTU não são polícia ou serviço específico e divisível.",
+      "legalBasis": "CTN, arts. 4º, 77 e 80; CF, art. 145, II",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "O fato narrado é de 2023 e a prova é de 2024. Convênio de fiscalização do ITR não transfere competência para criar a exação.",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "01.2",
+          "title": "Natureza Jurídica",
+          "page": 2
+        },
+        {
+          "volume": 1,
+          "section": "03.1",
+          "title": "Poder de Polícia × Serviço Público",
+          "page": 7
+        }
+      ],
+      "examYear": 2024,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 4
+      }
+    },
+    {
+      "questionId": "3116093",
+      "answer": "D",
+      "guideId": "dt-melhoria",
+      "decisiveRule": "Valorizações somam R$ 3.150.000; 90% produzem R$ 2.835.000, abaixo do custo de R$ 3.000.000 e dos limites individuais. Prazo de impugnação: mínimo de 30 dias.",
+      "legalBasis": "CTN, arts. 81 e 82",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "90% é uma possibilidade admitida, não percentual obrigatório nem teto legal universal.",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "04.1",
+          "title": "Obra Pública e Valorização Imobiliária",
+          "page": 12
+        },
+        {
+          "volume": 1,
+          "section": "04.2",
+          "title": "Os Requisitos Mínimos da Lei da Contribuição de Melhoria",
+          "page": 14
+        }
+      ],
+      "examYear": 2024,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 4
+      }
+    },
+    {
+      "questionId": "719753",
+      "answer": "B",
+      "guideId": "dt-melhoria",
+      "decisiveRule": "Obra pública com valorização imobiliária autoriza contribuição de melhoria, no âmbito das atribuições de qualquer dos entes.",
+      "legalBasis": "CTN, art. 81; CF, art. 145, III",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "Não usar competência exclusiva da União ou dos Municípios; os dois limites continuam cumulativos.",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "04.1",
+          "title": "Obra Pública e Valorização Imobiliária",
+          "page": 12
+        }
+      ],
+      "examYear": 2018,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 5
+      }
+    },
+    {
+      "questionId": "693074",
+      "answer": "B",
+      "guideId": "dt-melhoria",
+      "decisiveRule": "Escola e parque constituem obras públicas que, no enunciado, valorizam imóveis circunvizinhos; benefício social, acervo mobiliário ou depreciação não bastam.",
+      "legalBasis": "CTN, art. 81",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "O vínculo confirma o pressuposto da contribuição, sem dispensar os demais requisitos de instituição e lançamento.",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "04.1",
+          "title": "Obra Pública e Valorização Imobiliária",
+          "page": 12
+        }
+      ],
+      "examYear": 2018,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 5
+      }
+    },
+    {
+      "questionId": "2163520",
+      "answer": "D",
+      "guideId": "lote-emprestimo",
+      "decisiveRule": "Empréstimo por despesas extraordinárias de calamidade: União, lei complementar, dispensa de anualidade e noventena.",
+      "legalBasis": "CF, arts. 148, I, e 150, §1º",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "A opção D pressupõe lei complementar válida. Publicação no Diário Oficial, isoladamente, não autoriza instituição por ato administrativo.",
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!tit6_cap1",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "05.1",
+          "title": "Competência, Veículo e Vinculação",
+          "page": 15
+        },
+        {
+          "volume": 1,
+          "section": "05.2",
+          "title": "AAnterioridade dos Dois Incisos",
+          "page": 17
+        }
+      ],
+      "examYear": 2022,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 5
+      }
+    },
+    {
+      "questionId": "1994901",
+      "answer": "D",
+      "guideId": "lote-contribuicoes",
+      "decisiveRule": "Déficit atuarial permite, no art. 149, §1º-A, contribuição ordinária de inativos sobre parcela superior ao salário mínimo.",
+      "legalBasis": "CF, art. 149, §§1º e 1º-A; EC 103/2019, art. 36",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "Para aplicação concreta nos entes subnacionais, verificar referendo legal e vigência da EC 103/2019; não apresentar a redução do piso como automática.",
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!tit6_cap1",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "06.2",
+          "title": "O Regime Próprio de Previdência",
+          "page": 19
+        }
+      ],
+      "examYear": 2022,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 5
+      }
+    },
+    {
+      "questionId": "2163749",
+      "answer": "C",
+      "guideId": "lote-iluminacao",
+      "decisiveRule": "COSIP observa exercício seguinte e noventena; lei de 29/12/2021 ainda precisa aguardar os 90 dias após a publicação.",
+      "legalBasis": "CF, arts. 149-A e 150, I e III, na redação vigente em 2021/2022",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "Aplicar a redação histórica. EC 132/2023 ampliou posteriormente finalidades; CTN art. 82-A foi incluído pela LC 227/2026. Nenhum desses acréscimos modifica o marco temporal da questão.",
+      "officialUrl": "https://www2.camara.leg.br/legin/fed/emecon/2002/emendaconstitucional-39-19-dezembro-2002-473574-publicacaooriginal-1-pl.html",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "07.1",
+          "title": "A COSIP dos Municípios e do Distrito Federal",
+          "page": 24
+        },
+        {
+          "volume": 1,
+          "section": "07.2",
+          "title": "As Travas do Caput",
+          "page": 25
+        },
+        {
+          "volume": 2,
+          "section": "04.4",
+          "title": "Anterioridade Nonagesimal — Noventena",
+          "page": 14
+        }
+      ],
+      "examYear": 2022,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 6
+      }
+    },
+    {
+      "questionId": "719260",
+      "answer": "C",
+      "guideId": "lote-contribuicoes",
+      "decisiveRule": "COSIP é municipal/distrital; CIDE é federal. Receitas de exportação e importação recebem tratamentos constitucionais distintos.",
+      "legalBasis": "CF, art. 149, caput e §2º, I e II; art. 149-A",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "A opção C afirma corretamente a competência municipal, sem excluir o DF. Resolver a finalidade da COSIP pela redação de 2018, anterior à EC 132/2023.",
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!tit6_cap1",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "06.1",
+          "title": "As Contribuições Exclusivas da União",
+          "page": 18
+        },
+        {
+          "volume": 1,
+          "section": "06.3",
+          "title": "Exportação, Importação e as Bases",
+          "page": 21
+        },
+        {
+          "volume": 1,
+          "section": "07.1",
+          "title": "A COSIP dos Municípios e do Distrito Federal",
+          "page": 24
+        }
+      ],
+      "examYear": 2018,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 6
+      }
+    },
+    {
+      "questionId": "2235838",
+      "answer": "B",
+      "guideId": "dt-taxas",
+      "decisiveRule": "Serviço de rede de esgoto instalado é enquadrável em taxa de serviço no recorte do CTN; fiscalização sanitária é poder de polícia.",
+      "legalBasis": "CTN, arts. 77–79",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "Não concluir que todo saneamento tem remuneração necessariamente tributária: a questão não afasta regimes legais de tarifa.",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "03.1",
+          "title": "Poder de Polícia × Serviço Público",
+          "page": 7
+        }
+      ],
+      "examYear": 2022,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 6
+      }
+    },
+    {
+      "questionId": "3670614",
+      "answer": "B",
+      "guideId": "lote-bombeiros",
+      "decisiveRule": "O Tema 1282 reconhece a constitucionalidade das taxas estaduais de prevenção/combate a incêndios, busca, salvamento ou resgate por corpos de bombeiros militares.",
+      "legalBasis": "STF, RE 1.417.155, Tema 1282; SV 12, 29 e 41; ADI 800",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "Mérito julgado em 26/03/2025; acórdão publicado em 29/05/2025; trânsito em 03/09/2025. PDF informa somente o ano da prova: verificar a data da aplicação antes de certificar o corte jurisprudencial.",
+      "officialUrl": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=6543739&numeroProcesso=1417155&numeroTema=1282",
+      "dtReferences": [],
+      "examYear": 2025,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "file": "4.pdf",
+        "page": 5,
+        "endPage": 6
+      },
+      "reviewStatus": "with-caveat",
+      "additionalOfficialSources": [
+        {
+          "title": "SV 12 — matrícula em universidade pública",
+          "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1223"
+        },
+        {
+          "title": "SV 29 — elementos comuns de base de cálculo",
+          "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1282"
+        },
+        {
+          "title": "SV 41 — iluminação não se remunera por taxa",
+          "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=2218"
+        }
+      ]
+    },
+    {
+      "questionId": "3670600",
+      "answer": "B",
+      "guideId": "lote-principios",
+      "decisiveRule": "O art. 145, §4º, determina que alterações da legislação busquem atenuar efeitos regressivos; neutralidade não substitui transparência no §3º.",
+      "legalBasis": "CF, art. 145, §§1º–4º; EC 132/2023",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "Redação de dezembro de 2023 já existente na prova de 2025. Não converter a diretriz em proibição abstrata de qualquer regressividade.",
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!tit6_cap1",
+      "dtReferences": [
+        {
+          "volume": 2,
+          "section": "01.2",
+          "title": "Princípios do Sistema Tributário Nacional",
+          "page": 2
+        },
+        {
+          "volume": 2,
+          "section": "01.3",
+          "title": "Atenuação dos Efeitos Regressivos",
+          "page": 3
+        }
+      ],
+      "examYear": 2025,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 6
+      }
+    },
+    {
+      "questionId": "3127643",
+      "answer": "C",
+      "guideId": "lote-principios",
+      "decisiveRule": "Defesa do meio ambiente integra a lista de cinco princípios do art. 145, §3º; neutralidade tem previsão específica na disciplina do IBS.",
+      "legalBasis": "CF, art. 145, §3º; EC 132/2023",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "A alternativa E, busca do pleno emprego, continua na página 7 do PDF e foi lida antes da conclusão.",
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!tit6_cap1",
+      "dtReferences": [
+        {
+          "volume": 2,
+          "section": "01.2",
+          "title": "Princípios do Sistema Tributário Nacional",
+          "page": 2
+        }
+      ],
+      "examYear": 2024,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 6,
+        "endPage": 7
+      }
+    },
+    {
+      "questionId": "3113706",
+      "answer": "A",
+      "guideId": "dt-anterioridades",
+      "decisiveRule": "Em 01/01/2024, somente a majoração da base do IPTU está dispensada da noventena; a anualidade já foi cumprida.",
+      "legalBasis": "CF, art. 150, III e §1º; CTN, art. 97, §§1º e 2º",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "A exceção alcança a base do IPTU, não sua alíquota. Distinguir aumento real de mera atualização monetária.",
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!tit6_cap1",
+      "dtReferences": [
+        {
+          "volume": 2,
+          "section": "05.1",
+          "title": "Exceções à Anterioridade Anual e à Noventena",
+          "page": 16
+        },
+        {
+          "volume": 2,
+          "section": "05.2",
+          "title": "Aplicação das Anterioridades por Tributo",
+          "page": 17
+        }
+      ],
+      "examYear": 2024,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 7
+      }
+    },
+    {
+      "questionId": "3407116",
+      "answer": "D",
+      "guideId": "lote-isonomia",
+      "decisiveRule": "Em situações equivalentes, não cabe discriminar por ocupação ou função, independentemente do nome dos rendimentos, títulos ou direitos.",
+      "legalBasis": "CF, art. 150, II",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "A igualdade não impede diferenciação fundada em critério constitucionalmente legítimo para situações efetivamente distintas.",
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!tit6_cap1",
+      "dtReferences": [
+        {
+          "volume": 2,
+          "section": "03.1",
+          "title": "Isonomia entre Contribuintes em Situação Equivalente",
+          "page": 8
+        }
+      ],
+      "examYear": 2024,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 7
+      }
+    },
+    {
+      "questionId": "3079697",
+      "answer": "B",
+      "guideId": "lote-principios",
+      "decisiveRule": "A lista é simplicidade, transparência, justiça tributária, cooperação e defesa do meio ambiente.",
+      "legalBasis": "CF, art. 145, §3º; EC 132/2023",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "Não substituir termos da lista específica por outros princípios verdadeiros em dispositivos diferentes.",
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!tit6_cap1",
+      "dtReferences": [
+        {
+          "volume": 2,
+          "section": "01.2",
+          "title": "Princípios do Sistema Tributário Nacional",
+          "page": 2
+        }
+      ],
+      "examYear": 2024,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 7
+      }
+    },
+    {
+      "questionId": "3113014",
+      "answer": "A",
+      "guideId": "dt-reserva",
+      "decisiveRule": "Redução autônoma de penalidades por decreto viola reserva de lei, mesmo sendo favorável ao infrator.",
+      "legalBasis": "CTN, arts. 97, VI, 99 e 106, II, c",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "A retroatividade benigna da lei não sana falta do instrumento legislativo. O PDF tem quatro alternativas; não inventar uma quinta.",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [],
+      "examYear": 2024,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 7
+      }
+    },
+    {
+      "questionId": "2021330",
+      "answer": "B",
+      "guideId": "dt-anterioridades",
+      "decisiveRule": "Base do IPVA e alíquota do imposto de importação estão nas dispensas da noventena; IPI exige noventena e IR exige anualidade.",
+      "legalBasis": "CF, art. 150, §1º",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "A base do IPTU também é exceção, mas sua alíquota não. O ITR não recebe essa dispensa.",
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!tit6_cap1",
+      "dtReferences": [
+        {
+          "volume": 2,
+          "section": "05.1",
+          "title": "Exceções à Anterioridade Anual e à Noventena",
+          "page": 16
+        },
+        {
+          "volume": 2,
+          "section": "05.2",
+          "title": "Aplicação das Anterioridades por Tributo",
+          "page": 17
+        }
+      ],
+      "examYear": 2022,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 8
+      }
+    },
+    {
+      "questionId": "2235806",
+      "answer": "C",
+      "guideId": "dt-anterioridades",
+      "decisiveRule": "Majoração da alíquota ordinária do ICMS exige anualidade e noventena, ambas contadas da publicação. No caso concreto, a anualidade determina 01/01/2023.",
+      "legalBasis": "CF, art. 150, III, b e c",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "RESSALVA: como os 90 dias de 28/09/2022 se completam antes de janeiro, a data da alternativa B também coincide com o resultado. C é o gabarito impresso e a formulação cumulativa; a sobreposição não deve ser escondida.",
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!tit6_cap1",
+      "dtReferences": [
+        {
+          "volume": 2,
+          "section": "04.4",
+          "title": "Anterioridade Nonagesimal — Noventena",
+          "page": 14
+        }
+      ],
+      "examYear": 2022,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 8
+      },
+      "reviewStatus": "with-caveat"
+    },
+    {
+      "questionId": "2168617",
+      "answer": "B",
+      "guideId": "dt-anterioridades",
+      "decisiveRule": "Majoração de IR publicada em novembro de 2020 observa anualidade e dispensa noventena: aplicação a partir de 01/01/2021 no caso narrado.",
+      "legalBasis": "CF, art. 150, III, b e §1º",
+      "excludedMentions": "Incidência vinculada ao núcleo decisivo; espécies e temas presentes só nos distratores não são contados separadamente.",
+      "reviewedAt": "2026-11-03",
+      "scope": "Leitura do enunciado, de todas as alternativas e do gabarito no PDF de origem; confronto com fonte oficial e, quando indicado, seção DT consultada. Resolução original preservada.",
+      "temporalStatus": "O corte é do fato gerador e da regra material, não a data administrativa de entrega da declaração nem uma espera de um ano completo.",
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!tit6_cap1",
+      "dtReferences": [
+        {
+          "volume": 2,
+          "section": "05.2",
+          "title": "Aplicação das Anterioridades por Tributo",
+          "page": 17
+        }
+      ],
+      "examYear": 2022,
+      "sourceEvidence": {
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "file": "3.pdf",
+        "page": 8
+      }
+    },
+    {
+      "questionId": "3851055",
+      "answer": "D",
+      "guideId": "lote-conceito",
+      "examYear": 2026,
+      "sourceEvidence": {
+        "file": "Caderno [União] Tributário.pdf",
+        "libraryFileId": "libfile_21321ce126c081918a73baaad4d98425",
+        "page": 5,
+        "endPage": 6
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Somente IV: tributo exige lei e cobrança administrativa plenamente vinculada; não é discricionário, prestação genérica de trabalho/bens ou sanção.",
+      "legalBasis": "CTN, art. 3º",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "01.1",
+          "title": "Elementos do Conceito de Tributo",
+          "page": 1
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "Não confundir o conceito pecuniário com modalidades legais específicas de extinção do crédito, como dação de imóvel."
+    },
+    {
+      "questionId": "3567710",
+      "answer": "B",
+      "guideId": "lote-conceito",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "Caderno [União] Tributário.pdf",
+        "libraryFileId": "libfile_21321ce126c081918a73baaad4d98425",
+        "page": 6
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Reserva legal integra o conceito; a cobrança é administrativa, não legislativa.",
+      "legalBasis": "CTN, art. 3º",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "01.1",
+          "title": "Elementos do Conceito de Tributo",
+          "page": 1
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "Cobrança vinculada e instituição por lei são requisitos distintos e cumulativos."
+    },
+    {
+      "questionId": "2395573",
+      "answer": "D",
+      "guideId": "lote-conceito",
+      "examYear": 2023,
+      "sourceEvidence": {
+        "file": "Caderno [União] Tributário.pdf",
+        "libraryFileId": "libfile_21321ce126c081918a73baaad4d98425",
+        "page": 6
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Decreto não pode instituir o tributo narrado; falta lei, apesar de corretas as outras características descritas.",
+      "legalBasis": "CTN, arts. 3º e 97, I",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "01.1",
+          "title": "Elementos do Conceito de Tributo",
+          "page": 1
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "Decreto regulamentar de lei preexistente é situação diferente da criação autônoma narrada."
+    },
+    {
+      "questionId": "3822135",
+      "answer": "B",
+      "guideId": "guia-especies",
+      "examYear": 2026,
+      "sourceEvidence": {
+        "file": "Caderno [União] Tributário.pdf",
+        "libraryFileId": "libfile_21321ce126c081918a73baaad4d98425",
+        "page": 6
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Imposto é espécie tributária cujo fato gerador independe de atuação estatal específica relativa ao contribuinte.",
+      "legalBasis": "CTN, arts. 3º, 5º e 16",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "02.1",
+          "title": "Fato Gerador dos Impostos",
+          "page": 4
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "Tarifa e multa não se tornam espécies tributárias por constituírem receitas públicas."
+    },
+    {
+      "questionId": "2740888",
+      "answer": "B",
+      "guideId": "guia-natureza",
+      "examYear": 2023,
+      "sourceEvidence": {
+        "file": "Caderno [União] Tributário.pdf",
+        "libraryFileId": "libfile_21321ce126c081918a73baaad4d98425",
+        "page": 7
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Irrelevância da denominação impede afastar limitações e competências apenas mudando o nome da exação.",
+      "legalBasis": "CTN, art. 4º, I",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "01.2",
+          "title": "Natureza Jurídica",
+          "page": 2
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "O nome não substitui o exame da hipótese real nem da estrutura constitucional da espécie."
+    },
+    {
+      "questionId": "2395574",
+      "answer": "B",
+      "guideId": "dt-classificacoes",
+      "examYear": 2023,
+      "sourceEvidence": {
+        "file": "Caderno [União] Tributário.pdf",
+        "libraryFileId": "libfile_21321ce126c081918a73baaad4d98425",
+        "page": 7
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "A seletividade do ICMS se orienta pela essencialidade da mercadoria ou serviço; o CTN considera gás natural essencial.",
+      "legalBasis": "CF, art. 155, §2º, III; CTN, art. 18-A",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "O art. 18-A foi incluído pela LC 194/2022, anterior à prova de 2023. A questão não pede uma alíquota concreta."
+    },
+    {
+      "questionId": "3864911",
+      "answer": "E",
+      "guideId": "dt-taxas",
+      "examYear": 2026,
+      "sourceEvidence": {
+        "file": "Caderno [União] Tributário.pdf",
+        "libraryFileId": "libfile_21321ce126c081918a73baaad4d98425",
+        "page": 7
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Financiamento genérico da saúde não é serviço específico e divisível individualizado; faturamento proporcional não mede a atuação estatal descrita.",
+      "legalBasis": "CTN, arts. 77–79; CF, art. 145, II",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "03.1",
+          "title": "Poder de Polícia × Serviço Público",
+          "page": 7
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "Não generalizar para proibição de todo uso do porte empresarial em qualquer taxa: o vício depende da atividade e da quantificação descritas."
+    },
+    {
+      "questionId": "3845832",
+      "answer": "C",
+      "guideId": "dt-taxas",
+      "examYear": 2026,
+      "sourceEvidence": {
+        "file": "Caderno [União] Tributário.pdf",
+        "libraryFileId": "libfile_21321ce126c081918a73baaad4d98425",
+        "page": 7
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "I, II e III estão corretos: atribuições do ente, elementos comuns sem identidade integral e exercício regular de polícia.",
+      "legalBasis": "CTN, arts. 77, 78 e 80; STF, SV 29",
+      "officialUrl": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1282",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "03.1",
+          "title": "Poder de Polícia × Serviço Público",
+          "page": 7
+        },
+        {
+          "volume": 1,
+          "section": "03.2",
+          "title": "Base de Cálculo das Taxas",
+          "page": 10
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "Atuação administrativa de polícia eventualmente discricionária não torna discricionária a cobrança tributária."
+    },
+    {
+      "questionId": "3764379",
+      "answer": "B",
+      "guideId": "dt-taxas",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "Caderno [União] Tributário.pdf",
+        "libraryFileId": "libfile_21321ce126c081918a73baaad4d98425",
+        "page": 8
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Taxa é vinculada a atividade estatal específica e tem competência comum, limitada às atribuições de cada ente.",
+      "legalBasis": "CTN, arts. 77 e 80; CF, art. 145, II",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "03.1",
+          "title": "Poder de Polícia × Serviço Público",
+          "page": 7
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "Não decorre da espécie uma modalidade universal de lançamento por declaração. Mensalidade privada chamada taxa não é automaticamente tributo."
+    },
+    {
+      "questionId": "3368168",
+      "answer": "C",
+      "guideId": "lote-bases-taxas",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "Caderno [União] Tributário.pdf",
+        "libraryFileId": "libfile_21321ce126c081918a73baaad4d98425",
+        "page": 8
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "O valor venal integral do imóvel não pode ser adotado como base da taxa descrita, à semelhança integral da base do IPTU.",
+      "legalBasis": "CF, art. 145, §2º; CTN, art. 77, parágrafo único; STF, SV 29",
+      "officialUrl": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1282",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "03.2",
+          "title": "Base de Cálculo das Taxas",
+          "page": 10
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "Esse vício basta para a resposta C; o vínculo não certifica a constitucionalidade de cobrança pela educação infantil pública."
+    },
+    {
+      "questionId": "3846930",
+      "answer": "A",
+      "guideId": "dt-melhoria",
+      "examYear": 2026,
+      "sourceEvidence": {
+        "file": "Caderno [União] Tributário.pdf",
+        "libraryFileId": "libfile_21321ce126c081918a73baaad4d98425",
+        "page": 8
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Quem valorizou R$ 7.000 paga no máximo R$ 7.000. Imóveis depreciados ou sem valorização não devem contribuição.",
+      "legalBasis": "CTN, art. 81",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "04.1",
+          "title": "Obra Pública e Valorização Imobiliária",
+          "page": 12
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "Valorização positiva global: R$ 44.000, inferior ao custo de R$ 100.000; não repartir o custo igualmente entre os dez imóveis."
+    },
+    {
+      "questionId": "3851049",
+      "answer": "C",
+      "guideId": "dt-melhoria",
+      "examYear": 2026,
+      "sourceEvidence": {
+        "file": "Caderno [União] Tributário.pdf",
+        "libraryFileId": "libfile_21321ce126c081918a73baaad4d98425",
+        "page": 8,
+        "endPage": 9
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "João tem teto individual de R$ 25.000; valorizações totais de R$ 535.000 não autorizam superar o custo de R$ 500.000.",
+      "legalBasis": "CTN, arts. 81 e 82",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "04.1",
+          "title": "Obra Pública e Valorização Imobiliária",
+          "page": 12
+        },
+        {
+          "volume": 1,
+          "section": "04.2",
+          "title": "Os Requisitos Mínimos da Lei da Contribuição de Melhoria",
+          "page": 14
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "Teto individual não é valor necessariamente devido: o rateio pode ser inferior. A alternativa E e o gabarito continuam na página 9."
+    },
+    {
+      "questionId": "3846938",
+      "answer": "E",
+      "guideId": "lote-emprestimo",
+      "examYear": 2026,
+      "sourceEvidence": {
+        "file": "Caderno [União] Tributário.pdf",
+        "libraryFileId": "libfile_21321ce126c081918a73baaad4d98425",
+        "page": 9
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Somente III: União por lei complementar, para despesas extraordinárias de guerra externa, sem anualidade ou noventena; iminência também é hipótese válida.",
+      "legalBasis": "CF, arts. 148, I, e 150, §1º",
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!tit6_cap1",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "05.1",
+          "title": "Competência, Veículo e Vinculação",
+          "page": 15
+        },
+        {
+          "volume": 1,
+          "section": "05.2",
+          "title": "AAnterioridade dos Dois Incisos",
+          "page": 17
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "Não exigir guerra já iniciada nem transportar o regime de investimento urgente para guerra/calamidade."
+    },
+    {
+      "questionId": "684685",
+      "answer": "C",
+      "guideId": "dt-taxas",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 2,
+        "endPage": 3
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Exercício regular de polícia pelo DF, nas próprias atribuições, configura taxa; os distratores invertem espécie, fato gerador e competência.",
+      "legalBasis": "CTN, arts. 16 e 77; CF, art. 145, II",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "03.1",
+          "title": "Poder de Polícia × Serviço Público",
+          "page": 7
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "O DF tem competência, mas não exclusividade para instituir taxas."
+    },
+    {
+      "questionId": "638588",
+      "answer": "E",
+      "guideId": "guia-especies",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 3
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Contribuição de melhoria é espécie do gênero tributo; imposto, taxa e contribuição de melhoria não são espécies umas das outras.",
+      "legalBasis": "CTN, art. 5º",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "01.3",
+          "title": "Espécies de Tributos: as Duas Listas",
+          "page": 3
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "A lista expressa do CTN não elimina as espécies reconhecidas no sistema constitucional completo."
+    },
+    {
+      "questionId": "3441379",
+      "answer": "D",
+      "guideId": "lote-bases-taxas",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 6
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Coleta de resíduos de imóveis pode ser custeada por taxa; metragem comum ao IPTU não implica identidade integral das bases.",
+      "legalBasis": "STF, SV 19 e 29",
+      "officialUrl": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1248",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "03.2",
+          "title": "Base de Cálculo das Taxas",
+          "page": 10
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "Resíduos de imóveis são distintos de limpeza geral de vias e logradouros. A validade exige manter os serviços separáveis."
+    },
+    {
+      "questionId": "3401187",
+      "answer": "C",
+      "guideId": "lote-bases-taxas",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 6
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Na taxa de localização e funcionamento, número de empregados é critério estranho ao custo da polícia no precedente RE 554.951.",
+      "legalBasis": "STF, RE 554.951; SV 29",
+      "officialUrl": "https://www.stf.jus.br/arquivo/informativo/documento/informativo724.htm",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "03.2",
+          "title": "Base de Cálculo das Taxas",
+          "page": 10
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "Precedente de 15/10/2013, anterior à prova. A metragem simultaneamente utilizada não sana o outro critério inválido."
+    },
+    {
+      "questionId": "2324333",
+      "answer": "E",
+      "guideId": "lote-bases-taxas",
+      "examYear": 2022,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 7,
+        "endPage": 8
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Tipo, potência e ano de veículo não guardam correlação com mero serviço de alteração de registro e expedição de certificado.",
+      "legalBasis": "STF, ADI 3.775; CF, art. 145, II",
+      "officialUrl": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=2399979",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "03.2",
+          "title": "Base de Cálculo das Taxas",
+          "page": 10
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "ADI 3.775 julgada em 2020; efeitos modulados a partir de 17/04/2020, antes da prova de 2022. O gabarito está na página 8."
+    },
+    {
+      "questionId": "2163522",
+      "answer": "E",
+      "guideId": "lote-bases-taxas",
+      "examYear": 2022,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 8
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Valor venal integral do imóvel reproduz a base do IPTU e invalida a taxa de coleta narrada.",
+      "legalBasis": "CF, art. 145, §2º; STF, SV 29",
+      "officialUrl": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1282",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "03.2",
+          "title": "Base de Cálculo das Taxas",
+          "page": 10
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "A validade do fato gerador da taxa de lixo não sana uma base integralmente idêntica à de imposto."
+    },
+    {
+      "questionId": "676709",
+      "answer": "A",
+      "guideId": "dt-taxas",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 8
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Taxas decorrem de polícia regular ou serviços públicos específicos e divisíveis, efetivos ou potencialmente utilizados nas condições legais.",
+      "legalBasis": "CTN, arts. 77 e 79; CF, art. 145, II",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "03.1",
+          "title": "Poder de Polícia × Serviço Público",
+          "page": 7
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "Serviço privado, genérico ou indivisível não preenche a definição; SV 19 não cria dispensa dos requisitos gerais."
+    },
+    {
+      "questionId": "279486",
+      "answer": "A",
+      "guideId": "lote-bases-taxas",
+      "examYear": 2015,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 8
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Elementos comuns à base de imposto são admitidos no cálculo da taxa, sem identidade integral e com pertinência à atuação estatal.",
+      "legalBasis": "STF, SV 29; CF, art. 145, §2º",
+      "officialUrl": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1282",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "03.2",
+          "title": "Base de Cálculo das Taxas",
+          "page": 10
+        }
+      ],
+      "excludedMentions": "Apenas o núcleo decisivo é vinculado ao esquema; não somar como incidência autônoma as matérias dos distratores.",
+      "scope": "Enunciado, alternativas completas e gabarito lidos no PDF, inclusive a página de continuação quando necessária; resolução da planilha confrontada com a fonte oficial indicada.",
+      "temporalStatus": "Não aplicar às taxas a disciplina especial de noventena das contribuições de seguridade social."
     }
   ]
 }

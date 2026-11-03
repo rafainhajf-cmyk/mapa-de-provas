@@ -34,3 +34,31 @@ Foram adicionados 31 esquemas próprios (35 no total), incluindo quadros reais, 
 Conferências pontuais registradas em reviewed-bindings.json: 15 questões, incluindo as duas anteriores. Os 13 acréscimos tiveram enunciado, alternativas, gabarito e resolução examinados. Cada registro contém núcleo decisivo, fundamento, exclusão de menções não decisivas e limitação temporal. A data/edital nem sempre estão disponíveis; portanto não constituem auditoria histórica integral. Restam 488 questões sem essa conferência individual registrada. O texto da planilha e os 301 pontos continuam integrais.
 
 Build e 30 testes automatizados passaram após o cruzamento, incluindo integridade dos 503 IDs, distinção candidato/conferido, manutenção dos 301 pontos, armazenamento e dependência offline do novo módulo de esquemas. Não foram certificados dispositivos físicos nem a navegação realmente desconectada. A verificação visual pós-deploy deve registrar as visões novas, fontes DT e persistência.
+
+
+## Retomada de 03/11/2026 — lote inicial
+
+Backup local `backup/normativo-retomada-d4169cb`, anterior a esta alteração. PDF `3.pdf` recuperado e páginas 2–3 lidas integralmente, com identificação dos anos das provas. Acrescentadas quatro conferências: 734450 (C, 2018), 3112998 (D, 2024), 3233108 (D, 2024), 719764 (E, 2018). Fontes oficiais: Informativo STF 750 (ADI 800, julgamento em 2014), CTN na publicação oficial do Senado. O acesso direto ao Planalto foi bloqueado; não foi tratado como consulta bem-sucedida.
+
+A separação de b/c da 3112998 foi corrigida apenas na projeção de exibição, a partir do PDF; o snapshot e `raw` permanecem íntegros. Dois quadros adicionais sobre natureza do tributo e pedágio; vínculo de 719764 no quadro de taxas. Total: 19 conferências individuais, 37 esquemas e 484 questões ainda pendentes. Não confundir esta contagem com auditoria integral da legislação histórica ou dos PDFs restantes. Nenhum banco de dados ou informação pessoal alterado.
+
+## Continuação — 41 novas conferências, total de 60
+
+Estado preparado localmente em 03/11/2026: 60 IDs com conferência individual, 443 pendentes, 45 esquemas. As 41 novas conferências estão discriminadas em `reviewed-bindings.json`, com arquivo, páginas (inclusive continuações), ano, núcleo decisivo, fonte oficial, ressalvas e seções DT efetivamente consultadas. Os volumes DT01 e DT02 foram relidos pelo Drive; suas transcrições e dados de licenciamento não foram adicionados ao repositório.
+
+Páginas consultadas nesta continuação: `3.pdf`, 4–8; `4.pdf`, 5–8; `Caderno [União] Tributário.pdf`, 5–9. As páginas 2–3 de `3.pdf`, já lidas na retomada anterior, também embasam os novos registros 684685 e 638588. Não foram criadas alternativas inexistentes: 3113014 tem quatro alternativas no PDF. O snapshot comprimido e todos os campos `raw` foram preservados.
+
+Acrescentados oito esquemas: conceito de tributo; empréstimo compulsório; competências das contribuições; COSIP e mudanças temporais; Tema 1282 dos bombeiros; princípios da EC132; isonomia; controle da base das taxas. Os quadros existentes de taxas, natureza, espécies, melhoria e anterioridades receberam vínculos adicionais. O exemplo numérico da melhoria distingue teto global e individual sem tratar 90% como percentual universal.
+
+Ressalvas relevantes:
+- 2235806: C permanece como gabarito do PDF; B resulta na mesma data concreta de exigibilidade. Sobreposição registrada, sem certificação de univocidade.
+- 3670614: mérito do Tema 1282 em 26/03/2025, publicação em 29/05/2025 e trânsito em 03/09/2025; ainda falta identificar a data exata da aplicação da prova.
+- COSIP: separar a redação de 2021/2022 da EC132/2023 e do CTN art. 82-A incluído pela LC227/2026.
+- 1994901: aplicação subnacional da EC103/2019 exige observar o regime de vigência e referendo legal; déficit atuarial não produz cobrança automática.
+- 2324333: ADI3775 e modulação com efeitos a partir de 17/04/2020, anterior à prova de 2022.
+
+Não promovidos a conferência concluída: 3764354 (classificação doutrinária e redação absoluta sobre repercussão), 2740889 (progressividade estrutural) e 2231509 (teoria do sacrifício e redação do gabarito). Os textos e gabaritos dessas questões continuam preservados e pendentes, até confronto adequado com fonte doutrinária. Não presumir que foram omitidos do inventário. Outros itens jurisprudenciais ainda pendentes incluem 3610437 e 3419867; não inferir confirmação por proximidade com os quadros de taxas.
+
+Validação final desta etapa: build concluído; 33 testes aprovados, incluindo todos os 503 IDs únicos, 301 pontos integrais, correspondência entre os 60 registros e esquemas, quatro alternativas na 3113014, ausência de duplicação dos registros e preservação das ressalvas. A interface preparada exibe contagem real de conferidos/pendentes, ano da prova e fonte/páginas da conferência. O navegador de QA não alcançou o servidor local (`ERR_CONNECTION_REFUSED`); nenhuma auditoria visual desta versão é afirmada.
+
+Publicação permanece pendente. A tentativa anterior de enviar ao GitHub foi rejeitada pela revisão automática por ausência de autorização suficientemente explícita para envio à branch `main` e publicação externa. Nenhuma alternativa de envio/deploy foi usada para contornar a rejeição. O site em produção ainda deve ser tratado como a revisão anterior `d4169cb` até confirmação de publicação autorizada. Backup local anterior a esta continuação: `backup/normativo-antes-lote-20-1270103`.
