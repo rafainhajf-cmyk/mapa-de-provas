@@ -30,6 +30,7 @@ export async function compileNormativo(){
   const question=byId.get(review.questionId);
   if(!question||question.answer!==review.answer)throw Error('Conferência incompatível: '+review.questionId);
   if(review.displayAlternatives){question.alternatives=review.displayAlternatives;question.temporal=String(question.temporal||'').replace(' | Conferir extração das alternativas com o PDF.','');}
+  if(review.displayResolution)question.resolution=review.displayResolution;
   if(review.examYear)question.examYear=review.examYear;
  }
  const data={reviewedBindings,dtCrosswalk,version:2,source:'1cxiYcMQns2qEQwybuPeOcfXuAKzBLoHgOXw5vG3DD5M',thresholds:{veryHigh:8,high:4,medium:2},topics,questions,nuclei:[...nuclei.values()],legacyPoints:legacy,sourceTabs:sources.map(s=>({title:s.title,sheetId:s.sheetId,rows:s.values.length})),audit:{status:'parcial',note:'Vínculos documentais não equivalem a cobrança direta. Frequências provisórias; menções em distratores não são somadas como incidência comprovada. A legislação da data da prova deve ser confrontada com alterações posteriores, inclusive LC 236/2026.',original:328,complementary:175,legacy:301}};

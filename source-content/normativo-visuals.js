@@ -511,4 +511,726 @@ const conceptGuides=[
  ]}
 ].map(g=>({...g,source:g.source||ctn,checkedAt:'2026-11-03',evidence:'Núcleo conferido nos IDs indicados; observar o contexto de cada cobrança'}));
 
-export const visualGuides=[...initialGuides,...dtGuides,...resumedGuides,...continuationGuides,...conceptGuides];
+const audited100Guides=[
+  {
+    "id": "lote-federacao",
+    "title": "Limitações federativas: uniformidade × isenção heterônoma × origem/destino",
+    "topic": "03 Princípios tributários",
+    "law": "CF, arts. 151 e 152",
+    "confirmed": [
+      "2235976",
+      "2235809",
+      "1071936"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Destinatário e conduta são diferentes",
+        "rows": [
+          [
+            "Norma",
+            "Destinatário",
+            "Conduta vedada/ressalva"
+          ],
+          [
+            "Art. 151, I",
+            "União",
+            "Tributo federal não uniforme; admite incentivo de equilíbrio regional"
+          ],
+          [
+            "Art. 151, II",
+            "União",
+            "Tributar renda de obrigações e agentes subnacionais acima do nível federal comparável"
+          ],
+          [
+            "Art. 151, III",
+            "União",
+            "Isenção interna de tributo de outro ente"
+          ],
+          [
+            "Art. 152",
+            "Estados, DF e Municípios",
+            "Discriminar bens e serviços pela procedência ou destino"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "A troca do instrumento não resolve",
+        "text": "Uma lei federal, mesmo complementar, não é autorização genérica para a União isentar ICMS por política interna."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A vedação de isenção interna por ente incompetente deve ser distinguida da atuação da República em tratados internacionais e de exceções escritas na própria Constituição. O art. 151, II, não cria imunidade absoluta de toda a renda de títulos estaduais: exige paridade de níveis."
+          }
+        ]
+      }
+    ],
+    "source": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/constituicao",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; gabaritos e ressalvas nas questões",
+    "dt": [
+      2,
+      "06.5"
+    ]
+  },
+  {
+    "id": "lote-mp",
+    "title": "Medida provisória: impostos × taxas e o marco da conversão",
+    "topic": "03 Princípios tributários",
+    "law": "CF, arts. 62, §2º, e 150, III; STF, Tema 382 e RE416.601",
+    "confirmed": [
+      "1147520",
+      "2022740"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Regimes não intercambiáveis",
+        "rows": [
+          [
+            "Caso",
+            "Regra",
+            "Cuidado"
+          ],
+          [
+            "Impostos abrangidos pelo art.62, §2º",
+            "Efeitos no ano seguinte dependem de conversão até o fim do ano da edição",
+            "Há exceções expressas: II, IE, IPI, IOF e IEG"
+          ],
+          [
+            "Taxa instituída por MP",
+            "Aplicar anualidade e noventena desde a publicação",
+            "Não transportar a regra especial de impostos"
+          ],
+          [
+            "Conversão sem nova majoração material",
+            "Não reiniciar automaticamente a noventena",
+            "Comparar o texto da MP com o da lei"
+          ],
+          [
+            "Matéria reservada a lei complementar",
+            "MP não substitui LC",
+            "Ex.: empréstimo compulsório"
+          ]
+        ]
+      },
+      {
+        "type": "flowchart",
+        "title": "MP de taxa publicada em 31/10/2022",
+        "steps": [
+          {
+            "label": "Publicação",
+            "text": "É o marco da noventena.",
+            "kind": "neutral"
+          },
+          {
+            "label": "Virada para 2023",
+            "text": "Anualidade atendida; ainda conferir os 90 dias.",
+            "kind": "warning"
+          },
+          {
+            "label": "Conversão em 03/01/2023",
+            "text": "Não desloca automaticamente a taxa para 2024.",
+            "kind": "success"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Ressalva na questão 1147520",
+        "text": "O gabarito A precisa ser lido dentro das exceções do §2º, sem generalizar a exigência de conversão anual a todos os impostos."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tema 382: a postergação de novas hipóteses de creditamento de ICMS examinada pelo STF não representou majoração e não se sujeitou à noventena. Isso não autoriza generalizar a tese para qualquer supressão de benefício ou aumento indireto."
+          }
+        ]
+      }
+    ],
+    "source": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/constituicao",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; gabaritos e ressalvas nas questões"
+  },
+  {
+    "id": "lote-confisco",
+    "title": "Não confisco: tributo × multa × sanção sobre bens",
+    "topic": "03 Princípios tributários",
+    "law": "CF, art. 150, IV; CTN, art.3º; STF, ADI551",
+    "confirmed": [
+      "3976058",
+      "719259"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Institutos distintos",
+        "rows": [
+          [
+            "Instituto",
+            "Regra",
+            "Não confundir"
+          ],
+          [
+            "Tributo",
+            "Não pode ter efeito confiscatório",
+            "Finalidade social não afasta a garantia"
+          ],
+          [
+            "Multa tributária",
+            "STF aplica controle de não confisco",
+            "Multa continua sendo sanção; não vira tributo"
+          ],
+          [
+            "Desapropriação ou perda de bens",
+            "Regime constitucional/legal próprio",
+            "Não é autorização para imposto confiscatório"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Questão com ressalva de unicidade",
+        "text": "TEC 719259: PDF traz D. A opção C também proíbe tributo confiscatório e tem fundamento material. O registro consolidado C/D permanece, sem presumir anulação oficial."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A questão 3976058 cobra o alcance da garantia e a distinção entre tributo e multa, sem exigir percentual máximo. Na 719259, a correção de D sobre reserva legal não torna automaticamente falsa a proibição expressa em C. Conferir eventual decisão oficial de recurso antes de atribuir solução única."
+          }
+        ]
+      }
+    ],
+    "source": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/constituicao",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; gabaritos e ressalvas nas questões"
+  },
+  {
+    "id": "lote-imunidades",
+    "title": "Imunidades de entidades: sujeito, finalidade e requisitos",
+    "topic": "04 Imunidades",
+    "law": "CF, art.150, VI, a–c e §§2º–4º; CTN, art.14",
+    "confirmed": [
+      "3113504",
+      "760030",
+      "644493"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Cada extensão tem condições",
+        "rows": [
+          [
+            "Entidade",
+            "Regra",
+            "Limite"
+          ],
+          [
+            "Autarquia/fundação pública",
+            "Extensão da recíproca",
+            "Patrimônio, renda e serviços ligados a finalidades essenciais ou decorrentes"
+          ],
+          [
+            "Partido político, inclusive fundação",
+            "Imunidade da alínea c",
+            "Finalidades essenciais e requisitos legais"
+          ],
+          [
+            "Instituição de educação/assistência sem fins lucrativos",
+            "Imunidade condicionada",
+            "Não é automática por mera relevância social"
+          ],
+          [
+            "Entidade religiosa e templo",
+            "Alínea b e finalidade essencial",
+            "Redação ampliada pela EC132/2023"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "2018 × 2024",
+        "text": "A questão 3113504 já usa a ampliação de 2023. No texto de 2018, a extensão expressa da recíproca à empresa pública postal ainda não constava do §2º."
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Ressalva da questão 644493",
+        "text": "B é o gabarito impresso. O art.151, II, não proíbe toda tributação da renda de títulos estaduais; veda níveis superiores aos federais. A opção C exige esse cuidado de leitura."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Não estender automaticamente a todas as espécies tributárias a imunidade de impostos do art.150, VI. Outras imunidades e as regras de IBS/CBS têm fundamentos próprios. A alínea c inclui fundações partidárias e não se limita a imóveis."
+          }
+        ]
+      }
+    ],
+    "source": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/constituicao",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; gabaritos e ressalvas nas questões",
+    "dt": [
+      2,
+      "08.6"
+    ]
+  },
+  {
+    "id": "lote-musical",
+    "title": "Imunidade musical: requisitos × exceção industrial × atualização",
+    "topic": "04 Imunidades",
+    "law": "CF, art.150, VI, e; EC75/2013; STF, Tema1083",
+    "confirmed": [
+      "1994900"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Teste da alínea e",
+        "rows": [
+          [
+            "Ponto",
+            "O que verificar"
+          ],
+          [
+            "Objeto",
+            "Fonograma ou videofonograma musical"
+          ],
+          [
+            "Produção",
+            "No Brasil"
+          ],
+          [
+            "Vínculo brasileiro",
+            "Autoria brasileira e/ou interpretação por artista brasileiro, conforme o texto"
+          ],
+          [
+            "Suportes",
+            "Materiais ou arquivos digitais que contenham as obras"
+          ],
+          [
+            "Exceção expressa",
+            "Replicação industrial de mídias ópticas de leitura a laser"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não ampliar para toda cultura",
+        "text": "Filmes, espetáculos ou todo produto musical importado não se tornam imunes por essa regra."
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Corte temporal",
+        "text": "A questão é de 2022 e usa a redação da EC75/2013. O Tema1083, firmado em 2024, exclui suportes produzidos fora do Brasil mesmo com obra de artista brasileiro; é atualização posterior."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O requisito de vínculo brasileiro contém e/ou. Não exigir sempre autoria e interpretação brasileiras cumulativamente. A ressalva industrial é específica, não uma exclusão de toda a produção industrial musical."
+          }
+        ]
+      }
+    ],
+    "source": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/constituicao",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; gabaritos e ressalvas nas questões",
+    "dt": [
+      2,
+      "09.7"
+    ]
+  },
+  {
+    "id": "lote-mapa-competencias",
+    "title": "Mapa dos impostos cobrados: União × Estados/DF × Municípios",
+    "topic": "05 Competência",
+    "law": "CF, arts.153, 155 e 156",
+    "confirmed": [
+      "2041802",
+      "984501",
+      "3543937",
+      "943740",
+      "1071942"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Recorte das questões",
+        "rows": [
+          [
+            "Ente",
+            "Impostos no recorte",
+            "Ponto que diferencia"
+          ],
+          [
+            "União",
+            "II, IE, IR, IPI, IOF, ITR, IGF",
+            "IGF depende de instituição nos termos de LC"
+          ],
+          [
+            "Estados e DF",
+            "ICMS, IPVA, ITCMD",
+            "Circulação/aquisição, propriedade e transmissão gratuita são fatos distintos"
+          ],
+          [
+            "Municípios e DF",
+            "IPTU, ITBI, ISS",
+            "Urbano; transmissão onerosa de imóveis; serviços do campo municipal"
+          ]
+        ]
+      },
+      {
+        "type": "flowchart",
+        "title": "Veículo: compra × propriedade",
+        "steps": [
+          {
+            "label": "Operação de aquisição descrita",
+            "text": "Relacionar à circulação/ICMS na questão 3543937.",
+            "kind": "success"
+          },
+          {
+            "label": "Propriedade do veículo",
+            "text": "Relacionar ao IPVA, sem trocar o fato cobrado.",
+            "kind": "warning"
+          },
+          {
+            "label": "Benefício fiscal",
+            "text": "Identificar competência não dispensa o regime próprio de concessão.",
+            "kind": "warning"
+          }
+        ]
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O quadro é o recorte dos impostos das provas indicadas, não um inventário exaustivo da reforma. Na questão 2041802, as colunas I–IV foram separadas para corrigir a leitura da matriz do PDF. Fiscalização/arrecadação municipal do ITR não transfere sua competência legislativa."
+          }
+        ]
+      }
+    ],
+    "source": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/constituicao",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; gabaritos e ressalvas nas questões"
+  },
+  {
+    "id": "lote-transportes",
+    "title": "Transporte intramunicipal × intermunicipal × interestadual",
+    "topic": "05 Competência",
+    "law": "CF, arts.147, 155, II, e 156, III",
+    "confirmed": [
+      "867068",
+      "684696"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "A fronteira geográfica resolve",
+        "rows": [
+          [
+            "Serviço",
+            "Campo tributário nas questões",
+            "Ente"
+          ],
+          [
+            "Transporte dentro do Município",
+            "ISS",
+            "Município/DF"
+          ],
+          [
+            "Transporte entre Municípios",
+            "ICMS",
+            "Estado/DF"
+          ],
+          [
+            "Transporte entre Estados",
+            "ICMS",
+            "Estado/DF"
+          ],
+          [
+            "Comunicação no campo do art.155, II",
+            "ICMS",
+            "Estado/DF"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "DF acumula, mas não mistura",
+        "text": "O DF alcança transporte intra e intermunicipal por impostos diferentes. Isso não põe transporte intramunicipal no ICMS nem intermunicipal no ISS."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "As questões são de 2018/2019. O quadro descreve o sistema aplicado a esses enunciados e não substitui o estudo separado da transição para o IBS."
+          }
+        ]
+      }
+    ],
+    "source": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/constituicao",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; gabaritos e ressalvas nas questões"
+  },
+  {
+    "id": "lote-cumulativa",
+    "title": "Competência cumulativa: Território × DF × Estado fictício sem Municípios",
+    "topic": "05 Competência",
+    "law": "CF, art.147; CTN, art.18",
+    "confirmed": [
+      "3561409"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Quem institui?",
+        "rows": [
+          [
+            "Hipótese",
+            "Competência"
+          ],
+          [
+            "Território Federal",
+            "União exerce impostos estaduais; municipais também se não dividido em Municípios"
+          ],
+          [
+            "Distrito Federal",
+            "Exerce impostos estaduais e municipais"
+          ],
+          [
+            "Estado não dividido em Municípios, na hipótese literal do CTN",
+            "O próprio Estado exerce estaduais e municipais"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Hipótese abstrata",
+        "text": "A questão 3561409 descreve um novo Estado fictício. Não afirmar que existe hoje Estado brasileiro com essa organização."
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não trocar a pessoa federativa",
+        "text": "A competência da União relativa a Território Federal não se transfere automaticamente ao cenário de um novo Estado."
+      }
+    ],
+    "source": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/constituicao",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; gabaritos e ressalvas nas questões",
+    "dt": [
+      3,
+      "02.2"
+    ]
+  },
+  {
+    "id": "lote-residual-guerra",
+    "title": "Imposto residual × imposto extraordinário de guerra",
+    "topic": "05 Competência",
+    "law": "CF, art.154; CTN, art.76",
+    "confirmed": [
+      "877333",
+      "877341"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Dois poderes federais com condições diferentes",
+        "rows": [
+          [
+            "Ponto",
+            "Residual — art.154, I",
+            "Extraordinário de guerra — art.154, II"
+          ],
+          [
+            "Ente",
+            "União",
+            "União"
+          ],
+          [
+            "Veículo",
+            "Lei complementar",
+            "Não exige LC só por ser IEG"
+          ],
+          [
+            "Hipótese",
+            "Novo imposto residual",
+            "Guerra externa ou iminência"
+          ],
+          [
+            "Fato gerador/base",
+            "Não próprios dos impostos discriminados",
+            "Pode alcançar materialidades fora da competência ordinária federal"
+          ],
+          [
+            "Não cumulatividade",
+            "Exigida",
+            "Não é requisito geral do inciso II"
+          ],
+          [
+            "Encerramento",
+            "Não é tributo temporário pela simples natureza residual",
+            "Supressão gradativa cessadas as causas"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "IEG não é empréstimo compulsório",
+        "text": "A hipótese de guerra pode aparecer nos dois institutos. O imposto não tem restituição inerente à espécie e não herda a reserva de LC do empréstimo."
+      }
+    ],
+    "source": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/constituicao",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; gabaritos e ressalvas nas questões",
+    "dt": [
+      3,
+      "05.2"
+    ]
+  },
+  {
+    "id": "lote-ivvc",
+    "title": "IVVC: data da emenda × data efetiva da eliminação",
+    "topic": "05 Competência",
+    "law": "EC3/1993, arts.1º e4º; CF, art.156",
+    "confirmed": [
+      "1037325"
+    ],
+    "blocks": [
+      {
+        "type": "timeline",
+        "title": "A eliminação não produziu efeitos na própria data da emenda",
+        "steps": [
+          {
+            "label": "1993",
+            "text": "EC3 altera a competência e prevê a transição.",
+            "kind": "neutral"
+          },
+          {
+            "label": "1995",
+            "text": "Regra transitória de redução da alíquota.",
+            "kind": "warning"
+          },
+          {
+            "label": "01/01/1996",
+            "text": "Produção dos efeitos da eliminação do imposto municipal.",
+            "kind": "success"
+          },
+          {
+            "label": "Prova de 2019",
+            "text": "Não há competência municipal para instituir o antigo IVVC.",
+            "kind": "success"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Norma local remanescente não recria competência",
+        "text": "Uma previsão antiga em constituição estadual ou lei orgânica não supera a Constituição Federal vigente."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A resolução anterior foi precisada na exibição: a emenda é de 1993, mas seu art.4º fixa a eliminação com efeitos em 01/01/1996. O texto original permanece no snapshot e no campo raw."
+          }
+        ]
+      }
+    ],
+    "source": "https://www2.camara.leg.br/legin/fed/emecon/1993/emendaconstitucional-3-17-marco-1993-354966-normaatualizada-pl.html",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; gabaritos e ressalvas nas questões"
+  },
+  {
+    "id": "lote-policia",
+    "title": "Taxa de polícia: exercício efetivo × visita individual × segurança geral",
+    "topic": "01 Definição e espécies",
+    "law": "STF, Tema217 e ADI3770; CTN, arts.77–80",
+    "confirmed": [
+      "3610437",
+      "3079706"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "A distinção depende da atividade",
+        "rows": [
+          [
+            "Situação",
+            "Conclusão",
+            "Cuidado"
+          ],
+          [
+            "Órgão e estrutura competentes em funcionamento",
+            "Podem demonstrar exercício do poder de polícia",
+            "Não exigir visita individual como regra absoluta"
+          ],
+          [
+            "Alvarás/atestados individualizáveis nas hipóteses da ADI3770",
+            "Admite taxa estadual",
+            "Não confundir com toda a segurança pública"
+          ],
+          [
+            "Policiamento ostensivo/investigativo geral",
+            "Custeio não se torna divisível por receber nome de taxa",
+            "Evitar financiamento geral por cobrança sem referibilidade"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Comando da questão 3079706",
+        "text": "Pede a alternativa INCORRETA. A exigência absoluta de comprovar ação fiscal sobre cada contribuinte é o erro cobrado."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tema217: taxa de renovação/localização pode ser constitucional com exercício efetivo demonstrado por órgão e estrutura competentes. A ADI3770, julgada em 2019, examina atividades individualizáveis de polícia. O Tema1282 de bombeiros é de 2025 e não deve ser tratado como precedente já disponível em 2024."
+          }
+        ]
+      }
+    ],
+    "source": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=2622137&numeroProcesso=588322&numeroTema=217",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; gabaritos e ressalvas nas questões"
+  }
+];
+const audited100Bindings={"dt-anterioridades": ["1234916", "1073698", "719755", "592988", "682639", "1821296", "1768965"], "guia-pedagio": ["1071941", "693066"], "dt-retroatividade": ["684690"], "dt-competencia": ["2235835", "1016813"], "dt-reserva": ["1071937", "1015172"], "lote-iluminacao": ["881688"], "lote-bases-taxas": ["3419867"]};
+const audited100Blocks={"guia-pedagio": [{"type": "callout", "kind": "rule", "title": "Limitação tributária ao tráfego", "text": "O art.150, V, veda limitar o tráfego de pessoas ou bens por tributos interestaduais/intermunicipais e ressalva o pedágio nas condições constitucionais. Isso não proíbe, por si, toda incidência de ICMS interestadual."}], "dt-retroatividade": [{"type": "table", "title": "Redução de imposto × redução de multa", "rows": [["Mudança", "Efeito temporal"], ["Redução da alíquota do imposto", "Beneficia fatos futuros conforme vigência, sem espera de anterioridade"], ["Redução da multa por lei", "Pode retroagir a ato não definitivamente julgado nos termos do art.106, II, c"], ["Lei sem cláusula de vigência", "Verificar regra geral; não presumir efeito no dia da publicação"]]}], "dt-reserva": [{"type": "table", "title": "Lei de instituição × normas gerais nacionais", "rows": [["Matéria", "Instrumento"], ["Conflitos de competência, limitações e normas gerais do art.146", "Lei complementar"], ["Instituição de cada tributo", "Observar a reserva específica; não exigir LC indistintamente"], ["Alíquotas de ICMS atribuídas ao Senado", "Resolução nas hipóteses constitucionais, não LC como substituto genérico"]]}], "lote-bases-taxas": [{"type": "callout", "kind": "warning", "title": "Fiscalização ambiental: critério × montante", "text": "Porte por receita bruta e energia gerada podem ser parâmetros idôneos em tese. A ADI5489 invalidou a cobrança concreta desproporcional, sem banir automaticamente todo uso desses critérios."}]};
+export const visualGuides=[...initialGuides,...dtGuides,...resumedGuides,...continuationGuides,...conceptGuides,...audited100Guides].map(g=>audited100Bindings[g.id]?{...g,confirmed:[...g.confirmed,...audited100Bindings[g.id]],blocks:[...g.blocks,...(audited100Blocks[g.id]||[])],evidence:'Núcleo conferido; observar ressalvas nas questões',law:g.law+(g.id==='dt-reserva'?'; CF, art.146':g.id==='guia-pedagio'?'; CF, art.150, V':'')}:g);

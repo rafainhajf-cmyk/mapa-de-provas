@@ -62,3 +62,20 @@ Não promovidos a conferência concluída: 3764354 (classificação doutrinária
 Validação final desta etapa: build concluído; 33 testes aprovados, incluindo todos os 503 IDs únicos, 301 pontos integrais, correspondência entre os 60 registros e esquemas, quatro alternativas na 3113014, ausência de duplicação dos registros e preservação das ressalvas. A interface preparada exibe contagem real de conferidos/pendentes, ano da prova e fonte/páginas da conferência. O navegador de QA não alcançou o servidor local (`ERR_CONNECTION_REFUSED`); nenhuma auditoria visual desta versão é afirmada.
 
 Publicação permanece pendente. A tentativa anterior de enviar ao GitHub foi rejeitada pela revisão automática por ausência de autorização suficientemente explícita para envio à branch `main` e publicação externa. Nenhuma alternativa de envio/deploy foi usada para contornar a rejeição. O site em produção ainda deve ser tratado como a revisão anterior `d4169cb` até confirmação de publicação autorizada. Backup local anterior a esta continuação: `backup/normativo-antes-lote-20-1270103`.
+
+## Publicação autorizada e continuação até 100 conferências
+
+O usuário autorizou expressamente o envio à branch principal e a publicação no Vercel, e determinou a continuação. O envio por Git CLI encontrou ausência de credencial de escrita; usou-se então a conexão GitHub já autorizada. Não houve nova rejeição de aprovação. Backup remoto: `backup/normativo-antes-publicacao-60-d4169cb`. O commit publicado `66fb1868cf82f7fc37565bfd370d090eb3bc980f` tem a mesma árvore do checkpoint local de 60 questões e 45 esquemas (`4b406a4e63f37bf9cc1ba72650838863101c5018`). Vercel: produção `dpl_DEik1ZKgsbvZg1MRVhZt6XJumkva`, READY, alias `mapa-de-provas.vercel.app`. Navegação real conferiu 60 registros/443 pendentes, o novo quadro de bases das taxas e as cinco opções corrigidas da 3112998 com gabarito recolhido.
+
+Na continuação foram conferidos outros 40 IDs, totalizando 100 conferências individuais e 403 pendentes, agora em 56 esquemas. Os registros discriminam páginas 9–16 do `3.pdf`, páginas 6–7 do `4.pdf` e páginas 9–11 do `Caderno [União] Tributário.pdf`, com leitura de continuidades. Seções dos volumes DT02 e DT03 foram consultadas novamente. Sem reprodução dos volumes ou dados de licenciamento no repositório.
+
+Precisões desta etapa:
+- 719259: PDF imprime D; o registro consolidado C/D permanece e a ressalva de unicidade foi explicitada. A interface distingue gabarito impresso de registro consolidado, sem declarar anulação não comprovada.
+- 644493: B impresso preservado; art.151, II, exige paridade de níveis, não imunidade absoluta da renda de títulos estaduais. Ressalva sobre a leitura genérica de C registrada.
+- 1147520: A precisa das exceções expressas do art.62, §2º; não generalizar a todas as MPs de impostos. Tema382 é distinguido de supressão genérica de créditos/benefícios.
+- 2041802: matriz I–IV foi separada nas cinco alternativas por conferência do PDF, sem modificar `raw` ou snapshot.
+- 1037325: emenda de 1993 versus efeitos da eliminação do IVVC em 01/01/1996. Resolução de exibição corrigida; resolução original preservada no `raw`.
+- 3079706: comando INCORRETA; Tema217 não exige visita individual a cada contribuinte. Tema1282 de 2025 é atualização posterior à prova de 2024.
+- 3419867: validade em tese de parâmetro ambiental não equivale à constitucionalidade do montante desproporcional examinado na ADI5489.
+
+Validação: build e 34 testes aprovados, incluindo integração dos 100 registros, 56 esquemas, 503 IDs únicos, 301 pontos integrais, preservação de originais e distinção de gabarito impresso/consolidado. Nenhum banco ou dado pessoal foi alterado. Permanecem pendentes as 403 questões sem conferência individual registrada; não confundir o contador com auditoria histórica integral dos gabaritos.
