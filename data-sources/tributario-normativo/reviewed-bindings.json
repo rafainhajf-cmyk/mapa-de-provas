@@ -2485,6 +2485,87 @@
       "excludedMentions": "Não inferir incidência autônoma de temas citados apenas nos distratores; conferir o comando positivo/negativo da questão.",
       "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF indicado, incluindo continuidades de página; fonte oficial e ressalvas individuais registradas.",
       "temporalStatus": "Sem alteração material majoradora na conversão, não reiniciar automaticamente a noventena. Porte por receita bruta e potencial poluidor não equivalem, por si, à reprodução integral de base de imposto."
+    },
+    {
+      "questionId": "3685889",
+      "answer": "A",
+      "guideId": "lote-imunidade-sucessor",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 9,
+        "endPage": 9
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "A imunidade do sucessor não afasta obrigações de fatos anteriores à sucessão.",
+      "legalBasis": "STF, Temas224,328,674 e385; SV57",
+      "officialUrl": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=2672267&numeroProcesso=599176&numeroTema=224",
+      "dtReferences": [],
+      "excludedMentions": "Referências em distratores são explicadas na resolução; não geram incidência direta em outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais.",
+      "temporalStatus": "Tema224 julgado em2014; Temas328 e674 e SV57 anteriores à prova de2025."
+    },
+    {
+      "questionId": "3127523",
+      "answer": "A",
+      "guideId": "lote-gleba",
+      "examYear": 2024,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 9,
+        "endPage": 10
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Pequena gleba definida em lei, explorada pelo proprietário sem outro imóvel, é imune ao ITR.",
+      "legalBasis": "CF, arts.153, §4º, II, e156, §1º-A; STF, SV57 eTema1140",
+      "officialUrl": "https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/constituicao",
+      "dtReferences": [],
+      "excludedMentions": "Referências em distratores são explicadas na resolução; não geram incidência direta em outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais.",
+      "temporalStatus": "Regras constitucionais e precedentes citados já existentes no ano da prova; atualizações não substituem o comentário histórico."
+    },
+    {
+      "questionId": "3670605",
+      "answer": "C",
+      "guideId": "dt-denuncia",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 11,
+        "endPage": 11
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "A questão pede INCORRETA: tributo regularmente declarado e pago em atraso não recebe denúncia espontânea.",
+      "legalBasis": "CTN, arts.138,175 e180; STJ, Súmula360; STF, Tema816",
+      "officialUrl": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=360.num.",
+      "dtReferences": [],
+      "excludedMentions": "Referências em distratores são explicadas na resolução; não geram incidência direta em outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais.",
+      "temporalStatus": "Súmula360/STJ anterior à prova. O Tema816 foi concluído em26/02/2025; o dia exato da prova não foi certificado, de modo que a alternativa E deve ser contextualizada temporalmente. A incorreção da C decorre da Súmula360, sem depender desse precedente posterior.",
+      "reviewStatus": "with-caveat"
+    },
+    {
+      "questionId": "3228225",
+      "answer": "B",
+      "guideId": "lote-vigencia",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 11,
+        "endPage": 11
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Efeitos normativos de decisões administrativas:30 dias salvo disposição contrária; vacância razoável na LC95; lei interpretativa não inova.",
+      "legalBasis": "CTN, arts.100,103 e106; LC95/1998, art.8º",
+      "officialUrl": "https://www2.camara.leg.br/legin/fed/leicom/1998/leicomplementar-95-26-fevereiro-1998-363948-normaatualizada-pl.html",
+      "dtReferences": [],
+      "excludedMentions": "Referências em distratores são explicadas na resolução; não geram incidência direta em outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais.",
+      "temporalStatus": "Regras constitucionais e precedentes citados já existentes no ano da prova; atualizações não substituem o comentário histórico."
     }
   ]
 }

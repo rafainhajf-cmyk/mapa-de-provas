@@ -79,3 +79,10 @@ Precisões desta etapa:
 - 3419867: validade em tese de parâmetro ambiental não equivale à constitucionalidade do montante desproporcional examinado na ADI5489.
 
 Validação: build e 34 testes aprovados, incluindo integração dos 100 registros, 56 esquemas, 503 IDs únicos, 301 pontos integrais, preservação de originais e distinção de gabarito impresso/consolidado. Nenhum banco ou dado pessoal foi alterado. Permanecem pendentes as 403 questões sem conferência individual registrada; não confundir o contador com auditoria histórica integral dos gabaritos.
+
+
+### Continuação — 104 questões / 59 esquemas
+- Conferidos integralmente no 4.pdf:3685889(p.9),3127523(p.9–10),3228225 e3670605(p.11).
+- Fontes: STF SV19/SV29, Tema224; distratores de3685889 confrontados com Temas328,674,385 eSV57. Nenhuma incidência adicional inferida dos distratores.
+- Acrescentado comparativo conceitual da imunidade do sucessor e dívida anterior. Referências DT vazias neste lote: não registrar leitura não realizada.
+- Backup local preservado em backup/normativo-100-local; publicação anterior100 validada em produção (4e660e6).
