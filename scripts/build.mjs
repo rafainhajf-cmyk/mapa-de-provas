@@ -86,7 +86,7 @@ async function walk(dir, relative = '') {
 }
 await walk('private-content');
 
-const offlineCore=['normativo.html','normativo.js','normativo.css','normativo-data.json','normativo-visuals.js','review-blocks.js','review-blocks.css','study-sync.js','study-sync-core.js','main-navigation.css','index.html','dificuldades.html','apostila.html','flashcards.html','provas.html','offline.js','offline-sw.js','offline-files.json'];
+const offlineCore=['normativo.html','normativo.js','normativo.css','normativo-data.json','normativo-visuals.js','normativo-dt-guides.js','review-blocks.js','review-blocks.css','study-sync.js','study-sync-core.js','main-navigation.css','index.html','dificuldades.html','apostila.html','flashcards.html','provas.html','offline.js','offline-sw.js','offline-files.json'];
 const offlineFiles=[];let offlineBytes=0;
 for(const name of [...offlineCore,...files.filter(name=>/\.(?:html|js|css|json|pdf|svg|png|jpg|jpeg|webp)$/.test(name))]){
  if(name==='offline-files.json'||offlineFiles.includes('/'+name)||!files.includes(name)&&!offlineCore.includes(name))continue;

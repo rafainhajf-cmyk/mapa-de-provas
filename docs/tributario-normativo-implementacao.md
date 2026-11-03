@@ -21,3 +21,16 @@ Não são certificados todos os gabaritos históricos, todas as alterações pos
 ## Validação técnica
 
 Build e 28 testes automatizados aprovados: integridade e idempotência, 301 pontos completos/aliases, referências aos 18 tópicos, áreas independentes, exclusão de inferência automática de incidência, manifesto offline prioritário, preservação dos stores e demais testes de autenticação, sincronização, contabilidade, apostila e Macroeconomia/IS-LM. O manifesto inclui o módulo e dependências antes do limite de PDFs. Testes de dispositivos físicos, sincronização real entre dispositivos e desconexão real não são substituídos por esses testes de código.
+
+
+## Cruzamento com Literalidade DT — segunda etapa
+
+Backup adicional: backup/normativo-antes-cruzamento-dt-0079f12, commit 0079f1214cd7fb4e56a20ed1e7689f47c1e623d4. Os oito PDFs DT01 a DT08, edição de 26/09/2026, foram acessados pelo Drive. O texto licenciado foi processado em diretório privado fora do repositório e não foi incorporado ao site. São publicados somente metadados, títulos/seções e referências candidatas, além de sínteses próprias sobre conceitos legais.
+
+O script cross-normativo-dt.mjs gera um registro para cada um dos 503 IDs. Versão refinada: 307 com localização textual candidata e 196 sem correspondência específica suficiente/fora da cobertura do DT geral. Isso NÃO significa 307 questões auditadas. A busca usa resolução, conhecimentos e assunto, sem calcular frequência a partir de alternativas erradas. Sigilo bancário da LC105, LTE e LC123 não são artificialmente vinculados ao DT geral.
+
+Foram adicionados 31 esquemas próprios (35 no total), incluindo quadros reais, processos condicionais, timelines de certidão/PAF e alertas temporais para LC236/2026. A visão inicial mostra os esquemas; os 847 núcleos e textos originais ficam em opção própria, preservados. Fontes DT01–08 disponíveis na tela; cada questão mostra o estado da localização assistida. O material de 2026 não substitui automaticamente a legislação histórica da prova.
+
+Conferências pontuais registradas em reviewed-bindings.json: 15 questões, incluindo as duas anteriores. Os 13 acréscimos tiveram enunciado, alternativas, gabarito e resolução examinados. Cada registro contém núcleo decisivo, fundamento, exclusão de menções não decisivas e limitação temporal. A data/edital nem sempre estão disponíveis; portanto não constituem auditoria histórica integral. Restam 488 questões sem essa conferência individual registrada. O texto da planilha e os 301 pontos continuam integrais.
+
+Build e 30 testes automatizados passaram após o cruzamento, incluindo integridade dos 503 IDs, distinção candidato/conferido, manutenção dos 301 pontos, armazenamento e dependência offline do novo módulo de esquemas. Não foram certificados dispositivos físicos nem a navegação realmente desconectada. A verificação visual pós-deploy deve registrar as visões novas, fontes DT e persistência.
