@@ -109,7 +109,7 @@ export const dtGuides=[
  rule('O Fisco deve resguardar dados econômicos e financeiros obtidos em razão do ofício. Compartilhamento exige a hipótese e o procedimento legal.'),
  table('Acesso não é divulgação irrestrita',[['Situação','Cuidado'],['Requisição judicial','Interesse da justiça e previsão legal'],['Solicitação administrativa','Processo regular para investigar infração, nos requisitos do art. 198'],['Permuta entre Fazendas','Forma legal ou convênio; manutenção das garantias de sigilo'],['Informação de terceiro protegido por segredo profissional legal','Examinar o limite do art. 197, parágrafo único']]),
  tip('danger','Não confundir sigilo fiscal do CTN com acesso a informações bancárias da LC 105. Um fundamento não substitui os requisitos do outro.')]),
- g('paf-garantia','16 Processo administrativo tributário','Recurso administrativo sem depósito prévio','CF, art. 5º, XXXIV e LV; STF, SV 21; CTN, art. 151, §2º',[8,'02.3'],[
+ g('paf-garantia','16 Processo administrativo tributário','Recurso administrativo sem depósito prévio','CF, art. 5º, XXXIV e LV; STF, SV 21; CTN, art. 151, §2º',[5,'07.5'],[
  rule('Depósito ou arrolamento prévios de bens não podem ser condição para admitir recurso administrativo.'),
  table('Finalidades diferentes',[['Depósito','Efeito'],['Integral para suspender exigibilidade','Uma causa autônoma de suspensão'],['Como condição para conhecer recurso administrativo','Exigência inconstitucional'],['Defesa tempestiva nos termos da lei','Não depende desse depósito para a suspensão administrativa']]),
  tip('warning','O cabimento de reclamação exige os pressupostos processuais pertinentes e aderência ao enunciado vinculante; não presumir remédio automático para qualquer desacordo.'),

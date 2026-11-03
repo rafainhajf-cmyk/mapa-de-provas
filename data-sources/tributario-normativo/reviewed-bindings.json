@@ -10,7 +10,21 @@
       "reviewedAt": "2026-11-03",
       "scope": "Enunciado, alternativas e resolução confrontados com fundamento indicado; conferência pontual do núcleo decisivo.",
       "temporalStatus": "Data/edital da prova ainda não integralmente certificados; não substituir o comentário histórico pelas novidades de 2026.",
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "01.3",
+          "title": "Espécies de Tributos: as Duas Listas",
+          "page": 3
+        },
+        {
+          "volume": 1,
+          "section": "02.1",
+          "title": "Fato Gerador dos Impostos",
+          "page": 4
+        }
+      ]
     },
     {
       "questionId": "790682",
@@ -22,7 +36,8 @@
       "reviewedAt": "2026-11-03",
       "scope": "Enunciado, alternativas e resolução confrontados com fundamento indicado; conferência pontual do núcleo decisivo.",
       "temporalStatus": "Data/edital da prova ainda não integralmente certificados; não substituir o comentário histórico pelas novidades de 2026.",
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": []
     },
     {
       "questionId": "3552030",
@@ -34,7 +49,21 @@
       "reviewedAt": "2026-11-03",
       "scope": "Enunciado, alternativas e resolução confrontados com fundamento indicado; conferência pontual do núcleo decisivo.",
       "temporalStatus": "Data/edital da prova ainda não integralmente certificados; não substituir o comentário histórico pelas novidades de 2026.",
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [
+        {
+          "volume": 1,
+          "section": "01.1",
+          "title": "Elementos do Conceito de Tributo",
+          "page": 1
+        },
+        {
+          "volume": 4,
+          "section": "01.4",
+          "title": "Conversão da Acessória Inobservada em Principal",
+          "page": 3
+        }
+      ]
     },
     {
       "questionId": "3552022",
@@ -46,7 +75,15 @@
       "reviewedAt": "2026-11-03",
       "scope": "Enunciado, alternativas e resolução confrontados com fundamento indicado; conferência pontual do núcleo decisivo.",
       "temporalStatus": "Data/edital da prova ainda não integralmente certificados; não substituir o comentário histórico pelas novidades de 2026.",
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "07.1",
+          "title": "Matérias Sujeitas à Reserva Legal",
+          "page": 19
+        }
+      ]
     },
     {
       "questionId": "1234925",
@@ -58,7 +95,15 @@
       "reviewedAt": "2026-11-03",
       "scope": "Enunciado, alternativas e resolução confrontados com fundamento indicado; conferência pontual do núcleo decisivo.",
       "temporalStatus": "Data/edital da prova ainda não integralmente certificados; não substituir o comentário histórico pelas novidades de 2026.",
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "07.1",
+          "title": "Matérias Sujeitas à Reserva Legal",
+          "page": 19
+        }
+      ]
     },
     {
       "questionId": "3023141",
@@ -70,7 +115,15 @@
       "reviewedAt": "2026-11-03",
       "scope": "Enunciado, alternativas e resolução confrontados com fundamento indicado; conferência pontual do núcleo decisivo.",
       "temporalStatus": "Data/edital da prova ainda não integralmente certificados; não substituir o comentário histórico pelas novidades de 2026.",
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "03.4",
+          "title": "Contribuinte e Responsável",
+          "page": 10
+        }
+      ]
     },
     {
       "questionId": "3116743",
@@ -82,7 +135,21 @@
       "reviewedAt": "2026-11-03",
       "scope": "Enunciado, alternativas e resolução confrontados com fundamento indicado; conferência pontual do núcleo decisivo.",
       "temporalStatus": "Enunciado: fatos de 2023; mantida separação do material atualizado de 2026.",
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "07.2",
+          "title": "Créditos sobre Imóveis e a Sub-rogação Pessoal",
+          "page": 21
+        },
+        {
+          "volume": 4,
+          "section": "03.4",
+          "title": "Contribuinte e Responsável",
+          "page": 10
+        }
+      ]
     },
     {
       "questionId": "3561398",
@@ -94,7 +161,15 @@
       "reviewedAt": "2026-11-03",
       "scope": "Enunciado, alternativas e resolução confrontados com fundamento indicado; conferência pontual do núcleo decisivo.",
       "temporalStatus": "Data/edital da prova ainda não integralmente certificados; não substituir o comentário histórico pelas novidades de 2026.",
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [
+        {
+          "volume": 5,
+          "section": "01.3",
+          "title": "Modificação, Extinção e Dispensa Fora do Código",
+          "page": 2
+        }
+      ]
     },
     {
       "questionId": "1015169",
@@ -106,7 +181,15 @@
       "reviewedAt": "2026-11-03",
       "scope": "Enunciado, alternativas e resolução confrontados com fundamento indicado; conferência pontual do núcleo decisivo.",
       "temporalStatus": "Data/edital da prova ainda não integralmente certificados; não substituir o comentário histórico pelas novidades de 2026.",
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [
+        {
+          "volume": 5,
+          "section": "01.3",
+          "title": "Modificação, Extinção e Dispensa Fora do Código",
+          "page": 2
+        }
+      ]
     },
     {
       "questionId": "3679709",
@@ -118,7 +201,15 @@
       "reviewedAt": "2026-11-03",
       "scope": "Enunciado, alternativas e resolução confrontados com fundamento indicado; conferência pontual do núcleo decisivo.",
       "temporalStatus": "Data/edital da prova ainda não integralmente certificados; não substituir o comentário histórico pelas novidades de 2026.",
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [
+        {
+          "volume": 6,
+          "section": "06.1",
+          "title": "Cinco Anos e o Marco do Exercício Seguinte",
+          "page": 23
+        }
+      ]
     },
     {
       "questionId": "3551995",
@@ -130,7 +221,21 @@
       "reviewedAt": "2026-11-03",
       "scope": "Enunciado, alternativas e resolução confrontados com fundamento indicado; conferência pontual do núcleo decisivo.",
       "temporalStatus": "Enunciado: pagamento de janeiro de 2025; regra preservada na compilação consultada.",
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [
+        {
+          "volume": 6,
+          "section": "01.2",
+          "title": "Pagamento, Consignação e Dação em Pagamento no Rol",
+          "page": 3
+        },
+        {
+          "volume": 4,
+          "section": "01.2",
+          "title": "Nascimento e Objeto da Obrigação Principal",
+          "page": 1
+        }
+      ]
     },
     {
       "questionId": "3542612",
@@ -142,7 +247,15 @@
       "reviewedAt": "2026-11-03",
       "scope": "Enunciado, alternativas e resolução confrontados com fundamento indicado; conferência pontual do núcleo decisivo.",
       "temporalStatus": "Data/edital da prova ainda não integralmente certificados; não substituir o comentário histórico pelas novidades de 2026.",
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [
+        {
+          "volume": 5,
+          "section": "07.7",
+          "title": "Parcelamento e o Dever de Cumprir as Obrigações Acessórias",
+          "page": 31
+        }
+      ]
     },
     {
       "questionId": "3023554",
@@ -154,7 +267,15 @@
       "reviewedAt": "2026-11-03",
       "scope": "Enunciado, alternativas e resolução confrontados com fundamento indicado; conferência pontual do núcleo decisivo.",
       "temporalStatus": "Data/edital da prova ainda não integralmente certificados; não substituir o comentário histórico pelas novidades de 2026.",
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [
+        {
+          "volume": 5,
+          "section": "07.5",
+          "title": "Impugnações, Recursos e a Vedação de Caução",
+          "page": 30
+        }
+      ]
     },
     {
       "questionId": "3543954",
@@ -166,7 +287,15 @@
       "reviewedAt": "2026-11-03",
       "scope": "Enunciado, alternativas e resolução confrontados com fundamento indicado; conferência pontual do núcleo decisivo.",
       "temporalStatus": "Data/edital da prova ainda não integralmente certificados; não substituir o comentário histórico pelas novidades de 2026.",
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [
+        {
+          "volume": 6,
+          "section": "09.2",
+          "title": "Preferência na Falência: os Três Limites",
+          "page": 38
+        }
+      ]
     },
     {
       "questionId": "692904",
@@ -178,7 +307,15 @@
       "reviewedAt": "2026-11-03",
       "scope": "Enunciado, alternativas e resolução confrontados com fundamento indicado; conferência pontual do núcleo decisivo.",
       "temporalStatus": "Data/edital da prova ainda não integralmente certificados; não substituir o comentário histórico pelas novidades de 2026.",
-      "officialUrl": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1255"
+      "officialUrl": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1255",
+      "dtReferences": [
+        {
+          "volume": 5,
+          "section": "07.5",
+          "title": "Impugnações, Recursos e a Vedação de Caução",
+          "page": 30
+        }
+      ]
     }
   ]
 }
