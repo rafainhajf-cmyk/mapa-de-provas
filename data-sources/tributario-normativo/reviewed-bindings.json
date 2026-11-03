@@ -2566,6 +2566,349 @@
       "excludedMentions": "Referências em distratores são explicadas na resolução; não geram incidência direta em outros núcleos.",
       "scope": "Enunciado, todas as alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais.",
       "temporalStatus": "Regras constitucionais e precedentes citados já existentes no ano da prova; atualizações não substituem o comentário histórico."
+    },
+    {
+      "questionId": "1768958",
+      "answer": "A",
+      "guideId": "lote-ipva-venda",
+      "examYear": 2021,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 11,
+        "endPage": 12
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "O art.134 do CTB não cria solidariedade pelo IPVA posterior à venda; verificar lei estadual específica.",
+      "legalBasis": "CTN, arts.123 e124; STJ, Súmula585",
+      "officialUrl": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=585.num.",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "03.5",
+          "title": "Convenções Particulares Perante a Fazenda",
+          "page": 11
+        }
+      ],
+      "excludedMentions": "Distratores confrontados na resolução, sem somar incidência direta a núcleos apenas mencionados.",
+      "scope": "Enunciado, todas as alternativas e gabarito do PDF lidos; confronto da regra decisiva e dos distratores com legislação e jurisprudência oficiais.",
+      "temporalStatus": "Súmula585 é de2016/2017. O Tema1118, julgado em23/11/2022, consolida posteriormente a necessidade de lei estadual/distrital específica; não é precedente já disponível em2021.",
+      "additionalOfficialSources": [
+        {
+          "title": "Atualização posterior: STJ, Tema1118",
+          "url": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_inicial=1118&cod_tema_final=1118&novaConsulta=true&tipo_pesquisa=T"
+        }
+      ]
+    },
+    {
+      "questionId": "1147537",
+      "answer": "E",
+      "guideId": "lote-socios",
+      "examYear": 2020,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 12,
+        "endPage": 12
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "A mera condição de cotista sem gestão não autoriza responsabilidade solidária por lei ordinária.",
+      "legalBasis": "STF, Tema13; CTN, art.135; STJ, Súmula430 eTemas103 e649",
+      "officialUrl": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=2555009&numeroProcesso=562276&numeroTema=13",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "08.4",
+          "title": "Atos com Excesso de Poderes ou Infração",
+          "page": 30
+        },
+        {
+          "volume": 4,
+          "section": "08.5",
+          "title": "Redirecionamento contra Diretores e Gerentes",
+          "page": 31
+        }
+      ],
+      "excludedMentions": "Distratores confrontados na resolução, sem somar incidência direta a núcleos apenas mencionados.",
+      "scope": "Enunciado, todas as alternativas e gabarito do PDF lidos; confronto da regra decisiva e dos distratores com legislação e jurisprudência oficiais.",
+      "temporalStatus": "Resposta histórica preservada. O apoio DT é de2026: novidades da LC236/2026 não fundamentam retroativamente a prova."
+    },
+    {
+      "questionId": "373725",
+      "answer": "C",
+      "guideId": "dt-denuncia",
+      "examYear": 2015,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 12,
+        "endPage": 12
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "ICMS declarado e não pago pode ser parcelado conforme lei, mas não recebe denúncia espontânea.",
+      "legalBasis": "CTN, arts.138 e155-A; STJ, Súmula360",
+      "officialUrl": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=360.num.",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "09.3",
+          "title": "Denúncia Espontânea: Requisitos e Limite Temporal",
+          "page": 34
+        }
+      ],
+      "excludedMentions": "Distratores confrontados na resolução, sem somar incidência direta a núcleos apenas mencionados.",
+      "scope": "Enunciado, todas as alternativas e gabarito do PDF lidos; confronto da regra decisiva e dos distratores com legislação e jurisprudência oficiais.",
+      "temporalStatus": "Resposta histórica preservada. O apoio DT é de2026: novidades da LC236/2026 não fundamentam retroativamente a prova."
+    },
+    {
+      "questionId": "263610",
+      "answer": "B",
+      "guideId": "lote-declaracao-prescricao",
+      "examYear": 2015,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 12,
+        "endPage": 12
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Gabarito correto do PDF é D: declaração tardia emjunho/2013 constitui crédito já vencido e inicia prazo para cobrança, não novo prazo para lançar.",
+      "legalBasis": "CTN, art.174; STJ, Súmula436",
+      "officialUrl": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=436.num.",
+      "dtReferences": [],
+      "excludedMentions": "Distratores confrontados na resolução, sem somar incidência direta a núcleos apenas mencionados.",
+      "scope": "Enunciado, todas as alternativas e gabarito do PDF lidos; confronto da regra decisiva e dos distratores com legislação e jurisprudência oficiais.",
+      "temporalStatus": "Divergência material do cadastro: PDF e campo bruto de gabarito trazem D; resposta consolidada anterior B e comentário de outro assunto preservados no raw. A conferência não valida B.",
+      "sourceAnswer": "D",
+      "sourceAnswerNote": "Gabarito e explicação corrigidos conforme PDF. O cadastro consolidado anterior contém B e permanece preservado para auditoria.",
+      "reviewStatus": "with-caveat",
+      "displayResolution": "D é a alternativa correta do PDF. O vencimento foi emdezembro/2012, mas a declaração do débito ocorreu apenas emjunho/2013. A declaração constitui o crédito sem novo lançamento (Súmula436/STJ). Como o tributo já estava vencido, a contagem para cobrar começa na entrega da declaração: prazo quinquenal atéjunho/2018, nas condições do enunciado. A, B eC exigem indevidamente novo lançamento; E conta desde o vencimento anterior à constituição. O comentário antes cadastrado sobre imposto versus tributo não resolvia esta questão e foi substituído apenas na exibição.",
+      "displayKnowledge": "Declaração reconhecendo débito constitui o crédito. Para a cobrança, comparar a entrega da declaração com o vencimento: a contagem não começa antes de ambos.",
+      "displayLaw": "CTN, art.174; STJ, Súmula436. Gabarito noPDF: D."
+    },
+    {
+      "questionId": "3228235",
+      "answer": "E",
+      "guideId": "dt-suspensao",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 12,
+        "endPage": 13
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Recurso administrativo regular suspende a exigibilidade até a decisão final, sem depósito obrigatório.",
+      "legalBasis": "CTN, art.151, III; CF, art.5º, XXXV; STF, SV21",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 5,
+          "section": "07.5",
+          "title": "Impugnações, Recursos e a Vedação de Caução",
+          "page": 30
+        }
+      ],
+      "excludedMentions": "Distratores confrontados na resolução, sem somar incidência direta a núcleos apenas mencionados.",
+      "scope": "Enunciado, todas as alternativas e gabarito do PDF lidos; confronto da regra decisiva e dos distratores com legislação e jurisprudência oficiais.",
+      "temporalStatus": "Resposta histórica preservada. O apoio DT é de2026: novidades da LC236/2026 não fundamentam retroativamente a prova."
+    },
+    {
+      "questionId": "2390139",
+      "answer": "A",
+      "guideId": "lote-parcelamento",
+      "examYear": 2023,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 13,
+        "endPage": 13
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Pedido de parcelamento reconhece a dívida e interrompe prescrição, mesmo indeferido; não confundir com concessão que suspende exigibilidade.",
+      "legalBasis": "CTN, arts.155-A e174, parágrafo único, IV; STJ, Súmula653",
+      "officialUrl": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=653.num.",
+      "dtReferences": [
+        {
+          "volume": 5,
+          "section": "09.6",
+          "title": "Parcelamento por Lei Específica e as Regras da Moratória",
+          "page": 38
+        },
+        {
+          "volume": 5,
+          "section": "09.7",
+          "title": "Juros e Multas no Parcelamento",
+          "page": 39
+        }
+      ],
+      "excludedMentions": "Distratores confrontados na resolução, sem somar incidência direta a núcleos apenas mencionados.",
+      "scope": "Enunciado, todas as alternativas e gabarito do PDF lidos; confronto da regra decisiva e dos distratores com legislação e jurisprudência oficiais.",
+      "temporalStatus": "Resposta histórica preservada. O apoio DT é de2026: novidades da LC236/2026 não fundamentam retroativamente a prova."
+    },
+    {
+      "questionId": "292038",
+      "answer": "A",
+      "guideId": "lote-declaracao-prescricao",
+      "examYear": 2015,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 13,
+        "endPage": 13
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Na autuação impugnada, a prescrição da cobrança começa após a conclusão do contencioso e o prazo para pagar.",
+      "legalBasis": "CTN, arts.149,151, III,150, §4º, e174",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 5,
+          "section": "05.4",
+          "title": "Omissão ou Inexatidão no Regime de Homologação",
+          "page": 20
+        },
+        {
+          "volume": 5,
+          "section": "06.3",
+          "title": "Homologação Tácita em Cinco Anos e a Ressalva do Dolo",
+          "page": 23
+        },
+        {
+          "volume": 5,
+          "section": "07.5",
+          "title": "Impugnações, Recursos e a Vedação de Caução",
+          "page": 30
+        }
+      ],
+      "excludedMentions": "Distratores confrontados na resolução, sem somar incidência direta a núcleos apenas mencionados.",
+      "scope": "Enunciado, todas as alternativas e gabarito do PDF lidos; confronto da regra decisiva e dos distratores com legislação e jurisprudência oficiais.",
+      "temporalStatus": "Resposta histórica preservada. O apoio DT é de2026: novidades da LC236/2026 não fundamentam retroativamente a prova."
+    },
+    {
+      "questionId": "218247",
+      "answer": "A",
+      "guideId": "lote-moratoria",
+      "examYear": 2014,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 13,
+        "endPage": 13
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Lei de moratória pode restringir aplicação por região ou categoria; garantia não equivale automaticamente ao depósito integral.",
+      "legalBasis": "CTN, arts.152, parágrafo único,151 e174; STJ, Súmula112",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 5,
+          "section": "09.2",
+          "title": "Moratória em Caráter Individual e a Restrição por Região ou Categoria",
+          "page": 36
+        },
+        {
+          "volume": 5,
+          "section": "07.4",
+          "title": "Depósito do Montante Integral",
+          "page": 29
+        }
+      ],
+      "excludedMentions": "Distratores confrontados na resolução, sem somar incidência direta a núcleos apenas mencionados.",
+      "scope": "Enunciado, todas as alternativas e gabarito do PDF lidos; confronto da regra decisiva e dos distratores com legislação e jurisprudência oficiais.",
+      "temporalStatus": "Prova de2014: fiança não substituía o depósito para suspensão. A LC236/2026 inseriu hipótese autônoma no art.151, X, com aceitação e condições próprias na execução fiscal; isso não torna a fiança depósito integral.",
+      "reviewStatus": "with-caveat",
+      "displayResolution": "A reproduz o art.152, parágrafo único: a lei pode limitar a moratória por região ou categoria. B é falsa no regime da prova: fiança bancária não equivale a depósito integral em dinheiro. C confunde efeitos: reconhecimento no pedido de parcelamento interrompe a prescrição. D é absoluta e contraria a jurisprudência que admite conversão do depósito mesmo com extinção sem mérito, observadas as condições e exceções. E também é absoluta: impugnações e recursos previstos na legislação podem suspender a exigibilidade, inclusive na discussão de compensação. A atualização de2026 sobre fiança é hipótese autônoma e não substitui a leitura histórica da questão."
+    },
+    {
+      "questionId": "3248385",
+      "answer": "E",
+      "guideId": "dt-denuncia",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 13,
+        "endPage": 14
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Súmula360 afasta denúncia espontânea do tributo regularmente declarado e pago a destempo; questão de multas exige cuidado com cumulação pelo mesmo fato.",
+      "legalBasis": "STJ, Súmula360; CTN, art.138",
+      "officialUrl": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=360.num.",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "09.3",
+          "title": "Denúncia Espontânea: Requisitos e Limite Temporal",
+          "page": 34
+        }
+      ],
+      "excludedMentions": "Distratores confrontados na resolução, sem somar incidência direta a núcleos apenas mencionados.",
+      "scope": "Enunciado, todas as alternativas e gabarito do PDF lidos; confronto da regra decisiva e dos distratores com legislação e jurisprudência oficiais.",
+      "temporalStatus": "E coincide com a Súmula360, anterior à prova. A afirmação B sobre cumulação de multas é genérica: a vedação jurisprudencial exige examinar fatos e absorção; não ensinar que toda multa isolada jamais pode coexistir com qualquer multa de ofício.",
+      "reviewStatus": "with-caveat"
+    },
+    {
+      "questionId": "3127440",
+      "answer": "D",
+      "guideId": "lote-iptu-prescricao",
+      "examYear": 2024,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 14,
+        "endPage": 14
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Proprietário e promitente comprador podem responder conforme lei municipal; prescrição inicia no dia seguinte ao vencimento, sem adiamento por parcelamento unilateral.",
+      "legalBasis": "STJ, Temas122 e980; CTN, arts.34 e174",
+      "officialUrl": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_inicial=980&cod_tema_final=980&novaConsulta=true&tipo_pesquisa=T",
+      "dtReferences": [],
+      "excludedMentions": "Distratores confrontados na resolução, sem somar incidência direta a núcleos apenas mencionados.",
+      "scope": "Enunciado, todas as alternativas e gabarito do PDF lidos; confronto da regra decisiva e dos distratores com legislação e jurisprudência oficiais.",
+      "temporalStatus": "Resposta histórica preservada. O apoio DT é de2026: novidades da LC236/2026 não fundamentam retroativamente a prova."
+    },
+    {
+      "questionId": "2022752",
+      "answer": "B",
+      "guideId": "lote-remissao-deposito",
+      "examYear": 2022,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 14,
+        "endPage": 14
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Antes da ordem de conversão do depósito, remissão superveniente pode alcançar crédito confirmado judicialmente, se a lei não o excluir.",
+      "legalBasis": "STJ, Tema480; CTN, art.156",
+      "officialUrl": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_inicial=480&cod_tema_final=480&novaConsulta=true&tipo_pesquisa=T",
+      "dtReferences": [],
+      "excludedMentions": "Distratores confrontados na resolução, sem somar incidência direta a núcleos apenas mencionados.",
+      "scope": "Enunciado, todas as alternativas e gabarito do PDF lidos; confronto da regra decisiva e dos distratores com legislação e jurisprudência oficiais.",
+      "temporalStatus": "Resposta histórica preservada. O apoio DT é de2026: novidades da LC236/2026 não fundamentam retroativamente a prova.",
+      "displayResolution": "B está correta segundo o Tema480/STJ: o crédito confirmado por coisa julgada ainda pode ser alcançado por remissão antes da ordem de transformação do depósito em pagamento definitivo, desde que a lei não exclua essa situação. A coisa julgada não impede o fato extintivo superveniente. C generaliza indevidamente a necessidade de ato individual; D confunde remissão com retroatividade da penalidade benigna; E invoca decadência sem pertinência. A condição decisiva não é apenas a demora material da transferência, mas a ausência de ordem de conversão no marco considerado."
+    },
+    {
+      "questionId": "1768972",
+      "answer": "E",
+      "guideId": "lote-divida-prescrita",
+      "examYear": 2021,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 14,
+        "endPage": 14
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Confissão e parcelamento não ressuscitam crédito já prescrito; pagamento do crédito extinto é repetível.",
+      "legalBasis": "CTN, arts.156, V,165, I, e174; STJ, REsp646328/RS eAgRg noREsp1297954/MG",
+      "officialUrl": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?CodOrgaoJgdr=&SeqCgrmaSessao=&dt=20090623&formato=PDF&nreg=200400346220&salvar=false&seq=890587&tipo=0",
+      "dtReferences": [],
+      "excludedMentions": "Distratores confrontados na resolução, sem somar incidência direta a núcleos apenas mencionados.",
+      "scope": "Enunciado, todas as alternativas e gabarito do PDF lidos; confronto da regra decisiva e dos distratores com legislação e jurisprudência oficiais.",
+      "temporalStatus": "Resposta histórica preservada. O apoio DT é de2026: novidades da LC236/2026 não fundamentam retroativamente a prova.",
+      "displayResolution": "E é correta: a declaração constituiu o crédito, e a inscrição em dívida ativa não reiniciou por si a prescrição tributária. Nas condições do enunciado, seis anos após o vencimento o crédito já estava extinto por prescrição antes do pedido de parcelamento. A confissão posterior não o recria. Por isso, é indevida a execução remanescente e são repetíveis os pagamentos do crédito prescrito, conforme a interpretação conjunta dos arts.156, V, e165, I, do CTN (REsp646328/RS). A eB erram os marcos; C ignora a extinção; D nega indevidamente a restituição."
     }
   ]
 }

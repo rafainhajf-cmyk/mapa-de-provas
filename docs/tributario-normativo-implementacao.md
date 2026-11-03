@@ -86,3 +86,12 @@ Validação: build e 34 testes aprovados, incluindo integração dos 100 registr
 - Fontes: STF SV19/SV29, Tema224; distratores de3685889 confrontados com Temas328,674,385 eSV57. Nenhuma incidência adicional inferida dos distratores.
 - Acrescentado comparativo conceitual da imunidade do sucessor e dívida anterior. Referências DT vazias neste lote: não registrar leitura não realizada.
 - Backup local preservado em backup/normativo-100-local; publicação anterior100 validada em produção (4e660e6).
+
+
+### Continuação —116 questões e67 esquemas
+- Conferência integral de12 questões no4.pdf,p.11–14; IDs:1768958,1147537,373725,263610,3228235,2390139,292038,218247,3248385,3127440,2022752,1768972.
+- Corrigida exibição da263610: PDF D, consolidado B, comentário deslocado de outra questão. Preservados snapshot,raw eanswer original; gabarito documental e resolução correta explícitos nos detalhes. Knowledge e fundamento também substituídos somente na exibição.
+- Apoio DT04:03.5,08.4,08.5,09.3; DT05:05.4,06.3,07.4,07.5,09.2,09.6,09.7. Edição2026 separada dos gabaritos históricos.
+- Fontes oficiais STJ: Súmulas112,360,399,430,436,585,653; Temas103,122,480,649,980,1118; REsp646328/RS,AgRg noREsp1297954/MG. STF: Tema13.
+- Ressalvas: Tema1118 posterior à prova2021; fiança como hipótese autônoma em2026 não equivale a depósito na prova2014; cumulação de multas exige identidade e absorção; remissão considera ordem de conversão.
+- Backup local backup/normativo-104-local; base remota b13ff7c.

@@ -1238,4 +1238,462 @@ const priorVisualGuides=[...initialGuides,...dtGuides,...resumedGuides,...contin
 const successorGuide={id:'lote-imunidade-sucessor',title:'Imunidade do sucessor × dívida anterior à sucessão',topic:'04 Imunidades',law:'STF, Tema224 (RE599176)',confirmed:['3685889'],source:'https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=2672267&numeroProcesso=599176&numeroTema=224',checkedAt:'2026-11-03',evidence:'Núcleo conferido; demais imunidades explicadas na resolução',blocks:[{type:'table',title:'O momento do fato tributário resolve a questão',rows:[['Situação','Consequência'],['Obrigação de fato anterior à sucessão','A imunidade do sucessor não apaga a dívida'],['Fato posterior envolvendo ente imune','Examinar os requisitos da imunidade aplicável'],['Mudança do titular','Não transforma dívida anterior em fato imune']]},{type:'callout',kind:'danger',title:'Pegadinha: imunidade não é perdão retroativo',text:'A condição atual do sucessor não exonera as obrigações anteriores abrangidas pela sucessão.'},{type:'callout',kind:'warning',title:'Analise o fato e o responsável',text:'Não basta descobrir que o sucessor é a União: verifique quando ocorreu o fato tributário e a responsabilidade pela dívida.'},{type:'detail',title:'Ver explicação detalhada',blocks:[{type:'paragraph',text:'No RE599176, julgado em2014, a União sucedeu a RFFSA. O STF reconheceu que a proteção recíproca da sucessora não afasta a obrigação relativa ao período anterior. Na questão3685889, os distratores negam indevidamente imunidades do IOF, da exportação indireta e do e-book, ou estendem proteção ao uso privado lucrativo de imóvel público; esses temas não são contados como incidência direta deste núcleo.'}]}]};
 const continuation104Bindings={'dt-denuncia':['3670605']};
 const more104=[{id:'lote-gleba',title:'ITR: pequena gleba × qualquer pequena propriedade',topic:'04 Imunidades',law:'CF, art.153, §4º, II; Lei9.393/1996, art.2º',confirmed:['3127523'],blocks:[{type:'table',title:'Requisitos cumulativos',rows:[['Requisito','Verificação'],['Área','Enquadramento na definição legal de pequena gleba'],['Exploração','Pelo proprietário'],['Outros imóveis','O proprietário não pode possuir outro imóvel']]},{type:'callout',kind:'warning',title:'Pequena não basta',text:'Não confundir o adjetivo pequena com a definição legal da gleba imune; a questão usa a expressão em sentido constitucional.'}]},{id:'lote-vigencia',title:'Publicação × vigência × lei interpretativa',topic:'06 Legislação tributária',law:'CTN, arts.100,103 e106; LC95/1998, art.8º',confirmed:['3228225'],blocks:[{type:'table',title:'Não presumir vigência imediata',rows:[['Norma','Regra'],['Ato administrativo do art.100,I','Publicação, salvo disposição contrária'],['Decisão administrativa com eficácia normativa','Efeitos normativos após30 dias, salvo disposição contrária'],['Convênio do art.100,IV','Data nele prevista'],['Lei com repercussão relevante','Indicar vigência expressa e vacância razoável']]},{type:'callout',kind:'danger',title:'Interpretar não autoriza inovar retroativamente',text:'O nome interpretativa não permite mudar elementos da obrigação como se a regra já existisse.'}]}].map(g=>({...g,source:g.id==='lote-vigencia'?'https://www2.camara.leg.br/legin/fed/leicom/1998/leicomplementar-95-26-fevereiro-1998-363948-normaatualizada-pl.html':'https://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/constituicao',checkedAt:'2026-11-03',evidence:'Núcleo conferido; ver resolução e fontes da questão'}));
-export const visualGuides=[...priorVisualGuides.map(g=>continuation104Bindings[g.id]?{...g,confirmed:[...g.confirmed,...continuation104Bindings[g.id]]}:g),successorGuide,...more104];
+const guides104=[...priorVisualGuides.map(g=>continuation104Bindings[g.id]?{...g,confirmed:[...g.confirmed,...continuation104Bindings[g.id]]}:g),successorGuide,...more104];
+
+const guides116=[
+  {
+    "id": "lote-ipva-venda",
+    "title": "Veículo vendido: IPVA × multa de trânsito × acordo particular",
+    "topic": "07 Obrigação e sujeição",
+    "law": "CTN, arts.123 e124; STJ, Súmula585 eTema1118",
+    "confirmed": [
+      "1768958"
+    ],
+    "source": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=585.num.",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar ressalvas e contexto temporal nas questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Fontes diferentes de responsabilidade",
+        "rows": [
+          [
+            "Situação",
+            "Efeito"
+          ],
+          [
+            "Falta de comunicação da venda",
+            "Art.134 do CTB não basta para cobrar IPVA posterior do vendedor"
+          ],
+          [
+            "Lei estadual/distrital específica",
+            "Pode prever solidariedade nas condições legais"
+          ],
+          [
+            "Contrato transfere todos os débitos ao comprador",
+            "Obriga entre as partes; não muda por si o sujeito passivo legal"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Multa de trânsito não é IPVA",
+        "text": "Não transportar automaticamente a responsabilidade do CTB para a obrigação tributária."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A transferência do bem móvel decorre da tradição. A Súmula585 afasta a responsabilidade tributária baseada somente no art.134 do CTB. A necessidade de lei específica já aparecia em precedentes anteriores à prova; o Tema1118 a consolidou em2022, depois da questão de2021."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-socios",
+    "title": "Sócio cotista × gestor: quando cabe responsabilização",
+    "topic": "07 Obrigação e sujeição",
+    "law": "CTN, art.135; STF, Tema13; STJ, Súmula430 eTemas103 e649",
+    "confirmed": [
+      "1147537"
+    ],
+    "source": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?classeProcesso=RE&incidente=2555009&numeroProcesso=562276&numeroTema=13",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar ressalvas e contexto temporal nas questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Condição societária não basta",
+        "rows": [
+          [
+            "Hipótese",
+            "Regra"
+          ],
+          [
+            "Sócio sem gestão, apenas por ser cotista",
+            "Sem responsabilidade automática pelo tributo da sociedade"
+          ],
+          [
+            "Gestor e simples inadimplemento",
+            "Não basta, por si só, para responsabilizar"
+          ],
+          [
+            "Atos enquadrados no art.135",
+            "Examinar excesso de poderes ou infração e os requisitos da responsabilidade"
+          ],
+          [
+            "Nome do sócio já consta da CDA",
+            "Cabe ao indicado afastar as hipóteses do art.135, conforme Tema103"
+          ],
+          [
+            "Pessoa jurídica recorre só em defesa do sócio",
+            "Sem legitimidade, conforme Tema649"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Norma geral × hipótese específica",
+        "text": "A lei ordinária não pode contrariar as normas gerais do CTN para tornar todo cotista solidário."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O Tema13/STF afastou a responsabilização indiscriminada prevista no art.13 da Lei8.620/1993. A alternativa correta não autoriza concluir que nenhuma lei ordinária possa jamais disciplinar responsabilidade: a vedação é criar regime incompatível com as normas gerais reservadas à lei complementar."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-declaracao-prescricao",
+    "title": "Crédito declarado × autuação impugnada: início da prescrição",
+    "topic": "09 Crédito e lançamento",
+    "law": "CTN, arts.149,151 e174; STJ, Súmula436",
+    "confirmed": [
+      "263610",
+      "292038"
+    ],
+    "source": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=436.num.",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar ressalvas e contexto temporal nas questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "O modo de constituição muda o marco",
+        "rows": [
+          [
+            "Situação",
+            "Constituição e cobrança"
+          ],
+          [
+            "Débito reconhecido em declaração",
+            "Dispensa novo lançamento do valor declarado"
+          ],
+          [
+            "Declaração entregue após o vencimento",
+            "Comparar datas: cobrança não prescreve antes da constituição"
+          ],
+          [
+            "Autuação com impugnação tempestiva",
+            "Aguardar decisão administrativa definitiva e prazo para pagar"
+          ]
+        ]
+      },
+      {
+        "type": "timeline",
+        "title": "Exemplo da questão263610",
+        "steps": [
+          {
+            "label": "Dezembro/2012",
+            "text": "Vencimento sem declaração do débito no cenário narrado.",
+            "kind": "neutral"
+          },
+          {
+            "label": "Junho/2013",
+            "text": "Entrega da declaração constitui o crédito já vencido.",
+            "kind": "warning"
+          },
+          {
+            "label": "Junho/2018",
+            "text": "Marco quinquenal para cobrança, sem causas modificativas no enunciado.",
+            "kind": "danger"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não lançar de novo o que já foi declarado",
+        "text": "A dívida reconhecida permite cobrança; não nasce um novo prazo para constituir por lançamento de ofício."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Na questão292038, a omissão fraudulenta foi detectada e houve autuação impugnada. A prescrição de cobrança não corre durante a pendência regular do contencioso. O regime de homologação não impede lançamento de ofício das omissões e não garante homologação tácita quando comprovado dolo, fraude ou simulação. Na263610, o PDF traz D e o cadastro anterior B; a exibição foi corrigida sem apagar o histórico."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-parcelamento",
+    "title": "Pedido de parcelamento × concessão: interrupção e suspensão",
+    "topic": "11 Suspensão e exclusão",
+    "law": "CTN, arts.151, VI,155-A e174; STJ, Súmula653",
+    "confirmed": [
+      "2390139"
+    ],
+    "source": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=653.num.",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar ressalvas e contexto temporal nas questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Dois efeitos distintos",
+        "rows": [
+          [
+            "Ato",
+            "Prescrição",
+            "Exigibilidade"
+          ],
+          [
+            "Pedido que reconhece o débito, mesmo indeferido",
+            "Interrompe se a prescrição ainda estiver em curso",
+            "Não presumir concessão ou suspensão automática"
+          ],
+          [
+            "Parcelamento concedido e regular",
+            "Cobrança impedida durante o regime regular",
+            "Suspende nos termos legais"
+          ],
+          [
+            "Pedido após crédito já prescrito",
+            "Não recria crédito extinto",
+            "Não convalida a dívida"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "rule",
+        "title": "Parcelar não perdoa acréscimos",
+        "text": "Juros e multas permanecem, salvo disposição legal em contrário."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O parcelamento depende de lei específica, e as regras da moratória aplicam-se subsidiariamente. Não confundir a confissão que interrompe a prescrição com a suspensão de exigibilidade decorrente do parcelamento regularmente concedido."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-moratoria",
+    "title": "Moratória: limite regional × garantia do crédito",
+    "topic": "11 Suspensão e exclusão",
+    "law": "CTN, art.152, parágrafo único; STJ, Súmula112",
+    "confirmed": [
+      "218247"
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar ressalvas e contexto temporal nas questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Condições que a banca troca",
+        "rows": [
+          [
+            "Instituto",
+            "Regra"
+          ],
+          [
+            "Moratória por lei",
+            "Pode limitar-se a região ou categoria de sujeitos passivos"
+          ],
+          [
+            "Depósito para suspender",
+            "Integral e em dinheiro, conforme Súmula112"
+          ],
+          [
+            "Fiança na prova de2014",
+            "Não se equipara ao depósito do art.151, II"
+          ],
+          [
+            "Atualização de2026",
+            "Examinar a hipótese autônoma e condicionada do art.151, X"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Data da prova importa",
+        "text": "A novidade de2026 não muda o gabarito histórico de2014 nem transforma fiança em depósito."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A alternativa A é literal no CTN. Os demais itens misturam interrupção da prescrição, suspensão de exigibilidade e efeitos do depósito. A extinção judicial sem mérito não garante automaticamente levantamento pelo contribuinte: a jurisprudência admite conversão ao Fisco, com atenção às condições e exceções."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-iptu-prescricao",
+    "title": "IPTU: quem responde × quando começa a prescrição",
+    "topic": "10 Extinção e indébito",
+    "law": "CTN, arts.34 e174; STJ, Temas122 e980",
+    "confirmed": [
+      "3127440"
+    ],
+    "source": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_inicial=980&cod_tema_final=980&novaConsulta=true&tipo_pesquisa=T",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar ressalvas e contexto temporal nas questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Dois eixos da questão",
+        "rows": [
+          [
+            "Pergunta",
+            "Resposta"
+          ],
+          [
+            "Proprietário registral ou promitente comprador?",
+            "Ambos podem ser sujeitos passivos, conforme lei municipal"
+          ],
+          [
+            "Vencimento em31/01",
+            "Início da prescrição em01/02"
+          ],
+          [
+            "Carnê oferece10 parcelas sem adesão",
+            "Oferta unilateral não adia a prescrição até novembro"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não presumir adesão ao parcelamento",
+        "text": "Receber o carnê com parcelas não equivale a pedir parcelamento ou confessar a dívida."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O Tema122 e a Súmula399 remetem à legislação municipal, respeitado o art.34 do CTN. No caso concreto, a lei contempla proprietário e comprador. O Tema980 fixa o dia seguinte ao vencimento e afasta efeito interruptivo do parcelamento de ofício sem anuência."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-remissao-deposito",
+    "title": "Coisa julgada × remissão antes da conversão do depósito",
+    "topic": "10 Extinção e indébito",
+    "law": "STJ, Tema480; CTN, art.156",
+    "confirmed": [
+      "2022752"
+    ],
+    "source": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_inicial=480&cod_tema_final=480&novaConsulta=true&tipo_pesquisa=T",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar ressalvas e contexto temporal nas questões",
+    "blocks": [
+      {
+        "type": "timeline",
+        "title": "Crédito ainda pode ser extinto por fato posterior",
+        "steps": [
+          {
+            "label": "Trânsito em julgado",
+            "text": "Confirmação judicial do débito, com depósito vinculado.",
+            "kind": "neutral"
+          },
+          {
+            "label": "Lei de remissão",
+            "text": "Verificar se abrange o crédito e não exclui essa situação.",
+            "kind": "warning"
+          },
+          {
+            "label": "Antes da ordem de conversão",
+            "text": "A remissão pode alcançar o crédito, conforme Tema480.",
+            "kind": "success"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "O marco é a ordem de conversão",
+        "text": "Não basta supor que o dinheiro ainda não foi materialmente transferido."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O Tema480 diferencia a confirmação judicial da extinção por pagamento. Se o crédito ainda existe e a lei abrange a situação, a remissão posterior pode justificar o levantamento. Não é aplicação retroativa de penalidade mais benigna."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-divida-prescrita",
+    "title": "Confissão em prazo × confissão de dívida já prescrita",
+    "topic": "10 Extinção e indébito",
+    "law": "CTN, arts.156, V,165, I, e174; STJ, REsp646328/RS",
+    "confirmed": [
+      "1768972"
+    ],
+    "source": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?CodOrgaoJgdr=&SeqCgrmaSessao=&dt=20090623&formato=PDF&nreg=200400346220&salvar=false&seq=890587&tipo=0",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar ressalvas e contexto temporal nas questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Antes ou depois do fim do prazo?",
+        "rows": [
+          [
+            "Momento do reconhecimento",
+            "Consequência"
+          ],
+          [
+            "Prescrição ainda em curso",
+            "Ato inequívoco pode interromper o prazo"
+          ],
+          [
+            "Prescrição já consumada",
+            "Crédito extinto não renasce pela confissão"
+          ],
+          [
+            "Pagamento de crédito já prescrito",
+            "Repetição do indébito, conforme requisitos legais"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Inscrição não reinicia o relógio",
+        "text": "Inscrever em dívida ativa não é, por si só, causa interruptiva da prescrição tributária."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Na1768972, o pedido ocorre após seis anos nas condições do enunciado. O crédito já estava extinto quando houve a confissão e o parcelamento; a execução do restante é indevida. O REsp646328/RS reconhece o direito à restituição do pagamento de débito tributário prescrito."
+          }
+        ]
+      }
+    ]
+  }
+];
+const bindings116={"dt-denuncia": ["373725", "3248385"], "dt-suspensao": ["3228235"]};
+export const visualGuides=[...guides104.map(g=>bindings116[g.id]?{...g,confirmed:[...g.confirmed,...bindings116[g.id]]}:g),...guides116];
