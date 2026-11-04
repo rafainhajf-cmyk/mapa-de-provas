@@ -4866,6 +4866,149 @@
       "displayResolution": "A: o art.149, III, permite lançamento de ofício quando a pessoa obrigada, mesmo tendo apresentado declaração no prazo, não presta satisfatoriamente os esclarecimentos solicitados. B inventa mudança para homologação; C confunde obrigação com crédito inscrito; D eE afastam sem fundamento a atuação lançadora. O comentário anterior sobre ISS doloso e decadência era de outra questão e foi substituído.",
       "displayKnowledge": "Declaração entregue não impede ofício quando esclarecimentos solicitados são insatisfatórios.",
       "displayLaw": "CTN, art.149, III"
+    },
+    {
+      "questionId": "660091",
+      "answer": "A",
+      "guideId": "dt-decadencia",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 33,
+        "endPage": 34
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Dolo no caso: lançamento de ofício e decadência de cinco anos a partir do primeiro dia do exercício seguinte.",
+      "legalBasis": "CTN, arts.149, VII,150, §4º, e173, I",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [],
+      "excludedMentions": "Menções em distratores não são incidências diretas adicionais.",
+      "scope": "Enunciado, alternativas e gabarito integralmente lidos no PDF; confronto com fontes oficiais. Referência DT adicional não certificada neste lote.",
+      "temporalStatus": "Prova de2018: arts.150, §4º, e173, I. O §5º do art.150, acrescido em2026, é atualização posterior, não fundamento legislativo já existente em2018."
+    },
+    {
+      "questionId": "719773",
+      "answer": "B",
+      "guideId": "lote-alteracao-lancamento",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 34,
+        "endPage": 34
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "I,III eIV: impugnação, recurso de ofício ou iniciativa de ofício nas hipóteses legais.",
+      "legalBasis": "CTN, arts.145 e149",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [],
+      "excludedMentions": "Menções em distratores não são incidências diretas adicionais.",
+      "scope": "Enunciado, alternativas e gabarito integralmente lidos no PDF; confronto com fontes oficiais. Referência DT adicional não certificada neste lote.",
+      "temporalStatus": "Regra da prova mantida; alterações de2026 não substituem o regime histórico.",
+      "displayResolution": "E: apenasI,III eIV. O art.145 enumera impugnação do sujeito passivo, recurso de ofício e iniciativa de ofício da autoridade nos casos do art.149. O itemII cria fundamento autônomo de alteração que não consta desse rol: a eficácia normativa de uma decisão não dispensa enquadrar a revisão nas hipóteses legais. O comentário anterior tratava da questão seguinte sobre homologação; ele foi substituído na exibição, preservando-se o registro bruto.",
+      "displayKnowledge": "I,III eIV: impugnação, recurso de ofício ou iniciativa de ofício nas hipóteses legais.",
+      "displayLaw": "CTN, arts.145 e149",
+      "sourceAnswer": "E",
+      "reviewStatus": "with-caveat",
+      "sourceAnswerNote": "O consolidado preservado registrava B com comentário de outra questão. O PDF deste ID indica E, adotado na exibição. A resposta anterior não é confirmada como correta; texto bruto mantido para auditoria."
+    },
+    {
+      "questionId": "760021",
+      "answer": "B",
+      "guideId": "dt-modalidades",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 34,
+        "endPage": 34
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Atos anteriores à homologação visando extinguir crédito não influem sobre a obrigação, mas são considerados no saldo e penalidades.",
+      "legalBasis": "CTN, art.150, §§2º–3º",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [],
+      "excludedMentions": "Menções em distratores não são incidências diretas adicionais.",
+      "scope": "Enunciado, alternativas e gabarito integralmente lidos no PDF; confronto com fontes oficiais. Referência DT adicional não certificada neste lote.",
+      "temporalStatus": "Regra da prova mantida; alterações de2026 não substituem o regime histórico."
+    },
+    {
+      "questionId": "373098",
+      "answer": "D",
+      "guideId": "dt-modalidades",
+      "examYear": 2016,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 34,
+        "endPage": 34
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "SóIV: diferenças podem ser lançadas de ofício; depósito judicial não é, por si, pagamento extintivo.",
+      "legalBasis": "CTN, arts.142,147,149,150,151, II, e156",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [],
+      "excludedMentions": "Menções em distratores não são incidências diretas adicionais.",
+      "scope": "Enunciado, alternativas e gabarito integralmente lidos no PDF; confronto com fontes oficiais. Referência DT adicional não certificada neste lote.",
+      "temporalStatus": "Regra da prova mantida; alterações de2026 não substituem o regime histórico.",
+      "displayResolution": "A: apenasIV. A modalidade de lançamento segue o regime legal, e não uma escolha livre pelo menor ônus ou aproveitamento automático de benefícios não optados, o que afastaI. II descreve cálculo e recolhimento antecipado pelo contribuinte, próprios da homologação, e não o lançamento por declaração do art.147. III mistura meios de extinção com depósito judicial: o depósito integral suspende a exigibilidade, e a conversão em renda é que extingue o crédito; compensação depende das condições legais. IV descreve uma hipótese de lançamento de ofício de diferenças, sem esgotar todas as possibilidades do art.149. O antigo comentário sobre prescrição de débito declarado era de outra questão.",
+      "displayKnowledge": "SóIV: diferenças podem ser lançadas de ofício; depósito judicial não é, por si, pagamento extintivo.",
+      "displayLaw": "CTN, arts.142,147,149,150,151, II, e156",
+      "sourceAnswer": "A",
+      "reviewStatus": "with-caveat",
+      "sourceAnswerNote": "O consolidado preservado registrava D com comentário de outra questão. O PDF deste ID indica A, adotado na exibição. A resposta anterior não é confirmada como correta; texto bruto mantido para auditoria."
+    },
+    {
+      "questionId": "2740890",
+      "answer": "D",
+      "guideId": "lote-suspensao-preventiva",
+      "examYear": 2023,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 35,
+        "endPage": 35
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "PDFD: proteção preventiva pode anteceder o fato, sem pressupor crédito já constituído ou acesso antecipado a qualquer causa de suspensão.",
+      "legalBasis": "CTN, art.151, IV eV; Lei12.016/2009, arts.1º e7º, III",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [],
+      "excludedMentions": "Menções em distratores não são incidências diretas adicionais.",
+      "scope": "Enunciado, alternativas e gabarito integralmente lidos no PDF; confronto com fontes oficiais. Referência DT adicional não certificada neste lote.",
+      "temporalStatus": "PDF de2023 marcaD. Formulação exige leitura restrita à possibilidade de proteção preventiva, condicionada aos requisitos legais; não certificar como afirmação universal de suspensão antes do fato.",
+      "displayResolution": "Gabarito do PDF: D. A leitura é a possibilidade de proteção preventiva, como medida liminar em mandado de segurança preventivo diante de ameaça concreta, antes da ocorrência do fato tributário, com efeitos sobre a exigibilidade quando a obrigação surgir. Não se afirma que já exista crédito antes do fato nem que qualquer modalidade de suspensão possa ser utilizada nessa fase. A Lei12.016/2009 admite proteção por justo receio de violação, e o CTN151, IV, atribui efeito suspensivo à liminar concedida. O simples ajuizamento não basta. A, B eE confundem genericamente suspensão com contagem ou reinício de prazo; C inventa impedimento de retomada no mesmo exercício. A expressão a qualquer momento é excessivamente ampla se isolada dessas condições, por isso há ressalva de redação.",
+      "displayKnowledge": "PDFD: proteção preventiva pode anteceder o fato, sem pressupor crédito já constituído ou acesso antecipado a qualquer causa de suspensão.",
+      "displayLaw": "CTN, art.151, IV eV; Lei12.016/2009, arts.1º e7º, III",
+      "sourceAnswer": "D",
+      "reviewStatus": "with-caveat",
+      "additionalOfficialSources": [
+        "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm"
+      ]
+    },
+    {
+      "questionId": "877336",
+      "answer": "D",
+      "guideId": "lote-moratoria-alcance",
+      "examYear": 2019,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 35,
+        "endPage": 35
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Moratória alcança créditos constituídos ou lançamento já iniciado e notificado, salvo lei em contrário; não dispensa acessórias.",
+      "legalBasis": "CTN, arts.151, parágrafo único,152,154 e155",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [],
+      "excludedMentions": "Menções em distratores não são incidências diretas adicionais.",
+      "scope": "Enunciado, alternativas e gabarito integralmente lidos no PDF; confronto com fontes oficiais. Referência DT adicional não certificada neste lote.",
+      "temporalStatus": "Regra da prova mantida; alterações de2026 não substituem o regime histórico.",
+      "displayResolution": "D reproduz o art.154: salvo disposição de lei em contrário, a moratória abrange créditos definitivamente constituídos na data da lei ou despacho concessivo, ou cujo lançamento já tenha sido iniciado por ato regularmente notificado ao sujeito passivo. A inverte o art.155, I: dolo ou simulação do beneficiário ou de terceiro em seu benefício não afasta juros e penalidade cabível. B troca lei por decreto e confunde caráter geral com concessão individual por despacho autorizado em lei. C ignora que a concessão individual não gera direito adquirido e pode ser revogada de ofício nas hipóteses legais. E é falsa porque a suspensão não dispensa obrigações acessórias (art.151, parágrafo único).",
+      "displayKnowledge": "Moratória alcança créditos constituídos ou lançamento já iniciado e notificado, salvo lei em contrário; não dispensa acessórias.",
+      "displayLaw": "CTN, arts.151, parágrafo único,152,154 e155"
     }
   ]
 }

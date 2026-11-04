@@ -3167,4 +3167,205 @@ const guides190=[
 ];
 const bindings190={"guia-solidariedade": ["2021325", "2235905"], "dt-estabelecimento": ["2163526"], "dt-denuncia": ["2074820", "758665"], "dt-sujeicao": ["760212"], "lote-socios": ["373099"], "dt-modalidades": ["3561393", "3023157", "1752288", "877339", "867163"], "dt-lei-lancamento": ["2163755", "2235888"]};
 const blocks190={"guia-solidariedade": [{"type": "table", "title": "Art.134 × art.135", "rows": [["Ponto", "Art.134", "Art.135"], ["Condição", "Impossibilidade de exigir do contribuinte + intervenção/omissão", "Obrigação resultante de excesso de poderes ou infração legal/contratual/estatutária"], ["Responsáveis", "Terceiros enumerados, inclusive pais de menores", "Pessoas indicadas no dispositivo, inclusive gestores"], ["Formulação do CTN", "Solidariamente; condição inicial de impossibilidade", "Pessoalmente responsáveis"]]}, {"type": "callout", "kind": "warning", "title": "Pais não respondem só por parentesco", "text": "No caso2021325, verificar insuficiência patrimonial e ação/omissão relevante de cada responsável; guarda não é o único critério."}], "dt-estabelecimento": [{"type": "timeline", "title": "Seis meses contados da alienação", "steps": [{"label": "Aquisição da panificadora", "text": "José continua a exploração.", "kind": "success"}, {"label": "Até seis meses", "text": "Reinício de atividade do alienante, no mesmo ou outro ramo, permite regime subsidiário.", "kind": "warning"}, {"label": "Reinício só após sete meses", "text": "No caso2163526, aplica-se responsabilidade integral de José.", "kind": "success"}]}, {"type": "callout", "kind": "danger", "title": "Data da fiscalização não é o marco", "text": "Os oito meses até a visita fiscal não substituem os seis meses contados da alienação."}], "lote-socios": [{"type": "table", "title": "Inadimplemento × dissolução irregular", "rows": [["Situação", "Efeito"], ["Simples falta de pagamento", "Não basta por si para responsabilizar gestor"], ["Fechamento sem comunicação", "Pode caracterizar dissolução irregular"], ["Sócio sem gestão, só por integrar sociedade", "Sem responsabilidade automática"], ["Atualização Tema981/2022", "Examinar poderes de administração na dissolução, mesmo sem gestão no fato gerador"]]}, {"type": "callout", "kind": "warning", "title": "Questão373099 com ressalva", "text": "PDFD, apenasIII. O itemII usa sócios sem dizer todos; não usar a correção para negar redirecionamento ao sócio-gerente."}], "dt-modalidades": [{"type": "table", "title": "Antes e depois do lançamento", "rows": [["Marco", "Efeito"], ["Fato gerador", "Nasce obrigação principal"], ["Lançamento", "Constitui crédito; identifica sujeito passivo inclusive responsável legal"], ["Omissão ou inexatidão na atividade por homologação", "Pode justificar atuação de ofício"], ["Declaração e esclarecimento insatisfatório", "Não impede ofício, art.149, III"]]}], "dt-lei-lancamento": [{"type": "table", "title": "Caso: fatos de2019; mudança em2020", "rows": [["Matéria", "Lei aplicável"], ["Fatos geradores", "Lei material de2019"], ["Novos critérios de fiscalização", "Legislação procedimental de2020"], ["Inclusão de terceiro responsável", "Não retroagir a ampliação: regime de2019"]]}, {"type": "callout", "kind": "danger", "title": "Lançamento é vinculado e obrigatório", "text": "Na2235888 não há dispensa livre de multa só porque a outra infração vale mais. Novidades de2026 não substituem a resposta de2022."}]};
-export const visualGuides=[...reviewed168.map(g=>bindings190[g.id]?{...g,law:g.id==="guia-solidariedade"?"CTN, arts.124,134 e135":g.law,confirmed:[...g.confirmed,...bindings190[g.id]],blocks:[...g.blocks,...(blocks190[g.id]||[])],evidence:"Núcleo conferido; observar ressalvas documentais e temporais"}:g),...guides190];
+const reviewed190=[...reviewed168.map(g=>bindings190[g.id]?{...g,law:g.id==="guia-solidariedade"?"CTN, arts.124,134 e135":g.law,confirmed:[...g.confirmed,...bindings190[g.id]],blocks:[...g.blocks,...(blocks190[g.id]||[])],evidence:"Núcleo conferido; observar ressalvas documentais e temporais"}:g),...guides190];
+
+const guides196=[
+  {
+    "id": "lote-alteracao-lancamento",
+    "title": "Lançamento notificado: três vias de alteração",
+    "topic": "09 Crédito e lançamento",
+    "law": "CTN, arts.145 e149",
+    "confirmed": [
+      "719773"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "O fundamento precisa estar no rol",
+        "rows": [
+          [
+            "Via",
+            "Condição"
+          ],
+          [
+            "Impugnação",
+            "Iniciativa do sujeito passivo"
+          ],
+          [
+            "Recurso de ofício",
+            "Hipótese legal de revisão"
+          ],
+          [
+            "Iniciativa da autoridade",
+            "Casos previstos no art.149"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Decisão normativa não é uma quarta via livre",
+        "text": "A revisão deve caber nas hipóteses legais; não basta invocar genericamente autoridade com poder normativo."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Na719773 são corretosI,III eIV. O itemII acrescenta hipótese autônoma ausente do art.145. A revisão de ofício também respeita o limite do direito da Fazenda previsto no art.149, parágrafo único."
+          }
+        ]
+      }
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; observar ressalvas e regime temporal"
+  },
+  {
+    "id": "lote-suspensao-preventiva",
+    "title": "Proteção preventiva × crédito já constituído",
+    "topic": "11 Suspensão e exclusão",
+    "law": "CTN, art.151, IV; Lei12.016/2009, arts.1º e7º, III",
+    "confirmed": [
+      "2740890"
+    ],
+    "blocks": [
+      {
+        "type": "flowchart",
+        "title": "Medida preventiva não é automática",
+        "steps": [
+          {
+            "label": "Há ameaça concreta?",
+            "text": "Justo receio de violação, observados os requisitos processuais.",
+            "kind": "warning"
+          },
+          {
+            "label": "Foi concedida liminar?",
+            "text": "A mera propositura do mandado não basta para suspender.",
+            "kind": "warning"
+          },
+          {
+            "label": "Obrigação surge abrangida pela medida?",
+            "text": "A decisão pode impedir sua exigência nos limites concedidos.",
+            "kind": "success"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "title": "Não confundir os efeitos",
+        "rows": [
+          [
+            "Situação",
+            "Consequência"
+          ],
+          [
+            "Fato gerador ainda não ocorreu",
+            "Não presumir obrigação ou crédito já existente"
+          ],
+          [
+            "Proteção judicial preventiva válida",
+            "Pode anteceder o fato e alcançar a futura exigência"
+          ],
+          [
+            "Suspensão",
+            "Não extingue automaticamente o crédito"
+          ],
+          [
+            "Qualquer causa do art.151 antes do fato",
+            "Generalização indevida"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Questão2740890 tem ressalva",
+        "text": "PDFD. A expressão a qualquer momento precisa ser lida com os requisitos e limites da proteção preventiva."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A possibilidade preventiva não equivale a afirmar que todas as causas do art.151 funcionem antes do fato gerador. O fundamento processual é a proteção contra ameaça concreta; o efeito tributário depende da medida efetivamente concedida. Não há reinício universal de prazo por completo só porque ocorreu suspensão."
+          }
+        ]
+      }
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; observar ressalvas e regime temporal"
+  },
+  {
+    "id": "lote-moratoria-alcance",
+    "title": "Moratória: créditos abrangidos × requisitos da concessão",
+    "topic": "11 Suspensão e exclusão",
+    "law": "CTN, arts.151, parágrafo único,152,154 e155",
+    "confirmed": [
+      "877336"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Regra geral e limites",
+        "rows": [
+          [
+            "Ponto",
+            "Disciplina"
+          ],
+          [
+            "Créditos abrangidos, salvo lei em contrário",
+            "Definitivamente constituídos ou lançamento iniciado por ato regularmente notificado na data da concessão"
+          ],
+          [
+            "Caráter individual",
+            "Despacho autorizado por lei"
+          ],
+          [
+            "Direito adquirido",
+            "Concessão individual não o gera"
+          ],
+          [
+            "Dolo, fraude ou simulação em benefício do sujeito",
+            "Moratória não aproveita ao caso"
+          ],
+          [
+            "Obrigações acessórias",
+            "Não são dispensadas automaticamente"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "rule",
+        "title": "Na questão: alternativaD",
+        "text": "O próprio art.154 admite disposição legal em contrário sobre o alcance dos créditos."
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Decreto não substitui a lei autorizadora",
+        "text": "Não inventar divisão entre prazo de até seis meses por decreto e prazo maior por lei."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Na877336, A inverte juros e penalidade para dolo ou simulação; B confunde concessão geral e individual e admite decreto; C inventa direito adquirido; E dispensa indevidamente deveres acessórios. Na revogação individual, o art.155 diferencia hipóteses dolosas das demais."
+          }
+        ]
+      }
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; observar ressalvas e regime temporal"
+  }
+];
+const bindings196={"dt-decadencia": ["660091"], "dt-modalidades": ["760021", "373098"]};
+const blocks196={"dt-modalidades": [{"type": "table", "title": "Homologação: obrigação × crédito", "rows": [["Ato anterior à homologação", "Efeito"], ["Pagamento ou outro ato destinado a extinguir crédito", "Não altera, por si, a obrigação que lhe deu origem"], ["Apuração do saldo e penalidades", "Considerar os atos anteriores, conforme art.150, §3º"], ["Depósito judicial integral", "Suspende exigibilidade; não é por si pagamento extintivo"], ["Diferença apurada pela autoridade", "Pode ser lançada de ofício nas hipóteses legais"]]}], "dt-decadencia": [{"type": "callout", "kind": "warning", "title": "Dolo: não contar da descoberta", "text": "No caso660091, o quinquênio do art.173, I, começa no primeiro dia do exercício seguinte ao que o lançamento poderia ter sido efetuado; não é prazo de prescrição."}]};
+export const visualGuides=[...reviewed190.map(g=>bindings196[g.id]?{...g,confirmed:[...g.confirmed,...bindings196[g.id]],blocks:[...g.blocks,...(blocks196[g.id]||[])],evidence:"Núcleo conferido; observar ressalvas e regime temporal"}:g),...guides196];

@@ -128,3 +128,11 @@ Validação: build e 34 testes aprovados, incluindo integração dos 100 registr
 - Cinco novos esquemas:substituição, sucessão por morte, alienação judicial, infrações e retificação. Reforçados134×135, seis meses da alienação, responsabilidade dos gestores e leis material/procedimental. Matriz2163755 reconstruída como cinco alternativas completas.
 - Fontes oficiais:CTN128–150; CF150§7º; CC1595§1º; STJ Súmulas430/435 e Tema981, este como atualização posterior a2016. Art.138 e novidades142/150 de2026 separados do regime das provas. Não se certificaram novas seções DT neste lote.
 - Backup localbackup/normativo-168-local; publicação anterior44d9b0a.
+
+
+### Continuação em04/11/2026 —196 questões e94 esquemas
+- Publicado o lote de seis questões analisado durante a indisponibilidade do ambiente:660091,719773,760021,373098,2740890 e877336 (3.pdf,p.33–35). Permanecem307 pendentes.
+- Gabaritos deslocados719773(B→E) e373098(D→A) corrigidos na exibição, com raw/answer preservados e nota documental explícita.
+- Três novos esquemas:alteração do lançamento, proteção preventiva e alcance da moratória. Reforçada diferença entre depósito suspensivo e extinção.
+- Questão2740890 com ressalva: proteção preventiva pode anteceder fato sob requisitos processuais; não implica crédito já existente nem aplicação antecipada universal do art.151. Fontes:CTN145,149–155,173; Lei12.016/2009,1º/7ºIII.
+- CTN150§5º de2026 mantido como posterior à prova de2018; sem nova certificação DT neste lote. Backup backup/normativo-190-local; publicação anterior7729865.
