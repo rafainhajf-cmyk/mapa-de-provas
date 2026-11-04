@@ -1696,4 +1696,580 @@ const guides116=[
   }
 ];
 const bindings116={"dt-denuncia": ["373725", "3248385"], "dt-suspensao": ["3228235"]};
-export const visualGuides=[...guides104.map(g=>bindings116[g.id]?{...g,confirmed:[...g.confirmed,...bindings116[g.id]],evidence:'Núcleo conferido; observar ressalvas e contexto temporal nas questões'}:g),...guides116];
+const reviewed116=[...guides104.map(g=>bindings116[g.id]?{...g,confirmed:[...g.confirmed,...bindings116[g.id]],evidence:'Núcleo conferido; observar ressalvas e contexto temporal nas questões'}:g),...guides116];
+
+const guides131=[
+  {
+    "id": "lote-ipva-notificacao",
+    "title": "IPVA: notificação do lançamento × vencimento × prescrição",
+    "topic": "10 Extinção e indébito",
+    "law": "STJ, Tema903; CTN, art.174",
+    "confirmed": [
+      "609603"
+    ],
+    "source": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_inicial=903&cod_tema_final=903&novaConsulta=true&tipo_pesquisa=T",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar contexto temporal e ressalvas das questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Três marcos diferentes",
+        "rows": [
+          [
+            "Marco",
+            "Efeito"
+          ],
+          [
+            "Notificação para recolherIPVA",
+            "Constitui o crédito no lançamento de ofício"
+          ],
+          [
+            "Dia seguinte ao vencimento",
+            "Inicia a prescrição para cobrança"
+          ],
+          [
+            "Novo processo após inadimplemento",
+            "Não recria crédito nem reinicia por si o prazo"
+          ]
+        ]
+      },
+      {
+        "type": "timeline",
+        "title": "Exemplo da questão609603",
+        "steps": [
+          {
+            "label": "Janeiro/2012",
+            "text": "Notificação com valor e instruções para pagar.",
+            "kind": "neutral"
+          },
+          {
+            "label": "10/02/2012",
+            "text": "Vencimento da obrigação.",
+            "kind": "warning"
+          },
+          {
+            "label": "11/02/2012",
+            "text": "Início do prazo para cobrança, conforme Tema903.",
+            "kind": "warning"
+          },
+          {
+            "label": "Fevereiro/2017",
+            "text": "Quinquênio consumado nas condições do enunciado.",
+            "kind": "danger"
+          }
+        ]
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A execução proposta em 2018 não salva um crédito já prescrito. Não confundir a constituição pela notificação com um processo administrativo posterior instaurado para o inadimplemento."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-energia-consumidor",
+    "title": "ICMS de energia: contribuinte de fato × legitimidade para restituição",
+    "topic": "ICMS",
+    "law": "STJ, Tema537",
+    "confirmed": [
+      "263637"
+    ],
+    "source": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_inicial=537&cod_tema_final=537&novaConsulta=true&tipo_pesquisa=T",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar contexto temporal e ressalvas das questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "O enquadramento resolve a questão",
+        "rows": [
+          [
+            "Pessoa",
+            "Posição no caso"
+          ],
+          [
+            "Distribuidora",
+            "Contribuinte de direito na relação tributária"
+          ],
+          [
+            "Consumidor de energia",
+            "Contribuinte de fato; suporta o encargo"
+          ],
+          [
+            "Demanda contratada e não utilizada",
+            "Consumidor tem legitimidade para discutir e pedir repetição"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Exceção específica",
+        "text": "A legitimidade decorre da relação peculiar entre concedente, concessionária e consumidor. Não generalizar a todo contribuinte de fato."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O Tema537 distingue a energia elétrica de outros regimes de tributos indiretos. Ser contribuinte de fato não torna o consumidor contribuinte de direito; a legitimidade processual é que é reconhecida nesta hipótese."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-isencao-onerosa",
+    "title": "Isenção comum × isenção com prazo e condição onerosa",
+    "topic": "11 Suspensão e exclusão",
+    "law": "CTN, arts.175 e178; STF, Súmula544",
+    "confirmed": [
+      "1147522"
+    ],
+    "source": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2283",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar contexto temporal e ressalvas das questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Proteção depende dos requisitos",
+        "rows": [
+          [
+            "Hipótese",
+            "Regra"
+          ],
+          [
+            "Isenção sem a proteção específica",
+            "Pode ser alterada por lei, observadas as garantias aplicáveis"
+          ],
+          [
+            "Prazo certo e condição onerosa",
+            "Não pode ser livremente suprimida"
+          ],
+          [
+            "Isenção em caráter individual",
+            "Despacho reconhece requisitos legais; não elimina deveres acessórios"
+          ],
+          [
+            "Isenção no CTN",
+            "Exclusão do crédito, não extinção"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "O rótulo da lei não cria hierarquia absoluta",
+        "text": "Dispositivo apenas formalmente complementar e materialmente ordinário pode ser alterado por lei ordinária nos limites constitucionais."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A proteção da isenção onerosa exige analisar o prazo e as condições. A questão de 2020 não se fundamenta na SV62 de 2025: os precedentes anteriores já distinguiam matéria reservada àlei complementar de dispositivo materialmente ordinário. Tratados celebrados pela República também não se confundem com isenção heterônoma interna da União."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-fraude-fiscal",
+    "title": "Fraude fiscal: antes × depois de 09/06/2005",
+    "topic": "12 Garantias e administração",
+    "law": "CTN, art.185; STJ, Tema290",
+    "confirmed": [
+      "3252193"
+    ],
+    "source": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_inicial=290&cod_tema_final=290&novaConsulta=true&tipo_pesquisa=T",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar contexto temporal e ressalvas das questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "O marco temporal muda a regra",
+        "rows": [
+          [
+            "Alienação",
+            "Marco relevante"
+          ],
+          [
+            "Até08/06/2005",
+            "Citação do devedor na execução fiscal"
+          ],
+          [
+            "A partir de 09/06/2005",
+            "Inscrição regular em dívida ativa"
+          ],
+          [
+            "Reserva de bens/rendas suficientes",
+            "Afasta a presunção nos termos do art.185, parágrafo único"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Boa-fé não basta nesta hipótese",
+        "text": "Não importar automaticamente aSúmula375 da execução comum para afastar a presunção absoluta tributária."
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Não omitir a reserva suficiente",
+        "text": "A presunção pressupõe o cenário do art.185; alienação com patrimônio reservado suficiente tem tratamento distinto."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A jurisprudência do Tema290 dispensa registro de penhora e prova de má-fé no regime tributário. Alienações sucessivas não tornam relativa a presunção. O ato é ineficaz perante a cobrança nas condições legais; não ensinar que toda venda de devedor fiscal é proibida."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-preferencias-entes",
+    "title": "Créditos fiscais concorrentes: hierarquia federativa × ordem das penhoras",
+    "topic": "12 Garantias e administração",
+    "law": "STF, ADPF357; CPC, arts.797 e908",
+    "confirmed": [
+      "3127385"
+    ],
+    "source": "https://www.gov.br/pgfn/pt-br/cidadania-tributaria/por-assunto/execucao-fiscal/penhora-e-indisponibilidade",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar contexto temporal e ressalvas das questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Caso concreto: três Fazendas e credor comum",
+        "rows": [
+          [
+            "Credor",
+            "Dívida",
+            "Preferência narrada"
+          ],
+          [
+            "Estado",
+            "R$ 20.000",
+            "Primeira penhora fiscal"
+          ],
+          [
+            "Município",
+            "R$ 10.000",
+            "Segunda penhora fiscal"
+          ],
+          [
+            "União",
+            "R$ 30.000",
+            "Terceira penhora fiscal"
+          ],
+          [
+            "Rufino",
+            "R$50.000",
+            "Quirografário; recebe eventual sobra após os fiscais"
+          ]
+        ]
+      },
+      {
+        "type": "formula",
+        "text": "R$ 70.000 − R$ 20.000 − R$ 10.000 − R$ 30.000 = R$ 10.000 para o credor comum"
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "União não passa automaticamente àfrente",
+        "text": "A ordem União–Estados–Municípios do antigo art.187, parágrafo único, foi afastada pela ADPF357."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O critério das penhoras é aplicado ao concurso singular narrado. Não universalizar essa ordem para falência ou situações de rateio em outros regimes. A preferência material tributária antecede o crédito quirografário, ainda que este seja mais antigo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-sancoes-politicas",
+    "title": "Retenção para fiscalizar × apreensão para cobrar tributo",
+    "topic": "12 Garantias e administração",
+    "law": "STF, ADI395 eSúmula323",
+    "confirmed": [
+      "300953"
+    ],
+    "source": "https://noticias.stf.jus.br/postsnoticias/stf-declara-constitucional-norma-tributaria-do-estado-de-sao-paulo/",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar contexto temporal e ressalvas das questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Finalidades distintas",
+        "rows": [
+          [
+            "Medida",
+            "Tratamento"
+          ],
+          [
+            "Mercadoria sem documento idôneo; comprovação da posse legítima",
+            "Fiscalização admitida na ADI395"
+          ],
+          [
+            "Reter até o devedor pagar imposto",
+            "Coação vedada pelaSúmula323"
+          ],
+          [
+            "Obrigação acessória regular",
+            "Não é automaticamente sanção política"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Questão com ressalva de unicidade",
+        "text": "O PDF indicaE. A alternativaC admite leitura verdadeira em hipóteses de denúncia espontânea de tributos por homologação; não ensinar proibição absoluta."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A ressalva não equivale a declarar a questão anulada. A conclusão segura é a diferença entre fiscalização da origem/posse e retenção como instrumento de cobrança. O comando daSúmula360 é específico para tributo regularmente declarado e pago em atraso, e não uma vedação a todo tributo por homologação."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-averbacao-cda",
+    "title": "CDA: publicidade registral × indisponibilidade administrativa",
+    "topic": "12 Garantias e administração",
+    "law": "STF, ADIs5881 e conexas",
+    "confirmed": [
+      "3419877"
+    ],
+    "source": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=456910&ori=1",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar contexto temporal e ressalvas das questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "MesmaCDA, efeitos diferentes",
+        "rows": [
+          [
+            "Ato",
+            "Conclusão no julgamento"
+          ],
+          [
+            "Averbação pré-executória em registro",
+            "Admitida para publicidade e proteção de terceiros"
+          ],
+          [
+            "Indisponibilidade dos bens peloFisco sem ordem judicial",
+            "Vedada no regime examinado"
+          ],
+          [
+            "Comunicação a cadastro de crédito",
+            "Não se confunde automaticamente com bloqueio patrimonial"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Averbar não é tornar indisponível",
+        "text": "Não usar a constitucionalidade da publicidade para justificar o bloqueio administrativo."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O STF julgou conjuntamente seisADIs em 2020. Os demais requisitos da cobrança e a fiscalização judicial continuam relevantes. Este quadro trata do regime específico da averbação pré-executória e não elimina todas as formas legais de restrição patrimonial."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-cda-correcao",
+    "title": "CDA: erro de grafia × troca do sujeito passivo",
+    "topic": "12 Garantias e administração",
+    "law": "STJ, Súmula392",
+    "confirmed": [
+      "87990",
+      "282885"
+    ],
+    "source": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=392.num.",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar contexto temporal e ressalvas das questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Parece erro de nome, mas o efeito é diferente",
+        "rows": [
+          [
+            "Situação",
+            "Substituir a CDA?"
+          ],
+          [
+            "QTN em vez deQTRN: mesma empresa",
+            "Sim, erro material/formal, no prazo admitido"
+          ],
+          [
+            "Foi executada pessoa diferente da devedora",
+            "Não para trocar o sujeito passivo"
+          ],
+          [
+            "Momento da correção admitida",
+            "Até a prolação da sentença de embargos"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "rule",
+        "title": "Corrigir identificação não é criar outro devedor",
+        "text": "Verifique se a pessoa é a mesma antes de classificar o problema como mero erro material."
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não corrigir a qualquer tempo",
+        "text": "A Súmula392 fixa limite processual e veda mudança do sujeito passivo."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A87990 descreve pessoa diversa, portanto não há simples correção de grafia. A282885 mantém a mesma empresa e corrige a escrita do nome. A concordância do executado não substitui os requisitos legais da correção."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-difal-simples",
+    "title": "DIFAL doSimples: constitucionalidade × lei estadual",
+    "topic": "ICMS",
+    "law": "STF, Temas517 e1284",
+    "confirmed": [
+      "3228243"
+    ],
+    "source": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=520843",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar contexto temporal e ressalvas das questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Duas perguntas sucessivas",
+        "rows": [
+          [
+            "Pergunta",
+            "Resposta"
+          ],
+          [
+            "Pode haverDIFAL para empresa doSimples?",
+            "Sim, conforme Tema517, mesmo sem compensação de créditos"
+          ],
+          [
+            "Basta a previsão na LC123 e um decreto?",
+            "Não: é necessária lei estadual em sentido estrito"
+          ],
+          [
+            "Qual precedente explicita a legalidade?",
+            "Tema1284, reafirmado em 2023"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Constitucional em tese não dispensa lei",
+        "text": "O decreto não institui sozinho a obrigação tributária."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A posição da empresa na cadeia produtiva ou a ausência de creditamento não afasta, por si, a validade reconhecida no Tema517. A questão de 2025 combina esse ponto com a reserva de lei estadual do Tema1284."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lote-icms-tres-regras",
+    "title": "ICMS: transferência entre filiais × restituiçãoST × energia",
+    "topic": "ICMS",
+    "law": "STF, ADC49 eTemas201,745 e1367",
+    "confirmed": [
+      "3685885"
+    ],
+    "source": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464511&tip=UN",
+    "checkedAt": "2026-11-03",
+    "evidence": "Núcleo conferido; observar contexto temporal e ressalvas das questões",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Três regras, sem trocar o fundamento",
+        "rows": [
+          [
+            "Tema",
+            "Regra"
+          ],
+          [
+            "Mero deslocamento entre estabelecimentos do mesmo titular",
+            "Não é circulação jurídica tributável; observar regime e recorte temporal"
+          ],
+          [
+            "Base efetiva inferior àpresumida no ICMS-ST",
+            "Cabe restituição da diferença"
+          ],
+          [
+            "Energia elétrica e seletividade",
+            "Não adotar alíquota superior à geral desconsiderando a essencialidade"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Modulação exige atualização",
+        "text": "O Tema1367 foi alterado emembargos: não autoriza cobrança de operações anteriores a 2024 em que o tributo não foi pago. Não usar a tese anterior como regra atual fixa."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O itemII resolve o gabaritoC. ADC49/Tema1099 eTema745 afastam as generalizações dos itensI eIII. A transferência tem disciplina legal própria, inclusive opção de equiparação, e o resumo não dispensa verificar o fato, a data e a legislação aplicável. Para a restituiçãoST, o Tema201 compara a base efetiva com a presumida."
+          }
+        ]
+      }
+    ]
+  }
+];
+const bindings131={"lote-declaracao-prescricao": ["1147525", "87988"], "dt-preferencias": ["3670604"], "dt-certidoes": ["1768970"]};
+const blocks131={"dt-certidoes": [{"type": "table", "title": "CPEN: garantia e condição do ente público", "rows": [["Hipótese", "Cuidado"], ["Ente público em ação anulatória/execução embargada", "Tema273 admiteCPEN sem penhora"], ["Garantia antecipada idônea", "Tema237 pode permitirCPEN; não éCND automática"], ["Fiança versus depósito integral", "Não equiparar para todos os efeitos; contexto legal e temporal importam"]]}, {"type": "callout", "kind": "warning", "title": "Atualização posterior àprova", "text": "O art.151, X, acrescido em 2026, é hipótese autônoma condicionada. Não reescrever o gabarito de 2021 como se já existisse."}], "dt-preferencias": [{"type": "table", "title": "Falência: tributo principal × multa", "rows": [["Crédito", "Tratamento no CTN"], ["Tributo concursal", "Não prefere a extraconcursais, restituições e garantia real no limite legal"], ["Multa tributária", "Prefere apenas aos subordinados"], ["Fato gerador no curso da falência", "Tributo extraconcursal: art.188"]]}]};
+export const visualGuides=[...reviewed116.map(g=>bindings131[g.id]?{...g,confirmed:[...g.confirmed,...bindings131[g.id]],blocks:[...g.blocks,...(blocks131[g.id]||[])],evidence:"Núcleo conferido; observar ressalvas e contexto temporal nas questões"}:g),...guides131];

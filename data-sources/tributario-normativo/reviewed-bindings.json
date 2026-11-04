@@ -2909,6 +2909,393 @@
       "scope": "Enunciado, todas as alternativas e gabarito do PDF lidos; confronto da regra decisiva e dos distratores com legislação e jurisprudência oficiais.",
       "temporalStatus": "Resposta histórica preservada. O apoio DT é de2026: novidades da LC236/2026 não fundamentam retroativamente a prova.",
       "displayResolution": "E é correta: a declaração constituiu o crédito, e a inscrição em dívida ativa não reiniciou por si a prescrição tributária. Nas condições do enunciado, seis anos após o vencimento o crédito já estava extinto por prescrição antes do pedido de parcelamento. A confissão posterior não o recria. Por isso, é indevida a execução remanescente e são repetíveis os pagamentos do crédito prescrito, conforme a interpretação conjunta dos arts.156, V, e165, I, do CTN (REsp646328/RS). A eB erram os marcos; C ignora a extinção; D nega indevidamente a restituição."
+    },
+    {
+      "questionId": "1147525",
+      "answer": "D",
+      "guideId": "lote-declaracao-prescricao",
+      "examYear": 2020,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 14,
+        "endPage": 15
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "A declaração do débito constitui o crédito; prescrição é de cobrança e também extingue o crédito.",
+      "legalBasis": "CTN, arts.156, V, e174; STJ, Súmula436",
+      "officialUrl": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=436.num.",
+      "dtReferences": [
+        {
+          "volume": 6,
+          "section": "07.1",
+          "title": "Cinco Anos da Constituição Definitiva",
+          "page": 26
+        }
+      ],
+      "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
+      "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
+      "temporalStatus": "Julgamento histórico separado das atualizações. A edição DT de 2026 não substitui a legislação do ano da prova.",
+      "displayResolution": "D está correta: o reconhecimento do débito em declaração constitui o crédito sem novo lançamento; vencido o tributo, inicia-se a prescrição de cobrança, observado o momento da declaração. A é falsa porque confissão e parcelamento não impedem a discussão de decadência já consumada. B ignora a reserva de lei complementar para normas gerais de decadência e prescrição. C contraria a jurisprudência do depósito em tributo por homologação: no montante depositado, o crédito é constituído, sem exigir novo lançamento apenas para evitar decadência. E erra porque prescrição e decadência extinguem o crédito no art.156, V. O texto anterior abreviado permanece no registro bruto."
+    },
+    {
+      "questionId": "609603",
+      "answer": "E",
+      "guideId": "lote-ipva-notificacao",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 15,
+        "endPage": 15
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Notificação do IPVA já constitui o crédito; processo posterior não reinicia prescrição do débito antes constituído.",
+      "legalBasis": "STJ, Tema903; CTN, art.174",
+      "officialUrl": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_inicial=903&cod_tema_final=903&novaConsulta=true&tipo_pesquisa=T",
+      "dtReferences": [
+        {
+          "volume": 6,
+          "section": "07.1",
+          "title": "Cinco Anos da Constituição Definitiva",
+          "page": 26
+        }
+      ],
+      "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
+      "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
+      "temporalStatus": "Julgamento histórico separado das atualizações. A edição DT de 2026 não substitui a legislação do ano da prova."
+    },
+    {
+      "questionId": "263637",
+      "answer": "B",
+      "guideId": "lote-energia-consumidor",
+      "examYear": 2015,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 15,
+        "endPage": 15
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Consumidor de energia é contribuinte de fato e tem legitimidade na hipótese específica de demanda contratada e não utilizada.",
+      "legalBasis": "STJ, Tema537",
+      "officialUrl": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_inicial=537&cod_tema_final=537&novaConsulta=true&tipo_pesquisa=T",
+      "dtReferences": [],
+      "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
+      "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
+      "temporalStatus": "Julgamento histórico separado das atualizações. A edição DT de 2026 não substitui a legislação do ano da prova.",
+      "displayResolution": "B é a resposta do PDF e do Tema537/STJ: o consumidor, contribuinte de fato, tem legitimidade para discutir ICMS sobre demanda contratada e não utilizada de energia elétrica. A erra a posição jurídica do consumidor; C eD lhe negam legitimidade por esse enquadramento. E desloca a resposta para a concessionária sem resolver a legitimidade excepcional do consumidor no caso narrado. Não generalizar essa exceção a qualquer contribuinte de fato ou a qualquer tributo indireto."
+    },
+    {
+      "questionId": "87988",
+      "answer": "C",
+      "guideId": "lote-declaracao-prescricao",
+      "examYear": 2011,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 15,
+        "endPage": 15
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "GIA constitui o ICMS declarado; a ação em junho/2010 é posterior ao quinquênio iniciado após o vencimento de março/2005.",
+      "legalBasis": "STJ, Súmula436; CTN, art.174",
+      "officialUrl": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=436.num.",
+      "dtReferences": [
+        {
+          "volume": 6,
+          "section": "07.1",
+          "title": "Cinco Anos da Constituição Definitiva",
+          "page": 26
+        }
+      ],
+      "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
+      "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
+      "temporalStatus": "Julgamento histórico separado das atualizações. A edição DT de 2026 não substitui a legislação do ano da prova."
+    },
+    {
+      "questionId": "1147522",
+      "answer": "E",
+      "guideId": "lote-isencao-onerosa",
+      "examYear": 2020,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 16,
+        "endPage": 16
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Isenção por prazo certo e condição onerosa não pode ser livremente suprimida; não confundir exclusão com extinção.",
+      "legalBasis": "CTN, arts.175,178 e179; STF, Súmula544",
+      "officialUrl": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2283",
+      "dtReferences": [],
+      "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
+      "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
+      "temporalStatus": "Súmula544 eTema71 anteriores àprova de 2020. A SV62 de 2025 consolidou posteriormente a revogação da isenção materialmente ordinária daCOFINS; não usá-la como ato já existente em 2020."
+    },
+    {
+      "questionId": "3670604",
+      "answer": "D",
+      "guideId": "dt-preferencias",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 16,
+        "endPage": 16
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Crédito tributário concursal não prefere aos extraconcursais; fato gerador no curso da falência é extraconcursal.",
+      "legalBasis": "CTN, arts.186 e188; STF, ADPF357 eADI5894",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 6,
+          "section": "09.2",
+          "title": "Preferência na Falência: os Três Limites",
+          "page": 38
+        },
+        {
+          "volume": 6,
+          "section": "09.4",
+          "title": "Créditos Extraconcursais e a Reserva de Bens na Falência",
+          "page": 40
+        }
+      ],
+      "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
+      "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
+      "temporalStatus": "ADI5894: julgamento concluído em24/04/2025; acórdão publicado em23/06/2025 e trânsito em 01/07/2025. Dia da prova não certificado. A correção da D resulta dos arts.186 e188 já vigentes.",
+      "displayResolution": "D está correta: o crédito tributário concursal não prefere aos extraconcursais e o art.188 classifica como extraconcursal o crédito cujo fato gerador ocorre no curso da falência. A erra ao colocar a multa na mesma posição do principal. B repete hierarquia federativa afastada pela ADPF357. C omite a ressalva dos créditos trabalhistas e generaliza a preferência. E é falsa: no arrolamento sumário, a disciplina do CPC que dispensa prévia quitação do ITCMD para o formal de partilha foi preservada na ADI5894; isso não equivale a dispensar todos os tributos sobre bens e rendas do espólio. O dia exato da prova não está certificado, e a ADI5894 foi concluída em24/04/2025.",
+      "reviewStatus": "with-caveat",
+      "additionalOfficialSources": [
+        {
+          "title": "STF, ADI5894 e datas do julgamento",
+          "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=5349231"
+        }
+      ]
+    },
+    {
+      "questionId": "3252193",
+      "answer": "D",
+      "guideId": "lote-fraude-fiscal",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 16,
+        "endPage": 16
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Após09/06/2005, alienação posterior à inscrição sem reserva suficiente gera presunção absoluta de fraude fiscal.",
+      "legalBasis": "CTN, art.185; STJ, Tema290",
+      "officialUrl": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_inicial=290&cod_tema_final=290&novaConsulta=true&tipo_pesquisa=T",
+      "dtReferences": [
+        {
+          "volume": 6,
+          "section": "08.3",
+          "title": "Presunção de Fraude e a Reserva de Bens",
+          "page": 36
+        }
+      ],
+      "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
+      "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
+      "temporalStatus": "Julgamento histórico separado das atualizações. A edição DT de 2026 não substitui a legislação do ano da prova."
+    },
+    {
+      "questionId": "3127385",
+      "answer": "D",
+      "guideId": "lote-preferencias-entes",
+      "examYear": 2024,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 16,
+        "endPage": 16
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Não existe prioridade automática da União: no concurso narrado, ordem das penhoras fiscais é Estado, Município eUnião.",
+      "legalBasis": "STF, ADPF357; CTN, art.186; CPC, arts.797 e908",
+      "officialUrl": "https://www.gov.br/pgfn/pt-br/cidadania-tributaria/por-assunto/execucao-fiscal/penhora-e-indisponibilidade",
+      "dtReferences": [],
+      "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
+      "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
+      "temporalStatus": "Julgamento histórico separado das atualizações. A edição DT de 2026 não substitui a legislação do ano da prova.",
+      "displayResolution": "D está correta. O crédito tributário prefere ao empréstimo quirografário de Rufino, independentemente de ser mais recente. A ADPF357 afastou a ordem automática União–Estados–Municípios. No concurso concreto, seguem-se as penhoras fiscais narradas: Estado primeiro, Município depois eUnião em seguida. DosR$ 70.000: R$ 20.000 ao Estado, R$ 10.000 ao Município eR$ 30.000 à União; sobramR$ 10.000 para Rufino. A inverte a ordem; B eC dão indevida prioridade ao empréstimo; E aplica a hierarquia federativa afastada."
+    },
+    {
+      "questionId": "300953",
+      "answer": "E",
+      "guideId": "lote-sancoes-politicas",
+      "examYear": 2015,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 17,
+        "endPage": 17
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "PDF indica E: retenção para verificar posse legítima não se confunde com coação para pagamento; alternativa C tem redação genérica e exige ressalva.",
+      "legalBasis": "STF, ADI395 eSúmula323; STJ, Súmula360",
+      "officialUrl": "https://noticias.stf.jus.br/postsnoticias/stf-declara-constitucional-norma-tributaria-do-estado-de-sao-paulo/",
+      "dtReferences": [],
+      "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
+      "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
+      "temporalStatus": "Ressalva de unicidade: C é genérica e pode descrever hipóteses válidas de denúncia espontânea em tributos por homologação. Não foi comprovada anulação da questão; manter E como gabarito do PDF.",
+      "displayResolution": "O PDF aponta E, coerente com a ADI395: pode haver retenção de mercadoria sem documento idôneo para comprovar legitimidade da posse; não se admite reter para forçar o pagamento de tributo (Súmula323/STF). A confunde sanção política com toda obrigação acessória. D generaliza o uso deACP para discussão tributária vedada nesses termos. Há ressalva de unicidade: C apenas diz que o STJ admite denúncia espontânea em casos de tributo por homologação, o que é verdadeiro em hipóteses que não sejam a mera declaração seguida de pagamento tardio. A Súmula360 não torna falsa toda aplicação do benefício nessa modalidade. B também exige distinguir suspensão de exigibilidade e efeitos específicos da garantia sobre cadastro. Preserva-se E como gabarito documental, sem inventar anulação ou ensinar que C é sempre falsa.",
+      "reviewStatus": "with-caveat",
+      "sourceAnswer": "E"
+    },
+    {
+      "questionId": "3419877",
+      "answer": "A",
+      "guideId": "lote-averbacao-cda",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 17,
+        "endPage": 17
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Averbação pré-executória da CDA é admitida, mas não autoriza indisponibilidade administrativa de bens.",
+      "legalBasis": "STF, ADIs5881,5886,5890,5925,5931 e5932",
+      "officialUrl": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=456910&ori=1",
+      "dtReferences": [],
+      "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
+      "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
+      "temporalStatus": "Julgamento histórico separado das atualizações. A edição DT de 2026 não substitui a legislação do ano da prova.",
+      "displayResolution": "A corresponde ao julgamento conjunto das ADIs5881 e conexas: averbar a CDA em registros dá publicidade e protege terceiros, mas não autoriza tornar os bens indisponíveis por ato administrativo. B invalida indevidamente a averbação; C trata toda medida de publicidade/cadastro como sanção política; D atribui vício formal indistinto; E convalida o bloqueio administrativo vedado. Publicidade registral e indisponibilidade patrimonial são efeitos distintos."
+    },
+    {
+      "questionId": "87990",
+      "answer": "D",
+      "guideId": "lote-cda-correcao",
+      "examYear": 2011,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 17,
+        "endPage": 17
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Substituir CDA não permite trocar o sujeito passivo: não se trata de mero erro de grafia.",
+      "legalBasis": "STJ, Súmula392",
+      "officialUrl": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=392.num.",
+      "dtReferences": [
+        {
+          "volume": 7,
+          "section": "07.3",
+          "title": "O Termo de Inscrição: o Devedor e os Corresponsáveis",
+          "page": 20
+        }
+      ],
+      "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
+      "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
+      "temporalStatus": "Julgamento histórico separado das atualizações. A edição DT de 2026 não substitui a legislação do ano da prova."
+    },
+    {
+      "questionId": "1768970",
+      "answer": "D",
+      "guideId": "dt-certidoes",
+      "examYear": 2021,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 17,
+        "endPage": 18
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Ente público em ação anulatória tem direito à CPEN independentemente de penhora, porque seus bens não se sujeitam à expropriação.",
+      "legalBasis": "STJ, Tema273; CTN, art.206",
+      "officialUrl": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?cod_tema_inicial=273&cod_tema_final=273&novaConsulta=true&tipo_pesquisa=T",
+      "dtReferences": [
+        {
+          "volume": 7,
+          "section": "08.3",
+          "title": "A Certidão Positiva com Efeito de Negativa",
+          "page": 22
+        }
+      ],
+      "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
+      "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
+      "temporalStatus": "Prova de 2021. Não negarCPEN por garantia judicial idônea nem equiparar genericamente fiança a depósito integral. Tema237 trata da garantia antecipada; art.151, X, é acréscimo posterior de 2026.",
+      "displayResolution": "D corresponde ao Tema273/STJ: Fazenda Pública em ação anulatória ou execução embargada pode obterCPEN sem penhora, diante da inexpropriabilidade dos seus bens. A exige depósito antes da liminar sem fundamento. B afirma exigência genérica para baixa cadastral. C ignora que a declaração já constitui o débito. E precisa ser lida com cuidado: fiança não se equipara de modo irrestrito ao depósito integral para todos os efeitos ou para gerarCND; porém garantia judicial idônea pode fundamentarCPEN, inclusive por antecipação de garantia (Tema237). Não confundir regularidade fiscal por garantia com suspensão pelo depósito. A LC236/2026 introduziu posteriormente hipótese autônoma no art.151, X, sob condições próprias.",
+      "reviewStatus": "with-caveat"
+    },
+    {
+      "questionId": "282885",
+      "answer": "A",
+      "guideId": "lote-cda-correcao",
+      "examYear": 2014,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 18,
+        "endPage": 18
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Erro de grafia sem mudança do devedor pode ser corrigido por substituição até a sentença dos embargos.",
+      "legalBasis": "STJ, Súmula392",
+      "officialUrl": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=392.num.",
+      "dtReferences": [
+        {
+          "volume": 7,
+          "section": "07.3",
+          "title": "O Termo de Inscrição: o Devedor e os Corresponsáveis",
+          "page": 20
+        }
+      ],
+      "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
+      "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
+      "temporalStatus": "Julgamento histórico separado das atualizações. A edição DT de 2026 não substitui a legislação do ano da prova."
+    },
+    {
+      "questionId": "3228243",
+      "answer": "D",
+      "guideId": "lote-difal-simples",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 18,
+        "endPage": 18
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "DIFAL do Simples pode ser constitucional, mas exige lei estadual em sentido estrito; decreto não basta.",
+      "legalBasis": "STF, Temas517 e1284",
+      "officialUrl": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=520843",
+      "dtReferences": [],
+      "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
+      "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
+      "temporalStatus": "Julgamento histórico separado das atualizações. A edição DT de 2026 não substitui a legislação do ano da prova."
+    },
+    {
+      "questionId": "3685885",
+      "answer": "C",
+      "guideId": "lote-icms-tres-regras",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "4.pdf",
+        "libraryFileId": "libfile_65a0d24d77a88191a94d6f17b1c4655b",
+        "page": 18,
+        "endPage": 18
+      },
+      "reviewedAt": "2026-11-03",
+      "decisiveRule": "Somente II: restituição deICMS-ST quando base efetiva inferior à presumida; cuidado com transferência sem mudança de titularidade e seletividade de energia.",
+      "legalBasis": "STF, ADC49 eTemas201,745 e1367",
+      "officialUrl": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464511&tip=UN",
+      "dtReferences": [],
+      "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
+      "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
+      "temporalStatus": "Resposta da prova de 2025 mantida; atualização posterior/temporal do Tema1367: a tese foi modificada emembargos. Não tratar o resumo inicial de 2025 como tese atual invariável.",
+      "displayResolution": "C: somente II é correta. O Tema201 assegura restituição do ICMS-ST quando a base efetiva é inferior à presumida. I é falsa como regra atual: mero deslocamento entre estabelecimentos do mesmo titular não gera circulação jurídica tributável (ADC49/Tema1099), observados os recortes temporais e a disciplina legal da opção de equiparação. III contraria o Tema745: adotada a seletividade, energia essencial não pode receber alíquota superior à geral. Para fatos anteriores a 2024, não aplicar mecanicamente o resumo antigo da modulação: o Tema1367 foi alterado emembargos e não autoriza cobrar operações pretéritas que não tiveram o tributo pago. O gabarito de 2025 permanece separado dessa atualização.",
+      "reviewStatus": "with-caveat",
+      "additionalOfficialSources": [
+        {
+          "title": "STF, Tema1367: tese modificada emembargos",
+          "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6907815&numeroTema=1367"
+        }
+      ]
     }
   ]
 }

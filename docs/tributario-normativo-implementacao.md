@@ -95,3 +95,11 @@ Validação: build e 34 testes aprovados, incluindo integração dos 100 registr
 - Fontes oficiais STJ: Súmulas112,360,399,430,436,585,653; Temas103,122,480,649,980,1118; REsp646328/RS,AgRg noREsp1297954/MG. STF: Tema13.
 - Ressalvas: Tema1118 posterior à prova2021; fiança como hipótese autônoma em2026 não equivale a depósito na prova2014; cumulação de multas exige identidade e absorção; remissão considera ordem de conversão.
 - Backup local backup/normativo-104-local; base remota b13ff7c.
+
+
+### Continuação —131 questões e77 esquemas
+- Lidos integralmente no4.pdf,p.14–18:1147525,609603,263637,87988,1147522,3670604,3252193,3127385,300953,3419877,87990,1768970,282885,3228243,3685885.
+- Dez novos esquemas conceituais; complementos de falência eCPEN. DT06:07.1,08.3,09.1–09.4 lidos; referências individuais limitadas aos núcleos decisivos. DT07:07.3 e08.3 lidos.
+- Conferência oficial deTemasSTJ903,537,290,273,237 eSúmula392; STF:ADPF357,ADI395,ADIs5881 econexas,ADI5894,Temas517/1284,201,745/1367 eADC49, além daSúmula544.
+- Ressalvas:300953 temC genericamente verdadeira; preservado gabaritoE documental sem inventar anulação.1768970 não pode ensinar que fiança nunca permiteCPEN.3670604 temADI5894 concluída em24/04/2025,sem dia exato deprova certificado.3685885 recebe contexto atualizado deembargos doTema1367.
+- Corrigidos comentários abreviados e aordem concreta depreferências da3127385,com sobra deR$10.000 paraRufino. Originais preservados noraw/snapshot. Backup local:backup/normativo-116-local; base remota500332f.
