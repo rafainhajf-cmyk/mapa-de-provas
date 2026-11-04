@@ -3422,7 +3422,7 @@ const guides246=[
     ],
     "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
     "checkedAt": "2026-11-04",
-    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+    "evidence": "Núcleo conferido no lote de 50; observar ressalvas e datas nos detalhes"
   },
   {
     "id": "lote-restituicao-prazos",
@@ -3462,7 +3462,7 @@ const guides246=[
         "steps": [
           {
             "label": "Ação judicial iniciada",
-            "text": "OCTN prevê interrupção do prazo.",
+            "text": "O CTN prevê interrupção do prazo.",
             "kind": "success"
           },
           {
@@ -3497,7 +3497,7 @@ const guides246=[
     ],
     "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
     "checkedAt": "2026-11-04",
-    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+    "evidence": "Núcleo conferido no lote de 50; observar ressalvas e datas nos detalhes"
   },
   {
     "id": "lote-vicio-formal",
@@ -3529,7 +3529,7 @@ const guides246=[
       },
       {
         "type": "timeline",
-        "title": "Caso doICMS omitido",
+        "title": "Caso do ICMS omitido",
         "steps": [
           {
             "label": "03/05/2010",
@@ -3552,7 +3552,7 @@ const guides246=[
         "type": "callout",
         "kind": "danger",
         "title": "Não criar prazo em dobro por calamidade",
-        "text": "OCTN não dobra o prazo por catástrofe, idade do ente ou desmembramento."
+        "text": "O CTN não dobra o prazo por catástrofe, idade do ente ou desmembramento."
       },
       {
         "type": "detail",
@@ -3560,7 +3560,7 @@ const guides246=[
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Na2022760, oPDF indicaC e apresenta30/06/2025 como limite do período. O fundamento do grupo é o art.173, II, e a natureza formal da anulação, sem tratá-la como cancelamento definitivo do próprio dever material."
+            "text": "Na2022760, o PDF indicaC e apresenta30/06/2025 como limite do período. O fundamento do grupo é o art.173, II, e a natureza formal da anulação, sem tratá-la como cancelamento definitivo do próprio dever material."
           }
         ]
       }
@@ -3572,7 +3572,7 @@ const guides246=[
     ],
     "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
     "checkedAt": "2026-11-04",
-    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+    "evidence": "Núcleo conferido no lote de 50; observar ressalvas e datas nos detalhes"
   },
   {
     "id": "lote-consignacao",
@@ -3651,7 +3651,7 @@ const guides246=[
     ],
     "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
     "checkedAt": "2026-11-04",
-    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+    "evidence": "Núcleo conferido no lote de 50; observar ressalvas e datas nos detalhes"
   },
   {
     "id": "lote-juros-consulta",
@@ -3697,7 +3697,7 @@ const guides246=[
         "blocks": [
           {
             "type": "paragraph",
-            "text": "A questão867133 corresponde à alternativaC. A novidade de2026 sobre multa de mora em tutela judicial é outro dispositivo e não deve substituir a resposta histórica."
+            "text": "A questão867133 corresponde à alternativaC. A novidade de 2026 sobre multa de mora em tutela judicial é outro dispositivo e não deve substituir a resposta histórica."
           }
         ]
       }
@@ -3707,7 +3707,7 @@ const guides246=[
     ],
     "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
     "checkedAt": "2026-11-04",
-    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+    "evidence": "Núcleo conferido no lote de 50; observar ressalvas e datas nos detalhes"
   },
   {
     "id": "lote-imputacao",
@@ -3720,22 +3720,22 @@ const guides246=[
         "title": "Aplicar os critérios sucessivamente",
         "steps": [
           {
-            "label": "1 · Origem do dever",
+            "label": "Origem do dever",
             "text": "Obrigação própria → responsabilidade tributária.",
             "kind": "success"
           },
           {
-            "label": "2 · Espécie",
+            "label": "Espécie",
             "text": "Contribuição de melhoria → taxa → imposto.",
             "kind": "success"
           },
           {
-            "label": "3 · Prescrição",
+            "label": "Prescrição",
             "text": "Ordem crescente dos prazos.",
             "kind": "warning"
           },
           {
-            "label": "4 · Montante",
+            "label": "Montante",
             "text": "Ordem decrescente: maiores valores antes.",
             "kind": "warning"
           }
@@ -3745,7 +3745,7 @@ const guides246=[
         "type": "callout",
         "kind": "danger",
         "title": "Não começar pelo menor débito",
-        "text": "Reduzir a quantidade de dívidas não substitui a ordem doCTN."
+        "text": "Reduzir a quantidade de dívidas não substitui a ordem do CTN."
       },
       {
         "type": "detail",
@@ -3765,7 +3765,7 @@ const guides246=[
     ],
     "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
     "checkedAt": "2026-11-04",
-    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+    "evidence": "Núcleo conferido no lote de 50; observar ressalvas e datas nos detalhes"
   },
   {
     "id": "lote-isencao-regional",
@@ -3827,7 +3827,7 @@ const guides246=[
     ],
     "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
     "checkedAt": "2026-11-04",
-    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+    "evidence": "Núcleo conferido no lote de 50; observar ressalvas e datas nos detalhes"
   },
   {
     "id": "lote-anistia-dolo",
@@ -3841,7 +3841,7 @@ const guides246=[
         "rows": [
           [
             "Situação",
-            "Tratamento noCTN"
+            "Tratamento no CTN"
           ],
           [
             "Infração posterior à lei",
@@ -3873,7 +3873,7 @@ const guides246=[
         "blocks": [
           {
             "type": "paragraph",
-            "text": "No documento2002 houve subfaturamento intencional; oPDF marcaE. A ressalva legal para conluio não apaga automaticamente o limite autônomo do incisoI. Anistia é exclusão e recebe interpretação literal pelo art.111, I."
+            "text": "No documento2002 houve subfaturamento intencional; o PDF marcaE. A ressalva legal para conluio não apaga automaticamente o limite autônomo do incisoI. Anistia é exclusão e recebe interpretação literal pelo art.111, I."
           }
         ]
       }
@@ -3883,7 +3883,7 @@ const guides246=[
     ],
     "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
     "checkedAt": "2026-11-04",
-    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+    "evidence": "Núcleo conferido no lote de 50; observar ressalvas e datas nos detalhes"
   },
   {
     "id": "lote-isencao-veiculos",
@@ -3933,7 +3933,7 @@ const guides246=[
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Na400680 todos os itens são corretos. A regra constitucional doISS já estava presente na prova de2016; não foi criada pela reforma recente. NoICMS observar também o regime de deliberação aplicável."
+            "text": "Na400680 todos os itens são corretos. A regra constitucional do ISS já estava presente na prova de 2016; não foi criada pela reforma recente. NoICMS observar também o regime de deliberação aplicável."
           }
         ]
       }
@@ -3943,7 +3943,7 @@ const guides246=[
     ],
     "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
     "checkedAt": "2026-11-04",
-    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+    "evidence": "Núcleo conferido no lote de 50; observar ressalvas e datas nos detalhes"
   },
   {
     "id": "lote-garantias-patrimonio",
@@ -3989,7 +3989,7 @@ const guides246=[
         "blocks": [
           {
             "type": "paragraph",
-            "text": "O núcleo da1014433 é o art.184, alternativaB. A ampliação patrimonial legal não torna toda proteção constitucional ou impenhorabilidade absolutamente irrelevante."
+            "text": "O núcleo da 1014433 é o art.184, alternativaB. A ampliação patrimonial legal não torna toda proteção constitucional ou impenhorabilidade absolutamente irrelevante."
           }
         ]
       }
@@ -3999,7 +3999,7 @@ const guides246=[
     ],
     "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
     "checkedAt": "2026-11-04",
-    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+    "evidence": "Núcleo conferido no lote de 50; observar ressalvas e datas nos detalhes"
   },
   {
     "id": "lote-fiscal-cooperacao",
@@ -4042,7 +4042,7 @@ const guides246=[
       {
         "type": "callout",
         "kind": "danger",
-        "title": "Não inventar autorização doSTF",
+        "title": "Não inventar autorização do STF",
         "text": "O art.199 não coloca esse requisito para a permuta internacional."
       },
       {
@@ -4051,7 +4051,7 @@ const guides246=[
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Administrações tributárias têm carreiras específicas e recursos prioritários,CF37XXII. Compartilhar não é livre acesso universal: preservam-se limites da lei, convênio e sigilo. Artigos194-A e199-A de2026 são atualização posterior às provas aqui vinculadas."
+            "text": "Administrações tributárias têm carreiras específicas e recursos prioritários,CF37XXII. Compartilhar não é livre acesso universal: preservam-se limites da lei, convênio e sigilo. Artigos194-A e199-A de 2026 são atualização posterior às provas aqui vinculadas."
           }
         ]
       }
@@ -4062,7 +4062,7 @@ const guides246=[
     ],
     "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
     "checkedAt": "2026-11-04",
-    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+    "evidence": "Núcleo conferido no lote de 50; observar ressalvas e datas nos detalhes"
   },
   {
     "id": "lote-fiscal-exame",
@@ -4072,7 +4072,7 @@ const guides246=[
     "blocks": [
       {
         "type": "table",
-        "title": "OCTN protege a fiscalização",
+        "title": "O CTN protege a fiscalização",
         "rows": [
           [
             "Afirmação",
@@ -4119,7 +4119,7 @@ const guides246=[
     ],
     "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
     "checkedAt": "2026-11-04",
-    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+    "evidence": "Núcleo conferido no lote de 50; observar ressalvas e datas nos detalhes"
   },
   {
     "id": "lote-informantes",
@@ -4144,7 +4144,7 @@ const guides246=[
             "Ressalva do art.197, parágrafo único"
           ],
           [
-            "Dados bancários aoFisco",
+            "Dados bancários ao Fisco",
             "Procedimento/processo, indispensabilidade e manutenção do sigilo"
           ],
           [
@@ -4162,7 +4162,7 @@ const guides246=[
       {
         "type": "callout",
         "kind": "danger",
-        "title": "Ser contribuinte deISS não impede informar aoFisco doICMS",
+        "title": "Ser contribuinte de ISS não impede informar ao Fisco do ICMS",
         "text": "O dever do despachante decorre da lei e da informação de terceiros, não da identidade do imposto próprio."
       },
       {
@@ -4171,7 +4171,7 @@ const guides246=[
         "blocks": [
           {
             "type": "paragraph",
-            "text": "CTN196 histórico exigia documentar início e prazo máximo; a redação e novos parágrafos de2026 devem ser consultados separadamente. Tema225 foi julgado em24/02/2016, com dia da prova337422 ainda não certificado. Não afirmar acesso irrestrito a toda conta por simples pedido informal."
+            "text": "CTN196 histórico exigia documentar início e prazo máximo; a redação e novos parágrafos de 2026 devem ser consultados separadamente. Tema225 foi julgado em 24/02/2016, com dia da prova337422 ainda não certificado. Não afirmar acesso irrestrito a toda conta por simples pedido informal."
           }
         ]
       }
@@ -4183,11 +4183,11 @@ const guides246=[
     ],
     "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
     "checkedAt": "2026-11-04",
-    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+    "evidence": "Núcleo conferido no lote de 50; observar ressalvas e datas nos detalhes"
   },
   {
     "id": "lote-divida-ativa",
-    "title": "Dívida ativa: inscrição × presunção × correção daCDA",
+    "title": "Dívida ativa: inscrição × presunção × correção da CDA",
     "topic": "12 Garantias e administração",
     "law": "CTN, arts.201–204; STJ, Súmula392",
     "blocks": [
@@ -4244,7 +4244,7 @@ const guides246=[
         "blocks": [
           {
             "type": "paragraph",
-            "text": "A1015019 cobraII eIV. Na literalidade do art.203, saneamento até decisão de primeira instância; para a substituição daCDA no processo executivo, observar também os limites jurisprudenciais e a impossibilidade de mudar o sujeito passivo."
+            "text": "A1015019 cobraII eIV. Na literalidade do art.203, saneamento até decisão de primeira instância; para a substituição da CDA no processo executivo, observar também os limites jurisprudenciais e a impossibilidade de mudar o sujeito passivo."
           }
         ]
       }
@@ -4254,9 +4254,9 @@ const guides246=[
     ],
     "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
     "checkedAt": "2026-11-04",
-    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+    "evidence": "Núcleo conferido no lote de 50; observar ressalvas e datas nos detalhes"
   }
 ];
 const bindings246={"lote-moratoria-alcance": ["693071"], "dt-suspensao": ["719277"], "lote-declaracao-prescricao": ["3023566"], "dt-restituicao": ["2231511", "877342", "677587"], "dt-denuncia": ["1896370"], "dt-decadencia": ["1736951", "1239276", "881727", "867027", "638217"], "dt-isencao-anistia": ["1015170", "3079693"], "dt-pagamento": ["1071939"], "lote-parcelamento": ["677598"], "lote-isencao-onerosa": ["1037345", "394352"], "guia-credito": ["3127802", "3023137", "2163756"], "dt-certidoes": ["877332"]};
-const blocks246={"dt-restituicao": [{"type": "table", "title": "Direito ao indébito × parcelas devolvidas", "rows": [["Ponto", "Regra"], ["Protesto prévio", "Não é requisito geral"], ["Tributo com encargo transferível", "Provar assunção ou autorização expressa de quem suportou"], ["Juros e penalidades pagos", "Restituição proporcional ligada à causa"], ["Multa formal não afetada pela causa", "Não se devolve automaticamente"]]}], "dt-isencao-anistia": [{"type": "table", "title": "Não confundir perdões", "rows": [["Instituto", "Objeto e regra"], ["Remissão", "Crédito tributário; lei e despacho fundamentado nos termos do art.172"], ["Anistia", "Infrações anteriores à lei; limites do art.180"], ["Isenção", "Exclusão do crédito, com reserva legal e condições"]]}, {"type": "callout", "kind": "warning", "title": "Revogar benefício pode majorar indiretamente", "text": "Observar anterioridades aplicáveis ao tributo. Tema1383/2025 é posterior à prova3079693/2024; já havia precedentes comoRE564225."}], "lote-isencao-onerosa": [{"type": "table", "title": "Condições e alcance", "rows": [["Situação", "Regra"], ["Prazo certo + condição onerosa preenchida", "Proteção contra revogação livre"], ["Lei estadual sobre tributo municipal", "Não pode usurpar competência municipal"], ["Taxas, melhoria e tributos futuros", "Sem extensão automática da isenção do imposto"]]}], "dt-pagamento": [{"type": "table", "title": "Questão mista: detalhes do pagamento", "rows": [["Tema", "Regra"], ["Pagar uma parcela", "Não presume quitação das demais"], ["Multa imposta", "Não dispensa o tributo"], ["Perda ou destruição de estampilha", "Sem restituição, salvo hipóteses legais ou erro imputável à autoridade"], ["Encargo transferido a terceiro", "Contribuinte pode restituir com autorização expressa; não é direito exclusivo do terceiro"]]}], "guia-credito": [{"type": "table", "title": "Três empresas: pagar × parcelar × impugnar", "rows": [["Empresa", "Providência", "Efeito"], ["A", "Paga o débito", "Extinção"], ["B", "Parcelamento concedido nos termos legais", "Suspensão da exigibilidade"], ["C", "Impugnação administrativa tempestiva", "Suspensão da exigibilidade"]]}, {"type": "callout", "kind": "danger", "title": "Depósito integral não é conversão em renda", "text": "Primeiro suspende; conversão extingue. Isenção e anistia são exclusão."}], "dt-certidoes": [{"type": "callout", "kind": "warning", "title": "Para evitar caducidade de direito", "text": "O art.207 dispensa prova de quitação no ato indispensável, mas mantém responsabilidade pelo tributo e encargos, ressalvadas as penalidades pessoais ao infrator."}], "dt-decadencia": [{"type": "timeline", "title": "Exemplo:IPTU não lançado em2015", "steps": [{"label": "2015", "text": "Lançamento já podia ser efetuado, sem medida preparatória notificada.", "kind": "neutral"}, {"label": "01/01/2016", "text": "Começa o quinquênio do art.173, I.", "kind": "warning"}, {"label": "Não chamar de prescrição", "text": "O direito em exame é constituir o crédito.", "kind": "danger"}]}]};
+const blocks246={"dt-restituicao": [{"type": "table", "title": "Direito ao indébito × parcelas devolvidas", "rows": [["Ponto", "Regra"], ["Protesto prévio", "Não é requisito geral"], ["Tributo com encargo transferível", "Provar assunção ou autorização expressa de quem suportou"], ["Juros e penalidades pagos", "Restituição proporcional ligada à causa"], ["Multa formal não afetada pela causa", "Não se devolve automaticamente"]]}], "dt-isencao-anistia": [{"type": "table", "title": "Não confundir perdões", "rows": [["Instituto", "Objeto e regra"], ["Remissão", "Crédito tributário; lei e despacho fundamentado nos termos do art.172"], ["Anistia", "Infrações anteriores à lei; limites do art.180"], ["Isenção", "Exclusão do crédito, com reserva legal e condições"]]}, {"type": "callout", "kind": "warning", "title": "Revogar benefício pode majorar indiretamente", "text": "Observar anterioridades aplicáveis ao tributo. Tema1383/2025 é posterior à prova3079693/2024; já havia precedentes comoRE564225."}], "lote-isencao-onerosa": [{"type": "table", "title": "Condições e alcance", "rows": [["Situação", "Regra"], ["Prazo certo + condição onerosa preenchida", "Proteção contra revogação livre"], ["Lei estadual sobre tributo municipal", "Não pode usurpar competência municipal"], ["Taxas, melhoria e tributos futuros", "Sem extensão automática da isenção do imposto"]]}], "dt-pagamento": [{"type": "table", "title": "Questão mista: detalhes do pagamento", "rows": [["Tema", "Regra"], ["Pagar uma parcela", "Não presume quitação das demais"], ["Multa imposta", "Não dispensa o tributo"], ["Perda ou destruição de estampilha", "Sem restituição, salvo hipóteses legais ou erro imputável à autoridade"], ["Encargo transferido a terceiro", "Contribuinte pode restituir com autorização expressa; não é direito exclusivo do terceiro"]]}], "guia-credito": [{"type": "table", "title": "Três empresas: pagar × parcelar × impugnar", "rows": [["Empresa", "Providência", "Efeito"], ["A", "Paga o débito", "Extinção"], ["B", "Parcelamento concedido nos termos legais", "Suspensão da exigibilidade"], ["C", "Impugnação administrativa tempestiva", "Suspensão da exigibilidade"]]}, {"type": "callout", "kind": "danger", "title": "Depósito integral não é conversão em renda", "text": "Primeiro suspende; conversão extingue. Isenção e anistia são exclusão."}], "dt-certidoes": [{"type": "callout", "kind": "warning", "title": "Para evitar caducidade de direito", "text": "O art.207 dispensa prova de quitação no ato indispensável, mas mantém responsabilidade pelo tributo e encargos, ressalvadas as penalidades pessoais ao infrator."}], "dt-decadencia": [{"type": "timeline", "title": "Exemplo:IPTU não lançado em 2015", "steps": [{"label": "2015", "text": "Lançamento já podia ser efetuado, sem medida preparatória notificada.", "kind": "neutral"}, {"label": "01/01/2016", "text": "Começa o quinquênio do art.173, I.", "kind": "warning"}, {"label": "Não chamar de prescrição", "text": "O direito em exame é constituir o crédito.", "kind": "danger"}]}]};
 export const visualGuides=[...reviewed196.map(g=>bindings246[g.id]?{...g,confirmed:[...g.confirmed,...bindings246[g.id]],blocks:[...g.blocks,...(blocks246[g.id]||[])],evidence:"Núcleo conferido; observar ressalvas e datas nos detalhes"}:g),...guides246];
