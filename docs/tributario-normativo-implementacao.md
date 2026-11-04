@@ -136,3 +136,13 @@ Validação: build e 34 testes aprovados, incluindo integração dos 100 registr
 - Três novos esquemas:alteração do lançamento, proteção preventiva e alcance da moratória. Reforçada diferença entre depósito suspensivo e extinção.
 - Questão2740890 com ressalva: proteção preventiva pode anteceder fato sob requisitos processuais; não implica crédito já existente nem aplicação antecipada universal do art.151. Fontes:CTN145,149–155,173; Lei12.016/2009,1º/7ºIII.
 - CTN150§5º de2026 mantido como posterior à prova de2018; sem nova certificação DT neste lote. Backup backup/normativo-190-local; publicação anterior7729865.
+
+
+### Lote único de50 em04/11/2026 —246 questões e108 esquemas
+- Exatamente50 novos IDs conferidos individualmente no3.pdf,p.35–50 (enunciado, todas as alternativas, gabarito e eventual continuação); 257 questões permanecem pendentes. Questões já conferidas nessas páginas não foram duplicadas.
+- Quatorze novos esquemas:local/prazo de pagamento, prazos de restituição, vício formal, consignação, juros/consulta, imputação, isenção regional, anistia/dolo, veículos da isenção, garantias patrimoniais, cooperação fiscal, exame fiscal, informantes e dívida ativa. Reutilizados esquemas existentes para conceitos já organizados.
+- Correções materiais de comentários:400562 (condicionamento a penalidade no art.164,I),1821329 (IPVA condicionado à taxa isenta),337422 (a alternativaE é dever bancário, não documentação do procedimento),1037345 (competência estadual/municipal),693071 (recorte regional OU categoria),677598 (confissão não equivale à concessão válida do parcelamento).
+- Ressalvas expressas:758667 (geografia não prova sempre caráter individual);337422 (formalização eLC105; Tema225 julgado24/02/2016, dia da prova não certificado). Sem anulações inventadas.
+- Fontes oficiais:CTN151–207, CF37XXII/155/156, LC105art.6º, STF Tema225 eRE564225, STJ Súmulas392 e653. Tema1383/2025 eSúmula653/2021 separados das provas anteriores. Novidades doCTN196/2026 não foram retrodatadas. Sem nova certificaçãoDT neste lote.
+- Inventário exato do lote (reviewBatch=lote-50-246): 693071, 719277, 3023566, 3127766, 3113644, 3116111, 2022760, 2073369, 2231511, 1821326, 1896370, 1736951, 1896364, 1821329, 1239276, 1015170, 867133, 877338, 1071939, 877342, 881727, 867027, 677587, 677598, 719279, 638217, 400562, 400682, 400286, 394356, 407188, 3079693, 758667, 1037345, 400279, 400680, 394352, 3127802, 3023137, 2163756, 1014433, 2073372, 1821301, 1015020, 943401, 693072, 396982, 337422, 1015019, 877332.
+- Backup localbackup/normativo-196-local; publicação anterior1fef68a. Snapshot, raw, alternativas, gabaritos documentais, IDs,301 pontos e funcionalidades preservados.

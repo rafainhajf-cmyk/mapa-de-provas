@@ -3368,4 +3368,895 @@ const guides196=[
 ];
 const bindings196={"dt-decadencia": ["660091"], "dt-modalidades": ["760021", "373098"]};
 const blocks196={"dt-modalidades": [{"type": "table", "title": "Homologação: obrigação × crédito", "rows": [["Ato anterior à homologação", "Efeito"], ["Pagamento ou outro ato destinado a extinguir crédito", "Não altera, por si, a obrigação que lhe deu origem"], ["Apuração do saldo e penalidades", "Considerar os atos anteriores, conforme art.150, §3º"], ["Depósito judicial integral", "Suspende exigibilidade; não é por si pagamento extintivo"], ["Diferença apurada pela autoridade", "Pode ser lançada de ofício nas hipóteses legais"]]}], "dt-decadencia": [{"type": "callout", "kind": "warning", "title": "Dolo: não contar da descoberta", "text": "No caso660091, o quinquênio do art.173, I, começa no primeiro dia do exercício seguinte ao que o lançamento poderia ter sido efetuado; não é prazo de prescrição."}]};
-export const visualGuides=[...reviewed190.map(g=>bindings196[g.id]?{...g,confirmed:[...g.confirmed,...bindings196[g.id]],blocks:[...g.blocks,...(blocks196[g.id]||[])],evidence:"Núcleo conferido; observar ressalvas e regime temporal"}:g),...guides196];
+const reviewed196=[...reviewed190.map(g=>bindings196[g.id]?{...g,confirmed:[...g.confirmed,...bindings196[g.id]],blocks:[...g.blocks,...(blocks196[g.id]||[])],evidence:"Núcleo conferido; observar ressalvas e regime temporal"}:g),...guides196];
+
+const guides246=[
+  {
+    "id": "lote-pagamento-local-prazo",
+    "title": "Pagamento: onde × quando, se a legislação silenciar",
+    "topic": "10 Extinção e indébito",
+    "law": "CTN, arts.159–160",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Regras supletivas distintas",
+        "rows": [
+          [
+            "Pergunta",
+            "Resposta"
+          ],
+          [
+            "Local",
+            "Repartição competente do domicílio do sujeito passivo"
+          ],
+          [
+            "Vencimento",
+            "30 dias depois da notificação do lançamento"
+          ],
+          [
+            "Sujeito passivo",
+            "Contribuinte ou responsável, conforme o caso"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não contar da visita à repartição",
+        "text": "NoIPTU, o marco é a notificação pelo carnê, não a ida posterior para pedir orientação."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "As duas regras pressupõem silêncio da legislação. Não impõem sempre pagamento físico na repartição quando há disciplina própria de arrecadação nem transformam ausência de vencimento em isenção."
+          }
+        ]
+      }
+    ],
+    "confirmed": [
+      "3113644",
+      "400682"
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+  },
+  {
+    "id": "lote-restituicao-prazos",
+    "title": "Restituição: cinco anos × anulação da negativa em dois",
+    "topic": "10 Extinção e indébito",
+    "law": "CTN, arts.168–169",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Prazo e marco, lado a lado",
+        "rows": [
+          [
+            "Pedido ou ação",
+            "Prazo",
+            "Início"
+          ],
+          [
+            "Restituição por pagamento indevido/erro",
+            "5 anos",
+            "Extinção do crédito; no caso, pagamento"
+          ],
+          [
+            "Restituição por reforma de decisão condenatória",
+            "5 anos",
+            "Decisão administrativa definitiva ou trânsito judicial"
+          ],
+          [
+            "Ação anulatória da negativa administrativa",
+            "2 anos",
+            "Negativa administrativa a impugnar"
+          ]
+        ]
+      },
+      {
+        "type": "timeline",
+        "title": "Regra própria da anulatória do art.169",
+        "steps": [
+          {
+            "label": "Ação judicial iniciada",
+            "text": "OCTN prevê interrupção do prazo.",
+            "kind": "success"
+          },
+          {
+            "label": "Intimação válida do representante da Fazenda",
+            "text": "Recomeça pela metade, nos termos do parágrafo único.",
+            "kind": "warning"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não trocar a ação de dois anos pela restituição de cinco",
+        "text": "Também não confundir a negativa da restituição com decisão que desconstitui condenação tributária."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "As questões3127766,3116111,1821326 e394356 cobram regimes diferentes. O caso dos jornais na1821326 mede o prazo da ação; não se certifica, por esse vínculo, todo o mérito da imunidade e da titularidade do pedido."
+          }
+        ]
+      }
+    ],
+    "confirmed": [
+      "3127766",
+      "3116111",
+      "1821326",
+      "394356"
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+  },
+  {
+    "id": "lote-vicio-formal",
+    "title": "Anulação do lançamento: vício formal × vício material",
+    "topic": "10 Extinção e indébito",
+    "law": "CTN, art.173, II",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "O tipo de vício é decisivo",
+        "rows": [
+          [
+            "Situação",
+            "Regra"
+          ],
+          [
+            "Anulação definitiva por vício formal",
+            "Novo prazo de cinco anos contado da decisão definitiva"
+          ],
+          [
+            "Vício material",
+            "Não transportar automaticamente o reinício do incisoII"
+          ],
+          [
+            "Despacho de citação",
+            "Tema de prescrição da cobrança, não este marco decadencial"
+          ]
+        ]
+      },
+      {
+        "type": "timeline",
+        "title": "Caso doICMS omitido",
+        "steps": [
+          {
+            "label": "03/05/2010",
+            "text": "Operação tributável.",
+            "kind": "neutral"
+          },
+          {
+            "label": "01/06/2015",
+            "text": "Lançamento original dentro do prazo narrado.",
+            "kind": "success"
+          },
+          {
+            "label": "01/07/2020",
+            "text": "Anulação formal definitiva inicia novo quinquênio.",
+            "kind": "warning"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não criar prazo em dobro por calamidade",
+        "text": "OCTN não dobra o prazo por catástrofe, idade do ente ou desmembramento."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Na2022760, oPDF indicaC e apresenta30/06/2025 como limite do período. O fundamento do grupo é o art.173, II, e a natureza formal da anulação, sem tratá-la como cancelamento definitivo do próprio dever material."
+          }
+        ]
+      }
+    ],
+    "confirmed": [
+      "2022760",
+      "1896364",
+      "407188"
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+  },
+  {
+    "id": "lote-consignacao",
+    "title": "Consignação: quando cabe × quando extingue",
+    "topic": "10 Extinção e indébito",
+    "law": "CTN, arts.156, VIII, e164",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Hipóteses legais",
+        "rows": [
+          [
+            "Obstáculo",
+            "Cabe consignar?"
+          ],
+          [
+            "Recusa de receber ou condicionamento a outro tributo, penalidade ou acessória",
+            "Sim, no art.164, I"
+          ],
+          [
+            "Exigência administrativa sem fundamento legal",
+            "Sim, no incisoII"
+          ],
+          [
+            "Duas pessoas de direito público exigem tributo idêntico do mesmo fato",
+            "Sim, no incisoIII"
+          ],
+          [
+            "Mera discordância ou exigência administrativa regularmente fundada",
+            "Não basta, por si só"
+          ]
+        ]
+      },
+      {
+        "type": "flowchart",
+        "title": "Do ajuizamento ao efeito extintivo",
+        "steps": [
+          {
+            "label": "Consignar",
+            "text": "Só o crédito que o autor se propõe pagar.",
+            "kind": "warning"
+          },
+          {
+            "label": "Julgamento procedente",
+            "text": "Pagamento reputado efetuado; valor convertido em renda.",
+            "kind": "success"
+          },
+          {
+            "label": "Improcedência total ou parcial",
+            "text": "Cobrança com juros e penalidades cabíveis; não inventar perda de isenção.",
+            "kind": "danger"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Ajuizar não é quitação automática",
+        "text": "Na disputa entre Municípios, o juiz não simplesmente apaga um lançamento por receber a ação."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Na1821329 a Fazenda condicionouIPVA devido à taxa de que o contribuinte era isento. Na400562, os itensI eII são corretos; o terceiro falha ao tratar exigência legal como se fosse sem fundamento."
+          }
+        ]
+      }
+    ],
+    "confirmed": [
+      "2073369",
+      "1821329",
+      "400562"
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+  },
+  {
+    "id": "lote-juros-consulta",
+    "title": "Juros de mora: taxa supletiva × consulta tempestiva",
+    "topic": "10 Extinção e indébito",
+    "law": "CTN, art.161, §§1º–2º",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Duas regras que a banca combina",
+        "rows": [
+          [
+            "Ponto",
+            "Regra"
+          ],
+          [
+            "Sem lei com taxa diversa",
+            "1% ao mês"
+          ],
+          [
+            "Consulta no prazo legal para pagamento",
+            "Regra de mora não se aplica durante a pendência"
+          ],
+          [
+            "Consulta fora do prazo",
+            "Não recebe automaticamente a proteção desse parágrafo"
+          ],
+          [
+            "SELIC",
+            "Depende da legislação aplicável; não é a taxa supletiva escrita no§1º"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Não exigir resposta favorável como condição inicial",
+        "text": "A proteção cobrada se refere à consulta tempestiva enquanto pendente."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A questão867133 corresponde à alternativaC. A novidade de2026 sobre multa de mora em tutela judicial é outro dispositivo e não deve substituir a resposta histórica."
+          }
+        ]
+      }
+    ],
+    "confirmed": [
+      "867133"
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+  },
+  {
+    "id": "lote-imputacao",
+    "title": "Pagamento insuficiente: a ordem legal de imputação",
+    "topic": "10 Extinção e indébito",
+    "law": "CTN, art.163, I–IV",
+    "blocks": [
+      {
+        "type": "flowchart",
+        "title": "Aplicar os critérios sucessivamente",
+        "steps": [
+          {
+            "label": "1 · Origem do dever",
+            "text": "Obrigação própria → responsabilidade tributária.",
+            "kind": "success"
+          },
+          {
+            "label": "2 · Espécie",
+            "text": "Contribuição de melhoria → taxa → imposto.",
+            "kind": "success"
+          },
+          {
+            "label": "3 · Prescrição",
+            "text": "Ordem crescente dos prazos.",
+            "kind": "warning"
+          },
+          {
+            "label": "4 · Montante",
+            "text": "Ordem decrescente: maiores valores antes.",
+            "kind": "warning"
+          }
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não começar pelo menor débito",
+        "text": "Reduzir a quantidade de dívidas não substitui a ordem doCTN."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A regra pressupõe débitos vencidos do mesmo sujeito passivo para a mesma pessoa jurídica de direito público. Não imputar automaticamente a débitos vincendos, extintos ou de outra Fazenda."
+          }
+        ]
+      }
+    ],
+    "confirmed": [
+      "877338",
+      "719279",
+      "400286"
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+  },
+  {
+    "id": "lote-isencao-regional",
+    "title": "Isenção: região beneficiada × reconhecimento individual",
+    "topic": "11 Suspensão e exclusão",
+    "law": "CTN, arts.176 e179",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Critérios que não são sinônimos",
+        "rows": [
+          [
+            "Elemento",
+            "Regra"
+          ],
+          [
+            "Restrição a região",
+            "Admitida por condições locais peculiares"
+          ],
+          [
+            "Isenção não geral",
+            "Efetiva-se por despacho após prova dos requisitos"
+          ],
+          [
+            "Previsão em contrato",
+            "Continua exigindo lei"
+          ],
+          [
+            "Mero recorte geográfico",
+            "Não prova sozinho que toda concessão seja individual"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Ressalva da questão758667",
+        "text": "PDFE: leitura de benefício dependente de comprovação individual da localização. Conferir o regime da lei para generalizar a exigência de despacho."
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Isenção não dispensa acessória automaticamente",
+        "text": "Continua valendo a ressalva do art.175."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O caso do imóvel a menos de mil metros do pântano combina peculiaridade territorial com reconhecimento administrativo. A generalidade de uma isenção depende do regime de concessão, não apenas de quantas pessoas ou imóveis são alcançados."
+          }
+        ]
+      }
+    ],
+    "confirmed": [
+      "758667"
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+  },
+  {
+    "id": "lote-anistia-dolo",
+    "title": "Anistia: dolo × conluio × infração pretérita",
+    "topic": "11 Suspensão e exclusão",
+    "law": "CTN, arts.111, I, e180–182",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Não misturar as ressalvas",
+        "rows": [
+          [
+            "Situação",
+            "Tratamento noCTN"
+          ],
+          [
+            "Infração posterior à lei",
+            "Fora do alcance da anistia"
+          ],
+          [
+            "Crime/contravenção ou ato com dolo, fraude ou simulação",
+            "Não abrangidos pelo art.180, I"
+          ],
+          [
+            "Conluio",
+            "Excluído, salvo disposição em contrário do incisoII"
+          ],
+          [
+            "Infração formal sem falta de pagamento",
+            "Ausência de prejuízo não elimina dolo automaticamente"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Documento deliberadamente falso pode ser doloso",
+        "text": "Não transformar imposto corretamente pago em autorização geral para anistiar qualquer falsidade."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "No documento2002 houve subfaturamento intencional; oPDF marcaE. A ressalva legal para conluio não apaga automaticamente o limite autônomo do incisoI. Anistia é exclusão e recebe interpretação literal pelo art.111, I."
+          }
+        ]
+      }
+    ],
+    "confirmed": [
+      "400279"
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+  },
+  {
+    "id": "lote-isencao-veiculos",
+    "title": "Isenção: lei do benefício × lei complementar de disciplina",
+    "topic": "11 Suspensão e exclusão",
+    "law": "CTN, arts.176–177; CF, arts.155, §2º, XII, g, e156, §3º, III",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Qual função de cada instrumento?",
+        "rows": [
+          [
+            "Matéria",
+            "Regra"
+          ],
+          [
+            "Isenção concreta",
+            "Lei do ente competente, observados requisitos constitucionais"
+          ],
+          [
+            "ICMS",
+            "LC regula deliberação dos Estados/DF sobre concessão e revogação"
+          ],
+          [
+            "ISS",
+            "LC regula forma e condições dos benefícios"
+          ],
+          [
+            "Imposto isento → taxas ou melhoria",
+            "Sem extensão automática, salvo lei em contrário"
+          ],
+          [
+            "Tributo criado depois",
+            "Sem extensão automática, salvo disposição legal"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não exigirLC para toda isenção concreta",
+        "text": "A reserva de normas de disciplina não é sinônimo do veículo de cada benefício."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Na400680 todos os itens são corretos. A regra constitucional doISS já estava presente na prova de2016; não foi criada pela reforma recente. NoICMS observar também o regime de deliberação aplicável."
+          }
+        ]
+      }
+    ],
+    "confirmed": [
+      "400680"
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+  },
+  {
+    "id": "lote-garantias-patrimonio",
+    "title": "Crédito tributário: bens alcançados × impenhorabilidade legal",
+    "topic": "12 Garantias e administração",
+    "law": "CTN, arts.183–185",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Patrimônio e limites",
+        "rows": [
+          [
+            "Situação",
+            "Regra"
+          ],
+          [
+            "Bens e rendas de qualquer origem/natureza",
+            "Em regra respondem pelo crédito"
+          ],
+          [
+            "Ônus real ou cláusula privada de inalienabilidade/impenhorabilidade",
+            "Não excluem automaticamente a responsabilidade"
+          ],
+          [
+            "Bens declarados absolutamente impenhoráveis por lei",
+            "Ressalva expressa do art.184"
+          ],
+          [
+            "Garantia do crédito",
+            "Não altera a natureza da obrigação"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Fraude à execução tem requisitos próprios",
+        "text": "Inscrição regular e ausência de reserva suficiente importam; não presumir fraude em qualquer venda com auto de infração."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O núcleo da1014433 é o art.184, alternativaB. A ampliação patrimonial legal não torna toda proteção constitucional ou impenhorabilidade absolutamente irrelevante."
+          }
+        ]
+      }
+    ],
+    "confirmed": [
+      "1014433"
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+  },
+  {
+    "id": "lote-fiscal-cooperacao",
+    "title": "Fiscalização: cooperação interna × exterior × força pública",
+    "topic": "12 Garantias e administração",
+    "law": "CF, art.37, XXII; CTN, arts.198–200",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Canais e requisitos próprios",
+        "rows": [
+          [
+            "Medida",
+            "Condição"
+          ],
+          [
+            "Assistência entre Fazendas",
+            "Lei ou convênio, geral ou específico"
+          ],
+          [
+            "Informações com Estados estrangeiros",
+            "Fazenda da União na forma de tratados, acordos ou convênios"
+          ],
+          [
+            "Força pública",
+            "Embaraço, desacato ou necessidade de efetivar medida legal"
+          ],
+          [
+            "Sigilo",
+            "Exceções legais não autorizam divulgação indiscriminada"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "rule",
+        "title": "Não depende de existir crime ou contravenção",
+        "text": "O art.200 admite auxílio nas condições legais mesmo sem tipificação criminal."
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não inventar autorização doSTF",
+        "text": "O art.199 não coloca esse requisito para a permuta internacional."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Administrações tributárias têm carreiras específicas e recursos prioritários,CF37XXII. Compartilhar não é livre acesso universal: preservam-se limites da lei, convênio e sigilo. Artigos194-A e199-A de2026 são atualização posterior às provas aqui vinculadas."
+          }
+        ]
+      }
+    ],
+    "confirmed": [
+      "2073372",
+      "693072"
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+  },
+  {
+    "id": "lote-fiscal-exame",
+    "title": "Exame fiscal: direito de examinar × limites constitucionais",
+    "topic": "12 Garantias e administração",
+    "law": "CTN, arts.194–195",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "OCTN protege a fiscalização",
+        "rows": [
+          [
+            "Afirmação",
+            "Avaliação"
+          ],
+          [
+            "Setor econômico pode recusar todo exame por lei estadual",
+            "Incompatível com o art.195"
+          ],
+          [
+            "Limite arbitrário de três mercadorias por exercício",
+            "Não prevalece contra o exame fiscal legal"
+          ],
+          [
+            "Livros e comprovantes",
+            "Conservar até prescrição dos créditos das operações"
+          ],
+          [
+            "Isento ou pessoa natural",
+            "Pode estar sujeito à fiscalização"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não é licença para fiscalização sem limites",
+        "text": "Direito de examinar não elimina inviolabilidade de domicílio, pertinência documental ou requisitos de acesso bancário."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "As alternativas corretas reproduzem o art.195 no seu campo próprio. As restrições legais arbitrárias narradas não são confundidas com garantias constitucionais. A conservação não é transferida ao Estado em arquivo público."
+          }
+        ]
+      }
+    ],
+    "confirmed": [
+      "1821301",
+      "943401"
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+  },
+  {
+    "id": "lote-informantes",
+    "title": "Informações de terceiros: intimação escrita × segredo legal",
+    "topic": "12 Garantias e administração",
+    "law": "CTN, arts.196–197; LC105/2001, art.6º",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Quem informa e como",
+        "rows": [
+          [
+            "Pessoa ou ponto",
+            "Regra"
+          ],
+          [
+            "Tabeliães, bancos, despachantes oficiais e demais enumerados",
+            "Intimação escrita da autoridade competente"
+          ],
+          [
+            "Fatos cobertos por segredo profissional legal",
+            "Ressalva do art.197, parágrafo único"
+          ],
+          [
+            "Dados bancários aoFisco",
+            "Procedimento/processo, indispensabilidade e manutenção do sigilo"
+          ],
+          [
+            "Fiscalizado sem livros",
+            "Termos podem ser lavrados em separado, com cópia na forma legal"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "O caso337422 tem ressalva",
+        "text": "O dever bancário não convalida falta de formalização da fiscalização nem dispensaLC105."
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Ser contribuinte deISS não impede informar aoFisco doICMS",
+        "text": "O dever do despachante decorre da lei e da informação de terceiros, não da identidade do imposto próprio."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CTN196 histórico exigia documentar início e prazo máximo; a redação e novos parágrafos de2026 devem ser consultados separadamente. Tema225 foi julgado em24/02/2016, com dia da prova337422 ainda não certificado. Não afirmar acesso irrestrito a toda conta por simples pedido informal."
+          }
+        ]
+      }
+    ],
+    "confirmed": [
+      "1015020",
+      "396982",
+      "337422"
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+  },
+  {
+    "id": "lote-divida-ativa",
+    "title": "Dívida ativa: inscrição × presunção × correção daCDA",
+    "topic": "12 Garantias e administração",
+    "law": "CTN, arts.201–204; STJ, Súmula392",
+    "blocks": [
+      {
+        "type": "flowchart",
+        "title": "Formação e controle",
+        "steps": [
+          {
+            "label": "Prazo para pagar esgotado",
+            "text": "Crédito tributário pode ser inscrito regularmente.",
+            "kind": "warning"
+          },
+          {
+            "label": "Inscrição regular",
+            "text": "Presunção relativa de certeza e liquidez; prova pré-constituída.",
+            "kind": "success"
+          },
+          {
+            "label": "Erro ou requisito omitido",
+            "text": "Substituição no prazo legal, com defesa devolvida quanto à alteração.",
+            "kind": "warning"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "title": "As pegadinhas do título",
+        "rows": [
+          [
+            "Afirmação",
+            "Regra"
+          ],
+          [
+            "Presunção absoluta",
+            "Falsa; prova inequívoca pode afastá-la"
+          ],
+          [
+            "Só vale após trânsito judicial",
+            "Falsa; efeito decorre da inscrição regular"
+          ],
+          [
+            "Juros em curso retiram liquidez",
+            "Falsa pelo art.201"
+          ],
+          [
+            "Substituir para trocar o sujeito passivo",
+            "Vedado pela Súmula392"
+          ]
+        ]
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A1015019 cobraII eIV. Na literalidade do art.203, saneamento até decisão de primeira instância; para a substituição daCDA no processo executivo, observar também os limites jurisprudenciais e a impossibilidade de mudar o sujeito passivo."
+          }
+        ]
+      }
+    ],
+    "confirmed": [
+      "1015019"
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido no lote de50; observar ressalvas e datas nos detalhes"
+  }
+];
+const bindings246={"lote-moratoria-alcance": ["693071"], "dt-suspensao": ["719277"], "lote-declaracao-prescricao": ["3023566"], "dt-restituicao": ["2231511", "877342", "677587"], "dt-denuncia": ["1896370"], "dt-decadencia": ["1736951", "1239276", "881727", "867027", "638217"], "dt-isencao-anistia": ["1015170", "3079693"], "dt-pagamento": ["1071939"], "lote-parcelamento": ["677598"], "lote-isencao-onerosa": ["1037345", "394352"], "guia-credito": ["3127802", "3023137", "2163756"], "dt-certidoes": ["877332"]};
+const blocks246={"dt-restituicao": [{"type": "table", "title": "Direito ao indébito × parcelas devolvidas", "rows": [["Ponto", "Regra"], ["Protesto prévio", "Não é requisito geral"], ["Tributo com encargo transferível", "Provar assunção ou autorização expressa de quem suportou"], ["Juros e penalidades pagos", "Restituição proporcional ligada à causa"], ["Multa formal não afetada pela causa", "Não se devolve automaticamente"]]}], "dt-isencao-anistia": [{"type": "table", "title": "Não confundir perdões", "rows": [["Instituto", "Objeto e regra"], ["Remissão", "Crédito tributário; lei e despacho fundamentado nos termos do art.172"], ["Anistia", "Infrações anteriores à lei; limites do art.180"], ["Isenção", "Exclusão do crédito, com reserva legal e condições"]]}, {"type": "callout", "kind": "warning", "title": "Revogar benefício pode majorar indiretamente", "text": "Observar anterioridades aplicáveis ao tributo. Tema1383/2025 é posterior à prova3079693/2024; já havia precedentes comoRE564225."}], "lote-isencao-onerosa": [{"type": "table", "title": "Condições e alcance", "rows": [["Situação", "Regra"], ["Prazo certo + condição onerosa preenchida", "Proteção contra revogação livre"], ["Lei estadual sobre tributo municipal", "Não pode usurpar competência municipal"], ["Taxas, melhoria e tributos futuros", "Sem extensão automática da isenção do imposto"]]}], "dt-pagamento": [{"type": "table", "title": "Questão mista: detalhes do pagamento", "rows": [["Tema", "Regra"], ["Pagar uma parcela", "Não presume quitação das demais"], ["Multa imposta", "Não dispensa o tributo"], ["Perda ou destruição de estampilha", "Sem restituição, salvo hipóteses legais ou erro imputável à autoridade"], ["Encargo transferido a terceiro", "Contribuinte pode restituir com autorização expressa; não é direito exclusivo do terceiro"]]}], "guia-credito": [{"type": "table", "title": "Três empresas: pagar × parcelar × impugnar", "rows": [["Empresa", "Providência", "Efeito"], ["A", "Paga o débito", "Extinção"], ["B", "Parcelamento concedido nos termos legais", "Suspensão da exigibilidade"], ["C", "Impugnação administrativa tempestiva", "Suspensão da exigibilidade"]]}, {"type": "callout", "kind": "danger", "title": "Depósito integral não é conversão em renda", "text": "Primeiro suspende; conversão extingue. Isenção e anistia são exclusão."}], "dt-certidoes": [{"type": "callout", "kind": "warning", "title": "Para evitar caducidade de direito", "text": "O art.207 dispensa prova de quitação no ato indispensável, mas mantém responsabilidade pelo tributo e encargos, ressalvadas as penalidades pessoais ao infrator."}], "dt-decadencia": [{"type": "timeline", "title": "Exemplo:IPTU não lançado em2015", "steps": [{"label": "2015", "text": "Lançamento já podia ser efetuado, sem medida preparatória notificada.", "kind": "neutral"}, {"label": "01/01/2016", "text": "Começa o quinquênio do art.173, I.", "kind": "warning"}, {"label": "Não chamar de prescrição", "text": "O direito em exame é constituir o crédito.", "kind": "danger"}]}]};
+export const visualGuides=[...reviewed196.map(g=>bindings246[g.id]?{...g,confirmed:[...g.confirmed,...bindings246[g.id]],blocks:[...g.blocks,...(blocks246[g.id]||[])],evidence:"Núcleo conferido; observar ressalvas e datas nos detalhes"}:g),...guides246];

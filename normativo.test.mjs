@@ -11,8 +11,8 @@ test('questões completas e fontes preservadas, inclusive ressalvas e dados pess
 test('conteúdo e dependências do Normativo estão no manifesto offline prioritário',async()=>{const files=JSON.parse(await readFile('private-content/offline-files.json'));for(const f of ['normativo.html','normativo-data.json','normativo.js','normativo-visuals.js','normativo.css','review-blocks.js','review-blocks.css'])assert(files.indexOf('/'+f)>=0&&files.indexOf('/'+f)<20);});
 test('tela reutiliza armazenamento sincronizado sem limpar dados ou expor gabarito antes dos detalhes',async()=>{const s=await readFile('source-content/normativo.js','utf8');assert(s.includes('mapa-study-progress-v1'));assert(s.includes('mapa-study-observations-v1'));assert(!s.includes('localStorage.clear'));assert(s.includes('<details><summary>Ver gabarito e explicação detalhada</summary>'));assert(s.includes('data[map]??={}'));assert(s.includes('data[id]=value'));});
 
-test('cruzamento DT cobre todos os IDs e separa candidatos de conferências individuais',()=>{assert.equal(d.dtCrosswalk.records.length,503);assert.equal(d.dtCrosswalk.volumes.length,8);assert.equal(new Set(d.dtCrosswalk.records.map(r=>r.id)).size,503);assert.equal(d.reviewedBindings.length,196);for(const r of d.reviewedBindings){const q=d.questions.find(q=>q.id===r.questionId);assert.equal(q.answer,r.answer);assert(visualGuides.some(g=>g.id===r.guideId&&g.confirmed.includes(q.id)));}assert(d.dtCrosswalk.records.filter(r=>r.kind==='candidate').length>d.reviewedBindings.length);assert(d.dtCrosswalk.records.find(r=>r.id==='3116125').kind==='not-located');});
-test('esquemas têm referências, cores semânticas e decisões; todos os textos legados continuam em visão própria',async()=>{assert.equal(visualGuides.length,94);assert.equal(new Set(visualGuides.map(g=>g.id)).size,94);for(const g of visualGuides){assert(g.law);assert(g.blocks.some(b=>['table','flowchart','timeline'].includes(b.type)));}const html=await readFile('source-content/normativo.html','utf8');assert(html.includes('value="nuclei"'));const files=JSON.parse(await readFile('private-content/offline-files.json'));assert(files.includes('/normativo-dt-guides.js'));});
+test('cruzamento DT cobre todos os IDs e separa candidatos de conferências individuais',()=>{assert.equal(d.dtCrosswalk.records.length,503);assert.equal(d.dtCrosswalk.volumes.length,8);assert.equal(new Set(d.dtCrosswalk.records.map(r=>r.id)).size,503);assert.equal(d.reviewedBindings.length,246);for(const r of d.reviewedBindings){const q=d.questions.find(q=>q.id===r.questionId);assert.equal(q.answer,r.answer);assert(visualGuides.some(g=>g.id===r.guideId&&g.confirmed.includes(q.id)));}assert(d.dtCrosswalk.records.filter(r=>r.kind==='candidate').length>d.reviewedBindings.length);assert(d.dtCrosswalk.records.find(r=>r.id==='3116125').kind==='not-located');});
+test('esquemas têm referências, cores semânticas e decisões; todos os textos legados continuam em visão própria',async()=>{assert.equal(visualGuides.length,108);assert.equal(new Set(visualGuides.map(g=>g.id)).size,108);for(const g of visualGuides){assert(g.law);assert(g.blocks.some(b=>['table','flowchart','timeline'].includes(b.type)));}const html=await readFile('source-content/normativo.html','utf8');assert(html.includes('value="nuclei"'));const files=JSON.parse(await readFile('private-content/offline-files.json'));assert(files.includes('/normativo-dt-guides.js'));});
 
 test('referência conferida prevalece sobre sugestão textual não decisiva',()=>{const r=d.reviewedBindings.find(x=>x.questionId==='3023554');assert.deepEqual(r.dtReferences.map(x=>[x.volume,x.section]),[[5,'07.5']]);assert.equal(r.dtReferences[0].page,30);});
 
@@ -71,4 +71,16 @@ test('gabaritos e comentários deslocados cedem ao PDF sem alterar registros bru
  assert(d.questions.find(q=>q.id==='3561388').resolution.includes('aumenta'));
  assert(d.questions.find(q=>q.id==='2163755').alternatives.includes('II: legislação de2020'));
  for(const id of ['677588','373099'])assert.equal(d.reviewedBindings.find(r=>r.questionId===id).reviewStatus,'with-caveat');
+});
+
+
+test('lote de cinquenta contém cinquenta IDs novos e preserva gabaritos e pressupostos',()=>{
+ const batch=d.reviewedBindings.filter(r=>r.reviewBatch==='lote-50-246');
+ assert.equal(batch.length,50);assert.equal(new Set(batch.map(r=>r.questionId)).size,50);
+ for(const r of batch){const q=d.questions.find(q=>q.id===r.questionId);assert.equal(q.raw[6],r.answer);assert(r.sourceEvidence.page>=35);assert(visualGuides.some(g=>g.id===r.guideId&&g.confirmed.includes(q.id)));}
+ for(const id of ['337422','758667'])assert.equal(batch.find(r=>r.questionId===id).reviewStatus,'with-caveat');
+ assert(d.questions.find(q=>q.id==='400562').resolution.includes('incisoI'));
+ assert(d.questions.find(q=>q.id==='1821329').resolution.includes('taxa de licenciamento'));
+ assert(d.questions.find(q=>q.id==='337422').resolution.includes('LC105/2001'));
+ assert(batch.find(r=>r.questionId==='677598').temporalStatus.includes('2021'));
 });
