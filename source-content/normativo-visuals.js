@@ -2845,4 +2845,326 @@ const guides168=[
 ];
 const bindings168={"dt-integracao": ["1234920", "400289", "400687"], "dt-reserva": ["676708", "719754"], "dt-principal-acessoria": ["758663", "697233", "760213", "396948"], "dt-sujeicao": ["684686"]};
 const blocks168={"dt-principal-acessoria": [{"type": "table", "title": "Objeto × nascimento × encerramento", "rows": [["Ponto", "Principal", "Acessória"], ["Objeto", "Pagar tributo ou penalidade pecuniária", "Prestação positiva ou negativa instrumental"], ["Marco", "Nasce com o fato gerador", "Situação prevista na legislação aplicável"], ["Extinção", "Juntamente com o crédito decorrente", "Não presumir dispensa apenas por inexistir tributo a pagar"], ["Exemplo", "Pagar ISS", "Emitir nota fiscal"]]}, {"type": "callout", "kind": "danger", "title": "Prescrição extingue; não é a única causa", "text": "Na questão760213, A também exclui indevidamente a penalidade do objeto. Não ensinar que prescrição seria algo alheio à extinção do crédito."}], "dt-sujeicao": [{"type": "table", "title": "Polos da obrigação", "rows": [["Polo", "Pessoa"], ["Ativo", "Pessoa jurídica de direito público titular da competência para exigir"], ["Passivo principal", "Obrigada a pagar tributo ou multa"], ["Passivo acessório", "Obrigada à prestação instrumental"]]}]};
-export const visualGuides=[...reviewed150.map(g=>bindings168[g.id]?{...g,confirmed:[...g.confirmed,...bindings168[g.id]],blocks:[...g.blocks,...(blocks168[g.id]||[])],evidence:"Núcleo conferido; observar contexto temporal nas questões"}:g),...guides168];
+const reviewed168=[...reviewed150.map(g=>bindings168[g.id]?{...g,confirmed:[...g.confirmed,...bindings168[g.id]],blocks:[...g.blocks,...(blocks168[g.id]||[])],evidence:"Núcleo conferido; observar contexto temporal nas questões"}:g),...guides168];
+
+const guides190=[
+  {
+    "id": "lote-substituicao",
+    "title": "Substituição para trás × para frente",
+    "topic": "08 Responsabilidade",
+    "law": "CTN, art.128; CF, art.150, §7º",
+    "confirmed": [
+      "2231510"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Compare o recolhimento com o fato gerador",
+        "rows": [
+          [
+            "Regime",
+            "Sequência",
+            "Ideia central"
+          ],
+          [
+            "Regressiva / para trás",
+            "Fato anterior → recolhimento na etapa posterior",
+            "Diferimento"
+          ],
+          [
+            "Progressiva / para frente",
+            "Recolhimento antecipado → fato presumido posterior",
+            "Antecipação"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "rule",
+        "title": "Para trás: pagar depois",
+        "text": "A obrigação pelo fato anterior é recolhida em etapa posterior pelo substituto previsto em lei."
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não confundir com sucessão empresarial",
+        "text": "Comprar empresa ou herdar patrimônio é outro fundamento de responsabilidade."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A classificação é temporal. A comparação para frente serve ao contraste conceitual e não certifica incidência independente desse tema na questão2231510."
+          }
+        ]
+      }
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; observar ressalvas documentais e temporais"
+  },
+  {
+    "id": "lote-sucessao-morte",
+    "title": "Morte: espólio × herdeiro × cônjuge meeiro",
+    "topic": "08 Responsabilidade",
+    "law": "CTN, art.131, II eIII",
+    "confirmed": [
+      "2163753",
+      "684701"
+    ],
+    "blocks": [
+      {
+        "type": "timeline",
+        "title": "Marcos da sucessão",
+        "steps": [
+          {
+            "label": "Abertura da sucessão",
+            "text": "Espólio responde por tributos devidos pelo falecido até essa data.",
+            "kind": "success"
+          },
+          {
+            "label": "Partilha ou adjudicação",
+            "text": "Sucessor e meeiro: tributos até esse marco, nos limites legais.",
+            "kind": "warning"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "title": "Pessoas e limites distintos",
+        "rows": [
+          [
+            "Pessoa",
+            "Responsabilidade e limite"
+          ],
+          [
+            "Espólio",
+            "Pessoal pelos tributos do de cujus até abertura da sucessão"
+          ],
+          [
+            "Sucessor a qualquer título",
+            "Até o montante do quinhão ou legado"
+          ],
+          [
+            "Cônjuge meeiro",
+            "Até a meação; não precisa também ser herdeiro"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Morte não remite automaticamente o crédito",
+        "text": "Não cobrar ilimitadamente do patrimônio próprio de herdeiro só por herdar."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A questão2163753 resolve-se pelo incisoIII; os distratores excedem limites sucessórios ou inventam perdão por morte. Não concluir deste quadro uma regra única sobre transmissão de toda espécie de multa."
+          }
+        ]
+      }
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; observar ressalvas documentais e temporais"
+  },
+  {
+    "id": "lote-alienacao-judicial",
+    "title": "Estabelecimento: venda comum × alienação judicial",
+    "topic": "08 Responsabilidade",
+    "law": "CTN, art.133, caput e §§1º–2º",
+    "confirmed": [
+      "677588",
+      "719276",
+      "362364"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Primeiro identifique a forma da aquisição",
+        "rows": [
+          [
+            "Situação",
+            "Regra"
+          ],
+          [
+            "Aquisição comum e continuação da exploração",
+            "Integral ou subsidiária, conforme atividade do alienante"
+          ],
+          [
+            "Alienação judicial em falência",
+            "Em regra, não sucessão do adquirente"
+          ],
+          [
+            "Alienação judicial de filial ou UPI na recuperação",
+            "Em regra, não sucessão do adquirente"
+          ],
+          [
+            "Adquirente vinculado enquadrado no §2º",
+            "Proteção do §1º afastada; retornar ao caput"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Quem perde a proteção",
+        "text": "Sócio, sociedade controlada, parente nos termos legais ou agente identificado com objetivo de fraudar a sucessão."
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Perder a proteção não torna tudo integral",
+        "text": "Se o alienante continua explorando a atividade, examinar responsabilidade subsidiária do incisoII."
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Afinidade exige ressalva no caso677588",
+        "text": "O PDF marcaB. A alternativa sobre marido da tia tem discussão diante do CC1595, §1º; não ensinar parentesco civil ampliado como certeza."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Na362364, a condição de parente retira a proteção e a cessação da exploração leva à responsabilidade integral. Na719276, o agente da exceção deve estar identificado com objetivo de fraudar a sucessão; não basta o título genérico. O caso677588 tem ressalva de unicidade, sem anulação presumida."
+          }
+        ]
+      }
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; observar ressalvas documentais e temporais"
+  },
+  {
+    "id": "lote-infracoes",
+    "title": "Infração tributária: regra objetiva × exceções legais",
+    "topic": "08 Responsabilidade",
+    "law": "CTN, arts.136 e137",
+    "confirmed": [
+      "719273"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "A ressalva muda a resposta",
+        "rows": [
+          [
+            "Ponto",
+            "Regime"
+          ],
+          [
+            "Intenção do agente ou responsável",
+            "Em regra, independe dela"
+          ],
+          [
+            "Efetividade, natureza e extensão dos efeitos",
+            "Em regra, independem delas"
+          ],
+          [
+            "Lei em sentido contrário",
+            "Pode estabelecer exceção"
+          ],
+          [
+            "Dolo específico nas hipóteses do art.137",
+            "Pode definir responsabilidade pessoal"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "rule",
+        "title": "A expressão decisiva é salvo disposição de lei em contrário",
+        "text": "Responsabilidade objetiva do art.136 não é regra absoluta sem exceção."
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não transportar a fórmula ao direito penal",
+        "text": "O item cobra infrações da legislação tributária, sem resolver por essa frase responsabilidade criminal ou civil."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O art.137 particulariza hipóteses de responsabilidade pessoal do agente. Por isso, é falsa a conclusão de que intenção e dolo seriam sempre irrelevantes em todo o sistema tributário."
+          }
+        ]
+      }
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; observar ressalvas documentais e temporais"
+  },
+  {
+    "id": "lote-retificacao",
+    "title": "Retificação: reduzir tributo × aumentar tributo",
+    "topic": "09 Crédito e lançamento",
+    "law": "CTN, art.147, §§1º–2º",
+    "confirmed": [
+      "3561388"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "O objetivo da correção determina a regra",
+        "rows": [
+          [
+            "Correção pelo declarante",
+            "Requisitos especiais do §1º"
+          ],
+          [
+            "Visa reduzir ou excluir tributo",
+            "Comprovar erro e agir antes da notificação do lançamento"
+          ],
+          [
+            "Visa aumentar o valor antes informado",
+            "Não aplicar automaticamente os limites especiais da redução"
+          ],
+          [
+            "Erro apurável pelo exame da declaração",
+            "Autoridade retifica de ofício pelo §2º"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "rule",
+        "title": "No caso: só o itemI",
+        "text": "O erro faria pagar menos que o devido; corrigi-lo aumenta, não reduz, o tributo."
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "A expressão em qualquer hipótese é pegadinha",
+        "text": "O §1º não disciplina indistintamente toda retificação."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O PDF indicaE. O consolidado tinhaA e comentário sobre definição de lançamento de outra questão; a exibição foi corrigida, mantendo os registros originais para auditoria."
+          }
+        ]
+      }
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; observar ressalvas documentais e temporais"
+  }
+];
+const bindings190={"guia-solidariedade": ["2021325", "2235905"], "dt-estabelecimento": ["2163526"], "dt-denuncia": ["2074820", "758665"], "dt-sujeicao": ["760212"], "lote-socios": ["373099"], "dt-modalidades": ["3561393", "3023157", "1752288", "877339", "867163"], "dt-lei-lancamento": ["2163755", "2235888"]};
+const blocks190={"guia-solidariedade": [{"type": "table", "title": "Art.134 × art.135", "rows": [["Ponto", "Art.134", "Art.135"], ["Condição", "Impossibilidade de exigir do contribuinte + intervenção/omissão", "Obrigação resultante de excesso de poderes ou infração legal/contratual/estatutária"], ["Responsáveis", "Terceiros enumerados, inclusive pais de menores", "Pessoas indicadas no dispositivo, inclusive gestores"], ["Formulação do CTN", "Solidariamente; condição inicial de impossibilidade", "Pessoalmente responsáveis"]]}, {"type": "callout", "kind": "warning", "title": "Pais não respondem só por parentesco", "text": "No caso2021325, verificar insuficiência patrimonial e ação/omissão relevante de cada responsável; guarda não é o único critério."}], "dt-estabelecimento": [{"type": "timeline", "title": "Seis meses contados da alienação", "steps": [{"label": "Aquisição da panificadora", "text": "José continua a exploração.", "kind": "success"}, {"label": "Até seis meses", "text": "Reinício de atividade do alienante, no mesmo ou outro ramo, permite regime subsidiário.", "kind": "warning"}, {"label": "Reinício só após sete meses", "text": "No caso2163526, aplica-se responsabilidade integral de José.", "kind": "success"}]}, {"type": "callout", "kind": "danger", "title": "Data da fiscalização não é o marco", "text": "Os oito meses até a visita fiscal não substituem os seis meses contados da alienação."}], "lote-socios": [{"type": "table", "title": "Inadimplemento × dissolução irregular", "rows": [["Situação", "Efeito"], ["Simples falta de pagamento", "Não basta por si para responsabilizar gestor"], ["Fechamento sem comunicação", "Pode caracterizar dissolução irregular"], ["Sócio sem gestão, só por integrar sociedade", "Sem responsabilidade automática"], ["Atualização Tema981/2022", "Examinar poderes de administração na dissolução, mesmo sem gestão no fato gerador"]]}, {"type": "callout", "kind": "warning", "title": "Questão373099 com ressalva", "text": "PDFD, apenasIII. O itemII usa sócios sem dizer todos; não usar a correção para negar redirecionamento ao sócio-gerente."}], "dt-modalidades": [{"type": "table", "title": "Antes e depois do lançamento", "rows": [["Marco", "Efeito"], ["Fato gerador", "Nasce obrigação principal"], ["Lançamento", "Constitui crédito; identifica sujeito passivo inclusive responsável legal"], ["Omissão ou inexatidão na atividade por homologação", "Pode justificar atuação de ofício"], ["Declaração e esclarecimento insatisfatório", "Não impede ofício, art.149, III"]]}], "dt-lei-lancamento": [{"type": "table", "title": "Caso: fatos de2019; mudança em2020", "rows": [["Matéria", "Lei aplicável"], ["Fatos geradores", "Lei material de2019"], ["Novos critérios de fiscalização", "Legislação procedimental de2020"], ["Inclusão de terceiro responsável", "Não retroagir a ampliação: regime de2019"]]}, {"type": "callout", "kind": "danger", "title": "Lançamento é vinculado e obrigatório", "text": "Na2235888 não há dispensa livre de multa só porque a outra infração vale mais. Novidades de2026 não substituem a resposta de2022."}]};
+export const visualGuides=[...reviewed168.map(g=>bindings190[g.id]?{...g,law:g.id==="guia-solidariedade"?"CTN, arts.124,134 e135":g.law,confirmed:[...g.confirmed,...bindings190[g.id]],blocks:[...g.blocks,...(blocks190[g.id]||[])],evidence:"Núcleo conferido; observar ressalvas documentais e temporais"}:g),...guides190];

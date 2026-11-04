@@ -119,3 +119,12 @@ Validação: build e 34 testes aprovados, incluindo integração dos 100 registr
 - DT03: 04.1,04.9,11.2,11.3,11.5,11.6; DT04: 01.1–01.4,02.3,02.5,03.3,05.1–05.5, conforme referências por questão. Fontes oficiais: CF146/146-A; CTN108–127; STF ADI2446 e STJ Informativo888 separados temporalmente da prova de2018.
 - Corrigida a explicação exibida de760213: prescrição é causa de extinção, mas não a única; texto bruto preservado. Comentário719775 identifica precedentes de2022/2026 como posteriores. DTE de2026 não foi transportado para provas antigas.
 - Backup local: backup/normativo-150-local. Publicação anterior:24288c8. IDs, questões originais, alternativas, gabaritos históricos e 301 pontos anteriores preservados.
+
+
+### Continuação em04/11/2026 —190 questões e91 esquemas
+- Mais22 questões lidas integralmente no3.pdf,p.26–33; 1015169 e3561398 já revisadas não foram duplicadas. Permanecem313 pendentes.
+- Nove divergências entre resposta consolidada e gabarito doPDF corrigidas por sobreposição de exibição:2163526,2074820,758665,677588,760212,719273,684701,3561388,877339. Mantidos answer/raw e snapshot; sourceAnswer identifica a resposta documental e sourceAnswerNote explica a divergência. Comentários deslocados também corrigidos em719276,2235888,867163, embora a letra coincidisse.
+- Questões677588 e373099 têm ressalvas de unicidade/redação; sem presumir anulação ou ensinar afinidade civil ampliada e responsabilidade de todo sócio como verdades.
+- Cinco novos esquemas:substituição, sucessão por morte, alienação judicial, infrações e retificação. Reforçados134×135, seis meses da alienação, responsabilidade dos gestores e leis material/procedimental. Matriz2163755 reconstruída como cinco alternativas completas.
+- Fontes oficiais:CTN128–150; CF150§7º; CC1595§1º; STJ Súmulas430/435 e Tema981, este como atualização posterior a2016. Art.138 e novidades142/150 de2026 separados do regime das provas. Não se certificaram novas seções DT neste lote.
+- Backup localbackup/normativo-168-local; publicação anterior44d9b0a.
