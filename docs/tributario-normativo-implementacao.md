@@ -111,3 +111,11 @@ Validação: build e 34 testes aprovados, incluindo integração dos 100 registr
 - Reforçados os comparativos tributo/multa, vigência deatos einterpretação literal/benigna. Três novos esquemas:fontes, proteção porobservância das normas complementares eextraterritorialidade.
 - Questão3113689 comressalva material sobre lei apenas nominalmente interpretativa; nenhumgabarito foi inventado ouanulação presumida.
 - Publicação anterior131:43aca8e, implantaçãoREADY. Backup localbackup/normativo-131-local.
+
+
+### Continuação em 04/11/2026 — 168 questões e 86 esquemas
+- Mais 18 questões conferidas individualmente no 3.pdf, p.21–26: interpretação/integração, reserva de LC, regime único, concorrência, obrigação, fato gerador, sujeição, capacidade e domicílio. Permanecem 335 pendentes.
+- Seis novos esquemas conceituais: regime único, concorrência, validade do fato gerador, desconsideração, capacidade e domicílio. Reutilizados os comparativos de integração, reserva, obrigação e sujeição.
+- DT03: 04.1,04.9,11.2,11.3,11.5,11.6; DT04: 01.1–01.4,02.3,02.5,03.3,05.1–05.5, conforme referências por questão. Fontes oficiais: CF146/146-A; CTN108–127; STF ADI2446 e STJ Informativo888 separados temporalmente da prova de2018.
+- Corrigida a explicação exibida de760213: prescrição é causa de extinção, mas não a única; texto bruto preservado. Comentário719775 identifica precedentes de2022/2026 como posteriores. DTE de2026 não foi transportado para provas antigas.
+- Backup local: backup/normativo-150-local. Publicação anterior:24288c8. IDs, questões originais, alternativas, gabaritos históricos e 301 pontos anteriores preservados.

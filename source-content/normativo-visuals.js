@@ -2439,4 +2439,410 @@ const guides150=[
 ];
 const bindings150={"lote-contribuicoes": ["583678"], "dt-reserva": ["758662", "400564"], "dt-retroatividade": ["3552003", "3565469", "3113689", "2163523", "2074822", "719762", "3561403"], "lote-vigencia": ["2235840", "758664", "396950"], "dt-integracao": ["3127584", "3113727"]};
 const blocks150={"dt-retroatividade": [{"type": "table", "title": "Principal × multa: não trocar os regimes", "rows": [["Alteração", "Tributo", "Penalidade"], ["Lei posterior reduz alíquota e multa", "Sem redução retroativa automática do imposto", "Examinar aplicação mais benigna a ato não definitivamente julgado"], ["Lei deixa de definir ainfração", "Principal segue a lei do fato gerador", "Pode afastar multa ainda não definitivamente julgada"], ["Auto julgado definitivamente, ainda não pago", "Não pagamento não desfaz o julgamento", "Não recebe o benefício só porque a dívida permanece aberta"]]}, {"type": "callout", "kind": "warning", "title": "Lei interpretativa precisa interpretar de verdade", "text": "O nome da lei não autoriza criar incidência ou revogar isenção legal para o passado. A questão3113689 tem ressalva explícita."}], "lote-vigencia": [{"type": "table", "title": "Regra geral × norma especial", "rows": [["Questão", "Regra"], ["Vigência tributária em geral", "Normas jurídicas gerais, ressalvadas as regras do CTN"], ["Portaria normativa", "Publicação, salvo disposição contrária"], ["Decisão administrativa com eficácia normativa", "30 dias após publicação quanto aos efeitos normativos"], ["Convênio", "Data nele prevista"]]}], "dt-integracao": [{"type": "callout", "kind": "danger", "title": "Dispensa deacessória não significa interpretação benigna geral", "text": "O art.111 manda interpretar literalmente. O art.112 favorece o acusado em dúvida sobre infração ou penalidade nas hipóteses enumeradas."}]};
-export const visualGuides=[...reviewed131.map(g=>bindings150[g.id]?{...g,confirmed:[...g.confirmed,...bindings150[g.id]],blocks:[...g.blocks,...(blocks150[g.id]||[])],evidence:"Núcleo conferido; observar ressalvas e contexto temporal nas questões"}:g),...guides150];
+const reviewed150=[...reviewed131.map(g=>bindings150[g.id]?{...g,confirmed:[...g.confirmed,...bindings150[g.id]],blocks:[...g.blocks,...(blocks150[g.id]||[])],evidence:"Núcleo conferido; observar ressalvas e contexto temporal nas questões"}:g),...guides150];
+
+const guides168=[
+  {
+    "id": "lote-simples-regime",
+    "title": "Regime único: opção × distribuição × gestão",
+    "topic": "Simples Nacional",
+    "law": "CF, art.146, III, d, e §1º",
+    "confirmed": [
+      "2975511"
+    ],
+    "source": "https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirArtigo=146&abrirBase=CF",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Características constitucionais",
+        "rows": [
+          [
+            "Ponto",
+            "Regra"
+          ],
+          [
+            "Adesão",
+            "Opcional para o contribuinte"
+          ],
+          [
+            "Enquadramento",
+            "Podem existir condições diferentes por Estado"
+          ],
+          [
+            "Recolhimento",
+            "Unificado e centralizado"
+          ],
+          [
+            "Distribuição entre entes",
+            "Imediata; vedada retenção ou condicionamento"
+          ],
+          [
+            "Arrecadação, fiscalização e cobrança",
+            "Podem ser compartilhadas; cadastro nacional único"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "rule",
+        "title": "Veículo constitucional",
+        "text": "Lei complementar pode instituir o regime único nas condições constitucionais."
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Centralizar não autoriza reter",
+        "text": "Arrecadar em conjunto não permite condicionar a entrega da parcela de cada ente."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A EC132/2023 renumerou o antigo parágrafo único para §1º. A questão de2024 cobra características do regime, sem exigir transpor para ele todas as regras posteriores de IBS/CBS."
+          }
+        ]
+      }
+    ],
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; datas e referências nos detalhes"
+  },
+  {
+    "id": "lote-concorrencia",
+    "title": "Concorrência: critérios especiais × normas da União",
+    "topic": "06 Legislação tributária",
+    "law": "CF, art.146-A",
+    "confirmed": [
+      "2163764"
+    ],
+    "source": "https://www.camara.leg.br/internet/infdoc/novoconteudo/html/leginfra/ArtCF5110.htm",
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Mesmo objetivo, veículos distintos",
+        "rows": [
+          [
+            "Previsão",
+            "Instrumento"
+          ],
+          [
+            "Critérios especiais de tributação para prevenir desequilíbrios",
+            "Lei complementar"
+          ],
+          [
+            "Normas da União de igual objetivo, preservadas pelo artigo",
+            "Lei; não se exige LC apenas por essa cláusula"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não trocar os veículos",
+        "text": "Decreto não substitui a lei; a cláusula final não libera a União para instituir por lei ordinária o critério especial reservado à LC."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O art.146-A preserva a atuação legislativa da União em paralelo à reserva de lei complementar para critérios especiais. A expressão por lei não cria uma dispensa geral das reservas constitucionais."
+          }
+        ]
+      }
+    ],
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; datas e referências nos detalhes"
+  },
+  {
+    "id": "lote-fato-validade",
+    "title": "Fato gerador: validade do ato × situação tributável",
+    "topic": "07 Obrigação e sujeição",
+    "law": "CTN, arts.3º,114 e118",
+    "confirmed": [
+      "3679699"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "O que se abstrai e o que permanece",
+        "rows": [
+          [
+            "Elemento",
+            "Tratamento"
+          ],
+          [
+            "Validade jurídica dos atos efetivamente praticados",
+            "Abstraída na interpretação da definição legal"
+          ],
+          [
+            "Natureza do objeto e efeitos; efeitos dos fatos ocorridos",
+            "Também abrangidos pelo art.118"
+          ],
+          [
+            "Ocorrência concreta da situação definida em lei",
+            "Continua necessária"
+          ],
+          [
+            "Ilícito como punição",
+            "Tributo não se transforma em sanção"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "rule",
+        "title": "A invalidade não afasta automaticamente o tributo",
+        "text": "Se ocorreu a situação tributável prevista em lei, o vício do negócio não basta, por si só, para afastar a incidência."
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não criar fato gerador por analogia",
+        "text": "O art.118 não autoriza cobrar tributo sem a situação legal necessária e suficiente."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Hipótese de incidência é a previsão abstrata; fato gerador é a realização da situação tributável. A abstração de validade não elimina essa distinção nem a exigência de legalidade."
+          }
+        ]
+      }
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; datas e referências nos detalhes"
+  },
+  {
+    "id": "lote-desconsideracao",
+    "title": "Dissimulação: poder fiscal × procedimento legal",
+    "topic": "07 Obrigação e sujeição",
+    "law": "CTN, art.116, parágrafo único",
+    "confirmed": [
+      "719775"
+    ],
+    "blocks": [
+      {
+        "type": "flowchart",
+        "title": "Como aplicar a regra",
+        "steps": [
+          {
+            "label": "Há dissimulação?",
+            "text": "Ocultação do fato gerador ou da natureza de elementos da obrigação.",
+            "kind": "warning"
+          },
+          {
+            "label": "Qual procedimento?",
+            "text": "Observar procedimentos estabelecidos em lei ordinária.",
+            "kind": "success"
+          },
+          {
+            "label": "Qual efeito fiscal?",
+            "text": "Desconsiderar a fachada para alcançar a situação tributável efetiva.",
+            "kind": "success"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "title": "Trocas cobradas em prova",
+        "rows": [
+          [
+            "Afirmação",
+            "Leitura correta"
+          ],
+          [
+            "Depende de lei complementar procedimental",
+            "O dispositivo exige lei ordinária"
+          ],
+          [
+            "Basta decreto ou aplicação irrestrita",
+            "Não afasta a condição legal de procedimento"
+          ],
+          [
+            "Exige sempre autorização judicial prévia",
+            "Não é condição geral prevista nesse parágrafo"
+          ],
+          [
+            "Toda economia fiscal é proibida",
+            "Planejamento lícito não se confunde com dissimulação"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Datas dos precedentes",
+        "text": "Resposta de2018: texto do CTN. Constitucionalidade no STF em2022 e orientação do STJ em2026 são atualizações posteriores."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A desconsideração fiscal não é uma autorização geral para anular civilmente negócios ou criar hipóteses de incidência. A ADI2446 preservou o dispositivo. O Informativo888 do STJ trata da necessidade de lei procedimental para aplicação com esse fundamento; não se deve confundi-lo com todas as demais hipóteses legais de lançamento por fraude."
+          }
+        ]
+      }
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; datas e referências nos detalhes"
+  },
+  {
+    "id": "lote-capacidade",
+    "title": "Capacidade passiva × capacidade civil × regularidade",
+    "topic": "07 Obrigação e sujeição",
+    "law": "CTN, art.126, I aIII",
+    "confirmed": [
+      "3023542",
+      "583679"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Condição pessoal não elimina capacidade tributária",
+        "rows": [
+          [
+            "Situação",
+            "Capacidade passiva"
+          ],
+          [
+            "Menor de idade",
+            "Independe da capacidade civil"
+          ],
+          [
+            "Pessoa sob curatela",
+            "Incapacidade civil não a afasta"
+          ],
+          [
+            "Pessoa presa ou com restrição de atividade/bens",
+            "A medida não a elimina"
+          ],
+          [
+            "Pessoa jurídica sem constituição regular",
+            "Basta unidade econômica ou profissional"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "rule",
+        "title": "Os quatro herdeiros do caso têm capacidade",
+        "text": "Idade, curatela e prisão não criam incapacidade tributária passiva."
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Capacidade não prova dívida por si só",
+        "text": "Ainda é preciso verificar incidência, sujeito legal e eventual benefício aplicável. A regra não dispensa representação civil quando necessária."
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não confundir os polos",
+        "text": "O art.126 trata da capacidade passiva, não da competência ou capacidade ativa para exigir tributos."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Na questão583679 a falta de constituição regular não impede a sujeição passiva da unidade econômica ou profissional. Na3023542 os quatro perfis pessoais permanecem capazes no sentido tributário do art.126."
+          }
+        ]
+      }
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; datas e referências nos detalhes"
+  },
+  {
+    "id": "lote-domicilio",
+    "title": "Domicílio: eleição → regra supletiva → recusa",
+    "topic": "07 Obrigação e sujeição",
+    "law": "CTN, art.127, caput e §§1º–2º",
+    "confirmed": [
+      "693068",
+      "362367"
+    ],
+    "blocks": [
+      {
+        "type": "flowchart",
+        "title": "Escolha e limites",
+        "steps": [
+          {
+            "label": "Eleição válida",
+            "text": "Contribuinte ou responsável escolhe na forma da legislação aplicável.",
+            "kind": "success"
+          },
+          {
+            "label": "Sem eleição",
+            "text": "Aplicar o inciso conforme a pessoa.",
+            "kind": "warning"
+          },
+          {
+            "label": "Dificulta arrecadação ou fiscalização?",
+            "text": "Autoridade pode recusar o eleito; usar lugar dos bens ou dos atos/fatos.",
+            "kind": "warning"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "title": "Na falta de eleição",
+        "rows": [
+          [
+            "Pessoa",
+            "Regra supletiva"
+          ],
+          [
+            "Natural",
+            "Residência habitual; se incerta/desconhecida, centro habitual da atividade"
+          ],
+          [
+            "Jurídica privada ou firma individual",
+            "Sede; para os atos/fatos respectivos, cada estabelecimento"
+          ],
+          [
+            "Jurídica pública",
+            "Qualquer repartição no território da entidade tributante"
+          ],
+          [
+            "Nenhum inciso cabe",
+            "Lugar dos bens ou dos atos/fatos que originaram a obrigação"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Depois da recusa, não voltar automaticamente à residência",
+        "text": "O §2º remete ao §1º: bens ou atos/fatos."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Eleição não é faculdade exclusiva do contribuinte: o responsável também aparece no caput. A recusa é administrativa quando presentes os motivos legais. O DTE do art.127-A foi acrescentado em2026 e não substitui a resposta das provas de2016 e2018."
+          }
+        ]
+      }
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; datas e referências nos detalhes"
+  }
+];
+const bindings168={"dt-integracao": ["1234920", "400289", "400687"], "dt-reserva": ["676708", "719754"], "dt-principal-acessoria": ["758663", "697233", "760213", "396948"], "dt-sujeicao": ["684686"]};
+const blocks168={"dt-principal-acessoria": [{"type": "table", "title": "Objeto × nascimento × encerramento", "rows": [["Ponto", "Principal", "Acessória"], ["Objeto", "Pagar tributo ou penalidade pecuniária", "Prestação positiva ou negativa instrumental"], ["Marco", "Nasce com o fato gerador", "Situação prevista na legislação aplicável"], ["Extinção", "Juntamente com o crédito decorrente", "Não presumir dispensa apenas por inexistir tributo a pagar"], ["Exemplo", "Pagar ISS", "Emitir nota fiscal"]]}, {"type": "callout", "kind": "danger", "title": "Prescrição extingue; não é a única causa", "text": "Na questão760213, A também exclui indevidamente a penalidade do objeto. Não ensinar que prescrição seria algo alheio à extinção do crédito."}], "dt-sujeicao": [{"type": "table", "title": "Polos da obrigação", "rows": [["Polo", "Pessoa"], ["Ativo", "Pessoa jurídica de direito público titular da competência para exigir"], ["Passivo principal", "Obrigada a pagar tributo ou multa"], ["Passivo acessório", "Obrigada à prestação instrumental"]]}]};
+export const visualGuides=[...reviewed150.map(g=>bindings168[g.id]?{...g,confirmed:[...g.confirmed,...bindings168[g.id]],blocks:[...g.blocks,...(blocks168[g.id]||[])],evidence:"Núcleo conferido; observar contexto temporal nas questões"}:g),...guides168];

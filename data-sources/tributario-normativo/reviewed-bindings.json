@@ -3816,6 +3816,537 @@
       "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
       "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
       "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "1234920",
+      "answer": "C",
+      "guideId": "dt-integracao",
+      "examYear": 2020,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 21,
+        "endPage": 22
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Integração sucessiva: analogia, princípios tributários, princípios de direito público e equidade; limites dos parágrafos.",
+      "legalBasis": "CTN, art.108",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "11.2",
+          "title": "A Ordem dos Métodos de Integração",
+          "page": 30
+        },
+        {
+          "volume": 3,
+          "section": "11.3",
+          "title": "Limites da Analogia e da Equidade",
+          "page": 31
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Regra aplicável à prova conferida; alterações posteriores de 2026 não substituem o fundamento histórico."
+    },
+    {
+      "questionId": "400289",
+      "answer": "D",
+      "guideId": "dt-integracao",
+      "examYear": 2016,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 22,
+        "endPage": 22
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Dúvida sobre natureza ou circunstâncias materiais do fato favorece o acusado na lei de infrações e penalidades.",
+      "legalBasis": "CTN, art.112, II",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "11.6",
+          "title": "Interpretação Mais Favorável nas Infrações",
+          "page": 34
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Regra aplicável à prova conferida; alterações posteriores de 2026 não substituem o fundamento histórico."
+    },
+    {
+      "questionId": "400687",
+      "answer": "D",
+      "guideId": "dt-integracao",
+      "examYear": 2016,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 22,
+        "endPage": 22
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Dispensa do cumprimento de obrigação acessória recebe interpretação literal.",
+      "legalBasis": "CTN, art.111, III",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "11.5",
+          "title": "Interpretação Literal",
+          "page": 33
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Regra aplicável à prova conferida; alterações posteriores de 2026 não substituem o fundamento histórico."
+    },
+    {
+      "questionId": "2975511",
+      "answer": "A",
+      "guideId": "lote-simples-regime",
+      "examYear": 2024,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 22,
+        "endPage": 22
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Regime único é opcional, com distribuição imediata sem retenção; arrecadação, fiscalização e cadastro podem ser compartilhados.",
+      "legalBasis": "CF, art.146, III, d, e §1º",
+      "officialUrl": "https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirArtigo=146&abrirBase=CF",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "04.1",
+          "title": "Funções da Lei Complementar Tributária",
+          "page": 8
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Prova de 2024: aplicar a redação constitucional correspondente. O antigo parágrafo único do art.146 passou a §1º com a EC132/2023, sem mudar as quatro características aqui cobradas."
+    },
+    {
+      "questionId": "2163764",
+      "answer": "E",
+      "guideId": "lote-concorrencia",
+      "examYear": 2022,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 22,
+        "endPage": 22
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Critérios especiais de tributação: lei complementar; normas da União de igual objetivo: por lei.",
+      "legalBasis": "CF, art.146-A",
+      "officialUrl": "https://www.camara.leg.br/internet/infdoc/novoconteudo/html/leginfra/ArtCF5110.htm",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "04.9",
+          "title": "Critérios Especiais para Prevenir Desequilíbrios da Concorrência",
+          "page": 13
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Regra aplicável à prova conferida; alterações posteriores de 2026 não substituem o fundamento histórico."
+    },
+    {
+      "questionId": "676708",
+      "answer": "B",
+      "guideId": "dt-reserva",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 22,
+        "endPage": 23
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Lei complementar regula limitações constitucionais ao poder de tributar; não cria livremente competências ou imunidades constitucionais.",
+      "legalBasis": "CF, art.146, II",
+      "officialUrl": "https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirArtigo=146&abrirBase=CF",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "04.1",
+          "title": "Funções da Lei Complementar Tributária",
+          "page": 8
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Prova de 2018: aplicar a redação constitucional correspondente. O antigo parágrafo único do art.146 passou a §1º com a EC132/2023, sem mudar as quatro características aqui cobradas."
+    },
+    {
+      "questionId": "719754",
+      "answer": "D",
+      "guideId": "dt-reserva",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 23,
+        "endPage": 23
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Conflitos de competência e normas gerais de obrigação, lançamento, crédito, prescrição e decadência são matérias de lei complementar.",
+      "legalBasis": "CF, art.146, I e III, b",
+      "officialUrl": "https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirArtigo=146&abrirBase=CF",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "04.1",
+          "title": "Funções da Lei Complementar Tributária",
+          "page": 8
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Prova de 2018: aplicar a redação constitucional correspondente. O antigo parágrafo único do art.146 passou a §1º com a EC132/2023, sem mudar as quatro características aqui cobradas."
+    },
+    {
+      "questionId": "758663",
+      "answer": "C",
+      "guideId": "dt-principal-acessoria",
+      "examYear": 2019,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 23,
+        "endPage": 23
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Principal significa dever pecuniário: pagar tributo ou penalidade, não prioridade sobre outras obrigações.",
+      "legalBasis": "CTN, art.113, §1º",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "01.1",
+          "title": "As Duas Espécies de Obrigação Tributária",
+          "page": 1
+        },
+        {
+          "volume": 4,
+          "section": "01.2",
+          "title": "Nascimento e Objeto da Obrigação Principal",
+          "page": 1
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Regra aplicável à prova conferida; alterações posteriores de 2026 não substituem o fundamento histórico."
+    },
+    {
+      "questionId": "697233",
+      "answer": "A",
+      "guideId": "dt-principal-acessoria",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 23,
+        "endPage": 24
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Emitir nota fiscal é obrigação acessória; pagar ISS é obrigação principal.",
+      "legalBasis": "CTN, art.113, §§1º e2º",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "01.1",
+          "title": "As Duas Espécies de Obrigação Tributária",
+          "page": 1
+        },
+        {
+          "volume": 4,
+          "section": "01.3",
+          "title": "Obrigação Acessória e o Interesse da Fiscalização",
+          "page": 2
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Regra aplicável à prova conferida; alterações posteriores de 2026 não substituem o fundamento histórico."
+    },
+    {
+      "questionId": "760213",
+      "answer": "B",
+      "guideId": "dt-principal-acessoria",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 24,
+        "endPage": 24
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Principal nasce com o fato gerador, compreende tributo ou multa e extingue-se juntamente com o crédito, por suas causas legais.",
+      "legalBasis": "CTN, arts.113, §1º, e156",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "01.2",
+          "title": "Nascimento e Objeto da Obrigação Principal",
+          "page": 1
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Regra aplicável à prova conferida; alterações posteriores de 2026 não substituem o fundamento histórico.",
+      "displayResolution": "B reproduz o art.113, §1º: a obrigação principal surge com o fato gerador, tem por objeto pagar tributo ou penalidade pecuniária e extingue-se juntamente com o crédito. A é falsa por dizer objeto exclusivo de tributo e restringir o encerramento à prescrição: prescrição é, sim, uma causa de extinção do crédito (art.156, V), mas não a única. C inclui indevidamente o dever de prestar informações no objeto da principal. D confunde os regimes: a multa por descumprimento acessório integra a obrigação principal, sem apagar o dever instrumental. E não corresponde à definição do art.115.",
+      "displayLaw": "CTN, arts.113, §§1º–3º, 114,115 e156, V."
+    },
+    {
+      "questionId": "396948",
+      "answer": "D",
+      "guideId": "dt-principal-acessoria",
+      "examYear": 2016,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 24,
+        "endPage": 24
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Obrigação principal extingue-se juntamente com o crédito dela decorrente.",
+      "legalBasis": "CTN, art.113, §1º",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "01.2",
+          "title": "Nascimento e Objeto da Obrigação Principal",
+          "page": 1
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Regra aplicável à prova conferida; alterações posteriores de 2026 não substituem o fundamento histórico."
+    },
+    {
+      "questionId": "3679699",
+      "answer": "B",
+      "guideId": "lote-fato-validade",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 24,
+        "endPage": 24
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Na interpretação da definição legal do fato gerador abstrai-se a validade jurídica dos atos efetivamente praticados.",
+      "legalBasis": "CTN, art.118, I eII",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "02.5",
+          "title": "Validade dos Atos e Efeitos na Interpretação do Fato Gerador",
+          "page": 8
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Regra aplicável à prova conferida; alterações posteriores de 2026 não substituem o fundamento histórico."
+    },
+    {
+      "questionId": "719775",
+      "answer": "B",
+      "guideId": "lote-desconsideracao",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 24,
+        "endPage": 24
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Desconsideração por dissimulação observa procedimentos estabelecidos em lei ordinária.",
+      "legalBasis": "CTN, art.116, parágrafo único",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "02.3",
+          "title": "A Desconsideração de Atos Dissimulados",
+          "page": 6
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Gabarito de2018 resolvido pelo texto do CTN. ADI2446/2022 e Informativo888/2026 constam apenas como atualização, sem retrodatá-los.",
+      "displayResolution": "B: o próprio art.116, parágrafo único, exige procedimentos a serem estabelecidos em lei ordinária. A acrescenta autorização judicial prévia não exigida pelo texto; C elimina a condição procedimental; D troca lei ordinária por complementar; E admite disciplina exclusiva do Executivo. Atualizações posteriores à prova de2018: o STF julgou constitucional a norma na ADI2446 em2022; o STJ, no Informativo888, julgamento de5/5/2026, destacou a necessidade da lei procedimental para aplicação fundada nesse dispositivo. Esses julgados não são apresentados como precedentes já existentes em2018.",
+      "displayKnowledge": "Dissimulação do fato gerador; desconsideração fiscal; procedimentos em lei ordinária; distinção entre resposta legal de2018 e atualizações jurisprudenciais posteriores.",
+      "displayLaw": "CTN, art.116, parágrafo único, incluído pela LC104/2001. Atualizações: STF, ADI2446 (2022); STJ, Informativo888 (2026).",
+      "additionalOfficialSources": [
+        "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=485260",
+        "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270888%27.cod."
+      ]
+    },
+    {
+      "questionId": "684686",
+      "answer": "B",
+      "guideId": "dt-sujeicao",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 25,
+        "endPage": 25
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Sujeito passivo principal paga tributo ou multa; sujeito passivo acessório deve a prestação instrumental.",
+      "legalBasis": "CTN, arts.119,121 e122",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "03.3",
+          "title": "Sujeito Passivo da Obrigação Principal e da Acessória",
+          "page": 10
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Regra aplicável à prova conferida; alterações posteriores de 2026 não substituem o fundamento histórico."
+    },
+    {
+      "questionId": "3023542",
+      "answer": "D",
+      "guideId": "lote-capacidade",
+      "examYear": 2024,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 25,
+        "endPage": 25
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Os quatro herdeiros têm capacidade tributária passiva: idade, curatela e prisão não a afastam.",
+      "legalBasis": "CTN, art.126, I eII",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "05.1",
+          "title": "Independência da Capacidade Tributária Passiva",
+          "page": 15
+        },
+        {
+          "volume": 4,
+          "section": "05.2",
+          "title": "Pessoas Naturais e a Capacidade Civil",
+          "page": 16
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Regra aplicável à prova conferida; alterações posteriores de 2026 não substituem o fundamento histórico."
+    },
+    {
+      "questionId": "583679",
+      "answer": "B",
+      "guideId": "lote-capacidade",
+      "examYear": 2017,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 25,
+        "endPage": 25
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Capacidade tributária passiva independe da constituição regular da pessoa jurídica, bastando unidade econômica ou profissional.",
+      "legalBasis": "CTN, art.126, III",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "05.1",
+          "title": "Independência da Capacidade Tributária Passiva",
+          "page": 15
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "Regra aplicável à prova conferida; alterações posteriores de 2026 não substituem o fundamento histórico."
+    },
+    {
+      "questionId": "693068",
+      "answer": "A",
+      "guideId": "lote-domicilio",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 25,
+        "endPage": 26
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Sem eleição, pessoa jurídica privada tem domicílio na sede ou, para os atos e fatos respectivos, em cada estabelecimento.",
+      "legalBasis": "CTN, art.127, II",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "05.3",
+          "title": "Domicílio: Eleição e Regras Supletivas",
+          "page": 17
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "CTN127 aplicado à prova de2018. O art.127-A sobre DTE foi acrescentado em2026; não integra a resposta histórica nem substitui a ordem e a recusa do art.127."
+    },
+    {
+      "questionId": "362367",
+      "answer": "C",
+      "guideId": "lote-domicilio",
+      "examYear": 2016,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 26,
+        "endPage": 26
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Recusa de domicílio eleito que dificulte arrecadação ou fiscalização leva ao lugar dos bens ou dos atos e fatos.",
+      "legalBasis": "CTN, art.127, §§1º e2º",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "05.3",
+          "title": "Domicílio: Eleição e Regras Supletivas",
+          "page": 17
+        },
+        {
+          "volume": 4,
+          "section": "05.4",
+          "title": "Quando as Regras Supletivas Não Cabem",
+          "page": 18
+        },
+        {
+          "volume": 4,
+          "section": "05.5",
+          "title": "Recusa do Domicílio Eleito",
+          "page": 18
+        }
+      ],
+      "excludedMentions": "Distratores não contam como cobrança direta de outros núcleos.",
+      "scope": "Enunciado, todas as alternativas e gabarito conferidos no PDF; confronto com fonte oficial e seções DT indicadas.",
+      "temporalStatus": "CTN127 aplicado à prova de2016. O art.127-A sobre DTE foi acrescentado em2026; não integra a resposta histórica nem substitui a ordem e a recusa do art.127."
     }
   ]
 }
