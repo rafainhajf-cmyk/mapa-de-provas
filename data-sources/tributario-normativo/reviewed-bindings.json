@@ -2684,7 +2684,7 @@
       "reviewStatus": "with-caveat",
       "displayResolution": "D é a alternativa correta do PDF. O vencimento foi em dezembro/2012, mas a declaração do débito ocorreu apenas em junho/2013. A declaração constitui o crédito sem novo lançamento (Súmula436/STJ). Como o tributo já estava vencido, a contagem para cobrar começa na entrega da declaração: prazo quinquenal até junho/2018, nas condições do enunciado. A, B eC exigem indevidamente novo lançamento; E conta desde o vencimento anterior à constituição. O comentário antes cadastrado sobre imposto versus tributo não resolvia esta questão e foi substituído apenas na exibição.",
       "displayKnowledge": "Declaração reconhecendo débito constitui o crédito. Para a cobrança, comparar a entrega da declaração com o vencimento: a contagem não começa antes de ambos.",
-      "displayLaw": "CTN, art.174; STJ, Súmula436. Gabarito noPDF: D."
+      "displayLaw": "CTN, art.174; STJ, Súmula436. Gabarito no PDF: D."
     },
     {
       "questionId": "3228235",
@@ -3287,15 +3287,535 @@
       "dtReferences": [],
       "excludedMentions": "As menções de distratores são explicadas, mas não somadas como incidência direta em outros núcleos.",
       "scope": "Enunciado integral, alternativas e gabarito lidos no PDF; regra decisiva e distratores confrontados com fontes oficiais. Apoio DT registrado apenas nas seções efetivamente lidas.",
-      "temporalStatus": "Resposta da prova de 2025 mantida; atualização posterior/temporal do Tema1367: a tese foi modificada emembargos. Não tratar o resumo inicial de 2025 como tese atual invariável.",
-      "displayResolution": "C: somente II é correta. O Tema201 assegura restituição do ICMS-ST quando a base efetiva é inferior à presumida. I é falsa como regra atual: mero deslocamento entre estabelecimentos do mesmo titular não gera circulação jurídica tributável (ADC49/Tema1099), observados os recortes temporais e a disciplina legal da opção de equiparação. III contraria o Tema745: adotada a seletividade, energia essencial não pode receber alíquota superior à geral. Para fatos anteriores a 2024, não aplicar mecanicamente o resumo antigo da modulação: o Tema1367 foi alterado emembargos e não autoriza cobrar operações pretéritas que não tiveram o tributo pago. O gabarito de 2025 permanece separado dessa atualização.",
+      "temporalStatus": "Resposta da prova de 2025 mantida; atualização posterior/temporal do Tema1367: a tese foi modificada em embargos. Não tratar o resumo inicial de 2025 como tese atual invariável.",
+      "displayResolution": "C: somente II é correta. O Tema201 assegura restituição do ICMS-ST quando a base efetiva é inferior à presumida. I é falsa como regra atual: mero deslocamento entre estabelecimentos do mesmo titular não gera circulação jurídica tributável (ADC49/Tema1099), observados os recortes temporais e a disciplina legal da opção de equiparação. III contraria o Tema745: adotada a seletividade, energia essencial não pode receber alíquota superior à geral. Para fatos anteriores a 2024, não aplicar mecanicamente o resumo antigo da modulação: o Tema1367 foi alterado em embargos e não autoriza cobrar operações pretéritas que não tiveram o tributo pago. O gabarito de 2025 permanece separado dessa atualização.",
       "reviewStatus": "with-caveat",
       "additionalOfficialSources": [
         {
-          "title": "STF, Tema1367: tese modificada emembargos",
+          "title": "STF, Tema1367: tese modificada em embargos",
           "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=6907815&numeroTema=1367"
         }
       ]
+    },
+    {
+      "questionId": "583678",
+      "answer": "E",
+      "guideId": "lote-contribuicoes",
+      "examYear": 2017,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 16,
+        "endPage": 17
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Competência da União para contribuições do art.149, sem apagar hipóteses específicas dos demais entes.",
+      "legalBasis": "CF, art.149",
+      "officialUrl": "https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirArtigo=149&abrirBase=CF",
+      "dtReferences": [],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos no PDF; fundamento constitucional e distinções federativas confrontados comfonte oficial.",
+      "temporalStatus": "Prova de2017: considerar a redação do art.149 vigente àépoca. O quadro mantém a competência geral e as hipóteses específicas sem transportar regras previdenciárias posteriores."
+    },
+    {
+      "questionId": "758662",
+      "answer": "B",
+      "guideId": "dt-reserva",
+      "examYear": 2019,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 17,
+        "endPage": 17
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Dispensa e redução de penalidades são matérias reservadas à lei.",
+      "legalBasis": "CTN, art.97, V eVI",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "07.1",
+          "title": "Matérias Sujeitas à Reserva Legal",
+          "page": 19
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "714278",
+      "answer": "C",
+      "guideId": "lote-protecao-normas",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 17,
+        "endPage": 17
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Observância de norma complementar protege contra penalidades, juros e atualização monetária da base, sem apagar o tributo.",
+      "legalBasis": "CTN, art.100, parágrafo único",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "06.3",
+          "title": "Efeitos da Observância das Normas Complementares",
+          "page": 19
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "660065",
+      "answer": "A",
+      "guideId": "lote-fontes-normas",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 17,
+        "endPage": 17
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Legislação tributária é expressão ampla que inclui normas infralegais; isso não afasta reserva legal.",
+      "legalBasis": "CTN, arts.96 e97",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "06.1",
+          "title": "O Que Compreende a Legislação Tributária",
+          "page": 17
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "396945",
+      "answer": "C",
+      "guideId": "lote-fontes-normas",
+      "examYear": 2016,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 18,
+        "endPage": 18
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Atos administrativos normativos complementam também tratados e convenções; distinguir art.96 deart.100.",
+      "legalBasis": "CTN, arts.96,98 e100",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "06.2",
+          "title": "Normas Complementares: Atos, Decisões, Práticas e Convênios",
+          "page": 18
+        },
+        {
+          "volume": 3,
+          "section": "08.1",
+          "title": "Efeitos sobre a Legislação Tributária Interna",
+          "page": 22
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "400564",
+      "answer": "A",
+      "guideId": "dt-reserva",
+      "examYear": 2016,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 18,
+        "endPage": 18
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Lei é exigida para dispensar ou reduzir penalidades de taxas e contribuição de melhoria; não existe exceção genérica por espécie.",
+      "legalBasis": "CTN, art.97, VI",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "07.1",
+          "title": "Matérias Sujeitas à Reserva Legal",
+          "page": 19
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "3552003",
+      "answer": "D",
+      "guideId": "dt-retroatividade",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 18,
+        "endPage": 18
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Multa menos severa retroage a ato não definitivamente julgado; não importar ressalvas de outra alínea.",
+      "legalBasis": "CTN, art.106, II, c",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "10.4",
+          "title": "Infrações e a Lei Mais Benigna",
+          "page": 28
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "3565469",
+      "answer": "A",
+      "guideId": "dt-retroatividade",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 18,
+        "endPage": 18
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Revogação da infração alcança multa ainda não definitivamente julgada; imposto segue a lei do fato gerador.",
+      "legalBasis": "CTN, arts.106, II, a, e144",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "10.5",
+          "title": "Penalidade e Tributo na Retroatividade",
+          "page": 28
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "3113689",
+      "answer": "B",
+      "guideId": "dt-retroatividade",
+      "examYear": 2024,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 19,
+        "endPage": 19
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Gabarito B exige lei realmente interpretativa: rótulo não autoriza inovação retroativa nem revogação retroativa de isenção legal.",
+      "legalBasis": "CTN, arts.100 e106, I; STF, RE566621",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "10.3",
+          "title": "Lei Expressamente Interpretativa",
+          "page": 27
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "A alternativaB só é sustentável se a lei for realmente interpretativa. Se houver inovação na incidência ou revogação de isenção legal, não se admite retroação apenas pelo nome. Não foi comprovada anulação; gabarito documental preservado.",
+      "reviewStatus": "with-caveat",
+      "sourceAnswer": "B"
+    },
+    {
+      "questionId": "2235840",
+      "answer": "A",
+      "guideId": "lote-vigencia",
+      "examYear": 2022,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 19,
+        "endPage": 19
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Convênio: data nele prevista; ato normativo: publicação; efeitos normativos da decisão:30 dias, salvo disposição contrária.",
+      "legalBasis": "CTN, art.103",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "09.2",
+          "title": "Vigência dos Atos Normativos e das Decisões",
+          "page": 23
+        },
+        {
+          "volume": 3,
+          "section": "09.3",
+          "title": "Vigência dos Convênios",
+          "page": 24
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "2163523",
+      "answer": "E",
+      "guideId": "dt-retroatividade",
+      "examYear": 2022,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 19,
+        "endPage": 19
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Revogação beneficia apenas auto ainda sem julgamento definitivo; não pagamento não desfaz coisa julgada.",
+      "legalBasis": "CTN, art.106, II",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "10.4",
+          "title": "Infrações e a Lei Mais Benigna",
+          "page": 28
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "2074822",
+      "answer": "C",
+      "guideId": "dt-retroatividade",
+      "examYear": 2022,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 19,
+        "endPage": 20
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Lei expressamente interpretativa pode retroagir com exclusão de penalidades, desde que materialmente interpretativa.",
+      "legalBasis": "CTN, arts.101,103,105,106 e117",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "10.3",
+          "title": "Lei Expressamente Interpretativa",
+          "page": 27
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "758664",
+      "answer": "B",
+      "guideId": "lote-vigencia",
+      "examYear": 2019,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 20,
+        "endPage": 20
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Normas gerais de vigência aplicam-se com ressalva das regras especiais do CTN.",
+      "legalBasis": "CTN, art.101",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "09.1",
+          "title": "Vigência no Espaço e no Tempo",
+          "page": 22
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "719762",
+      "answer": "D",
+      "guideId": "dt-retroatividade",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 20,
+        "endPage": 20
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Abolição de infração tributária alcança atos pretéritos não definitivamente julgados.",
+      "legalBasis": "CTN, art.106, II, a",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "10.4",
+          "title": "Infrações e a Lei Mais Benigna",
+          "page": 28
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "719763",
+      "answer": "A",
+      "guideId": "lote-extraterritorial",
+      "examYear": 2018,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 20,
+        "endPage": 20
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Extraterritorialidade subnacional decorre dos limites de convênios ou normas gerais da União.",
+      "legalBasis": "CTN, art.102",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "09.1",
+          "title": "Vigência no Espaço e no Tempo",
+          "page": 22
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "396950",
+      "answer": "B",
+      "guideId": "lote-vigencia",
+      "examYear": 2016,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 20,
+        "endPage": 21
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Portaria normativa vigora na publicação, salvo disposição contrária; não confundir com decisão de eficácia normativa.",
+      "legalBasis": "CTN, arts.100, I, e103, I",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "09.2",
+          "title": "Vigência dos Atos Normativos e das Decisões",
+          "page": 23
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "3561403",
+      "answer": "C",
+      "guideId": "dt-retroatividade",
+      "examYear": 2025,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 21,
+        "endPage": 21
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Imposto pode permanecer exigível pela lei do fato gerador; multa de infração abolida retroage enquanto não julgada definitivamente.",
+      "legalBasis": "CTN, arts.106 e144",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "10.5",
+          "title": "Penalidade e Tributo na Retroatividade",
+          "page": 28
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "3127584",
+      "answer": "B",
+      "guideId": "dt-integracao",
+      "examYear": 2024,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 21,
+        "endPage": 21
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Comando INCORRETA: B. A dispensa de obrigações acessórias exige interpretação literal no art.111, III.",
+      "legalBasis": "CTN, arts.105,106,108 e111",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "11.5",
+          "title": "Interpretação Literal",
+          "page": 33
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
+    },
+    {
+      "questionId": "3113727",
+      "answer": "A",
+      "guideId": "dt-integracao",
+      "examYear": 2024,
+      "sourceEvidence": {
+        "file": "3.pdf",
+        "libraryFileId": "libfile_a81d842c9c288191850a8f3653263013",
+        "page": 21,
+        "endPage": 21
+      },
+      "reviewedAt": "2026-11-04",
+      "decisiveRule": "Dúvida em lei de infrações favorece o acusado nas hipóteses do art.112; não é regra geral de todo tributo.",
+      "legalBasis": "CTN, art.112",
+      "officialUrl": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+      "dtReferences": [
+        {
+          "volume": 3,
+          "section": "11.6",
+          "title": "Interpretação Mais Favorável nas Infrações",
+          "page": 34
+        }
+      ],
+      "excludedMentions": "Distratores não geram incidência adicional nos esquemas apenas por menção ao assunto.",
+      "scope": "Enunciado, alternativas e gabarito lidos integralmente no PDF; confronto com CTN oficial e seções DT expressamente indicadas.",
+      "temporalStatus": "Fundamento histórico do CTN conferido. O texto didático de2026 não substitui o regime da prova; novidades de consulta e outras alterações posteriores ficam separadas."
     }
   ]
 }

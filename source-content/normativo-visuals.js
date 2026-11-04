@@ -1720,7 +1720,7 @@ const guides131=[
             "Efeito"
           ],
           [
-            "Notificação para recolherIPVA",
+            "Notificação para recolher IPVA",
             "Constitui o crédito no lançamento de ofício"
           ],
           [
@@ -1873,7 +1873,7 @@ const guides131=[
         "blocks": [
           {
             "type": "paragraph",
-            "text": "A proteção da isenção onerosa exige analisar o prazo e as condições. A questão de 2020 não se fundamenta na SV62 de 2025: os precedentes anteriores já distinguiam matéria reservada àlei complementar de dispositivo materialmente ordinário. Tratados celebrados pela República também não se confundem com isenção heterônoma interna da União."
+            "text": "A proteção da isenção onerosa exige analisar o prazo e as condições. A questão de 2020 não se fundamenta na SV62 de 2025: os precedentes anteriores já distinguiam matéria reservada à lei complementar de dispositivo materialmente ordinário. Tratados celebrados pela República também não se confundem com isenção heterônoma interna da União."
           }
         ]
       }
@@ -1917,7 +1917,7 @@ const guides131=[
         "type": "callout",
         "kind": "danger",
         "title": "Boa-fé não basta nesta hipótese",
-        "text": "Não importar automaticamente aSúmula375 da execução comum para afastar a presunção absoluta tributária."
+        "text": "Não importar automaticamente a Súmula375 da execução comum para afastar a presunção absoluta tributária."
       },
       {
         "type": "callout",
@@ -1987,7 +1987,7 @@ const guides131=[
       {
         "type": "callout",
         "kind": "danger",
-        "title": "União não passa automaticamente àfrente",
+        "title": "União não passa automaticamente à frente",
         "text": "A ordem União–Estados–Municípios do antigo art.187, parágrafo único, foi afastada pela ADPF357."
       },
       {
@@ -2028,7 +2028,7 @@ const guides131=[
           ],
           [
             "Reter até o devedor pagar imposto",
-            "Coação vedada pelaSúmula323"
+            "Coação vedada pela Súmula323"
           ],
           [
             "Obrigação acessória regular",
@@ -2048,7 +2048,7 @@ const guides131=[
         "blocks": [
           {
             "type": "paragraph",
-            "text": "A ressalva não equivale a declarar a questão anulada. A conclusão segura é a diferença entre fiscalização da origem/posse e retenção como instrumento de cobrança. O comando daSúmula360 é específico para tributo regularmente declarado e pago em atraso, e não uma vedação a todo tributo por homologação."
+            "text": "A ressalva não equivale a declarar a questão anulada. A conclusão segura é a diferença entre fiscalização da origem/posse e retenção como instrumento de cobrança. O comando da Súmula360 é específico para tributo regularmente declarado e pago em atraso, e não uma vedação a todo tributo por homologação."
           }
         ]
       }
@@ -2068,7 +2068,7 @@ const guides131=[
     "blocks": [
       {
         "type": "table",
-        "title": "MesmaCDA, efeitos diferentes",
+        "title": "Mesma CDA, efeitos diferentes",
         "rows": [
           [
             "Ato",
@@ -2079,7 +2079,7 @@ const guides131=[
             "Admitida para publicidade e proteção de terceiros"
           ],
           [
-            "Indisponibilidade dos bens peloFisco sem ordem judicial",
+            "Indisponibilidade dos bens pelo Fisco sem ordem judicial",
             "Vedada no regime examinado"
           ],
           [
@@ -2128,7 +2128,7 @@ const guides131=[
             "Substituir a CDA?"
           ],
           [
-            "QTN em vez deQTRN: mesma empresa",
+            "QTN em vez de QTRN: mesma empresa",
             "Sim, erro material/formal, no prazo admitido"
           ],
           [
@@ -2167,7 +2167,7 @@ const guides131=[
   },
   {
     "id": "lote-difal-simples",
-    "title": "DIFAL doSimples: constitucionalidade × lei estadual",
+    "title": "DIFAL do Simples: constitucionalidade × lei estadual",
     "topic": "ICMS",
     "law": "STF, Temas517 e1284",
     "confirmed": [
@@ -2186,7 +2186,7 @@ const guides131=[
             "Resposta"
           ],
           [
-            "Pode haverDIFAL para empresa doSimples?",
+            "Pode haver DIFAL para empresa do Simples?",
             "Sim, conforme Tema517, mesmo sem compensação de créditos"
           ],
           [
@@ -2219,7 +2219,7 @@ const guides131=[
   },
   {
     "id": "lote-icms-tres-regras",
-    "title": "ICMS: transferência entre filiais × restituiçãoST × energia",
+    "title": "ICMS: transferência entre filiais × restituição ST × energia",
     "topic": "ICMS",
     "law": "STF, ADC49 eTemas201,745 e1367",
     "confirmed": [
@@ -2242,7 +2242,7 @@ const guides131=[
             "Não é circulação jurídica tributável; observar regime e recorte temporal"
           ],
           [
-            "Base efetiva inferior àpresumida no ICMS-ST",
+            "Base efetiva inferior à presumida no ICMS-ST",
             "Cabe restituição da diferença"
           ],
           [
@@ -2255,7 +2255,7 @@ const guides131=[
         "type": "callout",
         "kind": "warning",
         "title": "Modulação exige atualização",
-        "text": "O Tema1367 foi alterado emembargos: não autoriza cobrança de operações anteriores a 2024 em que o tributo não foi pago. Não usar a tese anterior como regra atual fixa."
+        "text": "O Tema1367 foi alterado em embargos: não autoriza cobrança de operações anteriores a 2024 em que o tributo não foi pago. Não usar a tese anterior como regra atual fixa."
       },
       {
         "type": "detail",
@@ -2263,7 +2263,7 @@ const guides131=[
         "blocks": [
           {
             "type": "paragraph",
-            "text": "O itemII resolve o gabaritoC. ADC49/Tema1099 eTema745 afastam as generalizações dos itensI eIII. A transferência tem disciplina legal própria, inclusive opção de equiparação, e o resumo não dispensa verificar o fato, a data e a legislação aplicável. Para a restituiçãoST, o Tema201 compara a base efetiva com a presumida."
+            "text": "O itemII resolve o gabaritoC. ADC49/Tema1099 eTema745 afastam as generalizações dos itensI eIII. A transferência tem disciplina legal própria, inclusive opção de equiparação, e o resumo não dispensa verificar o fato, a data e a legislação aplicável. Para a restituição ST, o Tema201 compara a base efetiva com a presumida."
           }
         ]
       }
@@ -2272,4 +2272,171 @@ const guides131=[
 ];
 const bindings131={"lote-declaracao-prescricao": ["1147525", "87988"], "dt-preferencias": ["3670604"], "dt-certidoes": ["1768970"]};
 const blocks131={"dt-certidoes": [{"type": "table", "title": "CPEN: garantia e condição do ente público", "rows": [["Hipótese", "Cuidado"], ["Ente público em ação anulatória/execução embargada", "Tema273 admiteCPEN sem penhora"], ["Garantia antecipada idônea", "Tema237 pode permitirCPEN; não éCND automática"], ["Fiança versus depósito integral", "Não equiparar para todos os efeitos; contexto legal e temporal importam"]]}, {"type": "callout", "kind": "warning", "title": "Atualização posterior àprova", "text": "O art.151, X, acrescido em 2026, é hipótese autônoma condicionada. Não reescrever o gabarito de 2021 como se já existisse."}], "dt-preferencias": [{"type": "table", "title": "Falência: tributo principal × multa", "rows": [["Crédito", "Tratamento no CTN"], ["Tributo concursal", "Não prefere a extraconcursais, restituições e garantia real no limite legal"], ["Multa tributária", "Prefere apenas aos subordinados"], ["Fato gerador no curso da falência", "Tributo extraconcursal: art.188"]]}]};
-export const visualGuides=[...reviewed116.map(g=>bindings131[g.id]?{...g,confirmed:[...g.confirmed,...bindings131[g.id]],blocks:[...g.blocks,...(blocks131[g.id]||[])],evidence:"Núcleo conferido; observar ressalvas e contexto temporal nas questões"}:g),...guides131];
+const reviewed131=[...reviewed116.map(g=>bindings131[g.id]?{...g,confirmed:[...g.confirmed,...bindings131[g.id]],blocks:[...g.blocks,...(blocks131[g.id]||[])],evidence:"Núcleo conferido; observar ressalvas e contexto temporal nas questões"}:g),...guides131];
+
+const guides150=[
+  {
+    "id": "lote-fontes-normas",
+    "title": "Legislação tributária × normas complementares × lei complementar",
+    "topic": "06 Legislação tributária",
+    "law": "CTN, arts.96,98 e100",
+    "confirmed": [
+      "660065",
+      "396945"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Três expressões diferentes",
+        "rows": [
+          [
+            "Expressão",
+            "Abrangência"
+          ],
+          [
+            "Legislação tributária",
+            "Leis, tratados/convenções, decretos e normas complementares"
+          ],
+          [
+            "Normas complementares do art.100",
+            "Atos normativos, decisões com eficácia normativa por lei, práticas reiteradas e convênios"
+          ],
+          [
+            "Lei complementar",
+            "Espécie legislativa para matéria constitucionalmente reservada"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Decreto não está no rol do art.100",
+        "text": "É categoria própria da legislação tributária; não confundir com norma complementar."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "O conceito amplo do art.96 admite diploma que verse apenas parcialmente sobre tributos. Isso não autoriza ato infralegal a criar tributo ou multa. Na literalidade do art.98, tratados revogam ou modificam legislação interna; tecnicamente, examina-se a aplicação específica, sem presumir eliminação de toda lei interna."
+          }
+        ]
+      }
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; contexto temporal e fontes nos detalhes"
+  },
+  {
+    "id": "lote-protecao-normas",
+    "title": "Observar norma complementar: o que fica protegido?",
+    "topic": "06 Legislação tributária",
+    "law": "CTN, art.100, parágrafo único",
+    "confirmed": [
+      "714278"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Proteção legal específica",
+        "rows": [
+          [
+            "Parcela",
+            "Efeito da observância"
+          ],
+          [
+            "Penalidades",
+            "Imposição excluída"
+          ],
+          [
+            "Juros de mora",
+            "Cobrança excluída"
+          ],
+          [
+            "Atualização monetária da base de cálculo",
+            "Excluída nos termos literais do art.100"
+          ],
+          [
+            "Tributo principal",
+            "Não é dispensado automaticamente"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "warning",
+        "title": "Atualização da base não é perdão geral",
+        "text": "Use a expressão precisa do CTN; não transformar a proteção em anistia do imposto."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A norma complementar pode proteger a confiança do contribuinte sem eliminar o tributo previsto em lei. A questão ainda distingue retroatividade benigna do art.106 e dúvida sobre infrações do art.112."
+          }
+        ]
+      }
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; contexto temporal e fontes nos detalhes"
+  },
+  {
+    "id": "lote-extraterritorial",
+    "title": "Legislação local fora do território: convênio × norma geral",
+    "topic": "06 Legislação tributária",
+    "law": "CTN, arts.101 e102",
+    "confirmed": [
+      "719763"
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "title": "Alcance territorial condicionado",
+        "rows": [
+          [
+            "Situação",
+            "Fundamento"
+          ],
+          [
+            "Estado, DF ou Município fora do seu território, dentro do País",
+            "Nos limites reconhecidos por convênio de que participe"
+          ],
+          [
+            "Outra fonte admitida pelo CTN",
+            "Leis de normas gerais expedidas pela União"
+          ],
+          [
+            "Vontade unilateral do ente",
+            "Não basta para presumir alcance nacional"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "kind": "danger",
+        "title": "Não acrescentar homologação pelo Senado",
+        "text": "O art.102 não exige essa etapa para o convênio mencionado."
+      },
+      {
+        "type": "detail",
+        "title": "Ver explicação detalhada",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A alternativaA enumera um fundamento suficiente ao exemplo, sem precisar transcrever todas as hipóteses do art.102. O art.101 mantém a aplicação das regras gerais de vigência, ressalvadas as especiais do Código."
+          }
+        ]
+      }
+    ],
+    "source": "https://normas.leg.br/api/public/binario/ef1d040f-caf4-4afc-b17d-f0348291549e/texto",
+    "checkedAt": "2026-11-04",
+    "evidence": "Núcleo conferido; contexto temporal e fontes nos detalhes"
+  }
+];
+const bindings150={"lote-contribuicoes": ["583678"], "dt-reserva": ["758662", "400564"], "dt-retroatividade": ["3552003", "3565469", "3113689", "2163523", "2074822", "719762", "3561403"], "lote-vigencia": ["2235840", "758664", "396950"], "dt-integracao": ["3127584", "3113727"]};
+const blocks150={"dt-retroatividade": [{"type": "table", "title": "Principal × multa: não trocar os regimes", "rows": [["Alteração", "Tributo", "Penalidade"], ["Lei posterior reduz alíquota e multa", "Sem redução retroativa automática do imposto", "Examinar aplicação mais benigna a ato não definitivamente julgado"], ["Lei deixa de definir ainfração", "Principal segue a lei do fato gerador", "Pode afastar multa ainda não definitivamente julgada"], ["Auto julgado definitivamente, ainda não pago", "Não pagamento não desfaz o julgamento", "Não recebe o benefício só porque a dívida permanece aberta"]]}, {"type": "callout", "kind": "warning", "title": "Lei interpretativa precisa interpretar de verdade", "text": "O nome da lei não autoriza criar incidência ou revogar isenção legal para o passado. A questão3113689 tem ressalva explícita."}], "lote-vigencia": [{"type": "table", "title": "Regra geral × norma especial", "rows": [["Questão", "Regra"], ["Vigência tributária em geral", "Normas jurídicas gerais, ressalvadas as regras do CTN"], ["Portaria normativa", "Publicação, salvo disposição contrária"], ["Decisão administrativa com eficácia normativa", "30 dias após publicação quanto aos efeitos normativos"], ["Convênio", "Data nele prevista"]]}], "dt-integracao": [{"type": "callout", "kind": "danger", "title": "Dispensa deacessória não significa interpretação benigna geral", "text": "O art.111 manda interpretar literalmente. O art.112 favorece o acusado em dúvida sobre infração ou penalidade nas hipóteses enumeradas."}]};
+export const visualGuides=[...reviewed131.map(g=>bindings150[g.id]?{...g,confirmed:[...g.confirmed,...bindings150[g.id]],blocks:[...g.blocks,...(blocks150[g.id]||[])],evidence:"Núcleo conferido; observar ressalvas e contexto temporal nas questões"}:g),...guides150];

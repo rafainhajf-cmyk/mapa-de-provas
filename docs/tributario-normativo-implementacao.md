@@ -103,3 +103,11 @@ Validação: build e 34 testes aprovados, incluindo integração dos 100 registr
 - Conferência oficial deTemasSTJ903,537,290,273,237 eSúmula392; STF:ADPF357,ADI395,ADIs5881 econexas,ADI5894,Temas517/1284,201,745/1367 eADC49, além daSúmula544.
 - Ressalvas:300953 temC genericamente verdadeira; preservado gabaritoE documental sem inventar anulação.1768970 não pode ensinar que fiança nunca permiteCPEN.3670604 temADI5894 concluída em24/04/2025,sem dia exato deprova certificado.3685885 recebe contexto atualizado deembargos doTema1367.
 - Corrigidos comentários abreviados e aordem concreta depreferências da3127385,com sobra deR$10.000 paraRufino. Originais preservados noraw/snapshot. Backup local:backup/normativo-116-local; base remota500332f.
+
+
+### Continuação em04/11/2026 —150 questões e80 esquemas
+- Mais19 IDs lidos integralmente no3.pdf,p.16–21; 3552022 jáconferida nãofoi contada novamente.
+- DT03 consultado:06.1–06.3,07.1,08.1,09.1–09.3,10.3–10.5,11.5–11.6. Fontes oficiais:CTN96–112,144 eCF149.
+- Reforçados os comparativos tributo/multa, vigência deatos einterpretação literal/benigna. Três novos esquemas:fontes, proteção porobservância das normas complementares eextraterritorialidade.
+- Questão3113689 comressalva material sobre lei apenas nominalmente interpretativa; nenhumgabarito foi inventado ouanulação presumida.
+- Publicação anterior131:43aca8e, implantaçãoREADY. Backup localbackup/normativo-131-local.
