@@ -1,6 +1,7 @@
 import { cp, mkdir, readdir, rm, writeFile, readFile, access } from 'node:fs/promises';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
+execFileSync(process.execPath,['--test','study-knowledge.test.mjs'],{stdio:'inherit'});
 await import('./import-normativo.mjs').then(async({compileNormativo})=>writeFile('source-content/normativo-data.json',JSON.stringify(await compileNormativo())));
 let source = path.resolve('source-content');
 try { await access(path.join(source, 'index.html')); }

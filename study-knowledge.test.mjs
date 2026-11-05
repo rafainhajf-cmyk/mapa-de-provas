@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {parseKnowledgeBundle,knowledgeForTopic,knowledgeHTML,addKnowledgeTopics} from './source-content/study-knowledge.js';
+const base={id:'contab-20-premio-debentures-custo-amortizado',status:'approved',subject:'Contabilidade',title:'CPC 08',targetId:'contab-20',targetTitle:'Debêntures',blocks:[{type:'paragraph',text:'Regra essencial'}]};
+test('somente registros aprovados são publicados',()=>{const out=parseKnowledgeBundle({schemaVersion:1,records:[base,{...base,id:'outra-nota',status:'draft'}]});assert.equal(out.length,1);});
+test('bloqueia ID duplicado mesmo entre rascunhos',()=>assert.throws(()=>parseKnowledgeBundle({schemaVersion:1,records:[base,{...base}]}),/duplicado/));
+test('não publica registro sem assunto e sem destino',()=>assert.throws(()=>parseKnowledgeBundle({schemaVersion:1,records:[{...base,targetId:'',targetTitle:''}]}),/destino/));
+test('esquema escapa HTML para impedir execução de texto vindo da planilha',()=>{const html=knowledgeHTML([{...base,title:'<img src=x onerror=alert(1)>',blocks:[{type:'paragraph',text:'<script>alert(1)</script>'}]}]);assert.doesNotMatch(html,/<script>|<img src=x/);assert.match(html,/&lt;script&gt;/);});
+test('vincula o mesmo esquema ao índice sem criar duplicata',()=>{const topic={id:'group:pasta:contab-20',title:'Debêntures',subject:'Contabilidade'};assert.equal(knowledgeForTopic([base],topic).length,1);const entries=[topic];addKnowledgeTopics(entries,[base],'Contabilidade');assert.equal(entries.length,1);});
+test('cria subtópico quando o destino ainda não existe',()=>{const entries=[];addKnowledgeTopics(entries,[base],'Contabilidade');assert.equal(entries[0].id,'knowledge:'+base.id);});

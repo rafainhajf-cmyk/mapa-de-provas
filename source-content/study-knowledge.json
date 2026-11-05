@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
+  "exportedAt": "2026-11-05",
+  "records": [
+    {
+      "id": "contab-20-premio-debentures-custo-amortizado",
+      "subject": "Contabilidade",
+      "targetId": "contab-20",
+      "targetTitle": "Debêntures",
+      "title": "CPC 08 — Prêmio na emissão de debêntures",
+      "status": "approved",
+      "updateType": "incremental",
+      "source": "Incremento 03 enviado pelo usuário; CPC 08 (R1), CPC 48",
+      "version": 1,
+      "updatedAt": "2026-11-05",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Exemplo didático: valor nominal de R$ 1.000.000, prêmio de 10% (R$ 100.000), captação de R$ 1.100.000. Sem custos de transação, o passivo inicial é R$ 1.100.000."
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra essencial",
+          "text": "O prêmio na emissão integra o valor contábil do passivo financeiro; o reconhecimento posterior é, em regra, pelo custo amortizado, método dos juros efetivos. Não é receita diferida autônoma."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Etapa",
+              "Tratamento"
+            ],
+            [
+              "Emissão (sem custos de transação)",
+              "D Bancos R$ 1.100.000 / C Passivo financeiro — debêntures R$ 1.100.000"
+            ],
+            [
+              "Desdobramento analítico possível",
+              "C Debêntures a pagar R$ 1.000.000 + C Prêmio na emissão (subconta do passivo) R$ 100.000"
+            ],
+            [
+              "Mensuração posterior",
+              "Método dos juros efetivos; prêmio afeta encargos financeiros líquidos"
+            ],
+            [
+              "R$ 100.000 ÷ 60 meses",
+              "R$ 1.666,67/mês é apenas cálculo aritmético didático, não a regra contábil geral."
+            ]
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Tratamento passo a passo",
+          "steps": [
+            {
+              "label": "Captar R$ 1.100.000",
+              "text": "Reconhecer passivo financeiro inicial."
+            },
+            {
+              "label": "Identificar fluxos contratuais",
+              "text": "Considerar juros, cupons, vencimentos e custos de transação."
+            },
+            {
+              "label": "Calcular taxa efetiva",
+              "text": "Aplicar a taxa a cada período sobre o valor contábil."
+            },
+            {
+              "label": "Reconhecer encargos e pagamentos",
+              "text": "O prêmio altera o custo financeiro líquido até a liquidação."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Dados insuficientes",
+          "text": "Sem cupons, pagamentos, vencimento e custos de transação, não é possível calcular a tabela completa de juros efetivos."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas",
+          "text": "Prêmio não é reserva de capital na disciplina atual; não é receita diferida autônoma; valor nominal é diferente do valor contábil inicial; rateio linear não substitui juros efetivos."
+        },
+        {
+          "type": "reference",
+          "text": "CPC 08 (R1), itens 12 e 14",
+          "url": "https://conteudo.cvm.gov.br/cvm_institucional/export/sites/cvm/menu/regulados/normascontabeis/cpc/CPC_08_R1_Consolidado.pdf"
+        },
+        {
+          "type": "reference",
+          "text": "CPC 48 — Instrumentos financeiros",
+          "url": "https://www.cpc.org.br/Arquivos/Documentos/530_CPC_48_rev_19.pdf"
+        }
+      ],
+      "flashcards": [
+        [
+          "Onde fica o prêmio inicialmente?",
+          "No passivo financeiro, integrado ao valor inicialmente reconhecido."
+        ],
+        [
+          "Qual método de apropriação?",
+          "Custo amortizado pelo método dos juros efetivos, em regra."
+        ],
+        [
+          "Prêmio é reserva de capital?",
+          "Não."
+        ],
+        [
+          "É adequado dividir R$ 100.000 por 60 meses?",
+          "Não como regra normativa; faltam fluxos e taxa efetiva."
+        ]
+      ]
+    }
+  ]
+}
