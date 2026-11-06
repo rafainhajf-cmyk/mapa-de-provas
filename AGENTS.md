@@ -27,3 +27,9 @@ Estas instruções se aplicam a todo material, anotação e exercício enviado a
 - Reutilizar os blocos visuais de `source-content/review-blocks.js` e os estilos compartilhados quando aplicáveis.
 - Executar build, testes e auditoria visual. Conteúdo sem material não conta como esquema pronto; transcrição/OCR não conta como revisão teórica.
 - Não prometer ingestão ou publicação automática em segundo plano: a aplicação deste padrão ocorre ao atender o envio e executar o trabalho autorizado no chat.
+
+## Trabalho conjunto ChatGPT e Claude (regras de 2026-11-06)
+- A planilha "Mapa de Provas — Controle Incremental de Questões e Esquemas" (aba "Regras de publicação", regras 10 a 12) e este repositório são o registro comum. Antes de começar, leia a planilha e o `git log`; ao terminar, registre status, origem e observação com o nome de quem fez, e faça commit descrito.
+- Questão sem alternativa compatível (ex.: 1936754, 3539089, 3975996): manter como pendente com ressalva, nunca como resolução definitiva, até o usuário conferir o enunciado original no TEC. Registrar conclusão técnica e motivo sem alterar os números do enunciado para forçar uma letra.
+- Divergência entre a conclusão técnica e o gabarito do PDF (ex.: 3385428): manter ID, enunciado e letra original, explicar a divergência na resolução e citar fonte primária, sem inventar retificação oficial da banca.
+- Só vai ao site o que estiver `approved`, com autorização do usuário; depois do deploy, conferir o resultado no site.
