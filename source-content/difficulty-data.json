@@ -3571,7 +3571,7 @@
           },
           {
             "type": "image",
-            "src": "assets/poder-policia-original.jpeg",
+            "src": "assets/poder-policia-original.webp",
             "alt": "Mapa original de Poder de Polícia enviado pelo usuário; consulte as correções no texto acima.",
             "caption": "Imagem original preservada. Consulte as correções sobre delegação, coercibilidade e executoriedade acima."
           },
@@ -3631,7 +3631,7 @@
         "contentBlocks": [
           {
             "type": "image",
-            "src": "assets/poder-policia-original.jpeg",
+            "src": "assets/poder-policia-original.webp",
             "alt": "Imagem original de Poder de Polícia",
             "caption": "Imagem original. O texto reconhecido por OCR está disponível abaixo."
           }
@@ -7002,7 +7002,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-competencias.pdf",
         "pdfPages": [
-          "assets/constitucional-competencias-1.png"
+          "assets/constitucional-competencias-1.webp"
         ],
         "searchPages": [
           {
@@ -7025,8 +7025,8 @@
         "pageCount": 2,
         "pdfAsset": "assets/constitucional-competencias-comuns.pdf",
         "pdfPages": [
-          "assets/constitucional-competencias-comuns-1.png",
-          "assets/constitucional-competencias-comuns-2.png"
+          "assets/constitucional-competencias-comuns-1.webp",
+          "assets/constitucional-competencias-comuns-2.webp"
         ],
         "searchPages": [
           {
@@ -7053,7 +7053,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-municipios.pdf",
         "pdfPages": [
-          "assets/constitucional-municipios-1.png"
+          "assets/constitucional-municipios-1.webp"
         ],
         "searchPages": [
           {
@@ -7076,7 +7076,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-estados.pdf",
         "pdfPages": [
-          "assets/constitucional-estados-1.png"
+          "assets/constitucional-estados-1.webp"
         ],
         "searchPages": [
           {
@@ -7099,7 +7099,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-intervencao.pdf",
         "pdfPages": [
-          "assets/constitucional-intervencao-1.png"
+          "assets/constitucional-intervencao-1.webp"
         ],
         "searchPages": [
           {
@@ -7122,7 +7122,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-criacao-estados-municipios.pdf",
         "pdfPages": [
-          "assets/constitucional-criacao-estados-municipios-1.png"
+          "assets/constitucional-criacao-estados-municipios-1.webp"
         ],
         "searchPages": [
           {
@@ -7145,7 +7145,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-delegacao-presidente.pdf",
         "pdfPages": [
-          "assets/constitucional-delegacao-presidente-1.png"
+          "assets/constitucional-delegacao-presidente-1.webp"
         ],
         "searchPages": [
           {
@@ -7168,7 +7168,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-adi-adc-legitimados.pdf",
         "pdfPages": [
-          "assets/constitucional-adi-adc-legitimados-1.png"
+          "assets/constitucional-adi-adc-legitimados-1.webp"
         ],
         "searchPages": [
           {
@@ -7191,7 +7191,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-emendas-ploa.pdf",
         "pdfPages": [
-          "assets/constitucional-emendas-ploa-1.png"
+          "assets/constitucional-emendas-ploa-1.webp"
         ],
         "searchPages": [
           {
@@ -7214,7 +7214,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-reserva-plenario.pdf",
         "pdfPages": [
-          "assets/constitucional-reserva-plenario-1.png"
+          "assets/constitucional-reserva-plenario-1.webp"
         ],
         "searchPages": [
           {
@@ -7237,7 +7237,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-ado.pdf",
         "pdfPages": [
-          "assets/constitucional-ado-1.png"
+          "assets/constitucional-ado-1.webp"
         ],
         "searchPages": [
           {
@@ -7260,7 +7260,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-acao-popular-civil-publica.pdf",
         "pdfPages": [
-          "assets/constitucional-acao-popular-civil-publica-1.png"
+          "assets/constitucional-acao-popular-civil-publica-1.webp"
         ],
         "searchPages": [
           {
@@ -7283,7 +7283,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-eficacia-aplicabilidade.pdf",
         "pdfPages": [
-          "assets/constitucional-eficacia-aplicabilidade-1.png"
+          "assets/constitucional-eficacia-aplicabilidade-1.webp"
         ],
         "searchPages": [
           {
@@ -7306,7 +7306,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-interpretacao.pdf",
         "pdfPages": [
-          "assets/constitucional-interpretacao-1.png"
+          "assets/constitucional-interpretacao-1.webp"
         ],
         "searchPages": [
           {
@@ -7329,7 +7329,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-nacionalidade.pdf",
         "pdfPages": [
-          "assets/constitucional-nacionalidade-1.png"
+          "assets/constitucional-nacionalidade-1.webp"
         ],
         "searchPages": [
           {
@@ -7352,7 +7352,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-poder-constituinte.pdf",
         "pdfPages": [
-          "assets/constitucional-poder-constituinte-1.png"
+          "assets/constitucional-poder-constituinte-1.webp"
         ],
         "searchPages": [
           {
@@ -7375,7 +7375,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-principios-fundamentais.pdf",
         "pdfPages": [
-          "assets/constitucional-principios-fundamentais-1.png"
+          "assets/constitucional-principios-fundamentais-1.webp"
         ],
         "searchPages": [
           {
@@ -7398,7 +7398,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-remedios.pdf",
         "pdfPages": [
-          "assets/constitucional-remedios-1.png"
+          "assets/constitucional-remedios-1.webp"
         ],
         "searchPages": [
           {
@@ -7421,7 +7421,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-sentidos-constituicao.pdf",
         "pdfPages": [
-          "assets/constitucional-sentidos-constituicao-1.png"
+          "assets/constitucional-sentidos-constituicao-1.webp"
         ],
         "searchPages": [
           {
@@ -7444,7 +7444,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/constitucional-teorias-direitos-fundamentais.pdf",
         "pdfPages": [
-          "assets/constitucional-teorias-direitos-fundamentais-1.png"
+          "assets/constitucional-teorias-direitos-fundamentais-1.webp"
         ],
         "searchPages": [
           {
@@ -7467,7 +7467,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-anexos-metas-riscos.pdf",
         "pdfPages": [
-          "assets/afo-anexos-metas-riscos-1.png"
+          "assets/afo-anexos-metas-riscos-1.webp"
         ],
         "searchPages": [
           {
@@ -7490,7 +7490,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-despesa.pdf",
         "pdfPages": [
-          "assets/afo-despesa-1.png"
+          "assets/afo-despesa-1.webp"
         ],
         "searchPages": [
           {
@@ -7513,7 +7513,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-divida-flutuante.pdf",
         "pdfPages": [
-          "assets/afo-divida-flutuante-1.png"
+          "assets/afo-divida-flutuante-1.webp"
         ],
         "searchPages": [
           {
@@ -7536,7 +7536,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-especificacao.pdf",
         "pdfPages": [
-          "assets/afo-especificacao-1.png"
+          "assets/afo-especificacao-1.webp"
         ],
         "searchPages": [
           {
@@ -7559,7 +7559,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-estagios-receita.pdf",
         "pdfPages": [
-          "assets/afo-estagios-receita-1.png"
+          "assets/afo-estagios-receita-1.webp"
         ],
         "searchPages": [
           {
@@ -7582,7 +7582,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-fundos-especiais.pdf",
         "pdfPages": [
-          "assets/afo-fundos-especiais-1.png"
+          "assets/afo-fundos-especiais-1.webp"
         ],
         "searchPages": [
           {
@@ -7605,7 +7605,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-nao-vinculacao.pdf",
         "pdfPages": [
-          "assets/afo-nao-vinculacao-1.png"
+          "assets/afo-nao-vinculacao-1.webp"
         ],
         "searchPages": [
           {
@@ -7628,7 +7628,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-natureza-receita.pdf",
         "pdfPages": [
-          "assets/afo-natureza-receita-1.png"
+          "assets/afo-natureza-receita-1.webp"
         ],
         "searchPages": [
           {
@@ -7651,7 +7651,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-principios-orcamentarios.pdf",
         "pdfPages": [
-          "assets/afo-principios-orcamentarios-1.png"
+          "assets/afo-principios-orcamentarios-1.webp"
         ],
         "searchPages": [
           {
@@ -7674,7 +7674,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-rcl.pdf",
         "pdfPages": [
-          "assets/afo-rcl-1.png"
+          "assets/afo-rcl-1.webp"
         ],
         "searchPages": [
           {
@@ -7697,7 +7697,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-recursos-disponiveis.pdf",
         "pdfPages": [
-          "assets/afo-recursos-disponiveis-1.png"
+          "assets/afo-recursos-disponiveis-1.webp"
         ],
         "searchPages": [
           {
@@ -7720,7 +7720,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-regra-ouro.pdf",
         "pdfPages": [
-          "assets/afo-regra-ouro-1.png"
+          "assets/afo-regra-ouro-1.webp"
         ],
         "searchPages": [
           {
@@ -7743,7 +7743,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-renuncia-receita.pdf",
         "pdfPages": [
-          "assets/afo-renuncia-receita-1.png"
+          "assets/afo-renuncia-receita-1.webp"
         ],
         "searchPages": [
           {
@@ -7766,7 +7766,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-rreo.pdf",
         "pdfPages": [
-          "assets/afo-rreo-1.png"
+          "assets/afo-rreo-1.webp"
         ],
         "searchPages": [
           {
@@ -7789,7 +7789,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-tipos-orcamento.pdf",
         "pdfPages": [
-          "assets/afo-tipos-orcamento-1.png"
+          "assets/afo-tipos-orcamento-1.webp"
         ],
         "searchPages": [
           {
@@ -7812,7 +7812,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/afo-transferencias-voluntarias.pdf",
         "pdfPages": [
-          "assets/afo-transferencias-voluntarias-1.png"
+          "assets/afo-transferencias-voluntarias-1.webp"
         ],
         "searchPages": [
           {
@@ -8267,7 +8267,7 @@
           },
           {
             "type": "image",
-            "src": "assets/retroatividade-interpretacao-original.jpeg",
+            "src": "assets/retroatividade-interpretacao-original.webp",
             "alt": "Retroatividade benigna × interpretação favorável",
             "caption": "@bizudoauditor"
           }
@@ -8316,7 +8316,7 @@
         "contentBlocks": [
           {
             "type": "image",
-            "src": "assets/retroatividade-interpretacao-original.jpeg",
+            "src": "assets/retroatividade-interpretacao-original.webp",
             "alt": "Retroatividade benigna × interpretação favorável",
             "caption": "@bizudoauditor"
           }
@@ -8365,7 +8365,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-agregados-monetarios.pdf",
         "pdfPages": [
-          "assets/macroeconomia-agregados-monetarios-1.png"
+          "assets/macroeconomia-agregados-monetarios-1.webp"
         ],
         "searchPages": [
           {
@@ -8392,8 +8392,8 @@
         "pageCount": 2,
         "pdfAsset": "assets/macroeconomia-balanca-de-pagamento.pdf",
         "pdfPages": [
-          "assets/macroeconomia-balanca-de-pagamento-1.png",
-          "assets/macroeconomia-balanca-de-pagamento-2.png"
+          "assets/macroeconomia-balanca-de-pagamento-1.webp",
+          "assets/macroeconomia-balanca-de-pagamento-2.webp"
         ],
         "searchPages": [
           {
@@ -8671,7 +8671,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-balancete-bacen.pdf",
         "pdfPages": [
-          "assets/macroeconomia-balancete-bacen-1.png"
+          "assets/macroeconomia-balancete-bacen-1.webp"
         ],
         "searchPages": [
           {
@@ -8698,7 +8698,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-conceitos-basicos-da-macroeconomia-objetivos-e-tipos-de-mercados.pdf",
         "pdfPages": [
-          "assets/macroeconomia-conceitos-basicos-da-macroeconomia-objetivos-e-tipos-de-mercados-1.png"
+          "assets/macroeconomia-conceitos-basicos-da-macroeconomia-objetivos-e-tipos-de-mercados-1.webp"
         ],
         "searchPages": [
           {
@@ -8725,7 +8725,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-contas-pib.pdf",
         "pdfPages": [
-          "assets/macroeconomia-contas-pib-1.png"
+          "assets/macroeconomia-contas-pib-1.webp"
         ],
         "searchPages": [
           {
@@ -8752,7 +8752,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-crowding-out.pdf",
         "pdfPages": [
-          "assets/macroeconomia-crowding-out-1.png"
+          "assets/macroeconomia-crowding-out-1.webp"
         ],
         "searchPages": [
           {
@@ -8779,7 +8779,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-curva-de-phillips.pdf",
         "pdfPages": [
-          "assets/macroeconomia-curva-de-phillips-1.png"
+          "assets/macroeconomia-curva-de-phillips-1.webp"
         ],
         "searchPages": [
           {
@@ -8806,7 +8806,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-deflator-do-pib.pdf",
         "pdfPages": [
-          "assets/macroeconomia-deflator-do-pib-1.png"
+          "assets/macroeconomia-deflator-do-pib-1.webp"
         ],
         "searchPages": [
           {
@@ -8833,7 +8833,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-equivalencia-ricardiana.pdf",
         "pdfPages": [
-          "assets/macroeconomia-equivalencia-ricardiana-1.png"
+          "assets/macroeconomia-equivalencia-ricardiana-1.webp"
         ],
         "searchPages": [
           {
@@ -8860,7 +8860,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-excesso-de-moeda.pdf",
         "pdfPages": [
-          "assets/macroeconomia-excesso-de-moeda-1.png"
+          "assets/macroeconomia-excesso-de-moeda-1.webp"
         ],
         "searchPages": [
           {
@@ -8948,8 +8948,8 @@
         "pageCount": 2,
         "pdfAsset": "assets/macroeconomia-fiscal-e-monetaria.pdf",
         "pdfPages": [
-          "assets/macroeconomia-fiscal-e-monetaria-1.png",
-          "assets/macroeconomia-fiscal-e-monetaria-2.png"
+          "assets/macroeconomia-fiscal-e-monetaria-1.webp",
+          "assets/macroeconomia-fiscal-e-monetaria-2.webp"
         ],
         "searchPages": [
           {
@@ -8980,7 +8980,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-funcoes-da-moeda.pdf",
         "pdfPages": [
-          "assets/macroeconomia-funcoes-da-moeda-1.png"
+          "assets/macroeconomia-funcoes-da-moeda-1.webp"
         ],
         "searchPages": [
           {
@@ -9038,7 +9038,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-inclinacao-reta.pdf",
         "pdfPages": [
-          "assets/macroeconomia-inclinacao-reta-1.png"
+          "assets/macroeconomia-inclinacao-reta-1.webp"
         ],
         "searchPages": [
           {
@@ -9176,7 +9176,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-indice-de-precos.pdf",
         "pdfPages": [
-          "assets/macroeconomia-indice-de-precos-1.png"
+          "assets/macroeconomia-indice-de-precos-1.webp"
         ],
         "searchPages": [
           {
@@ -9203,7 +9203,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-indices.pdf",
         "pdfPages": [
-          "assets/macroeconomia-indices-1.png"
+          "assets/macroeconomia-indices-1.webp"
         ],
         "searchPages": [
           {
@@ -9230,7 +9230,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-instrumentos-de-politica-monetaria.pdf",
         "pdfPages": [
-          "assets/macroeconomia-instrumentos-de-politica-monetaria-1.png"
+          "assets/macroeconomia-instrumentos-de-politica-monetaria-1.webp"
         ],
         "searchPages": [
           {
@@ -9257,7 +9257,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-interacao-e-equilibrio-entre-is-e-lm.pdf",
         "pdfPages": [
-          "assets/macroeconomia-interacao-e-equilibrio-entre-is-e-lm-1.png"
+          "assets/macroeconomia-interacao-e-equilibrio-entre-is-e-lm-1.webp"
         ],
         "searchPages": [
           {
@@ -9368,7 +9368,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-is-lm.pdf",
         "pdfPages": [
-          "assets/macroeconomia-is-lm-1.png"
+          "assets/macroeconomia-is-lm-1.webp"
         ],
         "searchPages": [
           {
@@ -9550,7 +9550,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-is-lm-em-situacoes-especificas.pdf",
         "pdfPages": [
-          "assets/macroeconomia-is-lm-em-situacoes-especificas-1.png"
+          "assets/macroeconomia-is-lm-em-situacoes-especificas-1.webp"
         ],
         "searchPages": [
           {
@@ -9732,7 +9732,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-meta-selic-e-inflacao.pdf",
         "pdfPages": [
-          "assets/macroeconomia-meta-selic-e-inflacao-1.png"
+          "assets/macroeconomia-meta-selic-e-inflacao-1.webp"
         ],
         "searchPages": [
           {
@@ -9759,7 +9759,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-modelo-de-solow.pdf",
         "pdfPages": [
-          "assets/macroeconomia-modelo-de-solow-1.png"
+          "assets/macroeconomia-modelo-de-solow-1.webp"
         ],
         "searchPages": [
           {
@@ -9786,7 +9786,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-multiplicador-da-base-monetaria.pdf",
         "pdfPages": [
-          "assets/macroeconomia-multiplicador-da-base-monetaria-1.png"
+          "assets/macroeconomia-multiplicador-da-base-monetaria-1.webp"
         ],
         "searchPages": [
           {
@@ -9813,7 +9813,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-multiplicador-keynesiano.pdf",
         "pdfPages": [
-          "assets/macroeconomia-multiplicador-keynesiano-1.png"
+          "assets/macroeconomia-multiplicador-keynesiano-1.webp"
         ],
         "searchPages": [
           {
@@ -9840,7 +9840,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-pela-otica-da-despe.pdf",
         "pdfPages": [
-          "assets/macroeconomia-pela-otica-da-despe-1.png"
+          "assets/macroeconomia-pela-otica-da-despe-1.webp"
         ],
         "searchPages": [
           {
@@ -9867,7 +9867,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-senhoriagem.pdf",
         "pdfPages": [
-          "assets/macroeconomia-senhoriagem-1.png"
+          "assets/macroeconomia-senhoriagem-1.webp"
         ],
         "searchPages": [
           {
@@ -9894,7 +9894,7 @@
         "pageCount": 1,
         "pdfAsset": "assets/macroeconomia-taxas-de-cambio.pdf",
         "pdfPages": [
-          "assets/macroeconomia-taxas-de-cambio-1.png"
+          "assets/macroeconomia-taxas-de-cambio-1.webp"
         ],
         "searchPages": [
           {
@@ -19226,7 +19226,7 @@
             "blocks": [
               {
                 "type": "image",
-                "src": "assets/audit-user-image-02.jpg",
+                "src": "assets/audit-user-image-02.webp",
                 "alt": "Risco de auditoria: detecção, inerente e controle",
                 "caption": "Imagem original · clique para ampliar",
                 "sourceId": "libfile_e4570e2ac9dc8191a27ed64973ae235a"
@@ -19703,7 +19703,7 @@
             "blocks": [
               {
                 "type": "image",
-                "src": "assets/audit-user-image-03.jpg",
+                "src": "assets/audit-user-image-03.webp",
                 "alt": "Características da evidência — SU-VA-CO-RELEVANTE",
                 "caption": "Imagem original · clique para ampliar",
                 "sourceId": "libfile_1e7b50a81d148191af6961e709bce87b"
@@ -19845,7 +19845,7 @@
             "blocks": [
               {
                 "type": "image",
-                "src": "assets/audit-user-image-01.jpg",
+                "src": "assets/audit-user-image-01.webp",
                 "alt": "Fatores de risco de fraude",
                 "caption": "Imagem original · clique para ampliar",
                 "sourceId": "libfile_077142264ee08191b280f5aa3712c83c"

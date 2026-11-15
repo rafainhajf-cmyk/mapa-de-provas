@@ -195,7 +195,7 @@ function openSubjectSubmission(subject,topic){
 }
 export function studyPdfHTML(asset,title,pages=[],searchPages=[]){
  if(!/^assets\/(?:constitucional|afo|macroeconomia)-[a-z0-9-]+\.pdf$/.test(asset||''))return '<p>Prévia indisponível.</p>';
- const validPages=pages.filter(src=>/^assets\/(?:constitucional|afo|macroeconomia)-[a-z0-9-]+-\d+\.png$/.test(src));
+ const validPages=pages.filter(src=>/^assets\/(?:constitucional|afo|macroeconomia)-[a-z0-9-]+-\d+\.(?:png|webp)$/.test(src));
  if(searchPages.some(p=>p.text?.trim()))return `<div class="study-converted-text"><p class="conversion-notice">Texto convertido · confira fórmulas e tabelas no original.</p>${searchPages.map((p,i)=>`<section class="converted-page"><h4>Página ${esc(p.page||i+1)} de ${searchPages.length}</h4>${editableExtractedHTML(p.text||'')}${validPages[i]?`<details class="illustration-original"><summary>Ver figuras e página original</summary><figure class="study-pdf-page"><a href="${esc(validPages[i])}" target="_blank" rel="noopener noreferrer"><img src="${esc(validPages[i])}" alt="${esc(title)} — página ${esc(p.page||i+1)}" loading="lazy"></a></figure></details>`:''}</section>`).join('')}<details class="illustration-original"><summary>Abrir PDF original</summary><a href="${esc(asset)}" target="_blank" rel="noopener noreferrer">Abrir PDF ↗</a></details></div>`;
  return `<div class="study-original-pdf">${validPages.map((src,i)=>`<figure class="study-pdf-page"><figcaption>Página ${i+1}</figcaption><img src="${esc(src)}" alt="${esc(title)}" loading="lazy"></figure>`).join('')||`<iframe src="${esc(asset)}" title="${esc(title)}"></iframe>`}</div>`;
 }
