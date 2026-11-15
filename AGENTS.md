@@ -33,3 +33,11 @@ Estas instruções se aplicam a todo material, anotação e exercício enviado a
 - Questão sem alternativa compatível (ex.: 1936754, 3539089, 3975996): manter como pendente com ressalva, nunca como resolução definitiva, até o usuário conferir o enunciado original no TEC. Registrar conclusão técnica e motivo sem alterar os números do enunciado para forçar uma letra.
 - Divergência entre a conclusão técnica e o gabarito do PDF (ex.: 3385428): manter ID, enunciado e letra original, explicar a divergência na resolução e citar fonte primária, sem inventar retificação oficial da banca.
 - Só vai ao site o que estiver `approved`, com autorização do usuário; depois do deploy, conferir o resultado no site.
+
+## Coordenação entre ChatGPT e Claude (regras de 2026-11-15)
+- Fonte única de verdade: o GitHub (`main`). Antes de editar, atualizar a cópia local (`git pull`), ler `git log -10` e `docs/REGISTRO_ALTERACOES.md`.
+- Depois de editar: commit com prefixo `(Claude)` ou `(ChatGPT)` e uma entrada nova no topo de `docs/REGISTRO_ALTERACOES.md` com data, quem fez, o que mudou, arquivos tocados e pendências.
+- Antes de enviar (`git push`), atualizar de novo com `git pull --rebase`. Se houver conflito, parar e avisar o usuário; nunca sobrescrever o trabalho da outra IA.
+- Mudanças grandes (estrutura, `app.js`, `scripts/`, `style.css`): usar branch própria (`claude/...` ou `chatgpt/...`) e só entrar no `main` com aprovação do usuário.
+- Uma IA por vez no mesmo assunto. Se o registro mostrar trabalho em andamento da outra IA no mesmo arquivo, avisar o usuário antes de começar.
+- Publicação: apenas com autorização do usuário, conforme as regras acima. Alterações só de documentação não exigem conferência visual no site.
