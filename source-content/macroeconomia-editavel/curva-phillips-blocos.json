@@ -1,0 +1,29 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Curva de Phillips — evolução do trade-off",
+  "origem": "Imagem macroeconomia-curva-de-phillips-1.webp (anotação 'Curva de Phillips', 19/09/2026)",
+  "tipo": "novo assunto",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "flowchart",
+      "title": "Evolução do trade-off da Curva de Phillips",
+      "steps": [
+        {"label": "1. Versão original: salário nominal × desemprego", "text": "Com desemprego baixo, o salário sobe, porque muitas empresas disputam poucos trabalhadores e precisam oferecer salário maior. Com desemprego alto, o salário diminui."},
+        {"label": "2. Desemprego × inflação", "text": "Salários altos aumentam os custos, o que eleva os preços e gera inflação. Por isso, a teoria passou a relacionar inflação e desemprego."},
+        {"label": "3. Inflação esperada e choques de oferta", "text": "A inflação também é influenciada pela inflação esperada (o que trabalhadores e empregadores esperam que aconteça com os preços) e por choques de oferta (acontecimentos que mudam o custo ou a capacidade de produção das empresas). Exemplo da fonte: o preço do petróleo sobe; como o petróleo é usado para produzir e transportar praticamente tudo, o custo das empresas aumenta e elas repassam parte desse aumento para os preços."},
+        {"label": "4. Versão atual: inflação × desemprego", "text": "O trade-off final é entre inflação e desemprego, considerando a inflação esperada e os choques de oferta."}
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinha",
+      "text": "A versão original não é inflação × desemprego: ela relaciona salário nominal × desemprego. A relação com inflação só aparece depois."
+    }
+  ],
+  "pendencias": [
+    "A anotação original escreve 'choques de ofert' no último parágrafo; a versão aqui usa 'choques de oferta'.",
+    "Conferir a redação e o exemplo do petróleo contra a anotação original antes de aprovar."
+  ]
+}
