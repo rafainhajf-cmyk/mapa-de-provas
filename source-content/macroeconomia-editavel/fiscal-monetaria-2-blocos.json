@@ -1,0 +1,40 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Taxa de redesconto × redesconto",
+  "origem": "Imagem macroeconomia-fiscal-e-monetaria-2.webp (anotação 'Fiscal e monetária', 05/09/2026, parte 2)",
+  "tipo": "comparativo",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        ["Conceito", "Definição"],
+        ["Taxa de redesconto", "É a taxa de juros cobrada pelo Banco Central quando ele empresta dinheiro aos bancos."],
+        ["Redesconto", "É o empréstimo que o Banco Central concede aos bancos quando eles precisam de recursos de curtíssimo prazo."]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        ["Decisão", "Tipo de política", "Efeito encadeado"],
+        ["Aumento da taxa de redesconto", "Contracionista", "BC empresta mais caro aos bancos → eles tomam menos recursos → reduz a liquidez na economia → crédito mais caro, menor demanda"],
+        ["Aumento do redesconto", "Expansionista", "BC disponibiliza mais dinheiro aos bancos → aumenta a liquidez na economia → crédito mais barato, maior demanda"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Ideia central",
+      "text": "Políticas expansionistas estimulam a atividade econômica e o emprego, mas podem pressionar a inflação. Políticas contracionistas controlam a inflação, mas podem desacelerar a economia."
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinha",
+      "text": "Taxa de redesconto e redesconto não são a mesma coisa: a taxa é o preço cobrado pelo empréstimo, e o redesconto é o próprio empréstimo."
+    }
+  ],
+  "pendencias": [
+    "Conferir a redação contra a anotação original antes de aprovar."
+  ]
+}

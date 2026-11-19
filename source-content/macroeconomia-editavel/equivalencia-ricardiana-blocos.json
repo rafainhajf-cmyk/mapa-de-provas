@@ -1,0 +1,33 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Equivalência ricardiana",
+  "origem": "Imagem macroeconomia-equivalencia-ricardiana-1.webp (anotação 'equivalência ricardiana', 27/08/2026)",
+  "tipo": "novo assunto",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "paragraph",
+      "text": "A equivalência ricardiana argumenta que, se o governo reduz impostos hoje e financia isso com dívida, as pessoas sabem que, no futuro, os impostos terão que ser aumentados para pagar essa dívida. Por causa disso, elas não gastam o dinheiro extra da desoneração. Em vez disso, elas poupam para pagar os futuros impostos."
+    },
+    {
+      "type": "table",
+      "rows": [
+        ["Efeito da desoneração (redução de impostos financiada por dívida)", "Resultado segundo a equivalência ricardiana"],
+        ["A política de desoneração aumenta a renda disponível das pessoas", "Consumo corrente não muda: as pessoas não aumentam o consumo"],
+        ["A poupança privada aumenta na mesma proporção da dívida pública", "Elas aumentam a poupança privada para cobrir os futuros impostos"],
+        ["Se o consumo não aumenta", "A demanda agregada e o produto não se alteram"],
+        ["A política fiscal", "É neutra"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinha",
+      "text": "A renda disponível aumenta com a desoneração, mas o consumo não aumenta. Não confundir aumento de renda disponível com aumento de consumo."
+    }
+  ],
+  "pendencias": [
+    "A anotação original tem um erro de digitação no fim da última frase ('altera' seguido de 'm..'); foi transcrito como 'não se alteram', sem o trecho truncado.",
+    "A tabela foi montada a partir dos tópicos da anotação; conferir se as linhas correspondem às bullets originais."
+  ]
+}

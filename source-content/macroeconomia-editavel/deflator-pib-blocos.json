@@ -1,0 +1,32 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "PIB nominal, PIB real e deflator do PIB",
+  "origem": "Imagem macroeconomia-deflator-do-pib-1.webp (anotação 'Deflator do PIB', 12/10/2026)",
+  "tipo": "exemplo resolvido",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "paragraph",
+      "text": "O PIB a preços correntes representa o PIB nominal, enquanto o PIB que reflete apenas a variação física da produção é o PIB real. A relação entre essas variáveis é dada pela fórmula do deflator."
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Fórmula do deflator",
+      "text": "Deflator = (PIB nominal / PIB real) × 100"
+    },
+    {
+      "type": "flowchart",
+      "title": "Exemplo resolvido: cálculo do PIB real e do crescimento real",
+      "steps": [
+        {"label": "Ano 2010", "text": "PIB real 2010 = (100 / 105) × 100 ≈ 95,24."},
+        {"label": "Ano 2020", "text": "PIB real 2020 = (125 / 125) × 100 = 100,00."},
+        {"label": "Crescimento real", "text": "(100 − 95,24) / 95,24 × 100 ≈ 5,0%."}
+      ]
+    }
+  ],
+  "pendencias": [
+    "A imagem não diz os valores de PIB nominal e deflator de 2010 e 2020 em palavras; as contas foram transcritas como estão. Conferir se 100/105 corresponde ao PIB nominal e ao deflator do exemplo original.",
+    "Conferir a fórmula do deflator e a direção da divisão contra a fonte oficial de contas nacionais antes de aprovar."
+  ]
+}
