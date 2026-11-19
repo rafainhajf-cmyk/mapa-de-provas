@@ -2,6 +2,14 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-19 — Claude (Contabilidade: conferência factual dos 3 rascunhos de teoria — branch `claude/teoria-tres-assuntos`)
+- Lei 6.404 (`contab-teoria-lei-6404`): art. 176 corrigido para a lista atual (balanço, DLPA, DRE, DFC e DVA se companhia aberta); art. 183 ganhou o inciso VIII (AVP de operações de longo prazo, 2007); art. 184 ganhou a ressalva de paridade cambial (II) e o AVP do passivo não circulante (III, 2009); pegadinha reescrita. Art. 178, 179 e 186 conferidos.
+- ARLP (`contab-teoria-arlp`): critério reescrito como "após o término do exercício social seguinte", no lugar de "após 12 meses".
+- Fornecedores (`contab-teoria-fornecedores`): conferido contra CPC 12 itens 9 e 10 e prática do AVP de fornecedores; sem alteração. Pendente: a linha "desconto incondicional" não foi conferida em fonte primária (CPC 16).
+- Status continua `draft`; nada foi publicado.
+- Arquivos: `source-content/study-knowledge.json`, `docs/REGISTRO_ALTERACOES.md`.
+- Pendências: aprovação do usuário para publicar; conferir o desconto incondicional no CPC 16; art. 176 §4 (notas explicativas) não foi confirmado.
+
 ## 2026-11-19 — Claude (Contabilidade: lista mínima na página de exercícios e as 3 pendentes resolvidas)
 - Página de exercícios: novo filtro "Lista mínima · 201 questões" e quadro com as questões por assunto (`accounting-minimal-list.js`, `accounting-curated.js`, `accounting-exercises-page.js` v=2, `contabilidade-exercicios.html`). Cartões TEC ganham `data-minimal`.
 - 1936754, 3539089 e 3975996: gabarito oficial conferido no comentário do professor no TEC (sem responder as questões). Viraram resoluções em `accounting-solutions-08.js` (D, E, D), com a ressalva técnica de 1936754 e 3539089 registrada; `accounting-issues.js` ficou vazio; IDs incluídos no roteiro (`accounting-study-route.js`). Banco: 601 de 601 com resolução.

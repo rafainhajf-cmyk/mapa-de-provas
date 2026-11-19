@@ -4573,7 +4573,7 @@
       "blocks": [
         {
           "type": "paragraph",
-          "text": "O ativo realizável a longo prazo reúne direitos que serão realizados depois do término do exercício seguinte, ou seja, após 12 meses da data do balanço, e que não se enquadram em investimentos, imobilizado ou intangível."
+          "text": "O ativo realizável a longo prazo reúne direitos realizáveis após o término do exercício social seguinte, que não se enquadram em investimentos, imobilizado ou intangível."
         },
         {
           "type": "table",
@@ -4742,7 +4742,7 @@
             ],
             [
               "Art. 176",
-              "Demonstrações obrigatórias ao fim de cada exercício, incluindo balanço e DRE, e as notas explicativas"
+              "Demonstrações obrigatórias ao fim de cada exercício: balanço patrimonial, DLPA, DRE, DFC e, se companhia aberta, DVA"
             ],
             [
               "Art. 178",
@@ -4754,11 +4754,11 @@
             ],
             [
               "Art. 183",
-              "Critérios de avaliação de ativos e passivos, com valor justo para instrumentos financeiros destinados à negociação e disponíveis para venda"
+              "Critérios de avaliação do ativo, incluindo ajuste a valor presente das operações de longo prazo (inciso VIII, incluído em 2007)"
             ],
             [
               "Art. 184",
-              "Obrigações em moeda estrangeira convertidas pela taxa de fechamento"
+              "Critérios de avaliação do passivo: obrigações em moeda estrangeira com paridade cambial pela taxa da data do balanço (inciso II) e ajuste a valor presente das obrigações não circulantes (inciso III, redação de 2009)"
             ],
             [
               "Art. 186",
@@ -4776,7 +4776,7 @@
           "type": "callout",
           "kind": "danger",
           "title": "Pegadinha",
-          "text": "Uma alternativa que descreve a redação antiga da lei pode estar errada em relação à lei vigente. Atenção aos termos de antes de 2009."
+          "text": "Uma alternativa que descreve a redação anterior da lei pode estar errada em relação à lei vigente. Atenção, sobretudo, a termos ligados às alterações de 2007 e 2009."
         }
       ],
       "flashcards": []
