@@ -2,6 +2,11 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-18 — Claude (ignorar arquivo gerado pelo build)
+- `source-content/normativo-data.json` é gerado por `scripts/build.mjs` (via `import-normativo.mjs`) e o `vercel.json` roda `npm run build` no deploy; por isso foi adicionado ao `.gitignore` e não é mais versionado. Build local conferido.
+- Arquivos: `.gitignore`, `docs/REGISTRO_ALTERACOES.md`.
+- Pendências: conferir as demais imagens e a matéria de Macroeconomia.
+
 ## 2026-11-18 — Claude (registro de decisão; alterações já estavam em produção)
 - Decisão do usuário: manter as duas mudanças de 2026-11-15 já publicadas no `main` (remoção dos 75 PDFs/PNGs duplicados da raiz em `762ae03` e conversão das 70 imagens para WebP em `e0405ae`). A entrada abaixo, de 2026-11-15, descreve a situação antes dessa decisão e não deve ser lida como pendente.
 - Conferência visual no site publicado: `assets/poder-policia-original.webp` e `assets/constitucional-competencias-1.webp` respondem com `image/webp` (status 200); o esquema de Poder de Polícia renderiza com texto legível. Não foram conferidas as 108 referências uma a uma nem a matéria de Macroeconomia.

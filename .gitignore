@@ -5,3 +5,4 @@ node_modules/
 private-content/
 public/
 .DS_Store
+source-content/normativo-data.json
