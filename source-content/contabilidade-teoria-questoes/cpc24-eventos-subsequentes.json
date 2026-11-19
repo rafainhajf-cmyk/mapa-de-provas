@@ -1,0 +1,34 @@
+{
+  "id": "contab-tq-cpc24-eventos-subsequentes",
+  "materia": "Contabilidade",
+  "targetId": "conta-f-06",
+  "targetTitle": "Eventos Subsequentes (CPC 24)",
+  "titulo": "Teoria das questões — Eventos subsequentes (CPC 24)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: CPC 24",
+  "questoes": [
+    "3412215"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Evento após a data do balanço que reflete condição nova (ex.: variação cambial inesperada em janeiro) não ajusta os saldos; se material, divulga natureza e efeito em notas.",
+      "questoes": [
+        "3412215"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Evento que não origina ajuste",
+      "text": "Variação cambial inesperada depois de 31/12: não ajustar o balanço; divulgar natureza e efeito estimado se material (3412215)."
+    }
+  ],
+  "pendencias": [
+    "A teoria da matéria de Eventos Subsequentes ainda está vazia no site.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

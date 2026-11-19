@@ -1,0 +1,200 @@
+{
+  "id": "contab-tq-balanco-patrimonial",
+  "materia": "Contabilidade",
+  "targetId": "conta-e-02",
+  "targetTitle": "Balanço Patrimonial",
+  "titulo": "Teoria das questões — Balanço patrimonial e variações patrimoniais",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: Balanço Patrimonial",
+  "questoes": [
+    "269318",
+    "400601",
+    "411529",
+    "640072",
+    "655300",
+    "1239427",
+    "1241391",
+    "2163607",
+    "2223547",
+    "2870117",
+    "3116882",
+    "3149875",
+    "3231632",
+    "3240899",
+    "3798925",
+    "3823077",
+    "3883268",
+    "3883366"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Fatos permutativos (compra à vista, recebimento de clientes, pagamento de fornecedor, seguro pago antecipado) só trocam itens: não alteram o total do ativo líquido de passivo nem o PL.",
+      "questoes": [
+        "400601",
+        "1239427",
+        "3116882",
+        "3231632",
+        "1241391"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Fatos modificativos (receita, despesa, venda com lucro) alteram o PL pelo resultado; PL final = PL inicial + integralizações + lucro − dividendos.",
+      "questoes": [
+        "411529",
+        "640072",
+        "1239427",
+        "3116882",
+        "269318"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Montar o ativo em uma data: caixa por movimentação, estoque = inicial + compras − CMV, clientes líquidos de PECLD, imobilizado líquido de depreciação proporcional.",
+      "questoes": [
+        "269318",
+        "655300",
+        "2163607",
+        "3149875",
+        "3823077",
+        "3231632"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Compra a prazo aumenta estoque e fornecedores sem afetar caixa nem resultado; caixa e competência diferem.",
+      "questoes": [
+        "1241391",
+        "3823077",
+        "3149875"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Ativo = recurso controlado com potencial de benefício; contratar serviço futuro (gerente) ainda não é ativo.",
+      "questoes": [
+        "2223547"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Contas credoras fora do passivo exigível: retificadoras do ativo (depreciação acumulada) e PL (capital, reservas).",
+      "questoes": [
+        "3240899"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Lei 6.404, art. 184: obrigações em moeda estrangeira pela taxa de fechamento; atualização pelo critério contratual ou legal.",
+      "questoes": [
+        "2870117"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Duplicatas de vendas a prazo são contas a receber.",
+      "questoes": [
+        "3798925"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "Observar de qual entidade é o balanço: o mútuo é passivo circulante na tomadora e ativo circulante na credora.",
+      "questoes": [
+        "3883366"
+      ]
+    },
+    {
+      "id": "R10",
+      "texto": "PL: AAP recebe contrapartidas fora do resultado; retenção de lucros para expansão exige orçamento de capital; reserva legal é obrigatória.",
+      "questoes": [
+        "3883268"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Fato",
+          "Ativo",
+          "Passivo",
+          "PL"
+        ],
+        [
+          "Compra de mercadoria à vista",
+          "= (troca caixa por estoque)",
+          "=",
+          "="
+        ],
+        [
+          "Compra de mercadoria a prazo",
+          "+",
+          "+",
+          "="
+        ],
+        [
+          "Pagamento de fornecedor",
+          "−",
+          "−",
+          "="
+        ],
+        [
+          "Recebimento de cliente",
+          "= (troca)",
+          "=",
+          "="
+        ],
+        [
+          "Venda com lucro (a prazo ou à vista)",
+          "+ margem",
+          "=",
+          "+ lucro"
+        ],
+        [
+          "Salário do mês ainda não pago",
+          "=",
+          "+",
+          "−"
+        ],
+        [
+          "Pagamento de salário de mês anterior",
+          "−",
+          "−",
+          "="
+        ],
+        [
+          "Depreciação",
+          "−",
+          "=",
+          "−"
+        ],
+        [
+          "Integralização de capital em dinheiro",
+          "+",
+          "=",
+          "+"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Variação do ativo sem montar o balanço",
+      "text": "Some só os efeitos que mudam o total: margem das vendas, pagamentos de passivos antigos, despesas pagas, depreciação, compras a prazo, integralizações. Ex.: 3231632 — 60.000 − 27.000 − 20.000 − 800 + 45.000 = 57.200; ativo final 639.200. Receber de clientes não muda o total."
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Tratar pagamento de fornecedor como despesa (1239427). Esquecer a depreciação proporcional (2163607). Somar a compra a prazo ao caixa (3823077). Responder pelo balanço da entidade errada (3883366). Contar só duas contas credoras fora do passivo quando há retificadora + PL (3240899)."
+    }
+  ],
+  "pendencias": [
+    "A teoria da matéria deste assunto ainda está vazia no site.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

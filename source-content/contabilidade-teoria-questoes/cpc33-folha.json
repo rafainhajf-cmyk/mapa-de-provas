@@ -1,0 +1,42 @@
+{
+  "id": "contab-tq-cpc33-folha",
+  "materia": "Contabilidade",
+  "targetId": "conta-c-07",
+  "targetTitle": "Folha de Pagamento (CPC 33)",
+  "titulo": "Teoria das questões — Folha de pagamento e benefícios a empregados (CPC 33)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: Folha de Pagamento",
+  "questoes": [
+    "2100126",
+    "2857684"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Outros benefícios de longo prazo: licença sabática, benefícios por tempo de serviço; não são os de curto prazo nem os pós-emprego.",
+      "questoes": [
+        "2100126"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "IRRF na folha: base = salário − INSS − dependentes; IR = base × alíquota − parcela a deduzir, usando a tabela dada na questão.",
+      "questoes": [
+        "2857684"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "IRRF — TEC 2857684",
+      "text": "Base = 5.000 − 525,92 − 189,59 = 4.284,49; IR = 4.284,49 × 22,5% − 651,73 = 312,28. Usar a tabela fornecida, mesmo com data inconsistente no enunciado."
+    }
+  ],
+  "pendencias": [
+    "A teoria da matéria de Folha ainda está vazia no site.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "contab-tq-cpc02-cambio",
+  "materia": "Contabilidade",
+  "targetId": "conta-d-03",
+  "targetTitle": "Ajustes de Conversão de Câmbio (CPC 02)",
+  "titulo": "Teoria das questões — Efeitos das mudanças nas taxas de câmbio (CPC 02)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: CPC 02:",
+  "questoes": [
+    "97358",
+    "410972",
+    "438266",
+    "540158",
+    "660127",
+    "719388",
+    "719424",
+    "1889225",
+    "2355232",
+    "2759747",
+    "3401244",
+    "3846794",
+    "3847015",
+    "3847018",
+    "3975994"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Venda em moeda estrangeira: receita pela taxa da data da transação; o recebível é atualizado pela taxa de fechamento, e a diferença é receita ou despesa cambial no resultado.",
+      "questoes": [
+        "410972",
+        "540158",
+        "719424",
+        "3847018",
+        "3975994"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Item monetário (clientes, fornecedores, empréstimos) usa a taxa de fechamento; não usar taxa média nem previsão futura.",
+      "questoes": [
+        "2355232",
+        "3401244",
+        "3846794"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Item não monetário (adiantamento pago, estoque ao custo) mantém a taxa histórica da transação.",
+      "questoes": [
+        "1889225"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Juros e variação cambial são apropriados mês a mês por competência, inclusive na carência.",
+      "questoes": [
+        "438266"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Conversão de controlada no exterior: ativos e passivos pela taxa de fechamento; capital pela taxa histórica; reservas pelas taxas de formação; a diferença é ajuste de conversão em ORA.",
+      "questoes": [
+        "660127",
+        "719388",
+        "97358"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "A participação da investidora no ajuste de conversão segue sua porcentagem.",
+      "questoes": [
+        "97358"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Moeda funcional: a do ambiente econômico principal (preços de venda e custos), não a da sede.",
+      "questoes": [
+        "2759747"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Goodwill de entidade no exterior é ativo dela, na moeda funcional dela, convertido pela taxa de fechamento; a diferença vai a ORA.",
+      "questoes": [
+        "3847015"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 3975994 (FCC, SEFAZ GO, 2026)",
+          "Valor"
+        ],
+        [
+          "Receita: US$ 600.000 × 5,20 (data da venda)",
+          "3.120.000"
+        ],
+        [
+          "Clientes no fechamento: 600.000 × 5,50",
+          "3.300.000"
+        ],
+        [
+          "Receita cambial (financeira)",
+          "180.000 (resposta A)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Dívida em moeda estrangeira",
+      "text": "Dólar caiu: a dívida diminui e gera receita cambial (3846794: 1.100.000 → 1.060.000; ganho de 40.000). Dólar subiu: despesa cambial."
+    },
+    {
+      "type": "formula",
+      "text": "Ajuste de conversão = PL convertido pelo fechamento − capital à taxa histórica − reservas às taxas de formação"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo — TEC 719388 (FCC, SEF SC, 2018)",
+          "Valor"
+        ],
+        [
+          "PL em moeda estrangeira × taxa de fechamento: 12.800 × 4",
+          "51.200"
+        ],
+        [
+          "− Capital histórico: 10.000 × 3",
+          "(30.000)"
+        ],
+        [
+          "− Reservas convertidas: 3.360 + 5.940",
+          "(9.300)"
+        ],
+        [
+          "Ajuste de conversão (ORA)",
+          "11.900 (resposta E)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Atualizar a receita de venda pela taxa de fechamento (3975994). Usar taxa projetada para a dívida (3401244). Atualizar adiantamento ou estoque pela taxa de fechamento (1889225). Suspender juros e variação cambial na carência (438266). Levar o ajuste de conversão à DRE."
+    }
+  ],
+  "pendencias": [
+    "As tabelas de taxa por tipo de item e de conversão já estão na teoria da matéria; aqui entram os cálculos cobrados.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

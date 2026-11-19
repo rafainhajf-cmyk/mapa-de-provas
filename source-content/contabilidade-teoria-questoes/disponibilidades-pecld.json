@@ -1,0 +1,79 @@
+{
+  "id": "contab-tq-disponibilidades-pecld",
+  "materia": "Contabilidade",
+  "targetId": "conta-b-01",
+  "targetTitle": "Disponibilidades",
+  "titulo": "Teoria das questões — Caixa e equivalentes, PECLD e recebimentos",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: Contas a receber e Perda; Disponibilidades",
+  "questoes": [
+    "719076",
+    "2160888",
+    "2369050",
+    "2818479"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Equivalente de caixa: alta liquidez, conversível em montante conhecido, risco insignificante, para compromissos de curto prazo; prazo curto sozinho não basta; moeda digital e adiantamento a funcionário não são equivalentes.",
+      "questoes": [
+        "2369050"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Recebimentos de clientes = saldo inicial + vendas − baixas (PECLD usada) − saldo final; baixas = PECLD inicial + despesa − PECLD final.",
+      "questoes": [
+        "2818479"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Variação de caixa considera só entradas e saídas: depreciação e baixa contábil de ativo não são caixa; venda de ativo entra pelo valor recebido.",
+      "questoes": [
+        "2160888"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "PECLD é redutora de clientes; desconto de duplicatas gera passivo com juros a apropriar.",
+      "questoes": [
+        "719076"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 2818479 (FCC, TRT 12, 2023)",
+          "Valor"
+        ],
+        [
+          "Vendas = despesa de perdas 84.000 ÷ 10%",
+          "840.000"
+        ],
+        [
+          "Baixas = 56.000 + 84.000 − 34.000",
+          "106.000"
+        ],
+        [
+          "Recebimentos = 400.000 + 840.000 − 106.000 − 420.000",
+          "714.000 (resposta E)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Equivalente de caixa",
+      "text": "Aplicação de 30 dias só é equivalente se atender aos requisitos do CPC 03; a questão 2369050 pressupõe isso."
+    }
+  ],
+  "pendencias": [
+    "A teoria da matéria de Disponibilidades ainda está vazia no site.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

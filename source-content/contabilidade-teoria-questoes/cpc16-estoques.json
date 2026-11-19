@@ -1,0 +1,329 @@
+{
+  "id": "contab-tq-cpc16-estoques",
+  "materia": "Contabilidade",
+  "targetId": "conta-f-05",
+  "targetTitle": "Estoques",
+  "titulo": "Teoria das questões — Estoques, CMV e operações com mercadorias (CPC 16)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: CPC 16 - Tratamento; Critérios de Avaliação do Estoque; Operações com Mercadorias",
+  "questoes": [
+    "488352",
+    "489925",
+    "645962",
+    "758370",
+    "866960",
+    "877344",
+    "881603",
+    "1241397",
+    "1889254",
+    "2160903",
+    "2272183",
+    "2293666",
+    "2346659",
+    "2395533",
+    "2395609",
+    "2782139",
+    "2823686",
+    "2857687",
+    "2870105",
+    "2924798",
+    "2967112",
+    "3048238",
+    "3228158",
+    "3546511",
+    "3552249",
+    "3552250",
+    "3561728",
+    "3764382",
+    "3822211",
+    "3846725",
+    "3846765",
+    "3975808",
+    "3975837"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Custo do estoque = preço − descontos e abatimentos + frete e seguro de compra + gastos de importação + tributos NÃO recuperáveis (IPI para comerciante); tributos recuperáveis (ICMS, PIS, COFINS) ficam fora.",
+      "questoes": [
+        "488352",
+        "758370",
+        "866960",
+        "877344",
+        "881603",
+        "2160903",
+        "2272183",
+        "3546511",
+        "3552249",
+        "3552250",
+        "3561728",
+        "3764382",
+        "3846765",
+        "3975808",
+        "3975837",
+        "2823686"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Se o valor pago já inclui os tributos não recuperáveis, não somá-los de novo; só subtrair os recuperáveis.",
+      "questoes": [
+        "866960",
+        "881603",
+        "2272183",
+        "3561728",
+        "3846765",
+        "2823686"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Tributo recuperável na compra: débito em tributo a recuperar (ativo), separado do estoque.",
+      "questoes": [
+        "2924798",
+        "758370"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Frete cobrado pelo fornecedor na nota integra a base do ICMS: ICMS recuperável = (mercadoria + frete) × alíquota.",
+      "questoes": [
+        "2857687"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Frete de entrega ao cliente e comissões são despesas de venda; não entram no estoque nem no CMV.",
+      "questoes": [
+        "2160903",
+        "3552249",
+        "3552250",
+        "3561728",
+        "3764382",
+        "3975808",
+        "877344",
+        "2272183"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Compra a prazo com financiamento relevante: estoque e fornecedor pelo valor presente (ou preço à vista); juros apropriados como despesa financeira, sem aumentar o estoque.",
+      "questoes": [
+        "645962",
+        "3228158",
+        "3822211",
+        "3846725"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "CMV = estoque inicial + compras líquidas − estoque final; ou % vendida × custo do lote.",
+      "questoes": [
+        "866960",
+        "2272183",
+        "877344",
+        "3546511",
+        "3552250",
+        "3561728",
+        "3764382",
+        "3846765",
+        "3975808",
+        "2967112"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Estoque ao menor entre custo e valor realizável líquido (VRL = preço de venda − despesas para vender); a perda vai ao resultado contra conta redutora; não é valor justo.",
+      "questoes": [
+        "1241397",
+        "2293666",
+        "2395609",
+        "2782139",
+        "645962"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "Reversão da perda por VRL é limitada ao custo original.",
+      "questoes": [
+        "2395609"
+      ]
+    },
+    {
+      "id": "R10",
+      "texto": "PEPS: as saídas consomem as camadas mais antigas; o estoque final fica com as compras mais recentes.",
+      "questoes": [
+        "489925",
+        "2395533",
+        "2967112"
+      ]
+    },
+    {
+      "id": "R11",
+      "texto": "Custo médio móvel: recalcular o custo unitário a cada entrada, incluindo gastos da compra; seguro pago pelo vendedor não soma ao custo.",
+      "questoes": [
+        "1889254"
+      ]
+    },
+    {
+      "id": "R12",
+      "texto": "Mudança de PEPS para média altera CMV e lucro; em alta de preços, PEPS dá CMV menor e lucro maior.",
+      "questoes": [
+        "2967112"
+      ]
+    },
+    {
+      "id": "R13",
+      "texto": "Identificação específica: itens não intercambiáveis e projetos específicos.",
+      "questoes": [
+        "2346659",
+        "3048238"
+      ]
+    },
+    {
+      "id": "R14",
+      "texto": "Devolução parcial de compra: baixa a parte devolvida; frete e seguro não devolvidos permanecem no custo.",
+      "questoes": [
+        "3764382"
+      ]
+    },
+    {
+      "id": "R15",
+      "texto": "Custeio por absorção: custo unitário = variável + fixo ÷ produção; o fixo das unidades não vendidas fica no estoque. Preço com IPI: base do ICMS sem IPI.",
+      "questoes": [
+        "2870105"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Gasto na compra",
+          "No custo do estoque?",
+          "Questões"
+        ],
+        [
+          "Preço da mercadoria (− descontos incondicionais e abatimentos)",
+          "Sim",
+          "758370, 3764382"
+        ],
+        [
+          "Frete e seguro da compra, gastos de importação",
+          "Sim",
+          "877344, 3546511"
+        ],
+        [
+          "IPI para empresa comercial (não recuperável)",
+          "Sim",
+          "488352, 758370"
+        ],
+        [
+          "ICMS, PIS e COFINS recuperáveis",
+          "Não: tributo a recuperar no ativo",
+          "2924798, 3975837"
+        ],
+        [
+          "Frete de entrega ao cliente, comissão",
+          "Não: despesa de venda",
+          "3552249, 3552250"
+        ],
+        [
+          "Juros da compra a prazo",
+          "Não: despesa financeira",
+          "3822211"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Não somar duas vezes",
+      "text": "Quando o enunciado diz que o valor pago já inclui os tributos não recuperáveis, apenas subtraia os recuperáveis (866960, 881603, 3846765). (R2)"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 3822211 (FCC, SAD PE, 2026)",
+          "Valor"
+        ],
+        [
+          "Fornecedor a valor presente: 2.890.800 ÷ 1,10",
+          "2.628.000"
+        ],
+        [
+          "+ Frete de compra − tributos recuperáveis 138.000",
+          "2.628.000 + 30.000 − 138.000"
+        ],
+        [
+          "Estoque",
+          "2.520.000"
+        ],
+        [
+          "Fornecedor após 1 mês a 0,5%",
+          "2.641.140; juros 13.140 na DRE (resposta D)"
+        ]
+      ]
+    },
+    {
+      "type": "flowchart",
+      "title": "Valor realizável líquido (VRL)",
+      "steps": [
+        {
+          "label": "1. Calcular o VRL",
+          "text": "Preço de venda estimado − despesas necessárias para vender."
+        },
+        {
+          "label": "2. Comparar com o custo",
+          "text": "Custo > VRL: perda = custo − VRL, despesa contra conta redutora. Não usar valor justo. (R8)"
+        },
+        {
+          "label": "3. Ano seguinte",
+          "text": "VRL subiu: reverter a perda, no máximo até o custo original. (2395609: 220.000 → 250.000)"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Critério",
+          "Saídas",
+          "Estoque final",
+          "Questões"
+        ],
+        [
+          "PEPS",
+          "Camadas mais antigas",
+          "Compras mais recentes",
+          "489925, 2395533"
+        ],
+        [
+          "Média ponderada móvel",
+          "Custo médio recalculado a cada entrada",
+          "Custo médio",
+          "1889254"
+        ],
+        [
+          "Identificação específica",
+          "Custo de cada item",
+          "Custo de cada item",
+          "2346659, 3048238"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Manter ICMS recuperável no estoque (877344). Somar de novo o IPI já incluído (881603). Calcular o ICMS do frete fora da base quando o fornecedor o cobra na nota (2857687). Levar o frete de entrega ao CMV (3552250). Capitalizar os juros da compra a prazo no estoque (3822211). Avaliar o estoque a valor justo (2782139). Reverter a perda por VRL acima do custo (2395609). Somar ao custo o seguro pago pelo vendedor (1889254)."
+    }
+  ],
+  "pendencias": [
+    "A teoria da matéria de Estoques ainda está vazia no site; este quadro passa a ser a referência principal até a teoria geral ser enviada.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

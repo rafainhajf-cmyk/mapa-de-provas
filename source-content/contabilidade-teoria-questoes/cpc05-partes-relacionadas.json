@@ -1,0 +1,47 @@
+{
+  "id": "contab-tq-cpc05-partes-relacionadas",
+  "materia": "Contabilidade",
+  "targetId": "conta-f-03",
+  "targetTitle": "Partes Relacionadas (CPC 05)",
+  "titulo": "Teoria das questões — Partes relacionadas (CPC 05)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: CPC 05",
+  "questoes": [
+    "1810572",
+    "3662330"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Relações com partes relacionadas são normais; não afetam necessariamente todas as demonstrações; podem influenciar resultado e posição mesmo sem transação direta.",
+      "questoes": [
+        "3662330"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Matriz e filial: dinheiro enviado à filial é D caixa / C matriz conta-corrente na filial; não é capital nem transação com terceiros.",
+      "questoes": [
+        "1810572"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Partes relacionadas",
+      "text": "V, F, V: são normais; não afetam necessariamente todas as demonstrações; podem influenciar mesmo sem transação (3662330)."
+    },
+    {
+      "type": "callout",
+      "kind": "note",
+      "title": "Questão de matriz e filial classificada aqui pelo TEC",
+      "text": "Na filial, recebimento de numerário da matriz: débito em caixa, crédito em matriz conta-corrente (1810572)."
+    }
+  ],
+  "pendencias": [
+    "Conferir a redação antes de aprovar."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "contab-tq-consolidacao",
+  "materia": "Contabilidade",
+  "targetId": "conta-e-08",
+  "targetTitle": "Demonstrações Consolidadas",
+  "titulo": "Teoria das questões — Demonstrações consolidadas (CPC 36)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: Demonstração Contábil Consolidada",
+  "questoes": [
+    "190231",
+    "660119",
+    "2395560",
+    "3830921"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Consolidação elimina o investimento da controladora contra o PL da controlada e os saldos recíprocos (recebíveis e pagáveis intragrupo) por inteiro.",
+      "questoes": [
+        "2395560"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "PL consolidado = PL da controladora + participação dos não controladores (% × PL da controlada).",
+      "questoes": [
+        "2395560"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Lucro intragrupo ainda no estoque do grupo é eliminado; o que já foi vendido a terceiros está realizado.",
+      "questoes": [
+        "190231",
+        "660119"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Controle (CPC 36): poder, exposição a retornos variáveis e capacidade de usar o poder; pode existir com menos da maioria dos votos.",
+      "questoes": [
+        "3830921"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 2395560 (FCC, COPERGÁS, 2023)",
+          "Valor"
+        ],
+        [
+          "Ativos somados: 40.000 + 16.000",
+          "56.000"
+        ],
+        [
+          "− Investimento na controlada",
+          "(8.400)"
+        ],
+        [
+          "− Recebível intragrupo",
+          "(2.000)"
+        ],
+        [
+          "Ativo consolidado",
+          "45.600"
+        ],
+        [
+          "PL: 36.000 + não controladores 30% × 12.000",
+          "39.600 (resposta E)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Lucro não realizado",
+      "text": "Eliminar só a parte que ainda está no estoque: 190231 — 150.000 × 40% em estoque = 60.000."
+    }
+  ],
+  "pendencias": [
+    "A teoria da matéria deste assunto ainda está vazia no site.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "contab-tq-sped-ecd",
+  "materia": "Contabilidade",
+  "targetId": "conta-a-01",
+  "targetTitle": "Contabilidade Básica",
+  "titulo": "Teoria das questões — SPED e Escrituração Contábil Digital",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: SPED; Instruções Normativas da RFB",
+  "questoes": [
+    "984530",
+    "984532",
+    "984533",
+    "1810570",
+    "2116789",
+    "2164370",
+    "2581057",
+    "2590870",
+    "2590871",
+    "2612588",
+    "2709621",
+    "2709624",
+    "2759777",
+    "2759779",
+    "2759780",
+    "2759781",
+    "2865830",
+    "2965563",
+    "3093598",
+    "3446245"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "SPED padroniza e oficializa a escrituração contábil e fiscal digital; não é benefício tributário nem exclusivo de auditoria.",
+      "questoes": [
+        "984532"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Módulos reais: ECD (livros contábeis), ECF (substitui a DIPJ), EFD ICMS/IPI, EFD-Contribuições, EFD-Reinf (retenções), eSocial, NF-e, NFC-e, NFS-e, CT-e, MDF-e, e-Financeira. 'SPED Patrimonial' ou 'SPED Intangível' não existem.",
+      "questoes": [
+        "984530",
+        "984533"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Usuários do SPED: Receita Federal, administrações tributárias estaduais, DF e municípios mediante convênio, e órgãos com atribuição legal; empresas prestam e acessam os próprios dados, mas não são 'usuárias'.",
+      "questoes": [
+        "3093598",
+        "3446245",
+        "1810570",
+        "2164370",
+        "2612588"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Compartilhamento não é integral nem irrestrito: limitado às competências de cada usuário e aos sigilos comercial, fiscal e bancário.",
+      "questoes": [
+        "1810570",
+        "2164370",
+        "2759781",
+        "2612588",
+        "2759779"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Receita Federal coordena, compatibiliza necessidades e viabiliza a implantação e o funcionamento; funcionalidades de autenticação de livros são exclusivas dos órgãos de registro.",
+      "questoes": [
+        "2581057",
+        "2590870",
+        "2709621",
+        "2759780"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "ECD abrange Diário, Razão, Balancetes Diários/Balanços e fichas, com auxiliares; DRE não é livro.",
+      "questoes": [
+        "2709624",
+        "2865830",
+        "2116789"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "O SPED não dispensa a guarda dos livros e documentos nos prazos legais.",
+      "questoes": [
+        "2759777"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Obrigatoriedade de ECD para imunes e isentas: acima do limite de receita da IN 2.003/2021 (R$ 4,8 milhões na prova); dispensas para Itaipu, fundação pública e casos indicados. Conferir o ano normativo.",
+      "questoes": [
+        "2590871",
+        "2965563"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Afirmação típica sobre o SPED",
+          "Certa?",
+          "Questões"
+        ],
+        [
+          "Compartilhamento integral e irrestrito",
+          "Não: limites de competência e sigilos",
+          "2759781, 1810570"
+        ],
+        [
+          "Estados e municípios acessam sem convênio",
+          "Não",
+          "2164370"
+        ],
+        [
+          "Empresas são usuárias do SPED",
+          "Não: prestam informação e acessam os próprios dados",
+          "3446245"
+        ],
+        [
+          "Com o SPED não é preciso guardar os livros",
+          "Não",
+          "2759777"
+        ],
+        [
+          "Diário digital autenticado precisa ir em papel à junta",
+          "Não",
+          "2759780"
+        ],
+        [
+          "DRE é livro da ECD",
+          "Não",
+          "2709624"
+        ],
+        [
+          "Convênio dá ao estado competência geral sobre o eSocial",
+          "Não",
+          "2759779"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Limites e dispensas mudam",
+      "text": "A obrigatoriedade da ECD para imunes e isentas usa o limite da IN vigente na data da prova (R$ 4,8 milhões em 2590871 e 2965563). Conferir o ano normativo antes de transportar o número."
+    }
+  ],
+  "pendencias": [
+    "Não há assunto próprio de SPED na lista de Contabilidade do site; o quadro fica em Contabilidade Básica.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

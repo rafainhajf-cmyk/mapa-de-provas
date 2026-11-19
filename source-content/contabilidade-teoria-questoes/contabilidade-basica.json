@@ -1,0 +1,198 @@
+{
+  "id": "contab-tq-contabilidade-basica",
+  "materia": "Contabilidade",
+  "targetId": "conta-a-01",
+  "targetTitle": "Contabilidade Básica",
+  "titulo": "Teoria das questões — Regimes, lançamentos e conceitos básicos",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: Escrituração: Normas; Plano de Contas; Teoria das Contas; Conceito, Objeto; Regimes Contábeis; Receitas e Despesas Antecipadas; Outros Temas",
+  "questoes": [
+    "2013231",
+    "2064755",
+    "2163640",
+    "2223559",
+    "2231001",
+    "2771977",
+    "2775131",
+    "2949362",
+    "3093142",
+    "3114168",
+    "3149114",
+    "3154666",
+    "3240910",
+    "3365979",
+    "3584435",
+    "3662027",
+    "3662029",
+    "3883229",
+    "3975976"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Competência: receita no período da venda ou prestação (mesmo recebida depois); despesa no período do consumo (mesmo paga depois).",
+      "questoes": [
+        "2775131",
+        "3883229",
+        "3975976",
+        "3584435",
+        "2163640",
+        "2771977",
+        "3240910"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Recebimento antes de entregar: caixa e passivo contratual (receita antecipada), sem receita.",
+      "questoes": [
+        "2231001",
+        "2949362",
+        "3365979"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Pagamento antes de consumir o serviço: despesa antecipada no ativo; não provisionar gastos apenas programados.",
+      "questoes": [
+        "3093142",
+        "3584435"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Resultado por competência × caixa: no caixa, compra paga vira 'despesa' e venda a prazo não entra; a DFC segue o caixa.",
+      "questoes": [
+        "2163640",
+        "2771977",
+        "3240910"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Erros de registro: capitalizar pesquisa superavalia o resultado; lançar material todo como despesa subavalia; antecipar venda superavalia.",
+      "questoes": [
+        "2223559"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Lançamentos cobrados: MEP positivo D investimento / C receita; PECLD C conta redutora (não baixa clientes); reversão de impairment D redutora / C receita; pesquisa D despesa; dividendo de investimento ao custo D caixa / C receita de dividendos; adiantamento de cliente D caixa / C passivo.",
+      "questoes": [
+        "3114168",
+        "3149114",
+        "3154666",
+        "3365979"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Objeto da contabilidade é o patrimônio; escrituração é técnica; divulgação é finalidade.",
+      "questoes": [
+        "2013231"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Teoria materialista: contas integrais (bens, direitos, obrigações) e diferenciais (PL e resultado); personalista: CMV é conta dos proprietários.",
+      "questoes": [
+        "2064755",
+        "3662027"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "Conta contábil reúne fatos da mesma natureza para registro e acompanhamento.",
+      "questoes": [
+        "3662029"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Fato",
+          "Competência",
+          "Questões"
+        ],
+        [
+          "Serviço prestado em dezembro, recebido em janeiro",
+          "Receita de dezembro",
+          "3883229, 3975976"
+        ],
+        [
+          "Salário de janeiro pago em fevereiro",
+          "Despesa de janeiro",
+          "2775131"
+        ],
+        [
+          "Passagem de viagem de fevereiro, paga antes",
+          "Despesa de fevereiro; antes, despesa antecipada",
+          "3584435"
+        ],
+        [
+          "Treinamento de 2025 pago em 2024",
+          "Despesa antecipada (ativo) em 2024",
+          "3093142"
+        ],
+        [
+          "Cliente paga antes da entrega",
+          "Passivo (receita antecipada); receita só na entrega",
+          "2231001, 2949362"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Lançamento cobrado",
+          "Débito",
+          "Crédito"
+        ],
+        [
+          "Equivalência patrimonial positiva",
+          "Investimento",
+          "Receita de equivalência"
+        ],
+        [
+          "Constituição da PECLD",
+          "Despesa",
+          "PECLD (redutora de clientes)"
+        ],
+        [
+          "Reversão de impairment",
+          "Perda acumulada (redutora)",
+          "Receita de reversão"
+        ],
+        [
+          "Gasto com pesquisa",
+          "Despesa",
+          "Caixa"
+        ],
+        [
+          "Adiantamento de cliente",
+          "Caixa",
+          "Adiantamento de clientes (passivo)"
+        ],
+        [
+          "Dividendo de participação ao custo",
+          "Caixa",
+          "Receita de dividendos"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Achar que a competência proíbe o regime de caixa em qualquer demonstração: a DFC é de caixa (3240910). Reconhecer receita no recebimento antecipado (2231001). Baixar clientes direto ao constituir PECLD (3365979). Provisionar treinamento só programado (3093142)."
+    }
+  ],
+  "pendencias": [
+    "Objeto, técnicas, escolas e fórmulas de lançamento já estão na teoria da matéria.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

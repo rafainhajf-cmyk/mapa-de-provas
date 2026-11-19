@@ -1,0 +1,307 @@
+{
+  "id": "contab-tq-cpc03-dfc",
+  "materia": "Contabilidade",
+  "targetId": "conta-f-01",
+  "targetTitle": "Demonstração de Fluxo de Caixa (CPC 03)",
+  "titulo": "Teoria das questões — Demonstração dos fluxos de caixa (CPC 03)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: Demonstração de Fluxo de Caixa",
+  "questoes": [
+    "269319",
+    "455691",
+    "489942",
+    "489944",
+    "645395",
+    "719217",
+    "867021",
+    "2113058",
+    "2159081",
+    "2163361",
+    "2163622",
+    "2223569",
+    "2235687",
+    "2272190",
+    "2293657",
+    "2339101",
+    "2857669",
+    "2890835",
+    "2915805",
+    "3093568",
+    "3157931",
+    "3225421",
+    "3365954",
+    "3367664",
+    "3561720",
+    "3561722",
+    "3599068",
+    "3764444",
+    "3800891",
+    "3822290",
+    "3847071",
+    "3847072",
+    "3976034"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "A DFC segrega os fluxos em operacionais, de investimento e de financiamento (CPC 03; Lei 6.404, art. 188).",
+      "questoes": [
+        "3599068"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Recebimentos de vendas, serviços, royalties e aluguel ligado à atividade usual são operacionais.",
+      "questoes": [
+        "2915805",
+        "3157931"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Empréstimo concedido a terceiro (mesmo sócio) e seu recebimento são atividade de investimento, salvo instituição financeira.",
+      "questoes": [
+        "2890835"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "FCO indireto: lucro + despesas sem caixa (depreciação, amortização, PECLD, provisões, juros não pagos) − equivalência positiva − ganho na venda de ativo ± variações do capital de giro operacional.",
+      "questoes": [
+        "269319",
+        "489942",
+        "867021",
+        "2113058",
+        "2163361",
+        "2163622",
+        "2223569",
+        "2235687",
+        "2293657",
+        "2339101",
+        "2857669",
+        "3093568",
+        "3225421",
+        "3365954",
+        "3367664",
+        "3561720",
+        "3764444",
+        "3800891",
+        "3822290",
+        "3976034"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Aumento de ativo operacional reduz o FCO e redução aumenta; aumento de passivo operacional (fornecedores, salários, IR a pagar, adiantamentos de clientes) aumenta o FCO.",
+      "questoes": [
+        "269319",
+        "867021",
+        "2113058",
+        "2163361",
+        "2163622",
+        "2235687",
+        "2293657",
+        "3367664",
+        "3800891",
+        "3093568"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Se a PECLD é somada de volta ao lucro, a variação de clientes é usada pelo saldo bruto.",
+      "questoes": [
+        "3561720",
+        "3822290",
+        "3976034"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "FCI: venda de ativo entra pelo valor recebido (custo baixado + ganho − parcela a receber); compras pelo valor pago (variação bruta + depreciação − parte a prazo ou integralizada).",
+      "questoes": [
+        "489944",
+        "645395",
+        "719217",
+        "2159081",
+        "2339101",
+        "3561722",
+        "3764444",
+        "3822290",
+        "3847072"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Aumento de investimento só por equivalência patrimonial não tem caixa: FCI zero nessa conta.",
+      "questoes": [
+        "489944",
+        "719217",
+        "2223569",
+        "3561722",
+        "3847072"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "FCF: novos empréstimos = variação do saldo − juros não pagos capitalizados; integralização em dinheiro entra; capitalização de reservas e integralização em bens não têm caixa; dividendos pagos saem.",
+      "questoes": [
+        "455691",
+        "719217",
+        "2272190",
+        "2857669",
+        "3225421",
+        "3847071",
+        "645395"
+      ]
+    },
+    {
+      "id": "R10",
+      "texto": "Integralização de capital em bens e compra a prazo são transações sem caixa: não entram na DFC.",
+      "questoes": [
+        "645395",
+        "719217",
+        "455691"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "formula",
+      "text": "FCO (indireto) = lucro líquido + itens sem caixa − ganhos de venda de ativos − equivalência positiva ± variações do capital de giro operacional"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Ajuste no método indireto",
+          "Sinal",
+          "Por quê"
+        ],
+        [
+          "Depreciação, amortização, PECLD, provisões",
+          "+",
+          "Reduziram o lucro sem saída de caixa"
+        ],
+        [
+          "Juros de empréstimo não pagos",
+          "+",
+          "Despesa sem caixa; o juro capitalizado não é novo empréstimo"
+        ],
+        [
+          "Resultado positivo de equivalência",
+          "−",
+          "Aumentou o lucro sem entrada de caixa"
+        ],
+        [
+          "Ganho na venda de imobilizado ou terreno",
+          "−",
+          "O recebimento total vai para o FCI"
+        ],
+        [
+          "Aumento de clientes, estoques, despesas antecipadas, adiantamentos a fornecedores",
+          "−",
+          "Caixa aplicado no giro"
+        ],
+        [
+          "Aumento de fornecedores, salários, IR a pagar, adiantamentos de clientes, receitas antecipadas",
+          "+",
+          "Caixa retido no giro"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 2293657 (FCC, TRT 5, 2022)",
+          "Valor"
+        ],
+        [
+          "Lucro líquido",
+          "85.800"
+        ],
+        [
+          "+ Depreciação",
+          "30.000"
+        ],
+        [
+          "+ Juros não pagos",
+          "20.000"
+        ],
+        [
+          "− Lucro na venda do terreno",
+          "(20.000)"
+        ],
+        [
+          "− Aumento de clientes",
+          "(25.000)"
+        ],
+        [
+          "+ Redução de estoques",
+          "19.000"
+        ],
+        [
+          "− Redução de fornecedores",
+          "(29.800)"
+        ],
+        [
+          "− Redução de salários a pagar",
+          "(20.000)"
+        ],
+        [
+          "= FCO",
+          "60.000 (resposta A)"
+        ]
+      ]
+    },
+    {
+      "type": "flowchart",
+      "title": "Reconstituir o FCI e o FCF a partir dos balanços",
+      "steps": [
+        {
+          "label": "Venda de terreno ou imobilizado",
+          "text": "Recebido = custo baixado + ganho (ou − perda) − parcela que ficou a receber. (489944: 235.000 − 20.000 = 215.000)"
+        },
+        {
+          "label": "Compra de imobilizado",
+          "text": "Pago = saldo final − saldo inicial + depreciação/baixas − parte comprada a prazo ou integralizada em bens. (719217: 242.000 − 200.000 − 25.000 = 17.000)"
+        },
+        {
+          "label": "Compra de investimentos",
+          "text": "Variação do saldo − equivalência − outros acréscimos sem caixa."
+        },
+        {
+          "label": "Novos empréstimos",
+          "text": "Variação do saldo − juros não pagos incorporados. (2272190: 76.000 − 16.000 = 60.000)"
+        },
+        {
+          "label": "Capital e dividendos",
+          "text": "Integralização em dinheiro entra; capitalização de reservas e entrega de bens não; dividendos pagos = declarados + saldo inicial a pagar − saldo final a pagar. (3847071)"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Classificação dos recebimentos",
+      "text": "Serviços, royalties e aluguel de bens ligados à atividade usual: operacional (2915805, 3157931). Recebimento de empréstimo concedido a sócio: investimento (2890835). Dividendos são tratados como financiamento nas questões da FCC deste lote (3365954)."
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Somar juros não pagos como entrada de empréstimo (455691, 2272190). Tratar a capitalização de reservas como caixa (455691). Esquecer de deduzir a equivalência (2223569, 3367664). Lançar o ganho na venda no FCO em vez de no FCI (867021). Usar o valor de venda total quando parte ficou a receber (489944, 2159081). Considerar como pago o bem integralizado no capital (645395). Usar clientes líquido da PECLD depois de somar a PECLD (3561720)."
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Questão anulada",
+      "text": "3976034: o registro do gabarito informa anulação e há inconsistência de datas nos balanços; o cálculo (−972.000) segue o mesmo roteiro."
+    }
+  ],
+  "pendencias": [
+    "A tabela de classificação por atividade já está na teoria da matéria; aqui entram o método indireto e a reconstituição dos fluxos a partir dos balanços.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

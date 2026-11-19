@@ -1,0 +1,169 @@
+{
+  "id": "contab-tq-depreciacao",
+  "materia": "Contabilidade",
+  "targetId": "conta-b-07",
+  "targetTitle": "Depreciação, Amortização e Exaustão",
+  "titulo": "Teoria das questões — Depreciação, amortização e exaustão",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: Depreciação, Amortização e Exaustão",
+  "questoes": [
+    "656226",
+    "719073",
+    "1118022",
+    "2154057",
+    "2159093",
+    "2272187",
+    "2339034",
+    "2792320",
+    "2873788",
+    "3043696",
+    "3240920",
+    "3561624",
+    "3800520",
+    "3822215",
+    "3846659",
+    "3975802",
+    "3975840"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Base depreciável = custo − valor residual; a taxa (ex.: 1/5 = 20%) incide sobre a base, não sobre o custo total.",
+      "questoes": [
+        "3240920",
+        "719073",
+        "2159093",
+        "3043696"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Proporcionalidade: contar os meses desde o início do uso.",
+      "questoes": [
+        "719073",
+        "2159093",
+        "656226"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Unidades produzidas ou quilometragem: depreciação = base depreciável × uso do período ÷ uso total estimado; vida fiscal não substitui a estimativa contábil.",
+      "questoes": [
+        "2154057",
+        "3822215",
+        "3975840"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Revisão de vida útil ou residual é prospectiva: nova quota = (saldo − novo residual) ÷ vida restante.",
+      "questoes": [
+        "2272187",
+        "3561624",
+        "3800520",
+        "3846659",
+        "3975802",
+        "3043696"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Venda: resultado = preço − valor contábil após a depreciação até a data.",
+      "questoes": [
+        "2154057",
+        "2159093",
+        "3846659",
+        "3975840"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Compra a prazo: custo pelo preço à vista (ou valor presente); a diferença é financiamento.",
+      "questoes": [
+        "2159093",
+        "2272187"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Componentes significativos com vidas úteis diferentes são depreciados separadamente.",
+      "questoes": [
+        "2792320"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Métodos: linear dá quota constante; saldos decrescentes e soma dos dígitos decrescente dão quotas decrescentes; método baseado em receita é inadequado.",
+      "questoes": [
+        "1118022",
+        "2873788"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "Desmontagem a valor presente integra o custo antes de depreciar.",
+      "questoes": [
+        "656226",
+        "2339034"
+      ]
+    },
+    {
+      "id": "R10",
+      "texto": "Terreno não é depreciado.",
+      "questoes": [
+        "3043696"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "formula",
+      "text": "Depreciação = (custo − valor residual) ÷ vida útil × meses de uso ÷ 12"
+    },
+    {
+      "type": "formula",
+      "text": "Por uso = (custo − valor residual) × unidades (ou km) do período ÷ total estimado"
+    },
+    {
+      "type": "flowchart",
+      "title": "Revisão de estimativa (prospectiva) — TEC 3800520",
+      "steps": [
+        {
+          "label": "1. Até a revisão",
+          "text": "Quota de 2022 = (8.000.000 − 1.200.000) ÷ 10 = 680.000; saldo 7.320.000."
+        },
+        {
+          "label": "2. Nova estimativa",
+          "text": "Residual revisto para 750.000; 9 anos restantes."
+        },
+        {
+          "label": "3. Nova quota",
+          "text": "(7.320.000 − 750.000) ÷ 9 = 730.000 em 2023; saldo 6.590.000 (resposta B). Não refazer os anos anteriores."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Taxa sobre a base, não sobre o custo",
+      "text": "Com residual de 30%, a taxa linear de 20% ao ano equivale a 14% do custo. Afirmar '20% sobre o custo' está errado (3240920). (R1)"
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Componentes",
+      "text": "Motor, pneus e estrutura de um jato com vidas diferentes são depreciados cada um na sua vida (2792320). Não usar a vida maior, a menor ou a média para tudo."
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Usar vida fiscal no lugar do uso estimado (2154057, 3822215, 3975840). Refazer a depreciação passada quando a estimativa muda (3561624). Depreciar terreno (3043696). Incluir os juros da compra a prazo no custo (2272187). Esquecer a proporção de meses (719073: 21 meses)."
+    }
+  ],
+  "pendencias": [
+    "A depreciação fiscal acelerada fica em Tributos sobre o Lucro, como já indica a teoria da matéria.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

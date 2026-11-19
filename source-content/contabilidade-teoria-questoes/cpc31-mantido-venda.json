@@ -1,0 +1,57 @@
+{
+  "id": "contab-tq-cpc31-mantido-venda",
+  "materia": "Contabilidade",
+  "targetId": "conta-d-02",
+  "targetTitle": "Ativo Não Circulante Mantido para Venda",
+  "titulo": "Teoria das questões — Ativo não circulante mantido para venda (CPC 31)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: CPC 31",
+  "questoes": [
+    "2212148",
+    "2396959",
+    "3349474"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Mantido para venda: apresentado separadamente, no circulante; mensurado pelo MENOR entre valor contábil e valor justo menos despesas de venda.",
+      "questoes": [
+        "2396959",
+        "3349474"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "As regras valem também para ativos destinados à distribuição aos proprietários.",
+      "questoes": [
+        "3349474"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Atraso na venda por fatores fora do controle, com providências tomadas e compromisso mantido, permite manter a classificação além de 12 meses.",
+      "questoes": [
+        "2212148"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Mensuração e apresentação",
+      "text": "Menor entre valor contábil e valor justo líquido de despesas de venda (não o maior — 3349474). Apresentar separado dos demais ativos, sem compensar com passivos (2396959)."
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Venda que atrasa",
+      "text": "Mais de 12 meses não obriga a voltar à classificação anterior se o atraso foi causado por fatores fora do controle e a entidade mantém o compromisso (2212148)."
+    }
+  ],
+  "pendencias": [
+    "A teoria da matéria já trata da venda adiada; aqui só a mensuração cobrada.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

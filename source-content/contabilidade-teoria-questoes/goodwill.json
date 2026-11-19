@@ -1,0 +1,120 @@
+{
+  "id": "contab-tq-goodwill",
+  "materia": "Contabilidade",
+  "targetId": "conta-d-06",
+  "targetTitle": "Goodwill",
+  "titulo": "Teoria das questões — Goodwill",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: Goodwill",
+  "questoes": [
+    "256491",
+    "283012",
+    "323994",
+    "527158",
+    "656039",
+    "2070281",
+    "2235668",
+    "2292786",
+    "3202360",
+    "3385421",
+    "3847016"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Goodwill = preço − % × ativos líquidos identificáveis a valor justo; a mais-valia não integra o goodwill.",
+      "questoes": [
+        "256491",
+        "656039",
+        "2235668",
+        "2292786",
+        "3847016",
+        "527158",
+        "3385421"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Nas demonstrações individuais o investimento é o preço total (goodwill dentro dele); no consolidado o goodwill aparece no intangível.",
+      "questoes": [
+        "256491",
+        "527158",
+        "656039",
+        "2235668"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Preço abaixo do valor justo da parcela adquirida: ganho por compra vantajosa; investimento pela parcela a valor justo.",
+      "questoes": [
+        "323994"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Goodwill não é amortizado; teste anual e quando houver indício; perda nunca é revertida.",
+      "questoes": [
+        "283012",
+        "3202360",
+        "3385421"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Goodwill não é separável nem tangível; resultados posteriores da investida não recalculam o goodwill.",
+      "questoes": [
+        "3385421",
+        "3847016"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Incorporação da controladora pela controlada (reversa): efeito do goodwill registrado em reserva de capital.",
+      "questoes": [
+        "2070281"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "formula",
+      "text": "Goodwill = preço pago − % × (ativos − passivos identificáveis a valor justo)"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 2292786 (FGV, CGE SC, 2023)",
+          "Valor"
+        ],
+        [
+          "Ativos identificáveis a valor justo: 5.000 + 60.000 + 20.000",
+          "85.000"
+        ],
+        [
+          "− Passivos",
+          "(9.000)"
+        ],
+        [
+          "Ativos líquidos a valor justo",
+          "76.000"
+        ],
+        [
+          "Goodwill = 95.000 − 76.000",
+          "19.000 (resposta A)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Calcular o goodwill sobre o PL contábil e não sobre o valor justo (2235668). Separar o goodwill no intangível das individuais (527158). Reverter perda de goodwill (283012). Amortizar o goodwill (3202360). Chamar de goodwill a compra vantajosa (323994)."
+    }
+  ],
+  "pendencias": [
+    "Apresentação, amortização e recuperabilidade do goodwill já estão na teoria da matéria.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

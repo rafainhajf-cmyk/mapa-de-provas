@@ -1,0 +1,154 @@
+{
+  "id": "contab-tq-patrimonio-liquido",
+  "materia": "Contabilidade",
+  "targetId": "conta-c-08",
+  "targetTitle": "Contas do Patrimônio Líquido (Capital Social; Ações; Reservas...)",
+  "titulo": "Teoria das questões — Capital, ações em tesouraria e demais contas do PL",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: Capital Social (Subscrito; Ações em Tesouraria; Ações (Ágio; Reservas de Capital; Ajuste de Avaliação Patrimonial; Lucros e Prejuízos Acumulados; Reserva de Reavaliação",
+  "questoes": [
+    "104988",
+    "172609",
+    "256310",
+    "455693",
+    "476888",
+    "584701",
+    "2208479",
+    "2782140",
+    "2985307",
+    "3046908",
+    "3220261",
+    "3320315",
+    "3455343",
+    "3584443",
+    "3863553",
+    "3975985"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Capital realizado = capital subscrito − capital a integralizar (redutora no PL, não dívida); capital autorizado não subscrito não entra.",
+      "questoes": [
+        "104988",
+        "584701",
+        "476888"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Ágio na emissão de ações é reserva de capital; não é receita nem aumento da conta capital.",
+      "questoes": [
+        "104988",
+        "2782140"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Capitalização de lucros ou reservas não muda o total do PL e não reduz o valor nominal das ações.",
+      "questoes": [
+        "2985307"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Ações em tesouraria: custo da recompra (com gastos) reduz o PL; não é despesa nem reserva; não reduz o capital nominal sem cancelamento.",
+      "questoes": [
+        "2208479",
+        "3320315",
+        "256310",
+        "455693",
+        "172609"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Revenda das ações em tesouraria: o PL aumenta pelo valor líquido recebido; a diferença para o custo fica no PL, sem DRE.",
+      "questoes": [
+        "172609",
+        "256310",
+        "455693"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Reembolso é pago ao dissidente que exerce o direito de retirada; resgate retira ações de circulação.",
+      "questoes": [
+        "3455343"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "AAP recebe contrapartidas de ajustes de valor justo nas hipóteses previstas, fora do resultado.",
+      "questoes": [
+        "3046908"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Lucros acumulados: apurar o resultado do período por competência; S.A. não pode manter saldo positivo sem destinação.",
+      "questoes": [
+        "3220261",
+        "3584443"
+      ]
+    },
+    {
+      "id": "R10",
+      "texto": "Questão classificada no TEC em 'Ações (ágio, reembolso...)', mas que cobra custo amortizado de título com prêmio: saldo = inicial líquido + encargo efetivo − parcela; usar a taxa efetiva, não a nominal.",
+      "questoes": [
+        "3975985"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "Reserva de reavaliação antiga: mantida até a realização ou estornada até o fim de 2008 (Lei 11.638/2007).",
+      "questoes": [
+        "3863553"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Ações em tesouraria — TEC 455693",
+          "Valor",
+          "Onde"
+        ],
+        [
+          "Recompra 1.000.000 + gastos 50.000",
+          "1.050.000",
+          "Redutora do PL"
+        ],
+        [
+          "Revenda 1.200.000 − gastos 10.000",
+          "1.190.000",
+          "Entrada; PL sobe"
+        ],
+        [
+          "Diferença positiva",
+          "140.000",
+          "No PL (reserva), nunca na DRE"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Capital social",
+      "text": "Subscrito − a integralizar = realizado. Capital a integralizar é redutora do PL, não dívida da companhia com o acionista (476888). Capital autorizado não subscrito não aparece (584701)."
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Chamar ágio na emissão de receita (2782140). Reduzir o capital social pela simples recompra (3320315). Reconhecer ganho ou perda de ações em tesouraria na DRE (256310). Trocar reembolso por resgate (3455343). Achar que capitalizar reservas aumenta o PL ou reduz o valor nominal (2985307)."
+    }
+  ],
+  "pendencias": [
+    "As tabelas de reservas, resgate × reembolso e capitalização já estão na teoria da matéria.",
+    "TEC 3975985 está no assunto de ações do TEC, mas cobra custo amortizado (ver quadro de Debêntures).",
+    "Conferir a redação antes de aprovar."
+  ]
+}

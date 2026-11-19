@@ -1,0 +1,236 @@
+{
+  "id": "contab-tq-dre-resultado",
+  "materia": "Contabilidade",
+  "targetId": "conta-e-03",
+  "targetTitle": "Demonstração do Resultado do Exercício",
+  "titulo": "Teoria das questões — Demonstração do resultado (DRE)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: Demonstração do Resultado do Exercício (DRE)",
+  "questoes": [
+    "97282",
+    "228380",
+    "527154",
+    "719224",
+    "984393",
+    "1010021",
+    "1241389",
+    "1990325",
+    "2022064",
+    "2163345",
+    "2163613",
+    "2223562",
+    "2371661",
+    "3075499",
+    "3114432",
+    "3259149",
+    "3448129",
+    "3567620",
+    "3800511",
+    "3816107",
+    "3846655",
+    "3846690",
+    "3850887",
+    "3975832"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Receita líquida = receita bruta − devoluções − abatimentos − descontos incondicionais − tributos sobre vendas.",
+      "questoes": [
+        "97282",
+        "719224",
+        "1010021",
+        "2163613",
+        "3448129",
+        "3846655",
+        "3975832",
+        "3800511"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Lucro bruto = receita líquida − CMV; fretes de venda, comissões, propaganda e perdas com clientes são despesas posteriores ao lucro bruto.",
+      "questoes": [
+        "97282",
+        "719224",
+        "1010021",
+        "3448129",
+        "3846655",
+        "3975832",
+        "3567620",
+        "3850887",
+        "3800511",
+        "984393"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Custo da mercadoria = preço + frete, seguro e gastos de importação até o estoque − tributos recuperáveis; CMV = % vendida × custo do lote.",
+      "questoes": [
+        "527154",
+        "2163613",
+        "3567620",
+        "3800511",
+        "3850887"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Venda (ou compra) a prazo com financiamento relevante: receita (ou custo) pelo valor presente; a diferença é receita (ou despesa) financeira apropriada no tempo.",
+      "questoes": [
+        "2163345",
+        "3567620",
+        "3800511"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Receita bruta = quantidade × preço; custos e despesas não reduzem a receita bruta.",
+      "questoes": [
+        "2371661"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Garantia e perdas esperadas com clientes são despesas próprias; a receita de vendas fica pelo valor integral.",
+      "questoes": [
+        "3846690"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Participações estatutárias (empregados, administradores) são calculadas em sequência, cada uma sobre o lucro após IR/CSLL e as participações anteriores.",
+      "questoes": [
+        "228380"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Pagamentos e recebimentos de contas patrimoniais (fornecedores, clientes) não alteram o resultado; só receitas e despesas entram.",
+      "questoes": [
+        "1241389",
+        "3114432"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "Lucro bruto ≠ lucro líquido: depois do bruto ainda vêm despesas operacionais, resultado financeiro, tributos sobre o lucro e participações. A DRE é demonstração dinâmica, do período.",
+      "questoes": [
+        "3075499",
+        "3259149",
+        "984393",
+        "2022064"
+      ]
+    },
+    {
+      "id": "R10",
+      "texto": "Erro de CMV a menor superavalia estoque, lucro, PL e despesa de IR.",
+      "questoes": [
+        "1990325"
+      ]
+    },
+    {
+      "id": "R11",
+      "texto": "Correção de erros de registro: gasto de desenvolvimento sem viabilidade vai a despesa; material consumido em parte; venda não realizada é estornada.",
+      "questoes": [
+        "2223562"
+      ]
+    },
+    {
+      "id": "R12",
+      "texto": "Equivalência patrimonial integra o resultado do período; conversão e certas remensurações de benefícios vão a ORA.",
+      "questoes": [
+        "3816107"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Linha da DRE",
+          "O que entra",
+          "O que fica de fora"
+        ],
+        [
+          "Receita bruta",
+          "Quantidade × preço de venda",
+          "Custos, comissões (2371661)"
+        ],
+        [
+          "(−) Deduções",
+          "Devoluções, abatimentos, descontos incondicionais, tributos sobre vendas",
+          "Descontos financeiros, fretes de venda"
+        ],
+        [
+          "(−) CMV",
+          "Custo das mercadorias vendidas, sem tributos recuperáveis",
+          "Comissões, frete de entrega, perdas com clientes"
+        ],
+        [
+          "= Lucro bruto",
+          "",
+          ""
+        ],
+        [
+          "(−) Despesas operacionais",
+          "Vendas (comissões, fretes de entrega, propaganda, PECLD), administrativas",
+          "—"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 3800511 (FCC, MPE SE, 2026)",
+          "Valor"
+        ],
+        [
+          "Compra a prazo pelo valor presente: 690.000 ÷ 1,15",
+          "600.000"
+        ],
+        [
+          "− Tributos recuperáveis + frete de compra",
+          "600.000 − 50.000 + 15.000 = 565.000"
+        ],
+        [
+          "CMV = 80% vendido",
+          "452.000"
+        ],
+        [
+          "Receita com desconto comercial 10%: 700.000 × 90%",
+          "630.000"
+        ],
+        [
+          "Lucro bruto",
+          "178.000 (resposta E)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Valor presente na compra e na venda",
+      "text": "Venda a prazo com juros embutidos: receita = valor futuro ÷ (1 + i)^n; os juros viram receita financeira ao longo do prazo (2163345: 2.220.600 ÷ 1,1103 = 2.000.000; juros de dezembro 14.000). Compra a prazo: o estoque entra pelo valor presente (3800511). (R4)"
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Participações no lucro",
+      "text": "Calcular em sequência: lucro antes do IR → IR/CSLL → participação dos empregados sobre o saldo → participação dos administradores sobre o novo saldo. (228380: lucro líquido 6.480)"
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Deduzir frete de venda, comissão ou perda com clientes antes do lucro bruto (719224, 3846655). Deixar o tributo recuperável no custo da mercadoria (527154, 3850887). Reconhecer a venda a prazo pelo valor nominal (3567620). Abater garantia e perda esperada da receita (3846690). Somar pagamento a fornecedor como despesa (3114432). Confundir lucro bruto com lucro líquido (3075499)."
+    }
+  ],
+  "pendencias": [
+    "A sequência de cálculo da DRE já está na teoria da matéria; aqui entram as classificações que as questões testam e os exemplos.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

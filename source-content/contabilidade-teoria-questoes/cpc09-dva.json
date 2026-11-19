@@ -1,0 +1,293 @@
+{
+  "id": "contab-tq-cpc09-dva",
+  "materia": "Contabilidade",
+  "targetId": "conta-e-04",
+  "targetTitle": "Demonstração do Valor Adicionado (CPC 09)",
+  "titulo": "Teoria das questões — Demonstração do valor adicionado (CPC 09)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: Demonstração do Valor Adicionado",
+  "questoes": [
+    "489940",
+    "790546",
+    "984395",
+    "1896699",
+    "2154061",
+    "2163370",
+    "2293653",
+    "2395551",
+    "2818480",
+    "3038937",
+    "3093986",
+    "3114242",
+    "3116903",
+    "3149057",
+    "3225406",
+    "3367452",
+    "3539089",
+    "3553924",
+    "3561723",
+    "3561725",
+    "3567110",
+    "3567120",
+    "3567672",
+    "3766768",
+    "3814596",
+    "3847045",
+    "3975991"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Receitas na DVA incluem os tributos sobre vendas (receita bruta) e são deduzidas da PECLD ou perdas com clientes.",
+      "questoes": [
+        "489940",
+        "1896699",
+        "2293653",
+        "2395551",
+        "3114242",
+        "3149057",
+        "3847045",
+        "3561723",
+        "3567110"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Insumos de terceiros incluem os tributos recuperáveis (CMV + ICMS/PIS/COFINS recuperados), energia, materiais e serviços de terceiros.",
+      "questoes": [
+        "489940",
+        "790546",
+        "1896699",
+        "2154061",
+        "2163370",
+        "3114242",
+        "3116903",
+        "3149057",
+        "3225406",
+        "3553924",
+        "3561723",
+        "3567110",
+        "3847045",
+        "3975991",
+        "3539089"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Quando a receita e o custo vêm líquidos de ICMS, recompor dividindo por (1 − alíquota).",
+      "questoes": [
+        "2293653",
+        "2395551"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "VA bruto − depreciação, amortização e exaustão = VA líquido produzido; + valor recebido em transferência = VA total a distribuir.",
+      "questoes": [
+        "489940",
+        "790546",
+        "1896699",
+        "2154061",
+        "2163370",
+        "3149057",
+        "3225406",
+        "3553924",
+        "3561723",
+        "3567110",
+        "3975991",
+        "3847045",
+        "3367452",
+        "3567672",
+        "3766768"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Equivalência patrimonial, receitas financeiras, dividendos de investimentos ao custo, aluguéis e royalties recebidos são transferências: somam-se ao VA líquido, não ao VA bruto.",
+      "questoes": [
+        "2395551",
+        "3038937",
+        "3114242",
+        "3116903",
+        "3149057",
+        "3847045"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Salários, encargos, aluguel pago, juros e tributos não são insumos: integram a distribuição.",
+      "questoes": [
+        "790546",
+        "2163370",
+        "2293653",
+        "3561723",
+        "3567110",
+        "3553924",
+        "3225406",
+        "3975991"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Distribuição: pessoal (salários, benefícios, FGTS), impostos/taxas/contribuições (INSS patronal, tributos sobre vendas líquidos, IR/CSLL), capitais de terceiros (juros, aluguéis, variação cambial passiva), capitais próprios (JCP, dividendos, lucros retidos).",
+      "questoes": [
+        "984395",
+        "2818480",
+        "3093986",
+        "3975991",
+        "3116903"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "A FCC soma o INSS retido dos empregados em 'Impostos, taxas e contribuições'; pelo CPC 09 ele integra a remuneração de pessoal.",
+      "questoes": [
+        "3367452",
+        "3561725",
+        "3567120",
+        "3567672",
+        "3766768"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "A DVA segue a competência: o tributo do exercício entra mesmo se pago depois; o pagamento de tributo do ano anterior não entra.",
+      "questoes": [
+        "3814596"
+      ]
+    },
+    {
+      "id": "R10",
+      "texto": "Remuneração de capital de terceiros: juros e variação cambial passiva; o principal do empréstimo não é riqueza distribuída.",
+      "questoes": [
+        "3093986"
+      ]
+    },
+    {
+      "id": "R11",
+      "texto": "DVA: obrigatória para companhias abertas (não para toda S.A.); FGTS é pessoal; sem estoques, o conceito econômico (produção) e o contábil (vendas) se aproximam.",
+      "questoes": [
+        "984395",
+        "2818480"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "formula",
+      "text": "VA a distribuir = (receita bruta − PECLD) − insumos com tributos recuperáveis − depreciação/amortização + transferências recebidas"
+    },
+    {
+      "type": "flowchart",
+      "title": "Roteiro de cálculo da formação da riqueza",
+      "steps": [
+        {
+          "label": "1. Receitas",
+          "text": "Receita bruta de vendas (com tributos) − PECLD ou perdas com clientes + outras receitas operacionais."
+        },
+        {
+          "label": "2. Insumos de terceiros",
+          "text": "CMV + tributos recuperáveis sobre as compras vendidas + energia, materiais e serviços de terceiros. Se custo e receita vierem líquidos de ICMS, recompor ÷ (1 − alíquota)."
+        },
+        {
+          "label": "3. VA bruto − retenções",
+          "text": "Subtrair depreciação, amortização e exaustão = VA líquido produzido."
+        },
+        {
+          "label": "4. + Transferências",
+          "text": "Equivalência patrimonial, receitas financeiras, dividendos de investimentos ao custo, aluguéis e royalties recebidos."
+        },
+        {
+          "label": "5. = VA total a distribuir",
+          "text": "Não subtrair salários, juros, aluguel pago nem tributos: eles são distribuição."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 3114242 (FCC, 2024)",
+          "Valor"
+        ],
+        [
+          "Receitas: 658.000 − perdas com clientes 58.000",
+          "600.000"
+        ],
+        [
+          "Insumos: 180.000 + tributos 20.000 + energia 40.000 + serviços 30.000",
+          "(270.000)"
+        ],
+        [
+          "Depreciação",
+          "(60.000)"
+        ],
+        [
+          "VA líquido produzido",
+          "270.000"
+        ],
+        [
+          "Transferências: 70.000 + 150.000",
+          "220.000"
+        ],
+        [
+          "VA total a distribuir",
+          "490.000 (resposta B)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Grupo da distribuição",
+          "O que entra",
+          "Cuidado"
+        ],
+        [
+          "Pessoal",
+          "Salários, benefícios, FGTS",
+          "FGTS não é imposto (984395, 3975991)"
+        ],
+        [
+          "Impostos, taxas e contribuições",
+          "INSS patronal; tributos sobre vendas − recuperáveis; IR/CSLL do exercício",
+          "Competência: IR do ano, não o pago (3814596)"
+        ],
+        [
+          "Capitais de terceiros",
+          "Juros, aluguéis, variação cambial passiva",
+          "Principal de empréstimo não entra (3093986)"
+        ],
+        [
+          "Capitais próprios",
+          "JCP, dividendos, lucros retidos ou prejuízo",
+          "—"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Padrão do gabarito FCC: INSS retido",
+      "text": "Em 3367452, 3561725, 3567120, 3567672 e 3766768, o gabarito soma o INSS retido dos empregados ao grupo de impostos. Pelo CPC 09, a retenção faz parte da remuneração bruta do empregado (pessoal). Na prova da FCC, a alternativa marcada costuma ser a que inclui a retenção; saiba os dois valores. (R8)"
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Usar a receita líquida em vez da bruta (489940). Excluir os tributos recuperáveis dos insumos (3116903, 2154061). Somar equivalência ao VA bruto (3038937). Subtrair salários ou aluguel como insumo (3561723). Contar o IR pago do ano anterior (3814596). Incluir o principal do empréstimo na remuneração de terceiros (3093986)."
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Divergências registradas",
+      "text": "3038937: o gabarito indica Certo, mas o item chama a equivalência de valor adicionado bruto, o que contraria o CPC 09. 3539089: pendente com ressalva — pelo cálculo completo, 14.280.000, sem alternativa."
+    }
+  ],
+  "pendencias": [
+    "A estrutura formação × distribuição já está na teoria da matéria; aqui entram o roteiro de cálculo e o padrão de gabarito da FCC.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

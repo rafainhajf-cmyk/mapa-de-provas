@@ -1,0 +1,339 @@
+{
+  "id": "contab-tq-cpc48-instrumentos-financeiros",
+  "materia": "Contabilidade",
+  "targetId": "conta-b-04",
+  "targetTitle": "Instrumentos Financeiros (CPC 48)",
+  "titulo": "Teoria das questões — Instrumentos financeiros (CPC 48)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: Instrumentos Financeiros",
+  "questoes": [
+    "697203",
+    "758371",
+    "877348",
+    "1037603",
+    "1813325",
+    "1889210",
+    "1990613",
+    "2159113",
+    "2163618",
+    "2215156",
+    "2235717",
+    "2339029",
+    "2414501",
+    "2571016",
+    "2687937",
+    "2792329",
+    "2857667",
+    "3079046",
+    "3093570",
+    "3225396",
+    "3385418",
+    "3454091",
+    "3539073",
+    "3552251",
+    "3552252",
+    "3557735",
+    "3557740",
+    "3561734",
+    "3561737",
+    "3681103",
+    "3800549",
+    "3822216",
+    "3846334",
+    "3847013",
+    "3864882",
+    "3883244",
+    "3975988"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Classificação pelo modelo de negócios: só receber fluxos → custo amortizado; receber e vender → VJORA; demais → VJR (dívida com fluxos só de principal e juros).",
+      "questoes": [
+        "3681103",
+        "3883244",
+        "2687937"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Custo amortizado: o valor justo de mercado é ignorado no balanço e na DRE; saldo = aplicado × (1 + i)^n.",
+      "questoes": [
+        "2687937",
+        "2339029",
+        "3552251",
+        "3557740",
+        "3561734",
+        "3846334",
+        "758371",
+        "697203",
+        "3225396"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "VJORA (dívida): balanço pelo valor justo; DRE recebe só os juros efetivos; a diferença até o valor justo vai a ORA.",
+      "questoes": [
+        "2159113",
+        "2163618",
+        "3552252",
+        "3557735",
+        "3557740",
+        "3822216",
+        "3846334",
+        "3539073",
+        "877348",
+        "2235717",
+        "697203",
+        "3561737",
+        "3864882",
+        "3975988"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "VJR: balanço pelo valor justo; DRE recebe a variação total (valor justo − aplicado), que já inclui os juros — não somar juros de novo.",
+      "questoes": [
+        "2163618",
+        "2857667",
+        "3539073",
+        "3561737",
+        "3800549",
+        "3822216",
+        "3864882",
+        "3975988",
+        "2215156",
+        "2235717",
+        "877348",
+        "3225396"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Mais de um período: juros compostos sobre o saldo amortizado (ex.: dois meses = (1,01)² − 1).",
+      "questoes": [
+        "3822216",
+        "3847013"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Venda de título de dívida VJORA: o saldo acumulado de ORA é reciclado para a DRE.",
+      "questoes": [
+        "3847013"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Ações com eleição irrevogável VJORA: variações em ORA e, na venda, sem reciclagem para a DRE.",
+      "questoes": [
+        "1889210",
+        "3093570"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Participação pequena e estratégica, sem controle nem influência: não é MEP; cabe a eleição VJORA para instrumento patrimonial não mantido para negociação.",
+      "questoes": [
+        "3093570"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "VJR: recuperação de valor e ganho acima da perda anterior vão inteiros à DRE, sem limite.",
+      "questoes": [
+        "1037603"
+      ]
+    },
+    {
+      "id": "R10",
+      "texto": "Perda de crédito esperada: comparar o valor contábil com o valor presente dos fluxos esperados, não com a soma nominal.",
+      "questoes": [
+        "2792329"
+      ]
+    },
+    {
+      "id": "R11",
+      "texto": "Perdas esperadas podem ser avaliadas coletivamente e não exigem evidência de problema na data; ao descontinuar VJR designado por risco de crédito, o valor justo vira o novo valor contábil.",
+      "questoes": [
+        "1813325"
+      ]
+    },
+    {
+      "id": "R12",
+      "texto": "Hedge de fluxo de caixa: parcela efetiva em ORA, inefetiva na DRE; a reserva é limitada ao menor valor absoluto. Não é regra geral que todo ganho de hedge vá à DRE.",
+      "questoes": [
+        "2571016",
+        "3079046"
+      ]
+    },
+    {
+      "id": "R13",
+      "texto": "Contas a receber sem componente de financiamento significativo: mensuração inicial pelo preço de transação (CPC 47), não pelo valor justo.",
+      "questoes": [
+        "2414501",
+        "3454091"
+      ]
+    },
+    {
+      "id": "R14",
+      "texto": "Lei 6.404, art. 183: instrumentos destinados à negociação ou disponíveis para venda são avaliados a valor justo (nomenclatura antiga da lei).",
+      "questoes": [
+        "1990613"
+      ]
+    },
+    {
+      "id": "R15",
+      "texto": "Contrato de compra ou venda de item não financeiro entra no CPC 48 se puder ser liquidado pelo líquido por qualquer das partes ou houver prática de liquidar contratos similares pelo líquido.",
+      "questoes": [
+        "3385418"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Regra de cálculo das três carteiras",
+      "text": "Custo amortizado: aplicado × (1 + i)^n, ignorando o valor justo. VJORA: balanço pelo valor justo; na DRE só os juros; o resto vai a ORA. VJR: balanço pelo valor justo; na DRE a variação total. (R2, R3, R4)"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Carteira",
+          "Balanço",
+          "DRE",
+          "ORA"
+        ],
+        [
+          "Custo amortizado",
+          "Aplicado + juros efetivos",
+          "Juros efetivos",
+          "—"
+        ],
+        [
+          "VJORA (título de dívida)",
+          "Valor justo",
+          "Juros efetivos",
+          "Valor justo − saldo amortizado"
+        ],
+        [
+          "VJR",
+          "Valor justo",
+          "Valor justo − valor aplicado (já inclui juros)",
+          "—"
+        ],
+        [
+          "VJORA (ações, eleição irrevogável)",
+          "Valor justo",
+          "Dividendos; sem reciclagem na venda",
+          "Toda a variação de valor justo"
+        ]
+      ]
+    },
+    {
+      "type": "flowchart",
+      "title": "Roteiro da questão típica da FCC (três aplicações)",
+      "steps": [
+        {
+          "label": "1. Contar os períodos",
+          "text": "Da aplicação até a data do balanço; juros compostos se houver mais de um período. (R5)"
+        },
+        {
+          "label": "2. Custo amortizado",
+          "text": "Saldo = aplicado × (1 + i)^n. Não usar a coluna de valor justo."
+        },
+        {
+          "label": "3. VJORA",
+          "text": "Juros = saldo × i na DRE; saldo amortizado; ajuste = valor justo − saldo amortizado em ORA."
+        },
+        {
+          "label": "4. VJR",
+          "text": "Ganho ou perda = valor justo − aplicado, na DRE, de uma vez."
+        },
+        {
+          "label": "5. Responder o que se pede",
+          "text": "Ativo = CA amortizado + VJORA a valor justo + VJR a valor justo. DRE = juros CA + juros VJORA + variação VJR."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 3975988 (FCC, SEFAZ GO, 2026), 1 mês a 1% a.m.",
+          "Balanço",
+          "DRE",
+          "ORA"
+        ],
+        [
+          "Custo amortizado 600.000 (VJ 612.000)",
+          "606.000",
+          "6.000",
+          "—"
+        ],
+        [
+          "VJORA 450.000 (VJ 459.000)",
+          "459.000",
+          "4.500",
+          "4.500"
+        ],
+        [
+          "VJR 150.000 (VJ 153.000)",
+          "153.000",
+          "3.000",
+          "—"
+        ],
+        [
+          "Total",
+          "1.218.000",
+          "13.500 (resposta A)",
+          "4.500"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Venda de título VJORA × venda de ações VJORA",
+      "text": "Título de dívida: o ORA acumulado volta para a DRE na venda (3847013: 121.000 de juros − 41.000 de ORA negativo = 80.000 no resultado). Ações com eleição irrevogável: não há reciclagem; na venda pelo valor justo o efeito na DRE é zero (1889210). (R6, R7)"
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Perda de crédito esperada (custo amortizado)",
+      "text": "Perda = valor contábil − valor presente dos fluxos que se espera receber. Em 2792329: 400.000 − 350.002 = 49.998. A soma nominal dos fluxos futuros não serve para comparar. Avaliação coletiva é permitida e não é preciso haver evidência de problema na data. (R10, R11)"
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Hedge de fluxo de caixa",
+      "text": "Parcela efetiva vai a ORA; parcela inefetiva vai à DRE. A reserva de hedge fica limitada ao menor, em valor absoluto, entre o ganho ou perda acumulado no instrumento e a variação acumulada do item protegido. (R12 — 2571016, 3079046)"
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Usar a cotação de mercado para o título ao custo amortizado (3552251, 3557740, 2687937). Somar juros + variação no VJR (2163618, 3975988). Levar o ajuste do VJORA para a DRE (3552252, 3846334). Reciclar ORA de ações (1889210). Tratar participação de 8% estratégica como MEP (3093570). Limitar o ganho do VJR à perda anterior (1037603). Dizer que todo resultado de hedge vai à DRE (3079046). Mensurar contas a receber sem financiamento significativo pelo valor justo (3454091)."
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Nomenclatura antiga",
+      "text": "A Lei 6.404 (art. 183) ainda fala em aplicações 'destinadas à negociação ou disponíveis para venda' avaliadas a valor justo. Em questão sobre a lei, essa é a resposta, mesmo não sendo as categorias atuais do CPC 48. (R14 — 1990613)"
+    },
+    {
+      "type": "callout",
+      "kind": "note",
+      "title": "Escopo do CPC 48 — itens não financeiros",
+      "text": "Contrato de compra ou venda de item não financeiro entra no escopo quando qualquer das partes pode liquidá-lo pelo líquido, ou quando há prática de liquidar contratos similares pelo líquido. 'Apenas uma das partes' torna a afirmação errada. (R15 — 3385418)"
+    }
+  ],
+  "pendencias": [
+    "A classificação pelo modelo de negócios e a mensuração inicial já estão na teoria da matéria; aqui entram o cálculo e as pegadinhas cobradas.",
+    "TEC 3800549: o comando cita 2021 por erro material; os fatos são de 2023.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

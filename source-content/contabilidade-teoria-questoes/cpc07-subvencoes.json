@@ -1,0 +1,99 @@
+{
+  "id": "contab-tq-cpc07-subvencoes",
+  "materia": "Contabilidade",
+  "targetId": "conta-f-04",
+  "targetTitle": "Subvenções (CPC 07)",
+  "titulo": "Teoria das questões — Subvenções e assistência governamentais (CPC 07)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: CPC 07:",
+  "questoes": [
+    "97354",
+    "256315",
+    "487234",
+    "719426",
+    "984396",
+    "3116771",
+    "3846874",
+    "3847070",
+    "3907140"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Subvenção governamental transita pelo resultado, confrontada com os custos que compensa; nunca é creditada direto no PL.",
+      "questoes": [
+        "256315",
+        "487234",
+        "719426",
+        "3847070",
+        "3846874",
+        "984396"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Subvenção em ativo: mensurada a valor justo; apresentada como receita diferida no passivo ou dedução do ativo; apropriada ao resultado conforme a depreciação ou o cumprimento das condições.",
+      "questoes": [
+        "97354",
+        "719426",
+        "984396",
+        "3847070"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Depois de passar pela DRE, a parcela do lucro pode ir para reserva de incentivos fiscais (art. 195-A), por proposta e aprovação da assembleia.",
+      "questoes": [
+        "256315",
+        "3846874",
+        "3847070"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Subvenção relacionada a ativo: condição principal é comprar ou construir ativo de longo prazo; empréstimo subsidiado = credor renuncia ao principal ou aos juros mediante condições.",
+      "questoes": [
+        "3907140",
+        "3116771"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "A forma de recebimento não determina o método de reconhecimento.",
+      "questoes": [
+        "984396"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "flowchart",
+      "title": "Roteiro da subvenção",
+      "steps": [
+        {
+          "label": "1. Recebimento",
+          "text": "Ativo recebido a valor justo; contrapartida em receita diferida (passivo) enquanto houver condições. (97354: 150.000 m² × 350 = 52.500.000)"
+        },
+        {
+          "label": "2. Apropriação",
+          "text": "Ao resultado, conforme a depreciação ou o cumprimento das condições."
+        },
+        {
+          "label": "3. Destinação",
+          "text": "Após a DRE, a parcela do lucro pode formar reserva de incentivos fiscais."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "A pegadinha de sempre",
+      "text": "Afirmar que a subvenção é creditada diretamente no patrimônio líquido está errado (487234, 3847070, 719426)."
+    }
+  ],
+  "pendencias": [
+    "Reconhecimento e momento do resultado já estão na teoria da matéria.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "contab-tq-duplicatas-descontadas",
+  "materia": "Contabilidade",
+  "targetId": "conta-c-03",
+  "targetTitle": "Duplicatas Descontadas",
+  "titulo": "Teoria das questões — Duplicatas descontadas",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: Operações com Duplicatas",
+  "questoes": [
+    "120852",
+    "2395611",
+    "3584440"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Desconto de duplicatas: as duplicatas continuam no ativo; surge passivo (duplicatas descontadas) com juros a apropriar como redutora.",
+      "questoes": [
+        "120852",
+        "3584440"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Ingresso líquido = valor das duplicatas − juros antecipados − tarifas; o encargo é apropriado ao longo do prazo pela taxa efetiva, não todo no início.",
+      "questoes": [
+        "120852",
+        "2395611",
+        "3584440"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Lançamento do desconto — TEC 120852",
+          "Débito",
+          "Crédito"
+        ],
+        [
+          "Entrada no banco",
+          "Bancos 90.000",
+          ""
+        ],
+        [
+          "Juros a apropriar (redutora do passivo)",
+          "Juros a apropriar 5.000",
+          ""
+        ],
+        [
+          "Obrigação com o banco",
+          "",
+          "Duplicatas descontadas 95.000"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Taxa efetiva",
+      "text": "Em 2395611: 300.000 − juros antecipados 36.000 − tarifa 500 = 263.500 de ingresso. Encargo de dezembro = 263.500 × 3,2964% = 8.686, e não os 9.000 de juros nominais simples."
+    }
+  ],
+  "pendencias": [
+    "Conferir a redação antes de aprovar."
+  ]
+}

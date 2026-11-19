@@ -1,0 +1,103 @@
+{
+  "id": "contab-tq-dra",
+  "materia": "Contabilidade",
+  "targetId": "conta-e-07",
+  "targetTitle": "Demonstração do Resultado Abrangente (DRA)",
+  "titulo": "Teoria das questões — Demonstração do resultado abrangente (DRA)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: Demonstração de Resultados Abrangentes",
+  "questoes": [
+    "438264",
+    "455696",
+    "530961",
+    "2223756",
+    "2777037",
+    "3367308",
+    "3539087",
+    "3800492",
+    "3822313",
+    "3846785",
+    "3850867",
+    "3864879"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Resultado abrangente = lucro líquido ± outros resultados abrangentes (conversão, ativo financeiro VJORA, ganhos/perdas atuariais).",
+      "questoes": [
+        "3367308",
+        "3539087",
+        "3800492",
+        "3822313",
+        "3846785",
+        "3850867",
+        "3864879",
+        "2777037"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Não entram em ORA: ganho na venda de ativo, valor justo de propriedade para investimento, equivalência ordinária (já estão no lucro); dividendos, capital e ações próprias (transações com sócios).",
+      "questoes": [
+        "3367308",
+        "3539087",
+        "3800492",
+        "3822313",
+        "3846785",
+        "3850867",
+        "3864879",
+        "530961"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "A DRA é demonstração separada da DRE, exigida pelas normas, sem dispensa por porte; separa itens reclassificáveis e não reclassificáveis; tributos líquidos ou em separado.",
+      "questoes": [
+        "438264",
+        "455696",
+        "2223756"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 3846785 (FCC, SEFAZ SP, 2026)",
+          "Valor"
+        ],
+        [
+          "Lucro líquido",
+          "1.200.000"
+        ],
+        [
+          "− Perda de conversão",
+          "(300.000)"
+        ],
+        [
+          "− Perda atuarial",
+          "(150.000)"
+        ],
+        [
+          "+ Ganho em ORA de ativo financeiro",
+          "240.000"
+        ],
+        [
+          "Resultado abrangente",
+          "990.000 (resposta C)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Não somar duas vezes",
+      "text": "Ganho na venda de imobilizado e valor justo de propriedade para investimento já estão no lucro líquido; somá-los de novo é o erro mais comum (3850867, 3864879). Dividendos, aumento de capital e ações próprias nunca entram (3800492)."
+    }
+  ],
+  "pendencias": [
+    "Conferir a redação antes de aprovar."
+  ]
+}

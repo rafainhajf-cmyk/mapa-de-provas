@@ -1,0 +1,148 @@
+{
+  "id": "contab-tq-cpc26-apresentacao",
+  "materia": "Contabilidade",
+  "targetId": "conta-e-01",
+  "targetTitle": "Apresentação das Demonstrações Contábeis (CPC 26)",
+  "titulo": "Teoria das questões — Apresentação das demonstrações e notas explicativas (CPC 26)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "Questões TEC dos assuntos: Elaboração e Apresentação; Notas Explicativas",
+  "questoes": [
+    "97286",
+    "253580",
+    "337899",
+    "984389",
+    "2235655",
+    "2818481",
+    "2818482",
+    "3084213",
+    "3092661",
+    "3114175",
+    "3365982",
+    "3814598",
+    "3975809"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Circulante: realizável, vendável ou consumível no ciclo operacional normal (mesmo maior que 12 meses), mantido para negociação ou realizável em 12 meses; não 24 meses.",
+      "questoes": [
+        "984389",
+        "3975809"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Passivo é não circulante se a entidade tem o direito de diferir a liquidação por pelo menos 12 meses (ex.: cláusula de prorrogação a critério da empresa).",
+      "questoes": [
+        "337899"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Recurso recebido com obrigação de devolver é empréstimo (passivo), não capital; devolução no mesmo ano: circulante.",
+      "questoes": [
+        "3092661"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Conjunto do CPC 26: BP, DRE, DRA, DMPL, DFC e notas (DVA quando exigida); DOAR e balanço social não integram; conjunto completo ao menos anual.",
+      "questoes": [
+        "3084213",
+        "2818481"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Lei 6.404, art. 176, § 3º: as demonstrações registram a destinação proposta dos lucros, presumida a aprovação.",
+      "questoes": [
+        "2235655"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Itens adicionais apresentados separadamente conforme natureza, liquidez, função e relevância; a DFC usa caixa.",
+      "questoes": [
+        "2818481"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "DMPL mostra efeitos retrospectivos e conciliação do PL; resultado abrangente dos controladores e não controladores é apresentado separadamente.",
+      "questoes": [
+        "3114175"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Materialidade da política depende da natureza e da necessidade dos usuários, mesmo para valores pequenos.",
+      "questoes": [
+        "3365982"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "Notas explicativas: bases de preparação, práticas contábeis, informações exigidas não apresentadas em outra parte e necessárias à apresentação adequada; não contêm a opinião do auditor.",
+      "questoes": [
+        "97286",
+        "2818482",
+        "3814598"
+      ]
+    },
+    {
+      "id": "R10",
+      "texto": "Lei 6.404, art. 176, § 5º: notas divulgam critérios, opções de ações, ajustes de exercícios anteriores, eventos subsequentes relevantes, investimentos relevantes em outras sociedades.",
+      "questoes": [
+        "253580",
+        "97286"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Afirmação típica",
+          "Certa?",
+          "Questões"
+        ],
+        [
+          "Circulante = realizável em até 24 meses",
+          "Não: ciclo operacional ou 12 meses",
+          "984389"
+        ],
+        [
+          "Estoque e clientes com ciclo de 20 meses são não circulantes",
+          "Não: são circulantes",
+          "3975809"
+        ],
+        [
+          "Empréstimo que vence em 12 meses, prorrogável a critério da empresa por 36, é circulante",
+          "Não: não circulante",
+          "337899"
+        ],
+        [
+          "DOAR integra o conjunto do CPC 26",
+          "Não",
+          "3084213"
+        ],
+        [
+          "Notas trazem a opinião do auditor",
+          "Não: relatório próprio",
+          "3814598"
+        ],
+        [
+          "Resultado abrangente de controladores e não controladores pode ser apresentado junto",
+          "Não: separado",
+          "3114175"
+        ]
+      ]
+    }
+  ],
+  "pendencias": [
+    "O conjunto completo e a lista de notas já estão na teoria da matéria.",
+    "Conferir a redação antes de aprovar."
+  ]
+}
