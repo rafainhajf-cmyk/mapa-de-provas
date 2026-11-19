@@ -1,0 +1,21 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Funções da moeda",
+  "origem": "Imagem macroeconomia-funcoes-da-moeda-1.webp (anotação 'Funções da moeda', 19/09/2026)",
+  "tipo": "novo assunto",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        ["Função", "Descrição (conforme a fonte)", "Resumo da fonte"],
+        ["1. Instrumento (meio) de troca", "Promove o intercâmbio de certos bens e serviços por outros.", "Meio de pagamento"],
+        ["2. Medida de valor (unidade de conta)", "Serve de parâmetro para se apurar o valor monetário da transação de bens e serviços.", "Define preço"],
+        ["3. Reserva de valor", "Permite que os agentes econômicos mantenham seus patrimônios para uso posterior.", "Proteção"]
+      ]
+    }
+  ],
+  "pendencias": [
+    "Conferir a redação contra a anotação original antes de aprovar."
+  ]
+}
