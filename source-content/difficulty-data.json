@@ -7035,17 +7035,40 @@
         "kind": "study-note",
         "topic": "Repartição de competências — quadro comparativo",
         "category": "Organização do Estado",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-competencias.pdf",
-        "pdfPages": [
-          "assets/constitucional-competencias-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Tabela competencia\ndomingo, 30 de agosto de 2026\n08:03\n\nTabela competencia\n\ndomingo, 30 de agosto de 2026 08:03\n\nResumindo as principais:\n\nx= PRIVATIVA fag COMM CONCORRENTE\n\nSao exemplos: Exemplos incluem: Exemplos incluem: Exemplos incluem:\n* Defesa nacional. : Diriitnn’ * Protecao a satide. * Direitos:\n* Relacdes o Civil: * Protecdo ao meio oPenitenciario;\ninternacionais. — o Agrario; ambiente. oUrbanistico;\n* Politica monetaria, pee * Combate a poluicao. oFinanceiro;\ncambial e crediticia. olevaniadines * Protecao a infancia o Tributario;\n. Sistema financeiro o Comercia; ea juventude. oe Econémico.\nnacional. cGiskoral: * Educacdo, cultura, (PUFETO)\n. Servicos postais. o Trabalho; desporto e lazer.  Orcamento.\n* Politica nuclear de o Espacial: * Protecdo aos © Juntas comerciais.\nuso pacifico. Penal: documentos, obras * Custas dos\n+ Normas gerais de © Maritimo. e outros bens de servicos forenses.\norganizacao do (CAPACETE PM) valor histdrico,\nsistema de ensino. Si ccseieneicia artistico e cultural. REPARTICAO\nP RTI iE\nRELACAO BRASIL x erste REPARTICAO COMPETENCIA\nEXTERIOR. OU ae\nDEMANDAM oe areata\nTRATAMENTO * Criagdo de\nUNIFORME tribunais federais.\nDELEGAVEIS POR LEI\nCOMPLEMENTAR\n———\nS\n\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Resumindo as principais:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "EXCLUSIVA. São exemplos: defesa nacional; relações internacionais; política monetária, cambial e creditícia; sistema financeiro nacional; serviços postais; política nuclear de uso pacífico; normas gerais de organização do sistema de ensino. Relação Brasil x exterior, ou demandam tratamento uniforme."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "PRIVATIVA. Exemplos incluem, como direitos: civil, agrário, processual, aeronáutico, comércio, eleitoral, trabalho, espacial, penal e marítimo (CAPACETE PM). Águas, energia, informática, telecomunicações e radiodifusão. Criação de tribunais federais. São delegáveis por lei complementar."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "COMUM. Exemplos incluem: proteção à saúde; proteção ao meio ambiente; combate à poluição; proteção à infância e à juventude; educação, cultura, desporto e lazer; proteção aos documentos, obras e outros bens de valor histórico, artístico e cultural. Repartição horizontal de competência."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "CONCORRENTE. Exemplos incluem, como direitos: penitenciário, urbanístico, financeiro, tributário e econômico (PUFETO). Também orçamento, juntas comerciais e custas dos serviços forenses. Repartição vertical de competência."
           }
         ]
       },
@@ -7058,14 +7081,9 @@
         "kind": "study-note",
         "topic": "Competências comuns dos entes federativos",
         "category": "Organização do Estado",
-        "summary": "2 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "2 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 2,
-        "pdfAsset": "assets/constitucional-competencias-comuns.pdf",
-        "pdfPages": [
-          "assets/constitucional-competencias-comuns-1.webp",
-          "assets/constitucional-competencias-comuns-2.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -7074,6 +7092,88 @@
           {
             "page": 2,
             "text": "a coope ação e t e a U ão e os\nstados, o\nst to\nede a\ne os Municípios, tendo em\nvista o equilíbrio do desenvolvimento e do bem-estar em \nâmbito nacional.\nVerbos no INFINITIVO: proteger, preservar, combater, \nimpedir, etc.\nCuidado que, apesar desses itens falarem em recursos \nhídricos e minerais e trânsito, não são competência somente \nda União:\nRegistrar, acompanhar e fiscalizar as concessões de direitos \nde pesquisa e exploração de recursos hídricos e minerais \nem seus\nterritórios;\nEstabelecer e implantar política de educação para a \nsegurança no trânsito\n\neos Municipios, tendo em\n\nvista o equilibrio do desenvolvimento e do bem-estar em\nAambito nacional.\n\nVerbos no INFINITIVO: proteger, preservar, combater,\nimpedir, etc.\n\nCuidado que, apesar desses itens falarem em recursos\nhidricos e minerais e transito, nAo sao competéncia somente\nda Uniao:\n\nRegistrar, acompanhar e fiscalizar as concessGes de direitos\nde pesquisa e exploragao de recursos hidricos e minerais\nem seus\n\nterritorios;\n\nEstabelecer e implantar politica de educagao para a\nsegurang¢a no transito\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Competência comum da União, dos Estados, do Distrito Federal e dos Municípios:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "I - zelar pela guarda da Constituição, das leis e das instituições democráticas e conservar o patrimônio público;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "II - cuidar da saúde e assistência pública, da proteção e garantia das pessoas portadoras de deficiência;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "III - proteger os documentos, as obras e outros bens de valor histórico, artístico e cultural, os monumentos, as paisagens naturais notáveis e os sítios arqueológicos;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "IV - impedir a evasão, a destruição e a descaracterização de obras de arte e de outros bens de valor histórico, artístico ou cultural;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "V - proporcionar os meios de acesso à cultura, à educação, à ciência, à tecnologia, à pesquisa e à inovação;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "VI - proteger o meio ambiente e combater a poluição em qualquer de suas formas;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "VII - preservar as florestas, a fauna e a flora;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "VIII - fomentar a produção agropecuária e organizar o abastecimento alimentar;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "IX - promover programas de construção de moradias e a melhoria das condições habitacionais e de saneamento básico;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "X - combater as causas da pobreza e os fatores de marginalização, promovendo a integração social dos setores desfavorecidos;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "XI - registrar, acompanhar e fiscalizar as concessões de direitos de pesquisa e exploração de recursos hídricos e minerais em seus territórios;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "XII - estabelecer e implantar política de educação para a segurança do trânsito."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Parágrafo único. Leis complementares fixarão normas para a cooperação entre a União e os Estados, o Distrito Federal e os Municípios, tendo em vista o equilíbrio do desenvolvimento e do bem-estar em âmbito nacional."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Verbos no INFINITIVO: proteger, preservar, combater, impedir, etc."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Cuidado: apesar desses itens falarem em recursos hídricos e minerais e trânsito, não são competência somente da União. Registrar, acompanhar e fiscalizar as concessões de direitos de pesquisa e exploração de recursos hídricos e minerais em seus territórios; estabelecer e implantar política de educação para a segurança no trânsito."
           }
         ]
       },
@@ -7086,17 +7186,100 @@
         "kind": "study-note",
         "topic": "Organização dos Municípios",
         "category": "Organização do Estado",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-municipios.pdf",
-        "pdfPages": [
-          "assets/constitucional-municipios-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Despesa do Legislativo: inclui VEREADORES + INATIVOS E PENSIONISTAS\nDespesa total com vereadores = máximo 5% da receita municipal\nCriar novo Município :\nDivulgação dos Estudos de Viabilidade na forma da Lei\nPlebiscito\nLei Estadual, dentro do período determinado por lei complementar federal\nRegem-se pela Lei Orgânica\nDDD (Dois Turnos, intervalo mínimo de Dez dias, quórum de Dois terços)\nNão precisa do Executivo para nada!!\nA própria Câmara promulga, a exemplo da CF\nSegundo turno para + de 200mil eleitores\n55 vereadores é o máximo (cidade acima de 8 milhoes de habitantes)\nNo máximo, subsídio chega a 75% de deputado estadual (acima de 500mil habitantes)\nInviolabilidade das palavras do vereador só dentro do município\nIniciativa popular: definido por LEI e no mínimo 5% do eleitorado\nFolha de pagamento da Câmara (inclui vereadores) = máximo 70% da receita da \nCâmara (Se liga: não do Município, só da Câmara)\nSenão, crime de responsabilidade do PRESIDENTE DA CÂMARA\nServiços de Transporte coletivo = direto ou concessão/permissão\nAutorização = NÃO\nParecer prévio do Tribunal de Contas só não prevalece se votado por 2/3 da Câmara\nContas disponíveis por 60 dias para a população\nOrganização dos Municípios\nsábado, 29 de agosto de 2026\n18:30\n\nOrganiza¢gdo dos Municipios\n\nsdbado, 29 de agosto de 2026 18:30\n\nDespesa do Legislativo: inclui VEREADORES + INATIVOS E PENSIONISTAS\nDespesa total com vereadores = maximo 5% da receita municipal\n\nCriar novo Municipio :\n\nDivulgagao dos Estudos de Viabilidade na forma da Lei\n\nPlebiscito\n\nLei Estadual, dentro do periodo determinado por lei complementar federal\nRegem-se pela Lei Organica\n\nDDD (Dois Turnos, intervalo minimo de Dez dias, quorum de Dois tercos)\n\nNao precisa do Executivo para nada!!\n\nA propria Camara promulga, a exemplo da CF\n\nSegundo turno para + de 200mil eleitores\n\n55 vereadores € o maximo (cidade acima de 8 milhoes de habitantes)\n\nNo maximo, subsidio chega a 75% de deputado estadual (acima de 500mil habitantes)\nInviolabilidade das palavras do vereador so dentro do municipio\n\nIniciativa popular: definido por LEI e no minimo 5% do eleitorado\n\nFolha de pagamento da Camara (inclui vereadores) = maximo 70% da receita da\nCamara (Se liga: nao do Municipio, so da Camara)\n\nSendo, crime de responsabilidade do PRESIDENTE DA CAMARA\n\nServigos de Transporte coletivo = direto ou concessao/permissao\n\nAutorizagao = NAO\n\nParecer prévio do Tribunal de Contas so nao prevalece se votado por 2/3 da Camara\nContas disponiveis por 60 dias para a populacao\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Despesa do Legislativo: inclui vereadores + inativos e pensionistas."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Despesa total com vereadores = máximo 5% da receita municipal."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Criar novo município: divulgação dos estudos de viabilidade na forma da lei; plebiscito; lei estadual, dentro do período determinado por lei complementar federal."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Regem-se pela Lei Orgânica."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "DDD (dois turnos, intervalo mínimo de dez dias, quórum de dois terços)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Não precisa do Executivo para nada!! A própria Câmara promulga, a exemplo da CF."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Segundo turno para mais de 200 mil eleitores."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "55 vereadores é o máximo (cidade acima de 8 milhões de habitantes)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "No máximo, subsídio chega a 75% de deputado estadual (acima de 500 mil habitantes)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Inviolabilidade das palavras do vereador só dentro do município."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Iniciativa popular: definido por lei e no mínimo 5% do eleitorado."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Folha de pagamento da Câmara (inclui vereadores) = máximo 70% da receita da Câmara. Se liga: não do município, só da Câmara."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Senão, crime de responsabilidade do Presidente da Câmara."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Serviços de transporte coletivo = direto ou concessão/permissão."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Autorização = NÃO."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Parecer prévio do Tribunal de Contas só não prevalece se votado por 2/3 da Câmara."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Contas disponíveis por 60 dias para a população."
           }
         ]
       },
@@ -7109,17 +7292,55 @@
         "kind": "study-note",
         "topic": "Organização dos Estados Federados",
         "category": "Organização do Estado",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-estados.pdf",
-        "pdfPages": [
-          "assets/constitucional-estados-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Organizam-se pela Constituição e Leis que adotarem, Observando a CF\nExplorar diretamente ou através de CONCESSÃO: Gás canalizado\nProibida MP para regulamentar\nLei Complementar: Instituir regiões metropolitanas/semelhantes\nAssembleia Legislativa = Triplo da representação do estado na Câmara\nAo atingir 36 deputados estaduais, soma +1 para cada deputado federal acima de 12\nExemplo: Se tiver 50 deputados federais:\n50 - 12 = 38; logo teremos (12 x 3) + 38 = 74 deputados estaduais\nSubsídio Máximo dos Deputados Estaduais = 75% dos Deputados Federais\nOrganização dos Estados Federados\nsábado, 29 de agosto de 2026\n18:28\n\nOrganizacdo dos Estados Federados\n\nsdbado, 29 de agosto de 2026 18:28\n\nOrganizam-se pela Constituigao e Leis que adotarem, Observando a CF\n\nExplorar diretamente ou através de CONCESSAO: Gas canalizado\n\nProibida MP para regulamentar\n\nLei Complementar: Instituir regi6es metropolitanas/semelhantes\n\nAssembleia Legislativa = Tripio da representagao do estado na Camara\n\nAo atingir 36 deputados estaduais, soma +1 para cada deputado federal acima de 12\nExemplo: Se tiver 50 deputados federais:\n\n50 - 12 = 38; logo teremos (12 x 3) + 38 = 74 deputados estaduais\n\nSubsidio Maximo dos Deputados Estaduais = 75% dos Deputados Federais\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Organizam-se pela Constituição e leis que adotarem, observando a CF."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Explorar diretamente ou através de concessão: gás canalizado."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Proibida MP para regulamentar."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Lei complementar: instituir regiões metropolitanas/semelhantes."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Assembleia Legislativa = triplo da representação do estado na Câmara."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Ao atingir 36 deputados estaduais, soma +1 para cada deputado federal acima de 12."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Exemplo: se tiver 50 deputados federais: 50 - 12 = 38; logo teremos (12 x 3) + 38 = 74 deputados estaduais."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Subsídio máximo dos deputados estaduais = 75% dos deputados federais."
           }
         ]
       },
@@ -7132,17 +7353,85 @@
         "kind": "study-note",
         "topic": "Intervenção",
         "category": "Organização do Estado",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-intervencao.pdf",
-        "pdfPages": [
-          "assets/constitucional-intervencao-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Intervencao tec\ndomingo, 30 de agosto de 2026\n08:43\n\nIntervencao tec\n\ndomingo, 30 de agosto de 2026\n\n08:43\n\nPresidente Nao poderé aprovar quaisquer emendas constitucionais enquanto vigorar a intervencao\n\nde officio Ato discricionéio\n\nreorganizar as finangas da\n\n2) suspender o pagamento da divida fundada por mais\n\nde dois anos consecutivos, salvo motivo de forga maior\nunidade da Federagao que\nb) deixar de entregar aos Municipios receitas trit\nsgarantir o livre exercicio de\n\nInvervenieao a Uraao Qualquer dos Poderes nas, Os Poderes Legislative ou\noa eeennice 6 De Solicitagao Unidades da Federagéo Executive impedidos solicitam a0 Presidente da Repiblica a intervengao\n\nNos casos de requisigao e representagéo\n\na ordem ¢ mandamental\n\nOu seja, o Presidente da Republica apenas a cumpre\n<garantiro livre exercicio de\n\n‘qualquer dos Poderes nas\nlunidades da Federacao\n\nependera de requisi¢ao do STF junto ao\n° impedido dblica para a interveng0\n© Poder Judiciério dependerd de requisi¢ao do STF, STU\nprover a exscugao de cuja docisao so ‘ou TSE junto ao Presidente da\n‘ordem ou decisao j encontra afetada epublica para a intervencao\nrepresentagao\n\nRequisica\n\nde\n\ndo Procurador-\n\nGeral da\n) ou de Justica (Estad\n\n4) forma republicana, sistema representativo e regime democratico;\n») direitos da pessoa humana;\n\n©) autonomia municipal;\n\nd) prestagao de contas da administragao publica, direta e indireta\nassegurar a observancia @) aplicagao do minimo exigido da receita resultant\nos prineipios sensiveis, de inposios esas, compreendia a proven de\ntransferéncias, na manutencao e desenvolvimento do\nensino e nas agées e servicos piiblicos de satide.\n\nUniao: 18%\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Intervenção da União nos Estados e DF."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Suspende temporariamente e excepcionalmente a autonomia do ente federativo."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Presidente NÃO poderá aprovar quaisquer emendas constitucionais enquanto vigorar a intervenção."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Espontânea: o Presidente da República age de ofício (ato discricionário), para manter a integridade nacional, repelir invasão estrangeira ou de uma unidade da Federação em outra, ou pôr termo a grave comprometimento da ordem pública. Também para reorganizar as finanças da unidade da Federação que: a) suspender o pagamento da dívida fundada por mais de dois anos consecutivos, salvo motivo de força maior; b) deixar de entregar aos Municípios receitas tributárias."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Solicitação: para garantir o livre exercício de qualquer dos Poderes nas unidades da Federação, quando os Poderes Legislativo ou Executivo, impedidos, solicitam ao Presidente da República a intervenção."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Nos casos de requisição e representação a ordem é mandamental: ou seja, o Presidente da República apenas a cumpre."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Requisição: para garantir o livre exercício de qualquer dos Poderes nas unidades da Federação. Se o Poder Judiciário estiver impedido, dependerá de requisição do STF junto ao Presidente da República para a intervenção."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Requisição para prover a execução de ordem ou decisão judicial: se o Poder Judiciário, cuja decisão se encontra afetada, dependerá de requisição do STF, STJ ou TSE junto ao Presidente da República para a intervenção."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Representação: a intervenção dependerá de provimento, pelo STF (ou Tribunal de Justiça), de representação do Procurador-Geral da República (federal) ou de Justiça (estadual). Serve para prover a execução de lei federal ou estadual, ou para assegurar a observância dos princípios sensíveis:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "a) forma republicana, sistema representativo e regime democrático;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "b) direitos da pessoa humana;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "c) autonomia municipal;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "d) prestação de contas da administração pública, direta e indireta;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "e) aplicação do mínimo exigido da receita resultante de impostos estaduais, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde. Percentuais indicados no esquema: Estados, DF e Municípios: 25%; União: 18%."
           }
         ]
       },
@@ -7155,17 +7444,80 @@
         "kind": "study-note",
         "topic": "Criação de Municípios e Estados",
         "category": "Organização do Estado",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-criacao-estados-municipios.pdf",
-        "pdfPages": [
-          "assets/constitucional-criacao-estados-municipios-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Criar/alterar Municípios\n1. Lei Complementar Federal define prazos e condições.\n2. É necessária a divulgação de estudos de viabilidade municipal.\n3. Realização de plebiscito.\n4. Por fim, uma Lei Estadual deve ser criada dentro do prazo fixado pela Lei \nComplementar Federal do passo 1.\nObservação:\nA Lei estadual pode ser ordinária.\nA única Lei Complementar exigida aqui é a Federal.\nAtenção! Territórios: Lei Complementar dirá COMO Territórios viram Estados. \nNão diz que precisa de LC para transformar em Estado, nem\ncita plebiscito. Apenas isso: Haverá alguma LC que dirá a forma como essa mudança \nacontecerá (sequer fala que a transformação em si será\natravés de LC!)\nFormação de novos Estados e novos Municípios: criação, fusão, incorporação e \ndesmembramento - Art. 18\nCriar município e Estado\nsábado, 29 de agosto de 2026\n18:23\n\nCriar municipio e Estado\n\nsdbado, 29 de agosto de 2026 18:23\n\nCriar/alterar Municipios\n\n1. Lei Complementar Federal define prazos e condigées.\n\n2. E necessaria a divulgagao de estudos de viabilidade municipal.\n3. Realizacao de plebiscito.\n\n4. Por fim, uma Lei Estadual deve ser criada dentro do prazo fixado pela Lei\nComplementar Federal do passo 1.\n\nObservacao:\n\nA Lei estadual pode ser ordinaria.\n\nA tnica Lei Complementar exigida aqui é a Federal.\n\nAtencao! Territérios: Lei Complementar diraé COMO Territérios viram Estados.\nNao diz que precisa de LC para transformar em Estado, nem\n\ncita plebiscito. Apenas isso: Havera alguma LC que dira a forma como essa mudanga\nacontecera (sequer fala que a transformacao em si sera\n\natravés de LC!)\n\nFormagao de novos Estados e novos Municipios: criagao, fusao, incorporagao e\ndesmembramento - Art. 18\n\nESTADOS MUNICIPIOS\nAprovagao da populagao (plebiscito) Aprovacao da populacao (plebiscito)\nLei complementar (Congresso Lei estadual + perlodo estabelecido por lei complementar federal\nNacional)\nNao menciona estudos de Estudos de Viabilidade Municipal\n\nViabilidade\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Criar/alterar municípios:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "1. Lei Complementar Federal define prazos e condições."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "2. É necessária a divulgação de estudos de viabilidade municipal."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "3. Realização de plebiscito."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "4. Por fim, uma lei estadual deve ser criada dentro do prazo fixado pela Lei Complementar Federal do passo 1."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Observação: a lei estadual pode ser ordinária. A única lei complementar exigida aqui é a federal."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Atenção! Territórios: a Lei Complementar dirá COMO territórios viram Estados. Não diz que precisa de LC para transformar em Estado, nem cita plebiscito. Apenas isso: haverá alguma LC que dirá a forma como essa mudança acontecerá (sequer fala que a transformação em si será através de LC!)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Formação de novos Estados e novos Municípios: criação, fusão, incorporação e desmembramento (art. 18)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "| ESTADOS | MUNICÍPIOS |"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "| --- | --- |"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "| Aprovação da população (plebiscito) | Aprovação da população (plebiscito) |"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "| Lei complementar (Congresso Nacional) | Lei estadual + período estabelecido por lei complementar federal |"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "| Não menciona estudos de viabilidade | Estudos de Viabilidade Municipal |"
           }
         ]
       },
@@ -7178,17 +7530,30 @@
         "kind": "study-note",
         "topic": "Competências delegáveis do Presidente da República",
         "category": "Poder Executivo",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-delegacao-presidente.pdf",
-        "pdfPages": [
-          "assets/constitucional-delegacao-presidente-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "competências delegáveis do Presidente da República são DIP ao PAM.\n3 COMPETÊNCIAS DELEGÁVEIS (DIP):\n• Decreto autônomo\n• Indulto e comutação de penas\n• Provimento de cargo público\n•\nPODE DELEGAR A 3 PESSOAS (PAM):\n• PGR - Procurador Geral da União\n• AGU - Advogado Geral da União\n• ME - Ministro de Estado\nO Presidente da República poderá delega\nsexta-feira, 4 de setembro de 2026\n15:15\n\nO Presidente da Republica podera delega\n\nsexta-feira, 4 de setembro de 2026 15:15\n\ncompeténcias delegaveis do Presidente da Republica sao DIP ao PAM.\n3 COMPETENCIAS DELEGAVEIS (DIP):\n\n¢ Decreto aut6nomo\n\ne Indulto e comuta¢ao de penas\n\ne Provimento de cargo publico\n\n°\nPODE DELEGAR A 3 PESSOAS (PAM):\n¢ PGR - Procurador Geral da Unido\n\ne AGU - Advogado Geral da Unido\n\ne ME - Ministro de Estado\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "As competências delegáveis do Presidente da República são DIP ao PAM."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "3 competências delegáveis (DIP): decreto autônomo; indulto e comutação de penas; provimento de cargo público."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Pode delegar a 3 pessoas (PAM): PGR (Procurador-Geral da União); AGU (Advogado-Geral da União); ME (Ministro de Estado)."
           }
         ]
       },
@@ -7201,17 +7566,75 @@
         "kind": "study-note",
         "topic": "Legitimados para ADI e ADC",
         "category": "Controle de constitucionalidade",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-adi-adc-legitimados.pdf",
-        "pdfPages": [
-          "assets/constitucional-adi-adc-legitimados-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "As 4 ações do controle concentrado SOMENTE podem ser ajuizadas no STF pelos legitimados\nenunciados no ROL EXAUSTIVO do art. 103 da CF:\n•\no Presidente da República;\n1.\na Mesa do Senado Federal;\n2.\na Mesa da Câmara dos Deputados;\n3.\na Mesa de Assembleia Legislativa ou da Câmara Legislativa do Distrito Federal;\n4.\no Governador de Estado ou do Distrito Federal;\n5.\no Procurador-Geral da República;\n6.\no Conselho Federal da Ordem dos Advogados do Brasil;\n7.\npartido político com representação no Congresso Nacional;\n8.\nconfederação sindical ou entidade (associações, conselhos) de classe de âmbito nacional\n9.\nOs de preto são legitimados UNIVERSAIS (NEUTROS) que podem propor ação direta \nINDEPENDENTEMENTE de comprovação de pertinência temática. Nesse caso, o interesse já é \ntido como presumido\n•\nOs de vermelho são legitimados ESPECIAIS (INTERESSADOS) que devem comprovar a \npertinência temática, sob pena de não ser conhecida ação\n•\nADI<ADC ativos\nsábado, 5 de setembro de 2026\n19:09\n\nADI<ADC ativos\n\nsdbado, 5 de setembro de 2026 19:09\n\nOPN AM aAwWN PE\n\nAs 4 aces do controle concentrado SOMENTE podem ser ajuizadas no STF pelos legitimados\nenunciados no ROL EXAUSTIVO do art. 103 da CF:\n0 Presidente da Republica;\n\na Mesa do Senado Federal;\na Mesa da Camara dos Deputados;\n\na Mesa de Assembleia Legislativa ou da Camara Legislativa do Distrito Federal;\n\no Governador de Estado ou do Distrito Federal;\n\no Procurador-Geral da Republica;\n\no Conselho Federal da Ordem dos Advogados do Brasil;\n\npartido politico com representacdo no Congresso Nacional;\n\nconfederaco sindical ou entidade (associacées, conselhos) de classe de 4mbito nacional\nOs de preto sao legitimados UNIVERSAIS (NEUTROS) que podem propor agao direta\nINDEPENDENTEMENTE de comprovacao de pertinéncia tematica. Nesse caso, 0 interesse jd é\ntido como presumido\n\nOs de vermelho sao legitimados ESPECIAIS (INTERESSADOS) que devem comprovar a\npertinéncia tematica, sob pena de no ser conhecida aco\n\nB ESQUEMATIZA Al\n\nL Presidente da Republica\n\n2 Procurador-Geral da Republica\n\n! Legitimados }\n\nConselho Federal (Regional) da OAB H '\n\n= \\ ' UNIVERSAIS |\n4 Mesa do Senado Federal 4 (nao precisa '\n\npertinéncia tematica)\n\n5.| Mesa da Camara dos Deputados\n\na\nSs\nSs\n4\n=\no\no\n\nPartido politico com representagao\n& no CN\n\n7, { Mesa de Assembieia Legislativa ou ) >)\n: Camara Legislativa do OF\n\nLegitimados\nESPECIAIS\n\n(precisa pertinéncia\n\n9, | Confederacao sindical ou entidade tematica)\ndeclasse de mbitonacional | ‘~.~--------------- a\n\n{\n'\n8. Governador de Estado/DF \\ |\n\nEsquema 179\n\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "As 4 ações do controle concentrado somente podem ser ajuizadas no STF pelos legitimados enunciados no rol exaustivo do art. 103 da CF:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "1. o Presidente da República;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "2. a Mesa do Senado Federal;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "3. a Mesa da Câmara dos Deputados;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "4. a Mesa de Assembleia Legislativa ou da Câmara Legislativa do Distrito Federal;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "5. o Governador de Estado ou do Distrito Federal;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "6. o Procurador-Geral da República;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "7. o Conselho Federal da Ordem dos Advogados do Brasil;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "8. partido político com representação no Congresso Nacional;"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "9. confederação sindical ou entidade (associações, conselhos) de classe de âmbito nacional."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Legitimados universais (neutros), que podem propor ação direta independentemente de comprovação de pertinência temática, pois o interesse é presumido: Presidente da República; Procurador-Geral da República; Conselho Federal da OAB; Mesa do Senado Federal; Mesa da Câmara dos Deputados; partido político com representação no Congresso Nacional."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Legitimados especiais (interessados), que devem comprovar pertinência temática, sob pena de a ação não ser conhecida: Mesa de Assembleia Legislativa ou Câmara Legislativa do DF; Governador de Estado/DF; confederação sindical ou entidade de classe de âmbito nacional."
           }
         ]
       },
@@ -7224,17 +7647,45 @@
         "kind": "study-note",
         "topic": "Emendas ao PLOA e indicação de recursos",
         "category": "Finanças públicas e orçamento",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-emendas-ploa.pdf",
-        "pdfPages": [
-          "assets/constitucional-emendas-ploa-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Superávit financeiro do exercício anterior diz respeito a abertura de créditos adicionais).\nO erro da questão é afirmar que superávit. No restante, perceba que ela mencionou a indicação de \nrecurso, a origem (anulações  de despesas), contudo, não mencionou se estava relacionada com \ncorreções ou omissões ou emendas na redação.\n•\nVide os requisitos Constitucionais para aprovação emendas ao PLOA:\nPara emendar a LOA, essa proposta deve ser compatível com o PPA e LDO.\n•\nIndiquem os recursos necessários, permitido apenas os de anulação de despesas, excluídos os que \nincidam sobre (não pode versar sobre): (DST)\n•\na) dotação de pessoal e seus encargos\n▪\nb) serviço de dívida\n▪\nc) transferências tributárias\n▪\ne TEM QUE estar relacionadas:\n•\na) correções de erros ou omissões\n▪\nb) emendas de redação (visam melhorar o texto, tornando-o mais claro) - com os dispositivos do texto \ndo projeto de lei.\n▪\nPLOA recursos\nsábado, 5 de setembro de 2026\n17:13\n\nPLOA recursos\n\nsdbado, 5 de setembro de 2026 17:13\n\nSuperavit financeiro do exercicio anterior diz respeito a abertura de créditos adicionais).\n\nO erro da questao é afirmar que superavit. No restante, perceba que ela mencionou a indica¢gao de\nrecurso, a origem (anulagdes de despesas), contudo, ndo mencionou se estava relacionada com\ncorregdes ou omiss6es ou emendas na redacao.\n\nVide os requisitos Constitucionais para aprovagdo emendas ao PLOA:\n\nPara emendar a LOA, essa proposta deve ser compativel com o PPA e LDO.\n\nIndiquem os recursos necessarios, permitido apenas os de anulacdo de despesas, excluidos os que\nincidam sobre (nao pode versar sobre): (DST)\n\na) dotagdo de pessoal e seus encargos\n\nb) servigo de divida\n\nc) transferéncias tributarias\n\ne TEM QUE estar relacionadas:\n\na) corregdes de erros ou omissdes\n\nb) emendas de redagao (visam melhorar o texto, tornando-o mais claro) - com os dispositivos do texto\ndo projeto de lei.\n\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Superávit financeiro do exercício anterior diz respeito à abertura de créditos adicionais."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O erro da questão é afirmar que superávit. No restante, perceba que ela mencionou a indicação de recurso e a origem (anulações de despesas), contudo, não mencionou se estava relacionada com correções, omissões ou emendas na redação."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Vide os requisitos constitucionais para aprovação de emendas ao PLOA:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Para emendar a LOA, essa proposta deve ser compatível com o PPA e LDO."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Indiquem os recursos necessários, permitido apenas os de anulação de despesas, excluídos os que incidam sobre (não pode versar sobre) (DST): a) dotação de pessoal e seus encargos; b) serviço de dívida; c) transferências tributárias."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "E TEM QUE estar relacionadas: a) correções de erros ou omissões; b) emendas de redação (visam melhorar o texto, tornando-o mais claro), com os dispositivos do texto do projeto de lei."
           }
         ]
       },
@@ -7247,17 +7698,30 @@
         "kind": "study-note",
         "topic": "Reserva de plenário e não recepção",
         "category": "Controle de constitucionalidade",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-reserva-plenario.pdf",
-        "pdfPages": [
-          "assets/constitucional-reserva-plenario-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Natureza do Conflito (Revogação x Inconstitucionalidade): A Lei Federal nº X é de 1987, ou seja, \nanterior à Constituição de 1988 e, consequentemente, anterior à Emenda Constitucional nº \nW/2020. No direito brasileiro, o STF adota a teoria de que o conflito entre uma lei anterior e uma \nnova norma constitucional (seja a Constituição originária ou uma Emenda) resolve-se pelo critério \nda revogação (não recepção), e não pela declaração de inconstitucionalidade. A \ninconstitucionalidade pressupõe que a lei nasceu viciada (lei posterior à Constituição); já a não \nrecepção pressupõe que a lei era válida e tornou-se incompatível (lei anterior x nova \nConstituição).\n1.\nCláusula de Reserva de Plenário (Art. 97 da CRFB/88 e Súmula Vinculante nº 10): A regra geral é \nque os órgãos fracionários (Câmaras, Turmas) não podem declarar a inconstitucionalidade de leis; \ndevem submeter a questão ao Plenário ou Órgão Especial (o procedimento descrito na alternativa \nA). Contudo, o STF possui entendimento consolidado de que a Cláusula de Reserva de Plenário \nnão se aplica aos casos de não recepção (revogação).\nPrecedente: \"A incompatibilidade vertical superveniente de normas infraconstitucionais frente à \nConstituição traduz hipótese de revogação, e não de inconstitucionalidade.\" Sendo caso de \nrevogação, o juiz ou o órgão fracionário pode declarar o afastamento da norma por conta própria, \nsem a necessidade de acionar o Plenário\n2.\nReserva do plenário\nsexta-feira, 2 de outubro de 2026\n06:23\n\nReserva do plendario\n\nsexta-feira, 2 de outubro de 2026 06:23\n\n1. Natureza do Conflito (Revogacdo x Inconstitucionalidade): A Lei Federal n° X é de 1987, ou seja,\nanterior a Constituigdo de 1988 e, consequentemente, anterior 4a Emenda Constitucional n°\nW/2020. No direito brasileiro, o STF adota a teoria de que o conflito entre uma lei anterior e uma\nnova norma constitucional (seja a Constituigdo originaria ou uma Emenda) resolve-se pelo critério\nda revogacao (nao recep¢ao), e nao pela declaracdo de inconstitucionalidade. A\ninconstitucionalidade pressupde que a lei nasceu viciada (lei posterior a Constitui¢do); ja a ndo\nrecepcdo pressup6e que a lei era valida e tornou-se incompativel (lei anterior x nova\nConstituigao).\n\n2. Clausula de Reserva de Plendario (Art. 97 da CRFB/88 e Simula Vinculante n2 10): A regra geral é\nque os Orgaos fracionarios (Camaras, Turmas) nédo podem declarar a inconstitucionalidade de leis;\ndevem submeter a questdo ao Plenario ou Orgao Especial (0 procedimento descrito na alternativa\nA). Contudo, o STF possui entendimento consolidado de que a Clausula de Reserva de Plenario\nnao se aplica aos casos de nao recepgao (revogac¢ao).\n\nPrecedente: \"A incompatibilidade vertical superveniente de normas infraconstitucionais frente a\nConstitui¢Go traduz hipotese de revogacGo, e ndo de inconstitucionalidade.\" Sendo caso de\nrevoga¢Go, o juiz ou o 6rgao fraciondrio pode declarar o afastamento da norma por conta propria,\nsem a necessidade de acionar o Plendrio\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "1. Natureza do conflito (revogação x inconstitucionalidade): a Lei Federal nº X é de 1987, ou seja, anterior à Constituição de 1988 e, consequentemente, anterior à Emenda Constitucional nº W/2020. No direito brasileiro, o STF adota a teoria de que o conflito entre uma lei anterior e uma nova norma constitucional (seja a Constituição originária ou uma emenda) resolve-se pelo critério da revogação (não recepção), e não pela declaração de inconstitucionalidade. A inconstitucionalidade pressupõe que a lei nasceu viciada (lei posterior à Constituição); já a não recepção pressupõe que a lei era válida e tornou-se incompatível (lei anterior x nova Constituição)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "2. Cláusula de reserva de plenário (art. 97 da CRFB/88 e Súmula Vinculante nº 10): a regra geral é que os órgãos fracionários (Câmaras, Turmas) não podem declarar a inconstitucionalidade de leis; devem submeter a questão ao Plenário ou Órgão Especial (o procedimento descrito na alternativa A). Contudo, o STF possui entendimento consolidado de que a cláusula de reserva de plenário não se aplica aos casos de não recepção (revogação)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Precedente: \"A incompatibilidade vertical superveniente de normas infraconstitucionais frente à Constituição traduz hipótese de revogação, e não de inconstitucionalidade.\" Sendo caso de revogação, o juiz ou o órgão fracionário pode declarar o afastamento da norma por conta própria, sem a necessidade de acionar o Plenário."
           }
         ]
       },
@@ -7270,17 +7734,55 @@
         "kind": "study-note",
         "topic": "Ação Direta de Inconstitucionalidade por Omissão — ADO",
         "category": "Controle de constitucionalidade",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-ado.pdf",
-        "pdfPages": [
-          "assets/constitucional-ado-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Ação Direta de Inconstitucionalidade por Omissão (ADO):\n- Objetivo: impedir a inércia do órgão encarregado de elaborar norma (não somente o \nlegislativo);\n- Mesmos legitimados da ADI;\n- Omissões de órgãos federais e estaduais;\n- PGR: participação obrigatória;\n- AGU: não obrigatória a participação;\n- Medida cautelar: maioria absoluta / quórum presença: 8 membros;\n- Prazo para superação da omissão: 18 meses (STF ADI nº 3.682);\n- Será dada ciência ao órgão para adotar as providências em 30 dias.\nADO\nsexta-feira, 2 de outubro de 2026\n16:03\n\nADO\n\nsexta-feira, 2 de outubro de 2026 16:03\n\nAgao Direta de Inconstitucionalidade por Omissao (ADO):\n\n- Objetivo: impedir a inércia do érgao encarregado de elaborar norma (ndo somente o\nlegislativo);\n\n- Mesmos legitimados da ADI;\n\n- OmissGes de orgaos federais e estaduais;\n\n- AGU: nao obrigatéria a participagao;\n\n- Medida cautelar: maioria absoluta / quérum presenga: 8 membros;\n\n- Prazo para superacdo da omissdo: 18 meses (STF ADI n° 3.682);\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Objetivo: impedir a inércia do órgão encarregado de elaborar norma (não somente o legislativo)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Mesmos legitimados da ADI."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Omissões de órgãos federais e estaduais."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "PGR: participação obrigatória."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "AGU: não obrigatória a participação."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Medida cautelar: maioria absoluta; quórum de presença: 8 membros."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Prazo para superação da omissão: 18 meses (STF, ADI nº 3.682)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Será dada ciência ao órgão para adotar as providências em 30 dias."
           }
         ]
       },
@@ -7293,17 +7795,45 @@
         "kind": "study-note",
         "topic": "Ação popular × ação civil pública",
         "category": "Direitos e garantias fundamentais",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-acao-popular-civil-publica.pdf",
-        "pdfPages": [
-          "assets/constitucional-acao-popular-civil-publica-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Ação popular vs civil pública\nquarta-feira, 12 de agosto de 2026\n07:04\n\nAcdo popular vs civil publica\n\nquarta-feira, 12 de agosto de 2026 07:04\n\n- Patrimonio publico\n\n- Patrimonio histérico!\ncultural\n\n- Meio ambiente\n\n- Moralidade administrativa\n\nCidaddo (ELETTOR)\n\nLocal do ATO\n\n- Patrimonio publico e\nsocial\n\n- Meio ambiente\n\n~ Outros interesses difusos\ne coletivos\n\n~MP\n\n- Defensoria Publica\n\n- Entidades da Adm. Pub.\nDireta ou Indireta\n\n- Associacées\n\nLocal do DANO\n\n5 anos a contar da lesdo\n\n5 anos a contar da lesao\n\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Aspecto",
+                "Ação popular",
+                "Ação civil pública"
+              ],
+              [
+                "Objeto",
+                "Patrimônio público; patrimônio histórico/cultural; meio ambiente; moralidade administrativa",
+                "Patrimônio público e social; meio ambiente; outros interesses difusos e coletivos"
+              ],
+              [
+                "Legitimidade ativa",
+                "Cidadão (eleitor)",
+                "MP; Defensoria Pública; entidades da Administração Pública direta ou indireta; associações"
+              ],
+              [
+                "Competência",
+                "Local do ato",
+                "Local do dano"
+              ],
+              [
+                "Prescrição e decadência",
+                "5 anos a contar da lesão",
+                "5 anos a contar da lesão"
+              ]
+            ]
           }
         ]
       },
@@ -7316,17 +7846,44 @@
         "kind": "study-note",
         "topic": "Eficácia e aplicabilidade das normas constitucionais",
         "category": "Teoria da Constituição",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-eficacia-aplicabilidade.pdf",
-        "pdfPages": [
-          "assets/constitucional-eficacia-aplicabilidade-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Espécie\nAplicabilidade\nCaracterísticas\nExemplo (CF/88)\nPlena\nImediata, integral \ne direta\n- Não dependem de lei para produzir efeitos.\n- Criam direitos subjetivos plenos.\n- Só podem ser restringidas por emenda \nconstitucional.\nArt. 5º, I – homens e mulheres são \niguais em direitos e obrigações.\nCon<da Imediata, mas \npassível de \nrestrição\n- Produzem efeitos desde já.\n- Podem ter seu alcance restringido por lei, por \noutros dispositivos constitucionais ou por \nconceitos indeterminados.\nArt. 5º, XIII – liberdade de profissão, \ndesde que atendidas as qualificações \nlegais.\nLimitad\na\nIndireta, mediata\n- Dependem de norma infraconstitucional para \nproduzir todos os efeitos.\n- Podem ser programáticas (fixam diretrizes para o \nEstado) ou impositivas (obrigam o legislador a \nagir).\nArt. 7º, VII – proteção do mercado \nde trabalho da mulher, \"nos termo\nEficácia e Aplicabilidade das Normas Constitucionais\nquarta-feira, 12 de agosto de 2026\n06:45\n\nEficacia e Aplicabilidade das Normas Constitucionais\nquarta-feira, 12 de agosto de 2026 06:45\n\nEspécie | Aplicabilidade Caracteristicas Exemplo (CF/88)\n\nPlena Imediata, integral | - Nao dependem de lei para produzir efeitos. Art. 52, |— homens e mulheres sdo\n\nedireta - Criam direitos subjetivos plenos. iguais em direitos e obrigacgées.\n- S6 podem ser restringidas por emenda\nconstitucional.\n\nContida_ Imediata, mas - Produzem efeitos desde ja. Art. 52, XIll — liberdade de profissao,\npassivel de - Podem ter seu alcance restringido por lei, por desde que atendidas as qualificacées\nrestri¢do outros dispositivos constitucionais ou por legais.\n\nconceitos indeterminados.\nLimitad | Indireta, mediata | - Dependem de norma infraconstitucional para Art. 72, VIl— protec¢ao do mercado\na produzir todos os efeitos. de trabalho da mulher, \"nos termo\n\n- Podem ser programaticas (fixam diretrizes para o\nEstado) ou impositivas (obrigam o legislador a\nagir).\n\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Espécie",
+                "Aplicabilidade",
+                "Características",
+                "Exemplo (CF/88)"
+              ],
+              [
+                "Plena",
+                "Imediata, integral e direta",
+                "Não dependem de lei para produzir efeitos; criam direitos subjetivos plenos; só podem ser restringidas por emenda constitucional",
+                "Art. 5º, I: homens e mulheres são iguais em direitos e obrigações"
+              ],
+              [
+                "Contida",
+                "Imediata, mas passível de restrição",
+                "Produzem efeitos desde já; podem ter seu alcance restringido por lei, por outros dispositivos constitucionais ou por conceitos indeterminados",
+                "Art. 5º, XIII: liberdade de profissão, desde que atendidas as qualificações legais"
+              ],
+              [
+                "Limitada",
+                "Indireta, mediata",
+                "Dependem de norma infraconstitucional para produzir todos os efeitos; podem ser programáticas (fixam diretrizes para o Estado) ou impositivas (obrigam o legislador a agir)",
+                "Art. 7º, VII: proteção do mercado de trabalho da mulher, \"nos termo\" (texto truncado no original)"
+              ]
+            ]
           }
         ]
       },
@@ -7339,17 +7896,40 @@
         "kind": "study-note",
         "topic": "Interpretação constitucional",
         "category": "Teoria da Constituição",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-interpretacao.pdf",
-        "pdfPages": [
-          "assets/constitucional-interpretacao-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Método Tópico: enfatiza a busca por uma solução concreta e adequada à situação em análise, levando em conta \nos princípios e valores constitucionais. Concentra-se no contexto e nas circunstâncias específicas do caso para \ndeterminar o significado da norma.\n•\nMétodo Concretizador: busca conciliar o texto normativo com os princípios e valores constitucionais, aplicando-\nos diretamente ao caso concreto. A interpretação é feita com base na distinção entre o programa da norma (o \nque a norma deseja alcançar) e o âmbito da norma (o campo de aplicação da norma). O intérprete deve ponderar \nos interesses em jogo para encontrar uma solução equilibrada e adequada à realidade.\n•\nCorrespondência Biunívoca: considera que existe uma relação direta e única entre o texto e o significado da \nnorma. O intérprete busca descobrir o sentido literal da norma, sem considerar fatores externos, como princípios \ne valores constitucionais.\n•\nMutação Constitucional: o significado e o alcance de uma norma constitucional são alterados sem que haja uma \nmodificação formal do texto. Esse processo é resultado da evolução das interpretações e das mudanças nas \ncircunstâncias sociais, políticas e econômicas. A mutação constitucional pode ser compatível com diferentes \nmétodos de interpretação, desde que permitam adaptações na aplicação das normas.\n•\nControle Concentrado de Constitucionalidade: a análise da constitucionalidade das normas é atribuída a um \nórgão específico, geralmente um tribunal ou uma corte constitucional. Nesse sistema, o intérprete último da \nConstituição é responsável por garantir a compatibilidade das normas com os princípios e valores \nconstitucionais. O controle concentrado de constitucionalidade pode ser aplicado em conjunto com diferentes \nmétodos de interpretação, dependendo das características do sistema jurídico em questão.\n•\nInterpretação Constitucional\nquarta-feira, 12 de agosto de 2026\n06:47\n\nInterpreta¢gdo Constitucional\n\nquarta-feira, 12 de agosto de 2026 06:47\n\n* Método Tépico: enfatiza a busca por uma solucdo concreta e adequada a situacao em anilise, levando em conta\nos principios e valores constitucionais. Concentra-se no contexto e nas circunstancias especificas do caso para\ndeterminar o significado da norma.\n\n* Método Concretizador: busca conciliar o texto normativo com os principios e valores constitucionais, aplicando-\nos diretamente ao caso concreto. A interpretacao é feita com base na distingdo entre o programa da norma (o\nque a norma deseja alcancar) e o Ambito da norma (o campo de aplicacgado da norma). O intérprete deve ponderar\nos interesses em jogo para encontrar uma solugao equilibrada e adequada a realidade.\n\n* Correspondéncia Biunivoca: considera que existe uma relacao direta e unica entre o texto e o significado da\nnorma. O intérprete busca descobrir o sentido literal da norma, sem considerar fatores externos, como principios\ne valores constitucionais.\n\n* Mutagdo Constitucional: o significado e o alcance de uma norma constitucional sao alterados sem que haja uma\nmodificagao formal do texto. Esse processo é resultado da evolugado das interpretacdes e das mudangas nas\ncircunstancias sociais, politicas e econdmicas. A mutacao constitucional pode ser compativel com diferentes\nmétodos de interpretacdo, desde que permitam adaptacées na aplicacao das normas.\n\n* Controle Concentrado de Constitucionalidade: a andlise da constitucionalidade das normas é atribuida a um\nOrgao especifico, geralmente um tribunal ou uma corte constitucional. Nesse sistema, o intérprete ultimo da\nConstitui¢do é responsavel por garantir a compatibilidade das normas com os principios e valores\nconstitucionais. O controle concentrado de constitucionalidade pode ser aplicado em conjunto com diferentes\nmétodos de interpretacado, dependendo das caracteristicas do sistema juridico em questao.\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Método tópico: enfatiza a busca por uma solução concreta e adequada à situação em análise, levando em conta os princípios e valores constitucionais. Concentra-se no contexto e nas circunstâncias específicas do caso para determinar o significado da norma."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Método concretizador: busca conciliar o texto normativo com os princípios e valores constitucionais, aplicando-os diretamente ao caso concreto. A interpretação é feita com base na distinção entre o programa da norma (o que a norma deseja alcançar) e o âmbito da norma (o campo de aplicação). O intérprete deve ponderar os interesses em jogo para encontrar uma solução equilibrada e adequada à realidade."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Correspondência biunívoca: considera que existe uma relação direta e única entre o texto e o significado da norma. O intérprete busca descobrir o sentido literal da norma, sem considerar fatores externos, como princípios e valores constitucionais."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Mutação constitucional: o significado e o alcance de uma norma constitucional são alterados sem que haja uma modificação formal do texto. Esse processo resulta da evolução das interpretações e das mudanças nas circunstâncias sociais, políticas e econômicas. A mutação constitucional pode ser compatível com diferentes métodos de interpretação, desde que permitam adaptações na aplicação das normas."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Controle concentrado de constitucionalidade: a análise da constitucionalidade das normas é atribuída a um órgão específico, geralmente um tribunal ou uma corte constitucional. Nesse sistema, o intérprete último da Constituição é responsável por garantir a compatibilidade das normas com os princípios e valores constitucionais. Pode ser aplicado em conjunto com diferentes métodos de interpretação, dependendo das características do sistema jurídico em questão."
           }
         ]
       },
@@ -7362,17 +7942,75 @@
         "kind": "study-note",
         "topic": "Brasileiro nato × naturalizado",
         "category": "Direitos e garantias fundamentais",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-nacionalidade.pdf",
-        "pdfPages": [
-          "assets/constitucional-nacionalidade-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Nato vs naturalizado\nquarta-feira, 12 de agosto de 2026\n08:35\n\nNato vs naturalizado\n\nquarta-feira, 12 de agosto de 2026 08:35,\n\nCRITERIO FUNCIONAL\n\nBRASILEIRO NATO (ORIGINARIA)\nServico do Brasil\n\n@bizudoauditor poe\ni (Automatico)\n\nar\nJUS SOLI\n\nREGISTRO CONSULAR\n(TERRITORIO) Inscrigdo do nascimento\nNasceu no Brasil énato || US SANGUINIS\n\nem Gael\n\nNasceu no exterior de ig Sealine\n(hserigde outro pis || P2104 ee brasils, . Maioridade\niho BRA NATO) Natos ou Naturalizados| pean Bane) anos)\n\nL\n\n(APENA‘\n\n% #404 @ JL\n\nPresidente Vice-\naRepiblca Presidente\n\nSIF Carreira Oficial das Ministroda —_Presidentes da\nDiplomatica Forgas Amadas Defesa Camara eSenado\n\noe NATURALIZADO\nAQUISIGAO (DERIVADA)\n\n— @oO Bs,\n\nNaturalizagao Ordindria Naturalizagao Extraordindria Status de “quase-nacionat\"\nPalses Luséfonos +1 ano +ldoneidade 15 anos + Sem condenacdo + | _Pataportugueses com\nRequerimento residéncia permanente\n\nreciprocdade de direitos,\n\nPERDA DE NACIONALIDADE (EC 131/2023)\n@bizudoauditor\nPedido i\n\nSentenga Judicial\n\nfp i Vedagao de\n> Fraude Expresso.\n& > Aientado’ ordem da Raia Apatridia\nconstitucional H\nEXTRADICAO\n\nNATO (PROIBIDA) NATURALIZADO (PERMITIDA)\nPRINCIPIO\nOs brasileiros\n\nnatos nao podem\n\ncote\n\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Brasileiro nato (originária):"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Jus soli (território): nasceu no Brasil, é nato. Exceção: se país estrangeiro estiver a serviço de seu país (a serviço de outro país = filho BRA NATO)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Jus sanguinis (sangue): nasceu no exterior de pai ou mãe brasileiros. Natos ou naturalizados."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Critérios para os filhos de brasileiros: critério funcional (serviço do Brasil, automático); ou registro consular (inscrição do nascimento em repartição brasileira); ou opção confirmativa (maioridade, 18 anos)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Cargos exclusivos (apenas natos): Presidente da República; Vice-Presidente; STF; carreira diplomática; oficial das Forças Armadas; Ministro da Defesa; presidentes da Câmara e do Senado."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Brasileiro naturalizado: aquisição derivada."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Naturalização ordinária: países lusófonos + 1 ano de residência + idoneidade."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Naturalização extraordinária: 15 anos + sem condenação + requerimento."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Português equiparado: status de \"quase-nacional\" para portugueses com residência permanente e reciprocidade de direitos."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Perda de nacionalidade (EC 131/2023): sentença judicial por fraude ou atentado à ordem constitucional; pedido expresso de renúncia. Vedação de apatridia."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Extradição: nato (proibida); naturalizado (permitida) por crime comum anterior ou tráfico de drogas."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Princípio: os brasileiros natos não podem ser extraditados."
           }
         ]
       },
@@ -7385,17 +8023,45 @@
         "kind": "study-note",
         "topic": "Poder constituinte",
         "category": "Teoria da Constituição",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-poder-constituinte.pdf",
-        "pdfPages": [
-          "assets/constitucional-poder-constituinte-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Poder Constituinte Originário: Político, inicial, incondicionado, permanente, autônomo;\nPoder Constituinte Derivado: Jurídico, derivado, limitado, condicionado;\nDivide-se em: Decorrente, Reformador e Revisor\n⚡O Poder Constituinte Derivado Decorrente é o referente à elaboração das Constituições estaduais.\n•\n⚡O Poder Constituinte Derivado Reformador é o referente à modificação da Constituições, \ncomo as emendas constitucionais.\n•\n⚡O Poder Constituinte Derivado Revisor é o referente ao artigo 3º do ADCT, este possui sua \neficácia exaurida.\n•\n•\nPoder Constituinte\nquarta-feira, 12 de agosto de 2026\n06:47\n\nPoder Constituinte\n\nquarta-feira, 12 de agosto de 2026 06:47\n\nPoder Constituinte Originario: Politico, inicial, incondicionado, permanente, aut6nomo;\n\nPoder Constituinte Derivado: Juridico, derivado, limitado, condicionado;\n\n* Divide-se em: Decorrente, Reformador e Revisor\n* ¥% O Poder Constituinte Derivado Decorrente é 0 referente a elaboracao das Constituicdes estaduais.\n\n* * O Poder Constituinte Derivado Reformador é 0 referente a modificacao da Constituigdes,\n\ncomo as emendas constitucionais.\n* * O Poder Constituinte Derivado Revisor é 0 referente ao artigo 3° do ADCT, este possui sua\n\neficdcia exaurida.\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Poder constituinte originário: político, inicial, incondicionado, permanente, autônomo."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Poder constituinte derivado: jurídico, derivado, limitado, condicionado."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Divide-se em decorrente, reformador e revisor."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O poder constituinte derivado decorrente é o referente à elaboração das constituições estaduais."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O poder constituinte derivado reformador é o referente à modificação da Constituição, como as emendas constitucionais."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O poder constituinte derivado revisor é o referente ao art. 3º do ADCT; este possui sua eficácia exaurida."
           }
         ]
       },
@@ -7408,17 +8074,64 @@
         "kind": "study-note",
         "topic": "Princípios fundamentais",
         "category": "Princípios fundamentais",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-principios-fundamentais.pdf",
-        "pdfPages": [
-          "assets/constitucional-principios-fundamentais-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Princípios Fundamentais\nFundamentos da república\n•\nSigla\nPrincípio\nSO\nSoberania\nCI\nCidadania\nDI\nDignidade da pessoa humana\nVA\nValores sociais do trabalho e da livre iniciativa\nPLU\nPluralismo político\nObjetivos da República >>> Verbos\n•\nArt. 3º Constituem objetivos fundamentais da República Federativa do Brasil:\nI - construir uma sociedade livre, justa e solidária;\nII - garantir o desenvolvimento nacional;\nIII - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais;\nIV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer \noutras formas de discriminação.\nPrincípios nas relações internacionais\n•\nArt. 4º A República Federativa do Brasil rege-se nas suas relações internacionais pelos \nseguintes princípios:\nI - independência nacional;\nII - prevalência dos direitos humanos;\nIII - autodeterminação dos povos;\nIV - não-intervenção;\nV - igualdade entre os Estados;\nVI - defesa da paz;\nVII - solução pacífica dos conflitos;\nVIII - repúdio ao terrorismo e ao racismo;\nIX - cooperação entre os povos para o progresso da humanidade;\nX - concessão de asilo político.\nParágrafo único. A República Federativa do Brasil buscará a integração econômica, política, \nsocial e cultural dos povos da América Latina, visando à formação de uma comunidade \nlatino-americana de nações.\nPrincipios fundamentais\nquarta-feira, 12 de agosto de 2026\n06:44\n\nPrinc\n\nquarta-fei\n\nipios fundamentais\n\nra, 12 de agosto de 2026 06:44\n\nPrincipios Fundamentais\n\n* Fundamentos da republica\n\nSigla Principio\nso Soberania\ncl Cidadania\nDI Dignidade da pessoa humana\nVA Valores sociais do trabalho e da livre iniciativa\nPLU Pluralismo politico\n\nObjetivos da Republica >>> Verbos\n\nArt. 32 Constituem objetivos fundamentais da Republica Federativa do Brasil:\n\n| - construir uma sociedade livre, justa e solidaria;\n\ngarantir o desenvolvimento nacional;\n\nIll - erradicar a pobreza e a marginalizacgdo e reduzir as desigualdades sociais e regionais;\n\nIV - promover o bem de todos, sem preconceitos de origem, raga, sexo, cor, idade e quaisquer\noutras formas de discriminacdo.\n\nPrincipios nas relagées internacionais\n\nArt. 42 A Republica Federativa do Brasil rege-se nas suas relag6es internacionais pelos\nseguintes principios:\n\n| - independéncia nacional;\n\nll - prevaléncia dos direitos humanos;\n\nIll - autodeterminacdo dos povos;\n\nIV - ndo-intervencgdo;\n\nV - igualdade entre os Estados;\n\nVI - defesa da paz;\n\nVII - solugdo pacifica dos conflitos;\n\nVIII - repudio ao terrorismo e ao racismo;\n\nIX - cooperacdo entre os povos para o progresso da humanidade;\nX - concessdo de asilo politico.\n\nParagrafo Unico. A Republica Federativa do Brasil buscara a integracdo econémica, politica,\nsocial e cultural dos povos da América Latina, visando a formagado de uma comunidade\nlatino-americana de nacées.\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Fundamentos da República (sigla e princípio):"
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Sigla",
+                "Princípio"
+              ],
+              [
+                "SO",
+                "Soberania"
+              ],
+              [
+                "CI",
+                "Cidadania"
+              ],
+              [
+                "DI",
+                "Dignidade da pessoa humana"
+              ],
+              [
+                "VA",
+                "Valores sociais do trabalho e da livre iniciativa"
+              ],
+              [
+                "PLU",
+                "Pluralismo político"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Objetivos da República (verbos): art. 3º constituem objetivos fundamentais da República Federativa do Brasil: I, construir uma sociedade livre, justa e solidária; II, garantir o desenvolvimento nacional; III, erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais; IV, promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Princípios nas relações internacionais: art. 4º. A República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios: I, independência nacional; II, prevalência dos direitos humanos; III, autodeterminação dos povos; IV, não-intervenção; V, igualdade entre os Estados; VI, defesa da paz; VII, solução pacífica dos conflitos; VIII, repúdio ao terrorismo e ao racismo; IX, cooperação entre os povos para o progresso da humanidade; X, concessão de asilo político."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Parágrafo único: a República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações."
           }
         ]
       },
@@ -7431,17 +8144,106 @@
         "kind": "study-note",
         "topic": "Remédios constitucionais",
         "category": "Direitos e garantias fundamentais",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-remedios.pdf",
-        "pdfPages": [
-          "assets/constitucional-remedios-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Remédios constitucionais\nquarta-feira, 12 de agosto de 2026\n07:02\n\nRemédios constitucionais\nquarta-feira, 12 de agosto de 2026 07:02\n\nTabela Comparativa: Remédios Constitucionais\nSto INSTRUMENTOS JURIDICOS que protegem os direitos fandamentais contra abusos on legalades,permitndo sua garantia via Peder Judicaria.\n\nMandedo de Seguranca\nSA nibinCanp Habeas Data Mates ‘Ago Popular\n6ttmnes Individval Coletivo bina co\n‘Anuar at lesiv 20\nee allies neces eenmenee TEE\nFinclidade Eoter retifcoyso de qunincte va\niverdededaLecomes3®  Intormacbes Petts dediitsconstiiceras. mec anbientee potrinni\nNAO AMPARADOS por fc Ov 1D Kitércoe cultura.\n«Pessoa fscasejuridcos. + Pardopeliis com\nQualquer petsoa ale\npropane 1 Universidedes reretentogson0 CN.\nLeoitimedos Ativos oconaiocerrangere, + Qvcqwer pesos cs\"reconeckoxporlelcoms + Organiogae Sind + cher penn io —\n(Quem pote tnpeart seman os | TN SeR cee | Enkteds neta oxbridea necionotOs | etcspettees\nBaseronicrs ‘S0 pode ser impetrado Sree \" ee baapeneied\nes + Algom érgtospittcoreo ” constiddveer fnconament\nBe loretonit nstriPubco, hspelo anes foro\nLe gieeten Entidades ‘Autoridodespitlicas.\neure pave + Poder publico susceceease + Autoridede que se eee\n= Geciaeer pests Geveroamentalk sPartievleres noerercicioda “** omitiv quanto 3 Lain i\n‘contra Quem Pibiccos rode «Bancoxe Dados — “Agente pico 8 ona emPreGoHoSPUbcose\npelea Pibicos ‘errbe ries Pome (emficirion dow nics\nNatureza Penat om cma cm cw ow\na Py\nInengtode Custos y e) x x SALVO me fe\n‘Assisténcia Juri NAOHA\nem coricmoniepape | — OBRIGATORIA OBRIGATORIA OBRIGATORIA OBRIGATORIA OBRIGATERIA\nrossive., rossive, rossive, rossivet,\n‘Medida Liminar com furnns ton jwise x com fumus bon jars @ com fuss boi juris @ x com fumnas bon juris\nrial now acrappel rie potclonit noe\n\nDilagde Probatérie Fr possivet x x possivet possivet\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Aspecto",
+                "Habeas corpus",
+                "Habeas data",
+                "MS individual",
+                "MS coletivo",
+                "Mandado de injunção",
+                "Ação popular"
+              ],
+              [
+                "Finalidade",
+                "Proteger a liberdade de locomoção",
+                "Garantir acesso e retificação de informações pessoais",
+                "Proteger direito líquido e certo",
+                "Proteger direitos coletivos ou individuais homogêneos",
+                "Suprir falta de norma que inviabilize o exercício de direitos constitucionais",
+                "Anular ato lesivo ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural"
+              ],
+              [
+                "Legitimados ativos",
+                "Qualquer pessoa física ou jurídica, nacional ou estrangeira; só pode ser impetrado a favor de pessoa natural",
+                "Qualquer pessoa física ou jurídica, nacional ou estrangeira",
+                "Pessoas físicas e jurídicas; universidades reconhecidas por lei; alguns órgãos públicos e o Ministério Público",
+                "Partido político com representação no CN; organização sindical; entidade de classe; associação legalmente constituída e em funcionamento há pelo menos 1 ano",
+                "Qualquer pessoa física ou jurídica, nacional ou estrangeira",
+                "Cidadãos no gozo de seus direitos políticos"
+              ],
+              [
+                "Legitimados passivos",
+                "Qualquer pessoa pública ou privada",
+                "Entidades governamentais; bancos de dados públicos",
+                "Poder público; particulares no exercício da função pública",
+                "Autoridade pública; agente público",
+                "Autoridade que se omitiu quanto à proposição de norma",
+                "Autoridades públicas, administradores, servidores, empregados públicos e beneficiários do ato lesivo"
+              ],
+              [
+                "Natureza",
+                "Penal",
+                "Civil",
+                "Civil",
+                "Civil",
+                "Civil",
+                "Civil"
+              ],
+              [
+                "Isenção de custas",
+                "Sim",
+                "Sim",
+                "Não",
+                "Não",
+                "Não",
+                "Sim, salvo má-fé"
+              ],
+              [
+                "Assistência jurídica",
+                "Não há obrigatoriedade",
+                "Obrigatória",
+                "Obrigatória",
+                "Obrigatória",
+                "Obrigatória",
+                "Obrigatória"
+              ],
+              [
+                "Medida liminar",
+                "Possível, com fumus boni juris e periculum in mora",
+                "Não",
+                "Possível, com fumus boni juris e periculum in mora",
+                "Possível, com fumus boni juris e periculum in mora",
+                "Não",
+                "Possível, com fumus boni juris e periculum in mora"
+              ],
+              [
+                "Dilação probatória",
+                "Não",
+                "Possível",
+                "Não",
+                "Não",
+                "Possível",
+                "Possível"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Não amparados por HC ou HD: o mandado de segurança não serve para proteger direitos amparados por habeas corpus ou habeas data."
           }
         ]
       },
@@ -7454,17 +8256,60 @@
         "kind": "study-note",
         "topic": "Sentidos da Constituição",
         "category": "Teoria da Constituição",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-sentidos-constituicao.pdf",
-        "pdfPages": [
-          "assets/constitucional-sentidos-constituicao-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "📖Sentido Sociológico (Ferdinand Lassalle)\nA Constituição é um fato social, não apenas um texto jurídico.\n•\nImporta o que a Constituição “realmente é” na prática, e não como foi criada.\n•\nExistem duas Constituições:\n•\nReal/Efetiva: Reflete a soma dos fatores reais de poder (econômicos, sociais, políticos, religiosos).\n•\nEscrita (jurídica): Pode ser apenas uma “folha de papel” se não representar a realidade social.\n•\nSó haverá eficácia e estabilidade se a Constituição escrita corresponder aos fatores reais de poder.\n•\n🏛 SenOdo PolíOco (Carl SchmiP)\nA Constituição é decisão política fundamental, fruto da vontade do povo (poder constituinte).\n•\nNão importa se a Constituição reflete ou não a realidade social — o que vale é a decisão do titular do \npoder constituinte.\n•\nDistingue-se:\n•\nConstituição: Trata de matérias essenciais (ex.: organização do Estado).\n•\nLeis constitucionais: Normas de menor relevância, ainda que inseridas no texto constitucional.\n•\nTeoria considerada decisionista/voluntarista.\n•\n⚖ SenOdo Jurídico (Hans Kelsen)\nA Constituição é norma jurídica pura, sem ligação com aspectos sociais ou políticos.\n•\nÉ a norma superior e fundamental que organiza o Estado e limita seu poder.\n•\nO ordenamento jurídico possui hierarquia de normas:\n•\nEx.: Decreto → Lei Ordinária → Constituição.\n•\nA Constituição fundamenta-se numa:\n•\nNorma hipotética fundamental (lógico-jurídico): Uma ordem abstrata (“Obedeça-se à constituição!”).\n•\nNorma positiva suprema (jurídico-positivo): Texto formal que regula a criação das demais normas (no \nBrasil, a CF/88).\n•\nToda norma retira sua validade de uma norma superior.\n•\nSentidos da Constituição\nquarta-feira, 12 de agosto de 2026\n06:40\n\nSentidos da Constitui¢do\n\nquarta-feira, 12 de agosto de 2026 06:40\n\nLU sentido Socioldgico (Ferdinand Lassalle)\n\nA Constituigao é um fato social, ndo apenas um texto juridico.\n\nImporta o que a Constituicdo “realmente é” na pratica, e ndo como foi criada.\n\nExistem duas Constituic¢ées:\n\nReal/Efetiva: Reflete a soma dos fatores reais de poder (econdmicos, sociais, politicos, religiosos).\nEscrita (juridica): Pode ser apenas uma “folha de papel” se nao representar a realidade social.\n\nS6 havera eficacia e estabilidade se a Constituicdo escrita corresponder aos fatores reais de poder.\n1M Sentido Politico (Carl Schmitt)\n\nA Constituigao é decisdo politica fundamental, fruto da vontade do povo (poder constituinte).\n\nNao importa se a Constituigao reflete ou nao a realidade social — o que vale é a decisdo do titular do\npoder constituinte.\n\nDistingue-se:\n\nConstituigao: Trata de matérias essenciais (ex.: organiza¢do do Estado).\n\nLeis constitucionais: Normas de menor relevancia, ainda que inseridas no texto constitucional.\nTeoria considerada decisionista/voluntarista.\n\n<£ Sentido Juridico (Hans Kelsen)\n\nA Constituigao é norma juridica pura, sem ligacdo com aspectos sociais ou politicos.\n\nE a norma superior e fundamental que organiza o Estado e limita seu poder.\n\nO ordenamento juridico possui hierarquia de normas:\n\nEx.: Decreto > Lei Ordinaria > Constituigao.\n\nA Constituigao fundamenta-se numa:\n\nNorma hipotética fundamental (légico-juridico): Uma ordem abstrata (“Obedega-se a constituigao!”).\nNorma positiva suprema (juridico-positivo): Texto formal que regula a criagdo das demais normas (no\nBrasil, a CF/88).\n\nToda norma retira sua validade de uma norma superior.\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Sentido sociológico (Ferdinand Lassalle): a Constituição é um fato social, não apenas um texto jurídico. Importa o que a Constituição \"realmente é\" na prática, e não como foi criada."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Existem duas Constituições. Real/efetiva: reflete a soma dos fatores reais de poder (econômicos, sociais, políticos, religiosos). Escrita (jurídica): pode ser apenas uma \"folha de papel\" se não representar a realidade social."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Só haverá eficácia e estabilidade se a Constituição escrita corresponder aos fatores reais de poder."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Sentido político (Carl Schmitt): a Constituição é decisão política fundamental, fruto da vontade do povo (poder constituinte). Não importa se a Constituição reflete ou não a realidade social: o que vale é a decisão do titular do poder constituinte."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Distingue-se: Constituição, que trata de matérias essenciais (ex.: organização do Estado); leis constitucionais, que são normas de menor relevância, ainda que inseridas no texto constitucional."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Teoria considerada decisionista/voluntarista."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Sentido jurídico (Hans Kelsen): a Constituição é norma jurídica pura, sem ligação com aspectos sociais ou políticos. É a norma superior e fundamental que organiza o Estado e limita seu poder."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O ordenamento jurídico possui hierarquia de normas. Ex.: decreto → lei ordinária → Constituição. Toda norma retira sua validade de uma norma superior."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "A Constituição fundamenta-se numa norma hipotética fundamental (lógico-jurídico): uma ordem abstrata (\"obedeça-se à Constituição!\"), e numa norma positiva suprema (jurídico-positivo): texto formal que regula a criação das demais normas (no Brasil, a CF/88)."
           }
         ]
       },
@@ -7477,17 +8322,25 @@
         "kind": "study-note",
         "topic": "Teorias interna e externa dos direitos fundamentais",
         "category": "Direitos e garantias fundamentais",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/constitucional-teorias-direitos-fundamentais.pdf",
-        "pdfPages": [
-          "assets/constitucional-teorias-direitos-fundamentais-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "A teoria interna entende que os direitos fundamentais já possuem limites internos, chamados limites \nimanentes, que fazem parte do próprio conteúdo do direito. Dessa forma, não ocorre uma \nverdadeira colisão entre direitos, pois cada um está delimitado dentro do seu núcleo essencial e não \nse expande além disso.\nJá a teoria externa defende que os direitos fundamentais são amplos e expansíveis, e as restrições \nsurgem quando eles entram em conflito com outros direitos ou valores constitucionais. Nessa \nsituação, é necessária a técnica da ponderação para resolver a colisão, equilibrando os interesses em \njogo.\nTeoria interna e externa\nquarta-feira, 12 de agosto de 2026\n09:03\n\nTeoria interna e externa\nquarta-feira, 12 de agosto de 2026 09:03\n\nAteoria interna entende que os direitos fundamentais ja a” limites\nimanentes, que fazem parte do proprio contetdo do direito. Dessa forma,\n\nverdadeira colisdo entre direitos, pois cada um esta delimitado dentro do seu nucleo essencial e nao\nse expande além disso.\n\n4 a teoria efende que os direitos fundamentais séo eas restricdes\nJaat fend direitos fund It t\n\nsurgem quando eles entram em conflito com outros direitos ou valores constitucionais. Nessa\n\nsituacdo, é necessaria a técnica da ponderacao para resolver a colisdo, equilibrando os interesses em\n\njogo.\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "A teoria interna entende que os direitos fundamentais já possuem limites internos, chamados limites imanentes, que fazem parte do próprio conteúdo do direito. Dessa forma, não ocorre uma verdadeira colisão entre direitos, pois cada um está delimitado dentro do seu núcleo essencial e não se expande além disso."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Já a teoria externa defende que os direitos fundamentais são amplos e expansíveis, e as restrições surgem quando eles entram em conflito com outros direitos ou valores constitucionais. Nessa situação, é necessária a técnica da ponderação para resolver a colisão, equilibrando os interesses em jogo."
           }
         ]
       },
@@ -7500,17 +8353,33 @@
         "kind": "study-note",
         "topic": "Anexos de metas e riscos fiscais",
         "category": "Lei de Responsabilidade Fiscal",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-anexos-metas-riscos.pdf",
-        "pdfPages": [
-          "assets/afo-anexos-metas-riscos-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Anexo de metas fiscais\nAnexo de riscos fiscais\nMetas anuais\nPassivos contingentes\nValores correntes e constantes\nReceitas\nDespesas\nResultado nominal e primário\nMontante da dívida pública\nRiscos capazes de afetar as contas públicas\nExercício a que se referirem e para os dois seguintes\nANEXO DE METAS E RISCOS FISCAIS\nquarta-feira, 16 de setembro de 2026\n06:03\n\nANEXO DE METAS E RISCOS FISCAIS\n\nquarta-feira, 16 de setembro de 2026\n\n06:03\n\nAnexo de metas fiscais\n\nAnexo de riscos fiscais\n\nMetas anuais\n\nPassivos contingentes\n\nValores correntes e constantes\n\nReceitas\nDespesas\nResultado nominal e primario\nMontante da divida publica\n\nRiscos capazes de afetar as contas publicas\n\nExercicio a que se referirem e para os dois seguintes\n\nreceitas\nhi emnasionnontil\ndepesas\nCc >) ———————————\n_| Metas anuais para 2/exercicios resultado nominal\nL J\nc r >) resultado primario\n= |_| avaliacao das metas do ano.\n< anterior montante da divida\n~ \\ 4 *\n& | 1 comussnenetsiluisnteriones\nun \\ J\n8 wie , (=e)\nregime geral de\na a __previdéncia social\n= ee\no . ? Tegime proprio dos\na] . . ue\n2 | | avaliacdo da situacdoxfinaceirare)|_| setwidores:publicos_)\ng atuarial\ng \\\n‘renuncias de receitas e expansao\n— das despesas obrigatorias outros fundos e\nL continuadas pee\n\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Anexo de metas fiscais",
+                "Anexo de riscos fiscais"
+              ],
+              [
+                "Metas anuais; valores correntes e constantes; receitas, despesas, resultado nominal e primário, montante da dívida pública; exercício a que se referirem e para os dois seguintes",
+                "Passivos contingentes; riscos capazes de afetar as contas públicas"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Anexo de Metas Fiscais (AMF): metas anuais para 2 exercícios seguintes (receitas, despesas, resultado nominal, resultado primário, montante da dívida pública); avaliação das metas do ano anterior; comparação das metas anuais com os 3 exercícios anteriores; patrimônio líquido dos 3 últimos exercícios; avaliação da situação financeira e atuarial (regime geral de previdência social, regime próprio dos servidores públicos, fundo de amparo ao trabalhador (FAT), outros fundos e programas); renúncias de receitas e expansão das despesas obrigatórias continuadas."
           }
         ]
       },
@@ -7523,17 +8392,50 @@
         "kind": "study-note",
         "topic": "Classificação da despesa orçamentária",
         "category": "Despesa e Dívida Pública",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-despesa.pdf",
-        "pdfPages": [
-          "assets/afo-despesa-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Despesa\nsábado, 5 de setembro de 2026\n11:18\n\nDespesa\n\nsabado, 5 de setembro de 2026 11:18\n\nCLASSIFICACAO DA DESPESA ORGAMENTAR A\nS DE C\nfee ES\n\n\\\n1\n\\\ni\n‘YDespesas de Custeio ¢ Transferéncias Correntes (| Lnwestimentos (  )inversdes Financeiras (\nA Pessoa Civil o& Subvengdes Sociais | GPE Obras Pabiicas 4} Aquisigdo de Iméveis, Aaitincas 3\nmmortizacéio da\nii Ses Econdmi 4) Servicos em Regime (==) Participacdo em Divida Pablica\nGS Pessoal Militar © Subvencées Econémicas Seogramarse fic rates Fume\nG Woteial de Consumo $B natives eee ou Enidades Coners'* @ Obras Puotcas\n\" Equi te ciais ou Financeiras\n© Servicos de Terceiros _ @ Pensionistas 1 a Tansee * FB huss pra\n\\ Aquisigo de Titulos Equipamentos e\nBD Encargos Diversos Solio Fama eAbono | =] Moteril Prmanente = Reorsetats de Instalagoes\nFamiliar\n(ee em Funcionamento Auxilios para\nFARE Jaros da Divida Poblica 1 gal Constanze ou\" ae ® inversses\nfl Aumento de Copital Eady! rd Financeiras\nContribuigdes de | de Empresas ou undos Rotativos ae\nPrevidéncia Social ag citiateet agp Concesso de fit Contrbuigdes\n(D> Diversas Tronsferéncias | Ageolas Tighe\nCorrentes ' Diversas Inversdes\n\\\n\nFinanceiras\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Despesas correntes."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Despesas de custeio: pessoal civil; pessoal militar; material de consumo; serviços de terceiros; encargos diversos."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Transferências correntes: subvenções sociais; subvenções econômicas; inativos; pensionistas; salário família e abono familiar; juros da dívida pública; contribuições de previdência social; diversas transferências correntes."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Despesas de capital."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Investimentos: obras públicas; serviços em regime de programação especial; equipamentos e instalações; material permanente; participação em constituição ou aumento de capital de empresas ou entidades industriais ou agrícolas."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Inversões financeiras: aquisição de imóveis; participação em constituição ou aumento de capital de empresas ou entidades comerciais ou financeiras; aquisição de títulos representativos de capital de empresas em funcionamento; constituição de fundos rotativos; concessão de empréstimos; diversas inversões financeiras."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Transferências de capital: amortização da dívida pública; auxílios para obras públicas; auxílios para equipamentos e instalações; auxílios para inversões financeiras; outras contribuições."
           }
         ]
       },
@@ -7546,17 +8448,30 @@
         "kind": "study-note",
         "topic": "Dívida fundada e dívida flutuante",
         "category": "Despesa e Dívida Pública",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-divida-flutuante.pdf",
-        "pdfPages": [
-          "assets/afo-divida-flutuante-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Os débitos de tesouraria fazem parte da dívida flutuante, além disto, a dívida fundada compreende os \ncompromissos de exigibilidade superior a doze meses, conforme Lei 4.320/64:\nArt. 92. A dívida flutuante compreende:\nI - os restos a pagar, excluídos os serviços da dívida;\nII - os serviços da dívida a pagar;\nIII - os depósitos;\nIV - os débitos de tesouraria.\nArt. 98. A divida fundada compreende os compromissos de exigibilidade superior a doze meses, \ncontraídos para atender a desequilíbrio orçamentário ou a financeiro de obras e serviços públicos.  \nDivida flutuante\nsábado, 5 de setembro de 2026\n11:11\n\nDivida flutuante\n\nsdbado, 5 de setembro de 2026 11:11\n\nOs débitos de tesouraria fazem parte da divida flutuante, além disto, a divida fundada compreende os\ncompromissos de exigibilidade superior a doze meses, conforme Lei 4.320/64:\n\nArt. 92. A divida flutuante compreende:\n\n| - os restos a pagar, excluidos os servicos da divida;\nIl - os servigos da divida a pagar;\n\nIll - os depositos;\n\nIV - os débitos de tesouraria.\n\nArt. 98. A divida fundada compreende os compromissos de exigibilidade superior a doze meses,\ncontraidos para atender a desequilibrio orgamentario ou a financeiro de obras e servi¢os publicos.\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Os débitos de tesouraria fazem parte da dívida flutuante; além disso, a dívida fundada compreende os compromissos de exigibilidade superior a doze meses, conforme Lei 4.320/64."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 92. A dívida flutuante compreende: I, os restos a pagar, excluídos os serviços da dívida; II, os serviços da dívida a pagar; III, os depósitos; IV, os débitos de tesouraria."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 98. A dívida fundada compreende os compromissos de exigibilidade superior a doze meses, contraídos para atender a desequilíbrio orçamentário ou o financeiro de obras e serviços públicos."
           }
         ]
       },
@@ -7569,17 +8484,35 @@
         "kind": "study-note",
         "topic": "Princípio da especificação",
         "category": "Orçamento Público",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-especificacao.pdf",
-        "pdfPages": [
-          "assets/afo-especificacao-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "O princípio da especificação está estabelecido na Lei nº 4.320/64 e chamamos sua atenção\npara o Art. 15:\nArt. 15. Na Lei de Orçamento a discriminação da despesa far-se-á no mínimo por\nelementos.\nNão é suficiente dominar o entendimento desse princípio à luz da Lei 4.320/64; mas\ntambém a aplicação dele pela portaria STN e SOF 163/2001:\nArt. 6° Na lei orçamentária, a discriminação da despesa, quanto à sua natureza , far-se-á,\nno mínimo , por categoria econômica, grupo de natureza de despesa e modalidade de\naplicação.\nespecificação\nsexta-feira, 14 de agosto de 2026\n15:54\n\nespecificacdo\n\nsexta-feira, 14 de agosto de 2026 15:54\n\nO principio da especificagao esta estabelecido na Lei n° 4.320/64 e chamamos sua atengao\npara o Art. 15:\nArt. 15. Na Lei de Orgamento a discriminagao da despesa far-se-4 no minimo por\nelementos.\n\nNao é suficiente dominar o entendimento desse principio a luz da Lei 4.320/64; mas\ntambém a aplicagao dele pela portaria STN e SOF 163/2001:\n\nArt. 6° Na lei orgamentaria, a discriminacao da despesa, quanto & sua natureza , far-se-a,\nNo minimo , por categoria econdmica, grupo de natureza de despesa e modalidade de\naplicagao.\n\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O princípio da especificação está estabelecido na Lei nº 4.320/64; chamamos sua atenção para o art. 15."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 15. Na Lei de Orçamento, a discriminação da despesa far-se-á no mínimo por elementos."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Não é suficiente dominar o entendimento desse princípio à luz da Lei 4.320/64; também a aplicação dele pela Portaria STN e SOF 163/2001."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 6º. Na lei orçamentária, a discriminação da despesa, quanto à sua natureza, far-se-á, no mínimo, por categoria econômica, grupo de natureza de despesa e modalidade de aplicação."
           }
         ]
       },
@@ -7592,17 +8525,40 @@
         "kind": "study-note",
         "topic": "Estágios da receita pública",
         "category": "Receita Pública",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-estagios-receita.pdf",
-        "pdfPages": [
-          "assets/afo-estagios-receita-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "RECEITA\nPrevisão - : Quanto se está previsto arrecadar - ÚNICA FASE DE PLANEJAMENTO\nLançamento - O lançamento da receita é ato da repartição competente, que verifica a procedência \ndo crédito fiscal e a pessoa que lhe é devedora e inscreve o débito desta. \nArrecadação – É quando o devedor entrega o dinheiro no banco, basicamente. \nRecolhimento - É o procedimento de transferência do valor arrecadado à conta especifica do tesouro\nEstágio das receitas\nsábado, 5 de setembro de 2026\n11:49\n\nEstagio das receitas\n\nsdbado, 5 de setembro de 2026 11:49\n\nPrevisdo - : Quanto se esta previsto arrecadar - UNICA FASE DE PLANEJAMENTO.\n\nLangamento - O langamento da receita é ato da reparti¢do competente, que verifica a procedéncia\ndo crédito fiscal e a pessoa que lhe é devedora e inscreve o débito desta.\n\nArrecadacao — E quando o devedor entrega o dinheiro no banco, basicamente.\n\nRecolhimento - E o procedimento de transferéncia do valor arrecadado a conta especifica do tesouro\n\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Estágio",
+                "Descrição"
+              ],
+              [
+                "Previsão",
+                "Quanto se está previsto arrecadar. Única fase de planejamento."
+              ],
+              [
+                "Lançamento",
+                "Ato da repartição competente, que verifica a procedência do crédito fiscal e a pessoa que lhe é devedora, e inscreve o débito desta."
+              ],
+              [
+                "Arrecadação",
+                "Quando o devedor entrega o dinheiro no banco, basicamente."
+              ],
+              [
+                "Recolhimento",
+                "Procedimento de transferência do valor arrecadado à conta específica do Tesouro."
+              ]
+            ]
           }
         ]
       },
@@ -7615,17 +8571,85 @@
         "kind": "study-note",
         "topic": "Fundos especiais",
         "category": "Orçamento Público",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-fundos-especiais.pdf",
-        "pdfPages": [
-          "assets/afo-fundos-especiais-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Dinâmica do Saldo Positivo / Princípio da Anualidade (Art. 73).\nRegra Geral: O saldo positivo apurado no balanço do fundo não é extinto e nem volta para o \ncaixa geral (comum) do Tesouro. Ele é transferido para o exercício seguinte, a crédito do \nmesmo fundo.\n•\nExceção: Isso só não acontecerá se a própria lei que criou o fundo dispuser o contrário (ou \nseja, se a lei de criação disser que o saldo remanescente será revertido para o Tesouro ao \nfinal do ano).\n•\nMitigação do Princípio da Anualidade: Essa transferência automática mitiga o princípio da \nanualidade estrita sob o aspecto financeiro, garantindo que recursos carimbados para \nfinalidades específicas (como fundos de saúde, segurança ou educação) continuem vinculados \nao seu propósito original.\n•\nControle e Fiscalização (Art. 74)\nAutonomia de Gestão: A lei que institui o fundo pode criar regras específicas de prestação, \ncontrole e tomada de contas.\n•\nLimite Inviolável: Essas regras peculiares nunca podem anular ou afastar a competência \nconstitucional de fiscalização do Tribunal de Contas (ou órgão equivalente). O controle \nexterno permanece pleno.\n•\nPrincipais Conceitos dos Fundos Especiais\nAspecto\nRegra Legal (Lei 4.320/64)\nFoco para Provas / Pegadinhas\nCriação\nSempre por Lei (Princípio da Reserva Legal). Decretos não criam fundos especiais.\nExecução\nExige Dotação Orçamentária (Art. 72).\nTer dinheiro em caixa não dispensa a necessidade \nde crédito orçamentário.\nSobra de \nCaixa\nTransfere-se para o ano seguinte a crédito \ndo próprio fundo (Art. 73).\nO saldo não é cancelado e não perde a vinculação, \nsalvo se a lei de criação mandar.\nControle\nNormas próprias são permitidas, mas sem \nexcluir o Tribunal de Contas (Art. 74).\nBancas costumam dizer que normas peculiares \n\"substituem\" a fiscalização do Tribunal de Contas.\n0\nFundos especiais\nsexta-feira, 14 de agosto de 2026\n19:20\n\nFundos especiais\n\nsexta-feira, 14 de agosto de 2026 19:20\n\nDinamica do Saldo Positivo / Principio da Anualidade (Art. 73).\nRegra Geral: O saldo positivo apurado no balango do fundo nao é extinto e nem volta para o\ncaixa geral (comum) do Tesouro. Ele é transferido para o exercicio seguinte, a crédito do\nmesmo fundo.\nExcegdo: Isso s6 nao acontecera se a prépria lei que criou o fundo dispuser o contrario (ou\nseja, se a lei de criagdo disser que 0 saldo remanescente sera revertido para o Tesouro ao\nfinal do ano).\nMitigacao do Principio da Anualidade: Essa transferéncia automatica mitiga o principio da\nanualidade estrita sob o aspecto financeiro, garantindo que recursos carimbados para\nfinalidades especificas (como fundos de satide, seguranca ou educa¢ao) continuem vinculados\nao seu proposito original.\nControle e Fiscalizagao (Art. 74)\nAutonomia de Gestao: A lei que institui o fundo pode criar regras especificas de prestacdo,\ncontrole e tomada de contas.\nLimite Inviolavel: Essas regras peculiares nunca podem anular ou afastar a competéncia\nconstitucional de fiscalizagdo do Tribunal de Contas (ou orgdo equivalente). O controle\nexterno permanece pleno.\nPrincipais Conceitos dos Fundos Especiais\n\nAspecto Regra Legal (Lei 4.320/64) Foco para Provas / Pegadinhas\nCriagado Sempre por Lei (Principio da Reserva Legal). Decretos nao criam fundos especiais.\nExecugao | Exige Dotagao Orgamentaria (Art. 72). Ter dinheiro em caixa nao dispensa a necessidade\n\nde crédito orgamentario.\n\nSobrade _Transfere-se para o ano seguinte a crédito | O saldo nao é cancelado e nao perde a vinculacao,\nCaixa do préprio fundo (Art. 73). salvo se a lei de cria¢éo mandar.\n\nControle Normas proprias sao permitidas, mas sem | Bancas costumam dizer que normas peculiares\nexcluir o Tribunal de Contas (Art. 74). \"substituem\" a fiscalizagdo do Tribunal de Contas.\n\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Dinâmica do saldo positivo / princípio da anualidade (art. 73)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Regra geral: o saldo positivo apurado no balanço do fundo não é extinto e nem volta para o caixa geral (comum) do Tesouro. Ele é transferido para o exercício seguinte, a crédito do mesmo fundo."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Exceção: isso só não acontecerá se a própria lei que criou o fundo dispuser o contrário (ou seja, se a lei de criação disser que o saldo remanescente será revertido para o Tesouro ao final do ano)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Mitigação do princípio da anualidade: essa transferência automática mitiga o princípio da anualidade estrita sob o aspecto financeiro, garantindo que recursos carimbados para finalidades específicas (como fundos de saúde, segurança ou educação) continuem vinculados ao seu propósito original."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Controle e fiscalização (art. 74)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Autonomia de gestão: a lei que institui o fundo pode criar regras específicas de prestação, controle e tomada de contas."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Limite inviolável: essas regras peculiares nunca podem anular ou afastar a competência constitucional de fiscalização do Tribunal de Contas (ou órgão equivalente). O controle externo permanece pleno."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Principais conceitos dos fundos especiais:"
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Aspecto",
+                "Regra legal (Lei 4.320/64)",
+                "Foco para provas / pegadinhas"
+              ],
+              [
+                "Criação",
+                "Sempre por lei (princípio da reserva legal)",
+                "Decretos não criam fundos especiais"
+              ],
+              [
+                "Execução",
+                "Exige dotação orçamentária (art. 72)",
+                "Ter dinheiro em caixa não dispensa a necessidade de crédito orçamentário"
+              ],
+              [
+                "Sobra de caixa",
+                "Transfere-se para o ano seguinte a crédito do próprio fundo (art. 73)",
+                "O saldo não é cancelado e não perde a vinculação, salvo se a lei de criação mandar"
+              ],
+              [
+                "Controle",
+                "Normas próprias são permitidas, mas sem excluir o Tribunal de Contas (art. 74)",
+                "Bancas costumam dizer que normas peculiares \"substituem\" a fiscalização do Tribunal de Contas"
+              ]
+            ]
           }
         ]
       },
@@ -7638,17 +8662,56 @@
         "kind": "study-note",
         "topic": "Não vinculação dos impostos",
         "category": "Orçamento Público",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-nao-vinculacao.pdf",
-        "pdfPages": [
-          "assets/afo-nao-vinculacao-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "EXCEÇÕES DO PRINCÍPIO DA NÃO AFETAÇÃO DAS RECEITA DE IMPOSTOS\nRepartição constitucional do produto da arrecadação dos impostos\nDestinação de recursos para manutenção e desenvolvimento do ensino\nDestinação de recursos para as ações e serviços públicos de saúde\nDestinação de recursos para a realização de atividade da administração tributária\nPrestação de garantias às operações de crédito por antecipação de receita (ARO)\nPrestação de garantia ou contragarantia à União e pagamento de débitos para com esta\nR - Repartição\nE - Ensino\nS - Saúde\nA - Administração Tributária\nGA - Garantia às ARO\nGA - Garantia ou contragarantia à União\n🎯Estados, Distrito Federal e Municípios podem vincular a arrecadação do IBS para pagamento de débitos com a União e \npara prestar-lhe garantia ou contragarantia.\nMenos recorrentes em provas:\nVinculação de verbas federais, estaduais e municipais a Fundos de Combate e Erradicação da Pobreza \n•\nVinculação de verbas estaduais a entidades públicas de fomento ao ensino e à pesquisa científica tecnológica \n•\nVinculação de verbas estaduais a programas de apoio à inclusão e promoção social, até cinco décimos por cento\nde sua receita tributária líquida;\n•\nVinculação de verbas estaduais a fundo estadual de fomento à cultura, até cinco décimos por cento de sua \nreceita tributária líquida, para fins de financiar programas e projetos culturais. \n•\nNão vinculação dos impostos\nsexta-feira, 14 de agosto de 2026\n15:55\n\nNao vinculagdo dos impostos\n\nsexta-feira, 14 de agosto de 2026 15:55\n\nEXCECOES DO PRINC/PIO DA NAO AFETACAO DAS RECEITA DE IMPOSTOS\n\nReparti¢do constitucional do produto da arrecada¢ao dos impostos\n\nDestina¢ao de recursos para manutencao e desenvolvimento do ensino\n\nDestinagao de recursos para as a¢Ges e servicos ptiblicos de sauide\n\nDestinagdo de recursos para a realizagao de atividade da administracdo tributaria\n\nPrestacdo de garantias as operacées de crédito por antecipagao de receita (ARO)\n\nPrestagdo de garantia ou contragarantia a Unido e pagamento de débitos para com esta\n\nR - Repartigao\n\nE-Ensino\n\nS- Sade\n\nA- Administracao Tributaria\n\nGA - Garantia as ARO\n\nGA - Garantia ou contragarantia a Unido\n\n@ Estados, Distrito Federal e Municipios podem vincular a arrecadacgao do IBS para pagamento de débitos com a Unido e\npara prestar-lhe garantia ou contragarantia.\n\nMenos recorrentes em provas:\n\n* Vinculagao de verbas federais, estaduais e municipais a Fundos de Combate e Erradicagao da Pobreza\n* Vinculacgao de verbas estaduais a entidades publicas de fomento ao ensino e a pesquisa cientifica tecnolégica\n* Vinculacgao de verbas estaduais a programas de apoio a inclusao e promocao social, até cinco décimos por cento\n\nde sua receita tributaria liquida;\n* Vinculagao de verbas estaduais a fundo estadual de fomento a cultura, até cinco décimos por cento de sua\nreceita tributaria liquida, para fins de financiar programas e projetos culturais.\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Exceções do princípio da não afetação das receitas de impostos"
+              ],
+              [
+                "Repartição constitucional do produto da arrecadação dos impostos"
+              ],
+              [
+                "Destinação de recursos para manutenção e desenvolvimento do ensino"
+              ],
+              [
+                "Destinação de recursos para as ações e serviços públicos de saúde"
+              ],
+              [
+                "Destinação de recursos para a realização de atividade da administração tributária"
+              ],
+              [
+                "Prestação de garantias às operações de crédito por antecipação de receita (ARO)"
+              ],
+              [
+                "Prestação de garantia ou contragarantia à União e pagamento de débitos para com esta"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Legenda: R, repartição; E, ensino; S, saúde; A, administração tributária; GA, garantia às ARO; GA, garantia ou contragarantia à União."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Estados, Distrito Federal e Municípios podem vincular a arrecadação do IBS para pagamento de débitos com a União e para prestar-lhe garantia ou contragarantia."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Menos recorrentes em provas: vinculação de verbas federais, estaduais e municipais a Fundos de Combate e Erradicação da Pobreza; vinculação de verbas estaduais a entidades públicas de fomento ao ensino e à pesquisa científica tecnológica; vinculação de verbas estaduais a programas de apoio à inclusão e promoção social, até cinco décimos por cento de sua receita tributária líquida; vinculação de verbas estaduais a fundo estadual de fomento à cultura, até cinco décimos por cento de sua receita tributária líquida, para fins de financiar programas e projetos culturais."
           }
         ]
       },
@@ -7661,17 +8724,71 @@
         "kind": "study-note",
         "topic": "Natureza da receita",
         "category": "Receita Pública",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-natureza-receita.pdf",
-        "pdfPages": [
-          "assets/afo-natureza-receita-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "São exemplos de ingressos extraorçamentários: os depósitos em caução, as fianças, as\noperações de crédito por antecipação de receita orçamentária (ARO), a emissão de \nmoeda, e outras entradas compensatórias no ativo e passivo financeiros.\nDispêndio extraorçamentário é aquele que não consta na lei orçamentária anual, \ncompreendendo determinadas saídas de numerários decorrentes de depósitos, \npagamentos de restos a pagar, resgate de operações de crédito por antecipação de \nreceita e recursos transitórios.\nEm sentido amplo, os ingressos de recursos financeiros nos cofres do Estado \ndenominam-se receitas públicas, registradas como receitas orçamentárias, quando \nrepresentam disponibilidades de recursos financeiros para o erário, ou ingressos \nextraorçamentários, quando representam apenas entradas compensatórias.\nCorrente (podemos utilizar o mnemônico: TRIBUTA CON \nPAIS)\nCapital (Podemos utilizar o mnemônico \nOPERA ALI AMOR)\nContribuições de melhoria, Impostos, Taxas (Tributos)\nOPERAções de crédito\nCONtribuições (muita atenção, para não confundir com \ncontribuição de melhoria!)\nALIenações de bens\nPatrimonial\nAMORtização de empréstimos\nAgropecuária\nTransferências de capital\nIndustrial\nOutras receitas de capital\nServiços\nTransferências Correntes\nOutras receitas Correntes\nNatureza da receita\nsábado, 5 de setembro de 2026\n10:41\n\nNatureza da receita\n\nsdbado, 5 de setembro de 2026 10:41\n\nSao exemplos de ingressos extraorgamentarios: os depdsitos em caugao, as fiangas, as\noperagées de crédito por antecipa¢dao de receita orgamentdria (ARO), a emissGo de\nmoeda, e outras entradas compensatorias no ativo e passivo financeiros.\n\nDispéndio extraorg¢amentario é aquele que nao consta na lei or¢amentdria anual,\ncompreendendo determinadas saidas de numerarios decorrentes de depositos,\npagamentos de restos a pagar, resgate de operacées de crédito por antecipa¢do de\nreceita e recursos transitorios.\n\nEm sentido amplo, os ingressos de recursos financeiros nos cofres do Estado\ndenominam-se receitas publicas, registradas como receitas orgamentarias, quando\nrepresentam disponibilidades de recursos financeiros para o erdrio, ou ingressos\nextraor¢amentarios, quando representam apenas entradas compensatorias.\n\nCorrente (podemos utilizar o mneménico: TRIBUTA CON | Capital (Podemos utilizar o mneménico\nPAIS) OPERA ALI AMOR)\n\nContribuigdes de melhoria, Impostos, Taxas (Tributos) OPERAc6es de crédito\n\nCONtribuicgdes (muita aten¢do, para ndo confundir com ALlenacdes de bens\ncontribuigdo de melhoria!)\n\nPatrimonial AMORtizacao de empréstimos\nAgropecuaria Transferéncias de capital\nIndustrial Outras receitas de capital\nServicgos\n\nTransferéncias Correntes\n\nOutras receitas Correntes\n\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "São exemplos de ingressos extraorçamentários: os depósitos em caução, as fianças, as operações de crédito por antecipação de receita orçamentária (ARO), a emissão de moeda, e outras entradas compensatórias no ativo e passivo financeiros."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Dispêndio extraorçamentário é aquele que não consta na lei orçamentária anual, compreendendo determinadas saídas de numerários decorrentes de depósitos, pagamentos de restos a pagar, resgate de operações de crédito por antecipação de receita e recursos transitórios."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Em sentido amplo, os ingressos de recursos financeiros nos cofres do Estado denominam-se receitas públicas, registradas como receitas orçamentárias, quando representam disponibilidades de recursos financeiros para o erário, ou ingressos extraorçamentários, quando representam apenas entradas compensatórias."
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Corrente (mnemônico: TRIBUTA CON PAIS)",
+                "Capital (mnemônico: OPERA ALI AMOR)"
+              ],
+              [
+                "Contribuições de melhoria, impostos, taxas (tributos)",
+                "OPERAções de crédito"
+              ],
+              [
+                "CONtribuições (muita atenção, para não confundir com contribuição de melhoria)",
+                "ALIenações de bens"
+              ],
+              [
+                "Patrimonial",
+                "AMORtização de empréstimos"
+              ],
+              [
+                "Agropecuária",
+                "Transferências de capital"
+              ],
+              [
+                "Industrial",
+                "Outras receitas de capital"
+              ],
+              [
+                "Serviços",
+                ""
+              ],
+              [
+                "Transferências correntes",
+                ""
+              ],
+              [
+                "Outras receitas correntes",
+                ""
+              ]
+            ]
           }
         ]
       },
@@ -7684,17 +8801,70 @@
         "kind": "study-note",
         "topic": "Princípios orçamentários",
         "category": "Orçamento Público",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-principios-orcamentarios.pdf",
-        "pdfPages": [
-          "assets/afo-principios-orcamentarios-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "PRINCÍPIO\nREGRA\nEXCEÇÃO\nAnualidade\nLOA deve se referir a um período (exercício financeiro).\nCréditos especiais e \nextraordinários abertos nos \núltimos 4 meses.\nUnidade\nApenas uma LOA por exercício financeiro.\n-\nUniversalidade\nTodas as receitas e despesas devem constar na LOA.\nReceitas e despesas \nextraorçamentárias.\nOrçamento Bruto As receitas e despesas devem constar na LOA pelos seus totais, vedadas \ndeduções.\n-\nEspecificação\nVedadas dotações globais na LOA.\nPET e reserva de \ncontingência.\nExclusividade\nDeve constar na LOA exclusivamente a previsão de receita e fixação de \ndespesa.\nAutorização para abertura \nde créditos suplementares e \npara operação de crédito, \ninclusive ARO.\nNão vinculação\nVedada a vinculação de receita de Impostos.\nTransferências \nconstitucionais; despesas \ncom ensino; despesas com \nsaúde; despesas \nadministração tributárias e \ngarantias a operação de \ncrédito, inclusive ARO.\nProibição do \nestorno\nÉ vedado o remanejamento, a transposição e a transferência de recursos \nsem autorização legislativa.\nAtividades de ciência, \ntecnologia e inovação.\nEquilíbrio\nDeve haver equilíbrio entre a receita prevista e a despesa fixada.\nAs operações de créditos não podem superar as despesas de capital.\nCréditos suplementares e \nespeciais aprovados por \nmaioria absoluta do \nlegislativo\nPrincípios orçametários\nsexta-feira, 14 de agosto de 2026\n15:29\n\nPrincipios orcametarios\n\nsexta-feira, 14 de agosto de 2026\n\n15:29\n\nPRINCIPIO. REGRA EXCECAO\nAnualidade | LOA deve se referir a um periodo (exercicio financeiro). Créditos especiais e\nextraordinarios abertos nos\nUltimos 4 meses.\nUnidade Apenas uma LOA por exercicio financeiro. 7\n\nUniversalidade\n\nTodas as receitas e despesas devem constar na LOA.\n\nReceitas e despesas\nextraorcamentarias.\n\nOrgamento Bruto\n\nAs receitas e despesas devem constar na LOA pelos seus totais, vedadas\ndedugées.\n\nEspecificagao\n\nVedadas dotagées globais na LOA.\n\nPET e reserva de\ncontingéncia.\n\nExclusividade\n\nDeve constar na LOA exclusivamente a previsdo de receita e fixagdo de\ndespesa.\n\nAutorizac¢ao para abertura\nde créditos suplementares e\npara operacao de crédito,\ninclusive ARO.\n\nNao vinculagéo\n\nVedada a vinculacao de receita de Impostos.\n\nTransferéncias\nconstitucionais; despesas\ncom ensino; despesas com\nsatide; despesas\nadministragao tributarias e\ngarantias a operagdo de\ncrédito, inclusive ARO.\n\nProibicgo do | E vedado o remanejamento, a transposi¢ao e a transferéncia de recursos | Atividades de ciéncia,\nr Bo clogs ae =\nestorno sem autorizac3o legislativa. tecnologia e inovacao.\nEquilibrio Deve haver equilibrio entre a receita prevista e a despesa fixada. Créditos suplementares e\n\nAs operagées de créditos ndo podem superar as despesas de capital.\n\nespeciais aprovados por\nmaioria absoluta do\nlegislativo\n\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Princípio",
+                "Regra",
+                "Exceção"
+              ],
+              [
+                "Anualidade",
+                "LOA deve se referir a um período (exercício financeiro)",
+                "Créditos especiais e extraordinários abertos nos últimos 4 meses"
+              ],
+              [
+                "Unidade",
+                "Apenas uma LOA por exercício financeiro",
+                "-"
+              ],
+              [
+                "Universalidade",
+                "Todas as receitas e despesas devem constar na LOA",
+                "Receitas e despesas extraorçamentárias"
+              ],
+              [
+                "Orçamento bruto",
+                "As receitas e despesas devem constar na LOA pelos seus totais, vedadas deduções",
+                "-"
+              ],
+              [
+                "Especificação",
+                "Vedadas dotações globais na LOA",
+                "PET e reserva de contingência"
+              ],
+              [
+                "Exclusividade",
+                "Deve constar na LOA exclusivamente a previsão de receita e fixação de despesa",
+                "Autorização para abertura de créditos suplementares e para operação de crédito, inclusive ARO"
+              ],
+              [
+                "Não vinculação",
+                "Vedada a vinculação de receita de impostos",
+                "Transferências constitucionais; despesas com ensino; despesas com saúde; despesas com administração tributária e garantias a operação de crédito, inclusive ARO"
+              ],
+              [
+                "Proibição do estorno",
+                "É vedado o remanejamento, a transposição e a transferência de recursos sem autorização legislativa",
+                "Atividades de ciência, tecnologia e inovação"
+              ],
+              [
+                "Equilíbrio",
+                "Deve haver equilíbrio entre a receita prevista e a despesa fixada. As operações de créditos não podem superar as despesas de capital",
+                "Créditos suplementares e especiais aprovados por maioria absoluta do legislativo"
+              ]
+            ]
           }
         ]
       },
@@ -7707,17 +8877,35 @@
         "kind": "study-note",
         "topic": "Receita corrente líquida — RCL",
         "category": "Lei de Responsabilidade Fiscal",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-rcl.pdf",
-        "pdfPages": [
-          "assets/afo-rcl-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Outro conceito importante presente na LRF e muito usado em vários artigos é o da Receita corrente líquida (RCL), pois \nquase todos os limites da LRF usam a receita corrente líquida como parâmetro, entendeu a importância?\nReceita corrente líquida é o somatório das receitas correntes (não as de capital), com algumas deduções.\nLembre que as receitas correntes são: \nImpostos, taxas e contribuições de melhoria(Tributária)\n•\nContribuições\n•\nReceita patrimonial\n•\nReceita agropecuária\n•\nReceita industrial\n•\nReceita de serviços\n•\nTransferências correntes\n•\nOutras receitas correntes\n•\nMnemônico: TC PAIS TRANSOU (T- tributária, C-contribuições, P-patrimonial, A-agropecuária, I-industrial, S-serviços, \nTRANS- transferências correntes, OU-outras receitas correntes)\nRCL\nquarta-feira, 16 de setembro de 2026\n06:00\n\nRCL\n\nquarta-feira, 16 de setembro de 2026 06:00\n\nOutro conceito importante presente na LRF e muito usado em varios artigos é o da Receita corrente liquida (RCL), pois\nquase todos os limites da LRF usam a receita corrente liquida como parametro, entendeu a importancia?\n\nReceita corrente liquida é o somatério das receitas correntes (nao as de capital), com algumas dedugées.\n\nLembre que as receitas correntes sao:\n\n* Impostos, taxas e contribuicgdes de melhoria(Tributaria)\n* Contribuigdes\n\n*  Receita patrimonial\n\n* Receita agropecuaria\n\n¢  Receita industrial\n\n* Receita de servicos\n\n*  Transferéncias correntes\n\n* Outras receitas correntes\n\nMneménico: TC PAIS TRANSOU (T- tributaria, C-contribuigées, P-patrimonial, A-agropecuaria, I-industrial, S-servigos,\nTRANS- transferéncias correntes, OU-outras receitas correntes)\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Outro conceito importante presente na LRF e muito usado em vários artigos é o da receita corrente líquida (RCL), pois quase todos os limites da LRF usam a receita corrente líquida como parâmetro."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Receita corrente líquida é o somatório das receitas correntes (não as de capital), com algumas deduções."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Lembre que as receitas correntes são: impostos, taxas e contribuições de melhoria (tributária); contribuições; receita patrimonial; receita agropecuária; receita industrial; receita de serviços; transferências correntes; outras receitas correntes."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Mnemônico: TC PAIS TRANSOU (T, tributária; C, contribuições; P, patrimonial; A, agropecuária; I, industrial; S, serviços; TRANS, transferências correntes; OU, outras receitas correntes)."
           }
         ]
       },
@@ -7730,17 +8918,35 @@
         "kind": "study-note",
         "topic": "Recursos para créditos adicionais",
         "category": "Orçamento Público",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-recursos-disponiveis.pdf",
-        "pdfPages": [
-          "assets/afo-recursos-disponiveis-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Art. 43. A abertura dos créditos suplementares e especiais depende da existência \nde recursos disponíveis para ocorrer à despesa e será precedida de exposição \njustificativa. (Veto rejeitado no DOU, de 5.5.1964)\n§ 1º Consideram-se recursos para o fim dêste artigo, desde que não \ncomprometidos: (Veto rejeitado no DOU, de 5.5.1964)\nI - o superavit financeiro apurado em balanço patrimonial do exercício anterior; \n(Veto rejeitado no DOU, de 5.5.1964)\nII - os provenientes de excesso de arrecadação; (Veto rejeitado no DOU, de \n5.5.1964)\nIII - os resultantes de anulação parcial ou total de dotações orçamentárias ou de \ncréditos adicionais, autorizados em Lei; (Veto rejeitado no DOU, de 5.5.1964)\nIV - o produto de operações de crédito autorizadas, em forma que jurìdicamente \npossibilite ao Poder Executivo realizá-las. (Veto rejeitado no DOU, de 5.5.1964)\nA questão está CERTA, pois tais recursos podem ser utilizados para abertura de \ncréditos suplementares ou especiais, desde que tenha prévia e específica \nautorização legislativa, vide Constituição Federal:\nArt. 166\n§ 8º Os recursos que, em decorrência de veto, emenda ou rejeição do projeto de \nlei orçamentária anual, ficarem sem despesas correspondentes poderão ser \nutilizados, conforme o caso, mediante créditos especiais ou suplementares, com \nprévia e específica autorização legislativa.\nRecursos disponíveis \nsexta-feira, 14 de agosto de 2026\n16:34\n\nRecursos disponiveis\n\nsexta-feira, 14 de agosto de 2026 16:34\n\nArt. 43. A abertura dos créditos suplementares e especiais depende da existéncia\nde recursos disponiveis para ocorrer a despesa e serd precedida de exposi¢ao\njustificativa. (Veto rejeitado no DOU, de 5.5.1964)\n\n§ 12 Consideram-se recursos para o fim déste artigo, desde que ndo\ncomprometidos: (Veto rejeitado no DOU, de 5.5.1964)\n\n1 - o superavit financeiro apurado em balango patrimonial do exercicio anterior;\n(Veto rejeitado no DOU, de 5.5.1964)\n\nIl - os provenientes de excesso de arrecadagdo; (Veto rejeitado no DOU, de\n55.1964)\n\nIll - os resultantes de anulagdo parcial ou total de dotagées orgamentdrias ou de\ncréditos adicionais, autorizados em Lei; (Veto rejeitado no DOU, de 5.5.1964)\n\nIV - o produto de operagées de crédito autorizadas, em forma que juridicamente\npossibilite ao Poder Executivo realizd-las. (Veto rejeitado no DOU, de 5.5.1964)\n\nA questao esta CERTA, pois tais recursos podem ser utilizados para abertura de\ncréditos suplementares ou especiais, desde que tenha prévia e especifica\nautorizacao legislativa, vide Constituigdo Federal:\n\nArt. 166\n\n§ 82 Os recursos que, em decorréncia de veto, emenda ou rejei¢do do projeto de\nlei orgamentdria anual, ficarem sem despesas correspondentes poderdo ser\nutilizados, conforme o caso, mediante créditos especiais ou suplementares, com\nprévia e especifica autorizagdo legislativa.\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 43. A abertura dos créditos suplementares e especiais depende da existência de recursos disponíveis para ocorrer à despesa e será precedida de exposição justificativa. (Veto rejeitado no DOU, de 5.5.1964.)"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "§ 1º Consideram-se recursos para o fim deste artigo, desde que não comprometidos: I, o superávit financeiro apurado em balanço patrimonial do exercício anterior; II, os provenientes de excesso de arrecadação; III, os resultantes de anulação parcial ou total de dotações orçamentárias ou de créditos adicionais, autorizados em lei; IV, o produto de operações de crédito autorizadas, em forma que juridicamente possibilite ao Poder Executivo realizá-las. (Vetos rejeitados no DOU, de 5.5.1964.)"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "A questão está CERTA, pois tais recursos podem ser utilizados para abertura de créditos suplementares ou especiais, desde que tenha prévia e específica autorização legislativa, vide Constituição Federal."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 166, § 8º. Os recursos que, em decorrência de veto, emenda ou rejeição do projeto de lei orçamentária anual, ficarem sem despesas correspondentes poderão ser utilizados, conforme o caso, mediante créditos especiais ou suplementares, com prévia e específica autorização legislativa."
           }
         ]
       },
@@ -7753,17 +8959,47 @@
         "kind": "study-note",
         "topic": "Regra de ouro",
         "category": "Orçamento Público",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-regra-ouro.pdf",
-        "pdfPages": [
-          "assets/afo-regra-ouro-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "A regra de ouro está relacionada ao princípio do equilíbrio e está expressa na CF88:\nArt. 167. São vedados:\nIII - a realização de operações de créditos que excedam o montante das despesas de\ncapital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com\nfinalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta ;\nAtenção para as exceções da regra de ouro:\nCréditos suplementares\nFinalidade precisa\n•\nAprovados pelo Poder Legislativo por maioria absoluta\n•\nCréditos especiais\nRegra de ouro\nsexta-feira, 14 de agosto de 2026\n15:59\n\nRegra de ouro\n\nsexta-feira, 14 de agosto de 2026 15:59\n\nA regra de ouro esta relacionada ao principio do equilibrio e esta expressa na CF88:\nArt. 167. Sao vedados:\n\nIll - a realizagao de operagées de créditos que excedam o montante das despesas de\ncapital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com\nfinalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta ;\n\nAtengao para as excegées da regra de ouro:\n\nCréditos suplementares |* Finalidade precisa\n© Aprovados pelo Poder Legislativo por maioria absoluta\n\nCréditos especiais\n\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "A regra de ouro está relacionada ao princípio do equilíbrio e está expressa na CF/88."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Art. 167. São vedados: III, a realização de operações de créditos que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Atenção para as exceções da regra de ouro:"
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Tipo de crédito",
+                "Condições"
+              ],
+              [
+                "Créditos suplementares",
+                "Finalidade precisa; aprovados pelo Poder Legislativo por maioria absoluta"
+              ],
+              [
+                "Créditos especiais",
+                "Finalidade precisa; aprovados pelo Poder Legislativo por maioria absoluta"
+              ]
+            ]
           }
         ]
       },
@@ -7776,17 +9012,35 @@
         "kind": "study-note",
         "topic": "Renúncia de receita",
         "category": "Lei de Responsabilidade Fiscal",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-renuncia-receita.pdf",
-        "pdfPages": [
-          "assets/afo-renuncia-receita-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "renúncia de receita\nquarta-feira, 16 de setembro de 2026\n06:38\n\nrenuncia de receita\nquarta-feira, 16 de setembro de 2026 06:38\n\nREN A DE RECEITA - ART. 14\n\nA rentincia de receita ocorre quando o ente privilegia um grupo ESPECIFICO de contribuintes. Dessa forma, ela possui carater\n\nNAO geral, ou seja, ¢ discriminatéria. A rentincia compreende (ROL EXEMPLIFICATIVO):\n\n(a) Anistia- perdao de MULTA; (e) Isencao NAO geral Lei ESPECIFICA para concessio\n(b) Remissao -perdao da DIVIDA (TOTAL) (f) Outros beneficios (Ex: Simples)\n\n(0) Subsidio () Alteracao de aliquota ou BC que implique REDUCAO discriminada de\n(@) Crédito PRESUMIDO neo\n\nREQUISITOS PA CONCESSAO DE RENUNCIA\n\nSEMPRE PRESENTE ou\n\nias, mas nao suficientes) Demonstragao que a rentincia foi_considerada_na\nestimativa de receita da LOA, e de que NAO afetaraas metas\nde resultados fiscais da LDO (AME).\n\n1) Estimativa do impacto no exercicio E nos 2\nsSeguintes;\n\nou\nEstar acompanhada de medidas de compensacao, via:\n(a) Elevagao de aliquotas\n\n2) Atender ao dispostonaLDO\n\ni\n\n(b) Ampliagio da BC\n\n(©) Majoragio ou criac&o de tributo ou contribuigdo\n\nEleita esta opcdio, a rentincia sé produziré efeitos apés\n\nimplementada as medidas acima.\n\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Renúncia de receita – art. 14: a renúncia de receita ocorre quando o ente privilegia um grupo específico de contribuintes. Dessa forma, ela possui caráter não geral, ou seja, é discriminatória. A renúncia compreende (rol exemplificativo): a) anistia (perdão de multa); b) remissão (perdão da dívida, total); c) subsídio; d) crédito presumido; e) isenção não geral; f) outros benefícios (ex.: Simples); g) alteração de alíquota ou BC que implique redução discriminada de tributos. Lei específica para concessão."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Requisitos para concessão de renúncia:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Sempre presente (condições necessárias, mas não suficientes): 1) estimativa do impacto no exercício e nos 2 seguintes; 2) atender ao disposto na LDO."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Além disso, uma das opções: demonstração de que a renúncia foi considerada na estimativa de receita da LOA, e de que não afetará as metas de resultados fiscais da LDO (AMF); ou estar acompanhada de medidas de compensação, via: a) elevação de alíquotas; b) ampliação da BC; c) majoração ou criação de tributo ou contribuição. Eleita esta opção, a renúncia só produzirá efeitos após implementadas as medidas acima."
           }
         ]
       },
@@ -7799,17 +9053,45 @@
         "kind": "study-note",
         "topic": "RREO × RGF",
         "category": "Lei de Responsabilidade Fiscal",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-rreo.pdf",
-        "pdfPages": [
-          "assets/afo-rreo-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "REREO\nquarta-feira, 16 de setembro de 2026\n16:52\n\nREREO\n\nquarta-feira, 16 de setembrode 2026 16:52\n\nPelo Poder executivo, (para lembrar; RREO)\n\nPelos titulares de poderes e drgaos.\n\nPublicados até 30 dias apds o encerramento de\ncada bimestre @ (para lembrar: REO)\nMunicipios com ate 50 mil habitantes 2\n\npodem optar pela divulgago semestral\ndos demonstrativos do RREO\n\nPublicados até 30 dias apds 0 encerramento de cada\n\nquadrimestre. @\nMunicipios com ate 50 mil habitantes\n\npodem optar pela divulgago semestral\ndo RGF.\n\nBalanco orgamentario\nDemonstrativos de execucaéo de receitas e\ndespesas.\n\nApurac3o/evolucao da RCL\n\n+ receitas e despesas previdencidrias\n\n+ resultado nominal/primario\n\n+ despesas com juros + restos a pagar\n\n@Comparativo com os limites da LRF.:\n+ Despesa total com pessoal\nDividas consolidadas/mobilidria\n\nConcessdo de garantias\nOperagées de créditos ( beara\nS6 no RGF do Executivo\n@ no ultimo quadrimestre:\n\n+ Disponibilidades em caixa em 31/12\n\n« Inscrigéo dos restos a pagar\n\n+ Cumprimento das exigéncias relativas as\noperagées de crédito por A.R.O.\n\n@ Descumprimento dos prazos impede que o ente:\n+ Receba transferéncias voluntarias ( Ex\n«+ Contrate operacées de créditos <a\"\n\neto para refinanciamento’\nda divida mobiliaria\n\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Aspecto",
+                "RREO (Relatório Resumido de Execução Orçamentária)",
+                "RGF (Relatório de Gestão Fiscal)"
+              ],
+              [
+                "Quem publica",
+                "Poder Executivo",
+                "Titulares de poderes e órgãos"
+              ],
+              [
+                "Prazo",
+                "Publicados até 30 dias após o encerramento de cada bimestre; municípios com até 50 mil habitantes podem optar pela divulgação semestral",
+                "Publicados até 30 dias após o encerramento de cada quadrimestre; municípios com até 50 mil habitantes podem optar pela divulgação semestral"
+              ],
+              [
+                "Conteúdo",
+                "Balanço orçamentário; demonstrativos de execução de receitas e despesas; apuração/evolução da RCL, receitas e despesas previdenciárias, resultado nominal/primário, despesas com juros e restos a pagar",
+                "Comparativo com os limites da LRF (despesa total com pessoal, dívidas consolidadas/mobiliária, concessão de garantias, operações de crédito, inclusive por ARO, só no RGF do Executivo); no último quadrimestre: disponibilidades em caixa em 31/12, inscrição dos restos a pagar, cumprimento das exigências relativas às operações de crédito por ARO"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Descumprimento dos prazos impede que o ente receba transferências voluntárias e contrate operações de crédito (exceto para refinanciamento da dívida mobiliária)."
           }
         ]
       },
@@ -7822,17 +9104,40 @@
         "kind": "study-note",
         "topic": "Técnicas orçamentárias",
         "category": "Orçamento Público",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-tipos-orcamento.pdf",
-        "pdfPages": [
-          "assets/afo-tipos-orcamento-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Tipos de orçamento\nsexta-feira, 14 de agosto de 2026\n16:28\n\nTipos de or¢amento\n\nsexta-feira, 14 de agosto de 2026 16:28\n\nORCGAMENTO ORGAMENTO ORIENTADO POR\nTRADICIONAL DESEMPENHO BASE ZERO (OBZ) RESULTADOS\n\nFoco no controle Relaciona gasto com Define programas, ages Tudocomecadozero; -Foco no que sociedade\n\nfinanceiro, sem servico prestado, emetas integradas a0, nada éautomaticamente _recebe, na transparéncia\npreocupagao com medindo eficiéncia e planejamento aprovado. Cadadespesa_ -—_enaeentrega de bens e\nresultados. Apenas custo-beneficio. estratégico. deve ser justficada. servigos com qualidade.\n\nregistra receitas\ndespesas.\n\nos o-a-c 27%\nag” °& ##@\n\nebiaudoauditor METAS GS aces ‘QUALIDADE _TRANSPARENCIA\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Orçamento tradicional: foco no controle financeiro, sem preocupação com resultados. Apenas registra receitas e despesas (dinheiro → controle)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Orçamento de desempenho: relaciona gasto com serviço prestado, medindo eficiência e custo-benefício (gasto → serviço prestado → eficiência)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Orçamento-programa: define programas, ações e metas integradas ao planejamento estratégico (planejamento → programas → ações → metas)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Base zero (OBZ): tudo começa do zero; nada é automaticamente aprovado. Cada despesa deve ser justificada (zero → justificativa → aprovação)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Orientado por resultados: foco no que a sociedade recebe, na transparência e na entrega de bens e serviços com qualidade (entrega, sociedade, qualidade, transparência)."
           }
         ]
       },
@@ -7845,17 +9150,35 @@
         "kind": "study-note",
         "topic": "Transferências voluntárias",
         "category": "Lei de Responsabilidade Fiscal",
-        "summary": "1 página(s) · anotação original enviada, preservada em PDF com texto, cores e imagens.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF original enviado neste chat. Catalogação por assunto, sem nova revisão jurídica do conteúdo.",
         "pageCount": 1,
-        "pdfAsset": "assets/afo-transferencias-voluntarias.pdf",
-        "pdfPages": [
-          "assets/afo-transferencias-voluntarias-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
             "text": "Transferências voluntárias via convênio possuem finalidade vinculada ao objeto pactuado. Se o \nconvênio era para \"habitação de jovens\", o prefeito não pode usar o dinheiro para reformar uma \nescola ou pagar médicos (desvio de finalidade). Além disso, a LRF proíbe expressamente o uso de \ntransferências voluntárias para o pagamento de despesas com pessoal (Art. 25, § 1º, inciso I).\nTransferências Obrigatórias (Constitucionais ou Legais): São aquelas que o ente transferidor é \nobrigado por lei ou pela Constituição a entregar. Exemplos clássicos são o Fundo de Participação \ndos Municípios (FPM) e o repasse do ICMS dos Estados para os Municípios.\n1.\nO ente recebedor tem direito subjetivo ao recurso, e a União não pode retê-los como punição, salvo \ncasos muito específicos previstos na CF/88.\nTransferências Voluntárias: São a entrega de recursos correntes ou de capital a outro ente da \nFederação, a título de cooperação, auxílio ou assistência financeira, que não decorra de \ndeterminação constitucional, legal ou de repartição de receita. Elas geralmente ocorrem via \nconvênios ou contratos de repasse, como no caso da nossa questão.\n1.\ntransferências voluntárias \nquarta-feira, 16 de setembro de 2026\n17:04\n\ntransferéncias voluntarias\n\nquarta-feira, 16 de setembro de 2026 17:04\n\nTransferéncias voluntérias via convénio possuem finalidade vinculada ao objeto pactuado. Se o\nconvénio era para \"habitagdo de jovens\", o prefeito nao pode usar o dinheiro para reformar uma\nescola ou pagar médicos (desvio de finalidade). Além disso, a LRF proibe expressamente 0 uso de\ntransferéncias voluntarias para o pagamento de despesas com pessoal (Art. 25, § 12, inciso |).\n\n1. Transferéncias Obrigatérias (Constitucionais ou Legais): Sio aquelas que o ente transferidor &\nobrigado por lei ou pela Constituicao a entregar. Exemplos classicos so 0 Fundo de Participagao\ndos Municipios (FPM) e 0 repasse do ICMS dos Estados para os Municipios.\n\nO ente recebedor tem direito subjetivo ao recurso, e a Uniao nao pode reté-los como punicao, salvo\ncasos muito especificos previstos na CF/88.\n\n1. Transferéncias Voluntarias: Sdo a entrega de recursos correntes ou de capital a outro ente da\nFederacio, a titulo de cooperacao, auxilio ou assisténcia financeira, que ndo decorra de\ndeterminacao constitucional, legal ou de repartic¢ao de receita. Elas geralmente ocorrem via\nconvénios ou contratos de repasse, como no caso da nossa questo.\n"
+          }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Transferências voluntárias via convênio possuem finalidade vinculada ao objeto pactuado. Se o convênio era para \"habitação de jovens\", o prefeito não pode usar o dinheiro para reformar uma escola ou pagar médicos (desvio de finalidade). Além disso, a LRF proíbe expressamente o uso de transferências voluntárias para o pagamento de despesas com pessoal (art. 25, § 1º, inciso I)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "1. Transferências obrigatórias (constitucionais ou legais): são aquelas que o ente transferidor é obrigado por lei ou pela Constituição a entregar. Exemplos clássicos são o Fundo de Participação dos Municípios (FPM) e o repasse do ICMS dos Estados para os Municípios."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O ente recebedor tem direito subjetivo ao recurso, e a União não pode retê-los como punição, salvo casos muito específicos previstos na CF/88."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "1. Transferências voluntárias: são a entrega de recursos correntes ou de capital a outro ente da Federação, a título de cooperação, auxílio ou assistência financeira, que não decorra de determinação constitucional, legal ou de repartição de receita. Elas geralmente ocorrem via convênios ou contratos de repasse, como no caso da nossa questão."
           }
         ]
       },
