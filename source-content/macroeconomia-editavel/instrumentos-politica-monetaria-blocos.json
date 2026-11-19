@@ -1,0 +1,35 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Instrumentos de política monetária",
+  "origem": "Imagem macroeconomia-instrumentos-de-politica-monetaria-1.webp (anotação 'Instrumentos de política monetária', 05/09/2026)",
+  "tipo": "comparativo",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        ["Instrumento", "Política expansionista (estímulo à economia)", "Política contracionista (controle da inflação)"],
+        ["Open market (mercado aberto)", "Aumenta a compra de títulos públicos → liquidez na economia ↑ e taxas de juros ↓", "Aumenta a venda de títulos públicos → liquidez na economia ↓ e taxas de juros ↑"],
+        ["Taxa de depósitos compulsórios", "Reduz o recolhimento compulsório → recursos disponíveis nos bancos ↑ e oferta de crédito ↑", "Aumenta o recolhimento compulsório → recursos disponíveis nos bancos ↓ e oferta de crédito ↓"],
+        ["Taxa de redesconto", "Reduz a taxa de redesconto → custo do crédito para os bancos ↓ e oferta de crédito ↑", "Aumenta a taxa de redesconto → custo do crédito para os bancos ↑ e oferta de crédito ↓"],
+        ["Taxa de juros (Selic)", "Reduz a taxa de juros (Selic) → custo do crédito ↓ e consumo e investimento ↑", "Aumenta a taxa de juros (Selic) → custo do crédito ↑ e consumo e investimento ↓"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Juros e atividade",
+      "text": "Juro baixo: economia aquece (juro ↓, economia ↑). Juro alto: economia esfria (juro ↑, economia ↓)."
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Diferença entre redesconto e taxa de redesconto",
+      "text": "Redesconto: o aumento no redesconto gera liquidez (política monetária expansionista), porque o Bacen empresta mais dinheiro aos bancos comerciais. Taxa de redesconto: o aumento na taxa de redesconto reduz a liquidez (política monetária contracionista), porque o Bacen desestimula o redesconto."
+    }
+  ],
+  "pendencias": [
+    "A imagem é uma ilustração de apoio com o rótulo 'Mecanismos de operação'; os textos foram transcritos, mas os ícones não foram convertidos.",
+    "Conferir a redação contra a anotação original antes de aprovar."
+  ]
+}

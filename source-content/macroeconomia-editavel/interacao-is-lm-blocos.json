@@ -1,0 +1,46 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Interação e equilíbrio entre IS e LM",
+  "origem": "Imagem macroeconomia-interacao-e-equilibrio-entre-is-e-lm-1.webp (anotação de 26/08/2026)",
+  "tipo": "novo assunto",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "paragraph",
+      "text": "O modelo IS-LM é composto por duas curvas: a curva IS, que representa a igualdade entre poupança e investimento, e a curva LM, que representa a igualdade entre a demanda por moeda e a oferta de moeda. O ponto de equilíbrio do modelo se encontra na interseção entre as duas curvas e representa a renda e a taxa de juros que correspondem a um nível de produção e emprego consistente com a estabilidade dos preços."
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Política fiscal contracionista",
+      "text": "A curva IS (fiscal) é deslocada para a esquerda, reduzindo o nível do produto para uma mesma taxa de juros. Para preservar o nível do produto, é importante uma política monetária expansionista, por exemplo, a redução da alíquota dos depósitos compulsórios, pois os bancos comerciais terão maior disponibilidade de moeda."
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Armadilha da liquidez",
+      "text": "A política monetária se torna ineficaz devido à preferência dos agentes econômicos por manter dinheiro, em vez de investir em títulos. Acontece quando as taxas de juros estão excessivamente baixas, fazendo com que a política monetária não tenha efeito. Aumentar a oferta de moeda não causa queda da taxa de juros, aumentando a retenção de saldos monetários ociosos e/ou reservas bancárias. Não há demanda por crédito."
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "LM horizontal",
+      "text": "A elasticidade da demanda por moeda em relação à taxa de juros é infinita: a sensibilidade da demanda por moeda do público é extremamente elevada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quadro de depressão econômica: os agentes acreditam que o preço dos ativos financeiros está excessivamente alto e irá cair. Por isso, não investem para não ter prejuízo. A taxa de juros se encontra em nível muito baixo e, certamente, aumentará no futuro imediato."
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Efeito crowding out (expulsão)",
+      "text": "Ocorre quando a política fiscal não tem tanto efeito: um aumento nos gastos do governo causa aumento da taxa de juros, e o aumento da taxa de juros causa redução no investimento, reduzindo a demanda agregada."
+    }
+  ],
+  "pendencias": [
+    "A anotação original escreve 'Crownding out' e 'FIScal' com grafias inconsistentes; a forma corrigida 'crowding out' foi usada aqui.",
+    "Conferir a redação contra a anotação original e contra a fonte doutrinária antes de aprovar, principalmente a definição de 'quadro de depressão econômica', que é uma explicação da anotação e não uma regra normativa.",
+    "A anotação diz 'IS/LM' e 'IS (FIScal)' no mesmo parágrafo; a versão aqui mantém a curva IS fiscal como na fonte."
+  ]
+}
