@@ -4558,6 +4558,228 @@
         }
       ],
       "flashcards": []
+    },
+    {
+      "id": "contab-teoria-arlp",
+      "subject": "Contabilidade",
+      "targetId": "conta-b-02",
+      "targetTitle": "Ativo Realizável a Longo Prazo - ARLP",
+      "title": "Ativo realizável a longo prazo (ARLP)",
+      "status": "draft",
+      "updateType": "teoria",
+      "source": "Redação própria, a partir da Lei 6.404/1976 (art. 179) e do CPC 12. Revisar antes de aprovar.",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O ativo realizável a longo prazo reúne direitos que serão realizados depois do término do exercício seguinte, ou seja, após 12 meses da data do balanço, e que não se enquadram em investimentos, imobilizado ou intangível."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Conta",
+              "Exemplo",
+              "Cuidado"
+            ],
+            [
+              "Clientes a longo prazo",
+              "Venda a prazo com recebimento em 24 meses",
+              "Ajustar a valor presente (CPC 12) quando o juro for implícito e relevante"
+            ],
+            [
+              "Empréstimos a controladas, coligadas e diretores",
+              "Empréstimo a controlada com vencimento em 3 anos",
+              "Saldos com partes relacionadas devem ser identificados"
+            ],
+            [
+              "Títulos e valores mobiliários de longo prazo",
+              "Aplicação com vencimento em 2 anos",
+              "A classificação depende do modelo de negócios (CPC 48)"
+            ],
+            [
+              "Impostos a recuperar de longo prazo",
+              "Crédito tributário compensável após 12 meses",
+              "Só entra o valor que se realiza após 12 meses"
+            ],
+            [
+              "Depósitos judiciais",
+              "Depósito para garantir processo sem prazo definido",
+              "Classificação depende da expectativa de realização"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra",
+          "text": "Se o direito se realiza depois de 12 meses da data do balanço, ele é não circulante. Quando o ciclo operacional da empresa é maior que 12 meses, o ciclo é o critério."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "ARLP não é investimento. Participação em controlada ou coligada vai para investimentos, mesmo que a expectativa de retorno seja de longo prazo."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-teoria-fornecedores",
+      "subject": "Contabilidade",
+      "targetId": "conta-c-01",
+      "targetTitle": "Fornecedores",
+      "title": "Fornecedores",
+      "status": "draft",
+      "updateType": "teoria",
+      "source": "Redação própria, a partir dos critérios de reconhecimento e mensuração de passivos (Lei 6.404/1976, art. 184, e CPC 12). Revisar antes de aprovar.",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fornecedores são obrigações com quem entregou mercadorias, matéria-prima ou serviços a prazo. Normalmente ficam no passivo circulante, porque vencem em até 12 meses."
+        },
+        {
+          "type": "formula",
+          "text": "Compra a prazo de mercadorias: D Estoque (ou despesa) / C Fornecedores, pelo valor da nota fiscal"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situação",
+              "Tratamento",
+              "Observação"
+            ],
+            [
+              "Compra a prazo de mercadorias",
+              "D Estoque / C Fornecedores pelo valor da nota",
+              "ICMS recuperável fica separado do estoque"
+            ],
+            [
+              "Pagamento no vencimento",
+              "D Fornecedores / C Caixa ou Bancos",
+              "Baixa pelo valor pago, sem alterar o custo do estoque"
+            ],
+            [
+              "Desconto incondicional concedido pelo fornecedor",
+              "Reduz o custo da compra",
+              "Não é receita financeira"
+            ],
+            [
+              "Juros e multa por atraso",
+              "D Despesa financeira / C Fornecedores ou Caixa",
+              "Não entram no custo do estoque nem do ativo"
+            ],
+            [
+              "Compra com prazo longo e juros embutidos",
+              "Ajustar a valor presente (CPC 12)",
+              "A diferença é despesa financeira ao longo do prazo"
+            ]
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Roteiro da compra a prazo",
+          "steps": [
+            {
+              "label": "1. Receber a mercadoria ou serviço",
+              "text": "Reconhecer o ativo ou a despesa pela nota"
+            },
+            {
+              "label": "2. Reconhecer o fornecedor",
+              "text": "Registrar a obrigação pelo valor da nota"
+            },
+            {
+              "label": "3. Verificar o prazo",
+              "text": "Se for longo e houver juros implícitos, ajustar a valor presente"
+            },
+            {
+              "label": "4. Pagar no vencimento",
+              "text": "Baixar a obrigação pelo valor pago"
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra",
+          "text": "Fornecedores são mensurados pelo valor da obrigação. Quando o prazo é longo e os juros são implícitos, o valor presente é o valor de reconhecimento inicial."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Juros de atraso e multa não entram no custo do estoque, nem do ativo. São despesa do período."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-teoria-lei-6404",
+      "subject": "Contabilidade",
+      "targetId": "conta-d-08",
+      "targetTitle": "Lei 6.404 e suas alterações",
+      "title": "Lei 6.404/1976 e suas alterações",
+      "status": "draft",
+      "updateType": "teoria",
+      "source": "Redação própria, a partir da Lei 6.404/1976 e das alterações das Leis 11.638/2007 e 11.941/2009. Conferir a redação vigente antes de aprovar.",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A Lei 6.404/1976 é a lei das sociedades por ações. Foi alterada pelas Leis 11.638/2007 e 11.941/2009, que aproximaram a contabilidade brasileira das normas internacionais, adotadas por meio dos pronunciamentos do CPC."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Artigo",
+              "Assunto"
+            ],
+            [
+              "Art. 176",
+              "Demonstrações obrigatórias ao fim de cada exercício, incluindo balanço e DRE, e as notas explicativas"
+            ],
+            [
+              "Art. 178",
+              "Estrutura do balanço: ativo e passivo, circulante e não circulante, e patrimônio líquido"
+            ],
+            [
+              "Art. 179",
+              "Contas do ativo não circulante: realizável a longo prazo, investimentos, imobilizado e intangível"
+            ],
+            [
+              "Art. 183",
+              "Critérios de avaliação de ativos e passivos, com valor justo para instrumentos financeiros destinados à negociação e disponíveis para venda"
+            ],
+            [
+              "Art. 184",
+              "Obrigações em moeda estrangeira convertidas pela taxa de fechamento"
+            ],
+            [
+              "Art. 186",
+              "Demonstração de lucros ou prejuízos acumulados (DLPA)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra",
+          "text": "Ao citar um artigo em prova, confira a redação vigente, porque as alterações de 2007 e 2009 mudaram nomes e critérios."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Uma alternativa que descreve a redação antiga da lei pode estar errada em relação à lei vigente. Atenção aos termos de antes de 2009."
+        }
+      ],
+      "flashcards": []
     }
   ]
 }
