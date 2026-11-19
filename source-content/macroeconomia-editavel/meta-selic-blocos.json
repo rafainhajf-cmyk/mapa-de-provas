@@ -8,31 +8,49 @@
     {
       "type": "table",
       "rows": [
-        ["Pergunta", "Resposta (conforme a fonte)"],
-        ["Quem define a meta de inflação?", "O Conselho Monetário Nacional (CMN)."],
-        ["Quem define a meta da taxa Selic?", "O Comitê de Política Monetária (Copom) do Banco Central."],
-        ["Como o BC faz a taxa de mercado (Selic efetiva) ficar igual à meta (Selic meta)?", "Por meio das operações de mercado aberto (open market)."]
+        [
+          "Pergunta",
+          "Resposta (conforme a fonte)"
+        ],
+        [
+          "Quem define a meta de inflação?",
+          "O Conselho Monetário Nacional (CMN)."
+        ],
+        [
+          "Quem define a meta da taxa Selic?",
+          "O Comitê de Política Monetária (Copom) do Banco Central."
+        ],
+        [
+          "Como o BC faz a taxa de mercado (Selic efetiva) ficar igual à meta (Selic meta)?",
+          "Por meio das operações de mercado aberto (open market)."
+        ]
       ]
     },
     {
       "type": "flowchart",
       "title": "Como a meta Selic é cumprida",
       "steps": [
-        {"label": "1. Anúncio", "text": "O Copom se reúne a cada 45 dias e define a meta da taxa Selic (exemplo da fonte: 10,75% a.a.)."},
-        {"label": "2. Execução", "text": "Para que a taxa de juros praticada pelos bancos entre si (no mercado interbancário) respeite esse valor, o Banco Central ajusta a liquidez (a quantidade de dinheiro disponível nas reservas bancárias)."},
-        {"label": "3. Instrumento (se sobra dinheiro)", "text": "Se sobra dinheiro no mercado (a taxa cairia abaixo da meta), o BC vende títulos públicos e enxuga o dinheiro."},
-        {"label": "3. Instrumento (se falta dinheiro)", "text": "Se falta dinheiro (a taxa subiria acima da meta), o BC compra títulos e injeta dinheiro."}
+        {
+          "label": "1. Anúncio",
+          "text": "O Copom se reúne a cada 45 dias e define a meta da taxa Selic (exemplo da fonte: 10,75% a.a.)."
+        },
+        {
+          "label": "2. Execução",
+          "text": "Para que a taxa de juros praticada pelos bancos entre si (no mercado interbancário) respeite esse valor, o Banco Central ajusta a liquidez (a quantidade de dinheiro disponível nas reservas bancárias)."
+        },
+        {
+          "label": "3. Instrumento (se sobra dinheiro)",
+          "text": "Se sobra dinheiro no mercado (a taxa cairia abaixo da meta), o BC vende títulos públicos e enxuga o dinheiro."
+        },
+        {
+          "label": "3. Instrumento (se falta dinheiro)",
+          "text": "Se falta dinheiro (a taxa subiria acima da meta), o BC compra títulos e injeta dinheiro."
+        }
       ]
-    },
-    {
-      "type": "callout",
-      "kind": "warning",
-      "title": "Origem do conteúdo",
-      "text": "A anotação traz a análise da alternativa D de uma questão. O conteúdo teórico do regime está acima; a análise da alternativa é específica da questão e deve ir para a resolução dela, não para o esquema."
     }
   ],
   "pendencias": [
-    "A análise da alternativa D é conteúdo de resolução de questão e não de esquema teórico. Confirmar com você se deve ficar no esquema ou ser movido para a questão do TEC (o número da questão não consta na anotação).",
+    "A anotação traz a análise da alternativa D de uma questão. Ela não entra no esquema: deve ir para a resolução da questão no TEC (número da questão não consta na anotação).",
     "Conferir a regra de 45 dias e o exemplo de 10,75% a.a. na fonte oficial do Copom antes de aprovar, porque a taxa muda.",
     "Conferir a redação contra a anotação original antes de aprovar."
   ]
