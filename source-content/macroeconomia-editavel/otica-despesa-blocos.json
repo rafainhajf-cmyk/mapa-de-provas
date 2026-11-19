@@ -1,0 +1,48 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "PIB pela ótica da despesa",
+  "origem": "Imagem macroeconomia-pela-otica-da-despe-1.webp (anotação 'Pela ótica da despesa', 12/10/2026)",
+  "tipo": "novo assunto",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "paragraph",
+      "text": "O PIB pode ser analisado por três óticas equivalentes: a ótica do produto, que considera o valor dos bens e serviços finais produzidos; a ótica da renda, que observa a remuneração dos fatores de produção; e a ótica da despesa, que considera os gastos realizados na economia. Quando a mensuração é feita de forma consistente, essas três óticas conduzem ao mesmo resultado."
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Identidade da ótica da despesa",
+      "text": "PIB = C + I + G + X − M, em que C = consumo das famílias; I = investimento; G = gastos do governo; X = exportações; M = importações."
+    },
+    {
+      "type": "paragraph",
+      "text": "PIB e PNB: o PIB considera a produção realizada dentro do território econômico do país, enquanto o PNB considera a renda pertencente aos residentes nacionais. Assim, quando há renda líquida enviada ao exterior (RLEE) positiva, o PNB tende a ser menor que o PIB, pois parte da renda gerada internamente é enviada para o exterior."
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Formação de capital",
+      "text": "Na identidade, I = fbkf (formação bruta de capital fixo) + variação de estoques."
+    },
+    {
+      "type": "table",
+      "rows": [
+        ["Tipo", "O que mede"],
+        ["Produto nacional", "Produção/renda"],
+        ["Nível de emprego", "Mercado de trabalho"],
+        ["Despesa nacional", "O gasto agregado"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Política monetária não é medida",
+      "text": "A medida agregada mede a economia (PIB, emprego, investimento, gasto). A política econômica atua sobre a economia (monetária, fiscal, cambial). A política monetária pode ter indicadores associados (taxa Selic, base monetária etc.), mas ela em si não é uma medida, e sim um conjunto de ações e decisões."
+    }
+  ],
+  "pendencias": [
+    "A anotação diz 'Dica' e 'Resumo' sem separação clara entre medida agregada e política econômica; a organização aqui segue a ordem do texto.",
+    "Conferir a identidade e a definição de PNB e PIB na fonte oficial antes de aprovar."
+  ]
+}

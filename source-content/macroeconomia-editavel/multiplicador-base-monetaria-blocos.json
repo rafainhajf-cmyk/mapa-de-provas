@@ -1,0 +1,25 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Multiplicador da base monetária",
+  "origem": "Imagem macroeconomia-multiplicador-da-base-monetaria-1.webp (anotação de 19/09/2026)",
+  "tipo": "fórmula",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Definição",
+      "text": "O multiplicador da base monetária é a razão entre o total de meios de pagamento e a base monetária: m = MP / BM."
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Forma didática",
+      "text": "M = 1 / R, em que M é o multiplicador monetário e R é a taxa de recolhimento compulsório."
+    }
+  ],
+  "pendencias": [
+    "A anotação usa 'm' para o multiplicador da base e 'M' para o multiplicador monetário na fórmula didática; os dois símbolos foram mantidos como estão na fonte.",
+    "Conferir a fórmula M = 1/R na fonte oficial antes de aprovar, pois é uma simplificação didática."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Taxas de câmbio nominal (TCN) e real (TCR)",
+  "origem": "Imagem macroeconomia-taxas-de-cambio-1.webp (anotação 'Taxas de câmbio', 19/09/2026)",
+  "tipo": "comparativo",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        ["Conceito", "O que reflete", "Fórmula (conforme a fonte)"],
+        ["Taxa de câmbio nominal (TCN)", "O preço da moeda estrangeira medido pela moeda nacional: quanto de moeda nacional é necessário para comprar uma unidade de moeda estrangeira.", "TCN = R$ / US$ (supondo o real como moeda nacional e o dólar americano como moeda estrangeira)"],
+        ["Taxa de câmbio real (TCR)", "O preço relativo de um bem entre dois países: a taxa pela qual poderíamos trocar um bem de um país por outro. Reflete a relação entre as moedas, os respectivos níveis de preços dos países e o poder de compra de cada moeda medido pela outra.", "TCR = TCN · P_EUA / P_BR (ver pendência)"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Fórmula com inflações (versão diferente na mesma anotação)",
+      "text": "A anotação também traz E = e · P* / P, em que E = taxa de câmbio real; e = taxa de câmbio nominal; P* = inflação nos EUA (IPC); P = inflação no Brasil (IPCA)."
+    }
+  ],
+  "pendencias": [
+    "A anotação escreve 'TCR = TCN.PEUA PBR' sem o sinal de divisão visível; a fórmula foi registrada como TCN · P_EUA / P_BR, mas precisa ser conferida na fonte antes de aprovar.",
+    "A anotação escreve 'TCN = R$US$' sem separador visível; a versão aqui lê como R$ / US$, o que também precisa de conferência.",
+    "Há duas definições de taxa de câmbio real na mesma anotação: uma com níveis de preços (P_BR, P_EUA) e outra com inflações (P e P*), com símbolos diferentes e nomes de índices diferentes (IPCA e IPC). Não estão reconciliadas na fonte; esta versão mantém as duas e não escolhe uma.",
+    "Conferir a redação contra a anotação original e contra a fonte oficial antes de aprovar."
+  ]
+}

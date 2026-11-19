@@ -1,0 +1,38 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Multiplicador keynesiano: gastos autônomos e renda de equilíbrio",
+  "origem": "Imagem macroeconomia-multiplicador-keynesiano-1.webp (anotação 'Multiplicador Keynesiano', 10/08/2026)",
+  "tipo": "exemplo resolvido",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "paragraph",
+      "text": "O multiplicador de gastos mede o impacto total na renda de uma variação nos gastos autônomos. Gastos autônomos são aqueles que não dependem do nível de renda; neste modelo, são o investimento (I) e os gastos do governo (G)."
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Fórmula do multiplicador",
+      "text": "k = 1 / (1 − PMC), em que PMC é a propensão marginal a consumir."
+    },
+    {
+      "type": "flowchart",
+      "title": "Exemplo resolvido",
+      "steps": [
+        {"label": "1. Multiplicador", "text": "k = 1 / (1 − 0,8) = 1 / 0,2 = 5. Para cada R$ 1 de gasto autônomo, a renda total aumenta em R$ 5."},
+        {"label": "2. Gastos autônomos totais", "text": "A = I + G = 100 + 200 = 300."},
+        {"label": "3. Renda de equilíbrio", "text": "Y = k × A = 5 × 300 = 1.500."}
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Economia fechada",
+      "text": "Como a propensão marginal a poupar (s) e a propensão marginal a consumir (c) de uma economia fechada devem somar 1 (s + c = 1), o multiplicador de gastos é 1 / (1 − c)."
+    }
+  ],
+  "pendencias": [
+    "A anotação escreve 'multiplicador de gastos = 1/1-c' sem parênteses; a versão aqui usa 1 / (1 − c), que é a leitura correta da fórmula.",
+    "Conferir a redação e os valores (PMC = 0,8; I = 100; G = 200) contra a anotação original; são valores de exemplo, não regra geral."
+  ]
+}

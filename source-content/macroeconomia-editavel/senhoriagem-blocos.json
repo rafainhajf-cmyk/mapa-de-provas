@@ -1,0 +1,38 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Senhoriagem",
+  "origem": "Imagem macroeconomia-senhoriagem-1.webp (anotação 'senhoriagem', 27/08/2026)",
+  "tipo": "novo assunto",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Efeito negativo",
+      "text": "A senhoriagem tem como efeito negativo a elevação das pressões inflacionárias."
+    },
+    {
+      "type": "paragraph",
+      "text": "A senhoriagem resulta da diferença entre o valor estampado em cada moeda e o seu custo para emiti-la."
+    },
+    {
+      "type": "flowchart",
+      "title": "Exemplo da anotação",
+      "steps": [
+        {"label": "Emissão", "text": "O governo emite 10 cédulas de R$ 10,00."},
+        {"label": "Custo", "text": "Cada cédula custa R$ 3,00 para ser produzida."},
+        {"label": "Lucro (senhoriagem)", "text": "10 × (R$ 10,00 − R$ 3,00) = R$ 70,00."}
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Destinação do lucro",
+      "text": "Independentemente da destinação do lucro obtido com a moeda gerada (financiamento do déficit público ou outra), o principal efeito negativo é o aumento de preços (aumento das pressões inflacionárias)."
+    }
+  ],
+  "pendencias": [
+    "A anotação diz 'como vimos na assertiva I'; essa referência pertence a uma questão específica e não deve ficar no esquema. Foi removida desta versão.",
+    "Conferir o exemplo e a redação contra a anotação original antes de aprovar."
+  ]
+}
