@@ -1,32 +1,73 @@
 {
   "materia": "Macroeconomia",
-  "topico": "Índices de preços: IPCA, INPC, IGP-M e IPA",
-  "origem": "Imagem macroeconomia-indice-de-precos-1.webp (anotação 'Índice de preços', 27/08/2026)",
-  "tipo": "novo assunto",
+  "topico": "Índices de preços: IPCA, INPC, IGP-M, IPA, IGP-DI e IGP-10",
+  "origem": "Imagens macroeconomia-indice-de-precos-1.webp (27/08/2026) e macroeconomia-indices-1.webp (05/09/2026), fundidas",
+  "tipo": "comparativo",
   "status": "draft",
   "blocos": [
     {
+      "type": "paragraph",
+      "text": "O IGP-M é apurado a partir da média ponderada de três outros índices, com os pesos: Índice Nacional de Custo da Construção (INCC) = 10%; Índice de Preços ao Consumidor (IPC) = 30%; Índice de Preços ao Produtor Amplo (IPA) = 60%."
+    },
+    {
       "type": "table",
       "rows": [
-        ["Índice", "Nome por extenso (conforme a fonte)", "Calculado pelo"],
-        ["IPCA", "Índice Nacional de Preços ao Consumidor Amplo", "IBGE"],
-        ["INPC", "Índice Nacional de Preços ao Consumidor", "IBGE"],
-        ["IGP-M", "Índice Geral de Preços do Mercado", "FGV"],
-        ["IPA", "Índice de Preços ao Produtor Amplo", "FGV"]
+        [
+          "Índice",
+          "Coleta",
+          "Abrangência",
+          "Referência / foco"
+        ],
+        [
+          "IPCA",
+          "IBGE",
+          "Famílias de 1 a 40 salários mínimos",
+          "Meta de inflação (Banco Central). Foco: consumo final."
+        ],
+        [
+          "INPC",
+          "IBGE",
+          "Famílias de 1 a 5 salários mínimos (chefe assalariado)",
+          "Correção do salário mínimo, aposentadorias e salários. Foco: baixa renda."
+        ],
+        [
+          "IGP-M",
+          "FGV (Fundação Getulio Vargas)",
+          "Composição ponderada: 60% IPA (atacado) + 30% IPC (consumidor) + 10% INCC (construção)",
+          "Contratos de aluguel e tarifas públicas (energia)"
+        ],
+        [
+          "IGP-DI / IGP-10",
+          "FGV",
+          "IGP-DI: dia 01 a 31 do mês de referência. IGP-10: dia 11 do mês anterior ao dia 10 do mês de referência.",
+          "IGP-DI usado como deflator"
+        ]
       ]
     },
     {
       "type": "flowchart",
       "title": "Meta de inflação",
       "steps": [
-        {"label": "Conselho Monetário Nacional", "text": "Define a meta de inflação."},
-        {"label": "Banco Central", "text": "Adota as medidas necessárias para alcançar a meta. O COPOM é um dos órgãos do BCB."},
-        {"label": "BCB", "text": "Utiliza o IPCA no sistema de metas de inflação."}
+        {
+          "label": "Conselho Monetário Nacional",
+          "text": "Define a meta de inflação."
+        },
+        {
+          "label": "Banco Central",
+          "text": "Adota as medidas necessárias para alcançar a meta. O COPOM é um dos órgãos do BCB."
+        },
+        {
+          "label": "BCB",
+          "text": "Utiliza o IPCA no sistema de metas de inflação."
+        }
       ]
     }
   ],
   "pendencias": [
-    "A anotação original escreve 'Íncide' e 'Índice' com grafia diferente em um dos nomes; a forma correta foi usada aqui.",
-    "Conferir a redação contra a anotação original antes de aprovar."
+    "A imagem traz a diferença do IGP-DI e do IGP-10 apenas pelo período de coleta; conferir esses períodos na fonte oficial da FGV antes de aprovar.",
+    "Conferir os pesos (10%, 30%, 60%) e a redação contra a anotação original antes de aprovar.",
+    "Tabela comparativa da anotação de 05/09 substituiu a tabela simples da anotação de 27/08, por cobrir os mesmos índices com mais detalhe.",
+    "A anotação de 27/08 escreve 'Íncide' e 'Índice' com grafia diferente em um dos nomes; a forma correta foi usada.",
+    "Conferir a redação contra as anotações originais antes de aprovar."
   ]
 }
