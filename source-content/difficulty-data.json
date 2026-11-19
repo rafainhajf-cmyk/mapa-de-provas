@@ -9759,13 +9759,9 @@
         "kind": "study-note",
         "topic": "Agregados monetários",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-agregados-monetarios.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-agregados-monetarios-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -9775,7 +9771,64 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Moeda e sistema monetário",
         "studyGroupOrder": 5,
-        "studyOrder": 1
+        "studyOrder": 1,
+        "contentBlocks": [
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Agregado",
+                "Conceito",
+                "Característica",
+                "Emissor"
+              ],
+              [
+                "M1 (meio de pagamento restrito)",
+                "PMPP + DV (depósitos à vista)",
+                "Liquidez absoluta. Não rende juros. Sofre impacto da inflação.",
+                "-"
+              ],
+              [
+                "M2",
+                "M1 + depósitos especiais remunerados + poupança + títulos emitidos pelas instituições depositárias",
+                "Rende juros. Concentra os ativos financeiros emitidos por bancos comerciais.",
+                "Instituições depositárias"
+              ],
+              [
+                "M3",
+                "M2 + cotas de fundos de renda fixa + operações compromissadas e registradas no Selic",
+                "Rende juros. Concentra os ativos emitidos em parceria com as instituições depositárias, mas sem se confundir com elas.",
+                "Particulares (privado)"
+              ],
+              [
+                "M4 (poupança financeira)",
+                "M3 + títulos públicos de alta liquidez",
+                "Rende juros. Concentra os títulos emitidos pelo Poder Público.",
+                "Governo"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "M1: dinheiro na mão: o que você usa agora, notas na carteira e saldo na conta-corrente. Tem liquidez total e imediata."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "M2: dinheiro guardado: inclui tudo do M1 mais o dinheiro na poupança. Rende juros, mas precisa de um passo para ser usado."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "M3: dinheiro investido: soma o M2 com aplicações em fundos de renda fixa. É dinheiro que está trabalhando para você."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "M4: o cofre distante: o M3 somado aos títulos públicos. É a forma menos líquida de dinheiro, pensada para o longo prazo."
+          }
+        ]
       },
       {
         "id": "1Bh4xhpJXE2eWqBhaw6Ctdu9begrT6hLG",
@@ -9786,14 +9839,9 @@
         "kind": "study-note",
         "topic": "Balança de pagamento",
         "category": "Macroeconomia",
-        "summary": "Estrutura do balanço de pagamentos e conta financeira: ativos, passivos, convenção BPM6 e exemplos de sinais.",
+        "summary": "2 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF e anotações enviados pelo usuário em 24/10/2026; organização e distinções sobre sinais conferidas na Nota Metodológica nº 1 do BCB (BPM6), seções 3.1 a 3.4.",
         "pageCount": 2,
-        "pdfAsset": "assets/macroeconomia-balanca-de-pagamento.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-balanca-de-pagamento-1.webp",
-          "assets/macroeconomia-balanca-de-pagamento-2.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10054,6 +10102,98 @@
             "libraryFileId": "libfile_dc8645abb9208191b16dc5059675d67e",
             "description": "Estrutura do BP e explicação de ativos, passivos e sinais."
           }
+        ],
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Compreende a conta de bens e serviços (balança comercial e balança de serviços), conta de renda primária, conta de renda secundária, conta capital, conta financeira e erros e omissões."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Estrutura atualmente utilizada:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "1. Balança comercial (exportações e importações): exportação; importação."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "2. Balança de serviços (receitas e despesas): manufatura sobre insumos físicos de terceiros; manutenção e reparo; transportes; viagens; construção; seguros; financeiros; outros."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "3. Renda primária (receitas e despesas): salários e ordenados; renda de investimentos; demais rendas primárias."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "4. Renda secundária (receitas e despesas): transferências correntes."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Saldo do balanço de pagamentos em transações correntes = 1 + 2 + 3 + 4."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "5. Conta capital (receitas e despesas): ativos não financeiros não produzidos; transferências de capital."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "6. Conta financeira: entrada líquida (-) ou saída líquida (+): investimento direto; investimento em carteira; derivativos; outros investimentos; ativos de reserva."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "7. Erros e omissões."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Balanço de pagamentos, em detalhe:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "1. Transações correntes: 1.1 balança comercial (bens): 1.1.1 exportações, 1.1.2 importações; 1.2 serviços: 1.2.1 transportes, fretes e seguros; 1.2.2 turismo e viagens internacionais; 1.2.3 aluguel de equipamentos; 1.2.4 serviços governamentais; 1.2.5 demais serviços; 1.3 renda primária: 1.3.1 remuneração de empregados; 1.3.2 rendas de investimentos: 1.3.2.1 renda de investimento direto, 1.3.2.2 renda de investimento em carteira, 1.3.2.3 renda de outros investimentos (juros); 1.4 renda secundária (transferências unilaterais)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "2. Saldo em transações correntes = 1.1 + 1.2 + 1.3 + 1.4."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "3. Conta capital: 2.1 ativos não financeiros; 2.2 transferências de capital."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "4. Conta financeira: 3.1 investimentos diretos; 3.2 investimentos em carteira; 3.3 derivativos; 3.4 outros investimentos."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "5. Erros e omissões."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "6. Saldo do balanço de pagamentos = 2 + 3 + 4."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "7. Variação das reservas internacionais = - 6."
+          }
         ]
       },
       {
@@ -10065,13 +10205,9 @@
         "kind": "study-note",
         "topic": "Balancete BACEN",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-balancete-bacen.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-balancete-bacen-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10081,7 +10217,50 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Moeda e sistema monetário",
         "studyGroupOrder": 5,
-        "studyOrder": 2
+        "studyOrder": 2,
+        "contentBlocks": [
+          {
+            "type": "table",
+            "rows": [
+              [
+                "ATIVO",
+                "PASSIVO"
+              ],
+              [
+                "Reservas internacionais",
+                "Passivo monetário (base monetária)"
+              ],
+              [
+                "Empréstimos ao Tesouro Nacional",
+                "Papel moeda emitido (PME)"
+              ],
+              [
+                "Redescontos e outros empréstimos aos bancos comerciais",
+                "Depósitos dos bancos comerciais: voluntários; compulsórios"
+              ],
+              [
+                "Títulos públicos federais",
+                "Passivo não monetário: empréstimos externos; demais exigibilidades; depósitos do Tesouro Nacional"
+              ],
+              [
+                "Empréstimos ao setor privado",
+                ""
+              ],
+              [
+                "Empréstimos aos governos estaduais, municipais, autarquias e outras entidades públicas",
+                ""
+              ],
+              [
+                "Imobilizado",
+                ""
+              ],
+              [
+                "Outras aplicações",
+                ""
+              ]
+            ]
+          }
+        ]
       },
       {
         "id": "1BzPVi3sWUYU2DuwF-Fti-XpfCV7X6T9G",
@@ -10092,13 +10271,9 @@
         "kind": "study-note",
         "topic": "Conceitos básicos da Macroeconomia objetivos e tipos de mercados",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-conceitos-basicos-da-macroeconomia-objetivos-e-tipos-de-mercados.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-conceitos-basicos-da-macroeconomia-objetivos-e-tipos-de-mercados-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10108,7 +10283,54 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Conceitos básicos e sequência da Macroeconomia",
         "studyGroupOrder": 1,
-        "studyOrder": 0
+        "studyOrder": 0,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Conceitos básicos da Macroeconomia: objetivos e tipos de mercados."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Contas nacionais. Conceitos e identidades macroeconômicos. Produto nominal × produto real (deflator do PIB). Balanço de pagamentos."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Modelo keynesiano. Economia clássica."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Moeda: funções e atributos da moeda; demanda por moeda; oferta de moeda e agregados monetários; multiplicador monetário; teoria quantitativa da moeda."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Modelo IS-LM de determinação da renda e dos juros: economia fechada; economia aberta (modelo Mundell-Flemming)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Modelo de oferta e demanda agregada (OA-DA) de determinação da renda e dos preços."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Curvas de Phillips; inflação."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Políticas de governo ou atuação do Estado na economia: política fiscal; política monetária; regimes cambiais."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Crescimento econômico: modelo de Solow; crescimento endógeno e outros modelos."
+          }
+        ]
       },
       {
         "id": "1EsVS_vDUuTnWt2NbF4EAe1WYDVY7duMd",
@@ -10119,13 +10341,9 @@
         "kind": "study-note",
         "topic": "Contas PIB",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-contas-pib.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-contas-pib-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10135,7 +10353,64 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Contas nacionais e PIB",
         "studyGroupOrder": 2,
-        "studyOrder": 0
+        "studyOrder": 0,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Esquematizando: o produto (renda) divide-se em nacional e interno. Ao nacional soma-se a RLEE (renda líquida enviada ao exterior); ao interno, não. Em cada um, há os valores bruto e líquido (este com a depreciação descontada). Cada valor pode ser medido a custo de fatores ou a preço de mercado, e a diferença entre eles são os impostos indiretos líquidos de subsídios (+ II – subsídios)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Desta estrutura tiramos 8 terminologias:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "1. Produto Nacional Bruto a custo de fatores."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "2. Produto Nacional Bruto a preço de mercado."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "3. Produto Nacional Líquido a custo de fatores."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "4. Produto Nacional Líquido a preço de mercado."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "5. Produto Interno Bruto a custo de fatores."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "6. Produto Interno Bruto a preço de mercado."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "7. Produto Interno Líquido a custo de fatores."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "8. Produto Interno Líquido a preço de mercado."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O PIB é considerado a melhor medida da economia de um país. Ele é o valor monetário de todos os produtos finais produzidos dentro da fronteira de uma nação. O PIB, neste caso, é o PIBpm (produto interno bruto a preço de mercado)."
+          }
+        ]
       },
       {
         "id": "13SyQZWGZzjd7akNk4Yz4HevGeab_alRU",
@@ -10146,13 +10421,9 @@
         "kind": "study-note",
         "topic": "crowding out",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-crowding-out.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-crowding-out-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10162,7 +10433,14 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Modelo IS–LM e situações específicas",
         "studyGroupOrder": 6,
-        "studyOrder": 4
+        "studyOrder": 4,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O efeito denominado crowding-out é o efeito decorrente do aumento da taxa de juros, dado um aumento dos gastos públicos, em que há redução dos gastos privados, especialmente dos investimentos em expansão de capacidade produtiva, o que diminui o impacto da ação do governo sobre a demanda agregada."
+          }
+        ]
       },
       {
         "id": "1BsQ2o-gbM0Bv1P_fkL5RbLAWDOOfR6rM",
@@ -10173,13 +10451,9 @@
         "kind": "study-note",
         "topic": "CURVA DE PHILLIPS",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-curva-de-phillips.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-curva-de-phillips-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10189,7 +10463,29 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Curva de Phillips e inflação",
         "studyGroupOrder": 8,
-        "studyOrder": 0
+        "studyOrder": 0,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "A Curva de Phillips original considerava o trade-off entre salário nominal e desemprego. Segundo a teoria, quando o desemprego está baixo, o salário sobe (como há muitas empresas disputando poucos trabalhadores, elas têm que oferecer um salário maior) e, ao contrário, quando o desemprego está alto, o salário diminui."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Depois, evoluiu para uma observação entre desemprego e inflação, dado que os salários altos aumentam os custos, o que aumenta os preços e gera inflação. Então, a teoria passou para a visão mais abrangente de inflação × desemprego."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Depois, passou-se a considerar que a inflação não é só influenciada pelo desemprego, mas também pela inflação esperada (aquilo que os trabalhadores e empregadores esperam que aconteça com os preços) e pelos choques de oferta (acontecimentos que mudam o custo ou a capacidade de produção das empresas). Exemplo clássico: o preço do petróleo sobe muito; o petróleo é usado para produzir e transportar praticamente tudo, então o custo das empresas aumenta e elas repassam parte desse aumento para os preços."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Assim, por fim, a teoria ficou no trade-off entre inflação × desemprego, considerando inflação esperada e choques de oferta."
+          }
+        ]
       },
       {
         "id": "1fgQYL6xHH8mEbyCrnqmxlTUiYVRCzoXu",
@@ -10200,13 +10496,9 @@
         "kind": "study-note",
         "topic": "Deflator do pib",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-deflator-do-pib.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-deflator-do-pib-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10216,7 +10508,34 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Contas nacionais e PIB",
         "studyGroupOrder": 2,
-        "studyOrder": 2
+        "studyOrder": 2,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O PIB a preços correntes representa o PIB nominal, enquanto o PIB que reflete apenas a variação física da produção é o PIB real. A relação entre essas variáveis é dada pela fórmula do deflator: Deflator = (PIB nominal / PIB real) × 100."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Com isso, vamos calcular o PIB real:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Ano 2010: PIB real 2010 = (100 / 105) × 100 ≈ 95,24."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Ano 2020: PIB real 2020 = (125 / 125) × 100 = 100,00."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Crescimento real: ((100 − 95,24) / 95,24) × 100 ≈ 5,0%."
+          }
+        ]
       },
       {
         "id": "1X3xVr8PiO1BbKLLx8qc5isZJTAETrXCr",
@@ -10227,13 +10546,9 @@
         "kind": "study-note",
         "topic": "equivalência ricardiana",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-equivalencia-ricardiana.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-equivalencia-ricardiana-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10243,7 +10558,39 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Políticas fiscal e monetária",
         "studyGroupOrder": 9,
-        "studyOrder": 1
+        "studyOrder": 1,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "A equivalência ricardiana argumenta que, se o governo reduz impostos hoje e financia isso com dívida, as pessoas sabem que, no futuro, os impostos terão que ser aumentados para pagar essa dívida. Por causa disso, elas não gastam o dinheiro extra da desoneração. Em vez disso, elas poupam para pagar os futuros impostos."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "A política de desoneração aumenta a renda disponível das pessoas."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Consumo corrente não muda: pela equivalência ricardiana, as pessoas não aumentam o consumo."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "A poupança privada aumenta na mesma proporção da dívida pública: elas aumentam a poupança privada para cobrir os futuros impostos."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Se o consumo não aumenta, a demanda agregada e o produto não se alteram."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "A política fiscal é neutra."
+          }
+        ]
       },
       {
         "id": "1XJOvgrB9f0l4-gDY4xRhq5Ek4l5VtEYZ",
@@ -10254,13 +10601,9 @@
         "kind": "study-note",
         "topic": "Excesso de moeda",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-excesso-de-moeda.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-excesso-de-moeda-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10331,7 +10674,19 @@
             "credit": "Recriado do esquema enviado, com crédito a @Trembolona no original. Curvas sem escala."
           }
         ],
-        "visualRecreatedAt": "2026-10-25"
+        "visualRecreatedAt": "2026-10-25",
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Gráfico LM (juros × renda): acima da curva, há excesso de oferta de moeda; abaixo, excesso de demanda de moeda."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Gráfico IS (juros × renda): acima da curva, há excesso de oferta de bens; abaixo, excesso de demanda de bens."
+          }
+        ]
       },
       {
         "id": "1PLxYIjSQsQYTg5y-lR4Jru82Z05A6Vog",
@@ -10342,14 +10697,9 @@
         "kind": "study-note",
         "topic": "Fiscal e monetária",
         "category": "Macroeconomia",
-        "summary": "2 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "2 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 2,
-        "pdfAsset": "assets/macroeconomia-fiscal-e-monetaria.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-fiscal-e-monetaria-1.webp",
-          "assets/macroeconomia-fiscal-e-monetaria-2.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10363,7 +10713,129 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Políticas fiscal e monetária",
         "studyGroupOrder": 9,
-        "studyOrder": 0
+        "studyOrder": 0,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Política fiscal: atua sobre gastos e tributos (política fiscal expansiva ou contracionista). Mexe em gastos públicos, tributos e orçamento."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Política monetária: atua sobre juros e oferta de dinheiro (política monetária expansionista ou restritiva). Mexe em taxa de câmbio, oferta de moeda e juros."
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Política fiscal",
+                "Mecanismo",
+                "Efeito"
+              ],
+              [
+                "Aumento de gastos públicos (G)",
+                "Aumenta a demanda agregada e o PIB",
+                "Expansiva"
+              ],
+              [
+                "Redução de gastos públicos (G)",
+                "Reduz a demanda agregada e o PIB",
+                "Contracionista"
+              ],
+              [
+                "Redução de tributos (T)",
+                "Aumenta a renda disponível, consumo e investimento",
+                "Expansiva"
+              ],
+              [
+                "Aumento de tributos (T)",
+                "Reduz a renda disponível, consumo e investimento",
+                "Contracionista"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Em resumo: medidas expansionistas (↑G ou ↓T) estimulam a economia; medidas contracionistas (↓G ou ↑T) reduzem o aquecimento da economia."
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Política monetária",
+                "Mecanismo",
+                "Efeito"
+              ],
+              [
+                "Redução da taxa de juros (Selic)",
+                "Crédito mais barato, aumenta consumo e investimento",
+                "Expansionista"
+              ],
+              [
+                "Aumento da taxa de juros (Selic)",
+                "Crédito mais caro, reduz consumo e investimento",
+                "Contracionista"
+              ],
+              [
+                "Compra de títulos públicos pelo BC (mercado aberto)",
+                "Aumenta a liquidez",
+                "Expansionista"
+              ],
+              [
+                "Venda de títulos públicos pelo BC (mercado aberto)",
+                "Reduz a liquidez",
+                "Contracionista"
+              ],
+              [
+                "Redução da taxa de redesconto",
+                "BC empresta mais barato aos bancos → aumenta a liquidez",
+                "Expansionista"
+              ],
+              [
+                "Aumento da taxa de redesconto",
+                "BC empresta mais caro aos bancos → reduz a liquidez",
+                "Contracionista"
+              ],
+              [
+                "Redução do compulsório",
+                "Bancos devem manter menos reservas → mais crédito na economia",
+                "Expansionista"
+              ],
+              [
+                "Aumento do compulsório",
+                "Bancos devem manter mais reservas → menos crédito na economia",
+                "Contracionista"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Em resumo: medidas expansionistas aumentam a oferta de moeda e reduzem juros; medidas contracionistas fazem o oposto."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Taxa de redesconto × redesconto: a taxa de redesconto é a taxa de juros cobrada pelo Banco Central quando ele empresta dinheiro aos bancos. O redesconto é o empréstimo que o Banco Central concede aos bancos quando eles precisam de recursos de curtíssimo prazo."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Aumento da taxa de redesconto (política contracionista): BC empresta mais caro aos bancos, eles tomam menos recursos, reduz a liquidez na economia; crédito mais caro, menor demanda."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Aumento do redesconto (política expansionista): BC disponibiliza mais dinheiro aos bancos, aumenta a liquidez na economia; crédito mais barato, maior demanda."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Ideia central: políticas expansionistas estimulam a atividade econômica e o emprego, mas podem pressionar a inflação. Políticas contracionistas controlam a inflação, mas podem desacelerar a economia."
+          }
+        ]
       },
       {
         "id": "10O1iElzWcjA6lN_x1UzPaMb6wUPchGbS",
@@ -10374,13 +10846,9 @@
         "kind": "study-note",
         "topic": "Funções da moeda",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-funcoes-da-moeda.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-funcoes-da-moeda-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10421,7 +10889,34 @@
             ]
           }
         ],
-        "visualRecreatedAt": "2026-10-25"
+        "visualRecreatedAt": "2026-10-25",
+        "contentBlocks": [
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Função",
+                "Descrição",
+                "Resumo"
+              ],
+              [
+                "1. Instrumento (meio) de troca",
+                "Promove o intercâmbio de certos bens e serviços por outros",
+                "Meio de pagamento"
+              ],
+              [
+                "2. Medida de valor (unidade de conta)",
+                "Serve de parâmetro para se apurar o valor monetário da transação de bens e serviços",
+                "Define preço"
+              ],
+              [
+                "3. Reserva de valor",
+                "Permite que os agentes econômicos mantenham seus patrimônios para uso posterior",
+                "Proteção"
+              ]
+            ]
+          }
+        ]
       },
       {
         "id": "1c3vLOun6yGWZHbD1-scrK08yNuzZtMzT",
@@ -10432,13 +10927,9 @@
         "kind": "study-note",
         "topic": "Inclinação reta",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-inclinacao-reta.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-inclinacao-reta-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10559,7 +11050,24 @@
             "note": "Os desenhos mostram inclinações; não representam estimativas de uma economia específica."
           }
         ],
-        "visualRecreatedAt": "2026-10-25"
+        "visualRecreatedAt": "2026-10-25",
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "A inclinação das curvas IS e LM indica a sensibilidade, respectivamente, do investimento e da demanda por moeda às variações na taxa de juros."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "IS e LM mais inclinadas (menos sensíveis): a variação da renda é menor diante de uma variação dos juros."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "IS e LM menos inclinadas (mais sensíveis): a variação da renda é maior diante de uma variação dos juros."
+          }
+        ]
       },
       {
         "id": "1lB34k2Zx6dtP-py8KpGqfbE1DYQs4LUP",
@@ -10570,13 +11078,9 @@
         "kind": "study-note",
         "topic": "Indice de preços",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-indice-de-precos.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-indice-de-precos-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10586,7 +11090,44 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Curva de Phillips e inflação",
         "studyGroupOrder": 8,
-        "studyOrder": 1
+        "studyOrder": 1,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "IPCA (Índice Nacional de Preços ao Consumidor Amplo): calculado pelo IBGE."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "INPC (Índice Nacional de Preços ao Consumidor): calculado pelo IBGE."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "IGP-M (Índice Geral de Preços do Mercado): calculado pela FGV."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "IPA (Índice de Preços ao Produtor Amplo): calculado pela FGV."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O Conselho Monetário Nacional define a meta de inflação."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Banco Central: adota as medidas necessárias para alcançar a meta (Copom, um dos órgãos do BCB)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O BCB utiliza o IPCA no sistema de metas de inflação."
+          }
+        ]
       },
       {
         "id": "1UIVkdg5URRQU7jL2uwX8OXJ9IZktEjEJ",
@@ -10597,13 +11138,9 @@
         "kind": "study-note",
         "topic": "Indices",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-indices.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-indices-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10613,7 +11150,49 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Curva de Phillips e inflação",
         "studyGroupOrder": 8,
-        "studyOrder": 2
+        "studyOrder": 2,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O IGP-M é apurado a partir da média ponderada de três outros índices, aos quais são atribuídos pesos: INCC (Índice Nacional de Custo da Construção) = 10%; IPC (Índice de Preços ao Consumidor) = 30%; IPA (Índice de Preços ao Produtor Amplo) = 60%."
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Índice",
+                "Abrangência",
+                "Coleta",
+                "Referência"
+              ],
+              [
+                "IPCA",
+                "Famílias de 1 a 40 salários mínimos",
+                "IBGE",
+                "Meta de inflação (Banco Central); foco: consumo final"
+              ],
+              [
+                "INPC",
+                "Famílias de 1 a 5 salários mínimos (chefe assalariado)",
+                "IBGE",
+                "Correção do salário mínimo, aposentadorias e salários; foco: baixa renda"
+              ],
+              [
+                "IGP-M",
+                "Índice geral de preços: mercado. Composição: 60% IPA (atacado) + 30% IPC (consumidor) + 10% INCC (construção)",
+                "FGV (Fundação Getulio Vargas)",
+                "Contratos de aluguel, tarifas públicas (energia)"
+              ],
+              [
+                "IGP-DI / IGP-10",
+                "Índices gerais de preços. IGP-DI: dia 01 a 31 do mês de referência; IGP-10: dia 11 do mês anterior ao dia 10 do mês de referência",
+                "FGV",
+                "IGP-DI usado como deflator"
+              ]
+            ]
+          }
+        ]
       },
       {
         "id": "1ps9olopFw4IQQ9CejNN9mAToPCS1KHnA",
@@ -10624,13 +11203,9 @@
         "kind": "study-note",
         "topic": "Instrumentos de política monetária",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-instrumentos-de-politica-monetaria.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-instrumentos-de-politica-monetaria-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10640,7 +11215,54 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Políticas fiscal e monetária",
         "studyGroupOrder": 9,
-        "studyOrder": 2
+        "studyOrder": 2,
+        "contentBlocks": [
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Instrumento",
+                "Política expansionista (estímulo à economia)",
+                "Política contracionista (controle da inflação)"
+              ],
+              [
+                "Open market (mercado aberto)",
+                "Aumenta a compra de títulos públicos → liquidez na economia ↑; taxas de juros ↓",
+                "Aumenta a venda de títulos públicos → liquidez na economia ↓; taxas de juros ↑"
+              ],
+              [
+                "Taxa de depósitos compulsórios",
+                "Reduz o recolhimento compulsório → recursos disponíveis nos bancos ↑; oferta de crédito ↑",
+                "Aumenta o recolhimento compulsório → recursos disponíveis nos bancos ↓; oferta de crédito ↓"
+              ],
+              [
+                "Taxa de redesconto",
+                "Reduz a taxa de redesconto → custo do crédito para os bancos ↓; oferta de crédito ↑",
+                "Aumenta a taxa de redesconto → custo do crédito para os bancos ↑; oferta de crédito ↓"
+              ],
+              [
+                "Taxa de juros (Selic)",
+                "Reduz a taxa de juros (Selic) → custo do crédito ↓; consumo e investimento ↑",
+                "Aumenta a taxa de juros (Selic) → custo do crédito ↑; consumo e investimento ↓"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Juro baixo = economia aquece (juro ↓, economia ↑). Juro alto = economia esfria (juro ↑, economia ↓)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Redesconto: o aumento no redesconto gera liquidez (política monetária expansionista); o BCB empresta mais dinheiro aos bancos comerciais."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Taxa de redesconto: o aumento na taxa de redesconto reduz a liquidez (política monetária contracionista); o BCB desestimula o redesconto."
+          }
+        ]
       },
       {
         "id": "1RfuvCIfwUSjKkIC1UAx7HjczYFNfSrpB",
@@ -10651,13 +11273,9 @@
         "kind": "study-note",
         "topic": "Interação e equilíbrio entre IS e LM",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-interacao-e-equilibrio-entre-is-e-lm.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-interacao-e-equilibrio-entre-is-e-lm-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10751,7 +11369,44 @@
             ]
           }
         ],
-        "visualRecreatedAt": "2026-10-25"
+        "visualRecreatedAt": "2026-10-25",
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O modelo IS-LM é composto por duas curvas: a curva IS, que representa a igualdade entre poupança e investimento, e a curva LM, que representa a igualdade entre a demanda por moeda e a oferta de moeda."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O ponto de equilíbrio do modelo se encontra na interseção entre as duas curvas e representa a renda e a taxa de juros que correspondem a um nível de produção e emprego consistente com a estabilidade dos preços."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Política fiscal contracionista: a curva IS (fiscal) é deslocada para a esquerda, o que reduz o nível do produto para uma mesma taxa de juros. Para preservar o nível do produto, é importante uma política monetária expansionista, por exemplo, redução da alíquota dos depósitos compulsórios, de modo que os bancos comerciais terão maior disponibilidade de moeda."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Armadilha da liquidez: a política monetária se torna ineficaz devido à preferência dos agentes econômicos por manter dinheiro em vez de investir em títulos. Acontece quando as taxas de juros estão excessivamente baixas, fazendo com que a política monetária não tenha efeito: o aumento da oferta de moeda não causa queda da taxa de juros, aumentando a retenção de saldos monetários ociosos e/ou reservas bancárias. Não há demanda por crédito."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "LM horizontal: a elasticidade da demanda por moeda em relação à taxa de juros é infinita; a sensibilidade da demanda por moeda do público é extremamente elevada."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Quadro de depressão econômica: os agentes acreditam que o preço dos ativos financeiros está excessivamente alto e irá cair; não investem para não ter prejuízo, a taxa de juros se encontra em nível muito baixo e, certamente, aumentará no futuro imediato."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Efeito crowding out (expulsão): quando a política fiscal não tem tanto efeito. Um aumento nos gastos do governo causa um aumento da taxa de juros, e um aumento na taxa de juros causa uma redução no investimento, reduzindo a demanda agregada."
+          }
+        ]
       },
       {
         "id": "1-iAbJi6jp2sOlMBKjrJEOFObyQ2MeIfN",
@@ -10762,13 +11417,9 @@
         "kind": "study-note",
         "topic": "Is lm",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-is-lm.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-is-lm-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -10933,7 +11584,57 @@
             "note": "Curvas esquemáticas, sem escala numérica. Eficácia refere-se ao efeito sobre a renda no modelo apresentado."
           }
         ],
-        "visualRecreatedAt": "2026-10-25"
+        "visualRecreatedAt": "2026-10-25",
+        "contentBlocks": [
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Situação",
+                "Formato da curva",
+                "Política fiscal",
+                "Política monetária",
+                "Motivo principal"
+              ],
+              [
+                "1. Armadilha da liquidez (LM horizontal)",
+                "LM horizontal",
+                "Eficaz",
+                "Ineficaz",
+                "Juros não caem mais"
+              ],
+              [
+                "2. IS vertical (modelo keynesiano simples)",
+                "IS vertical",
+                "Eficaz",
+                "Ineficaz",
+                "Investimento não depende da taxa de juros"
+              ],
+              [
+                "3. Caso clássico (LM vertical)",
+                "LM vertical",
+                "Ineficaz",
+                "Eficaz",
+                "Demanda por moeda não depende da taxa de juros"
+              ]
+            ]
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Armadilha da liquidez (LM horizontal): juros muito baixos e elevada preferência pela liquidez; a demanda por moeda é extremamente sensível à taxa de juros; a política monetária é ineficaz (aumento da oferta de moeda não reduz mais os juros); a política fiscal é eficaz (aumenta a renda sem elevação da taxa de juros)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "IS vertical (modelo keynesiano simples): o investimento é independente da taxa de juros; a variação da taxa de juros não altera a demanda agregada (renda é fixa no curto prazo); a política monetária é ineficaz (alterações na oferta de moeda só mudam a taxa de juros, não a renda); a política fiscal é eficaz (desloca a IS para a direita, aumentando a renda)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Caso clássico (LM vertical): a demanda por moeda é independente da taxa de juros; a quantidade de moeda determina a taxa de juros; a política fiscal é ineficaz (desloca a IS para a direita, mas apenas aumenta a taxa de juros, sem alterar a renda: crowding out completo); a política monetária é eficaz (desloca a LM para a direita, reduzindo os juros e aumentando a renda)."
+          }
+        ]
       },
       {
         "id": "1FqJbnRIrxi523hl6oK0rCh4u4kWLIkOV",
@@ -10944,13 +11645,9 @@
         "kind": "study-note",
         "topic": "IS-LM em situações específicas",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-is-lm-em-situacoes-especificas.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-is-lm-em-situacoes-especificas-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -11115,7 +11812,24 @@
             "note": "Curvas esquemáticas, sem escala numérica. Eficácia refere-se ao efeito sobre a renda no modelo apresentado."
           }
         ],
-        "visualRecreatedAt": "2026-10-25"
+        "visualRecreatedAt": "2026-10-25",
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Modelo Clássico: LM Vertical; demanda por moeda é perfeitamente inelástica; política monetária é eficiente; política fiscal sem efeito."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Modelo Keynesiano simplificado: IS Vertical; investimento é perfeitamente inelástico à taxa de juros; política monetária não produz efeito; política fiscal é eficiente."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Armadilha da liquidez: LM horizontal; demanda por moeda é totalmente elástica à taxa de juros; política monetária não produz efeito; política fiscal é eficiente."
+          }
+        ]
       },
       {
         "id": "1JKKHVr6GN5V7Mq1k78gGaUz1JXYRQVc3",
@@ -11126,13 +11840,9 @@
         "kind": "study-note",
         "topic": "Meta selic e inflação",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-meta-selic-e-inflacao.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-meta-selic-e-inflacao-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -11142,7 +11852,59 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Políticas fiscal e monetária",
         "studyGroupOrder": 9,
-        "studyOrder": 3
+        "studyOrder": 3,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O funcionamento do regime:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Quem define a meta de inflação? O Conselho Monetário Nacional (CMN)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Quem define a meta da taxa Selic? O Comitê de Política Monetária (Copom) do Banco Central."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Como o BC faz a taxa de mercado (Selic efetiva) ficar igual à meta (Selic meta)? Através das Operações de Mercado Aberto (Open Market)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Análise detalhada da alternativa D:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "1. O anúncio: o Copom se reúne a cada 45 dias e define a meta da taxa Selic (ex.: 10,75% a.a.)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "2. A execução: para que a taxa de juros praticada pelos bancos entre si (no mercado interbancário) respeite esse valor, o Banco Central precisa ajustar a liquidez (a quantidade de dinheiro disponível nas reservas bancárias)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "3. O instrumento:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Se sobra dinheiro no mercado (o que faria a taxa cair abaixo da meta), o BC vende títulos públicos e \"enxuga\" o dinheiro."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Se falta dinheiro (o que faria a taxa subir acima da meta), o BC compra títulos e injeta dinheiro."
+          }
+        ]
       },
       {
         "id": "1SBTV-pQTA1qZF55yyjVGUdcCpIvepMws",
@@ -11153,13 +11915,9 @@
         "kind": "study-note",
         "topic": "Modelo de Solow",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-modelo-de-solow.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-modelo-de-solow-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -11169,7 +11927,29 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Crescimento econômico e Modelo de Solow",
         "studyGroupOrder": 11,
-        "studyOrder": 0
+        "studyOrder": 0,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "No Modelo de Solow, um aumento na taxa de poupança:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Aumenta o nível de capital por trabalhador no longo prazo."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Aumenta o nível de renda por trabalhador no longo prazo."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Não altera a taxa de crescimento da economia no estado estacionário."
+          }
+        ]
       },
       {
         "id": "1oAlnlnNWY118EHkSRyJaGW9MMg1eUww2",
@@ -11180,13 +11960,9 @@
         "kind": "study-note",
         "topic": "multiplicador da base monetária",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-multiplicador-da-base-monetaria.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-multiplicador-da-base-monetaria-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -11196,7 +11972,39 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Moeda e sistema monetário",
         "studyGroupOrder": 5,
-        "studyOrder": 3
+        "studyOrder": 3,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O multiplicador da base monetária é definido como sendo a razão entre o total de Meios de Pagamento pela Base Monetária."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "m = MP/BM"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Uma forma didática para a visualização do efeito multiplicador se dá pela fórmula: M = 1/R"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Onde:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "M: é multiplicador monetário"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "R: taxa de recolhimento compulsório"
+          }
+        ]
       },
       {
         "id": "1lZlXen9Q8Ou0C6fEqpAZZyWdTVyG9V3l",
@@ -11207,13 +12015,9 @@
         "kind": "study-note",
         "topic": "Multiplicador Keynesiano",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-multiplicador-keynesiano.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-multiplicador-keynesiano-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -11223,7 +12027,34 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Modelo keynesiano e multiplicador",
         "studyGroupOrder": 4,
-        "studyOrder": 0
+        "studyOrder": 0,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "1. Calcular o multiplicador (k): o multiplicador de gastos mede o impacto total na renda de uma variação nos gastos autônomos. A fórmula é k = 1 / (1 - PMC), onde PMC é a Propensão Marginal a Consumir. k = 1 / (1 - 0,8); k = 1 / 0,2; k = 5. Isso significa que para cada R$ 1 de gasto autônomo, a renda total da economia aumenta em R$ 5."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "2. Calcular os gastos autônomos totais (A): gastos autônomos são aqueles que não dependem do nível de renda. Neste modelo, são o Investimento (I) e os Gastos do Governo (G). A = I + G; A = 100 + 200; A = 300."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "3. Calcular a renda de equilíbrio (Y): a renda de equilíbrio é o produto do multiplicador pelos gastos autônomos totais. Y = k * A; Y = 5 * 300; Y = 1.500."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Como a propensão marginal a poupar e a consumir de uma economia fechada devem se igualar a 1, temos que: s + c = 1"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "multiplicador de gastos = 1/(1-c)"
+          }
+        ]
       },
       {
         "id": "1W-BSMn_6JBKivenuYcIsmBIb94ZYyYOt",
@@ -11234,13 +12065,9 @@
         "kind": "study-note",
         "topic": "Pela ótica da despe",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-pela-otica-da-despe.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-pela-otica-da-despe-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -11250,7 +12077,74 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Contas nacionais e PIB",
         "studyGroupOrder": 2,
-        "studyOrder": 1
+        "studyOrder": 1,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "O PIB pode ser analisado por três óticas equivalentes: a ótica do produto, que considera o valor dos bens e serviços finais produzidos; a ótica da renda, que observa a remuneração dos fatores de produção; e a ótica da despesa, que considera os gastos realizados na economia. Quando a mensuração é feita de forma consistente, essas três óticas conduzem ao mesmo resultado."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Pela ótica da despesa, o PIB é representado pela identidade: PIB = C + I + G + X − M"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Onde: C = consumo das famílias; I = investimento; G = gastos do governo; X = exportações; M = importações."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Outro ponto importante é a diferença entre PIB e PNB. O PIB considera a produção realizada dentro do território econômico do país, enquanto o PNB considera a renda pertencente aos residentes nacionais. Assim, quando há Renda Líquida Enviada ao Exterior (RLEE) positiva, o PNB tende a ser menor que o PIB, pois parte da renda gerada internamente é enviada para o exterior."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Sobre a formação de capital: PIB = C+I+G+(X-M); I = fbkf (formação bruta de capital fixo) + var estoques."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Resumo:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Medida agregada → mede a economia (PIB, emprego, investimento, gasto)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Política econômica → atua sobre a economia (monetária, fiscal, cambial)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Dica:"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Produto nacional → mede produção/renda."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Nível de emprego → mede mercado de trabalho."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Despesa nacional → mede o gasto agregado."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Já a política monetária pode até ter indicadores associados (taxa Selic, base monetária etc.), mas ela em si não é uma medida, e sim um conjunto de ações/decisões."
+          }
+        ]
       },
       {
         "id": "12Lsdl6_3cJ1wn8tXR3Gnn9l5K5tD3D83",
@@ -11261,13 +12155,9 @@
         "kind": "study-note",
         "topic": "senhoriagem",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-senhoriagem.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-senhoriagem-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -11277,7 +12167,24 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Moeda e sistema monetário",
         "studyGroupOrder": 5,
-        "studyOrder": 5
+        "studyOrder": 5,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "A senhoriagem tem como efeito negativo a elevação das pressões inflacionárias."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Isto porque a senhoriagem resulta da diferença entre o valor estampado em cada moeda e o seu custo para emiti-la. Assim, por exemplo, se o governo emitir 10 cédulas de R$10,00 e, para tal, cada uma tiver um custo de R$3,00 para ser produzida, ele terá tido um \"lucro\" de [10.(R$10,00−R$3,00)], ou seja, de R$70,00, denominado de senhoriagem."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Por fim, independentemente da destinação que o governo der ao \"lucro\" obtido com a moeda gerada, seja para o financiamento do déficit público ou outra destinação, o principal efeito negativo é o de aumento de preços (aumento das pressões inflacionárias), de igual modo ao que vimos na assertiva \"I\"."
+          }
+        ]
       },
       {
         "id": "1NGtGkEq2VJDzYdFdySQP-Ada0awJB_Uc",
@@ -11288,13 +12195,9 @@
         "kind": "study-note",
         "topic": "Taxas de câmbio",
         "category": "Macroeconomia",
-        "summary": "1 página(s) · material original enviado, com imagens e quadros preservados.",
+        "summary": "1 página(s) · anotação transcrita em texto e tabelas, sem imagens.",
         "source": "PDF enviado pelo usuário. Catalogado em Macroeconomia na sequência do sumário enviado, sem avaliação de dificuldade.",
         "pageCount": 1,
-        "pdfAsset": "assets/macroeconomia-taxas-de-cambio.pdf",
-        "pdfPages": [
-          "assets/macroeconomia-taxas-de-cambio-1.webp"
-        ],
         "searchPages": [
           {
             "page": 1,
@@ -11304,7 +12207,39 @@
         "studyArea": "Macroeconomia",
         "studyGroup": "Regimes e taxas de câmbio",
         "studyGroupOrder": 10,
-        "studyOrder": 0
+        "studyOrder": 0,
+        "contentBlocks": [
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Inicialmente, cabe relembrarmos os conceitos de Taxa de Câmbio Nominal (TCN) e Taxa de Câmbio Real (TCR)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "A) TCN: reflete o \"preço\" da moeda estrangeira medido pela moeda nacional, ou seja, \"quanto de moeda nacional é necessário para comprar uma unidade de moeda estrangeira?\""
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Matematicamente, supondo o Real (R$) como moeda nacional e o Dólar americano (US$) como moeda estrangeira, teríamos: TCN = R$/US$"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "B) TCR: reflete o preço relativo de um bem entre os dois países, ou seja, indica a taxa pela qual poderíamos trocar um determinado bem de um país por outro. Em resumo, a TCR reflete não somente a relação entre as duas moedas, mas também os respectivos níveis de preços dos países de cada moeda e o poder de compra de cada moeda medido pela outra."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Matematicamente, supondo o Real (R$) como moeda nacional, P_BR (o nível de preços do Brasil), o Dólar americano (US$) como moeda estrangeira e P_EUA (o nível de preços americano), teríamos: TCR = TCN.P_EUA/P_BR ou TCR = R$.P_EUA/US$.P_BR"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "E = e.P*/P, em que: E = taxa de câmbio real; e = taxa de câmbio nominal; P* = inflação nos EUA (IPC); P = inflação no Brasil (IPCA)."
+          }
+        ]
       },
       {
         "id": "macro-integrada-fgv-mapa",
