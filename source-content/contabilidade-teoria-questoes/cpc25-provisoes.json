@@ -1,0 +1,77 @@
+{
+  "id": "contab-tq-cpc25-provisoes",
+  "materia": "Contabilidade",
+  "targetId": "conta-c-05",
+  "targetTitle": "Provisões (CPC 25)",
+  "titulo": "Teoria das questões — Provisões, passivos e ativos contingentes (CPC 25)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "draft",
+  "origem": "27 questões TEC do assunto 'Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)', resoluções já registradas no site",
+  "questoes": ["488366","584688","606285","686820","1241384","1896649","2163352","2163620","2339115","2823703","3114258","3116840","3220273","3349493","3365912","3367324","3504315","3546692","3553900","3553910","3561701","3822308","3846793","3850901","3863578","3975826","3975830"],
+  "regras": [
+    {"id": "R1", "texto": "Provisão exige três requisitos cumulativos: obrigação presente de evento passado, saída provável e estimativa confiável.", "questoes": ["3504315","1241384","3975830"]},
+    {"id": "R2", "texto": "Sem evento passado (só plano ou projeção) não há provisão nem passivo contingente.", "questoes": ["3365912"]},
+    {"id": "R3", "texto": "Saída provável sem estimativa confiável: não reconhece; divulga como passivo contingente.", "questoes": ["3863578","3116840"]},
+    {"id": "R4", "texto": "Perda possível: não reconhece; divulga passivo contingente em notas.", "questoes": ["2823703","3349493","2163352","2339115","3367324","3546692","3561701"]},
+    {"id": "R5", "texto": "Perda remota: não reconhece e, em regra, não divulga, mesmo se o valor for alto.", "questoes": ["3349493","3114258","2163352","2339115","3367324","3546692","3561701"]},
+    {"id": "R6", "texto": "Saldo de provisões no balanço = soma só das perdas prováveis, pelo valor estimado na data.", "questoes": ["488366","2163352","2339115","3367324","3546692","3561701","3553900","2823703"]},
+    {"id": "R7", "texto": "Reavaliação: impacto na DRE = provisões iniciais − provisões finais; diferença positiva é reversão (ganho), negativa é despesa.", "questoes": ["606285","686820","1896649","2163620","3553910","3822308","3850901","3975826"]},
+    {"id": "R8", "texto": "Provisão de processo que passou a possível ou remoto é revertida; saldo anterior não se mantém.", "questoes": ["488366","686820","1896649","2163620","3553900","3822308","3850901","3975826"]},
+    {"id": "R9", "texto": "Pagamento de processo que não estava provisionado é despesa do período e não entra no saldo final.", "questoes": ["3846793"]},
+    {"id": "R10", "texto": "Garantia concedida em vendas já realizadas: despesa e provisão pela estimativa; receita e caixa não são reduzidos.", "questoes": ["584688"]},
+    {"id": "R11", "texto": "O enunciado pode chamar de 'passivo contingente' a perda provável; tecnicamente, a obrigação reconhecida é provisão.", "questoes": ["2823703"]},
+    {"id": "R12", "texto": "Ativo contingente não é reconhecido; quando a entrada é praticamente certa, deixa de ser contingente e é reconhecido.", "questoes": ["3220273","3975830","1241384"]},
+    {"id": "R13", "texto": "Ganho apenas possível (empresa autora) não é reconhecido nem divulgado como ativo contingente; a divulgação exige entrada provável.", "questoes": ["3114258"]},
+    {"id": "R14", "texto": "'Passivo contingente nunca é reconhecido' vale no CPC 25; na combinação de negócios (CPC 15) o passivo contingente assumido pode ser reconhecido.", "questoes": ["1241384"]}
+  ],
+  "blocos": [
+    {"type": "callout", "kind": "rule", "title": "Provisão: três requisitos, todos ao mesmo tempo", "text": "1) Obrigação presente (legal ou não formalizada) decorrente de evento passado; 2) saída de recursos provável, isto é, mais provável que sim do que não; 3) estimativa confiável do valor. Faltando qualquer um, não há provisão no balanço. (R1 — TEC 3504315, 1241384, 3975830)"},
+    {"type": "flowchart", "title": "Decisão sobre cada processo ou obrigação (polo passivo)", "steps": [
+      {"label": "1. Existe evento passado que gerou obrigação presente?", "text": "Não: nada a reconhecer nem divulgar. Plano de vender com garantia no ano seguinte não cria obrigação hoje, mesmo com percentuais de defeito estimados. (R2 — 3365912)"},
+      {"label": "2. Qual a probabilidade de saída de recursos?", "text": "Remota: não reconhece e, em regra, não divulga, ainda que o valor seja alto. Possível: não reconhece; divulga passivo contingente em notas. Provável: vá ao passo 3. (R4, R5)"},
+      {"label": "3. Há estimativa confiável do valor?", "text": "Não: não reconhece; divulga como passivo contingente, com natureza e incertezas. Não inventar valor mínimo. (R3 — 3863578, 3116840)"},
+      {"label": "4. Sim: reconhecer provisão", "text": "Débito em despesa (DRE) e crédito em provisão (passivo), pelo valor estimado na data do balanço. (R6)"}
+    ]},
+    {"type": "flowchart", "title": "Cálculo cobrado pela FCC: reavaliação dos processos de um ano para o outro", "steps": [
+      {"label": "1. Saldo inicial", "text": "Some as provisões já reconhecidas no balanço anterior (coluna 'provisão reconhecida' ou processos que eram prováveis)."},
+      {"label": "2. Saldo final", "text": "Some só os processos prováveis na data nova, pelo valor reestimado. Possíveis e remotos ficam fora, mesmo que tivessem provisão antes. (R6, R8)"},
+      {"label": "3. Impacto na DRE", "text": "Saldo inicial − saldo final. Resultado positivo: reversão (ganho). Resultado negativo: despesa. (R7)"},
+      {"label": "4. Pagamentos de processos não provisionados", "text": "Somar como despesa do período, fora do saldo final. (R9 — 3846793)"}
+    ]},
+    {"type": "formula", "text": "Impacto na DRE = Σ provisões iniciais − Σ provisões finais (só prováveis, reestimadas)"},
+    {"type": "callout", "kind": "warning", "title": "Quando a fórmula vale", "text": "A fórmula supõe que nenhum processo provisionado foi pago no período. Se uma provisão foi usada para pagar a condenação, esse pagamento baixa a provisão e não passa pela DRE. Nas questões deste lote, o único pagamento é de processo que não estava provisionado (3846793)."},
+    {"type": "table", "rows": [
+      ["Exemplo resolvido — TEC 3975826 (FCC, SEFAZ GO, 2026)", "31/12/2023", "31/12/2024", "No saldo final?"],
+      ["Processo A", "1.500.000 (provisão)", "Provável — 1.200.000", "Sim: 1.200.000"],
+      ["Processo B", "—", "Provável — 720.000", "Sim: 720.000"],
+      ["Processo C", "—", "Possível — 480.000", "Não (notas)"],
+      ["Processo D", "900.000 (provisão)", "Possível — 540.000", "Não: reverter 900.000"],
+      ["Total", "2.400.000", "", "1.920.000"]
+    ]},
+    {"type": "callout", "kind": "rule", "title": "Resultado do exemplo", "text": "Impacto = 2.400.000 − 1.920.000 = 480.000 positivo (ganho por reversão). Saldo no balanço: 1.920.000. Resposta D."},
+    {"type": "table", "rows": [
+      ["Garantia sobre vendas já feitas — TEC 584688", "Valor em 2016"],
+      ["Receita de vendas (à vista)", "2.000.000 (não é reduzida pela garantia)"],
+      ["Caixa", "2.000.000 (a estimativa não sai do caixa agora)"],
+      ["Despesa com provisão para garantia", "4% × 2.000.000 = 80.000"],
+      ["Provisão para garantia (passivo)", "80.000"]
+    ]},
+    {"type": "flowchart", "title": "Linha do tempo de um processo — TEC 3116840", "steps": [
+      {"label": "10/06/2020 — ação aberta, perda remota", "text": "Nada a reconhecer nem divulgar."},
+      {"label": "31/03/2023 — sentença desfavorável, valor não mensurável com confiabilidade", "text": "Não há provisão: falta estimativa confiável. Tratar como passivo contingente."},
+      {"label": "26/11/2023 — perito fixa 1.156.000, saída provável", "text": "Todos os requisitos presentes: reconhecer provisão de 1.156.000 nessa data. Resposta A."}
+    ]},
+    {"type": "callout", "kind": "danger", "title": "Pegadinhas recorrentes", "text": "Somar todos os processos no passivo (3367324, 3546692). Manter a provisão antiga de processo que virou possível (1896649, 3553900, 3822308). Tratar o saldo anterior como definitivo (488366). Reduzir receita ou caixa pela garantia estimada (584688). Calcular garantia de vendas que ainda não ocorreram (3365912). Ler 'passivo contingente' no enunciado como algo diferente da provisão, quando a perda é provável (2823703). Divulgar perda remota só porque o valor é alto (3114258)."},
+    {"type": "table", "rows": [
+      ["Ativo contingente (empresa autora) — o que as questões cobram", "Tratamento", "TEC"],
+      ["Entrada praticamente certa", "Deixa de ser contingente: reconhece o ativo", "3220273, 3975830"],
+      ["Entrada provável", "Não reconhece; divulga em notas", "regra da teoria da matéria"],
+      ["Entrada possível", "Não reconhece nem divulga como ativo contingente", "3114258"]
+    ]},
+    {"type": "callout", "kind": "warning", "title": "Cuidado com 'nunca'", "text": "'Passivo contingente nunca é reconhecido' está certo no CPC 25. Na combinação de negócios (CPC 15), o passivo contingente assumido pode ser reconhecido; por isso a afirmação só vale no escopo do CPC 25. (R14 — 1241384)"}
+  ],
+  "pendencias": [
+    "A tabela de classificação provável/possível/remota e a do ativo contingente já existem na teoria da matéria; aqui só entram o fluxo de decisão, o cálculo de reavaliação e as pegadinhas cobradas.",
+    "Conferir a redação antes de aprovar."
+  ]
+}
