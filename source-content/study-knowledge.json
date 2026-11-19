@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
-  "exportedAt": "2026-11-19T03:36:43.157Z",
+  "exportedAt": "2026-11-19T04:09:14.603Z",
   "records": [
     {
       "id": "contab-20-premio-debentures-custo-amortizado",
@@ -113,6 +113,2941 @@
           "Não como regra normativa; faltam fluxos e taxa efetiva."
         ]
       ]
+    },
+    {
+      "id": "contab-tq-balanco-patrimonial",
+      "subject": "Contabilidade",
+      "targetId": "conta-e-02",
+      "targetTitle": "Balanço Patrimonial",
+      "title": "Teoria das questões — Balanço patrimonial e variações patrimoniais",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Balanço Patrimonial",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Fato",
+              "Ativo",
+              "Passivo",
+              "PL"
+            ],
+            [
+              "Compra de mercadoria à vista",
+              "= (troca caixa por estoque)",
+              "=",
+              "="
+            ],
+            [
+              "Compra de mercadoria a prazo",
+              "+",
+              "+",
+              "="
+            ],
+            [
+              "Pagamento de fornecedor",
+              "−",
+              "−",
+              "="
+            ],
+            [
+              "Recebimento de cliente",
+              "= (troca)",
+              "=",
+              "="
+            ],
+            [
+              "Venda com lucro (a prazo ou à vista)",
+              "+ margem",
+              "=",
+              "+ lucro"
+            ],
+            [
+              "Salário do mês ainda não pago",
+              "=",
+              "+",
+              "−"
+            ],
+            [
+              "Pagamento de salário de mês anterior",
+              "−",
+              "−",
+              "="
+            ],
+            [
+              "Depreciação",
+              "−",
+              "=",
+              "−"
+            ],
+            [
+              "Integralização de capital em dinheiro",
+              "+",
+              "=",
+              "+"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Variação do ativo sem montar o balanço",
+          "text": "Some só os efeitos que mudam o total: margem das vendas, pagamentos de passivos antigos, despesas pagas, depreciação, compras a prazo, integralizações. Ex.: 3231632 — 60.000 − 27.000 − 20.000 − 800 + 45.000 = 57.200; ativo final 639.200. Receber de clientes não muda o total."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Tratar pagamento de fornecedor como despesa (1239427). Esquecer a depreciação proporcional (2163607). Somar a compra a prazo ao caixa (3823077). Responder pelo balanço da entidade errada (3883366). Contar só duas contas credoras fora do passivo quando há retificadora + PL (3240899)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-consolidacao",
+      "subject": "Contabilidade",
+      "targetId": "conta-e-08",
+      "targetTitle": "Demonstrações Consolidadas",
+      "title": "Teoria das questões — Demonstrações consolidadas (CPC 36)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Demonstração Contábil Consolidada",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 2395560 (FCC, COPERGÁS, 2023)",
+              "Valor"
+            ],
+            [
+              "Ativos somados: 40.000 + 16.000",
+              "56.000"
+            ],
+            [
+              "− Investimento na controlada",
+              "(8.400)"
+            ],
+            [
+              "− Recebível intragrupo",
+              "(2.000)"
+            ],
+            [
+              "Ativo consolidado",
+              "45.600"
+            ],
+            [
+              "PL: 36.000 + não controladores 30% × 12.000",
+              "39.600 (resposta E)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Lucro não realizado",
+          "text": "Eliminar só a parte que ainda está no estoque: 190231 — 150.000 × 40% em estoque = 60.000."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-contabilidade-basica",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-01",
+      "targetTitle": "Contabilidade Básica",
+      "title": "Teoria das questões — Regimes, lançamentos e conceitos básicos",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Escrituração: Normas; Plano de Contas; Teoria das Contas; Conceito, Objeto; Regimes Contábeis; Receitas e Despesas Antecipadas; Outros Temas",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Fato",
+              "Competência",
+              "Questões"
+            ],
+            [
+              "Serviço prestado em dezembro, recebido em janeiro",
+              "Receita de dezembro",
+              "3883229, 3975976"
+            ],
+            [
+              "Salário de janeiro pago em fevereiro",
+              "Despesa de janeiro",
+              "2775131"
+            ],
+            [
+              "Passagem de viagem de fevereiro, paga antes",
+              "Despesa de fevereiro; antes, despesa antecipada",
+              "3584435"
+            ],
+            [
+              "Treinamento de 2025 pago em 2024",
+              "Despesa antecipada (ativo) em 2024",
+              "3093142"
+            ],
+            [
+              "Cliente paga antes da entrega",
+              "Passivo (receita antecipada); receita só na entrega",
+              "2231001, 2949362"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Lançamento cobrado",
+              "Débito",
+              "Crédito"
+            ],
+            [
+              "Equivalência patrimonial positiva",
+              "Investimento",
+              "Receita de equivalência"
+            ],
+            [
+              "Constituição da PECLD",
+              "Despesa",
+              "PECLD (redutora de clientes)"
+            ],
+            [
+              "Reversão de impairment",
+              "Perda acumulada (redutora)",
+              "Receita de reversão"
+            ],
+            [
+              "Gasto com pesquisa",
+              "Despesa",
+              "Caixa"
+            ],
+            [
+              "Adiantamento de cliente",
+              "Caixa",
+              "Adiantamento de clientes (passivo)"
+            ],
+            [
+              "Dividendo de participação ao custo",
+              "Caixa",
+              "Receita de dividendos"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Achar que a competência proíbe o regime de caixa em qualquer demonstração: a DFC é de caixa (3240910). Reconhecer receita no recebimento antecipado (2231001). Baixar clientes direto ao constituir PECLD (3365979). Provisionar treinamento só programado (3093142)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc00-estrutura-conceitual",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-02",
+      "targetTitle": "Estrutura Conceitual (CPC 00)",
+      "title": "Teoria das questões — Estrutura conceitual (CPC 00)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Estrutura Conceitual Básica; Princípios Contábeis",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Afirmação típica",
+              "Certa?",
+              "Por quê"
+            ],
+            [
+              "Materialidade é característica de melhoria",
+              "Não",
+              "É aspecto da relevância (272917, 2293652)"
+            ],
+            [
+              "Consistência é o mesmo que comparabilidade",
+              "Não",
+              "Consistência é meio; comparabilidade é o fim (272917, 2870147)"
+            ],
+            [
+              "Informação útil: relevante OU fidedigna",
+              "Não",
+              "Precisa das duas (984388)"
+            ],
+            [
+              "Compreensibilidade permite omitir fenômeno complexo",
+              "Não",
+              "Omitir prejudica a representação completa (225462, 3116850)"
+            ],
+            [
+              "Relatório deve atender necessidade particular de um usuário",
+              "Não",
+              "Propósito geral (2985314)"
+            ],
+            [
+              "Objetivo atende só investidores atuais",
+              "Não",
+              "Também potenciais, credores e outros financiadores (2395608)"
+            ],
+            [
+              "Consistência permite mudar o método a qualquer momento",
+              "Não",
+              "1907614"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Elemento (2395547)",
+              "Definição-chave"
+            ],
+            [
+              "Ativo",
+              "Recurso econômico presente controlado, de evento passado"
+            ],
+            [
+              "Passivo",
+              "Obrigação presente de transferir recurso econômico"
+            ],
+            [
+              "Patrimônio líquido",
+              "Participação residual"
+            ],
+            [
+              "Receita",
+              "Aumento de ativo ou redução de passivo que aumenta o PL, exceto aportes"
+            ],
+            [
+              "Despesa",
+              "Redução de ativo ou aumento de passivo que reduz o PL, exceto distribuições"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Base de mensuração (3114150)",
+              "Ponto cobrado"
+            ],
+            [
+              "Valor de cumprimento",
+              "Valor presente dos recursos para cumprir a obrigação"
+            ],
+            [
+              "Custo corrente",
+              "Inclui custos de transação"
+            ],
+            [
+              "Valor justo",
+              "Transação ordenada, não forçada"
+            ],
+            [
+              "Valor em uso",
+              "Fluxos do uso e da alienação final"
+            ]
+          ]
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc01-impairment",
+      "subject": "Contabilidade",
+      "targetId": "conta-b-03",
+      "targetTitle": "Redução ao Valor Recuperável",
+      "title": "Teoria das questões — Redução ao valor recuperável (CPC 01)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Redução ao Valor Recuperável",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "formula",
+          "text": "Recuperável = maior entre (valor justo − despesas de venda) e valor em uso"
+        },
+        {
+          "type": "flowchart",
+          "title": "Roteiro do teste de recuperabilidade",
+          "steps": [
+            {
+              "label": "1. Atualizar o saldo",
+              "text": "Registrar a depreciação/amortização do período (vida indefinida: nenhuma). (R3)"
+            },
+            {
+              "label": "2. Calcular o recuperável",
+              "text": "Maior entre valor justo líquido de despesas de venda e valor em uso. (R1, R8)"
+            },
+            {
+              "label": "3. Comparar",
+              "text": "Contábil > recuperável: perda (despesa; conta redutora). Contábil ≤ recuperável e sem perda anterior: nada. (R2, R10)"
+            },
+            {
+              "label": "4. Havia perda anterior?",
+              "text": "Goodwill: não reverte. Outros ativos: reverter até o menor entre o recuperável e o saldo sem a perda. (R5, R6)"
+            },
+            {
+              "label": "5. Daqui em diante",
+              "text": "Nova quota = saldo após o teste ÷ vida restante. (R4)"
+            }
+          ]
+        },
+        {
+          "type": "formula",
+          "text": "Limite da reversão = custo − depreciação ou amortização que existiria sem a perda"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 606282 (FCC, DPE AM, 2018)",
+              "Valor"
+            ],
+            [
+              "Saldo após a perda, valor residual 50.000, 5 anos restantes",
+              "600.000"
+            ],
+            [
+              "Nova depreciação (600.000 − 50.000) ÷ 5",
+              "110.000 → saldo 490.000"
+            ],
+            [
+              "Recuperável",
+              "585.000"
+            ],
+            [
+              "Limite sem perda: 700.000 − (700.000 − 50.000) ÷ 5",
+              "570.000"
+            ],
+            [
+              "Reversão (limitada)",
+              "80.000; saldo final 570.000 (resposta B)"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Ativo",
+              "Amortiza?",
+              "Teste",
+              "Reverte perda?"
+            ],
+            [
+              "Imobilizado e intangível de vida definida",
+              "Sim",
+              "Quando há indício",
+              "Sim, até o saldo sem perda"
+            ],
+            [
+              "Intangível de vida indefinida (marca)",
+              "Não",
+              "Anual",
+              "Sim, até o custo"
+            ],
+            [
+              "Goodwill",
+              "Não",
+              "Anual",
+              "Nunca (410489, 719416)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Usar o menor valor em vez do maior (3657093). Usar valor de mercado sem descontar despesas de venda (2414524). Fazer o teste sem antes depreciar o período (3552256). Reverter acima do saldo sem perda (656222: ganho 2.000.000, não 3.000.000; 3766739: 800.000, não 1.000.000). Reverter perda de goodwill (410489). Amortizar intangível de vida indefinida (2235706). Esquecer de somar depreciação + perda quando se pede a despesa total (3552257, 3850871)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc02-cambio",
+      "subject": "Contabilidade",
+      "targetId": "conta-d-03",
+      "targetTitle": "Ajustes de Conversão de Câmbio (CPC 02)",
+      "title": "Teoria das questões — Efeitos das mudanças nas taxas de câmbio (CPC 02)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: CPC 02:",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 3975994 (FCC, SEFAZ GO, 2026)",
+              "Valor"
+            ],
+            [
+              "Receita: US$ 600.000 × 5,20 (data da venda)",
+              "3.120.000"
+            ],
+            [
+              "Clientes no fechamento: 600.000 × 5,50",
+              "3.300.000"
+            ],
+            [
+              "Receita cambial (financeira)",
+              "180.000 (resposta A)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Dívida em moeda estrangeira",
+          "text": "Dólar caiu: a dívida diminui e gera receita cambial (3846794: 1.100.000 → 1.060.000; ganho de 40.000). Dólar subiu: despesa cambial."
+        },
+        {
+          "type": "formula",
+          "text": "Ajuste de conversão = PL convertido pelo fechamento − capital à taxa histórica − reservas às taxas de formação"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo — TEC 719388 (FCC, SEF SC, 2018)",
+              "Valor"
+            ],
+            [
+              "PL em moeda estrangeira × taxa de fechamento: 12.800 × 4",
+              "51.200"
+            ],
+            [
+              "− Capital histórico: 10.000 × 3",
+              "(30.000)"
+            ],
+            [
+              "− Reservas convertidas: 3.360 + 5.940",
+              "(9.300)"
+            ],
+            [
+              "Ajuste de conversão (ORA)",
+              "11.900 (resposta E)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Atualizar a receita de venda pela taxa de fechamento (3975994). Usar taxa projetada para a dívida (3401244). Atualizar adiantamento ou estoque pela taxa de fechamento (1889225). Suspender juros e variação cambial na carência (438266). Levar o ajuste de conversão à DRE."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc03-dfc",
+      "subject": "Contabilidade",
+      "targetId": "conta-f-01",
+      "targetTitle": "Demonstração de Fluxo de Caixa (CPC 03)",
+      "title": "Teoria das questões — Demonstração dos fluxos de caixa (CPC 03)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Demonstração de Fluxo de Caixa",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "formula",
+          "text": "FCO (indireto) = lucro líquido + itens sem caixa − ganhos de venda de ativos − equivalência positiva ± variações do capital de giro operacional"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Ajuste no método indireto",
+              "Sinal",
+              "Por quê"
+            ],
+            [
+              "Depreciação, amortização, PECLD, provisões",
+              "+",
+              "Reduziram o lucro sem saída de caixa"
+            ],
+            [
+              "Juros de empréstimo não pagos",
+              "+",
+              "Despesa sem caixa; o juro capitalizado não é novo empréstimo"
+            ],
+            [
+              "Resultado positivo de equivalência",
+              "−",
+              "Aumentou o lucro sem entrada de caixa"
+            ],
+            [
+              "Ganho na venda de imobilizado ou terreno",
+              "−",
+              "O recebimento total vai para o FCI"
+            ],
+            [
+              "Aumento de clientes, estoques, despesas antecipadas, adiantamentos a fornecedores",
+              "−",
+              "Caixa aplicado no giro"
+            ],
+            [
+              "Aumento de fornecedores, salários, IR a pagar, adiantamentos de clientes, receitas antecipadas",
+              "+",
+              "Caixa retido no giro"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 2293657 (FCC, TRT 5, 2022)",
+              "Valor"
+            ],
+            [
+              "Lucro líquido",
+              "85.800"
+            ],
+            [
+              "+ Depreciação",
+              "30.000"
+            ],
+            [
+              "+ Juros não pagos",
+              "20.000"
+            ],
+            [
+              "− Lucro na venda do terreno",
+              "(20.000)"
+            ],
+            [
+              "− Aumento de clientes",
+              "(25.000)"
+            ],
+            [
+              "+ Redução de estoques",
+              "19.000"
+            ],
+            [
+              "− Redução de fornecedores",
+              "(29.800)"
+            ],
+            [
+              "− Redução de salários a pagar",
+              "(20.000)"
+            ],
+            [
+              "= FCO",
+              "60.000 (resposta A)"
+            ]
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Reconstituir o FCI e o FCF a partir dos balanços",
+          "steps": [
+            {
+              "label": "Venda de terreno ou imobilizado",
+              "text": "Recebido = custo baixado + ganho (ou − perda) − parcela que ficou a receber. (489944: 235.000 − 20.000 = 215.000)"
+            },
+            {
+              "label": "Compra de imobilizado",
+              "text": "Pago = saldo final − saldo inicial + depreciação/baixas − parte comprada a prazo ou integralizada em bens. (719217: 242.000 − 200.000 − 25.000 = 17.000)"
+            },
+            {
+              "label": "Compra de investimentos",
+              "text": "Variação do saldo − equivalência − outros acréscimos sem caixa."
+            },
+            {
+              "label": "Novos empréstimos",
+              "text": "Variação do saldo − juros não pagos incorporados. (2272190: 76.000 − 16.000 = 60.000)"
+            },
+            {
+              "label": "Capital e dividendos",
+              "text": "Integralização em dinheiro entra; capitalização de reservas e entrega de bens não; dividendos pagos = declarados + saldo inicial a pagar − saldo final a pagar. (3847071)"
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Classificação dos recebimentos",
+          "text": "Serviços, royalties e aluguel de bens ligados à atividade usual: operacional (2915805, 3157931). Recebimento de empréstimo concedido a sócio: investimento (2890835). Dividendos são tratados como financiamento nas questões da FCC deste lote (3365954)."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Somar juros não pagos como entrada de empréstimo (455691, 2272190). Tratar a capitalização de reservas como caixa (455691). Esquecer de deduzir a equivalência (2223569, 3367664). Lançar o ganho na venda no FCO em vez de no FCI (867021). Usar o valor de venda total quando parte ficou a receber (489944, 2159081). Considerar como pago o bem integralizado no capital (645395). Usar clientes líquido da PECLD depois de somar a PECLD (3561720)."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Questão anulada",
+          "text": "3976034: o registro do gabarito informa anulação e há inconsistência de datas nos balanços; o cálculo (−972.000) segue o mesmo roteiro."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc04-intangivel",
+      "subject": "Contabilidade",
+      "targetId": "conta-b-06",
+      "targetTitle": "Intangível (CPC 04)",
+      "title": "Teoria das questões — Ativos intangíveis (CPC 04)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Ativos Intangíveis",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "flowchart",
+          "title": "Pesquisa × desenvolvimento",
+          "steps": [
+            {
+              "label": "Fase de pesquisa",
+              "text": "Sempre despesa (projetos experimentais, busca de alternativas)."
+            },
+            {
+              "label": "Desenvolvimento antes dos requisitos",
+              "text": "Despesa; não volta para o ativo depois."
+            },
+            {
+              "label": "Desenvolvimento depois de demonstrados os requisitos",
+              "text": "Capitalizar só os gastos a partir dessa data (489926: 80.000 + 50.000 = 130.000)."
+            },
+            {
+              "label": "Ativo disponível para uso",
+              "text": "Começa a amortização (vida definida); testar recuperabilidade."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Gasto",
+              "Custo do intangível?",
+              "Questões"
+            ],
+            [
+              "Desenvolvimento após os requisitos, materiais, pessoal direto, registro, integração",
+              "Sim",
+              "2870141, 3116783, 375657"
+            ],
+            [
+              "Pesquisa",
+              "Não: despesa",
+              "2870141, 1241403"
+            ],
+            [
+              "Treinamento, publicidade",
+              "Não: despesa",
+              "2870141, 3116783"
+            ],
+            [
+              "Valor justo de intangível gerado internamente",
+              "Não substitui o custo",
+              "2870141"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Reativar gastos de desenvolvimento já lançados em despesa (426895, 461400). Capitalizar pesquisa ou treinamento (2870141). Reconhecer goodwill interno (719235). Suspender a amortização por prejuízo (3863557). Amortizar intangível de vida indefinida."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc05-partes-relacionadas",
+      "subject": "Contabilidade",
+      "targetId": "conta-f-03",
+      "targetTitle": "Partes Relacionadas (CPC 05)",
+      "title": "Teoria das questões — Partes relacionadas (CPC 05)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: CPC 05",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Partes relacionadas",
+          "text": "V, F, V: são normais; não afetam necessariamente todas as demonstrações; podem influenciar mesmo sem transação (3662330)."
+        },
+        {
+          "type": "callout",
+          "kind": "note",
+          "title": "Questão de matriz e filial classificada aqui pelo TEC",
+          "text": "Na filial, recebimento de numerário da matriz: débito em caixa, crédito em matriz conta-corrente (1810572)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc06-arrendamento",
+      "subject": "Contabilidade",
+      "targetId": "conta-f-02",
+      "targetTitle": "Arrendamento (CPC 06)",
+      "title": "Teoria das questões — Arrendamento (CPC 06)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: CPC 06:",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "formula",
+          "text": "Despesa do arrendatário = (direito de uso − residual) ÷ vida + passivo × taxa de juros"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 3975995 (FCC, SEFAZ GO, 2026)",
+              "Valor"
+            ],
+            [
+              "Direito de uso = passivo = valor presente",
+              "4.000.000"
+            ],
+            [
+              "Depreciação mensal (4.000.000 − 1.120.000) ÷ 96",
+              "30.000"
+            ],
+            [
+              "Juros do mês 1% × 4.000.000",
+              "40.000"
+            ],
+            [
+              "Despesa total",
+              "70.000; ativo final 3.970.000 (resposta B)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Registrar o direito de uso pela soma das parcelas (2870103). Lançar a parcela paga como despesa de aluguel. Esquecer os juros ou a depreciação na despesa total (3847014). Exigir do arrendatário a classificação financeiro × operacional (2218620)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc07-subvencoes",
+      "subject": "Contabilidade",
+      "targetId": "conta-f-04",
+      "targetTitle": "Subvenções (CPC 07)",
+      "title": "Teoria das questões — Subvenções e assistência governamentais (CPC 07)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: CPC 07:",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "flowchart",
+          "title": "Roteiro da subvenção",
+          "steps": [
+            {
+              "label": "1. Recebimento",
+              "text": "Ativo recebido a valor justo; contrapartida em receita diferida (passivo) enquanto houver condições. (97354: 150.000 m² × 350 = 52.500.000)"
+            },
+            {
+              "label": "2. Apropriação",
+              "text": "Ao resultado, conforme a depreciação ou o cumprimento das condições."
+            },
+            {
+              "label": "3. Destinação",
+              "text": "Após a DRE, a parcela do lucro pode formar reserva de incentivos fiscais."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "A pegadinha de sempre",
+          "text": "Afirmar que a subvenção é creditada diretamente no patrimônio líquido está errado (487234, 3847070, 719426)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc09-dva",
+      "subject": "Contabilidade",
+      "targetId": "conta-e-04",
+      "targetTitle": "Demonstração do Valor Adicionado (CPC 09)",
+      "title": "Teoria das questões — Demonstração do valor adicionado (CPC 09)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Demonstração do Valor Adicionado",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "formula",
+          "text": "VA a distribuir = (receita bruta − PECLD) − insumos com tributos recuperáveis − depreciação/amortização + transferências recebidas"
+        },
+        {
+          "type": "flowchart",
+          "title": "Roteiro de cálculo da formação da riqueza",
+          "steps": [
+            {
+              "label": "1. Receitas",
+              "text": "Receita bruta de vendas (com tributos) − PECLD ou perdas com clientes + outras receitas operacionais."
+            },
+            {
+              "label": "2. Insumos de terceiros",
+              "text": "CMV + tributos recuperáveis sobre as compras vendidas + energia, materiais e serviços de terceiros. Se custo e receita vierem líquidos de ICMS, recompor ÷ (1 − alíquota)."
+            },
+            {
+              "label": "3. VA bruto − retenções",
+              "text": "Subtrair depreciação, amortização e exaustão = VA líquido produzido."
+            },
+            {
+              "label": "4. + Transferências",
+              "text": "Equivalência patrimonial, receitas financeiras, dividendos de investimentos ao custo, aluguéis e royalties recebidos."
+            },
+            {
+              "label": "5. = VA total a distribuir",
+              "text": "Não subtrair salários, juros, aluguel pago nem tributos: eles são distribuição."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 3114242 (FCC, 2024)",
+              "Valor"
+            ],
+            [
+              "Receitas: 658.000 − perdas com clientes 58.000",
+              "600.000"
+            ],
+            [
+              "Insumos: 180.000 + tributos 20.000 + energia 40.000 + serviços 30.000",
+              "(270.000)"
+            ],
+            [
+              "Depreciação",
+              "(60.000)"
+            ],
+            [
+              "VA líquido produzido",
+              "270.000"
+            ],
+            [
+              "Transferências: 70.000 + 150.000",
+              "220.000"
+            ],
+            [
+              "VA total a distribuir",
+              "490.000 (resposta B)"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Grupo da distribuição",
+              "O que entra",
+              "Cuidado"
+            ],
+            [
+              "Pessoal",
+              "Salários, benefícios, FGTS",
+              "FGTS não é imposto (984395, 3975991)"
+            ],
+            [
+              "Impostos, taxas e contribuições",
+              "INSS patronal; tributos sobre vendas − recuperáveis; IR/CSLL do exercício",
+              "Competência: IR do ano, não o pago (3814596)"
+            ],
+            [
+              "Capitais de terceiros",
+              "Juros, aluguéis, variação cambial passiva",
+              "Principal de empréstimo não entra (3093986)"
+            ],
+            [
+              "Capitais próprios",
+              "JCP, dividendos, lucros retidos ou prejuízo",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Padrão do gabarito FCC: INSS retido",
+          "text": "Em 3367452, 3561725, 3567120, 3567672 e 3766768, o gabarito soma o INSS retido dos empregados ao grupo de impostos. Pelo CPC 09, a retenção faz parte da remuneração bruta do empregado (pessoal). Na prova da FCC, a alternativa marcada costuma ser a que inclui a retenção; saiba os dois valores. (R8)"
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Usar a receita líquida em vez da bruta (489940). Excluir os tributos recuperáveis dos insumos (3116903, 2154061). Somar equivalência ao VA bruto (3038937). Subtrair salários ou aluguel como insumo (3561723). Contar o IR pago do ano anterior (3814596). Incluir o principal do empréstimo na remuneração de terceiros (3093986)."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Divergências registradas",
+          "text": "3038937: o gabarito indica Certo, mas o item chama a equivalência de valor adicionado bruto, o que contraria o CPC 09. 3539089: pendente com ressalva — pelo cálculo completo, 14.280.000, sem alternativa."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc12-avp",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-03",
+      "targetTitle": "Ajuste a Valor Presente (CPC 12)",
+      "title": "Teoria das questões — Ajuste a valor presente (CPC 12)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: CPC 12: Ajuste",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "formula",
+          "text": "Receita de venda a prazo = valor futuro ÷ (1 + i)^n; juros do mês = valor presente × i mensal"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 3847023 (FCC, SEFAZ SP, 2026)",
+              "Valor"
+            ],
+            [
+              "Venda a prazo: 9.100.000 ÷ 1,30",
+              "7.000.000"
+            ],
+            [
+              "+ Vendas à vista",
+              "2.100.000 + 1.700.000"
+            ],
+            [
+              "Receita comercial total",
+              "10.800.000"
+            ],
+            [
+              "Receita financeira de dezembro: 7.000.000 × 1,5%",
+              "105.000 (resposta E)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "A taxa do enunciado costuma ser acumulada",
+          "text": "'1,21' ou '1,30' já é o fator do prazo todo: divida o valor futuro por ele. Depois aplique a taxa mensal equivalente só sobre os meses decorridos até o balanço (2154021: 3.300.000 × 0,797% = 26.301)."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Reconhecer os juros todos na data da venda (455688). Calcular juros sobre as vendas à vista (2159127). Ajustar parcela curta imaterial (2013494). Usar taxa líquida de impostos (2339081). Pôr o estoque comprado a prazo pelo valor nominal (693007)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc15-combinacao",
+      "subject": "Contabilidade",
+      "targetId": "conta-d-04",
+      "targetTitle": "Combinação de Negócios (CPC 15)",
+      "title": "Teoria das questões — Combinação de negócios, fusão, incorporação e cisão (CPC 15)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: CPC 15:",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 2961162 (FGV, CVM, 2024)",
+              "Valor"
+            ],
+            [
+              "Ativos identificáveis a valor justo",
+              "1.874.000"
+            ],
+            [
+              "Passivos, incluindo 100.000 de contingentes assumidos",
+              "(1.530.000)"
+            ],
+            [
+              "Ativos líquidos",
+              "344.000"
+            ],
+            [
+              "Goodwill = 2.000.000 − 344.000",
+              "1.656.000 (resposta D)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Passivo contingente na combinação",
+          "text": "Diferente do CPC 25, o passivo contingente assumido numa combinação de negócios é reconhecido a valor justo e entra no cálculo do goodwill (2961162)."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Divergência registrada",
+          "text": "3385428: resposta técnica D (II e IV), pela Lei 6.404, arts. 227 a 229; o PDF indica B."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc16-estoques",
+      "subject": "Contabilidade",
+      "targetId": "conta-f-05",
+      "targetTitle": "Estoques",
+      "title": "Teoria das questões — Estoques, CMV e operações com mercadorias (CPC 16)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: CPC 16 - Tratamento; Critérios de Avaliação do Estoque; Operações com Mercadorias",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Gasto na compra",
+              "No custo do estoque?",
+              "Questões"
+            ],
+            [
+              "Preço da mercadoria (− descontos incondicionais e abatimentos)",
+              "Sim",
+              "758370, 3764382"
+            ],
+            [
+              "Frete e seguro da compra, gastos de importação",
+              "Sim",
+              "877344, 3546511"
+            ],
+            [
+              "IPI para empresa comercial (não recuperável)",
+              "Sim",
+              "488352, 758370"
+            ],
+            [
+              "ICMS, PIS e COFINS recuperáveis",
+              "Não: tributo a recuperar no ativo",
+              "2924798, 3975837"
+            ],
+            [
+              "Frete de entrega ao cliente, comissão",
+              "Não: despesa de venda",
+              "3552249, 3552250"
+            ],
+            [
+              "Juros da compra a prazo",
+              "Não: despesa financeira",
+              "3822211"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Não somar duas vezes",
+          "text": "Quando o enunciado diz que o valor pago já inclui os tributos não recuperáveis, apenas subtraia os recuperáveis (866960, 881603, 3846765). (R2)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 3822211 (FCC, SAD PE, 2026)",
+              "Valor"
+            ],
+            [
+              "Fornecedor a valor presente: 2.890.800 ÷ 1,10",
+              "2.628.000"
+            ],
+            [
+              "+ Frete de compra − tributos recuperáveis 138.000",
+              "2.628.000 + 30.000 − 138.000"
+            ],
+            [
+              "Estoque",
+              "2.520.000"
+            ],
+            [
+              "Fornecedor após 1 mês a 0,5%",
+              "2.641.140; juros 13.140 na DRE (resposta D)"
+            ]
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Valor realizável líquido (VRL)",
+          "steps": [
+            {
+              "label": "1. Calcular o VRL",
+              "text": "Preço de venda estimado − despesas necessárias para vender."
+            },
+            {
+              "label": "2. Comparar com o custo",
+              "text": "Custo > VRL: perda = custo − VRL, despesa contra conta redutora. Não usar valor justo. (R8)"
+            },
+            {
+              "label": "3. Ano seguinte",
+              "text": "VRL subiu: reverter a perda, no máximo até o custo original. (2395609: 220.000 → 250.000)"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Critério",
+              "Saídas",
+              "Estoque final",
+              "Questões"
+            ],
+            [
+              "PEPS",
+              "Camadas mais antigas",
+              "Compras mais recentes",
+              "489925, 2395533"
+            ],
+            [
+              "Média ponderada móvel",
+              "Custo médio recalculado a cada entrada",
+              "Custo médio",
+              "1889254"
+            ],
+            [
+              "Identificação específica",
+              "Custo de cada item",
+              "Custo de cada item",
+              "2346659, 3048238"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Manter ICMS recuperável no estoque (877344). Somar de novo o IPI já incluído (881603). Calcular o ICMS do frete fora da base quando o fornecedor o cobra na nota (2857687). Levar o frete de entrega ao CMV (3552250). Capitalizar os juros da compra a prazo no estoque (3822211). Avaliar o estoque a valor justo (2782139). Reverter a perda por VRL acima do custo (2395609). Somar ao custo o seguro pago pelo vendedor (1889254)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc18-mep",
+      "subject": "Contabilidade",
+      "targetId": "conta-d-05",
+      "targetTitle": "Investimentos MEP (CPC 18)",
+      "title": "Teoria das questões — Investimentos avaliados pelo MEP (CPC 18)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Investimentos Avaliados",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Decomposição do investimento na aquisição",
+              "Fórmula",
+              "Exemplo TEC 2154055 (80%, PL 40 mi, VJ 45 mi, preço 42 mi)"
+            ],
+            [
+              "Parcela do PL contábil",
+              "% × PL contábil",
+              "80% × 40 = 32 mi"
+            ],
+            [
+              "Mais-valia",
+              "% × (VJ líquido − PL contábil)",
+              "80% × 5 = 4 mi"
+            ],
+            [
+              "Goodwill",
+              "Preço − % × VJ líquido",
+              "42 − 36 = 6 mi"
+            ],
+            [
+              "Investimento nas individuais",
+              "= preço pago",
+              "42 mi"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Compra vantajosa",
+          "text": "Se o preço for menor que % × valor justo dos ativos líquidos, a diferença é ganho no resultado na data da compra, e o investimento entra pela parcela a valor justo. Ex.: 3567649 — 60% × 185 mi = 111 mi; preço 102 mi; ganho 9 mi (não é goodwill de 18 mi). (R6)"
+        },
+        {
+          "type": "flowchart",
+          "title": "Atualização do investimento (MEP) — roteiro",
+          "steps": [
+            {
+              "label": "1. Saldo inicial",
+              "text": "Preço pago (com mais-valia e goodwill) ou parcela a valor justo, se houve compra vantajosa."
+            },
+            {
+              "label": "2. + Equivalência",
+              "text": "% × lucro da investida, ajustado por: realização da mais-valia de ativo depreciável e lucros não realizados em estoque. Vai à DRE."
+            },
+            {
+              "label": "3. ± ORA da investida",
+              "text": "% × ajustes de conversão ou outros resultados abrangentes. Vai ao PL (ORA), não à DRE."
+            },
+            {
+              "label": "4. − Dividendos",
+              "text": "% × dividendos declarados. Reduz o investimento; não é receita."
+            },
+            {
+              "label": "5. Saldo final",
+              "text": "Soma dos passos. (R9)"
+            }
+          ]
+        },
+        {
+          "type": "formula",
+          "text": "Equivalência ajustada = % × (lucro da investida − realização da mais-valia − lucro não realizado)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 719385 (FCC, SEF SC, 2018)",
+              "Valor"
+            ],
+            [
+              "Mais-valia (13 mi − 9 mi), ativo com vida de 20 anos",
+              "4.000.000 ÷ 20 = 200.000 por ano"
+            ],
+            [
+              "Lucro da investida",
+              "500.000"
+            ],
+            [
+              "Equivalência = 90% × (500.000 − 200.000)",
+              "270.000 (resposta B)"
+            ],
+            [
+              "Conversão e dividendos",
+              "Não entram na DRE"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "O que não é amortizado",
+              "Por quê"
+            ],
+            [
+              "Mais-valia de terreno",
+              "Terreno não sofre depreciação (259029, 2159117, 3864891)"
+            ],
+            [
+              "Mais-valia de intangível de vida indefinida",
+              "Não há amortização periódica (656224, 3539078)"
+            ],
+            [
+              "Goodwill",
+              "Não é amortizado; só teste de recuperabilidade"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Lucro não realizado",
+          "text": "Lucro de venda entre investidora e investida que ainda está no estoque do comprador é eliminado. Ex.: 693000 — 100.000 × 50% em estoque × (1 − 34%) = 33.000; equivalência = 40% × (500.000 − 33.000) = 186.800. (R8)"
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Perda de influência significativa (3847057)",
+          "text": "Ganho = 4.800.000 recebidos + 1.500.000 de valor justo do remanescente − 4.600.000 de valor contábil = 1.700.000; somar a reciclagem de 200.000 de conversão: 1.900.000 na DRE. (R10)"
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Incluir no MEP a participação sem influência (640083, 1239404). Somar dividendos como receita (584686, 3552253). Levar ajuste de conversão à DRE (2163738, 3846339). Chamar de goodwill o que é compra vantajosa (3567649, 540177). Depreciar mais-valia de terreno (2159117). Reduzir a equivalência pela proposta de dividendos (3557748). Copiar a letra da questão irmã: 3552253 e 3557748 têm os mesmos dados e letras diferentes."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Dividendos apenas propostos",
+          "text": "Proposta de dividendos ainda não declarada não reduz o investimento; dividendos declarados ou obrigatórios reduzem. Em 3975996 a resposta D (32 mi e 4 mi) só fecha na primeira hipótese; a questão está marcada como pendente com ressalva. (R11)"
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc23-politicas-erros",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-05",
+      "targetTitle": "Políticas, erros e estimativas contábeis (CPC 23)",
+      "title": "Teoria das questões — Políticas, estimativas e erros (CPC 23)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: CPC 23:",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situação",
+              "Tratamento",
+              "Questões"
+            ],
+            [
+              "Erro material de exercício anterior (dado errado disponível na época)",
+              "Retrospectivo: reapresentar e divulgar",
+              "253599, 719425"
+            ],
+            [
+              "Nova estimativa por fato novo (vida útil, residual, método de depreciação)",
+              "Prospectivo",
+              "2266770, 719425"
+            ],
+            [
+              "Troca de base de mensuração",
+              "Mudança de política: retrospectiva, quanto praticável",
+              "2266770, 3401267"
+            ],
+            [
+              "Erro imaterial e involuntário",
+              "Não viola a conformidade",
+              "789085"
+            ],
+            [
+              "Erro pequeno mas intencional",
+              "Viola; corrigir",
+              "1118033"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Lançar a correção de erro antigo no resultado do ano em que foi descoberto (3847020). Tratar mudança de método de depreciação como política (2266770). Justificar mudança de política por aumentar o lucro (3401267). Aceitar erro intencional por ser pequeno (1118033). Usar hipótese de 100% de férias contra o histórico de 30% (789105)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc24-eventos-subsequentes",
+      "subject": "Contabilidade",
+      "targetId": "conta-f-06",
+      "targetTitle": "Eventos Subsequentes (CPC 24)",
+      "title": "Teoria das questões — Eventos subsequentes (CPC 24)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: CPC 24",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Evento que não origina ajuste",
+          "text": "Variação cambial inesperada depois de 31/12: não ajustar o balanço; divulgar natureza e efeito estimado se material (3412215)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc25-provisoes",
+      "subject": "Contabilidade",
+      "targetId": "conta-c-05",
+      "targetTitle": "Provisões (CPC 25)",
+      "title": "Teoria das questões — Provisões, passivos e ativos contingentes (CPC 25)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "27 questões TEC do assunto 'Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)', resoluções já registradas no site",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Provisão: três requisitos, todos ao mesmo tempo",
+          "text": "1) Obrigação presente (legal ou não formalizada) decorrente de evento passado; 2) saída de recursos provável, isto é, mais provável que sim do que não; 3) estimativa confiável do valor. Faltando qualquer um, não há provisão no balanço. (R1 — TEC 3504315, 1241384, 3975830)"
+        },
+        {
+          "type": "flowchart",
+          "title": "Decisão sobre cada processo ou obrigação (polo passivo)",
+          "steps": [
+            {
+              "label": "1. Existe evento passado que gerou obrigação presente?",
+              "text": "Não: nada a reconhecer nem divulgar. Plano de vender com garantia no ano seguinte não cria obrigação hoje, mesmo com percentuais de defeito estimados. (R2 — 3365912)"
+            },
+            {
+              "label": "2. Qual a probabilidade de saída de recursos?",
+              "text": "Remota: não reconhece e, em regra, não divulga, ainda que o valor seja alto. Possível: não reconhece; divulga passivo contingente em notas. Provável: vá ao passo 3. (R4, R5)"
+            },
+            {
+              "label": "3. Há estimativa confiável do valor?",
+              "text": "Não: não reconhece; divulga como passivo contingente, com natureza e incertezas. Não inventar valor mínimo. (R3 — 3863578, 3116840)"
+            },
+            {
+              "label": "4. Sim: reconhecer provisão",
+              "text": "Débito em despesa (DRE) e crédito em provisão (passivo), pelo valor estimado na data do balanço. (R6)"
+            }
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Cálculo cobrado pela FCC: reavaliação dos processos de um ano para o outro",
+          "steps": [
+            {
+              "label": "1. Saldo inicial",
+              "text": "Some as provisões já reconhecidas no balanço anterior (coluna 'provisão reconhecida' ou processos que eram prováveis)."
+            },
+            {
+              "label": "2. Saldo final",
+              "text": "Some só os processos prováveis na data nova, pelo valor reestimado. Possíveis e remotos ficam fora, mesmo que tivessem provisão antes. (R6, R8)"
+            },
+            {
+              "label": "3. Impacto na DRE",
+              "text": "Saldo inicial − saldo final. Resultado positivo: reversão (ganho). Resultado negativo: despesa. (R7)"
+            },
+            {
+              "label": "4. Pagamentos de processos não provisionados",
+              "text": "Somar como despesa do período, fora do saldo final. (R9 — 3846793)"
+            }
+          ]
+        },
+        {
+          "type": "formula",
+          "text": "Impacto na DRE = Σ provisões iniciais − Σ provisões finais (só prováveis, reestimadas)"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Quando a fórmula vale",
+          "text": "A fórmula supõe que nenhum processo provisionado foi pago no período. Se uma provisão foi usada para pagar a condenação, esse pagamento baixa a provisão e não passa pela DRE. Nas questões deste lote, o único pagamento é de processo que não estava provisionado (3846793)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 3975826 (FCC, SEFAZ GO, 2026)",
+              "31/12/2023",
+              "31/12/2024",
+              "No saldo final?"
+            ],
+            [
+              "Processo A",
+              "1.500.000 (provisão)",
+              "Provável — 1.200.000",
+              "Sim: 1.200.000"
+            ],
+            [
+              "Processo B",
+              "—",
+              "Provável — 720.000",
+              "Sim: 720.000"
+            ],
+            [
+              "Processo C",
+              "—",
+              "Possível — 480.000",
+              "Não (notas)"
+            ],
+            [
+              "Processo D",
+              "900.000 (provisão)",
+              "Possível — 540.000",
+              "Não: reverter 900.000"
+            ],
+            [
+              "Total",
+              "2.400.000",
+              "",
+              "1.920.000"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Resultado do exemplo",
+          "text": "Impacto = 2.400.000 − 1.920.000 = 480.000 positivo (ganho por reversão). Saldo no balanço: 1.920.000. Resposta D."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Garantia sobre vendas já feitas — TEC 584688",
+              "Valor em 2016"
+            ],
+            [
+              "Receita de vendas (à vista)",
+              "2.000.000 (não é reduzida pela garantia)"
+            ],
+            [
+              "Caixa",
+              "2.000.000 (a estimativa não sai do caixa agora)"
+            ],
+            [
+              "Despesa com provisão para garantia",
+              "4% × 2.000.000 = 80.000"
+            ],
+            [
+              "Provisão para garantia (passivo)",
+              "80.000"
+            ]
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Linha do tempo de um processo — TEC 3116840",
+          "steps": [
+            {
+              "label": "10/06/2020 — ação aberta, perda remota",
+              "text": "Nada a reconhecer nem divulgar."
+            },
+            {
+              "label": "31/03/2023 — sentença desfavorável, valor não mensurável com confiabilidade",
+              "text": "Não há provisão: falta estimativa confiável. Tratar como passivo contingente."
+            },
+            {
+              "label": "26/11/2023 — perito fixa 1.156.000, saída provável",
+              "text": "Todos os requisitos presentes: reconhecer provisão de 1.156.000 nessa data. Resposta A."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Somar todos os processos no passivo (3367324, 3546692). Manter a provisão antiga de processo que virou possível (1896649, 3553900, 3822308). Tratar o saldo anterior como definitivo (488366). Reduzir receita ou caixa pela garantia estimada (584688). Calcular garantia de vendas que ainda não ocorreram (3365912). Ler 'passivo contingente' no enunciado como algo diferente da provisão, quando a perda é provável (2823703). Divulgar perda remota só porque o valor é alto (3114258)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Ativo contingente (empresa autora) — o que as questões cobram",
+              "Tratamento",
+              "TEC"
+            ],
+            [
+              "Entrada praticamente certa",
+              "Deixa de ser contingente: reconhece o ativo",
+              "3220273, 3975830"
+            ],
+            [
+              "Entrada provável",
+              "Não reconhece; divulga em notas",
+              "regra da teoria da matéria"
+            ],
+            [
+              "Entrada possível",
+              "Não reconhece nem divulga como ativo contingente",
+              "3114258"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Cuidado com 'nunca'",
+          "text": "'Passivo contingente nunca é reconhecido' está certo no CPC 25. Na combinação de negócios (CPC 15), o passivo contingente assumido pode ser reconhecido; por isso a afirmação só vale no escopo do CPC 25. (R14 — 1241384)"
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc26-apresentacao",
+      "subject": "Contabilidade",
+      "targetId": "conta-e-01",
+      "targetTitle": "Apresentação das Demonstrações Contábeis (CPC 26)",
+      "title": "Teoria das questões — Apresentação das demonstrações e notas explicativas (CPC 26)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Elaboração e Apresentação; Notas Explicativas",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Afirmação típica",
+              "Certa?",
+              "Questões"
+            ],
+            [
+              "Circulante = realizável em até 24 meses",
+              "Não: ciclo operacional ou 12 meses",
+              "984389"
+            ],
+            [
+              "Estoque e clientes com ciclo de 20 meses são não circulantes",
+              "Não: são circulantes",
+              "3975809"
+            ],
+            [
+              "Empréstimo que vence em 12 meses, prorrogável a critério da empresa por 36, é circulante",
+              "Não: não circulante",
+              "337899"
+            ],
+            [
+              "DOAR integra o conjunto do CPC 26",
+              "Não",
+              "3084213"
+            ],
+            [
+              "Notas trazem a opinião do auditor",
+              "Não: relatório próprio",
+              "3814598"
+            ],
+            [
+              "Resultado abrangente de controladores e não controladores pode ser apresentado junto",
+              "Não: separado",
+              "3114175"
+            ]
+          ]
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc27-imobilizado",
+      "subject": "Contabilidade",
+      "targetId": "conta-b-05",
+      "targetTitle": "Imobilizado (CPC 27)",
+      "title": "Teoria das questões — Ativo imobilizado (CPC 27)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Ativo Imobilizado (Conceito",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Gasto",
+              "No custo?",
+              "Questões"
+            ],
+            [
+              "Preço − desconto comercial",
+              "Sim (desconto reduz o custo, não é receita)",
+              "3863558, 3105773"
+            ],
+            [
+              "Impostos de importação e não recuperáveis",
+              "Sim",
+              "228376, 3154729"
+            ],
+            [
+              "Frete, manuseio, instalação, montagem, preparação do local, testes",
+              "Sim",
+              "228376, 3365911"
+            ],
+            [
+              "Obrigação de desmontagem a valor presente",
+              "Sim",
+              "3367265, 3846697"
+            ],
+            [
+              "Tributos recuperáveis",
+              "Não",
+              "719073"
+            ],
+            [
+              "Publicidade, divulgação, treinamento",
+              "Não: despesa",
+              "59132, 3154729, 3863560"
+            ],
+            [
+              "Seguro anual, vigilância, manutenção futura",
+              "Não: despesa do período",
+              "1117812, 3105773"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Desmontagem e restauração",
+          "text": "Some ao custo o valor presente da obrigação: 3367265 — 60.000 ÷ 1,25 = 48.000; custo 948.000; depreciação (948.000 − 120.000) ÷ 8 = 103.500. A taxa pode ser acumulada para todo o prazo (1896826: 3.300.000 ÷ 1,10). A atualização posterior da provisão é despesa financeira. (R3)"
+        },
+        {
+          "type": "flowchart",
+          "title": "Venda depois de mudar a estimativa — TEC 3863560",
+          "steps": [
+            {
+              "label": "1. Custo",
+              "text": "1.000.000 + 50.000 + 30.000 + 20.000 = 1.100.000 (treinamento de 15.000 é despesa)."
+            },
+            {
+              "label": "2. Três anos de depreciação",
+              "text": "3 × 110.000 = 330.000; saldo 770.000."
+            },
+            {
+              "label": "3. Nova vida restante de 4 anos",
+              "text": "770.000 ÷ 4 = 192.500 por ano; 18 meses até a venda = 288.750."
+            },
+            {
+              "label": "4. Venda por 420.000",
+              "text": "Saldo 481.250 → prejuízo de 61.250 (resposta A)."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Capitalizar publicidade ou treinamento (59132, 3863560). Depreciar o ano inteiro quando o uso começou no meio do ano (3448136). Calcular depreciação sem deduzir o residual. Incluir manutenção futura no custo (3105773). Tratar reparo comum como melhoria (1241415). Ver receita no desconto comercial (3863558). Classificar como circulante ou realizável os materiais de obra de uso próprio (2292795)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc28-propriedade-investimento",
+      "subject": "Contabilidade",
+      "targetId": "conta-d-01",
+      "targetTitle": "Propriedades para Investimento",
+      "title": "Teoria das questões — Propriedades para investimento (CPC 28)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Propriedades para Investimento (CPC 28)",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 3975984 (FCC, SEFAZ GO, 2026)",
+              "Valor"
+            ],
+            [
+              "Entrada",
+              "1.000.000"
+            ],
+            [
+              "2.240.000 ÷ 1,12",
+              "2.000.000"
+            ],
+            [
+              "3.010.560 ÷ 1,12²",
+              "2.400.000"
+            ],
+            [
+              "Registro + reformas",
+              "100.000 + 400.000"
+            ],
+            [
+              "Custo inicial",
+              "5.900.000 (resposta D)"
+            ],
+            [
+              "Valor justo 7.000.000 em 2023",
+              "Ganho de 1.100.000 no resultado; sem depreciação"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Uso futuro próprio não é propriedade para investimento",
+          "text": "Imóvel reservado para expansão da própria fábrica é imobilizado (CPC 28, item 9(c)). Em 259388 o PDF marca B, mas a resposta tecnicamente sustentada é C. Em 1936754, terreno para valorização é propriedade para investimento, embora a letra D diga imobilizado (questão pendente com ressalva)."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Registrar pelo valor nominal das parcelas (3847069). Registrar inicialmente pelo valor justo (2873873). Depreciar no modelo do valor justo (3201293). Levar perda de valor justo ao PL (719428). Escolher custo para prédios e valor justo para terrenos (2792286). Transferir para estoque só pela decisão de vender (227909)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc31-mantido-venda",
+      "subject": "Contabilidade",
+      "targetId": "conta-d-02",
+      "targetTitle": "Ativo Não Circulante Mantido para Venda",
+      "title": "Teoria das questões — Ativo não circulante mantido para venda (CPC 31)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: CPC 31",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Mensuração e apresentação",
+          "text": "Menor entre valor contábil e valor justo líquido de despesas de venda (não o maior — 3349474). Apresentar separado dos demais ativos, sem compensar com passivos (2396959)."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Venda que atrasa",
+          "text": "Mais de 12 meses não obriga a voltar à classificação anterior se o atraso foi causado por fatores fora do controle e a entidade mantém o compromisso (2212148)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc32-tributos-lucro",
+      "subject": "Contabilidade",
+      "targetId": "conta-c-06",
+      "targetTitle": "Tributos sobre Lucro (CPC 32)",
+      "title": "Teoria das questões — Tributos sobre o lucro (CPC 32) e lucro real",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Tributos sobre Lucro",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 2395558 (FCC, COPERGÁS, 2023)",
+              "Valor"
+            ],
+            [
+              "Lucro antes dos tributos",
+              "9.500"
+            ],
+            [
+              "+ Provisões 4.000 + excesso de depreciação 1.000 + multas 500 − MEP 1.500",
+              "13.500 (base fiscal)"
+            ],
+            [
+              "IR/CSLL corrente 34%",
+              "4.590"
+            ],
+            [
+              "Ativo diferido 34% × (4.000 + 1.000)",
+              "1.700"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Prejuízo fiscal",
+          "text": "2572630: base 1.600.000; compensa 220.000 (menor que 30% × 1.600.000 = 480.000); lucro real 1.380.000. Regras do período da questão."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc33-folha",
+      "subject": "Contabilidade",
+      "targetId": "conta-c-07",
+      "targetTitle": "Folha de Pagamento (CPC 33)",
+      "title": "Teoria das questões — Folha de pagamento e benefícios a empregados (CPC 33)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Folha de Pagamento",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "IRRF — TEC 2857684",
+          "text": "Base = 5.000 − 525,92 − 189,59 = 4.284,49; IR = 4.284,49 × 22,5% − 651,73 = 312,28. Usar a tabela fornecida, mesmo com data inconsistente no enunciado."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc46-valor-justo",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-04",
+      "targetTitle": "Mensuração a Valor Justo (CPC 46)",
+      "title": "Teoria das questões — Valor justo (CPC 46) e critérios da Lei 6.404",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: CPC 46",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Critério (art. 183, § 1º)",
+              "Definição cobrada"
+            ],
+            [
+              "Valor justo",
+              "Transação não compulsória entre partes independentes"
+            ],
+            [
+              "Matérias-primas",
+              "Preço de reposição"
+            ],
+            [
+              "Bens destinados à venda",
+              "Preço líquido de realização (venda − despesas − margem)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Trocar 'não compulsória entre partes independentes' por 'compulsória' ou 'dependentes' (3149059); confundir valor justo com custo de reposição ou reavaliação (2266744)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-cpc48-instrumentos-financeiros",
+      "subject": "Contabilidade",
+      "targetId": "conta-b-04",
+      "targetTitle": "Instrumentos Financeiros (CPC 48)",
+      "title": "Teoria das questões — Instrumentos financeiros (CPC 48)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Instrumentos Financeiros",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra de cálculo das três carteiras",
+          "text": "Custo amortizado: aplicado × (1 + i)^n, ignorando o valor justo. VJORA: balanço pelo valor justo; na DRE só os juros; o resto vai a ORA. VJR: balanço pelo valor justo; na DRE a variação total. (R2, R3, R4)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Carteira",
+              "Balanço",
+              "DRE",
+              "ORA"
+            ],
+            [
+              "Custo amortizado",
+              "Aplicado + juros efetivos",
+              "Juros efetivos",
+              "—"
+            ],
+            [
+              "VJORA (título de dívida)",
+              "Valor justo",
+              "Juros efetivos",
+              "Valor justo − saldo amortizado"
+            ],
+            [
+              "VJR",
+              "Valor justo",
+              "Valor justo − valor aplicado (já inclui juros)",
+              "—"
+            ],
+            [
+              "VJORA (ações, eleição irrevogável)",
+              "Valor justo",
+              "Dividendos; sem reciclagem na venda",
+              "Toda a variação de valor justo"
+            ]
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Roteiro da questão típica da FCC (três aplicações)",
+          "steps": [
+            {
+              "label": "1. Contar os períodos",
+              "text": "Da aplicação até a data do balanço; juros compostos se houver mais de um período. (R5)"
+            },
+            {
+              "label": "2. Custo amortizado",
+              "text": "Saldo = aplicado × (1 + i)^n. Não usar a coluna de valor justo."
+            },
+            {
+              "label": "3. VJORA",
+              "text": "Juros = saldo × i na DRE; saldo amortizado; ajuste = valor justo − saldo amortizado em ORA."
+            },
+            {
+              "label": "4. VJR",
+              "text": "Ganho ou perda = valor justo − aplicado, na DRE, de uma vez."
+            },
+            {
+              "label": "5. Responder o que se pede",
+              "text": "Ativo = CA amortizado + VJORA a valor justo + VJR a valor justo. DRE = juros CA + juros VJORA + variação VJR."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 3975988 (FCC, SEFAZ GO, 2026), 1 mês a 1% a.m.",
+              "Balanço",
+              "DRE",
+              "ORA"
+            ],
+            [
+              "Custo amortizado 600.000 (VJ 612.000)",
+              "606.000",
+              "6.000",
+              "—"
+            ],
+            [
+              "VJORA 450.000 (VJ 459.000)",
+              "459.000",
+              "4.500",
+              "4.500"
+            ],
+            [
+              "VJR 150.000 (VJ 153.000)",
+              "153.000",
+              "3.000",
+              "—"
+            ],
+            [
+              "Total",
+              "1.218.000",
+              "13.500 (resposta A)",
+              "4.500"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Venda de título VJORA × venda de ações VJORA",
+          "text": "Título de dívida: o ORA acumulado volta para a DRE na venda (3847013: 121.000 de juros − 41.000 de ORA negativo = 80.000 no resultado). Ações com eleição irrevogável: não há reciclagem; na venda pelo valor justo o efeito na DRE é zero (1889210). (R6, R7)"
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Perda de crédito esperada (custo amortizado)",
+          "text": "Perda = valor contábil − valor presente dos fluxos que se espera receber. Em 2792329: 400.000 − 350.002 = 49.998. A soma nominal dos fluxos futuros não serve para comparar. Avaliação coletiva é permitida e não é preciso haver evidência de problema na data. (R10, R11)"
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Hedge de fluxo de caixa",
+          "text": "Parcela efetiva vai a ORA; parcela inefetiva vai à DRE. A reserva de hedge fica limitada ao menor, em valor absoluto, entre o ganho ou perda acumulado no instrumento e a variação acumulada do item protegido. (R12 — 2571016, 3079046)"
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Usar a cotação de mercado para o título ao custo amortizado (3552251, 3557740, 2687937). Somar juros + variação no VJR (2163618, 3975988). Levar o ajuste do VJORA para a DRE (3552252, 3846334). Reciclar ORA de ações (1889210). Tratar participação de 8% estratégica como MEP (3093570). Limitar o ganho do VJR à perda anterior (1037603). Dizer que todo resultado de hedge vai à DRE (3079046). Mensurar contas a receber sem financiamento significativo pelo valor justo (3454091)."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Nomenclatura antiga",
+          "text": "A Lei 6.404 (art. 183) ainda fala em aplicações 'destinadas à negociação ou disponíveis para venda' avaliadas a valor justo. Em questão sobre a lei, essa é a resposta, mesmo não sendo as categorias atuais do CPC 48. (R14 — 1990613)"
+        },
+        {
+          "type": "callout",
+          "kind": "note",
+          "title": "Escopo do CPC 48 — itens não financeiros",
+          "text": "Contrato de compra ou venda de item não financeiro entra no escopo quando qualquer das partes pode liquidá-lo pelo líquido, ou quando há prática de liquidar contratos similares pelo líquido. 'Apenas uma das partes' torna a afirmação errada. (R15 — 3385418)"
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-debentures",
+      "subject": "Contabilidade",
+      "targetId": "conta-c-04",
+      "targetTitle": "Debêntures",
+      "title": "Teoria das questões — Debêntures",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Debêntures e Títulos",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 3561745 e 3561747 (FCC, SEFAZ PI, 2025)",
+              "Valor"
+            ],
+            [
+              "Captação 53.000.000 − custos 505.820,28",
+              "52.494.179,72"
+            ],
+            [
+              "Encargo do semestre a 5,3%",
+              "2.782.191,53 (3561745, resposta D)"
+            ],
+            [
+              "− Parcela paga",
+              "(4.947.607,18)"
+            ],
+            [
+              "Saldo",
+              "50.328.764,07 (3561747, resposta B)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Prêmio não é reserva",
+          "text": "Na disciplina atual, o prêmio na emissão de debêntures fica no passivo e é apropriado pela taxa efetiva; não vai para reserva de capital (461332). O esquema do CPC 08 aprovado em 05/11 detalha o prêmio."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-depreciacao",
+      "subject": "Contabilidade",
+      "targetId": "conta-b-07",
+      "targetTitle": "Depreciação, Amortização e Exaustão",
+      "title": "Teoria das questões — Depreciação, amortização e exaustão",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Depreciação, Amortização e Exaustão",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "formula",
+          "text": "Depreciação = (custo − valor residual) ÷ vida útil × meses de uso ÷ 12"
+        },
+        {
+          "type": "formula",
+          "text": "Por uso = (custo − valor residual) × unidades (ou km) do período ÷ total estimado"
+        },
+        {
+          "type": "flowchart",
+          "title": "Revisão de estimativa (prospectiva) — TEC 3800520",
+          "steps": [
+            {
+              "label": "1. Até a revisão",
+              "text": "Quota de 2022 = (8.000.000 − 1.200.000) ÷ 10 = 680.000; saldo 7.320.000."
+            },
+            {
+              "label": "2. Nova estimativa",
+              "text": "Residual revisto para 750.000; 9 anos restantes."
+            },
+            {
+              "label": "3. Nova quota",
+              "text": "(7.320.000 − 750.000) ÷ 9 = 730.000 em 2023; saldo 6.590.000 (resposta B). Não refazer os anos anteriores."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Taxa sobre a base, não sobre o custo",
+          "text": "Com residual de 30%, a taxa linear de 20% ao ano equivale a 14% do custo. Afirmar '20% sobre o custo' está errado (3240920). (R1)"
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Componentes",
+          "text": "Motor, pneus e estrutura de um jato com vidas diferentes são depreciados cada um na sua vida (2792320). Não usar a vida maior, a menor ou a média para tudo."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Usar vida fiscal no lugar do uso estimado (2154057, 3822215, 3975840). Refazer a depreciação passada quando a estimativa muda (3561624). Depreciar terreno (3043696). Incluir os juros da compra a prazo no custo (2272187). Esquecer a proporção de meses (719073: 21 meses)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-destinacao-dividendos",
+      "subject": "Contabilidade",
+      "targetId": "conta-d-07",
+      "targetTitle": "Dividendos e Juros sobre Capital Próprio",
+      "title": "Teoria das questões — Destinação do lucro, reservas de lucros e dividendos",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Reservas de Lucros; Dividendos",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "flowchart",
+          "title": "Roteiro da destinação do lucro",
+          "steps": [
+            {
+              "label": "1. Reserva legal",
+              "text": "5% do lucro, mas no máximo (20% do capital − saldo atual). (325273: limite 80.000, embora 5% fosse 100.000)"
+            },
+            {
+              "label": "2. Ajustes da base",
+              "text": "Subtrair legal e incentivos fiscais excluídos; subtrair constituição ou somar reversão de contingências; estatutária só se o estatuto mandar."
+            },
+            {
+              "label": "3. Dividendo obrigatório",
+              "text": "% do estatuto × base; estatuto omisso: 50%."
+            },
+            {
+              "label": "4. Retenções",
+              "text": "Expansão e estatutária absorvem o restante, dentro do PL."
+            },
+            {
+              "label": "5. PL final",
+              "text": "PL inicial + lucro + integralizações − dividendo obrigatório."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 660105 (FCC, Pref São Luís)",
+              "Valor"
+            ],
+            [
+              "Lucro",
+              "300.000"
+            ],
+            [
+              "Reserva legal (teto 160.000 − saldo 150.000)",
+              "10.000"
+            ],
+            [
+              "Incentivos fiscais excluídos",
+              "60.000"
+            ],
+            [
+              "Dividendo 40% × (300.000 − 10.000 − 60.000)",
+              "92.000"
+            ],
+            [
+              "Retenção restante",
+              "138.000 (resposta E)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Aplicar 5% sem checar o teto de 20% (2163371: 50.000, não 60.000). Deduzir reserva estatutária da base sem previsão no estatuto (877373, 3553917). Reverter reserva antiga para engordar o dividendo (3561707). Subtrair do PL a reserva legal ou a retenção (1010022). Deduzir como passivo o dividendo adicional apenas proposto (2163606). Copiar a resposta da questão gêmea: 3561707 e 3567056 têm os mesmos dados."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-disponibilidades-pecld",
+      "subject": "Contabilidade",
+      "targetId": "conta-b-01",
+      "targetTitle": "Disponibilidades",
+      "title": "Teoria das questões — Caixa e equivalentes, PECLD e recebimentos",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Contas a receber e Perda; Disponibilidades",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 2818479 (FCC, TRT 12, 2023)",
+              "Valor"
+            ],
+            [
+              "Vendas = despesa de perdas 84.000 ÷ 10%",
+              "840.000"
+            ],
+            [
+              "Baixas = 56.000 + 84.000 − 34.000",
+              "106.000"
+            ],
+            [
+              "Recebimentos = 400.000 + 840.000 − 106.000 − 420.000",
+              "714.000 (resposta E)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Equivalente de caixa",
+          "text": "Aplicação de 30 dias só é equivalente se atender aos requisitos do CPC 03; a questão 2369050 pressupõe isso."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-dlpa",
+      "subject": "Contabilidade",
+      "targetId": "conta-e-06",
+      "targetTitle": "Demonstração de Lucro e Prejuízo Acumulado (DLPA)",
+      "title": "Teoria das questões — DLPA",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Demonstração de Lucros ou Prejuízos",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "DLPA na Lei 6.404",
+          "text": "A DLPA deve indicar o montante do dividendo por ação e pode ser incluída na DMPL, se elaborada (art. 186, § 2º). (126854)"
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-dmpl",
+      "subject": "Contabilidade",
+      "targetId": "conta-e-05",
+      "targetTitle": "Demonstração de Mudança do Patrimônio Líquido (DMPL)",
+      "title": "Teoria das questões — DMPL",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Demonstração das Mutações",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "formula",
+          "text": "Variação do PL = lucro + ORA + integralizações − dividendos obrigatórios − recompras + revendas de ações próprias"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Movimento",
+              "Muda o total do PL?",
+              "Questões"
+            ],
+            [
+              "Lucro do exercício",
+              "Sim (+)",
+              "289632"
+            ],
+            [
+              "Integralização em dinheiro ou bens",
+              "Sim (+)",
+              "640103, 2870134"
+            ],
+            [
+              "Dividendo obrigatório",
+              "Sim (−)",
+              "2635928"
+            ],
+            [
+              "Dividendo adicional proposto",
+              "Não (fica no PL)",
+              "1239407, 3365888"
+            ],
+            [
+              "Recompra / revenda de ações próprias",
+              "Sim (− / +)",
+              "640103, 2870134"
+            ],
+            [
+              "Constituir, reverter ou capitalizar reservas",
+              "Não",
+              "154056, 337898"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 2870134 (FCC, TRT 11, 2024)",
+              "Valor"
+            ],
+            [
+              "PL inicial",
+              "400.000"
+            ],
+            [
+              "+ Lucro",
+              "200.000"
+            ],
+            [
+              "+ Integralização",
+              "80.000"
+            ],
+            [
+              "− Dividendos",
+              "(40.000)"
+            ],
+            [
+              "− Recompra de ações",
+              "(15.000)"
+            ],
+            [
+              "+ Revenda de ações",
+              "60.000"
+            ],
+            [
+              "PL final",
+              "685.000 (resposta A)"
+            ]
+          ]
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-dra",
+      "subject": "Contabilidade",
+      "targetId": "conta-e-07",
+      "targetTitle": "Demonstração do Resultado Abrangente (DRA)",
+      "title": "Teoria das questões — Demonstração do resultado abrangente (DRA)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Demonstração de Resultados Abrangentes",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 3846785 (FCC, SEFAZ SP, 2026)",
+              "Valor"
+            ],
+            [
+              "Lucro líquido",
+              "1.200.000"
+            ],
+            [
+              "− Perda de conversão",
+              "(300.000)"
+            ],
+            [
+              "− Perda atuarial",
+              "(150.000)"
+            ],
+            [
+              "+ Ganho em ORA de ativo financeiro",
+              "240.000"
+            ],
+            [
+              "Resultado abrangente",
+              "990.000 (resposta C)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Não somar duas vezes",
+          "text": "Ganho na venda de imobilizado e valor justo de propriedade para investimento já estão no lucro líquido; somá-los de novo é o erro mais comum (3850867, 3864879). Dividendos, aumento de capital e ações próprias nunca entram (3800492)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-dre-resultado",
+      "subject": "Contabilidade",
+      "targetId": "conta-e-03",
+      "targetTitle": "Demonstração do Resultado do Exercício",
+      "title": "Teoria das questões — Demonstração do resultado (DRE)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Demonstração do Resultado do Exercício (DRE)",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Linha da DRE",
+              "O que entra",
+              "O que fica de fora"
+            ],
+            [
+              "Receita bruta",
+              "Quantidade × preço de venda",
+              "Custos, comissões (2371661)"
+            ],
+            [
+              "(−) Deduções",
+              "Devoluções, abatimentos, descontos incondicionais, tributos sobre vendas",
+              "Descontos financeiros, fretes de venda"
+            ],
+            [
+              "(−) CMV",
+              "Custo das mercadorias vendidas, sem tributos recuperáveis",
+              "Comissões, frete de entrega, perdas com clientes"
+            ],
+            [
+              "= Lucro bruto",
+              "",
+              ""
+            ],
+            [
+              "(−) Despesas operacionais",
+              "Vendas (comissões, fretes de entrega, propaganda, PECLD), administrativas",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 3800511 (FCC, MPE SE, 2026)",
+              "Valor"
+            ],
+            [
+              "Compra a prazo pelo valor presente: 690.000 ÷ 1,15",
+              "600.000"
+            ],
+            [
+              "− Tributos recuperáveis + frete de compra",
+              "600.000 − 50.000 + 15.000 = 565.000"
+            ],
+            [
+              "CMV = 80% vendido",
+              "452.000"
+            ],
+            [
+              "Receita com desconto comercial 10%: 700.000 × 90%",
+              "630.000"
+            ],
+            [
+              "Lucro bruto",
+              "178.000 (resposta E)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Valor presente na compra e na venda",
+          "text": "Venda a prazo com juros embutidos: receita = valor futuro ÷ (1 + i)^n; os juros viram receita financeira ao longo do prazo (2163345: 2.220.600 ÷ 1,1103 = 2.000.000; juros de dezembro 14.000). Compra a prazo: o estoque entra pelo valor presente (3800511). (R4)"
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Participações no lucro",
+          "text": "Calcular em sequência: lucro antes do IR → IR/CSLL → participação dos empregados sobre o saldo → participação dos administradores sobre o novo saldo. (228380: lucro líquido 6.480)"
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Deduzir frete de venda, comissão ou perda com clientes antes do lucro bruto (719224, 3846655). Deixar o tributo recuperável no custo da mercadoria (527154, 3850887). Reconhecer a venda a prazo pelo valor nominal (3567620). Abater garantia e perda esperada da receita (3846690). Somar pagamento a fornecedor como despesa (3114432). Confundir lucro bruto com lucro líquido (3075499)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-duplicatas-descontadas",
+      "subject": "Contabilidade",
+      "targetId": "conta-c-03",
+      "targetTitle": "Duplicatas Descontadas",
+      "title": "Teoria das questões — Duplicatas descontadas",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Operações com Duplicatas",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Lançamento do desconto — TEC 120852",
+              "Débito",
+              "Crédito"
+            ],
+            [
+              "Entrada no banco",
+              "Bancos 90.000",
+              ""
+            ],
+            [
+              "Juros a apropriar (redutora do passivo)",
+              "Juros a apropriar 5.000",
+              ""
+            ],
+            [
+              "Obrigação com o banco",
+              "",
+              "Duplicatas descontadas 95.000"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Taxa efetiva",
+          "text": "Em 2395611: 300.000 − juros antecipados 36.000 − tarifa 500 = 263.500 de ingresso. Encargo de dezembro = 263.500 × 3,2964% = 8.686, e não os 9.000 de juros nominais simples."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-emprestimos",
+      "subject": "Contabilidade",
+      "targetId": "conta-c-02",
+      "targetTitle": "Empréstimos",
+      "title": "Teoria das questões — Empréstimos e financiamentos (custo amortizado)",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Empréstimos e Fornecedores",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "formula",
+          "text": "Passivo inicial = valor captado − custos de transação"
+        },
+        {
+          "type": "formula",
+          "text": "Saldo final = passivo inicial + passivo inicial × taxa efetiva − parcela paga"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 3567674 (FCC, TRT 2, 2025)",
+              "Valor"
+            ],
+            [
+              "Captação 32.000.000 − custos 960.000",
+              "31.040.000"
+            ],
+            [
+              "+ Juros efetivos 11%",
+              "3.414.400"
+            ],
+            [
+              "− Prestação paga",
+              "(7.347.436,17)"
+            ],
+            [
+              "Saldo final",
+              "27.106.963,83 (resposta B)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Lançar os custos de transação como despesa imediata (489947). Calcular os juros sobre o valor captado bruto ou com a taxa contratual em vez da efetiva (2163642). Esquecer de abater a parcela paga. Reconhecer como dívida o limite contratado ainda não recebido (2890597)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-goodwill",
+      "subject": "Contabilidade",
+      "targetId": "conta-d-06",
+      "targetTitle": "Goodwill",
+      "title": "Teoria das questões — Goodwill",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Goodwill",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "formula",
+          "text": "Goodwill = preço pago − % × (ativos − passivos identificáveis a valor justo)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Exemplo resolvido — TEC 2292786 (FGV, CGE SC, 2023)",
+              "Valor"
+            ],
+            [
+              "Ativos identificáveis a valor justo: 5.000 + 60.000 + 20.000",
+              "85.000"
+            ],
+            [
+              "− Passivos",
+              "(9.000)"
+            ],
+            [
+              "Ativos líquidos a valor justo",
+              "76.000"
+            ],
+            [
+              "Goodwill = 95.000 − 76.000",
+              "19.000 (resposta A)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Calcular o goodwill sobre o PL contábil e não sobre o valor justo (2235668). Separar o goodwill no intangível das individuais (527158). Reverter perda de goodwill (283012). Amortizar o goodwill (3202360). Chamar de goodwill a compra vantajosa (323994)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-patrimonio-liquido",
+      "subject": "Contabilidade",
+      "targetId": "conta-c-08",
+      "targetTitle": "Contas do Patrimônio Líquido (Capital Social; Ações; Reservas...)",
+      "title": "Teoria das questões — Capital, ações em tesouraria e demais contas do PL",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: Capital Social (Subscrito; Ações em Tesouraria; Ações (Ágio; Reservas de Capital; Ajuste de Avaliação Patrimonial; Lucros e Prejuízos Acumulados; Reserva de Reavaliação",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Ações em tesouraria — TEC 455693",
+              "Valor",
+              "Onde"
+            ],
+            [
+              "Recompra 1.000.000 + gastos 50.000",
+              "1.050.000",
+              "Redutora do PL"
+            ],
+            [
+              "Revenda 1.200.000 − gastos 10.000",
+              "1.190.000",
+              "Entrada; PL sobe"
+            ],
+            [
+              "Diferença positiva",
+              "140.000",
+              "No PL (reserva), nunca na DRE"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Capital social",
+          "text": "Subscrito − a integralizar = realizado. Capital a integralizar é redutora do PL, não dívida da companhia com o acionista (476888). Capital autorizado não subscrito não aparece (584701)."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinhas recorrentes",
+          "text": "Chamar ágio na emissão de receita (2782140). Reduzir o capital social pela simples recompra (3320315). Reconhecer ganho ou perda de ações em tesouraria na DRE (256310). Trocar reembolso por resgate (3455343). Achar que capitalizar reservas aumenta o PL ou reduz o valor nominal (2985307)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-tq-sped-ecd",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-01",
+      "targetTitle": "Contabilidade Básica",
+      "title": "Teoria das questões — SPED e Escrituração Contábil Digital",
+      "status": "approved",
+      "updateType": "teoria-das-questoes",
+      "source": "Questões TEC dos assuntos: SPED; Instruções Normativas da RFB",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Afirmação típica sobre o SPED",
+              "Certa?",
+              "Questões"
+            ],
+            [
+              "Compartilhamento integral e irrestrito",
+              "Não: limites de competência e sigilos",
+              "2759781, 1810570"
+            ],
+            [
+              "Estados e municípios acessam sem convênio",
+              "Não",
+              "2164370"
+            ],
+            [
+              "Empresas são usuárias do SPED",
+              "Não: prestam informação e acessam os próprios dados",
+              "3446245"
+            ],
+            [
+              "Com o SPED não é preciso guardar os livros",
+              "Não",
+              "2759777"
+            ],
+            [
+              "Diário digital autenticado precisa ir em papel à junta",
+              "Não",
+              "2759780"
+            ],
+            [
+              "DRE é livro da ECD",
+              "Não",
+              "2709624"
+            ],
+            [
+              "Convênio dá ao estado competência geral sobre o eSocial",
+              "Não",
+              "2759779"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Limites e dispensas mudam",
+          "text": "A obrigatoriedade da ECD para imunes e isentas usa o limite da IN vigente na data da prova (R$ 4,8 milhões em 2590871 e 2965563). Conferir o ano normativo antes de transportar o número."
+        }
+      ],
+      "flashcards": []
     },
     {
       "id": "macro-agregados-monetarios",

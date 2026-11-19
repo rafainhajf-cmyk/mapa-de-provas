@@ -2,6 +2,10 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-19 — Claude (Contabilidade: Teoria das questões aprovada e publicada)
+- Usuário aprovou os 40 quadros. Status `approved` nos arquivos, no export e na planilha; importados em `source-content/study-knowledge.json` (67 registros: 40 de Contabilidade, 26 de Macroeconomia e o de debêntures). Branch `claude/teoria-das-questoes` unida ao `main` com aprovação do usuário.
+- Pendências: lista mínima ainda não integrada à página de exercícios (aguarda decisão); 3 questões pendentes aguardam gabarito oficial do TEC.
+
 ## 2026-11-19 — Claude (Contabilidade: Teoria das questões e lista mínima — branch `claude/teoria-das-questoes`)
 - 40 quadros de "Teoria das questões" (status draft) em `source-content/contabilidade-teoria-questoes/`, um por assunto do TEC agrupado no assunto do site (`conta-*`). Cobrem as 601 questões, cada uma em exatamente um quadro, com 291 regras; cada regra lista as questões que a cobram. O que já estava na teoria da matéria não foi repetido.
 - `study-knowledge-ui.js` (v=2): registros com `updateType` `teoria-das-questoes` entram na aba "Teoria das questões" do assunto de Contabilidade e não aparecem no painel geral da matéria.
