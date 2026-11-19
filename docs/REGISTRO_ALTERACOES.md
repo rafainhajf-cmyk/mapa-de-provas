@@ -4,6 +4,7 @@ Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — 
 
 ## 2026-11-19 — Claude (Macroeconomia: fechamento das conversões)
 - Gráficos de inclinação das curvas IS e LM convertidos em SVG (`inclinacao-is-lm-graficos.svg`), conferidos visualmente contra a imagem original, assim como os SVG de IS-LM e de excesso de moeda.
+- Conferência no site publicado (deploy de `8aee46e`, READY): `study-knowledge.json` responde com 27 registros, 26 de Macroeconomia; `macro-meta-selic` está na versão 2, sem o exemplo de 10,75%. Na página de Macroeconomia, o painel de esquemas aprovados mostra os 26 itens, com tabelas e avisos renderizados.
 - Ícones de instrumentos de política monetária não convertidos: são ilustrativos e não trazem informação além do texto.
 - Arquivos: `source-content/assets/inclinacao-is-lm-graficos.svg`, `source-content/macroeconomia-editavel/` (SVG e pendências de `inclinacao-reta` e `instrumentos-politica-monetaria`), `docs/REGISTRO_ALTERACOES.md`.
 - Pendências de Macroeconomia que dependem do usuário: TCR (material original), alternativa D da meta Selic (número da questão no TEC). Os SVG não aparecem nos esquemas publicados, porque o importador não aceita imagem.
