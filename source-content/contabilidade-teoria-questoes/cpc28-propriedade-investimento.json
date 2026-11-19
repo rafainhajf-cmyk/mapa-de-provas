@@ -1,0 +1,140 @@
+{
+  "id": "contab-tq-cpc28-propriedade-investimento",
+  "materia": "Contabilidade",
+  "targetId": "conta-d-01",
+  "targetTitle": "Propriedades para Investimento",
+  "titulo": "Teoria das questões — Propriedades para investimento (CPC 28)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: Propriedades para Investimento (CPC 28)",
+  "questoes": [
+    "227909",
+    "259388",
+    "693021",
+    "719428",
+    "1936754",
+    "2395613",
+    "2792286",
+    "2873873",
+    "3166725",
+    "3201293",
+    "3847069",
+    "3975984"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Propriedade para investimento: imóvel para aluguel ou valorização; uso próprio atual ou futuro (expansão) é imobilizado; venda no curso normal é estoque.",
+      "questoes": [
+        "259388",
+        "2395613",
+        "2873873",
+        "1936754"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Partes separáveis do mesmo prédio: andares de uso próprio são imobilizado e andares alugados são propriedade para investimento; serviços acessórios não mudam a classificação.",
+      "questoes": [
+        "693021"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Decidir vender sem desenvolver mantém a propriedade para investimento até a venda; só o desenvolvimento para venda transfere para estoques.",
+      "questoes": [
+        "227909"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Custo inicial = preço à vista (valor presente das parcelas) + tributos de transferência, registro, honorários, reformas necessárias; juros do parcelamento são financiamento.",
+      "questoes": [
+        "2395613",
+        "2873873",
+        "3847069",
+        "3975984",
+        "719428"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Escolha de política: modelo do custo ou do valor justo, aplicado de forma consistente a todas as propriedades; não por classe física.",
+      "questoes": [
+        "2792286"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Valor justo: variações (ganhos e perdas) no resultado e sem depreciação. Custo: depreciar (terreno não) e divulgar o valor justo em nota.",
+      "questoes": [
+        "719428",
+        "3201293",
+        "3166725",
+        "3847069",
+        "3975984",
+        "2395613"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Divulgação no modelo do valor justo: rendas de aluguel e gastos operacionais diretos, separando imóveis que geraram ou não renda; intenção futura genérica não está na lista do custo.",
+      "questoes": [
+        "3201293",
+        "3166725"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 3975984 (FCC, SEFAZ GO, 2026)",
+          "Valor"
+        ],
+        [
+          "Entrada",
+          "1.000.000"
+        ],
+        [
+          "2.240.000 ÷ 1,12",
+          "2.000.000"
+        ],
+        [
+          "3.010.560 ÷ 1,12²",
+          "2.400.000"
+        ],
+        [
+          "Registro + reformas",
+          "100.000 + 400.000"
+        ],
+        [
+          "Custo inicial",
+          "5.900.000 (resposta D)"
+        ],
+        [
+          "Valor justo 7.000.000 em 2023",
+          "Ganho de 1.100.000 no resultado; sem depreciação"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Uso futuro próprio não é propriedade para investimento",
+      "text": "Imóvel reservado para expansão da própria fábrica é imobilizado (CPC 28, item 9(c)). Em 259388 o PDF marca B, mas a resposta tecnicamente sustentada é C. Em 1936754, terreno para valorização é propriedade para investimento, embora a letra D diga imobilizado (questão pendente com ressalva)."
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Registrar pelo valor nominal das parcelas (3847069). Registrar inicialmente pelo valor justo (2873873). Depreciar no modelo do valor justo (3201293). Levar perda de valor justo ao PL (719428). Escolher custo para prédios e valor justo para terrenos (2792286). Transferir para estoque só pela decisão de vender (227909)."
+    }
+  ],
+  "pendencias": [
+    "Modelos custo × valor justo e divulgação do custo já estão na teoria da matéria.",
+    "TEC 1936754 é pendente com ressalva; TEC 259388 tem divergência entre o PDF e o CPC 28.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

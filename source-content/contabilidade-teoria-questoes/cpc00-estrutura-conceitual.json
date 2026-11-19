@@ -1,0 +1,217 @@
+{
+  "id": "contab-tq-cpc00-estrutura-conceitual",
+  "materia": "Contabilidade",
+  "targetId": "conta-a-02",
+  "targetTitle": "Estrutura Conceitual (CPC 00)",
+  "titulo": "Teoria das questões — Estrutura conceitual (CPC 00)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: Estrutura Conceitual Básica; Princípios Contábeis",
+  "questoes": [
+    "225462",
+    "272917",
+    "984388",
+    "1907614",
+    "1921581",
+    "2293652",
+    "2369049",
+    "2395547",
+    "2395608",
+    "2823684",
+    "2870147",
+    "2985314",
+    "3114150",
+    "3116850",
+    "3863562"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Informação útil exige relevância E representação fidedigna (as duas, não uma 'ou' outra); melhorias não salvam informação irrelevante.",
+      "questoes": [
+        "984388",
+        "2293652",
+        "3863562",
+        "2823684"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Materialidade é aspecto da relevância, não característica de melhoria.",
+      "questoes": [
+        "272917",
+        "984388",
+        "2293652",
+        "2823684"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Consistência (mesmos métodos) ajuda a comparabilidade, mas não é sinônimo dela nem característica autônoma; não autoriza mudanças arbitrárias.",
+      "questoes": [
+        "272917",
+        "2870147",
+        "3116850",
+        "1907614"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Definições trocadas que a banca usa: verificabilidade ≠ representação fidedigna; compreensibilidade = classificar, caracterizar e apresentar com clareza (não omitir fenômeno complexo); tempestividade = a tempo de influenciar a decisão.",
+      "questoes": [
+        "2870147",
+        "3116850",
+        "225462"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Relatórios de propósito geral atendem necessidades comuns dos usuários primários (investidores, credores por empréstimos e outros credores, existentes e potenciais), não demandas customizadas.",
+      "questoes": [
+        "225462",
+        "2395608",
+        "2985314"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Elementos: ativo = recurso econômico controlado; passivo = obrigação presente de transferir recurso; PL = participação residual; receita e despesa = aumentos e reduções de PL que não são aportes nem distribuições.",
+      "questoes": [
+        "2395547"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Bases de mensuração: valor de cumprimento = valor presente dos recursos para cumprir a obrigação; custo corrente inclui custos de transação; valor justo = transação ordenada; valor em uso inclui a alienação final.",
+      "questoes": [
+        "3114150"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Contrato executório: direitos e obrigações interdependentes ainda não cumpridos.",
+      "questoes": [
+        "1921581"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "Segregar valores a receber de partes relacionadas favorece apresentação consistente e comparável.",
+      "questoes": [
+        "2369049"
+      ]
+    },
+    {
+      "id": "R10",
+      "texto": "Continuidade é pressuposto básico das demonstrações.",
+      "questoes": [
+        "225462"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Afirmação típica",
+          "Certa?",
+          "Por quê"
+        ],
+        [
+          "Materialidade é característica de melhoria",
+          "Não",
+          "É aspecto da relevância (272917, 2293652)"
+        ],
+        [
+          "Consistência é o mesmo que comparabilidade",
+          "Não",
+          "Consistência é meio; comparabilidade é o fim (272917, 2870147)"
+        ],
+        [
+          "Informação útil: relevante OU fidedigna",
+          "Não",
+          "Precisa das duas (984388)"
+        ],
+        [
+          "Compreensibilidade permite omitir fenômeno complexo",
+          "Não",
+          "Omitir prejudica a representação completa (225462, 3116850)"
+        ],
+        [
+          "Relatório deve atender necessidade particular de um usuário",
+          "Não",
+          "Propósito geral (2985314)"
+        ],
+        [
+          "Objetivo atende só investidores atuais",
+          "Não",
+          "Também potenciais, credores e outros financiadores (2395608)"
+        ],
+        [
+          "Consistência permite mudar o método a qualquer momento",
+          "Não",
+          "1907614"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Elemento (2395547)",
+          "Definição-chave"
+        ],
+        [
+          "Ativo",
+          "Recurso econômico presente controlado, de evento passado"
+        ],
+        [
+          "Passivo",
+          "Obrigação presente de transferir recurso econômico"
+        ],
+        [
+          "Patrimônio líquido",
+          "Participação residual"
+        ],
+        [
+          "Receita",
+          "Aumento de ativo ou redução de passivo que aumenta o PL, exceto aportes"
+        ],
+        [
+          "Despesa",
+          "Redução de ativo ou aumento de passivo que reduz o PL, exceto distribuições"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Base de mensuração (3114150)",
+          "Ponto cobrado"
+        ],
+        [
+          "Valor de cumprimento",
+          "Valor presente dos recursos para cumprir a obrigação"
+        ],
+        [
+          "Custo corrente",
+          "Inclui custos de transação"
+        ],
+        [
+          "Valor justo",
+          "Transação ordenada, não forçada"
+        ],
+        [
+          "Valor em uso",
+          "Fluxos do uso e da alienação final"
+        ]
+      ]
+    }
+  ],
+  "pendencias": [
+    "As características qualitativas e os usuários já estão na teoria da matéria; aqui entram as afirmações erradas que as bancas usam, os elementos e as bases de mensuração.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

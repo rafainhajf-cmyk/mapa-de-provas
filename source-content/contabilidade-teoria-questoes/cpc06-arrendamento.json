@@ -1,0 +1,119 @@
+{
+  "id": "contab-tq-cpc06-arrendamento",
+  "materia": "Contabilidade",
+  "targetId": "conta-f-02",
+  "targetTitle": "Arrendamento (CPC 06)",
+  "titulo": "Teoria das questões — Arrendamento (CPC 06)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: CPC 06:",
+  "questoes": [
+    "693019",
+    "719389",
+    "790548",
+    "866988",
+    "2218620",
+    "2870103",
+    "3154649",
+    "3831178",
+    "3846342",
+    "3847014",
+    "3975995"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Arrendatário (CPC 06 R2): direito de uso e passivo de arrendamento pelo valor presente dos pagamentos, não pela soma nominal.",
+      "questoes": [
+        "719389",
+        "2870103",
+        "3846342",
+        "3847014",
+        "3975995",
+        "3154649"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Despesa do arrendatário no período = depreciação do direito de uso + juros sobre o passivo (taxa × saldo).",
+      "questoes": [
+        "693019",
+        "790548",
+        "866988",
+        "3846342",
+        "3847014",
+        "3975995",
+        "2870103"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Depreciação do direito de uso: pela vida útil (menos residual) quando a entidade pretende ficar com o bem; senão, pelo prazo do contrato.",
+      "questoes": [
+        "693019",
+        "719389",
+        "790548",
+        "866988",
+        "3846342",
+        "3975995"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Arrendador: classifica em financeiro (transferência substancial de riscos e benefícios) ou operacional pela essência, não pela forma jurídica; o arrendatário não classifica mais.",
+      "questoes": [
+        "2218620",
+        "3831178",
+        "3154649"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Indícios de arrendamento financeiro: prazo cobrindo a maior parte da vida econômica, ativo altamente especializado, VP dos pagamentos próximo do valor justo.",
+      "questoes": [
+        "3154649"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "formula",
+      "text": "Despesa do arrendatário = (direito de uso − residual) ÷ vida + passivo × taxa de juros"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 3975995 (FCC, SEFAZ GO, 2026)",
+          "Valor"
+        ],
+        [
+          "Direito de uso = passivo = valor presente",
+          "4.000.000"
+        ],
+        [
+          "Depreciação mensal (4.000.000 − 1.120.000) ÷ 96",
+          "30.000"
+        ],
+        [
+          "Juros do mês 1% × 4.000.000",
+          "40.000"
+        ],
+        [
+          "Despesa total",
+          "70.000; ativo final 3.970.000 (resposta B)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Registrar o direito de uso pela soma das parcelas (2870103). Lançar a parcela paga como despesa de aluguel. Esquecer os juros ou a depreciação na despesa total (3847014). Exigir do arrendatário a classificação financeiro × operacional (2218620)."
+    }
+  ],
+  "pendencias": [
+    "A teoria da matéria de Arrendamento ainda está vazia no site.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

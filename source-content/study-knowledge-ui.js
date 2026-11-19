@@ -1,4 +1,4 @@
-import {parseKnowledgeBundle,knowledgeHTML} from './study-knowledge.js?v=1';
+import {parseKnowledgeBundle,knowledgeHTML} from './study-knowledge.js?v=2';
 const norm=s=>String(s??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
 const selector='#difficultyResults';
 let approved=[];
@@ -18,12 +18,23 @@ function targetInReader(root,note){
  });
  return matches.length===1?matches[0]:null;
 }
+const QT='teoria-das-questoes';
+// Teoria das questões de Contabilidade: entra na aba própria do assunto, separada dos exercícios.
+function addQuestionTheory(root,note){
+ const panel=root.querySelector('[data-accounting-topic="'+note.targetId+'"] .accounting-question-theory > .accounting-panel');
+ if(!panel)return false;
+ if(panel.querySelector('[data-knowledge-id="'+note.id+'"]'))return true;
+ panel.querySelector(':scope > .accounting-empty')?.remove();
+ const send=panel.querySelector(':scope > .accounting-send');
+ if(send)send.insertAdjacentHTML('beforebegin',knowledgeHTML([note]));else panel.insertAdjacentHTML('beforeend',knowledgeHTML([note]));
+ return true;
+}
 function addIncrement(el,note){if(el.querySelector('[data-knowledge-id="'+note.id+'"]'))return;el.insertAdjacentHTML('beforeend',knowledgeHTML([note]));}
 function updateIndex(root,notes){
  const page=root.querySelector('.uniform-subjects,.subject-contents');
  if(!page)return;
  const label=norm(page.querySelector('h3')?.textContent||'');
- const subject=notes.filter(x=>label.includes(norm(x.subject)));
+ const subject=notes.filter(x=>x.updateType!==QT&&label.includes(norm(x.subject)));
  if(!subject.length||page.querySelector('[data-knowledge-overview]'))return;
  const panel=document.createElement('div');panel.setAttribute('data-knowledge-overview','1');panel.className='accounting-panel';panel.style.margin='20px 0';panel.innerHTML='<h4>Esquemas incrementais aprovados no Drive</h4><p>Complementos estruturados associados ao índice da matéria.</p>'+knowledgeHTML(subject);
  page.append(panel);
@@ -33,7 +44,7 @@ function paint(){
  // Não inserir outra versão do mesmo ID: a regra vale para navegação e leitura contínua.
  const active=root.querySelector('.uniform-topic');
  if(active){
-  for(const note of approved){const target=targetInReader(active,note);if(target)addIncrement(target,note);}
+  for(const note of approved){if(note.updateType===QT){addQuestionTheory(active,note);continue;}const target=targetInReader(active,note);if(target)addIncrement(target,note);}
   return;
  }
  updateIndex(root,approved);

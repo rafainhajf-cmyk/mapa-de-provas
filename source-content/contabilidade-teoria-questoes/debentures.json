@@ -1,0 +1,86 @@
+{
+  "id": "contab-tq-debentures",
+  "materia": "Contabilidade",
+  "targetId": "conta-c-04",
+  "targetTitle": "Debêntures",
+  "titulo": "Teoria das questões — Debêntures",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: Debêntures e Títulos",
+  "questoes": [
+    "315640",
+    "461332",
+    "693010",
+    "3225391",
+    "3561745",
+    "3561747"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Debêntures: passivo inicial = valor captado − custos de transação (+ prêmio, quando houver).",
+      "questoes": [
+        "315640",
+        "693010",
+        "3225391",
+        "3561745",
+        "3561747"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Encargo = saldo inicial × taxa efetiva do período; saldo = inicial + encargo − parcela paga.",
+      "questoes": [
+        "315640",
+        "693010",
+        "3225391",
+        "3561745",
+        "3561747"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Prêmio na emissão integra o passivo e é amortizado pela taxa efetiva; não vai a reserva de capital.",
+      "questoes": [
+        "461332"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 3561745 e 3561747 (FCC, SEFAZ PI, 2025)",
+          "Valor"
+        ],
+        [
+          "Captação 53.000.000 − custos 505.820,28",
+          "52.494.179,72"
+        ],
+        [
+          "Encargo do semestre a 5,3%",
+          "2.782.191,53 (3561745, resposta D)"
+        ],
+        [
+          "− Parcela paga",
+          "(4.947.607,18)"
+        ],
+        [
+          "Saldo",
+          "50.328.764,07 (3561747, resposta B)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Prêmio não é reserva",
+      "text": "Na disciplina atual, o prêmio na emissão de debêntures fica no passivo e é apropriado pela taxa efetiva; não vai para reserva de capital (461332). O esquema do CPC 08 aprovado em 05/11 detalha o prêmio."
+    }
+  ],
+  "pendencias": [
+    "Já existe esquema aprovado sobre prêmio na emissão (contab-20-premio-debentures-custo-amortizado); este quadro cobre o cálculo dos encargos.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

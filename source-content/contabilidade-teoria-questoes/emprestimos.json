@@ -1,0 +1,141 @@
+{
+  "id": "contab-tq-emprestimos",
+  "materia": "Contabilidade",
+  "targetId": "conta-c-02",
+  "targetTitle": "Empréstimos",
+  "titulo": "Teoria das questões — Empréstimos e financiamentos (custo amortizado)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: Empréstimos e Fornecedores",
+  "questoes": [
+    "358755",
+    "489947",
+    "656045",
+    "686801",
+    "719094",
+    "2154064",
+    "2163642",
+    "2235697",
+    "2272184",
+    "2890597",
+    "3552258",
+    "3567674",
+    "3766730",
+    "3800833",
+    "3846345",
+    "3847031",
+    "3850904"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Custos de transação de empréstimo reduzem o passivo inicial: saldo inicial = valor captado − custos.",
+      "questoes": [
+        "358755",
+        "489947",
+        "656045",
+        "686801",
+        "719094",
+        "2154064",
+        "2163642",
+        "2235697",
+        "2272184",
+        "3552258",
+        "3567674",
+        "3766730",
+        "3800833",
+        "3846345",
+        "3847031",
+        "3850904"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Encargo do período = saldo inicial líquido × taxa EFETIVA (não a taxa contratual).",
+      "questoes": [
+        "656045",
+        "686801",
+        "719094",
+        "2163642",
+        "2235697",
+        "2272184",
+        "3552258",
+        "3567674",
+        "3766730",
+        "3800833",
+        "3846345",
+        "3850904"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Saldo final = saldo inicial + encargo efetivo − parcela paga; sem pagamento, saldo = inicial × (1 + i).",
+      "questoes": [
+        "358755",
+        "686801",
+        "719094",
+        "2154064",
+        "2163642",
+        "2235697",
+        "2272184",
+        "3552258",
+        "3567674",
+        "3800833",
+        "3847031",
+        "3850904"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Só a parte efetivamente recebida é dívida; vencimento após 12 meses do balanço: não circulante.",
+      "questoes": [
+        "2890597"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "formula",
+      "text": "Passivo inicial = valor captado − custos de transação"
+    },
+    {
+      "type": "formula",
+      "text": "Saldo final = passivo inicial + passivo inicial × taxa efetiva − parcela paga"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 3567674 (FCC, TRT 2, 2025)",
+          "Valor"
+        ],
+        [
+          "Captação 32.000.000 − custos 960.000",
+          "31.040.000"
+        ],
+        [
+          "+ Juros efetivos 11%",
+          "3.414.400"
+        ],
+        [
+          "− Prestação paga",
+          "(7.347.436,17)"
+        ],
+        [
+          "Saldo final",
+          "27.106.963,83 (resposta B)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Lançar os custos de transação como despesa imediata (489947). Calcular os juros sobre o valor captado bruto ou com a taxa contratual em vez da efetiva (2163642). Esquecer de abater a parcela paga. Reconhecer como dívida o limite contratado ainda não recebido (2890597)."
+    }
+  ],
+  "pendencias": [
+    "A teoria da matéria de Empréstimos e de Fornecedores ainda está vazia no site.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

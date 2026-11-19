@@ -1,0 +1,71 @@
+{
+  "id": "contab-tq-cpc46-valor-justo",
+  "materia": "Contabilidade",
+  "targetId": "conta-a-04",
+  "targetTitle": "Mensuração a Valor Justo (CPC 46)",
+  "titulo": "Teoria das questões — Valor justo (CPC 46) e critérios da Lei 6.404",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: CPC 46",
+  "questoes": [
+    "2266744",
+    "3101851",
+    "3149059"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Valor justo (Lei 6.404, art. 183, § 1º): valor obtido em transação não compulsória entre partes independentes, em mercado ativo.",
+      "questoes": [
+        "2266744",
+        "3149059"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Lei 6.404: reposição para matérias-primas; valor líquido de realização = preço de venda − despesas necessárias de venda − margem de lucro.",
+      "questoes": [
+        "3149059"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Sem cotação e sem o instrumento mantido como ativo por outra parte: técnica de avaliação na perspectiva do participante que deve o passivo ou emitiu o instrumento.",
+      "questoes": [
+        "3101851"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Critério (art. 183, § 1º)",
+          "Definição cobrada"
+        ],
+        [
+          "Valor justo",
+          "Transação não compulsória entre partes independentes"
+        ],
+        [
+          "Matérias-primas",
+          "Preço de reposição"
+        ],
+        [
+          "Bens destinados à venda",
+          "Preço líquido de realização (venda − despesas − margem)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinha",
+      "text": "Trocar 'não compulsória entre partes independentes' por 'compulsória' ou 'dependentes' (3149059); confundir valor justo com custo de reposição ou reavaliação (2266744)."
+    }
+  ],
+  "pendencias": [
+    "Conferir a redação antes de aprovar."
+  ]
+}

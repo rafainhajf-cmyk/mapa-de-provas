@@ -2,6 +2,17 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-19 — Claude (Contabilidade: Teoria das questões aprovada e publicada)
+- Usuário aprovou os 40 quadros. Status `approved` nos arquivos, no export e na planilha; importados em `source-content/study-knowledge.json` (67 registros: 40 de Contabilidade, 26 de Macroeconomia e o de debêntures). Branch `claude/teoria-das-questoes` unida ao `main` com aprovação do usuário.
+- Pendências: lista mínima ainda não integrada à página de exercícios (aguarda decisão); 3 questões pendentes aguardam gabarito oficial do TEC.
+
+## 2026-11-19 — Claude (Contabilidade: Teoria das questões e lista mínima — branch `claude/teoria-das-questoes`)
+- 40 quadros de "Teoria das questões" (status draft) em `source-content/contabilidade-teoria-questoes/`, um por assunto do TEC agrupado no assunto do site (`conta-*`). Cobrem as 601 questões, cada uma em exatamente um quadro, com 291 regras; cada regra lista as questões que a cobram. O que já estava na teoria da matéria não foi repetido.
+- `study-knowledge-ui.js` (v=2): registros com `updateType` `teoria-das-questoes` entram na aba "Teoria das questões" do assunto de Contabilidade e não aparecem no painel geral da matéria.
+- Lista mínima (`docs/contabilidade/lista-minima.json`): 201 questões cobrem todas as 291 regras (otimização exata, HiGHS). O mínimo absoluto é 200; a lista evita as questões pendentes, anuladas ou com divergência de gabarito. A minimalidade vale em relação ao catálogo de regras: regras mapeadas a uma só questão (116) forçam 115 questões.
+- Arquivos: os citados acima, `source-content/dificuldades.html`, `source-content/contabilidade-teoria-questoes/conteudos-estruturados-export.json`, `docs/REGISTRO_ALTERACOES.md`.
+- Pendências: aprovação do conteúdo pelo usuário; merge da branch; integrar a lista mínima à página de exercícios (mudança de código, a decidir).
+
 ## 2026-11-19 — Claude (Contabilidade: conferência das 3 pendentes no TEC)
 - 1936754, 3539089 e 3975996 abertas no TEC (conta do usuário, sem responder): enunciado e alternativas idênticos aos do PDF; nenhuma marcada como anulada. Nota acrescentada em `accounting-issues.js`. O gabarito oficial do TEC não foi visto, porque só aparece após responder.
 - As três continuam como pendentes com ressalva até decisão do usuário. Arquivos: `source-content/accounting-issues.js`, `docs/REGISTRO_ALTERACOES.md`.

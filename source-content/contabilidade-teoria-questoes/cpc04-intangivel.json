@@ -1,0 +1,180 @@
+{
+  "id": "contab-tq-cpc04-intangivel",
+  "materia": "Contabilidade",
+  "targetId": "conta-b-06",
+  "targetTitle": "Intangível (CPC 04)",
+  "titulo": "Teoria das questões — Ativos intangíveis (CPC 04)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: Ativos Intangíveis",
+  "questoes": [
+    "371117",
+    "375657",
+    "426895",
+    "461400",
+    "489926",
+    "584423",
+    "719235",
+    "1117819",
+    "1241403",
+    "2590390",
+    "2870141",
+    "3079057",
+    "3116783",
+    "3240931",
+    "3850892",
+    "3863557"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Intangível: ativo não monetário identificável, sem substância física, controlado, de evento passado, com benefício econômico futuro.",
+      "questoes": [
+        "1117819",
+        "371117"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Pesquisa é sempre despesa; desenvolvimento só é capitalizado a partir do momento em que todos os requisitos (viabilidade técnica, intenção, recursos, benefícios prováveis) são demonstrados.",
+      "questoes": [
+        "426895",
+        "461400",
+        "489926",
+        "719235",
+        "1241403",
+        "2870141"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Gastos lançados em despesa antes do atendimento dos requisitos não são reativados depois.",
+      "questoes": [
+        "426895",
+        "461400",
+        "489926"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Custo do intangível: gastos diretamente atribuíveis (materiais, serviços, pessoal envolvido, registro, integração); treinamento e publicidade são despesa; valor justo não substitui o custo no reconhecimento de intangível interno.",
+      "questoes": [
+        "375657",
+        "2870141",
+        "3116783"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Goodwill gerado internamente nunca é reconhecido; fundo de comércio ADQUIRIDO pode integrar o intangível.",
+      "questoes": [
+        "719235",
+        "1241403",
+        "371117",
+        "3240931"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Vida definida: amortiza desde a disponibilidade para uso e testa quando há indício; vida indefinida: não amortiza e testa anualmente. Prejuízo da entidade não suspende a amortização.",
+      "questoes": [
+        "719235",
+        "3863557",
+        "489926"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Amortização do ano + perda por impairment compõem a despesa total; teste após amortizar.",
+      "questoes": [
+        "584423",
+        "3850892"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Valor residual de intangível de vida definida é presumido zero, salvo compromisso de terceiro ou mercado ativo.",
+      "questoes": [
+        "2590390"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "Intangível identificável adquirido em combinação de negócios é mensurado a valor justo, separado do goodwill.",
+      "questoes": [
+        "3079057"
+      ]
+    },
+    {
+      "id": "R10",
+      "texto": "Venda do intangível: ganho ou perda = valor líquido recebido − saldo baixado, na DRE.",
+      "questoes": [
+        "3863557"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "flowchart",
+      "title": "Pesquisa × desenvolvimento",
+      "steps": [
+        {
+          "label": "Fase de pesquisa",
+          "text": "Sempre despesa (projetos experimentais, busca de alternativas)."
+        },
+        {
+          "label": "Desenvolvimento antes dos requisitos",
+          "text": "Despesa; não volta para o ativo depois."
+        },
+        {
+          "label": "Desenvolvimento depois de demonstrados os requisitos",
+          "text": "Capitalizar só os gastos a partir dessa data (489926: 80.000 + 50.000 = 130.000)."
+        },
+        {
+          "label": "Ativo disponível para uso",
+          "text": "Começa a amortização (vida definida); testar recuperabilidade."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Gasto",
+          "Custo do intangível?",
+          "Questões"
+        ],
+        [
+          "Desenvolvimento após os requisitos, materiais, pessoal direto, registro, integração",
+          "Sim",
+          "2870141, 3116783, 375657"
+        ],
+        [
+          "Pesquisa",
+          "Não: despesa",
+          "2870141, 1241403"
+        ],
+        [
+          "Treinamento, publicidade",
+          "Não: despesa",
+          "2870141, 3116783"
+        ],
+        [
+          "Valor justo de intangível gerado internamente",
+          "Não substitui o custo",
+          "2870141"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Reativar gastos de desenvolvimento já lançados em despesa (426895, 461400). Capitalizar pesquisa ou treinamento (2870141). Reconhecer goodwill interno (719235). Suspender a amortização por prejuízo (3863557). Amortizar intangível de vida indefinida."
+    }
+  ],
+  "pendencias": [
+    "A teoria da matéria de Intangível ainda está vazia no site. Impairment de intangível está detalhado no quadro do CPC 01.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

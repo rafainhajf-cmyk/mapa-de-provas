@@ -1,0 +1,230 @@
+{
+  "id": "contab-tq-destinacao-dividendos",
+  "materia": "Contabilidade",
+  "targetId": "conta-d-07",
+  "targetTitle": "Dividendos e Juros sobre Capital Próprio",
+  "titulo": "Teoria das questões — Destinação do lucro, reservas de lucros e dividendos",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: Reservas de Lucros; Dividendos",
+  "questoes": [
+    "256212",
+    "256669",
+    "325273",
+    "540188",
+    "606286",
+    "660105",
+    "877373",
+    "1010022",
+    "2159115",
+    "2163371",
+    "2163606",
+    "2235714",
+    "2272188",
+    "2293662",
+    "2395562",
+    "2823688",
+    "2857671",
+    "3367366",
+    "3412175",
+    "3448138",
+    "3553917",
+    "3561707",
+    "3567056",
+    "3846744",
+    "3962799",
+    "3975805"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Reserva legal do ano = 5% do lucro, limitada ao que falta para 20% do capital (teto − saldo existente).",
+      "questoes": [
+        "256212",
+        "325273",
+        "606286",
+        "660105",
+        "877373",
+        "2163371",
+        "2235714",
+        "2293662",
+        "2395562",
+        "2857671",
+        "3367366",
+        "3561707",
+        "3567056",
+        "256669"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Base do dividendo = lucro − reserva legal − incentivos fiscais excluídos ± contingências; reserva estatutária e de expansão NÃO reduzem a base, salvo se o estatuto mandar.",
+      "questoes": [
+        "540188",
+        "660105",
+        "256669",
+        "3846744",
+        "877373",
+        "2857671",
+        "3367366",
+        "3553917",
+        "2159115",
+        "2272188",
+        "2235714"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Estatuto omisso: dividendo obrigatório = 50% do lucro ajustado; com percentual estatutário, usar o percentual do estatuto.",
+      "questoes": [
+        "325273",
+        "877373",
+        "2857671",
+        "3367366",
+        "3561707",
+        "3567056"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "PL final = PL inicial + integralizações + lucro − dividendos obrigatórios; reservas e retenções são movimentos internos que não mudam o total.",
+      "questoes": [
+        "256212",
+        "325273",
+        "606286",
+        "1010022",
+        "2159115",
+        "2163371",
+        "2163606",
+        "2395562",
+        "3448138",
+        "3553917",
+        "3975805"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Dividendo adicional apenas proposto permanece no PL até a aprovação; só o mínimo obrigatório vira passivo.",
+      "questoes": [
+        "2163606"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Retenção para expansão = o que sobra após legal, incentivos e dividendos (exige orçamento de capital).",
+      "questoes": [
+        "540188",
+        "660105",
+        "2293662",
+        "3846744"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Reservas antigas (lucros a realizar, expansão) não são revertidas por presunção para aumentar o dividendo.",
+      "questoes": [
+        "2857671",
+        "3367366",
+        "3561707",
+        "3567056",
+        "877373"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Lucros a realizar: quando o dividendo obrigatório excede a parcela realizada do lucro, o excesso pode ir para reserva de lucros a realizar.",
+      "questoes": [
+        "3962799"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "Dividendo incompatível com a situação financeira pode ser retido em reserva especial e pago depois.",
+      "questoes": [
+        "3412175"
+      ]
+    },
+    {
+      "id": "R10",
+      "texto": "Limite das reservas de lucros exclui contingências, incentivos e lucros a realizar; reserva de contingência reverte quando a razão cessa.",
+      "questoes": [
+        "2823688"
+      ]
+    },
+    {
+      "id": "R11",
+      "texto": "Estatuto que manda deduzir reservas estatutárias da base: deduzir; estatuto que manda somar reversões: somar.",
+      "questoes": [
+        "2272188",
+        "2235714"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "flowchart",
+      "title": "Roteiro da destinação do lucro",
+      "steps": [
+        {
+          "label": "1. Reserva legal",
+          "text": "5% do lucro, mas no máximo (20% do capital − saldo atual). (325273: limite 80.000, embora 5% fosse 100.000)"
+        },
+        {
+          "label": "2. Ajustes da base",
+          "text": "Subtrair legal e incentivos fiscais excluídos; subtrair constituição ou somar reversão de contingências; estatutária só se o estatuto mandar."
+        },
+        {
+          "label": "3. Dividendo obrigatório",
+          "text": "% do estatuto × base; estatuto omisso: 50%."
+        },
+        {
+          "label": "4. Retenções",
+          "text": "Expansão e estatutária absorvem o restante, dentro do PL."
+        },
+        {
+          "label": "5. PL final",
+          "text": "PL inicial + lucro + integralizações − dividendo obrigatório."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 660105 (FCC, Pref São Luís)",
+          "Valor"
+        ],
+        [
+          "Lucro",
+          "300.000"
+        ],
+        [
+          "Reserva legal (teto 160.000 − saldo 150.000)",
+          "10.000"
+        ],
+        [
+          "Incentivos fiscais excluídos",
+          "60.000"
+        ],
+        [
+          "Dividendo 40% × (300.000 − 10.000 − 60.000)",
+          "92.000"
+        ],
+        [
+          "Retenção restante",
+          "138.000 (resposta E)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Aplicar 5% sem checar o teto de 20% (2163371: 50.000, não 60.000). Deduzir reserva estatutária da base sem previsão no estatuto (877373, 3553917). Reverter reserva antiga para engordar o dividendo (3561707). Subtrair do PL a reserva legal ou a retenção (1010022). Deduzir como passivo o dividendo adicional apenas proposto (2163606). Copiar a resposta da questão gêmea: 3561707 e 3567056 têm os mesmos dados."
+    }
+  ],
+  "pendencias": [
+    "A tabela de passos do lucro ajustado e as regras de estatuto omisso já estão na teoria da matéria; aqui entra o cálculo completo com os limites.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "id": "contab-tq-cpc01-impairment",
+  "materia": "Contabilidade",
+  "targetId": "conta-b-03",
+  "targetTitle": "Redução ao Valor Recuperável",
+  "titulo": "Teoria das questões — Redução ao valor recuperável (CPC 01)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: Redução ao Valor Recuperável",
+  "questoes": [
+    "410489",
+    "410967",
+    "606282",
+    "656222",
+    "719416",
+    "866974",
+    "2163350",
+    "2163369",
+    "2218600",
+    "2235706",
+    "2414524",
+    "2823682",
+    "3116791",
+    "3366895",
+    "3552256",
+    "3552257",
+    "3557767",
+    "3557771",
+    "3561684",
+    "3567022",
+    "3657093",
+    "3766739",
+    "3846719",
+    "3846777",
+    "3850871",
+    "3975812"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Valor recuperável = o MAIOR entre valor justo líquido de despesas de venda e valor em uso.",
+      "questoes": [
+        "410489",
+        "410967",
+        "656222",
+        "719416",
+        "2163369",
+        "2235706",
+        "2414524",
+        "2823682",
+        "3116791",
+        "3366895",
+        "3552256",
+        "3557767",
+        "3561684",
+        "3567022",
+        "3657093",
+        "3766739",
+        "3846719",
+        "3846777",
+        "3850871",
+        "3975812",
+        "2163350",
+        "866974"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Perda = valor contábil − recuperável, quando positivo; débito em despesa e crédito em conta redutora do ativo.",
+      "questoes": [
+        "2235706",
+        "2414524",
+        "2823682",
+        "3116791",
+        "3552256",
+        "3557767",
+        "3850871",
+        "866974"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Antes do teste, registrar a depreciação ou amortização do período; a despesa total na DRE = depreciação + perda.",
+      "questoes": [
+        "3552256",
+        "3552257",
+        "3557767",
+        "3557771",
+        "3850871",
+        "606282",
+        "3846719",
+        "3975812",
+        "866974"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Depois de uma perda (ou mudança de estimativa), a nova depreciação usa o saldo remanescente e a vida útil restante.",
+      "questoes": [
+        "606282",
+        "2163350",
+        "3975812"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Reversão: permitida para ativos que não são goodwill, limitada ao valor contábil que existiria sem a perda (custo − depreciação/amortização normal).",
+      "questoes": [
+        "410967",
+        "606282",
+        "656222",
+        "2163369",
+        "2218600",
+        "3366895",
+        "3561684",
+        "3567022",
+        "3766739",
+        "3846719",
+        "3846777",
+        "3975812"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Goodwill: perda nunca é revertida, mesmo com recuperação de valor.",
+      "questoes": [
+        "410489",
+        "719416"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Intangível de vida indefinida não é amortizado, mas é testado anualmente; o limite da reversão é o custo original.",
+      "questoes": [
+        "866974",
+        "2163369",
+        "2235706",
+        "3366895",
+        "3561684",
+        "3567022",
+        "3766739",
+        "3846777"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Valor justo líquido = valor de mercado − despesas de venda; não usar o valor de mercado bruto.",
+      "questoes": [
+        "2414524",
+        "2823682",
+        "3116791"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "Custo de intangível adquirido: preço − descontos + gastos diretamente atribuíveis para deixar pronto para uso.",
+      "questoes": [
+        "3116791"
+      ]
+    },
+    {
+      "id": "R10",
+      "texto": "Se o valor contábil está abaixo do recuperável e não houve perda anterior, nada se registra.",
+      "questoes": [
+        "2163350",
+        "866974"
+      ]
+    },
+    {
+      "id": "R11",
+      "texto": "Cuidado com o que a questão pede: valor recuperável, perda ou saldo final.",
+      "questoes": [
+        "3657093"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "formula",
+      "text": "Recuperável = maior entre (valor justo − despesas de venda) e valor em uso"
+    },
+    {
+      "type": "flowchart",
+      "title": "Roteiro do teste de recuperabilidade",
+      "steps": [
+        {
+          "label": "1. Atualizar o saldo",
+          "text": "Registrar a depreciação/amortização do período (vida indefinida: nenhuma). (R3)"
+        },
+        {
+          "label": "2. Calcular o recuperável",
+          "text": "Maior entre valor justo líquido de despesas de venda e valor em uso. (R1, R8)"
+        },
+        {
+          "label": "3. Comparar",
+          "text": "Contábil > recuperável: perda (despesa; conta redutora). Contábil ≤ recuperável e sem perda anterior: nada. (R2, R10)"
+        },
+        {
+          "label": "4. Havia perda anterior?",
+          "text": "Goodwill: não reverte. Outros ativos: reverter até o menor entre o recuperável e o saldo sem a perda. (R5, R6)"
+        },
+        {
+          "label": "5. Daqui em diante",
+          "text": "Nova quota = saldo após o teste ÷ vida restante. (R4)"
+        }
+      ]
+    },
+    {
+      "type": "formula",
+      "text": "Limite da reversão = custo − depreciação ou amortização que existiria sem a perda"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 606282 (FCC, DPE AM, 2018)",
+          "Valor"
+        ],
+        [
+          "Saldo após a perda, valor residual 50.000, 5 anos restantes",
+          "600.000"
+        ],
+        [
+          "Nova depreciação (600.000 − 50.000) ÷ 5",
+          "110.000 → saldo 490.000"
+        ],
+        [
+          "Recuperável",
+          "585.000"
+        ],
+        [
+          "Limite sem perda: 700.000 − (700.000 − 50.000) ÷ 5",
+          "570.000"
+        ],
+        [
+          "Reversão (limitada)",
+          "80.000; saldo final 570.000 (resposta B)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Ativo",
+          "Amortiza?",
+          "Teste",
+          "Reverte perda?"
+        ],
+        [
+          "Imobilizado e intangível de vida definida",
+          "Sim",
+          "Quando há indício",
+          "Sim, até o saldo sem perda"
+        ],
+        [
+          "Intangível de vida indefinida (marca)",
+          "Não",
+          "Anual",
+          "Sim, até o custo"
+        ],
+        [
+          "Goodwill",
+          "Não",
+          "Anual",
+          "Nunca (410489, 719416)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Usar o menor valor em vez do maior (3657093). Usar valor de mercado sem descontar despesas de venda (2414524). Fazer o teste sem antes depreciar o período (3552256). Reverter acima do saldo sem perda (656222: ganho 2.000.000, não 3.000.000; 3766739: 800.000, não 1.000.000). Reverter perda de goodwill (410489). Amortizar intangível de vida indefinida (2235706). Esquecer de somar depreciação + perda quando se pede a despesa total (3552257, 3850871)."
+    }
+  ],
+  "pendencias": [
+    "A teoria da matéria deste assunto ainda está vazia no site; este quadro passa a ser a referência principal até a teoria geral ser enviada.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

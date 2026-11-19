@@ -1,0 +1,135 @@
+{
+  "id": "contab-tq-cpc23-politicas-erros",
+  "materia": "Contabilidade",
+  "targetId": "conta-a-05",
+  "targetTitle": "Políticas, erros e estimativas contábeis (CPC 23)",
+  "titulo": "Teoria das questões — Políticas, estimativas e erros (CPC 23)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: CPC 23:",
+  "questoes": [
+    "172601",
+    "253599",
+    "719425",
+    "789082",
+    "789084",
+    "789085",
+    "789105",
+    "1118033",
+    "2266770",
+    "2873777",
+    "3401267",
+    "3847020"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Erro material de período anterior: correção retrospectiva (reapresentar comparativos), salvo impraticabilidade; não vai ao resultado do ano da descoberta.",
+      "questoes": [
+        "172601",
+        "253599",
+        "719425",
+        "3847020",
+        "789105"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Mudança de estimativa (vida útil, método de depreciação por novo padrão de consumo, residual por fato novo): prospectiva.",
+      "questoes": [
+        "172601",
+        "719425",
+        "2266770",
+        "3847020"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Trocar a base de mensuração (ex.: custo → valor justo) é mudança de política, retrospectiva quanto praticável; efeitos anteriores ao comparativo mais antigo ajustam a abertura do PL.",
+      "questoes": [
+        "2266770",
+        "3401267",
+        "789084"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Nova política deve gerar informação confiável e mais relevante, não 'mais lucrativa'.",
+      "questoes": [
+        "3401267"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Erro imaterial involuntário não afasta a conformidade; erro intencional para manipular é violação mesmo se pequeno; materialidade considera efeito individual e agregado.",
+      "questoes": [
+        "789082",
+        "789085",
+        "1118033"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Impraticável: efeitos indetermináveis, exigir reconstruir intenção passada da gestão ou estimativas sem informação histórica objetiva; não usar conhecimento posterior (hindsight).",
+      "questoes": [
+        "2873777",
+        "789084"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Estimativas usam evidências disponíveis (ex.: histórico de 30% de férias), não hipótese que convém à gestão.",
+      "questoes": [
+        "789105",
+        "3847020"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Situação",
+          "Tratamento",
+          "Questões"
+        ],
+        [
+          "Erro material de exercício anterior (dado errado disponível na época)",
+          "Retrospectivo: reapresentar e divulgar",
+          "253599, 719425"
+        ],
+        [
+          "Nova estimativa por fato novo (vida útil, residual, método de depreciação)",
+          "Prospectivo",
+          "2266770, 719425"
+        ],
+        [
+          "Troca de base de mensuração",
+          "Mudança de política: retrospectiva, quanto praticável",
+          "2266770, 3401267"
+        ],
+        [
+          "Erro imaterial e involuntário",
+          "Não viola a conformidade",
+          "789085"
+        ],
+        [
+          "Erro pequeno mas intencional",
+          "Viola; corrigir",
+          "1118033"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Lançar a correção de erro antigo no resultado do ano em que foi descoberto (3847020). Tratar mudança de método de depreciação como política (2266770). Justificar mudança de política por aumentar o lucro (3401267). Aceitar erro intencional por ser pequeno (1118033). Usar hipótese de 100% de férias contra o histórico de 30% (789105)."
+    }
+  ],
+  "pendencias": [
+    "Retrospectividade e impraticabilidade já estão na teoria da matéria; aqui entra a classificação de cada situação.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

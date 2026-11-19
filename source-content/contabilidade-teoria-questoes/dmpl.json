@@ -1,0 +1,169 @@
+{
+  "id": "contab-tq-dmpl",
+  "materia": "Contabilidade",
+  "targetId": "conta-e-05",
+  "targetTitle": "Demonstração de Mudança do Patrimônio Líquido (DMPL)",
+  "titulo": "Teoria das questões — DMPL",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: Demonstração das Mutações",
+  "questoes": [
+    "97280",
+    "154056",
+    "256987",
+    "289632",
+    "337898",
+    "488371",
+    "640103",
+    "1239407",
+    "2581991",
+    "2635928",
+    "2870134",
+    "3251802",
+    "3365888"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Variação do PL = lucro (ou prejuízo) + ORA + integralizações externas − dividendos obrigatórios − recompra de ações + revenda de ações em tesouraria.",
+      "questoes": [
+        "256987",
+        "289632",
+        "488371",
+        "640103",
+        "1239407",
+        "2635928",
+        "2870134",
+        "3365888"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Movimentos internos não mudam o total do PL: constituir ou reverter reservas, capitalizar reservas, absorver prejuízo com reservas, reserva de lucros a realizar.",
+      "questoes": [
+        "154056",
+        "337898",
+        "256987",
+        "289632",
+        "488371",
+        "2635928",
+        "640103"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Dividendo adicional apenas proposto fica no PL até a aprovação; só o obrigatório reduz.",
+      "questoes": [
+        "1239407",
+        "3365888"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Aumenta o PL: integralização em dinheiro ou bens, ágio de emissão. Não aumenta: pagamento de dividendo já reconhecido (baixa caixa e passivo), doação condicionada (passivo até cumprir).",
+      "questoes": [
+        "97280"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Transações com sócios (integralização, ações próprias, custos de emissão) × outros resultados abrangentes (ajuste de conversão).",
+      "questoes": [
+        "2581991"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "A DMPL mostra o resultado e sua destinação, permitindo calcular o percentual distribuído.",
+      "questoes": [
+        "3251802"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "formula",
+      "text": "Variação do PL = lucro + ORA + integralizações − dividendos obrigatórios − recompras + revendas de ações próprias"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Movimento",
+          "Muda o total do PL?",
+          "Questões"
+        ],
+        [
+          "Lucro do exercício",
+          "Sim (+)",
+          "289632"
+        ],
+        [
+          "Integralização em dinheiro ou bens",
+          "Sim (+)",
+          "640103, 2870134"
+        ],
+        [
+          "Dividendo obrigatório",
+          "Sim (−)",
+          "2635928"
+        ],
+        [
+          "Dividendo adicional proposto",
+          "Não (fica no PL)",
+          "1239407, 3365888"
+        ],
+        [
+          "Recompra / revenda de ações próprias",
+          "Sim (− / +)",
+          "640103, 2870134"
+        ],
+        [
+          "Constituir, reverter ou capitalizar reservas",
+          "Não",
+          "154056, 337898"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 2870134 (FCC, TRT 11, 2024)",
+          "Valor"
+        ],
+        [
+          "PL inicial",
+          "400.000"
+        ],
+        [
+          "+ Lucro",
+          "200.000"
+        ],
+        [
+          "+ Integralização",
+          "80.000"
+        ],
+        [
+          "− Dividendos",
+          "(40.000)"
+        ],
+        [
+          "− Recompra de ações",
+          "(15.000)"
+        ],
+        [
+          "+ Revenda de ações",
+          "60.000"
+        ],
+        [
+          "PL final",
+          "685.000 (resposta A)"
+        ]
+      ]
+    }
+  ],
+  "pendencias": [
+    "Conferir a redação antes de aprovar."
+  ]
+}

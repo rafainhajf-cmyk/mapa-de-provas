@@ -1,0 +1,230 @@
+{
+  "id": "contab-tq-cpc27-imobilizado",
+  "materia": "Contabilidade",
+  "targetId": "conta-b-05",
+  "targetTitle": "Imobilizado (CPC 27)",
+  "titulo": "Teoria das questões — Ativo imobilizado (CPC 27)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: Ativo Imobilizado (Conceito",
+  "questoes": [
+    "59132",
+    "97294",
+    "228376",
+    "400602",
+    "414021",
+    "1117812",
+    "1241415",
+    "1896826",
+    "2292795",
+    "2814660",
+    "3105773",
+    "3154729",
+    "3365911",
+    "3367265",
+    "3448136",
+    "3561742",
+    "3566983",
+    "3846697",
+    "3863558",
+    "3863560",
+    "3864888"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Custo do imobilizado: preço − descontos + tributos não recuperáveis + frete, manuseio, instalação, montagem, preparação do local, testes e honorários necessários; tributos recuperáveis ficam fora.",
+      "questoes": [
+        "59132",
+        "228376",
+        "3154729",
+        "3365911",
+        "3863558",
+        "3863560",
+        "1117812",
+        "3105773"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Não entram no custo: publicidade, divulgação, treinamento, seguro anual, vigilância, abertura de nova instalação, contrato de manutenção separado.",
+      "questoes": [
+        "59132",
+        "1117812",
+        "3154729",
+        "3863560",
+        "3365911",
+        "3105773"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Obrigação de desmontagem ou restauração: somar ao custo pelo valor presente; a atualização da provisão é despesa financeira, não depreciação.",
+      "questoes": [
+        "1896826",
+        "3367265",
+        "3561742",
+        "3846697",
+        "3864888",
+        "3154729"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Depreciação = (custo − valor residual) ÷ vida útil, proporcional aos meses desde o início do uso.",
+      "questoes": [
+        "3448136",
+        "3561742",
+        "1896826",
+        "3864888",
+        "3367265",
+        "3846697",
+        "3105773",
+        "3365911"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Mudança de estimativa (vida útil ou residual) é prospectiva: nova quota = (saldo contábil − novo residual) ÷ vida restante.",
+      "questoes": [
+        "3566983",
+        "3863560"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Ganho ou perda na venda = preço de venda − valor contábil na data (após a depreciação até a venda).",
+      "questoes": [
+        "3863560"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Reforma que aumenta benefícios é capitalizada; reparos que só restauram condições são despesa.",
+      "questoes": [
+        "1241415",
+        "1117812"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Ativo construído pela própria entidade: mesmos princípios de custo, eliminando lucros internos.",
+      "questoes": [
+        "97294"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "Permuta com substância comercial: ativo recebido mensurado a valor justo.",
+      "questoes": [
+        "400602"
+      ]
+    },
+    {
+      "id": "R10",
+      "texto": "Bem mantido para venda no ciclo operacional é estoque (circulante); usado nas atividades é imobilizado.",
+      "questoes": [
+        "414021"
+      ]
+    },
+    {
+      "id": "R11",
+      "texto": "Materiais destinados à construção de bem de uso próprio: imobilizado em andamento, no não circulante.",
+      "questoes": [
+        "2292795"
+      ]
+    },
+    {
+      "id": "R12",
+      "texto": "Valor residual: valor líquido que se obteria hoje se o ativo já estivesse na idade e condição do fim da vida útil.",
+      "questoes": [
+        "2814660"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Gasto",
+          "No custo?",
+          "Questões"
+        ],
+        [
+          "Preço − desconto comercial",
+          "Sim (desconto reduz o custo, não é receita)",
+          "3863558, 3105773"
+        ],
+        [
+          "Impostos de importação e não recuperáveis",
+          "Sim",
+          "228376, 3154729"
+        ],
+        [
+          "Frete, manuseio, instalação, montagem, preparação do local, testes",
+          "Sim",
+          "228376, 3365911"
+        ],
+        [
+          "Obrigação de desmontagem a valor presente",
+          "Sim",
+          "3367265, 3846697"
+        ],
+        [
+          "Tributos recuperáveis",
+          "Não",
+          "719073"
+        ],
+        [
+          "Publicidade, divulgação, treinamento",
+          "Não: despesa",
+          "59132, 3154729, 3863560"
+        ],
+        [
+          "Seguro anual, vigilância, manutenção futura",
+          "Não: despesa do período",
+          "1117812, 3105773"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Desmontagem e restauração",
+      "text": "Some ao custo o valor presente da obrigação: 3367265 — 60.000 ÷ 1,25 = 48.000; custo 948.000; depreciação (948.000 − 120.000) ÷ 8 = 103.500. A taxa pode ser acumulada para todo o prazo (1896826: 3.300.000 ÷ 1,10). A atualização posterior da provisão é despesa financeira. (R3)"
+    },
+    {
+      "type": "flowchart",
+      "title": "Venda depois de mudar a estimativa — TEC 3863560",
+      "steps": [
+        {
+          "label": "1. Custo",
+          "text": "1.000.000 + 50.000 + 30.000 + 20.000 = 1.100.000 (treinamento de 15.000 é despesa)."
+        },
+        {
+          "label": "2. Três anos de depreciação",
+          "text": "3 × 110.000 = 330.000; saldo 770.000."
+        },
+        {
+          "label": "3. Nova vida restante de 4 anos",
+          "text": "770.000 ÷ 4 = 192.500 por ano; 18 meses até a venda = 288.750."
+        },
+        {
+          "label": "4. Venda por 420.000",
+          "text": "Saldo 481.250 → prejuízo de 61.250 (resposta A)."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Capitalizar publicidade ou treinamento (59132, 3863560). Depreciar o ano inteiro quando o uso começou no meio do ano (3448136). Calcular depreciação sem deduzir o residual. Incluir manutenção futura no custo (3105773). Tratar reparo comum como melhoria (1241415). Ver receita no desconto comercial (3863558). Classificar como circulante ou realizável os materiais de obra de uso próprio (2292795)."
+    }
+  ],
+  "pendencias": [
+    "A tabela de custo inicial já está na teoria da matéria; aqui entram o que as questões pedem para excluir do custo, a desmontagem e o cálculo até a venda.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

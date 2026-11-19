@@ -1,0 +1,33 @@
+{
+  "id": "contab-tq-dlpa",
+  "materia": "Contabilidade",
+  "targetId": "conta-e-06",
+  "targetTitle": "Demonstração de Lucro e Prejuízo Acumulado (DLPA)",
+  "titulo": "Teoria das questões — DLPA",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: Demonstração de Lucros ou Prejuízos",
+  "questoes": [
+    "126854"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Lei 6.404, art. 186, § 2º: a DLPA indica o dividendo por ação e pode ser incluída na DMPL.",
+      "questoes": [
+        "126854"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "DLPA na Lei 6.404",
+      "text": "A DLPA deve indicar o montante do dividendo por ação e pode ser incluída na DMPL, se elaborada (art. 186, § 2º). (126854)"
+    }
+  ],
+  "pendencias": [
+    "Conferir a redação antes de aprovar."
+  ]
+}

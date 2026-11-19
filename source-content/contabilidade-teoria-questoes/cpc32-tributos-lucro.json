@@ -1,0 +1,83 @@
+{
+  "id": "contab-tq-cpc32-tributos-lucro",
+  "materia": "Contabilidade",
+  "targetId": "conta-c-06",
+  "targetTitle": "Tributos sobre Lucro (CPC 32)",
+  "titulo": "Teoria das questões — Tributos sobre o lucro (CPC 32) e lucro real",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: Tributos sobre Lucro",
+  "questoes": [
+    "2395558",
+    "2572630",
+    "3240926"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Lucro real: lucro antes do IR + adições (MEP negativo, CSLL, provisões indedutíveis, multas) − exclusões (MEP positivo, dividendos).",
+      "questoes": [
+        "2395558",
+        "2572630"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Compensação de prejuízo fiscal limitada a 30% do lucro real antes da compensação.",
+      "questoes": [
+        "2572630"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Diferença temporária dedutível (provisão, excesso de depreciação contábil) gera ativo fiscal diferido; permanente (multa, MEP) não gera diferido.",
+      "questoes": [
+        "2395558"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Depreciação fiscal acelerada: valor contábil maior que a base fiscal → diferença temporária tributável e passivo fiscal diferido.",
+      "questoes": [
+        "3240926"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 2395558 (FCC, COPERGÁS, 2023)",
+          "Valor"
+        ],
+        [
+          "Lucro antes dos tributos",
+          "9.500"
+        ],
+        [
+          "+ Provisões 4.000 + excesso de depreciação 1.000 + multas 500 − MEP 1.500",
+          "13.500 (base fiscal)"
+        ],
+        [
+          "IR/CSLL corrente 34%",
+          "4.590"
+        ],
+        [
+          "Ativo diferido 34% × (4.000 + 1.000)",
+          "1.700"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Prejuízo fiscal",
+      "text": "2572630: base 1.600.000; compensa 220.000 (menor que 30% × 1.600.000 = 480.000); lucro real 1.380.000. Regras do período da questão."
+    }
+  ],
+  "pendencias": [
+    "A teoria da matéria trata do CPC 32; aqui entram os cálculos cobrados.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

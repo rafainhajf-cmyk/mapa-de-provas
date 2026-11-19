@@ -1,0 +1,98 @@
+{
+  "id": "contab-tq-cpc15-combinacao",
+  "materia": "Contabilidade",
+  "targetId": "conta-d-04",
+  "targetTitle": "Combinação de Negócios (CPC 15)",
+  "titulo": "Teoria das questões — Combinação de negócios, fusão, incorporação e cisão (CPC 15)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: CPC 15:",
+  "questoes": [
+    "358765",
+    "2961162",
+    "3039443",
+    "3048150",
+    "3101877",
+    "3101882",
+    "3385428",
+    "3800829"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Método de aquisição: identificar adquirente, determinar a data (quando obtém o controle), reconhecer ativos identificáveis, passivos assumidos e não controladores a valor justo, e apurar goodwill ou ganho.",
+      "questoes": [
+        "3048150",
+        "3101877",
+        "3101882"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Data de aquisição é a da obtenção do controle, não necessariamente a do pagamento ou da transferência jurídica.",
+      "questoes": [
+        "3101882"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Goodwill = preço − ativos líquidos a valor justo, incluindo passivos contingentes assumidos; preço menor: compra vantajosa.",
+      "questoes": [
+        "2961162",
+        "358765",
+        "3800829"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Fusão forma nova sociedade que sucede as anteriores; incorporação extingue a incorporada; cisão total extingue a cindida — sem liquidação de ativos e passivos.",
+      "questoes": [
+        "3039443",
+        "3385428"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 2961162 (FGV, CVM, 2024)",
+          "Valor"
+        ],
+        [
+          "Ativos identificáveis a valor justo",
+          "1.874.000"
+        ],
+        [
+          "Passivos, incluindo 100.000 de contingentes assumidos",
+          "(1.530.000)"
+        ],
+        [
+          "Ativos líquidos",
+          "344.000"
+        ],
+        [
+          "Goodwill = 2.000.000 − 344.000",
+          "1.656.000 (resposta D)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Passivo contingente na combinação",
+      "text": "Diferente do CPC 25, o passivo contingente assumido numa combinação de negócios é reconhecido a valor justo e entra no cálculo do goodwill (2961162)."
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Divergência registrada",
+      "text": "3385428: resposta técnica D (II e IV), pela Lei 6.404, arts. 227 a 229; o PDF indica B."
+    }
+  ],
+  "pendencias": [
+    "As etapas do método de aquisição já estão na teoria da matéria.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

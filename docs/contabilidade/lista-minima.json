@@ -1,0 +1,1269 @@
+{
+ "geradoEm": "2026-11-19",
+ "criterio": "cobertura exata das regras da Teoria das questões (set cover, HiGHS)",
+ "minimoAbsoluto": 200,
+ "total": 201,
+ "excluidasPorPreferencia": {
+  "1936754": "pendente",
+  "3539089": "pendente",
+  "3975996": "pendente",
+  "3976034": "anulada",
+  "259388": "divergência de gabarito",
+  "3385428": "divergência de gabarito",
+  "3038937": "divergência de gabarito"
+ },
+ "assuntos": [
+  {
+   "assunto": "Teoria das questões — Regimes, lançamentos e conceitos básicos",
+   "targetId": "conta-a-01",
+   "questoes": [
+    "2013231",
+    "2223559",
+    "3240910",
+    "3365979",
+    "3584435",
+    "3662027",
+    "3662029"
+   ],
+   "cobertura": {
+    "2013231": [
+     "R7"
+    ],
+    "2223559": [
+     "R5"
+    ],
+    "3240910": [
+     "R1",
+     "R4"
+    ],
+    "3365979": [
+     "R2",
+     "R6"
+    ],
+    "3584435": [
+     "R1",
+     "R3"
+    ],
+    "3662027": [
+     "R8"
+    ],
+    "3662029": [
+     "R9"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — SPED e Escrituração Contábil Digital",
+   "targetId": "conta-a-01",
+   "questoes": [
+    "984532",
+    "984533",
+    "2612588",
+    "2759777",
+    "2759780",
+    "2865830",
+    "2965563"
+   ],
+   "cobertura": {
+    "984532": [
+     "R1"
+    ],
+    "984533": [
+     "R2"
+    ],
+    "2612588": [
+     "R3",
+     "R4"
+    ],
+    "2759777": [
+     "R7"
+    ],
+    "2759780": [
+     "R5"
+    ],
+    "2865830": [
+     "R6"
+    ],
+    "2965563": [
+     "R8"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Estrutura conceitual (CPC 00)",
+   "targetId": "conta-a-02",
+   "questoes": [
+    "225462",
+    "1921581",
+    "2369049",
+    "2395547",
+    "2823684",
+    "3114150",
+    "3116850"
+   ],
+   "cobertura": {
+    "225462": [
+     "R4",
+     "R5",
+     "R10"
+    ],
+    "1921581": [
+     "R8"
+    ],
+    "2369049": [
+     "R9"
+    ],
+    "2395547": [
+     "R6"
+    ],
+    "2823684": [
+     "R1",
+     "R2"
+    ],
+    "3114150": [
+     "R7"
+    ],
+    "3116850": [
+     "R3",
+     "R4"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Ajuste a valor presente (CPC 12)",
+   "targetId": "conta-a-03",
+   "questoes": [
+    "656256",
+    "693007",
+    "2013494",
+    "3847023",
+    "3883243",
+    "3907144"
+   ],
+   "cobertura": {
+    "656256": [
+     "R1",
+     "R8"
+    ],
+    "693007": [
+     "R3"
+    ],
+    "2013494": [
+     "R1",
+     "R5"
+    ],
+    "3847023": [
+     "R1",
+     "R2",
+     "R4"
+    ],
+    "3883243": [
+     "R7"
+    ],
+    "3907144": [
+     "R1",
+     "R6"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Valor justo (CPC 46) e critérios da Lei 6.404",
+   "targetId": "conta-a-04",
+   "questoes": [
+    "3101851",
+    "3149059"
+   ],
+   "cobertura": {
+    "3101851": [
+     "R3"
+    ],
+    "3149059": [
+     "R1",
+     "R2"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Políticas, estimativas e erros (CPC 23)",
+   "targetId": "conta-a-05",
+   "questoes": [
+    "789085",
+    "2873777",
+    "3401267",
+    "3847020"
+   ],
+   "cobertura": {
+    "789085": [
+     "R5"
+    ],
+    "2873777": [
+     "R6"
+    ],
+    "3401267": [
+     "R3",
+     "R4"
+    ],
+    "3847020": [
+     "R1",
+     "R2",
+     "R7"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Caixa e equivalentes, PECLD e recebimentos",
+   "targetId": "conta-b-01",
+   "questoes": [
+    "719076",
+    "2160888",
+    "2369050",
+    "2818479"
+   ],
+   "cobertura": {
+    "719076": [
+     "R4"
+    ],
+    "2160888": [
+     "R3"
+    ],
+    "2369050": [
+     "R1"
+    ],
+    "2818479": [
+     "R2"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Redução ao valor recuperável (CPC 01)",
+   "targetId": "conta-b-03",
+   "questoes": [
+    "719416",
+    "866974",
+    "3116791",
+    "3657093",
+    "3975812"
+   ],
+   "cobertura": {
+    "719416": [
+     "R1",
+     "R6"
+    ],
+    "866974": [
+     "R1",
+     "R2",
+     "R3",
+     "R7",
+     "R10"
+    ],
+    "3116791": [
+     "R1",
+     "R2",
+     "R8",
+     "R9"
+    ],
+    "3657093": [
+     "R1",
+     "R11"
+    ],
+    "3975812": [
+     "R1",
+     "R3",
+     "R4",
+     "R5"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Instrumentos financeiros (CPC 48)",
+   "targetId": "conta-b-04",
+   "questoes": [
+    "1037603",
+    "1813325",
+    "1990613",
+    "2687937",
+    "2792329",
+    "3079046",
+    "3093570",
+    "3385418",
+    "3454091",
+    "3847013",
+    "3975988"
+   ],
+   "cobertura": {
+    "1037603": [
+     "R9"
+    ],
+    "1813325": [
+     "R11"
+    ],
+    "1990613": [
+     "R14"
+    ],
+    "2687937": [
+     "R1",
+     "R2"
+    ],
+    "2792329": [
+     "R10"
+    ],
+    "3079046": [
+     "R12"
+    ],
+    "3093570": [
+     "R7",
+     "R8"
+    ],
+    "3385418": [
+     "R15"
+    ],
+    "3454091": [
+     "R13"
+    ],
+    "3847013": [
+     "R5",
+     "R6"
+    ],
+    "3975988": [
+     "R3",
+     "R4"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Ativo imobilizado (CPC 27)",
+   "targetId": "conta-b-05",
+   "questoes": [
+    "97294",
+    "400602",
+    "414021",
+    "1241415",
+    "2292795",
+    "2814660",
+    "3863560",
+    "3864888"
+   ],
+   "cobertura": {
+    "97294": [
+     "R8"
+    ],
+    "400602": [
+     "R9"
+    ],
+    "414021": [
+     "R10"
+    ],
+    "1241415": [
+     "R7"
+    ],
+    "2292795": [
+     "R11"
+    ],
+    "2814660": [
+     "R12"
+    ],
+    "3863560": [
+     "R1",
+     "R2",
+     "R5",
+     "R6"
+    ],
+    "3864888": [
+     "R3",
+     "R4"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Ativos intangíveis (CPC 04)",
+   "targetId": "conta-b-06",
+   "questoes": [
+    "371117",
+    "489926",
+    "2590390",
+    "3079057",
+    "3116783",
+    "3850892",
+    "3863557"
+   ],
+   "cobertura": {
+    "371117": [
+     "R1",
+     "R5"
+    ],
+    "489926": [
+     "R2",
+     "R3",
+     "R6"
+    ],
+    "2590390": [
+     "R8"
+    ],
+    "3079057": [
+     "R9"
+    ],
+    "3116783": [
+     "R4"
+    ],
+    "3850892": [
+     "R7"
+    ],
+    "3863557": [
+     "R6",
+     "R10"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Depreciação, amortização e exaustão",
+   "targetId": "conta-b-07",
+   "questoes": [
+    "2159093",
+    "2339034",
+    "2792320",
+    "2873788",
+    "3043696",
+    "3975840"
+   ],
+   "cobertura": {
+    "2159093": [
+     "R1",
+     "R2",
+     "R5",
+     "R6"
+    ],
+    "2339034": [
+     "R9"
+    ],
+    "2792320": [
+     "R7"
+    ],
+    "2873788": [
+     "R8"
+    ],
+    "3043696": [
+     "R1",
+     "R4",
+     "R10"
+    ],
+    "3975840": [
+     "R3",
+     "R5"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Empréstimos e financiamentos (custo amortizado)",
+   "targetId": "conta-c-02",
+   "questoes": [
+    "2890597",
+    "3850904"
+   ],
+   "cobertura": {
+    "2890597": [
+     "R4"
+    ],
+    "3850904": [
+     "R1",
+     "R2",
+     "R3"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Duplicatas descontadas",
+   "targetId": "conta-c-03",
+   "questoes": [
+    "3584440"
+   ],
+   "cobertura": {
+    "3584440": [
+     "R1",
+     "R2"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Debêntures",
+   "targetId": "conta-c-04",
+   "questoes": [
+    "461332",
+    "3561747"
+   ],
+   "cobertura": {
+    "461332": [
+     "R3"
+    ],
+    "3561747": [
+     "R1",
+     "R2"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Provisões, passivos e ativos contingentes (CPC 25)",
+   "targetId": "conta-c-05",
+   "questoes": [
+    "584688",
+    "1241384",
+    "2823703",
+    "3114258",
+    "3365912",
+    "3846793",
+    "3863578",
+    "3975826"
+   ],
+   "cobertura": {
+    "584688": [
+     "R10"
+    ],
+    "1241384": [
+     "R1",
+     "R12",
+     "R14"
+    ],
+    "2823703": [
+     "R4",
+     "R6",
+     "R11"
+    ],
+    "3114258": [
+     "R5",
+     "R13"
+    ],
+    "3365912": [
+     "R2"
+    ],
+    "3846793": [
+     "R9"
+    ],
+    "3863578": [
+     "R3"
+    ],
+    "3975826": [
+     "R7",
+     "R8"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Tributos sobre o lucro (CPC 32) e lucro real",
+   "targetId": "conta-c-06",
+   "questoes": [
+    "2395558",
+    "2572630",
+    "3240926"
+   ],
+   "cobertura": {
+    "2395558": [
+     "R1",
+     "R3"
+    ],
+    "2572630": [
+     "R1",
+     "R2"
+    ],
+    "3240926": [
+     "R4"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Folha de pagamento e benefícios a empregados (CPC 33)",
+   "targetId": "conta-c-07",
+   "questoes": [
+    "2100126",
+    "2857684"
+   ],
+   "cobertura": {
+    "2100126": [
+     "R1"
+    ],
+    "2857684": [
+     "R2"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Capital, ações em tesouraria e demais contas do PL",
+   "targetId": "conta-c-08",
+   "questoes": [
+    "104988",
+    "455693",
+    "2985307",
+    "3046908",
+    "3455343",
+    "3584443",
+    "3863553",
+    "3975985"
+   ],
+   "cobertura": {
+    "104988": [
+     "R1",
+     "R2"
+    ],
+    "455693": [
+     "R4",
+     "R5"
+    ],
+    "2985307": [
+     "R3"
+    ],
+    "3046908": [
+     "R7"
+    ],
+    "3455343": [
+     "R6"
+    ],
+    "3584443": [
+     "R8"
+    ],
+    "3863553": [
+     "R9"
+    ],
+    "3975985": [
+     "R10"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Propriedades para investimento (CPC 28)",
+   "targetId": "conta-d-01",
+   "questoes": [
+    "227909",
+    "693021",
+    "2792286",
+    "2873873",
+    "3201293"
+   ],
+   "cobertura": {
+    "227909": [
+     "R3"
+    ],
+    "693021": [
+     "R2"
+    ],
+    "2792286": [
+     "R5"
+    ],
+    "2873873": [
+     "R1",
+     "R4"
+    ],
+    "3201293": [
+     "R6",
+     "R7"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Ativo não circulante mantido para venda (CPC 31)",
+   "targetId": "conta-d-02",
+   "questoes": [
+    "2212148",
+    "3349474"
+   ],
+   "cobertura": {
+    "2212148": [
+     "R3"
+    ],
+    "3349474": [
+     "R1",
+     "R2"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Efeitos das mudanças nas taxas de câmbio (CPC 02)",
+   "targetId": "conta-d-03",
+   "questoes": [
+    "97358",
+    "438266",
+    "1889225",
+    "2759747",
+    "3846794",
+    "3847015",
+    "3975994"
+   ],
+   "cobertura": {
+    "97358": [
+     "R5",
+     "R6"
+    ],
+    "438266": [
+     "R4"
+    ],
+    "1889225": [
+     "R3"
+    ],
+    "2759747": [
+     "R7"
+    ],
+    "3846794": [
+     "R2"
+    ],
+    "3847015": [
+     "R8"
+    ],
+    "3975994": [
+     "R1"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Combinação de negócios, fusão, incorporação e cisão (CPC 15)",
+   "targetId": "conta-d-04",
+   "questoes": [
+    "3039443",
+    "3101882",
+    "3800829"
+   ],
+   "cobertura": {
+    "3039443": [
+     "R4"
+    ],
+    "3101882": [
+     "R1",
+     "R2"
+    ],
+    "3800829": [
+     "R3"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Investimentos avaliados pelo MEP (CPC 18)",
+   "targetId": "conta-d-05",
+   "questoes": [
+    "719386",
+    "3365976",
+    "3539078",
+    "3557748",
+    "3846339",
+    "3847057",
+    "3850868"
+   ],
+   "cobertura": {
+    "719386": [
+     "R8"
+    ],
+    "3365976": [
+     "R1",
+     "R3",
+     "R9"
+    ],
+    "3539078": [
+     "R3",
+     "R6",
+     "R7",
+     "R9"
+    ],
+    "3557748": [
+     "R2",
+     "R3",
+     "R11"
+    ],
+    "3846339": [
+     "R2",
+     "R3",
+     "R4",
+     "R9"
+    ],
+    "3847057": [
+     "R10"
+    ],
+    "3850868": [
+     "R2",
+     "R5"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Goodwill",
+   "targetId": "conta-d-06",
+   "questoes": [
+    "323994",
+    "2070281",
+    "2235668",
+    "3385421"
+   ],
+   "cobertura": {
+    "323994": [
+     "R3"
+    ],
+    "2070281": [
+     "R6"
+    ],
+    "2235668": [
+     "R1",
+     "R2"
+    ],
+    "3385421": [
+     "R1",
+     "R4",
+     "R5"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Destinação do lucro, reservas de lucros e dividendos",
+   "targetId": "conta-d-07",
+   "questoes": [
+    "2163606",
+    "2235714",
+    "2823688",
+    "3367366",
+    "3412175",
+    "3846744",
+    "3962799"
+   ],
+   "cobertura": {
+    "2163606": [
+     "R4",
+     "R5"
+    ],
+    "2235714": [
+     "R1",
+     "R2",
+     "R11"
+    ],
+    "2823688": [
+     "R10"
+    ],
+    "3367366": [
+     "R1",
+     "R2",
+     "R3",
+     "R7"
+    ],
+    "3412175": [
+     "R9"
+    ],
+    "3846744": [
+     "R2",
+     "R6"
+    ],
+    "3962799": [
+     "R8"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Apresentação das demonstrações e notas explicativas (CPC 26)",
+   "targetId": "conta-e-01",
+   "questoes": [
+    "97286",
+    "337899",
+    "2235655",
+    "2818481",
+    "3092661",
+    "3114175",
+    "3365982",
+    "3975809"
+   ],
+   "cobertura": {
+    "97286": [
+     "R9",
+     "R10"
+    ],
+    "337899": [
+     "R2"
+    ],
+    "2235655": [
+     "R5"
+    ],
+    "2818481": [
+     "R4",
+     "R6"
+    ],
+    "3092661": [
+     "R3"
+    ],
+    "3114175": [
+     "R7"
+    ],
+    "3365982": [
+     "R8"
+    ],
+    "3975809": [
+     "R1"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Balanço patrimonial e variações patrimoniais",
+   "targetId": "conta-e-02",
+   "questoes": [
+    "2223547",
+    "2870117",
+    "3116882",
+    "3240899",
+    "3798925",
+    "3823077",
+    "3883268",
+    "3883366"
+   ],
+   "cobertura": {
+    "2223547": [
+     "R5"
+    ],
+    "2870117": [
+     "R7"
+    ],
+    "3116882": [
+     "R1",
+     "R2"
+    ],
+    "3240899": [
+     "R6"
+    ],
+    "3798925": [
+     "R8"
+    ],
+    "3823077": [
+     "R3",
+     "R4"
+    ],
+    "3883268": [
+     "R10"
+    ],
+    "3883366": [
+     "R9"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Demonstração do resultado (DRE)",
+   "targetId": "conta-e-03",
+   "questoes": [
+    "228380",
+    "1990325",
+    "2223562",
+    "2371661",
+    "3114432",
+    "3259149",
+    "3800511",
+    "3816107",
+    "3846690"
+   ],
+   "cobertura": {
+    "228380": [
+     "R7"
+    ],
+    "1990325": [
+     "R10"
+    ],
+    "2223562": [
+     "R11"
+    ],
+    "2371661": [
+     "R5"
+    ],
+    "3114432": [
+     "R8"
+    ],
+    "3259149": [
+     "R9"
+    ],
+    "3800511": [
+     "R1",
+     "R2",
+     "R3",
+     "R4"
+    ],
+    "3816107": [
+     "R12"
+    ],
+    "3846690": [
+     "R6"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Demonstração do valor adicionado (CPC 09)",
+   "targetId": "conta-e-04",
+   "questoes": [
+    "2395551",
+    "2818480",
+    "3093986",
+    "3766768",
+    "3814596",
+    "3975991"
+   ],
+   "cobertura": {
+    "2395551": [
+     "R1",
+     "R3",
+     "R5"
+    ],
+    "2818480": [
+     "R7",
+     "R11"
+    ],
+    "3093986": [
+     "R7",
+     "R10"
+    ],
+    "3766768": [
+     "R4",
+     "R8"
+    ],
+    "3814596": [
+     "R9"
+    ],
+    "3975991": [
+     "R2",
+     "R4",
+     "R6",
+     "R7"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — DMPL",
+   "targetId": "conta-e-05",
+   "questoes": [
+    "97280",
+    "640103",
+    "2581991",
+    "3251802",
+    "3365888"
+   ],
+   "cobertura": {
+    "97280": [
+     "R4"
+    ],
+    "640103": [
+     "R1",
+     "R2"
+    ],
+    "2581991": [
+     "R5"
+    ],
+    "3251802": [
+     "R6"
+    ],
+    "3365888": [
+     "R1",
+     "R3"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — DLPA",
+   "targetId": "conta-e-06",
+   "questoes": [
+    "126854"
+   ],
+   "cobertura": {
+    "126854": [
+     "R1"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Demonstração do resultado abrangente (DRA)",
+   "targetId": "conta-e-07",
+   "questoes": [
+    "2223756",
+    "3864879"
+   ],
+   "cobertura": {
+    "2223756": [
+     "R3"
+    ],
+    "3864879": [
+     "R1",
+     "R2"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Demonstrações consolidadas (CPC 36)",
+   "targetId": "conta-e-08",
+   "questoes": [
+    "660119",
+    "2395560",
+    "3830921"
+   ],
+   "cobertura": {
+    "660119": [
+     "R3"
+    ],
+    "2395560": [
+     "R1",
+     "R2"
+    ],
+    "3830921": [
+     "R4"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Demonstração dos fluxos de caixa (CPC 03)",
+   "targetId": "conta-f-01",
+   "questoes": [
+    "719217",
+    "2890835",
+    "3157931",
+    "3599068",
+    "3800891",
+    "3822290"
+   ],
+   "cobertura": {
+    "719217": [
+     "R7",
+     "R8",
+     "R9",
+     "R10"
+    ],
+    "2890835": [
+     "R3"
+    ],
+    "3157931": [
+     "R2"
+    ],
+    "3599068": [
+     "R1"
+    ],
+    "3800891": [
+     "R4",
+     "R5"
+    ],
+    "3822290": [
+     "R4",
+     "R6",
+     "R7"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Arrendamento (CPC 06)",
+   "targetId": "conta-f-02",
+   "questoes": [
+    "3154649",
+    "3975995"
+   ],
+   "cobertura": {
+    "3154649": [
+     "R1",
+     "R4",
+     "R5"
+    ],
+    "3975995": [
+     "R1",
+     "R2",
+     "R3"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Partes relacionadas (CPC 05)",
+   "targetId": "conta-f-03",
+   "questoes": [
+    "1810572",
+    "3662330"
+   ],
+   "cobertura": {
+    "1810572": [
+     "R2"
+    ],
+    "3662330": [
+     "R1"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Subvenções e assistência governamentais (CPC 07)",
+   "targetId": "conta-f-04",
+   "questoes": [
+    "984396",
+    "3847070",
+    "3907140"
+   ],
+   "cobertura": {
+    "984396": [
+     "R1",
+     "R2",
+     "R5"
+    ],
+    "3847070": [
+     "R1",
+     "R2",
+     "R3"
+    ],
+    "3907140": [
+     "R4"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Estoques, CMV e operações com mercadorias (CPC 16)",
+   "targetId": "conta-f-05",
+   "questoes": [
+    "1889254",
+    "2395609",
+    "2857687",
+    "2870105",
+    "2924798",
+    "2967112",
+    "3048238",
+    "3764382",
+    "3846725",
+    "3846765"
+   ],
+   "cobertura": {
+    "1889254": [
+     "R11"
+    ],
+    "2395609": [
+     "R8",
+     "R9"
+    ],
+    "2857687": [
+     "R4"
+    ],
+    "2870105": [
+     "R15"
+    ],
+    "2924798": [
+     "R3"
+    ],
+    "2967112": [
+     "R7",
+     "R10",
+     "R12"
+    ],
+    "3048238": [
+     "R13"
+    ],
+    "3764382": [
+     "R1",
+     "R5",
+     "R7",
+     "R14"
+    ],
+    "3846725": [
+     "R6"
+    ],
+    "3846765": [
+     "R1",
+     "R2",
+     "R7"
+    ]
+   }
+  },
+  {
+   "assunto": "Teoria das questões — Eventos subsequentes (CPC 24)",
+   "targetId": "conta-f-06",
+   "questoes": [
+    "3412215"
+   ],
+   "cobertura": {
+    "3412215": [
+     "R1"
+    ]
+   }
+  }
+ ]
+}

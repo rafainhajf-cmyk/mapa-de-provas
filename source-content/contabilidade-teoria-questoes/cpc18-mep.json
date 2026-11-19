@@ -1,0 +1,357 @@
+{
+  "id": "contab-tq-cpc18-mep",
+  "materia": "Contabilidade",
+  "targetId": "conta-d-05",
+  "targetTitle": "Investimentos MEP (CPC 18)",
+  "titulo": "Teoria das questões — Investimentos avaliados pelo MEP (CPC 18)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: Investimentos Avaliados",
+  "questoes": [
+    "259029",
+    "271408",
+    "540177",
+    "584686",
+    "606276",
+    "640083",
+    "645565",
+    "655285",
+    "656224",
+    "693000",
+    "719382",
+    "719383",
+    "719385",
+    "719386",
+    "758365",
+    "866962",
+    "1239404",
+    "1821281",
+    "2154055",
+    "2159117",
+    "2163519",
+    "2163738",
+    "2163741",
+    "2266771",
+    "2293659",
+    "2823704",
+    "3114186",
+    "3225393",
+    "3365976",
+    "3539078",
+    "3539080",
+    "3552253",
+    "3557748",
+    "3561739",
+    "3561740",
+    "3567649",
+    "3822207",
+    "3846339",
+    "3847017",
+    "3847057",
+    "3850868",
+    "3864891",
+    "3975996"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Quem entra no MEP: controladas e coligadas (influência significativa, presumida a partir de 20%); participação sem influência fica fora do cálculo de equivalência.",
+      "questoes": [
+        "640083",
+        "655285",
+        "1239404",
+        "584686",
+        "3114186",
+        "3365976"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Resultado de equivalência = % de participação × lucro (ou prejuízo) da investida; vai à DRE da investidora.",
+      "questoes": [
+        "271408",
+        "584686",
+        "640083",
+        "655285",
+        "758365",
+        "1239404",
+        "2163738",
+        "2266771",
+        "2293659",
+        "3539080",
+        "3552253",
+        "3557748",
+        "3561740",
+        "3846339",
+        "3850868",
+        "3864891",
+        "2159117",
+        "3975996"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Dividendos da investida no MEP reduzem o investimento; não são nova receita. No método de custo, dividendo é receita.",
+      "questoes": [
+        "271408",
+        "584686",
+        "655285",
+        "2163738",
+        "2266771",
+        "2293659",
+        "3552253",
+        "3557748",
+        "3561739",
+        "3561740",
+        "3846339",
+        "3365976",
+        "2823704",
+        "3539078"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Ajustes de conversão e outros resultados abrangentes da investida ajustam o investimento contra ORA da investidora, não a DRE.",
+      "questoes": [
+        "271408",
+        "758365",
+        "2163738",
+        "3846339",
+        "3847017",
+        "719385"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Na aquisição, o preço se decompõe em: % × PL contábil + mais-valia (% × (valor justo − PL contábil)) + goodwill (preço − % × valor justo).",
+      "questoes": [
+        "645565",
+        "2154055",
+        "2163519",
+        "3225393",
+        "719382",
+        "866962",
+        "3850868",
+        "3975996",
+        "2163741",
+        "719383"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Preço menor que % × valor justo dos ativos líquidos: ganho por compra vantajosa no resultado; o investimento fica pela parcela a valor justo.",
+      "questoes": [
+        "540177",
+        "606276",
+        "1821281",
+        "3539078",
+        "3539080",
+        "3567649",
+        "3822207",
+        "2823704"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Mais-valia de ativo depreciável é baixada junto com o ativo e reduz a equivalência; mais-valia de terreno ou intangível de vida indefinida não é amortizada.",
+      "questoes": [
+        "719385",
+        "606276",
+        "656224",
+        "259029",
+        "2159117",
+        "2293659",
+        "3539078",
+        "3561739",
+        "3864891",
+        "3975996"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Lucro não realizado em operações entre investidora e investida (mercadoria ainda em estoque) é eliminado da equivalência, líquido de tributos quando informados.",
+      "questoes": [
+        "693000",
+        "719386"
+      ]
+    },
+    {
+      "id": "R9",
+      "texto": "Saldo final do investimento = saldo inicial + equivalência ± ORA − dividendos.",
+      "questoes": [
+        "259029",
+        "606276",
+        "656224",
+        "2266771",
+        "2293659",
+        "3114186",
+        "3365976",
+        "3539078",
+        "3561739",
+        "3846339",
+        "3847017",
+        "3864891",
+        "2159117"
+      ]
+    },
+    {
+      "id": "R10",
+      "texto": "Perda de influência: remensurar a parcela remanescente a valor justo; ganho = recebido + valor justo do remanescente − valor contábil; reciclar ORA de conversão.",
+      "questoes": [
+        "3847057"
+      ]
+    },
+    {
+      "id": "R11",
+      "texto": "Dividendos apenas propostos (não declarados) não reduzem o investimento; a resposta depende de a obrigação já existir.",
+      "questoes": [
+        "3975996",
+        "3552253",
+        "3557748"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Decomposição do investimento na aquisição",
+          "Fórmula",
+          "Exemplo TEC 2154055 (80%, PL 40 mi, VJ 45 mi, preço 42 mi)"
+        ],
+        [
+          "Parcela do PL contábil",
+          "% × PL contábil",
+          "80% × 40 = 32 mi"
+        ],
+        [
+          "Mais-valia",
+          "% × (VJ líquido − PL contábil)",
+          "80% × 5 = 4 mi"
+        ],
+        [
+          "Goodwill",
+          "Preço − % × VJ líquido",
+          "42 − 36 = 6 mi"
+        ],
+        [
+          "Investimento nas individuais",
+          "= preço pago",
+          "42 mi"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Compra vantajosa",
+      "text": "Se o preço for menor que % × valor justo dos ativos líquidos, a diferença é ganho no resultado na data da compra, e o investimento entra pela parcela a valor justo. Ex.: 3567649 — 60% × 185 mi = 111 mi; preço 102 mi; ganho 9 mi (não é goodwill de 18 mi). (R6)"
+    },
+    {
+      "type": "flowchart",
+      "title": "Atualização do investimento (MEP) — roteiro",
+      "steps": [
+        {
+          "label": "1. Saldo inicial",
+          "text": "Preço pago (com mais-valia e goodwill) ou parcela a valor justo, se houve compra vantajosa."
+        },
+        {
+          "label": "2. + Equivalência",
+          "text": "% × lucro da investida, ajustado por: realização da mais-valia de ativo depreciável e lucros não realizados em estoque. Vai à DRE."
+        },
+        {
+          "label": "3. ± ORA da investida",
+          "text": "% × ajustes de conversão ou outros resultados abrangentes. Vai ao PL (ORA), não à DRE."
+        },
+        {
+          "label": "4. − Dividendos",
+          "text": "% × dividendos declarados. Reduz o investimento; não é receita."
+        },
+        {
+          "label": "5. Saldo final",
+          "text": "Soma dos passos. (R9)"
+        }
+      ]
+    },
+    {
+      "type": "formula",
+      "text": "Equivalência ajustada = % × (lucro da investida − realização da mais-valia − lucro não realizado)"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 719385 (FCC, SEF SC, 2018)",
+          "Valor"
+        ],
+        [
+          "Mais-valia (13 mi − 9 mi), ativo com vida de 20 anos",
+          "4.000.000 ÷ 20 = 200.000 por ano"
+        ],
+        [
+          "Lucro da investida",
+          "500.000"
+        ],
+        [
+          "Equivalência = 90% × (500.000 − 200.000)",
+          "270.000 (resposta B)"
+        ],
+        [
+          "Conversão e dividendos",
+          "Não entram na DRE"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "O que não é amortizado",
+          "Por quê"
+        ],
+        [
+          "Mais-valia de terreno",
+          "Terreno não sofre depreciação (259029, 2159117, 3864891)"
+        ],
+        [
+          "Mais-valia de intangível de vida indefinida",
+          "Não há amortização periódica (656224, 3539078)"
+        ],
+        [
+          "Goodwill",
+          "Não é amortizado; só teste de recuperabilidade"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Lucro não realizado",
+      "text": "Lucro de venda entre investidora e investida que ainda está no estoque do comprador é eliminado. Ex.: 693000 — 100.000 × 50% em estoque × (1 − 34%) = 33.000; equivalência = 40% × (500.000 − 33.000) = 186.800. (R8)"
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Perda de influência significativa (3847057)",
+      "text": "Ganho = 4.800.000 recebidos + 1.500.000 de valor justo do remanescente − 4.600.000 de valor contábil = 1.700.000; somar a reciclagem de 200.000 de conversão: 1.900.000 na DRE. (R10)"
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Incluir no MEP a participação sem influência (640083, 1239404). Somar dividendos como receita (584686, 3552253). Levar ajuste de conversão à DRE (2163738, 3846339). Chamar de goodwill o que é compra vantajosa (3567649, 540177). Depreciar mais-valia de terreno (2159117). Reduzir a equivalência pela proposta de dividendos (3557748). Copiar a letra da questão irmã: 3552253 e 3557748 têm os mesmos dados e letras diferentes."
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Dividendos apenas propostos",
+      "text": "Proposta de dividendos ainda não declarada não reduz o investimento; dividendos declarados ou obrigatórios reduzem. Em 3975996 a resposta D (32 mi e 4 mi) só fecha na primeira hipótese; a questão está marcada como pendente com ressalva. (R11)"
+    }
+  ],
+  "pendencias": [
+    "A regra de perda de influência significativa já está na teoria da matéria; aqui entra o exemplo numérico.",
+    "TEC 3975996 é pendente com ressalva.",
+    "Conferir a redação antes de aprovar."
+  ]
+}

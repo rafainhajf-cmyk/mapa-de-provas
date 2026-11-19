@@ -1,0 +1,163 @@
+{
+  "id": "contab-tq-cpc12-avp",
+  "materia": "Contabilidade",
+  "targetId": "conta-a-03",
+  "targetTitle": "Ajuste a Valor Presente (CPC 12)",
+  "titulo": "Teoria das questões — Ajuste a valor presente (CPC 12)",
+  "tipo": "teoria das questões (incremental à teoria da matéria)",
+  "status": "approved",
+  "origem": "Questões TEC dos assuntos: CPC 12: Ajuste",
+  "questoes": [
+    "455688",
+    "461401",
+    "606281",
+    "656256",
+    "660117",
+    "693007",
+    "877345",
+    "2013494",
+    "2154021",
+    "2159127",
+    "2163735",
+    "2339081",
+    "2857670",
+    "3225415",
+    "3561729",
+    "3847023",
+    "3883243",
+    "3907144"
+  ],
+  "regras": [
+    {
+      "id": "R1",
+      "texto": "Venda a prazo relevante: receita comercial = valor presente (valor futuro ÷ (1 + i)^n, ou o preço à vista informado); a diferença é receita financeira dos períodos futuros.",
+      "questoes": [
+        "455688",
+        "461401",
+        "606281",
+        "660117",
+        "877345",
+        "2154021",
+        "2163735",
+        "2857670",
+        "3225415",
+        "3561729",
+        "3847023",
+        "2013494",
+        "3907144",
+        "656256"
+      ]
+    },
+    {
+      "id": "R2",
+      "texto": "Juros do mês = valor presente × taxa mensal efetiva; recebível ao fim = VP × (1 + i).",
+      "questoes": [
+        "606281",
+        "660117",
+        "877345",
+        "2154021",
+        "2159127",
+        "2857670",
+        "3225415",
+        "3561729",
+        "3847023",
+        "461401"
+      ]
+    },
+    {
+      "id": "R3",
+      "texto": "Compra a prazo relevante: estoque e CMV pelo valor à vista ou presente; a diferença é despesa financeira apropriada no tempo.",
+      "questoes": [
+        "455688",
+        "693007"
+      ]
+    },
+    {
+      "id": "R4",
+      "texto": "Vendas à vista entram pelo valor recebido; no recebível só fica a parte a prazo.",
+      "questoes": [
+        "2159127",
+        "2163735",
+        "3561729",
+        "3847023",
+        "877345"
+      ]
+    },
+    {
+      "id": "R5",
+      "texto": "Parcela de curto prazo com efeito imaterial não precisa ser ajustada.",
+      "questoes": [
+        "2013494"
+      ]
+    },
+    {
+      "id": "R6",
+      "texto": "Taxa de desconto antes dos tributos; os efeitos fiscais do ajuste são tratados pelo CPC 32.",
+      "questoes": [
+        "2339081",
+        "3907144"
+      ]
+    },
+    {
+      "id": "R7",
+      "texto": "Despesas antecipadas podem ser mensuradas a valor presente quando o efeito do prazo é relevante.",
+      "questoes": [
+        "3883243"
+      ]
+    },
+    {
+      "id": "R8",
+      "texto": "Frete de entrega é despesa de venda, não reduz o lucro bruto.",
+      "questoes": [
+        "656256"
+      ]
+    }
+  ],
+  "blocos": [
+    {
+      "type": "formula",
+      "text": "Receita de venda a prazo = valor futuro ÷ (1 + i)^n; juros do mês = valor presente × i mensal"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Exemplo resolvido — TEC 3847023 (FCC, SEFAZ SP, 2026)",
+          "Valor"
+        ],
+        [
+          "Venda a prazo: 9.100.000 ÷ 1,30",
+          "7.000.000"
+        ],
+        [
+          "+ Vendas à vista",
+          "2.100.000 + 1.700.000"
+        ],
+        [
+          "Receita comercial total",
+          "10.800.000"
+        ],
+        [
+          "Receita financeira de dezembro: 7.000.000 × 1,5%",
+          "105.000 (resposta E)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "A taxa do enunciado costuma ser acumulada",
+      "text": "'1,21' ou '1,30' já é o fator do prazo todo: divida o valor futuro por ele. Depois aplique a taxa mensal equivalente só sobre os meses decorridos até o balanço (2154021: 3.300.000 × 0,797% = 26.301)."
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinhas recorrentes",
+      "text": "Reconhecer os juros todos na data da venda (455688). Calcular juros sobre as vendas à vista (2159127). Ajustar parcela curta imaterial (2013494). Usar taxa líquida de impostos (2339081). Pôr o estoque comprado a prazo pelo valor nominal (693007)."
+    }
+  ],
+  "pendencias": [
+    "Fórmula e regras gerais já estão na teoria da matéria; aqui entram os cálculos cobrados.",
+    "Conferir a redação antes de aprovar."
+  ]
+}
