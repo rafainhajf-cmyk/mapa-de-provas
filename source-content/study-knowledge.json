@@ -4565,9 +4565,9 @@
       "targetId": "conta-b-02",
       "targetTitle": "Ativo Realizável a Longo Prazo - ARLP",
       "title": "Ativo realizável a longo prazo (ARLP)",
-      "status": "draft",
+      "status": "approved",
       "updateType": "teoria",
-      "source": "Redação própria, a partir da Lei 6.404/1976 (art. 179) e do CPC 12. Revisar antes de aprovar.",
+      "source": "Redação própria, conferida no texto da Lei 6.404/1976 (arts. 178 e 179) e no CPC 12 (itens 9 e 10).",
       "version": 1,
       "updatedAt": "2026-11-19",
       "blocks": [
@@ -4631,9 +4631,9 @@
       "targetId": "conta-c-01",
       "targetTitle": "Fornecedores",
       "title": "Fornecedores",
-      "status": "draft",
+      "status": "approved",
       "updateType": "teoria",
-      "source": "Redação própria, a partir dos critérios de reconhecimento e mensuração de passivos (Lei 6.404/1976, art. 184, e CPC 12). Revisar antes de aprovar.",
+      "source": "Redação própria, conferida no CPC 12 (itens 9 e 10), na prática do ajuste a valor presente de fornecedores e no CPC 16 (descontos e abatimentos deduzidos do custo de aquisição).",
       "version": 1,
       "updatedAt": "2026-11-19",
       "blocks": [
@@ -4723,9 +4723,9 @@
       "targetId": "conta-d-08",
       "targetTitle": "Lei 6.404 e suas alterações",
       "title": "Lei 6.404/1976 e suas alterações",
-      "status": "draft",
+      "status": "approved",
       "updateType": "teoria",
-      "source": "Redação própria, a partir da Lei 6.404/1976 e das alterações das Leis 11.638/2007 e 11.941/2009. Conferir a redação vigente antes de aprovar.",
+      "source": "Redação própria, conferida no texto da Lei 6.404/1976 (arts. 176, 178, 179, 183, 184 e 186) e nas alterações das Leis 11.638/2007 e 11.941/2009.",
       "version": 1,
       "updatedAt": "2026-11-19",
       "blocks": [
@@ -4780,6 +4780,83 @@
         }
       ],
       "flashcards": []
+    },
+    {
+      "id": "contab-teoria-cpc47-receita",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-06",
+      "targetTitle": "Receita com Contrato com Cliente (CPC 47)",
+      "title": "Receita com contrato com cliente (CPC 47)",
+      "status": "approved",
+      "updateType": "teoria",
+      "source": "Redação própria, a partir do exercício de adiantamento de cliente (quadro Lançamentos contábeis) e das cinco etapas do CPC 47 (IFRS 15).",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "flashcards": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A receita de contrato com cliente é reconhecida quando a entidade transfere ao cliente o controle do bem ou serviço prometido, e não quando o dinheiro é recebido nem quando o contrato é assinado."
+        },
+        {
+          "type": "flowchart",
+          "title": "Cinco etapas do CPC 47",
+          "steps": [
+            {
+              "label": "1. Identificar o contrato",
+              "text": "Contrato formalmente aprovado, com direitos e obrigações identificáveis."
+            },
+            {
+              "label": "2. Identificar as obrigações de desempenho",
+              "text": "Cada bem ou serviço distinto prometido ao cliente."
+            },
+            {
+              "label": "3. Determinar o preço da transação",
+              "text": "Valor da contraprestação que a entidade espera receber."
+            },
+            {
+              "label": "4. Alocar o preço às obrigações",
+              "text": "Dividir o preço entre as obrigações de desempenho."
+            },
+            {
+              "label": "5. Reconhecer a receita",
+              "text": "Quando, ou à medida que, a obrigação de desempenho for satisfeita."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situação",
+              "Lançamento",
+              "Tratamento"
+            ],
+            [
+              "Adiantamento recebido antes da entrega",
+              "D Caixa / C Adiantamento de clientes (passivo de contrato)",
+              "Sem receita: a obrigação ainda não foi cumprida"
+            ],
+            [
+              "Entrega do bem ou serviço",
+              "D Adiantamento de clientes / C Receita",
+              "Receita reconhecida no momento da transferência do controle"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra essencial",
+          "text": "Adiantamento de cliente é passivo de contrato. Ele vira receita somente quando a obrigação de desempenho é satisfeita."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Recebimento não é receita. Caixa recebido antes da entrega aumenta o passivo, e o resultado não muda nesse momento."
+        }
+      ]
     }
   ]
 }

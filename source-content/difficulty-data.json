@@ -15371,7 +15371,7 @@
         "kind": "study-note",
         "topic": "Ativo Realizável a Longo Prazo - ARLP",
         "category": "Contabilidade",
-        "summary": "Teoria escrita em rascunho, aguardando revisão. Exercícios e teoria das questões ainda não cadastrados.",
+        "summary": "Teoria escrita e aprovada. Exercícios e teoria das questões ainda não cadastrados.",
         "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
         "accountingTopics": [
           {
@@ -15912,7 +15912,7 @@
         "kind": "study-note",
         "topic": "Fornecedores",
         "category": "Contabilidade",
-        "summary": "Teoria escrita em rascunho, aguardando revisão. Exercícios e teoria das questões ainda não cadastrados.",
+        "summary": "Teoria escrita e aprovada. Exercícios e teoria das questões ainda não cadastrados.",
         "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
         "accountingTopics": [
           {
@@ -18079,12 +18079,33 @@
         "kind": "study-note",
         "topic": "Lei 6.404 e suas alterações",
         "category": "Contabilidade",
-        "summary": "Teoria escrita em rascunho, aguardando revisão. Exercícios e teoria das questões ainda não cadastrados.",
-        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Não há conteúdo teórico ou questões enviados para este assunto.",
+        "summary": "Teoria escrita e aprovada. Exercícios e teoria das questões ainda não cadastrados.",
+        "source": "Índice enviado pelo usuário em 24/10/2026. Blocos usados apenas para indicar sequência, sem agrupamento visual. Teoria redigida a partir da Lei 6.404/1976, sem exercícios cadastrados.",
         "accountingTopics": [
           {
             "id": "conta-d-08",
             "title": "Lei 6.404 e suas alterações",
+            "group": "",
+            "theory": [],
+            "exercises": [],
+            "questionTheory": []
+          }
+        ]
+      },
+      {
+        "id": "contab-20",
+        "modifiedAt": "2026-11-19T00:00:00Z",
+        "coverage": "partial",
+        "assessment": "not-assessed",
+        "kind": "study-note",
+        "topic": "CPC 08 — Prêmio na emissão de debêntures",
+        "category": "Contabilidade",
+        "summary": "Teoria aprovada a partir do exemplo de prêmio na emissão de debêntures. Exercícios e teoria das questões ainda não cadastrados.",
+        "source": "Redação própria, a partir do exemplo de prêmio na emissão de debêntures já registrado no assunto. Sem exercícios cadastrados.",
+        "accountingTopics": [
+          {
+            "id": "contab-20",
+            "title": "CPC 08 — Prêmio na emissão de debêntures",
             "group": "",
             "theory": [],
             "exercises": [],

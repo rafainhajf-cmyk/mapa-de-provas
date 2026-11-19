@@ -2,6 +2,15 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-19 — Claude (Contabilidade: rascunhos aprovados, CPC 47 e CPC 08 no índice, Contabilidade Básica conferida)
+- Rascunhos `contab-teoria-arlp`, `contab-teoria-fornecedores` e `contab-teoria-lei-6404` com status `approved` a pedido do usuário. Origens atualizadas com o que foi conferido (Lei 6.404, CPC 12 e CPC 16 — desconto e abatimento deduzidos do custo de aquisição).
+- Novo registro `contab-teoria-cpc47-receita` (conta-a-06): definição, cinco etapas do CPC 47, tabela de adiantamento de cliente e pegadinha. Base: exercício do quadro Lançamentos contábeis e o CPC 47.
+- Índice `contab-20` (CPC 08 — Prêmio na emissão de debêntures) criado em `difficulty-data.json`. Resumos dos assuntos conta-b-02, conta-c-01 e conta-d-08 atualizados de rascunho para aprovado.
+- Teoria das questões de Contabilidade Básica (`contabilidade-basica.json`): regras R1 a R9 conferidas contra os gabaritos e comentários das questões ligadas, sem consulta externa. Nada foi alterado nas regras.
+- Sequência de exercícios: os 601 IDs da rota têm regra ligada. A pendência anterior de 21 etapas era erro de método (checagem só na lista mínima).
+- Arquivos: `source-content/study-knowledge.json`, `source-content/difficulty-data.json`, `source-content/contabilidade-teoria-questoes/contabilidade-basica.json`, `docs/REGISTRO_ALTERACOES.md`.
+- Pendências: conferir no site (deploy do commit) as teorias de ARLP, Fornecedores, Lei 6.404 e CPC 47; CPC 08 segue sem exercícios cadastrados.
+
 ## 2026-11-19 — Claude (Contabilidade: conferência factual dos 3 rascunhos de teoria — branch `claude/teoria-tres-assuntos`)
 - Lei 6.404 (`contab-teoria-lei-6404`): art. 176 corrigido para a lista atual (balanço, DLPA, DRE, DFC e DVA se companhia aberta); art. 183 ganhou o inciso VIII (AVP de operações de longo prazo, 2007); art. 184 ganhou a ressalva de paridade cambial (II) e o AVP do passivo não circulante (III, 2009); pegadinha reescrita. Art. 178, 179 e 186 conferidos.
 - ARLP (`contab-teoria-arlp`): critério reescrito como "após o término do exercício social seguinte", no lugar de "após 12 meses".
