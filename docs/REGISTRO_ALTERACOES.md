@@ -2,6 +2,12 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-19 — Claude (Contabilidade: lista mínima na página de exercícios e as 3 pendentes resolvidas)
+- Página de exercícios: novo filtro "Lista mínima · 201 questões" e quadro com as questões por assunto (`accounting-minimal-list.js`, `accounting-curated.js`, `accounting-exercises-page.js` v=2, `contabilidade-exercicios.html`). Cartões TEC ganham `data-minimal`.
+- 1936754, 3539089 e 3975996: gabarito oficial conferido no comentário do professor no TEC (sem responder as questões). Viraram resoluções em `accounting-solutions-08.js` (D, E, D), com a ressalva técnica de 1936754 e 3539089 registrada; `accounting-issues.js` ficou vazio; IDs incluídos no roteiro (`accounting-study-route.js`). Banco: 601 de 601 com resolução.
+- Teoria das questões v2 de MEP, DVA e CPC 28 para trocar "pendente" pelo gabarito oficial; reimportado. Teste `accounting-exercises.test.mjs` atualizado (601 e lista mínima).
+- Pendências: nenhuma destas questões; a lista mínima depende do catálogo de regras atual.
+
 ## 2026-11-19 — Claude (Contabilidade: Teoria das questões aprovada e publicada)
 - Usuário aprovou os 40 quadros. Status `approved` nos arquivos, no export e na planilha; importados em `source-content/study-knowledge.json` (67 registros: 40 de Contabilidade, 26 de Macroeconomia e o de debêntures). Branch `claude/teoria-das-questoes` unida ao `main` com aprovação do usuário.
 - Pendências: lista mínima ainda não integrada à página de exercícios (aguarda decisão); 3 questões pendentes aguardam gabarito oficial do TEC.

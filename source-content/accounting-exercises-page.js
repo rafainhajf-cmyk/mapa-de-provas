@@ -1,4 +1,4 @@
-import {accountingSetsHTML} from './accounting-curated.js?v=5';
+import {accountingSetsHTML} from './accounting-curated.js?v=6';
 document.querySelector('#exerciseLists').innerHTML=accountingSetsHTML();
 const progressKey='mapa-contab-curated-progress-v1';
 let completed={};
@@ -11,7 +11,7 @@ function applyFilters(){
  let shown=0;
  for(const el of articles){
   const checked=el.querySelector('input[data-curated-id]')?.checked;
-  const inList=list==='all'||(list==='tec'?el.dataset.exerciseOrigin==='tec':el.dataset.studyRoute===list);
+  const inList=list==='all'||(list==='tec'?el.dataset.exerciseOrigin==='tec':list==='minimal'?el.dataset.minimal==='yes':el.dataset.studyRoute===list);
   const visible=inList&&(kind==='all'||el.dataset.exerciseKind===kind)&&(solved==='all'||el.dataset.exerciseSolved===solved)&&(done==='all'||(done==='done'?checked:!checked));
   el.hidden=!visible;if(visible)shown++;
  }

@@ -20,8 +20,8 @@ import {tecOriginals} from './source-content/accounting-originals.js';
 import {secondBatch} from './source-content/accounting-solutions-02.js';
 test('inventário conta questões únicas analisadas e preserva a origem',()=>{
  assert.equal(secondBatch.length,17);
- assert.equal(resolvedQuestions.length,598);
- assert.equal(new Set(resolvedQuestions.map(q=>q.id)).size,598);
+ assert.equal(resolvedQuestions.length,601);
+ assert.equal(new Set(resolvedQuestions.map(q=>q.id)).size,601);
  for(const q of resolvedQuestions){
   assert.ok(tecOriginals[q.id]?.text.length>80,q.id);
   assert.ok(tecOriginals[q.id].page>0,q.id);
@@ -53,4 +53,13 @@ test('roteiro enxuto cobre os assuntos sem repetir cartões ou incluir pendênci
  assert.equal(selected.length,new Set(selected).size);
  for(const id of selected)assert.ok(resolvedQuestions.some(q=>q.id===id),id);
  assert.deepEqual(new Set(studyRoute.flatMap(x=>x.sourceIds)),new Set(resolvedQuestions.map(q=>q.id)));
+});
+import {minimalList} from './source-content/accounting-minimal-list.js';
+test('lista mínima marca 201 cartões únicos e existentes',()=>{
+ const ids=minimalList.flatMap(x=>x.ids);
+ assert.equal(ids.length,201);
+ assert.equal(new Set(ids).size,201);
+ for(const id of ids)assert.ok(tecOriginals[id],id);
+ const html=accountingSetsHTML();
+ assert.equal((html.match(/data-minimal="yes"/g)||[]).length,201);
 });
