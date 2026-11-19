@@ -9,7 +9,7 @@
   "origem": "27 questões TEC do assunto 'Provisões, Passivos e Ativos Contingentes (CPC 25, Lei 6.404)', resoluções já registradas no site",
   "questoes": ["488366","584688","606285","686820","1241384","1896649","2163352","2163620","2339115","2823703","3114258","3116840","3220273","3349493","3365912","3367324","3504315","3546692","3553900","3553910","3561701","3822308","3846793","3850901","3863578","3975826","3975830"],
   "regras": [
-    {"id": "R1", "texto": "Provisão exige três requisitos cumulativos: obrigação presente de evento passado, saída provável e estimativa confiável.", "questoes": ["3504315","1241384","3975830"]},
+    {"id": "R1", "texto": "Provisão exige três requisitos cumulativos: obrigação presente de evento passado, saída provável e estimativa confiável.", "questoes": ["3504315","1241384","3975830", "2823703", "3114258"]},
     {"id": "R2", "texto": "Sem evento passado (só plano ou projeção) não há provisão nem passivo contingente.", "questoes": ["3365912"]},
     {"id": "R3", "texto": "Saída provável sem estimativa confiável: não reconhece; divulga como passivo contingente.", "questoes": ["3863578","3116840"]},
     {"id": "R4", "texto": "Perda possível: não reconhece; divulga passivo contingente em notas.", "questoes": ["2823703","3349493","2163352","2339115","3367324","3546692","3561701"]},
