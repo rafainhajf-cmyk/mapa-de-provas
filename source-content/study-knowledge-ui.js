@@ -1,4 +1,4 @@
-import {parseKnowledgeBundle,knowledgeHTML} from './study-knowledge.js?v=1';
+import {parseKnowledgeBundle,knowledgeHTML} from './study-knowledge.js?v=2';
 const norm=s=>String(s??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
 const selector='#difficultyResults';
 let approved=[];
