@@ -2,6 +2,14 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-19 — Claude (Macroeconomia: 26 esquemas aprovados e correção da Selic)
+- Esquemas de Macroeconomia (26, status `approved`) importados em `source-content/study-knowledge.json` via `scripts/import-study-knowledge.mjs`, a partir da aba Conteúdos estruturados. O sumário `macro-conceitos-basicos` foi retirado por não ser esquema. Contabilidade preservada.
+- Correção em `macro-meta-selic` (versão 2): o exemplo numérico de 10,75% a.a. foi retirado do fluxograma, porque a taxa muda a cada reunião e a Selic vigente era 14,25% desde 17/06/2026 (fonte: Agência Brasil). A regra de 45 dias foi mantida.
+- Taxa de câmbio real: a fórmula de níveis de preço (E = e·P*/P, usada pelo Banco Central) foi mantida. A versão com inflações não foi alterada e continua como observação no esquema.
+- Branch `claude/renderizar-blocos-svg` unida ao `main` com o SVG aceito no bloco `image`. Os testes seguem com 3 falhas anteriores, não relacionadas.
+- Arquivos: `source-content/macroeconomia-editavel/meta-selic-blocos.json`, `source-content/macroeconomia-editavel/conteudos-estruturados-export.json`, `source-content/study-knowledge.json`, `dificuldades.js`, `source-content/assets/is-lm-graficos.svg`, `source-content/assets/excesso-moeda-graficos.svg`, `docs/REGISTRO_ALTERACOES.md`.
+- Pendências: TCR (conferência na fonte original, se o material for enviado); gráficos de inclinação IS/LM e ícones de instrumentos de política monetária não convertidos; publicação no site ainda não conferida visualmente; análise da alternativa D fica para a resolução da questão no TEC.
+
 ## 2026-11-18 — Claude (ignorar arquivo gerado pelo build)
 - `source-content/normativo-data.json` é gerado por `scripts/build.mjs` (via `import-normativo.mjs`) e o `vercel.json` roda `npm run build` no deploy; por isso foi adicionado ao `.gitignore` e não é mais versionado. Build local conferido.
 - Conferência das imagens WebP no site publicado: as 106 imagens distintas respondem com status 200 e `image/webp`; `macroeconomia-is-lm-1.webp` renderiza legível. Não foram abertas visualmente todas as 106, só o status e o tipo de cada uma.

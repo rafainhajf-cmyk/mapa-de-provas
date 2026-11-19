@@ -32,7 +32,7 @@
       "steps": [
         {
           "label": "1. Anúncio",
-          "text": "O Copom se reúne a cada 45 dias e define a meta da taxa Selic (exemplo da fonte: 10,75% a.a.)."
+          "text": "O Copom se reúne a cada 45 dias e define a meta da taxa Selic (a taxa vigente muda a cada reunião, por isso o esquema não traz valor atual)."
         },
         {
           "label": "2. Execução",
@@ -50,8 +50,8 @@
     }
   ],
   "pendencias": [
-    "A anotação traz a análise da alternativa D de uma questão. Ela não entra no esquema: deve ir para a resolução da questão no TEC (número da questão não consta na anotação).",
-    "Conferir a regra de 45 dias e o exemplo de 10,75% a.a. na fonte oficial do Copom antes de aprovar, porque a taxa muda.",
+    "A análise da alternativa D é conteúdo de resolução de questão e não de esquema teórico. Ela não entra no esquema: deve ir para a resolução da questão no TEC (número da questão não consta na anotação).",
+    "O exemplo numérico de 10,75% a.a. da anotação foi retirado do esquema porque não corresponde à Selic vigente; a taxa muda a cada reunião.",
     "Conferir a redação contra a anotação original antes de aprovar."
   ]
 }

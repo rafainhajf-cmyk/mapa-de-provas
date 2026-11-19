@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
-  "exportedAt": "2026-11-19T03:32:16.374Z",
+  "exportedAt": "2026-11-19T03:36:43.157Z",
   "records": [
     {
       "id": "contab-20-premio-debentures-custo-amortizado",
@@ -1301,7 +1301,7 @@
       "status": "approved",
       "updateType": "novo assunto",
       "source": "Imagem macroeconomia-meta-selic-e-inflacao-1.webp (anotação 'Meta selic e inflação', 27/08/2026)",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-19",
       "blocks": [
         {
@@ -1331,7 +1331,7 @@
           "steps": [
             {
               "label": "1. Anúncio",
-              "text": "O Copom se reúne a cada 45 dias e define a meta da taxa Selic (exemplo da fonte: 10,75% a.a.)."
+              "text": "O Copom se reúne a cada 45 dias e define a meta da taxa Selic (a taxa vigente muda a cada reunião, por isso o esquema não traz valor atual)."
             },
             {
               "label": "2. Execução",

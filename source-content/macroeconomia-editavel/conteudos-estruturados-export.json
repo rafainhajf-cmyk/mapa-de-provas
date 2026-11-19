@@ -286,12 +286,12 @@
       "",
       "Meta Selic e inflação: funcionamento do regime",
       "Meta Selic e inflação: funcionamento do regime",
-      "draft",
+      "approved",
       "novo assunto",
       "Imagem macroeconomia-meta-selic-e-inflacao-1.webp (anotação 'Meta selic e inflação', 27/08/2026)",
-      "1",
+      "2",
       "2026-11-19",
-      "[{\"type\": \"table\", \"rows\": [[\"Pergunta\", \"Resposta (conforme a fonte)\"], [\"Quem define a meta de inflação?\", \"O Conselho Monetário Nacional (CMN).\"], [\"Quem define a meta da taxa Selic?\", \"O Comitê de Política Monetária (Copom) do Banco Central.\"], [\"Como o BC faz a taxa de mercado (Selic efetiva) ficar igual à meta (Selic meta)?\", \"Por meio das operações de mercado aberto (open market).\"]]}, {\"type\": \"flowchart\", \"title\": \"Como a meta Selic é cumprida\", \"steps\": [{\"label\": \"1. Anúncio\", \"text\": \"O Copom se reúne a cada 45 dias e define a meta da taxa Selic (exemplo da fonte: 10,75% a.a.).\"}, {\"label\": \"2. Execução\", \"text\": \"Para que a taxa de juros praticada pelos bancos entre si (no mercado interbancário) respeite esse valor, o Banco Central ajusta a liquidez (a quantidade de dinheiro disponível nas reservas bancárias).\"}, {\"label\": \"3. Instrumento (se sobra dinheiro)\", \"text\": \"Se sobra dinheiro no mercado (a taxa cairia abaixo da meta), o BC vende títulos públicos e enxuga o dinheiro.\"}, {\"label\": \"3. Instrumento (se falta dinheiro)\", \"text\": \"Se falta dinheiro (a taxa subiria acima da meta), o BC compra títulos e injeta dinheiro.\"}]}]",
+      "[{\"type\": \"table\", \"rows\": [[\"Pergunta\", \"Resposta (conforme a fonte)\"], [\"Quem define a meta de inflação?\", \"O Conselho Monetário Nacional (CMN).\"], [\"Quem define a meta da taxa Selic?\", \"O Comitê de Política Monetária (Copom) do Banco Central.\"], [\"Como o BC faz a taxa de mercado (Selic efetiva) ficar igual à meta (Selic meta)?\", \"Por meio das operações de mercado aberto (open market).\"]]}, {\"type\": \"flowchart\", \"title\": \"Como a meta Selic é cumprida\", \"steps\": [{\"label\": \"1. Anúncio\", \"text\": \"O Copom se reúne a cada 45 dias e define a meta da taxa Selic (a taxa vigente muda a cada reunião, por isso o esquema não traz valor atual).\"}, {\"label\": \"2. Execução\", \"text\": \"Para que a taxa de juros praticada pelos bancos entre si (no mercado interbancário) respeite esse valor, o Banco Central ajusta a liquidez (a quantidade de dinheiro disponível nas reservas bancárias).\"}, {\"label\": \"3. Instrumento (se sobra dinheiro)\", \"text\": \"Se sobra dinheiro no mercado (a taxa cairia abaixo da meta), o BC vende títulos públicos e enxuga o dinheiro.\"}, {\"label\": \"3. Instrumento (se falta dinheiro)\", \"text\": \"Se falta dinheiro (a taxa subiria acima da meta), o BC compra títulos e injeta dinheiro.\"}]}]",
       "[]"
     ],
     [
