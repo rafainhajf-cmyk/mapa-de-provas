@@ -3570,10 +3570,29 @@
             "text": "Referência visual preservada. As ressalvas e atualizações das páginas anteriores prevalecem sobre as afirmações absolutas deste mapa."
           },
           {
-            "type": "image",
-            "src": "assets/poder-policia-original.webp",
-            "alt": "Mapa original de Poder de Polícia enviado pelo usuário; consulte as correções no texto acima.",
-            "caption": "Imagem original preservada. Consulte as correções sobre delegação, coercibilidade e executoriedade acima."
+            "type": "paragraph",
+            "style": "HEADING_2",
+            "text": "Quadro original: Poder de polícia"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Conceito estrito: apenas atos do poder Executivo. Conceito amplo: atos dos poderes Executivo e Legislativo."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Espécies: derivado (exercido pelas entidades de direito público, Administração Pública indireta); originário (exercido pelos órgãos dos entes políticos, Administração Pública direta)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Capacidade do Estado de restringir direitos e garantias individuais em benefício da coletividade; só pode ser exercido por entidades de direito público; deve ser aplicado de forma moderada, buscando o interesse público."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Atributos: 1) discricionariedade (análise da oportunidade e conveniência dos atos; predominantemente discricionária); 2) autoexecutoriedade (a autoridade decide e pratica atos de polícia sem intervenção do Judiciário; ocorre só quando prevista em lei ou em caso de urgência que exija execução imediata); exigibilidade (tomar decisões executórias; meios indiretos de coação) e executoriedade (executar as decisões, podendo usar força física; meios diretos de coação); 3) coercibilidade (capacidade de impor sua vontade; só os atos com autoexecutoriedade têm coercibilidade)."
           },
           {
             "type": "paragraph",
@@ -3630,10 +3649,29 @@
         "source": "Imagem enviada neste chat; texto organizado e conferido em fontes oficiais.",
         "contentBlocks": [
           {
-            "type": "image",
-            "src": "assets/poder-policia-original.webp",
-            "alt": "Imagem original de Poder de Polícia",
-            "caption": "Imagem original. O texto reconhecido por OCR está disponível abaixo."
+            "type": "paragraph",
+            "style": "HEADING_2",
+            "text": "Quadro original: Poder de polícia"
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Conceito estrito: apenas atos do poder Executivo. Conceito amplo: atos dos poderes Executivo e Legislativo."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Espécies: derivado (exercido pelas entidades de direito público, Administração Pública indireta); originário (exercido pelos órgãos dos entes políticos, Administração Pública direta)."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Capacidade do Estado de restringir direitos e garantias individuais em benefício da coletividade; só pode ser exercido por entidades de direito público; deve ser aplicado de forma moderada, buscando o interesse público."
+          },
+          {
+            "type": "paragraph",
+            "style": "NORMAL_TEXT",
+            "text": "Atributos: 1) discricionariedade (análise da oportunidade e conveniência dos atos; predominantemente discricionária); 2) autoexecutoriedade (a autoridade decide e pratica atos de polícia sem intervenção do Judiciário; ocorre só quando prevista em lei ou em caso de urgência que exija execução imediata); exigibilidade (tomar decisões executórias; meios indiretos de coação) e executoriedade (executar as decisões, podendo usar força física; meios diretos de coação); 3) coercibilidade (capacidade de impor sua vontade; só os atos com autoexecutoriedade têm coercibilidade)."
           }
         ],
         "contentVerifiedAt": "2026-10-20T09:13:41.175115Z",
@@ -8266,10 +8304,29 @@
             ]
           },
           {
-            "type": "image",
-            "src": "assets/retroatividade-interpretacao-original.webp",
-            "alt": "Retroatividade benigna × interpretação favorável",
-            "caption": "@bizudoauditor"
+            "type": "paragraph",
+            "style": "HEADING_2",
+            "text": "Quadro original: Retroatividade benigna × interpretação favorável"
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Conceito",
+                "Aplica-se ao tributo?",
+                "Aplica-se à multa/infração?"
+              ],
+              [
+                "Retroatividade benigna (lei mais branda, art. 106)",
+                "Não. O valor do tributo nunca retroage para beneficiar; vale a lei do fato gerador.",
+                "Sim. Retroage se a lei reduzir a multa e o ato não foi julgado em definitivo."
+              ],
+              [
+                "Interpretação favorável (em caso de dúvida, art. 112)",
+                "Não. Dúvida sobre o valor do tributo não beneficia o contribuinte.",
+                "Sim. Dúvida sobre a punição sempre beneficia o acusado."
+              ]
+            ]
           }
         ],
         "visualBlocks": [
@@ -8315,10 +8372,29 @@
         "source": "Imagem enviada pelo usuário, com transcrição para pesquisa, sem complementação. Crédito presente na imagem: @bizudoauditor.",
         "contentBlocks": [
           {
-            "type": "image",
-            "src": "assets/retroatividade-interpretacao-original.webp",
-            "alt": "Retroatividade benigna × interpretação favorável",
-            "caption": "@bizudoauditor"
+            "type": "paragraph",
+            "style": "HEADING_2",
+            "text": "Quadro original: Retroatividade benigna × interpretação favorável"
+          },
+          {
+            "type": "table",
+            "rows": [
+              [
+                "Conceito",
+                "Aplica-se ao tributo?",
+                "Aplica-se à multa/infração?"
+              ],
+              [
+                "Retroatividade benigna (lei mais branda, art. 106)",
+                "Não. O valor do tributo nunca retroage para beneficiar; vale a lei do fato gerador.",
+                "Sim. Retroage se a lei reduzir a multa e o ato não foi julgado em definitivo."
+              ],
+              [
+                "Interpretação favorável (em caso de dúvida, art. 112)",
+                "Não. Dúvida sobre o valor do tributo não beneficia o contribuinte.",
+                "Sim. Dúvida sobre a punição sempre beneficia o acusado."
+              ]
+            ]
           }
         ],
         "searchImageText": "Conceito (Aplicação da Lei) | Aplica-se ao TRIBUTO? | Aplica-se à MULTA/INFRAÇÃO?\nRetroatividade Benigna (Lei mais branda — Art. 106) | ❌ NÃO. O valor do tributo nunca retroage para beneficiar. A lei que vale é a do fato gerador. | ✅ SIM. Retroage se a lei reduzir a multa e o ato não foi julgado em definitivo.\nInterpretação Favorável (Em caso de dúvida — Art. 112) | ❌ NÃO. Dúvida sobre o valor do tributo não beneficia o contribuinte. | ✅ SIM. Dúvida sobre a punição sempre beneficia o acusado.\n@bizudoauditor",
@@ -18092,12 +18168,39 @@
                 ]
               },
               {
-                "type": "image",
-                "src": "assets/ds-original-02-1-1.webp",
-                "alt": "CRISP-DM  — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_a51fdc1b94108191a44b57dce7fff2f2",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Fases do CRISP-DM (mineração de dados)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Entendimento do negócio: qual problema o negócio quer resolver; determinar os objetivos; conhecer a situação; produzir um plano."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Entendimento dos dados: análise exploratória; verificar a qualidade dos dados; coletar dados iniciais."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Preparação dos dados: pré-processamento; selecionar, limpar, construir, integrar e formatar dados."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Modelagem (construção do modelo): seleção das técnicas, ferramentas e algoritmos a serem utilizados."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Avaliação: teste e avaliação; revisão e próximos passos."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Implantação e desenvolvimento: colocar o modelo para funcionar; planejar a entrega; monitoramento e manutenção; relatório final; lições aprendidas."
               },
               {
                 "type": "paragraph",
@@ -18142,12 +18245,19 @@
             "title": "Algoritmos de Machine Learning",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/ds-original-08-1-1.webp",
-                "alt": "Mineracao tecnicas — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_7f56650a6d88819196b43c11be7dd0ab",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Algoritmos de machine learning"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Aprendizado não supervisionado (descoberta de padrões em dados não rotulados): K-Means (agrupamento); hierarquização, divisiva e aglomerativa (agrupamento); DBSCAN (agrupamento); PCA (redução de dimensionalidade); Apriori e FP-Growth (regra de associação); Isolation Forest (detecção de outliers)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Aprendizado supervisionado (treinamento com dados rotulados): K-NN (classificação e regressão); regressão linear (regressão); árvores de decisão (classificação e regressão); florestas aleatórias (classificação e regressão); Naive Bayes (classificação); Support Vector Machine (classificação e regressão)."
               },
               {
                 "type": "transcript",
@@ -18256,20 +18366,44 @@
                 "text": "Conferência da acurácia: o numerador correto é VP + VN, dividido pelo total. Um dos itens do quadro escreve VP + FN, mas a fração logo abaixo traz VP + VN corretamente."
               },
               {
-                "type": "image",
-                "src": "assets/ds-original-07-1-1.webp",
-                "alt": "Matriz de confusão — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_2e3e2261e7dc819193ab6f287c780024",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Matrizes de confusão e métricas"
               },
               {
-                "type": "image",
-                "src": "assets/ds-original-07-2-1.webp",
-                "alt": "Matriz de confusão — página 2",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_2e3e2261e7dc819193ab6f287c780024",
-                "sourcePage": 2
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A matriz de confusão tem quatro células: verdadeiros positivos (TP), instâncias positivas classificadas como positivas; falsos positivos (FP), instâncias negativas classificadas como positivas; verdadeiros negativos (TN), instâncias negativas classificadas como negativas; falsos negativos (FN), instâncias positivas classificadas como negativas."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Acurácia: proporção de instâncias classificadas corretamente em relação ao total: (VP + VN) / (VP + FN + VN + FP)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Precisão (PPP): proporção de instâncias classificadas como positivas que realmente são positivas: VP / (VP + FP)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Recall, também chamado sensibilidade ou revocação (PPN): proporção de instâncias positivas corretamente identificadas: VP / (VP + FN)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Especificidade (NNP): proporção de instâncias negativas corretamente classificadas como negativas: VN / (VN + FP). É o complemento dos falsos positivos."
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Especificidade (continuação)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Especificidade é o oposto das letras do recall (NNP): VN / (VN + FP)."
               },
               {
                 "type": "transcript",
@@ -18348,12 +18482,31 @@
                 "text": "A curva ROC compara a taxa de verdadeiros positivos (sensibilidade) com a taxa de falsos positivos (1 − especificidade), variando o limiar de decisão."
               },
               {
-                "type": "image",
-                "src": "assets/ds-original-03-1-1.webp",
-                "alt": "Curva ROC — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_8fb5d1978b0c81918e906ce396d86728",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Curva ROC; sensibilidade e especificidade"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Curva ROC: eixo vertical é a sensibilidade (proporção de verdadeiros positivos); eixo horizontal é 1 − especificidade (proporção de falsos positivos). O \"céu ROC\" (canto superior esquerdo) é o ideal; o \"inferno ROC\" (canto inferior direito) é o pior. O classificador aleatório é a diagonal."
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Métrica",
+                    "Fórmula"
+                  ],
+                  [
+                    "Sensibilidade",
+                    "VP / (VP + FN)"
+                  ],
+                  [
+                    "Especificidade",
+                    "VN / (FP + VN)"
+                  ]
+                ]
               },
               {
                 "type": "transcript",
@@ -18444,12 +18597,34 @@
             "title": "Tipos de anomalias",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/ds-original-09-1-1.webp",
-                "alt": "Tipos de anomalias — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_7d51054e104881918dab0f083e78378c",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Tipos de anomalias"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Não intencional (erro): surge por erro ou ruído. Ex.: sensor defeituoso registra temperatura errada."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Pontual (ponto): um dado sozinho destoa dos demais. Ex.: saque muito maior que os anteriores."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Contextual (contexto): é estranho naquela situação ou horário. Ex.: consumo elevado de energia quando ninguém está em casa."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Coletiva (conjunto): vários dados juntos formam um padrão estranho. Ex.: muitos endereços IP aumentam o tráfego simultaneamente."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Resumo: erro, ponto, contexto, conjunto."
               },
               {
                 "type": "transcript",
@@ -18554,12 +18729,39 @@
             "title": "Tipos de ia",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/ds-original-10-1-1.webp",
-                "alt": "Tipos de ia — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_858acfa432b08191addb9319ea75fc29",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Comparação das tecnologias de IA"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "Categoria",
+                    "Definição",
+                    "Exemplos"
+                  ],
+                  [
+                    "IA fraca",
+                    "Executa tarefas específicas sem consciência ou aprendizado geral",
+                    "Assistentes virtuais (Siri, Alexa); sistemas de recomendação (Netflix, Spotify)"
+                  ],
+                  [
+                    "IA forte (AGI)",
+                    "IA hipotética, capaz de pensar, aprender e entender como um humano",
+                    "Ainda não existe; exemplos fictícios: Jarvis (Marvel), Skynet (Exterminador do Futuro)"
+                  ],
+                  [
+                    "IA generativa",
+                    "Cria novos conteúdos (textos, imagens, músicas) sem consciência real",
+                    "ChatGPT, DALL·E, Deepfake, MusicLM"
+                  ],
+                  [
+                    "Teste de Turing",
+                    "Experimento para avaliar se uma IA pode se passar por humano",
+                    "Chatbots avançados, como o ChatGPT, tentam passar no teste"
+                  ]
+                ]
               },
               {
                 "type": "transcript",
@@ -18700,12 +18902,59 @@
             "title": "Vieses da IA generativa",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/ds-original-11-1-1.webp",
-                "alt": "Vieis — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_77cdc3761b548191950078c501cc538b",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Vieses da IA generativa"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Viés de dados: dados de treinamento representam mal certos grupos ou contextos. Ex.: poucas imagens de mulheres em cargos de liderança."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Viés de seleção: o conjunto de dados privilegia determinadas fontes, culturas ou perfis. Ex.: dados coletados apenas de países desenvolvidos."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Viés algorítmico: o próprio modelo ou método de treinamento favorece certos resultados. Ex.: função de otimização que privilegia precisão sobre equidade."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Viés de confirmação: a IA reforça premissas implícitas no prompt. Ex.: perguntas tendenciosas levam a respostas tendenciosas."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Viés cultural/social: respostas refletem padrões culturais dominantes. Ex.: normas e valores de uma cultura são generalizados."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Viés de automação: usuários tendem a confiar excessivamente na IA. Ex.: aceitar respostas sem questionar ou validar."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Viés de representatividade: alguns grupos aparecem pouco ou de forma estereotipada. Ex.: minorias sub-representadas ou retratadas de forma limitada."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Viés de ancoragem: as primeiras informações do contexto influenciam excessivamente a resposta. Ex.: um número inicial influencia estimativas seguintes."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Viés de alucinação: a IA gera informações falsas com aparência de verdade. Ex.: citar fatos, fontes ou dados que não existem."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Esses vieses não são defeitos inevitáveis; são riscos a identificar, monitorar e mitigar com dados diversos, testes, transparência e supervisão humana."
               },
               {
                 "type": "transcript",
@@ -18929,12 +19178,29 @@
             "title": "Ameaças à independência",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-03-1.webp",
-                "alt": "Ameaça a independência  — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_cd4fcc76f8dc8191a10e2ad9a00f38c8",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Ameaças à independência; rotação de RT e de firma; responsabilidade"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Ameaças à independência: interesse próprio (influência no julgamento ou comportamento do auditor; o interesse pode ou não ser financeiro); autorrevisão (risco de não avaliar bem resultados de trabalho anterior, do próprio auditor ou de outra pessoa da firma); defesa de interesse do cliente (promover a posição do cliente a ponto de comprometer a objetividade); familiaridade (relacionamento longo ou próximo leva a ser solidário com o cliente); intimidação (dissuadido de agir objetivamente por pressões reais ou aparentes)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Rotação dos RTs: 7 anos é o tempo máximo que o RT pode atuar para o cliente; 2 a 5 anos é o tempo mínimo de afastamento. Carência: sócio, 5 anos; revisor, 3 anos; sócio-chave, 2 anos."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Rotação da firma (Instrução CVM nº 308): até 10 anos consecutivos na mesma auditada, desde que a auditada tenha CAE (Comitê de Auditoria Estatutário) e o auditor seja PJ. Os RTs não podem ficar mais de 5 anos; podem retornar após 3 anos (Instrução CVM nº 23/2021)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Responsabilidade: o sócio encarregado do trabalho (auditor), o sócio ou outra pessoa da firma respondem pelo trabalho, sua execução e relatório, com responsabilidade técnica exclusiva, mesmo se usar trabalho de especialista. A administração elabora as demonstrações contábeis, responde pelo controle interno e fornece ao auditor acesso irrestrito a pessoas e informações. Relatório de auditoria não exime a administração de eventuais responsabilidades."
               },
               {
                 "type": "transcript",
@@ -18982,12 +19248,39 @@
             "title": "Princípios fundamentais de ética",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-15-1.webp",
-                "alt": "Ética profissional — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_697413fcddcc8191b0efe3a699b0bb05",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Princípios fundamentais de ética profissional"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Competência e zelo profissional: manter o conhecimento e a habilidade no nível adequado e agir diligentemente, de acordo com as normas técnicas e profissionais aplicáveis."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Confidencialidade: respeitar o sigilo das informações e não divulgá-las a terceiros, salvo com direito ou dever legal ou profissional de divulgação, nem usá-las para obter vantagem pessoal."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Comportamento ou conduta profissional: cumprir as leis e os regulamentos e evitar qualquer ação que desacredite a profissão."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Integridade (não é integralidade): ser franco e honesto em todos os relacionamentos profissionais e comerciais."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Objetividade: não permitir que comportamento tendencioso, conflito de interesse ou influência indevida afetem o julgamento profissional ou de negócio."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Mnemônico: 3 CO IN OB (Competência, Confidencialidade, Comportamento, Integridade, Objetividade)."
               },
               {
                 "type": "transcript",
@@ -19113,12 +19406,29 @@
             "title": "Asseguração razoável × limitada; independência",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-22-1.webp",
-                "alt": "Limitada e razoável — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_543204c0ad28819187155111cc72323a",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Asseguração razoável × limitada; independência de pensamento × aparência"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Asseguração razoável: conclusão expressa de forma positiva; menor risco; nível elevado de segurança, alcançado quando o auditor obtém evidência apropriada e suficiente para reduzir o risco a um nível aceitavelmente baixo."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Asseguração limitada: conclusão expressa de forma negativa; maior risco."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Independência de pensamento: postura que permite apresentar conclusão sem efeitos de influências que comprometam o julgamento, com integridade, objetividade e ceticismo profissional."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Aparência de independência: evitar fatos e circunstâncias tão significativos que um terceiro bem informado e prudente concluiria que a integridade, a objetividade ou o ceticismo profissional da firma, ou de membro da equipe, ficariam comprometidos."
               },
               {
                 "type": "transcript",
@@ -19367,12 +19677,49 @@
             "title": "Auditoria interna · resumo",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-05-1.webp",
-                "alt": "Aud interna — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_d4c26679d8308191918be4d3a4c96580",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Auditoria interna (NBC TI 01)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Objetivo: assistir à administração no cumprimento de seus objetivos."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A auditoria interna não se confunde com controle interno, mas faz parte dele."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Propõe normas, mas não as implementa (papel da administração)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Planejamento: diretrizes estabelecidas pela administração."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Fraude e erro: assessorar a administração na prevenção, informando-a sempre por escrito e de forma reservada; prevenção e detecção de fraudes são atribuição da administração."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Riscos: análise feita no planejamento. O auditor deve avaliar a extensão de sua responsabilidade no uso de trabalho de especialistas; na auditoria independente, o risco é integral do auditor."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Testes: observância (testa se os controles internos funcionam); substantivos (testam a suficiência, exatidão e validade dos dados produzidos pelos sistemas de informação)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Relatório: recomendações a serem tomadas pela administração; apresentado a quem solicitou ou a quem este autorizar; pode emitir relatório parcial (ex.: casos de providência imediata)."
               },
               {
                 "type": "transcript",
@@ -19534,12 +19881,49 @@
                 "text": "A primeira página trata do planejamento independente; a segunda reproduz fatores da NBC TI 01 para planejamento da auditoria interna. A lista de uma norma não deve ser confundida com a da outra."
               },
               {
-                "type": "image",
-                "src": "assets/audit-original-35-1.webp",
-                "alt": "Planejamento aud — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_22db12a660c48191a5532614aa89218b",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Planejamento de auditoria"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O planejamento não é fase isolada, mas processo contínuo e iterativo, que muitas vezes começa logo após (ou em conexão com) a auditoria anterior."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Atividades preliminares (mnemônico TEC): controle de qualidade; avaliação da conformidade com os requisitos éticos, inclusive independência; estabelecimento do entendimento dos termos do trabalho."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Planejamento de auditoria = estratégia global (dimensão ampla) + plano de auditoria (dimensão restrita)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Estratégia global: define o alcance, a época e a direção da auditoria. Principais atividades: identificar as características do trabalho para definir o alcance; definir os objetivos do relatório para planejar a época e a natureza das comunicações; considerar os fatores significativos no julgamento profissional; considerar os resultados das atividades preliminares; determinar os recursos necessários, a época e a extensão do trabalho (não confundir com o plano de auditoria)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Plano de auditoria: natureza, época e extensão dos procedimentos planejados de avaliação de risco; natureza, época e extensão dos procedimentos adicionais planejados no nível de afirmação; outros procedimentos planejados e necessários."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A estratégia global e o plano de auditoria não são necessariamente processos isolados ou sequenciais; estão intimamente relacionados."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O auditor deve atualizar e alterar a estratégia e o plano sempre que necessário; alterações significativas devem ser documentadas."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O auditor pode discutir o planejamento com a administração para facilitar a condução e o gerenciamento do trabalho, mas isso não retira a responsabilidade do auditor quanto à estratégia global e ao plano."
               },
               {
                 "type": "transcript",
@@ -19736,12 +20120,24 @@
             "title": "Trabalho de auditoria inicial e saldos iniciais",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-52-1.webp",
-                "alt": "trabalho de auditoria inicial  — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_2649aa1012c88191afc373a4e30f1672",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Trabalho de auditoria inicial (definições)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Trabalho de auditoria inicial: trabalho em que as demonstrações do período anterior não foram auditadas, ou foram auditadas por auditor independente antecessor."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Saldos iniciais: saldos contábeis existentes no início do período, baseados nos saldos finais do período anterior, refletindo efeitos de transações e eventos e políticas contábeis do período anterior. Incluem assuntos existentes no início do período que precisam ser divulgados, como contingências e compromissos."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Auditor independente antecessor: auditor anterior (pessoa física ou jurídica diferente), que auditou as demonstrações no período anterior e foi substituído pelo auditor atual."
               },
               {
                 "type": "transcript",
@@ -19831,12 +20227,44 @@
             "title": "Forma, conteúdo e extensão da documentação",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-17-1.webp",
-                "alt": "Forma, conteúdo, extensão da documentação — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_6316324f6bc481918b261a03870d43e5",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Fatores que influenciam a documentação de auditoria"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Tamanho e complexidade da entidade."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Natureza dos procedimentos de auditoria a serem executados."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Riscos identificados de distorção relevante."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Importância da evidência de auditoria obtida."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Natureza e extensão das exceções identificadas."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Necessidade de documentar a conclusão, ou a base da conclusão, não prontamente determinável a partir da documentação do trabalho executado ou da evidência obtida."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Metodologias e ferramentas de auditoria utilizadas."
               },
               {
                 "type": "transcript",
@@ -19870,12 +20298,34 @@
                 "url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA230(R1).pdf"
               },
               {
-                "type": "image",
-                "src": "assets/audit-original-31-1.webp",
-                "alt": "papéis de trabalho — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_7049faa4c63c8191aa8b369a3c59fdeb",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Documentação de auditoria (NBASP 100 × NBC TA 200)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "NBASP 100, item 42: a documentação deve ser detalhada o suficiente para que um auditor experiente, sem conhecimento prévio da auditoria, entenda a natureza, a época, o escopo e os resultados dos procedimentos executados, a evidência obtida e as conclusões e recomendações."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "NBC TA 200, itens 8 e 9: o auditor deve preparar documentação suficiente para que um auditor experiente, sem envolvimento anterior, entenda a natureza, época e extensão dos procedimentos executados, para cumprir as normas e exigências legais e regulamentares aplicáveis; ao documentar, deve registrar os procedimentos executados."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Os papéis de trabalho são de propriedade do auditor e fundamentam seu parecer; não servem de base para a entidade elaborar seu relatório de gestão."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Os papéis de trabalho destinam-se a: ajudar no planejamento e na execução da auditoria (análise de auditorias anteriores ou de coligidos, em primeira auditoria); facilitar a revisão do trabalho; registrar as evidências do trabalho executado, para fundamentar o parecer do auditor independente."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Documentação de auditoria: registro dos procedimentos executados, da evidência relevante obtida e das conclusões alcançadas pelo auditor. O auditor pode incluir resumos ou cópias de registros da entidade, mas a documentação não substitui os registros contábeis da entidade."
               },
               {
                 "type": "transcript",
@@ -20012,12 +20462,34 @@
             "title": "Materialidade e relevância",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-23-1.webp",
-                "alt": "Materialidade e relevância — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_32fb32d2dbe08191a71fec94f37d91e1",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Materialidade e relevância"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Materialidade: valores fixados pelo auditor (julgamento profissional), inferiores ao considerado relevante para as demonstrações como um todo, para reduzir a um nível baixo a probabilidade de que as distorções não corrigidas e não detectadas, em conjunto, excedam a materialidade fixada. Simplificando: a materialidade é um \"piso\"; valores acima dele passam a ser relevantes."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Não é cálculo mecânico simples nem procedimento científico; pode ser revista durante a auditoria; é definida na estratégia global (fase do planejamento)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A materialidade não estabelece necessariamente um valor abaixo do qual as distorções serão sempre não relevantes."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Dois níveis: materialidade para as demonstrações como um todo e materialidade para execução da auditoria, sempre menor. Exemplo: 1% do PL para o todo; 70% dessa materialidade para execução."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Relevância: informação cuja omissão ou distorção pode influenciar a decisão dos usuários; para estabelecê-la deve haver julgamento profissional."
               },
               {
                 "type": "transcript",
@@ -20056,20 +20528,74 @@
                 "text": "O resumo também mistura riscos de negócio da entidade com exemplos de riscos do próprio auditor, como litígio e publicidade adversa. Estes últimos não integram o conceito técnico de risco de auditoria da NBC TA 200."
               },
               {
-                "type": "image",
-                "src": "assets/audit-original-43-1.webp",
-                "alt": "Risco de auditoria — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_8f5292aff1ec81919b837f3f5d8b8112",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Risco de auditoria"
               },
               {
-                "type": "image",
-                "src": "assets/audit-original-43-2.webp",
-                "alt": "Risco de auditoria — página 2",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_8f5292aff1ec81919b837f3f5d8b8112",
-                "sourcePage": 2
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Risco de auditoria = risco de distorção relevante × risco de detecção."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Risco de auditoria: risco de o auditor expressar opinião inadequada quando as demonstrações contiverem distorção relevante. Não inclui o risco de o auditor opinar que as demonstrações contêm distorção relevante quando não é o caso. Não se refere aos riscos de negócio do auditor."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Risco de distorção relevante (independe do auditor, existe antes da auditoria): risco inerente (antes de considerar controles) e risco de controle (o controle interno não previne, detecta e corrige a distorção tempestivamente). Ex.: na LATAM existe o risco de aviões caírem, independentemente dos controles."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Risco de detecção: risco de os procedimentos do auditor não detectarem uma distorção. Pode ser reduzido, mas nunca eliminado; é função da eficácia do procedimento e de sua aplicação."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Distorção relevante: distorções que, não corrigidas, individualmente ou em conjunto, são maiores que a materialidade definida e podem influenciar decisões econômicas dos usuários."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Importância da relevância: alta relevância tende a aumentar o volume de testes, reduzindo o risco de detecção e, consequentemente, o risco de auditoria."
+              },
+              {
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Risco de distorção relevante"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Risco de distorção relevante no nível das demonstrações como um todo: afeta de forma disseminada muitas afirmações."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "No nível da afirmação (classes de transações, saldos e divulgações): risco inerente é a suscetibilidade de uma afirmação a uma distorção relevante, individualmente ou em conjunto, antes de considerar os controles; risco de controle é o sistema de controle interno não detectar, prevenir ou corrigir tempestivamente a distorção, função da eficácia do desenho, da implementação e da manutenção do controle."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Os riscos no nível da afirmação determinam a natureza, a época e a extensão dos procedimentos adicionais de auditoria necessários para obter evidência apropriada e suficiente."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O risco inerente é mais alto para cálculos complexos ou contas compostas de estimativas sujeitas à incerteza significativa. Circunstâncias externas que geram riscos de negócio podem influenciar o risco inerente."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "A identificação dos riscos é responsabilidade da administração; a avaliação é questão de julgamento profissional."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Pegadinha recorrente: o auditor não pode reduzir o risco de auditoria a zero, por isso não pode obter segurança absoluta. A auditoria tem limitações inerentes; a evidência é persuasiva, não conclusiva."
               },
               {
                 "type": "transcript",
@@ -20168,11 +20694,29 @@
             "title": "Riscos de detecção, inerente e de controle",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-user-image-02.webp",
-                "alt": "Risco de auditoria: detecção, inerente e controle",
-                "caption": "Imagem original · clique para ampliar",
-                "sourceId": "libfile_e4570e2ac9dc8191a27ed64973ae235a"
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Risco de auditoria"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Risco de auditoria: possibilidade de o auditor, por motivo alheio à sua vontade, emitir opinião tecnicamente inadequada sobre demonstrações significativamente incorretas. É função do risco de distorção relevante (inerente e de controle) e do risco de detecção."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Detecção: risco de que os procedimentos do auditor não detectem uma distorção relevante."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Distorção relevante (RIC): risco inerente (suscetibilidade a uma distorção antes de considerar qualquer controle) e risco de controle (possibilidade de a distorção não ser prevenida, detectada e corrigida pelo controle interno)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Os riscos de distorção relevante são riscos da entidade; o risco de detecção é risco do auditor."
               },
               {
                 "type": "transcript",
@@ -20270,12 +20814,19 @@
             "title": "Testes de observância × testes substantivos",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-38-1.webp",
-                "alt": "Procedimentos  — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_bacb223638008191aa2f238a4dac0669",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Procedimentos de auditoria"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Testes de observância: os controles internos estabelecidos pela administração estão em efetivo funcionamento. Procedimentos considerados: inspeção, observação, investigação e confirmação."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Testes substantivos: dados produzidos pelos sistemas de informação da entidade, quanto à suficiência, exatidão e validade."
               },
               {
                 "type": "transcript",
@@ -20306,12 +20857,34 @@
             "title": "Controles e testes substantivos na auditoria interna",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-49-1.webp",
-                "alt": "Testes de controle — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_8c9c71fca1d481919b6aece2711c220f",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Procedimentos de auditoria interna (CFC)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Testes de observância ou controle: objetivo: razoável segurança de que o controle interno está em funcionamento. Procedimentos: inspeção (registros, documentos e ativos tangíveis); observação (acompanhamento de processos e procedimentos); investigação e confirmação."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Testes substantivos: critérios avaliados: suficiência, exatidão e validade. Foco: dados produzidos pelo sistema de informação."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Testes de detalhes/transações e saldos: fatos contábeis registrados conforme exigências. Revisão analítica: verifica o comportamento de valores significativos, por índices, quocientes e quantidades absolutas."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O auditor deve executar procedimentos até a data da emissão do relatório, ou tão próximo quanto aplicável."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "O maior uso de procedimentos substantivos (em testes de detalhes) resulta em diminuição do tamanho da amostra."
               },
               {
                 "type": "transcript",
@@ -20390,12 +20963,49 @@
                 "url": "https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-ta-de-auditoria-independente/"
               },
               {
-                "type": "image",
-                "src": "assets/audit-original-39-1.webp",
-                "alt": "Procedimentos de auditoria — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_209b8a51dafc81918f7384a96082c758",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Procedimentos de auditoria e revisão analítica"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Inspeção: exame de registros ou documentos, internos ou externos, em papel, eletrônicos ou outras mídias; exame físico de um ativo."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Observação: exame do processo ou procedimento executado por outros."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Confirmação externa: resposta escrita de terceiro (a parte que confirma) ao auditor, em forma escrita, eletrônica ou outra mídia; não precisa se restringir a saldos contábeis."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Recálculo: verificação da exatidão matemática de documentos ou registros; pode ser manual ou eletrônico."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Procedimentos analíticos: avaliação das informações por meio de relações plausíveis entre dados financeiros e não financeiros; investigação de flutuações ou relações inconsistentes (atipicidades)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Indagação: busca de informações junto a pessoas com conhecimento, dentro ou fora da entidade."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Reexecução: execução independente pelo auditor de procedimentos ou controles originalmente realizados pela entidade."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Revisão analítica: ferramenta de planejamento e conclusão; aplicada antes dos testes nas contas patrimoniais e de resultado; deve considerar mudanças contábeis relevantes; ajuda a identificar áreas de risco e distorções significativas; não é facultativa nas demais etapas, é contínua e estratégica."
               },
               {
                 "type": "transcript",
@@ -20516,12 +21126,19 @@
             "title": "Atributos da evidência · independente e interna",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-04-1.webp",
-                "alt": "Atributos das evidências — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_21287043276881918d44654d5dcb8f63",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Atributos essenciais das evidências (NBC TA 500)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Atributos das evidências: suficiência (quantidade) e adequação (qualidade), que se divide em relevância e confiabilidade. Perguntas-guia: quantas são suficientes? qual é a mais adequada?"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Tipos de informações (AMe Um SuFACO Reco): suficiente (factual e convincente); adequada (sendo confiável, propicia a melhor evidência alcançável); relevante (dá suporte às conclusões e às recomendações); útil (auxilia a entidade a alcançar suas metas)."
               },
               {
                 "type": "transcript",
@@ -20596,12 +21213,29 @@
             "title": "Evidências física, documental, testemunhal e analítica",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-51-1.webp",
-                "alt": "Tipos de evidência — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_6b83020263908191921f999a43f024f5",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Tipos de evidências (com base no manual do TCU)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Evidência física: obtida da observação direta de pessoas e eventos ou da inspeção de locais ou objetos; documentada por fotografias, vídeos e mapas."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Evidência documental: o tipo mais comum; pode estar em meio físico ou eletrônico; obtida de informações já existentes (ofícios, correspondências, contratos, extratos); é preciso avaliar a confiabilidade e a relevância."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Evidência testemunhal: obtida por entrevistas, grupos focais e questionários; para ser evidência, e não só contextualização, precisa ser corroborada por outras fontes."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Evidência analítica: obtida por análises, comparações e interpretações de dados (índices, taxas, padrões e tendências, procedimentos de revisão analítica), normalmente com processamento computacional; é o tipo mais difícil de obter."
               },
               {
                 "type": "transcript",
@@ -20645,11 +21279,29 @@
             "title": "Características da evidência · SU-VA-CO-RELEVANTE",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-user-image-03.webp",
-                "alt": "Características da evidência — SU-VA-CO-RELEVANTE",
-                "caption": "Imagem original · clique para ampliar",
-                "sourceId": "libfile_1e7b50a81d148191af6961e709bce87b"
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Características da evidência (SU-VA-CO-RELEVANTE)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Suficiência: quantidade e qualidade das evidências devem persuadir o leitor."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Validade: a evidência deve ser legítima."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Confiabilidade: garante que os mesmos resultados serão obtidos se a auditoria for repetida."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Relevância: a evidência deve estar relacionada aos objetivos da auditoria."
               },
               {
                 "type": "transcript",
@@ -20746,12 +21398,19 @@
             "title": "Triângulo e diamante da fraude",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-12-1.webp",
-                "alt": "Diamante de fraude — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_992eb5c731f88191a01590ea3f1dee2f",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Triângulo e diamante da fraude"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Diamante da fraude (4 fatores): 1) incentivos/pressões (problema financeiro que leva a considerar uma ilegalidade para resolver o problema); 2) oportunidade (fraqueza do sistema que permite explorar uma situação; define o método da fraude); 3) atitudes/racionalizações (racionalização moralmente aceitável antes de transgredir); 4) capacidade (habilidades pessoais e técnicas para cometer a fraude)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Triângulo da fraude (ACFE, 2015): pressão, oportunidade e racionalização."
               },
               {
                 "type": "transcript",
@@ -20787,11 +21446,24 @@
             "title": "Fatores de risco de fraude · quadro comparativo",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-user-image-01.webp",
-                "alt": "Fatores de risco de fraude",
-                "caption": "Imagem original · clique para ampliar",
-                "sourceId": "libfile_077142264ee08191b280f5aa3712c83c"
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Fatores de risco de fraude (diamante da fraude)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Incentivos/pressões: informações contábeis fraudulentas quando a estabilidade financeira ou a lucratividade é ameaçada por condições operacionais, econômicas ou do ramo; apropriação indevida de ativos quando obrigações financeiras pessoais criam pressão sobre pessoas com acesso a dinheiro; relacionamentos adversos entre a entidade e empregados com acesso a ativos suscetíveis de roubo podem motivar a apropriação indevida. Ex.: demissões conhecidas ou previstas."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Oportunidade: a natureza da indústria ou das operações oferece oportunidades de envolvimento em informações fraudulentas; certas características ou circunstâncias (ex.: ativos fixos de tamanho pequeno, sem identificação clara) aumentam a suscetibilidade à apropriação indevida."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Atitudes/racionalizações: comunicação, implementação, suporte ou aplicação inadequados dos valores ou padrões éticos da entidade pela administração; falta de consideração pela necessidade de monitorar ou reduzir riscos de apropriação indevida. Ex.: mudança no estilo de vida."
               },
               {
                 "type": "transcript",
@@ -21009,12 +21681,29 @@
             "title": "Desvio de controle × distorção na amostra",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-11-1.webp",
-                "alt": "Desvio e destorção — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_7622417867b08191829e7c25bfec0872",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Regra de ouro do item 11 (testes de controle e de detalhes)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Se o auditor não conseguir aplicar os procedimentos definidos, ou procedimentos alternativos adequados, em um item selecionado:"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Testes de controle: trate como desvio do controle previsto."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Testes de detalhes: trate como distorção."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Resumo: desvio → controle; distorção → detalhes."
               },
               {
                 "type": "transcript",
@@ -21050,12 +21739,39 @@
             "title": "Técnicas de amostragem",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-46-1.webp",
-                "alt": "Técnicas de amostragem — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_ff71ce533e3081918801586d82b4f77a",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Técnicas de amostragem"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Amostragem aleatória simples: cada indivíduo tem chance igual ou maior que zero de ser selecionado, por sorteio, sem critério ou filtro (ex.: sortear 20 de 200 endereços)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Amostragem sistemática: método probabilístico que seleciona indivíduos dentro de uma população já determinada, com um fator matemático de seleção (ex.: 500 moradias em 50 grupos; a cada 10 domicílios, 1 pesquisa)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Amostragem estratificada: em duas etapas; separa a população em grupos e subgrupos (estratos) com características relevantes, como idade, sexo, trabalho ou escolaridade, para uma amostra mais representativa."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Amostragem por conglomerados: em mais de uma etapa; primeiro são definidos os grupos (conglomerados), e só no último estágio são sorteados os indivíduos (ex.: pesquisa eleitoral: municípios, depois categorias, depois indivíduos)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Métodos de seleção da amostra (resumo): aleatória (geradores de números aleatórios); sistemática (população dividida pelo tamanho da amostra); amostragem de unidade monetária (seleção por valores); ao acaso (sem técnica estruturada); de bloco (blocos contíguos)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Ao usar amostragem, estatística ou não, a amostra deve ser projetada e selecionada para proporcionar evidência de auditoria suficiente e apropriada."
               },
               {
                 "type": "transcript",
@@ -21099,12 +21815,34 @@
             "title": "Métodos de seleção de amostras",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-24-1.webp",
-                "alt": "Métodos de seleção — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_d087ec932d3481918d5cf2c4736a3f33",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Métodos de seleção da amostra"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Seleção aleatória: por geradores de números aleatórios, como tabelas de números aleatórios."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Seleção sistemática: a quantidade de unidades de amostragem da população é dividida pelo tamanho da amostra, dando um intervalo de amostragem."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Amostragem de unidade monetária: seleção com base em valores; tamanho, seleção e avaliação da amostra resultam em conclusão em valores monetários."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Seleção ao acaso: o auditor seleciona a amostra sem seguir técnica estruturada."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Seleção de bloco: seleção de um ou mais blocos de itens contíguos da população."
               },
               {
                 "type": "transcript",
@@ -21147,12 +21885,24 @@
             "title": "Seleção de itens e amostragem · classificação",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-50-1.webp",
-                "alt": "Tipos de auditoria — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_50e7dbd92bb88191b82e374dc883de0a",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Técnicas de amostragem em auditoria (IPAC 2010; NBC TA 530)"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Métodos de seleção: seleção de todos os itens (censo), indicada para poucos itens de alto valor, quando outros meios podem ser insuficientes; cabível TAAC (técnicas de auditoria assistidas por computador). Seleção de itens específicos: útil para verificar contas suspeitas."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Amostragem não estatística (seleção por julgamento): ao acaso (sem técnica estruturada) e de bloco (blocos contíguos)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Amostragem estatística (probabilidade conhecida e diferente de zero): aleatória (geradores de números aleatórios); sistemática (ex.: de 10 em 10 unidades); de unidade monetária (ex.: considera R$ 1,00 como uma unidade amostral)."
               },
               {
                 "type": "transcript",
@@ -21261,12 +22011,24 @@
             "title": "Objetivos gerais e tipos de opinião",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-28-1.webp",
-                "alt": "Opinião do auditor e objetivos gerais — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_4bca1daba8ec81919d856fb0b3d80e0a",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Objetivos gerais do auditor e o que não são objetivos dele"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Objetivos gerais do auditor: obter segurança razoável de que as demonstrações contábeis como um todo estão livres de distorção relevante, causada ou não por fraude ou erro; expressar opinião sobre se as demonstrações foram elaboradas, em todos os aspectos relevantes, de acordo com a estrutura de relatório financeiro aplicável; apresentar relatório sobre as demonstrações e comunicar-se conforme as NBC TAs."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Não são objetivos do auditor: assegurar a viabilidade futura da entidade; atestar a eficiência e eficácia dos negócios (ambos não são objetivos do auditor); elaborar demonstrações contábeis, detectar e prevenir erros e fraudes (objetivos da administração); auxiliar a administração no cumprimento de seus objetivos (objetivo do auditor interno)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Tipos de opinião do auditor (NBC TAs 700 e 705): não modificada (sem ressalvas); modificada, que pode ser com ressalvas, adversa ou abstenção de opinião."
               },
               {
                 "type": "transcript",
@@ -21386,12 +22148,29 @@
             "title": "Conciliação bancária · cheque em trânsito",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-08-1.webp",
-                "alt": "Conciliação bancária — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_f5748df45be481918b1ef419c3d1a621",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Conciliação bancária"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Cheque em trânsito: emitido pela empresa, mas ainda não compensado pelo banco."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "No extrato bancário, o cheque ainda não saiu; na contabilidade (razão), o cheque já foi baixado do caixa."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Incluir no saldo do extrato bancário: saldo inflacionado (maior que o real). Excluir do saldo contábil: saldo real, ajustado por partidas ainda não conciliadas."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Resultado: saldo ajustado do extrato."
               },
               {
                 "type": "transcript",
@@ -21527,12 +22306,24 @@
             "title": "Eventos subsequentes e datas relevantes",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-53-1.webp",
-                "alt": "transações subsequentes — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_59075ac0b8048191929d543da357ae5b",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Eventos subsequentes"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Datas relevantes: data das demonstrações contábeis; data da emissão da opinião do auditor; data da publicação das demonstrações."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Item 6 da norma: o auditor deve executar procedimentos para obter evidência apropriada e suficiente de que todos os eventos ocorridos entre a data das demonstrações e a data do relatório do auditor que precisam ser ajustados ou divulgados foram identificados. Não se espera que execute procedimentos adicionais para assuntos já satisfatoriamente concluídos pelos procedimentos anteriores."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Linha do tempo de exemplo: 31/12 (data das demonstrações); 27/fev (aprovação pela administração); 9/mar (relatório do auditor); 22/mar (divulgação). Regra: deve até o relatório; exceção 1 e exceção 2 podem ir até a divulgação."
               },
               {
                 "type": "transcript",
@@ -21668,12 +22459,19 @@
                 "url": "https://sped.rfb.gov.br/item/show/1573"
               },
               {
-                "type": "image",
-                "src": "assets/audit-original-18-1.webp",
-                "alt": "Informações NF — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_b69a5419f12c819193669093c7695d50",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Registro da escrituração digital (SPED) e documentação XML da NF"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Blocos do arquivo: registro 0000 (abertura); bloco 0 (identificação e referências); blocos B, C, D, E, G, H e K (informações fiscais); bloco 1 (outras informações); bloco 9 (controle e encerramento); registro 9999 (encerramento do arquivo)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Documentação técnica da NF (XML): padrão XML 1.0 W3C; codificação UTF-8; todo XML deve iniciar com a declaração <?xml version=\"1.0\" encoding=\"UTF-8\"?>."
               },
               {
                 "type": "transcript",
@@ -21722,12 +22520,59 @@
             "title": "NF-e · mapa da estrutura XML",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-41-1.webp",
-                "alt": "Resumo NF — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_259d414d643481918162006a7996cf66",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: NF-e (XML, modelo 55): estrutura em blocos A a W"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Bloco 1 (abertura, A: infNFe): estrutura base da NF-e e assinatura digital."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Bloco 2 (identificações principais): B (identificação da NF-e, IDE), C (emitente, EMIT), D (fisco emissor, AVULSA), E (destinatário, DEST)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Bloco 3 (logística): F (local de retirada, RETIRADA), G (local de entrega, ENTREGA)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Bloco 4 (produtos): H (detalhamento de produtos e serviços, DET) e I (produtos e serviços, PROD). Regra: 1 <PROD> para cada <DET>; de 1 a 990 itens."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Bloco 5 (tributação): M (impostos), N (ICMS), U (ISSQN); tributos incidentes."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Bloco final: W (valor total da NF-e, TOTAL)."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Substitui modelos 1/1A e 4 (se tiver inscrição estadual); IPI ou ICMS. Chave de acesso no formato AAAA-MM-DD (vogal vogal). Assinatura depois da falida."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Emissão: regra: emissão por software próprio ou adquirido pelo contribuinte; NFA-e (avulsa eletrônica, modelo 55) é o sistema da administração tributária, com assinatura digital."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Credenciamento: voluntário (contribuinte pede) ou de ofício (a administração faz). Vedado emitir papel (1/1A ou 4) após credenciado, salvo legislação estadual."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Ambiente de autorização: simulação ou produção."
               },
               {
                 "type": "transcript",
@@ -21829,12 +22674,54 @@
             "title": "Procedimentos periciais contábeis",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-34-1.webp",
-                "alt": "Perícias contábeis — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_0879ab3686548191ba753ae07ccc6806",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Procedimentos periciais contábeis"
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Exame: análise de livros, registros de transações e documentos."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Vistoria: diligência que objetiva verificar e constatar situação, coisa ou fato, de forma circunstancial."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Indagação: busca de informações mediante entrevista com conhecedores do objeto ou de fato relacionado à perícia."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Investigação: pesquisa que busca trazer ao laudo o que está oculto por quaisquer circunstâncias."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Arbitramento: determinação de valores, quantidades ou solução de controvérsia por critério técnico-científico."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Mensuração: ato de qualificar e quantificar fisicamente coisas, bens, direitos e obrigações."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Avaliação: ato de estabelecer o valor de coisas, bens, direitos, obrigações, despesas e receitas."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Certificação: ato de atestar a informação obtida na formação da prova pericial."
+              },
+              {
+                "type": "paragraph",
+                "style": "NORMAL_TEXT",
+                "text": "Testabilidade: verificação dos elementos probantes juntados aos autos e confronto com as premissas estabelecidas."
               },
               {
                 "type": "transcript",
@@ -22014,12 +22901,50 @@
             "title": "Conceitos de estimativas contábeis",
             "blocks": [
               {
-                "type": "image",
-                "src": "assets/audit-original-14-1.webp",
-                "alt": "Estimativas contábeis — página 1",
-                "caption": "Quadro original · clique para ampliar",
-                "sourceId": "libfile_26bfabe5cb7c8191af52da9554a546f9",
-                "sourcePage": 1
+                "type": "paragraph",
+                "style": "HEADING_2",
+                "text": "Quadro original: Estimativa contábil e intervalo do auditor"
+              },
+              {
+                "type": "table",
+                "rows": [
+                  [
+                    "#",
+                    "Conceito",
+                    "Definição simples",
+                    "Exemplo prático"
+                  ],
+                  [
+                    "1",
+                    "Estimativa contábil",
+                    "Valor calculado para algo que não se sabe exatamente, mas precisa ser registrado",
+                    "A empresa calcula que vai perder R$ 100 mil com inadimplência"
+                  ],
+                  [
+                    "2",
+                    "Incerteza da estimativa",
+                    "Dificuldade natural de saber com precisão o valor de algo incerto",
+                    "Não é possível saber com exatidão se os R$ 100 mil de inadimplência vão se confirmar; pode ser mais ou menos"
+                  ],
+                  [
+                    "3",
+                    "Estimativa pontual da administração",
+                    "Valor específico escolhido pela empresa para colocar no balanço",
+                    "A empresa escolheu R$ 100 mil como valor para registrar"
+                  ],
+                  [
+                    "4",
+                    "Intervalo do auditor",
+                    "Faixa de valores aceitáveis calculada pelo auditor para avaliar o valor",
+                    "O auditor acha que o valor justo da perda varia entre R$ 80 mil e R$ 120 mil"
+                  ],
+                  [
+                    "5",
+                    "Tendenciosidade da administração",
+                    "Quando a empresa puxa a estimativa para um lado que a favorece, sem base sólida",
+                    "A empresa registra só R$ 50 mil de perda para parecer que a situação é melhor do que é"
+                  ]
+                ]
               },
               {
                 "type": "transcript",
