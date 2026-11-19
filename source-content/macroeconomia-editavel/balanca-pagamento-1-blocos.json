@@ -1,0 +1,31 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Balança de pagamentos — contas e estrutura",
+  "origem": "Imagem macroeconomia-balanca-de-pagamento-1.webp (anotação 'Balança de pagamento', parte 1)",
+  "tipo": "conversão de imagem",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "paragraph",
+      "text": "A balança de pagamentos compreende a conta de bens e serviços (balança comercial e balança de serviços), a conta de renda primária, a conta de renda secundária, a conta capital, a conta financeira e os erros e omissões."
+    },
+    {
+      "type": "table",
+      "rows": [
+        ["Conta", "Itens"],
+        ["1. Balança comercial (exportações e importações)", "Exportação; Importação"],
+        ["2. Balança de serviços (receitas e despesas)", "Manufatura sobre insumos físicos de terceiros; Manutenção e reparo; Transportes; Viagens; Construção; Seguros; Financeiros; Outros"],
+        ["3. Renda primária (receitas e despesas)", "Salários e ordenados; Renda de investimentos; Demais rendas primárias"],
+        ["4. Renda secundária (receitas e despesas)", "Transferências correntes"],
+        ["Saldo do balanço de pagamentos em transações correntes (1 + 2 + 3 + 4)", ""],
+        ["5. Conta capital (receitas e despesas)", "Ativos não financeiros não produzidos; Transferências de capital"],
+        ["6. Conta financeira (entrada líquida (-) ou saída líquida (+))", "Investimento direto; Investimento em carteira; Derivativos; Outros investimentos; Ativos de reserva"],
+        ["7. Erros e omissões", ""]
+      ]
+    }
+  ],
+  "pendencias": [
+    "A imagem original usa cores para agrupar as contas; a tabela acima preserva a ordem, mas não as cores.",
+    "Conferir a redação contra a anotação original antes de aprovar."
+  ]
+}
