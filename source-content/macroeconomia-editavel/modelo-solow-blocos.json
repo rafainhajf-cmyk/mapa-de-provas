@@ -1,0 +1,32 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Modelo de Solow — efeito de um aumento na taxa de poupança",
+  "origem": "Imagem macroeconomia-modelo-de-solow-1.webp (anotação 'Modelo de Solow', 05/09/2026)",
+  "tipo": "incremental",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "paragraph",
+      "text": "No modelo de Solow, um aumento na taxa de poupança:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        ["Efeito", "Horizonte"],
+        ["Aumenta o nível de capital por trabalhador", "Longo prazo"],
+        ["Aumenta o nível de renda por trabalhador", "Longo prazo"],
+        ["Não altera a taxa de crescimento da economia", "No estado estacionário"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinha",
+      "text": "A taxa de poupança aumenta o nível de capital e de renda por trabalhador, mas não altera a taxa de crescimento no estado estacionário."
+    }
+  ],
+  "pendencias": [
+    "Conferir a redação contra a anotação original e contra a fonte antes de aprovar.",
+    "Verificar se o conteúdo já existe no capítulo de crescimento econômico do site antes de publicar, para evitar duplicação (regra 4)."
+  ]
+}

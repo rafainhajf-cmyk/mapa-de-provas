@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" font-family="sans-serif" font-size="12">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#333"/>
+    </marker>
+  </defs>
+
+  <!-- Painel 1: Armadilha da liquidez (LM horizontal) -->
+  <g id="painel-1">
+    <text x="150" y="20" text-anchor="middle" font-weight="bold">1. Armadilha da liquidez (LM horizontal)</text>
+    <line x1="40" y1="260" x2="40" y2="40" stroke="#333" marker-end="url(#arrow)"/>
+    <line x1="40" y1="260" x2="280" y2="260" stroke="#333" marker-end="url(#arrow)"/>
+    <text x="10" y="45">i</text>
+    <text x="250" y="278">Y (renda)</text>
+    <line x1="40" y1="160" x2="280" y2="160" stroke="#d12f2f" stroke-width="2"/>
+    <text x="262" y="154" fill="#d12f2f" font-weight="bold">LM</text>
+    <line x1="70" y1="89" x2="250" y2="249" stroke="#1f4fd1" stroke-width="2"/>
+    <text x="236" y="236" fill="#1f4fd1" font-weight="bold">IS</text>
+    <line x1="150" y1="160" x2="150" y2="260" stroke="#666" stroke-dasharray="4 3"/>
+    <line x1="40" y1="160" x2="150" y2="160" stroke="#666" stroke-dasharray="4 3"/>
+    <circle cx="150" cy="160" r="3.5" fill="#000"/>
+    <text x="22" y="164">i0</text>
+    <text x="144" y="276">Y0</text>
+  </g>
+
+  <!-- Painel 2: IS vertical -->
+  <g id="painel-2" transform="translate(300,0)">
+    <text x="150" y="20" text-anchor="middle" font-weight="bold">2. IS vertical (modelo keynesiano simples)</text>
+    <line x1="40" y1="260" x2="40" y2="40" stroke="#333" marker-end="url(#arrow)"/>
+    <line x1="40" y1="260" x2="280" y2="260" stroke="#333" marker-end="url(#arrow)"/>
+    <text x="10" y="45">i</text>
+    <text x="250" y="278">Y (renda)</text>
+    <line x1="150" y1="70" x2="150" y2="250" stroke="#1f4fd1" stroke-width="2"/>
+    <text x="158" y="78" fill="#1f4fd1" font-weight="bold">IS</text>
+    <line x1="70" y1="231" x2="250" y2="71" stroke="#d12f2f" stroke-width="2"/>
+    <text x="256" y="78" fill="#d12f2f" font-weight="bold">LM</text>
+    <line x1="150" y1="160" x2="150" y2="260" stroke="#666" stroke-dasharray="4 3"/>
+    <line x1="40" y1="160" x2="150" y2="160" stroke="#666" stroke-dasharray="4 3"/>
+    <circle cx="150" cy="160" r="3.5" fill="#000"/>
+    <text x="22" y="164">i0</text>
+    <text x="144" y="276">Y0</text>
+  </g>
+
+  <!-- Painel 3: Caso clássico (LM vertical) -->
+  <g id="painel-3" transform="translate(600,0)">
+    <text x="150" y="20" text-anchor="middle" font-weight="bold">3. Caso clássico (LM vertical)</text>
+    <line x1="40" y1="260" x2="40" y2="40" stroke="#333" marker-end="url(#arrow)"/>
+    <line x1="40" y1="260" x2="280" y2="260" stroke="#333" marker-end="url(#arrow)"/>
+    <text x="10" y="45">i</text>
+    <text x="250" y="278">Y (renda)</text>
+    <line x1="150" y1="70" x2="150" y2="250" stroke="#d12f2f" stroke-width="2"/>
+    <text x="158" y="78" fill="#d12f2f" font-weight="bold">LM</text>
+    <line x1="70" y1="89" x2="250" y2="249" stroke="#1f4fd1" stroke-width="2"/>
+    <text x="236" y="236" fill="#1f4fd1" font-weight="bold">IS</text>
+    <line x1="150" y1="160" x2="150" y2="260" stroke="#666" stroke-dasharray="4 3"/>
+    <line x1="40" y1="160" x2="150" y2="160" stroke="#666" stroke-dasharray="4 3"/>
+    <circle cx="150" cy="160" r="3.5" fill="#000"/>
+    <text x="22" y="164">i0</text>
+    <text x="144" y="276">Y0</text>
+  </g>
+</svg>

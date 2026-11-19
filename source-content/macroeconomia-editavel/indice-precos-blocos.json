@@ -1,0 +1,32 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Índices de preços: IPCA, INPC, IGP-M e IPA",
+  "origem": "Imagem macroeconomia-indice-de-precos-1.webp (anotação 'Índice de preços', 27/08/2026)",
+  "tipo": "novo assunto",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        ["Índice", "Nome por extenso (conforme a fonte)", "Calculado pelo"],
+        ["IPCA", "Índice Nacional de Preços ao Consumidor Amplo", "IBGE"],
+        ["INPC", "Índice Nacional de Preços ao Consumidor", "IBGE"],
+        ["IGP-M", "Índice Geral de Preços do Mercado", "FGV"],
+        ["IPA", "Índice de Preços ao Produtor Amplo", "FGV"]
+      ]
+    },
+    {
+      "type": "flowchart",
+      "title": "Meta de inflação",
+      "steps": [
+        {"label": "Conselho Monetário Nacional", "text": "Define a meta de inflação."},
+        {"label": "Banco Central", "text": "Adota as medidas necessárias para alcançar a meta. O COPOM é um dos órgãos do BCB."},
+        {"label": "BCB", "text": "Utiliza o IPCA no sistema de metas de inflação."}
+      ]
+    }
+  ],
+  "pendencias": [
+    "A anotação original escreve 'Íncide' e 'Índice' com grafia diferente em um dos nomes; a forma correta foi usada aqui.",
+    "Conferir a redação contra a anotação original antes de aprovar."
+  ]
+}

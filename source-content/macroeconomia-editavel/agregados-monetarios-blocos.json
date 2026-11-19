@@ -1,0 +1,45 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Agregados monetários (M1, M2, M3, M4)",
+  "origem": "Imagem macroeconomia-agregados-monetarios-1.webp (anotação 'Agregados monetários')",
+  "tipo": "conversão de imagem",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        ["Agregado", "Conceito", "Característica", "Emissor"],
+        ["M1 (meio de pagamento restrito)", "PMPP + DV (depósitos à vista)", "Liquidez absoluta. Não rende juros. Sofre impacto da inflação.", ""],
+        ["M2", "M1 + Depósitos Especiais Remunerados + Poupança + Títulos emitidos pelas instituições depositárias", "Rende juros. Concentra os ativos financeiros emitidos por bancos comerciais.", "Instituições Depositárias"],
+        ["M3", "M2 + Cotas de Fundos de Renda Fixa + Operações Compromissadas e Registradas no SELIC", "Rende juros. Concentra os ativos emitidos em parceria com as instituições depositárias, mas sem se confundir com elas.", "Particulares (privado)"],
+        ["M4 (poupança financeira)", "M3 + Títulos Públicos de Alta Liquidez", "Rende juros. Concentra os títulos emitidos pelo Poder Público.", "Governo"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinha",
+      "text": "M1 é o único agregado que não rende juros."
+    },
+    {
+      "type": "paragraph",
+      "text": "M1: dinheiro na mão. O que você usa agora: notas na carteira e saldo na conta-corrente. Tem liquidez total e imediata."
+    },
+    {
+      "type": "paragraph",
+      "text": "M2: dinheiro guardado. Inclui tudo do M1 mais o dinheiro na poupança. Rende juros, mas precisa de um passo para ser usado."
+    },
+    {
+      "type": "paragraph",
+      "text": "M3: dinheiro investido. Soma o M2 com aplicações em fundos de renda fixa. É dinheiro que está trabalhando para você."
+    },
+    {
+      "type": "paragraph",
+      "text": "M4: o cofre distante. O M3 somado aos Títulos Públicos. É a forma menos líquida de dinheiro, pensada para o longo prazo."
+    }
+  ],
+  "pendencias": [
+    "Os textos M1 a M4 vêm de ilustrações de apoio; a imagem original também tem 4 ilustrações sem texto próprio, que não foram convertidas.",
+    "Conferir a redação contra a anotação original antes de aprovar."
+  ]
+}

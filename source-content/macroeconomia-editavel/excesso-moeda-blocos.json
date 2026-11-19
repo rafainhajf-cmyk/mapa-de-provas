@@ -1,0 +1,27 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Excesso de oferta e de demanda: mercado de moeda (LM) e de bens (IS)",
+  "origem": "Imagem macroeconomia-excesso-de-moeda-1.webp (anotação 'Excesso de moeda', 27/08/2026)",
+  "tipo": "gráfico",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "paragraph",
+      "text": "Os dois gráficos mostram, em cada curva (LM e IS), a região de excesso de oferta e a de excesso de demanda. O gráfico correspondente está em excesso-moeda-graficos.svg."
+    },
+    {
+      "type": "table",
+      "rows": [
+        ["Curva", "Região", "Situação"],
+        ["LM (mercado de moeda)", "Acima / à esquerda da LM", "Excesso de oferta de moeda"],
+        ["LM (mercado de moeda)", "Abaixo / à direita da LM", "Excesso de demanda de moeda"],
+        ["IS (mercado de bens)", "Acima / à direita da IS", "Excesso de oferta de bens"],
+        ["IS (mercado de bens)", "Abaixo / à esquerda da IS", "Excesso de demanda de bens"]
+      ]
+    }
+  ],
+  "pendencias": [
+    "A posição 'acima/à esquerda' e 'abaixo/à direita' foi deduzida da posição dos rótulos no gráfico original; conferir na anotação ou na fonte antes de aprovar.",
+    "O gráfico foi recriado em SVG a partir da imagem; conferir as direções das curvas."
+  ]
+}

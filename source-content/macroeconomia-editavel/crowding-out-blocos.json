@@ -1,0 +1,17 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Efeito crowding-out",
+  "origem": "Imagem macroeconomia-crowding-out-1.webp (anotação 'crowding out', 30/09/2026)",
+  "tipo": "incremental",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "paragraph",
+      "text": "O efeito denominado crowding-out é o efeito decorrente do aumento da taxa de juros, dado um aumento dos gastos públicos, em que há redução dos gastos privados, especialmente dos investimentos em expansão de capacidade produtiva. Isso diminui o impacto da ação do governo sobre a demanda agregada."
+    }
+  ],
+  "pendencias": [
+    "A anotação original repete o mesmo parágrafo duas vezes; a versão aqui aparece uma única vez.",
+    "Conferir a definição contra a fonte doutrinária antes de aprovar."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Contas nacionais — agregados do PIB (produto)",
+  "origem": "Imagem macroeconomia-contas-pib-1.webp (anotação 'Contas PIB', @economia_esquematizada, p. 14)",
+  "tipo": "fluxograma",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "flowchart",
+      "title": "Estrutura do produto: nacional e interno, bruto e líquido",
+      "steps": [
+        {"label": "Produto (renda)", "text": "Ramifica em produto nacional e produto interno."},
+        {"label": "Produto nacional", "text": "Acrescenta + RLEE (sigla da fonte, sem expansão na imagem) para chegar ao nacional a partir do interno."},
+        {"label": "Bruto e líquido", "text": "Em cada um (nacional e interno), o bruto menos a depreciação dá o líquido."},
+        {"label": "Custo de fatores e preço de mercado", "text": "Cada agregado (bruto ou líquido) pode ser medido a custo de fatores ou a preço de mercado. A ligação entre os dois é feita por + II − subsídios, indicada na figura (a sigla II não é expandida na imagem)."}
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        ["#", "Terminologia (conforme a fonte)"],
+        ["1", "Produto Nacional Bruto a Custo de Fatores"],
+        ["2", "Produto Nacional Bruto a Preço de Mercado"],
+        ["3", "Produto Nacional Líquido a Custo de Fatores"],
+        ["4", "Produto Nacional Líquido a Preço de Mercado"],
+        ["5", "Produto Interno Bruto a Custo de Fatores"],
+        ["6", "Produto Interno Bruto a Preço de Mercado"],
+        ["7", "Produto Interno Líquido a Custo de Fatores"],
+        ["8", "Produto Interno Líquido a Preço de Mercado"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "PIB a preço de mercado (item 6)",
+      "text": "O PIB é considerado a melhor medida da economia de um país. Ele é o valor monetário de todos os produtos finais produzidos dentro da fronteira de uma nação. Neste caso, o PIB é o PIBpm (produto interno bruto a preço de mercado)."
+    }
+  ],
+  "pendencias": [
+    "Conferir na fonte oficial de contas nacionais o significado de RLEE e de II, que a imagem não expande, antes de aprovar.",
+    "A figura diz 'Dessa estrutura tiramos 8 terminologias'; a numeração 1 a 8 foi preservada."
+  ]
+}

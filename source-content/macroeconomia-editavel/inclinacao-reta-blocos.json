@@ -1,0 +1,25 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Inclinação das curvas IS e LM e sensibilidade",
+  "origem": "Imagem macroeconomia-inclinacao-reta-1.webp (anotação 'Inclinação reta', 30/09/2026)",
+  "tipo": "comparativo",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "paragraph",
+      "text": "A inclinação das curvas IS e LM indica a sensibilidade, respectivamente, do investimento e da demanda por moeda às variações na taxa de juros."
+    },
+    {
+      "type": "table",
+      "rows": [
+        ["Situação", "Curva IS", "Curva LM", "Sensibilidade"],
+        ["IS e LM mais inclinadas", "Mais inclinada", "Mais inclinada", "Menos sensíveis"],
+        ["IS e LM menos inclinadas", "Menos inclinada", "Menos inclinada", "Mais sensíveis"]
+      ]
+    }
+  ],
+  "pendencias": [
+    "Os dois pares de gráficos (IS e LM mais inclinadas; menos inclinadas) não foram convertidos em SVG nesta leitura; a tabela acima resume o que cada um mostra.",
+    "Conferir a redação e a interpretação de sensibilidade contra a anotação original antes de aprovar."
+  ]
+}

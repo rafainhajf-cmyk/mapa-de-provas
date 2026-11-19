@@ -1,0 +1,23 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "IS-LM em situações específicas",
+  "origem": "Imagem macroeconomia-is-lm-em-situacoes-especificas-1.webp (anotação de 27/08/2026)",
+  "tipo": "comparativo",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        ["Modelo", "Formato da curva", "Demanda por moeda / investimento", "Política monetária", "Política fiscal"],
+        ["Clássico", "LM vertical", "Demanda por moeda perfeitamente inelástica", "Eficiente", "Sem efeito"],
+        ["Keynesiano simplificado", "IS vertical", "Investimento perfeitamente inelástico à taxa de juros", "Não produz efeito", "Eficiente"],
+        ["Armadilha da liquidez", "LM horizontal", "Demanda por moeda totalmente elástica à taxa de juros", "Não produz efeito", "Eficiente"]
+      ]
+    }
+  ],
+  "pendencias": [
+    "A anotação original não traz as justificativas de cada modelo; a tabela resume apenas o que está escrito.",
+    "Conferir a redação contra a anotação original antes de aprovar.",
+    "A tabela está coerente com a versão de situações especiais já convertida (is-lm-blocos.json), mas a comparação deve ser conferida para não duplicar conteúdo já publicado."
+  ]
+}

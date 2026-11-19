@@ -1,0 +1,34 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Balancete do Bacen — ativo e passivo",
+  "origem": "Imagem macroeconomia-balancete-bacen-1.webp (anotação 'Balancete BACEN')",
+  "tipo": "conversão de imagem",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        ["ATIVO", "PASSIVO"],
+        ["Reservas internacionais", "Passivo monetário (base monetária)"],
+        ["Empréstimos ao Tesouro Nacional", "Papel moeda emitido (PME)"],
+        ["Redescontos e outros empréstimos aos bancos comerciais", "Depósitos dos bancos comerciais"],
+        ["Títulos públicos federais", "Voluntários"],
+        ["Empréstimos ao setor privado", "Compulsórios"],
+        ["Empréstimos aos governos estaduais, municipais, autarquias e outras entidades públicas", "Passivo não monetário"],
+        ["Imobilizado", "Empréstimos externos"],
+        ["Outras aplicações", "Demais exigibilidades"],
+        ["", "Depósitos do Tesouro Nacional"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Leitura da tabela",
+      "text": "Na imagem original, as colunas de ativo e passivo são independentes; o alinhamento por linha reflete apenas a disposição da tabela, e não uma relação entre o item do ativo e o do passivo da mesma linha."
+    }
+  ],
+  "pendencias": [
+    "A imagem não diz quais itens do passivo são subitens de 'Depósitos dos bancos comerciais' (voluntários e compulsórios estão listados como bullets, mas não há hierarquia explícita). Conferir na anotação original.",
+    "Conferir a redação contra a anotação original antes de aprovar."
+  ]
+}

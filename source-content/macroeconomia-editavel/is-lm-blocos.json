@@ -1,0 +1,104 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Modelo IS-LM — três situações especiais",
+  "origem": "Imagem macroeconomia-is-lm-1.webp (anotação 'Is lm')",
+  "tipo": "piloto de conversão de imagem",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "paragraph",
+      "text": "O modelo IS-LM comparado em três situações especiais, mostrando quando a política fiscal e a política monetária são eficazes ou ineficazes. O gráfico correspondente está em is-lm-graficos.svg."
+    },
+    {
+      "type": "table",
+      "rows": [
+        ["Situação", "Formato da curva", "Política fiscal", "Política monetária", "Motivo principal"],
+        ["Armadilha da liquidez", "LM horizontal", "Eficaz", "Ineficaz", "Juros não caem mais"],
+        ["IS vertical", "IS vertical", "Eficaz", "Ineficaz", "Investimento não depende da taxa de juros"],
+        ["Caso clássico", "LM vertical", "Ineficaz", "Eficaz", "Demanda por moeda não depende da taxa de juros"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Armadilha da liquidez (LM horizontal)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A LM é horizontal (juros muito baixos e elevada preferência pela liquidez)."
+    },
+    {
+      "type": "paragraph",
+      "text": "A demanda por moeda é extremamente sensível à taxa de juros."
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Política monetária ineficaz",
+      "text": "Aumentar a oferta de moeda não reduz mais os juros."
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Política fiscal eficaz",
+      "text": "Aumenta a renda sem elevação da taxa de juros."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. IS vertical (modelo keynesiano simples)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A IS é vertical (o investimento é independente da taxa de juros)."
+    },
+    {
+      "type": "paragraph",
+      "text": "A variação da taxa de juros não altera a demanda agregada (renda é fixa no curto prazo)."
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Política monetária ineficaz",
+      "text": "Alterações na oferta de moeda só mudam a taxa de juros, não a renda."
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Política fiscal eficaz",
+      "text": "Desloca a IS para a direita, aumentando a renda."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Caso clássico (LM vertical)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A LM é vertical (a demanda por moeda é independente da taxa de juros)."
+    },
+    {
+      "type": "paragraph",
+      "text": "A quantidade de moeda determina a taxa de juros."
+    },
+    {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Política fiscal ineficaz",
+      "text": "Desloca a IS para a direita, mas apenas aumenta a taxa de juros, sem alterar a renda (crowding out completo)."
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Política monetária eficaz",
+      "text": "Desloca a LM para a direita, reduzindo os juros e aumentando a renda."
+    },
+    {
+      "type": "reference",
+      "text": "Anotação própria do usuário, 'Is lm' (imagem macroeconomia-is-lm-1.webp)",
+      "url": ""
+    }
+  ],
+  "pendencias": [
+    "Conferir a redação contra a anotação original antes de marcar como aprovado.",
+    "O gráfico foi recriado em SVG a partir da imagem; conferir se as posições de IS e LM correspondem à anotação.",
+    "Aguarda decisão sobre como a página consome blocos com gráfico (o site não foi alterado)."
+  ]
+}

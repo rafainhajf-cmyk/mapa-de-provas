@@ -1,0 +1,70 @@
+{
+  "materia": "Macroeconomia",
+  "topico": "Política fiscal e política monetária: instrumentos e efeitos",
+  "origem": "Imagem macroeconomia-fiscal-e-monetaria-1.webp (anotação 'Fiscal e monetária', 05/09/2026, parte 1)",
+  "tipo": "comparativo",
+  "status": "draft",
+  "blocos": [
+    {
+      "type": "table",
+      "rows": [
+        ["Política", "Atua sobre", "Tipos"],
+        ["Política fiscal", "Gastos e tributos", "Expansiva ou contracionista"],
+        ["Política monetária", "Juros e oferta de dinheiro", "Expansionista ou restritiva"]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        ["Política fiscal mexe em", "Política cambial / monetária mexe em"],
+        ["Gastos públicos", "Taxa de câmbio"],
+        ["Tributos", "Oferta de moeda"],
+        ["Orçamento", "Juros"]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        ["Política fiscal — mecanismo", "Efeito"],
+        ["Aumento de gastos públicos (G)", "Aumenta a demanda agregada e o PIB"],
+        ["Redução de gastos públicos (G)", "Reduz a demanda agregada e o PIB"],
+        ["Redução de tributos (T)", "Aumenta a renda disponível, consumo e investimento"],
+        ["Aumento de tributos (T)", "Reduz a renda disponível, consumo e investimento"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Resumo fiscal",
+      "text": "Medidas expansionistas (↑G ou ↓T) estimulam a economia; medidas contracionistas (↓G ou ↑T) reduzem o aquecimento da economia."
+    },
+    {
+      "type": "table",
+      "rows": [
+        ["Política monetária — mecanismo", "Efeito"],
+        ["Redução da taxa de juros (Selic)", "Crédito mais barato; aumenta consumo e investimento"],
+        ["Aumento da taxa de juros (Selic)", "Crédito mais caro; reduz consumo e investimento"],
+        ["Compra de títulos públicos pelo BC (mercado aberto)", "Aumenta a liquidez (expansionista)"],
+        ["Venda de títulos públicos pelo BC (mercado aberto)", "Reduz a liquidez (contracionista)"],
+        ["Redução da taxa de redesconto", "BC empresta mais barato aos bancos; aumenta a liquidez"],
+        ["Aumento da taxa de redesconto", "BC empresta mais caro aos bancos; reduz a liquidez"],
+        ["Redução do compulsório", "Bancos devem manter menos reservas; mais crédito na economia"],
+        ["Aumento do compulsório", "Bancos devem manter mais reservas; menos crédito na economia"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Resumo monetário",
+      "text": "Medidas expansionistas aumentam a oferta de moeda e reduzem juros; medidas contracionistas fazem o oposto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Política fiscal: é conduzida pelo governo por meio do orçamento público, alterando gastos e tributos para influenciar a demanda agregada, o nível de atividade e a inflação. Política monetária: é conduzida pelo Banco Central, com o objetivo de controlar a quantidade de moeda na economia e a taxa de juros, influenciando crédito, consumo, investimento e inflação."
+    }
+  ],
+  "pendencias": [
+    "A imagem traz as definições de política fiscal e monetária em dois lugares diferentes; a versão aqui reúne os dois, sem mudança de sentido.",
+    "Conferir a redação e as tabelas contra a anotação original antes de aprovar."
+  ]
+}
