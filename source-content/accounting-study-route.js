@@ -229,6 +229,7 @@ export const studyRoute = [
     "complementId": "2792286",
     "complementKind": "teoria",
     "sourceIds": [
+      "1936754",
       "3975984",
       "3847069",
       "2873873",
@@ -250,6 +251,7 @@ export const studyRoute = [
     "complementId": null,
     "complementKind": null,
     "sourceIds": [
+      "3975996",
       "3114186",
       "2823704",
       "3567649",
@@ -655,6 +657,7 @@ export const studyRoute = [
     "complementId": "3116903",
     "complementKind": "teoria",
     "sourceIds": [
+      "3539089",
       "3847045",
       "3975991",
       "3114242",

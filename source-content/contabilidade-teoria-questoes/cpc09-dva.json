@@ -283,7 +283,7 @@
       "type": "callout",
       "kind": "warning",
       "title": "Divergências registradas",
-      "text": "3038937: o gabarito indica Certo, mas o item chama a equivalência de valor adicionado bruto, o que contraria o CPC 09. 3539089: pendente com ressalva — pelo cálculo completo, 14.280.000, sem alternativa."
+      "text": "3038937: o gabarito indica Certo, mas o item chama a equivalência de valor adicionado bruto, o que contraria o CPC 09. 3539089: gabarito oficial E (14.480.000), conferido no TEC; o gabarito trata serviços de terceiros como remuneração de capital de terceiros. Pelo CPC 09 seriam insumos, e o valor seria 14.280.000."
     }
   ],
   "pendencias": [

@@ -346,12 +346,12 @@
       "type": "callout",
       "kind": "warning",
       "title": "Dividendos apenas propostos",
-      "text": "Proposta de dividendos ainda não declarada não reduz o investimento; dividendos declarados ou obrigatórios reduzem. Em 3975996 a resposta D (32 mi e 4 mi) só fecha na primeira hipótese; a questão está marcada como pendente com ressalva. (R11)"
+      "text": "Proposta de dividendos ainda não declarada não reduz o investimento; dividendos declarados ou obrigatórios reduzem. Em 3975996 o gabarito oficial é D (32 mi e 4 mi), conferido no TEC: os dividendos foram só propostos, então não reduzem o investimento. (R11)"
     }
   ],
   "pendencias": [
     "A regra de perda de influência significativa já está na teoria da matéria; aqui entra o exemplo numérico.",
-    "TEC 3975996 é pendente com ressalva.",
+    "TEC 3975996: gabarito oficial D, conferido no TEC em 19/11/2026.",
     "Conferir a redação antes de aprovar."
   ]
 }

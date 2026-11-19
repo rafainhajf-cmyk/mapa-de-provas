@@ -123,7 +123,7 @@
       "type": "callout",
       "kind": "warning",
       "title": "Uso futuro próprio não é propriedade para investimento",
-      "text": "Imóvel reservado para expansão da própria fábrica é imobilizado (CPC 28, item 9(c)). Em 259388 o PDF marca B, mas a resposta tecnicamente sustentada é C. Em 1936754, terreno para valorização é propriedade para investimento, embora a letra D diga imobilizado (questão pendente com ressalva)."
+      "text": "Imóvel reservado para expansão da própria fábrica é imobilizado (CPC 28, item 9(c)). Em 259388 o PDF marca B, mas a resposta tecnicamente sustentada é C. Em 1936754, terreno para valorização é propriedade para investimento, mas o gabarito oficial é D (imobilizado, R$ 100.000), conferido no TEC; o comentário do professor diz que deveria ter sido anulada."
     },
     {
       "type": "callout",
@@ -134,7 +134,7 @@
   ],
   "pendencias": [
     "Modelos custo × valor justo e divulgação do custo já estão na teoria da matéria.",
-    "TEC 1936754 é pendente com ressalva; TEC 259388 tem divergência entre o PDF e o CPC 28.",
+    "TEC 1936754: gabarito oficial D, com ressalva de classificação; TEC 259388 tem divergência entre o PDF e o CPC 28.",
     "Conferir a redação antes de aprovar."
   ]
 }

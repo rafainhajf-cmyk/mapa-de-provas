@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
-  "exportedAt": "2026-11-19T04:09:14.603Z",
+  "exportedAt": "2026-11-19T04:15:39.016Z",
   "records": [
     {
       "id": "contab-20-premio-debentures-custo-amortizado",
@@ -1002,7 +1002,7 @@
       "status": "approved",
       "updateType": "teoria-das-questoes",
       "source": "Questões TEC dos assuntos: Demonstração do Valor Adicionado",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-19",
       "blocks": [
         {
@@ -1114,7 +1114,7 @@
           "type": "callout",
           "kind": "warning",
           "title": "Divergências registradas",
-          "text": "3038937: o gabarito indica Certo, mas o item chama a equivalência de valor adicionado bruto, o que contraria o CPC 09. 3539089: pendente com ressalva — pelo cálculo completo, 14.280.000, sem alternativa."
+          "text": "3038937: o gabarito indica Certo, mas o item chama a equivalência de valor adicionado bruto, o que contraria o CPC 09. 3539089: gabarito oficial E (14.480.000), conferido no TEC; o gabarito trata serviços de terceiros como remuneração de capital de terceiros. Pelo CPC 09 seriam insumos, e o valor seria 14.280.000."
         }
       ],
       "flashcards": []
@@ -1375,7 +1375,7 @@
       "status": "approved",
       "updateType": "teoria-das-questoes",
       "source": "Questões TEC dos assuntos: Investimentos Avaliados",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-19",
       "blocks": [
         {
@@ -1512,7 +1512,7 @@
           "type": "callout",
           "kind": "warning",
           "title": "Dividendos apenas propostos",
-          "text": "Proposta de dividendos ainda não declarada não reduz o investimento; dividendos declarados ou obrigatórios reduzem. Em 3975996 a resposta D (32 mi e 4 mi) só fecha na primeira hipótese; a questão está marcada como pendente com ressalva. (R11)"
+          "text": "Proposta de dividendos ainda não declarada não reduz o investimento; dividendos declarados ou obrigatórios reduzem. Em 3975996 o gabarito oficial é D (32 mi e 4 mi), conferido no TEC: os dividendos foram só propostos, então não reduzem o investimento. (R11)"
         }
       ],
       "flashcards": []
@@ -1954,7 +1954,7 @@
       "status": "approved",
       "updateType": "teoria-das-questoes",
       "source": "Questões TEC dos assuntos: Propriedades para Investimento (CPC 28)",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-19",
       "blocks": [
         {
@@ -1994,7 +1994,7 @@
           "type": "callout",
           "kind": "warning",
           "title": "Uso futuro próprio não é propriedade para investimento",
-          "text": "Imóvel reservado para expansão da própria fábrica é imobilizado (CPC 28, item 9(c)). Em 259388 o PDF marca B, mas a resposta tecnicamente sustentada é C. Em 1936754, terreno para valorização é propriedade para investimento, embora a letra D diga imobilizado (questão pendente com ressalva)."
+          "text": "Imóvel reservado para expansão da própria fábrica é imobilizado (CPC 28, item 9(c)). Em 259388 o PDF marca B, mas a resposta tecnicamente sustentada é C. Em 1936754, terreno para valorização é propriedade para investimento, mas o gabarito oficial é D (imobilizado, R$ 100.000), conferido no TEC; o comentário do professor diz que deveria ter sido anulada."
         },
         {
           "type": "callout",
