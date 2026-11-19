@@ -4,8 +4,9 @@ Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — 
 
 ## 2026-11-18 — Claude (ignorar arquivo gerado pelo build)
 - `source-content/normativo-data.json` é gerado por `scripts/build.mjs` (via `import-normativo.mjs`) e o `vercel.json` roda `npm run build` no deploy; por isso foi adicionado ao `.gitignore` e não é mais versionado. Build local conferido.
+- Conferência das imagens WebP no site publicado: as 106 imagens distintas respondem com status 200 e `image/webp`; `macroeconomia-is-lm-1.webp` renderiza legível. Não foram abertas visualmente todas as 106, só o status e o tipo de cada uma.
 - Arquivos: `.gitignore`, `docs/REGISTRO_ALTERACOES.md`.
-- Pendências: conferir as demais imagens e a matéria de Macroeconomia.
+- Pendências: nenhuma de imagem; conferir o restante do conteúdo de Macroeconomia quando houver mudança de texto.
 
 ## 2026-11-18 — Claude (registro de decisão; alterações já estavam em produção)
 - Decisão do usuário: manter as duas mudanças de 2026-11-15 já publicadas no `main` (remoção dos 75 PDFs/PNGs duplicados da raiz em `762ae03` e conversão das 70 imagens para WebP em `e0405ae`). A entrada abaixo, de 2026-11-15, descreve a situação antes dessa decisão e não deve ser lida como pendente.
