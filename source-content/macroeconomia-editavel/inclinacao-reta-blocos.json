@@ -12,14 +12,29 @@
     {
       "type": "table",
       "rows": [
-        ["Situação", "Curva IS", "Curva LM", "Sensibilidade"],
-        ["IS e LM mais inclinadas", "Mais inclinada", "Mais inclinada", "Menos sensíveis"],
-        ["IS e LM menos inclinadas", "Menos inclinada", "Menos inclinada", "Mais sensíveis"]
+        [
+          "Situação",
+          "Curva IS",
+          "Curva LM",
+          "Sensibilidade"
+        ],
+        [
+          "IS e LM mais inclinadas",
+          "Mais inclinada",
+          "Mais inclinada",
+          "Menos sensíveis"
+        ],
+        [
+          "IS e LM menos inclinadas",
+          "Menos inclinada",
+          "Menos inclinada",
+          "Mais sensíveis"
+        ]
       ]
     }
   ],
   "pendencias": [
-    "Os dois pares de gráficos (IS e LM mais inclinadas; menos inclinadas) não foram convertidos em SVG nesta leitura; a tabela acima resume o que cada um mostra.",
-    "Conferir a redação e a interpretação de sensibilidade contra a anotação original antes de aprovar."
+    "Os dois pares de gráficos foram convertidos em inclinacao-is-lm-graficos.svg (conferido visualmente contra a imagem original em 2026-11-19).",
+    "O esquema publicado (study-knowledge.json) não exibe o SVG, porque o importador não aceita bloco de imagem."
   ]
 }

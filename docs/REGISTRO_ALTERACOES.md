@@ -2,6 +2,12 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-19 — Claude (Macroeconomia: fechamento das conversões)
+- Gráficos de inclinação das curvas IS e LM convertidos em SVG (`inclinacao-is-lm-graficos.svg`), conferidos visualmente contra a imagem original, assim como os SVG de IS-LM e de excesso de moeda.
+- Ícones de instrumentos de política monetária não convertidos: são ilustrativos e não trazem informação além do texto.
+- Arquivos: `source-content/assets/inclinacao-is-lm-graficos.svg`, `source-content/macroeconomia-editavel/` (SVG e pendências de `inclinacao-reta` e `instrumentos-politica-monetaria`), `docs/REGISTRO_ALTERACOES.md`.
+- Pendências de Macroeconomia que dependem do usuário: TCR (material original), alternativa D da meta Selic (número da questão no TEC). Os SVG não aparecem nos esquemas publicados, porque o importador não aceita imagem.
+
 ## 2026-11-19 — Claude (Macroeconomia: 26 esquemas aprovados e correção da Selic)
 - Esquemas de Macroeconomia (26, status `approved`) importados em `source-content/study-knowledge.json` via `scripts/import-study-knowledge.mjs`, a partir da aba Conteúdos estruturados. O sumário `macro-conceitos-basicos` foi retirado por não ser esquema. Contabilidade preservada.
 - Correção em `macro-meta-selic` (versão 2): o exemplo numérico de 10,75% a.a. foi retirado do fluxograma, porque a taxa muda a cada reunião e a Selic vigente era 14,25% desde 17/06/2026 (fonte: Agência Brasil). A regra de 45 dias foi mantida.

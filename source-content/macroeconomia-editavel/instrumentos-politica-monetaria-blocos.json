@@ -8,11 +8,31 @@
     {
       "type": "table",
       "rows": [
-        ["Instrumento", "Política expansionista (estímulo à economia)", "Política contracionista (controle da inflação)"],
-        ["Open market (mercado aberto)", "Aumenta a compra de títulos públicos → liquidez na economia ↑ e taxas de juros ↓", "Aumenta a venda de títulos públicos → liquidez na economia ↓ e taxas de juros ↑"],
-        ["Taxa de depósitos compulsórios", "Reduz o recolhimento compulsório → recursos disponíveis nos bancos ↑ e oferta de crédito ↑", "Aumenta o recolhimento compulsório → recursos disponíveis nos bancos ↓ e oferta de crédito ↓"],
-        ["Taxa de redesconto", "Reduz a taxa de redesconto → custo do crédito para os bancos ↓ e oferta de crédito ↑", "Aumenta a taxa de redesconto → custo do crédito para os bancos ↑ e oferta de crédito ↓"],
-        ["Taxa de juros (Selic)", "Reduz a taxa de juros (Selic) → custo do crédito ↓ e consumo e investimento ↑", "Aumenta a taxa de juros (Selic) → custo do crédito ↑ e consumo e investimento ↓"]
+        [
+          "Instrumento",
+          "Política expansionista (estímulo à economia)",
+          "Política contracionista (controle da inflação)"
+        ],
+        [
+          "Open market (mercado aberto)",
+          "Aumenta a compra de títulos públicos → liquidez na economia ↑ e taxas de juros ↓",
+          "Aumenta a venda de títulos públicos → liquidez na economia ↓ e taxas de juros ↑"
+        ],
+        [
+          "Taxa de depósitos compulsórios",
+          "Reduz o recolhimento compulsório → recursos disponíveis nos bancos ↑ e oferta de crédito ↑",
+          "Aumenta o recolhimento compulsório → recursos disponíveis nos bancos ↓ e oferta de crédito ↓"
+        ],
+        [
+          "Taxa de redesconto",
+          "Reduz a taxa de redesconto → custo do crédito para os bancos ↓ e oferta de crédito ↑",
+          "Aumenta a taxa de redesconto → custo do crédito para os bancos ↑ e oferta de crédito ↓"
+        ],
+        [
+          "Taxa de juros (Selic)",
+          "Reduz a taxa de juros (Selic) → custo do crédito ↓ e consumo e investimento ↑",
+          "Aumenta a taxa de juros (Selic) → custo do crédito ↑ e consumo e investimento ↓"
+        ]
       ]
     },
     {
@@ -29,7 +49,7 @@
     }
   ],
   "pendencias": [
-    "A imagem é uma ilustração de apoio com o rótulo 'Mecanismos de operação'; os textos foram transcritos, mas os ícones não foram convertidos.",
-    "Conferir a redação contra a anotação original antes de aprovar."
+    "Conferir a redação contra a anotação original antes de aprovar.",
+    "Os ícones da anotação são ilustrativos e não carregam informação além do texto; não foram convertidos (decisão de 2026-11-19)."
   ]
 }
