@@ -2,6 +2,13 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (fórmulas: descontos reorganizados no quadro de comparação)
+- Quadro "Descontos — por dentro × por fora": bases separadas (racional, taxa i, base A; comercial, taxa d, base N), aviso para não misturar i e d, exemplo com N = 1.100 (por dentro: A = 1.000 e D = 100; por fora: D = 110 e A = 990) e a relação D_c = D_r · (1 + i · n) com a condição d = i.
+- Símbolo "D𝚌" trocado por "Dc" nos textos (4 ocorrências).
+- Conferido: 1.100 / 1,10 = 1.000; 1.100 · 0,10 · 1 = 110; 110 / 100 = 1,1 = 1 + 0,10 · 1.
+- Arquivos: `source-content/formulas.js` (v=99 em `formulas.html`), `source-content/formula-data.json`.
+- Pendências: nenhuma.
+
 ## 2026-11-20 — Claude (fórmulas: bloco de capitalização contínua reorganizado)
 - Bloco "Capitalização contínua" da comparação de fórmulas: título, variáveis em linha própria, colunas renomeadas para "Efetiva → instantânea" e "Instantânea → efetiva", exemplo (10% ⇒ δ ≈ 9,531% ⇒ 10%) e alerta de que δ não é taxa efetiva.
 - Conferido: ln(1,10) ≈ 0,09531 e e^0,09531 − 1 ≈ 0,10.

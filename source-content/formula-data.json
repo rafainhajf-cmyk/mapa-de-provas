@@ -142,7 +142,7 @@
       "id": "dcs",
       "group": "Descontos",
       "title": "Desconto comercial simples",
-      "text": "D𝚌 = N · d · n",
+      "text": "Dc = N · d · n",
       "html": "D<sub>c</sub> = N · d · n",
       "note": "Por fora: a base é N. Usa-se d para a taxa de desconto comercial.",
       "source": "Descontos.pdf — notação d no lugar de i"
@@ -169,7 +169,7 @@
       "id": "dcc",
       "group": "Descontos",
       "title": "Desconto comercial composto",
-      "text": "D𝚌 = N · [1 − (1 − d)ⁿ]",
+      "text": "Dc = N · [1 − (1 − d)ⁿ]",
       "html": "D<sub>c</sub> = N · [1 − (1 − d)<sup>n</sup>]",
       "note": "",
       "source": "Descontos.pdf — notação d no lugar de i"
@@ -178,7 +178,7 @@
       "id": "relacaod",
       "group": "Descontos",
       "title": "Comercial × racional — simples",
-      "text": "D𝚌 = Dᵣ · (1 + i · n)",
+      "text": "Dc = Dᵣ · (1 + i · n)",
       "html": "D<sub>c</sub> = D<sub>r</sub> · (1 + i · n)",
       "note": "Mesmo N, prazo n e mesmo valor numérico de taxa (d = i). Não aplicar a taxas diferentes.",
       "source": "Descontos.pdf"
@@ -388,7 +388,7 @@
     },
     {
       "title": "Notação",
-      "text": "A taxa comercial foi chamada d para diferenciá-la de i. O PDF usa i nas duas modalidades. A relação D𝚌 = Dᵣ(1+in) requer o mesmo valor numérico de taxa."
+      "text": "A taxa comercial foi chamada d para diferenciá-la de i. O PDF usa i nas duas modalidades. A relação Dc = Dᵣ(1+in) requer o mesmo valor numérico de taxa."
     }
   ],
   "references": [
