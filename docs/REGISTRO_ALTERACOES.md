@@ -7,7 +7,7 @@ Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — 
 - Conferência legal não concluída: item 1 (art. 189 e 207–211 CC; imprescritibilidade das declaratórias e das constitutivas sem prazo é posição doutrinária); item 2 (prazo de lesão e estado de perigo pelo art. 179 CC); item 3 (Tema 809 do STF, inclusive a parte temporal); item 4 (arts. 1.783-A CC e 6º da Lei 13.146/2015 conferidos de memória, não contra o texto oficial). Cada item traz a pendência no campo `source`.
 - Matéria gravada como "Direito Civil e Processual Civil" (nome da biblioteca); com "Direito Civil" os esquemas não apareciam.
 - Itens 1, 3 e 4 não tiveram inclusão individual confirmada pelo usuário; a publicação foi autorizada assim mesmo.
-- Planilha: as linhas de Direito Civil não foram criadas (o arquivo de origem proíbe alterar planilhas). Registrar depois para manter a fonte de verdade.
+- Planilha: linhas 60 a 63 de "Conteúdos estruturados" criadas como `approved`, com o JSON completo dos blocos, a partir do arquivo consolidado (autorizado pelo usuário em 2026-11-20).
 - Arquivos: `source-content/study-knowledge.json`, `docs/REGISTRO_ALTERACOES.md`.
 - Pendências: conferência legal acima; IDs TEC não informados (nenhuma questão vinculada); conferir no site a matéria Direito Civil após o deploy.
 
