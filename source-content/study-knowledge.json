@@ -1,8 +1,591 @@
 {
   "schemaVersion": 1,
   "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
-  "exportedAt": "2026-11-20T12:22:28.827Z",
+  "exportedAt": "2026-11-20T12:27:29.334Z",
   "records": [
+    {
+      "id": "aud-01-responsabilidade-pela-opiniao-e-especialistas",
+      "subject": "Auditoria",
+      "targetId": "",
+      "targetTitle": "Responsabilidade pela opinião e especialistas",
+      "title": "Responsabilidade pela opinião e especialistas",
+      "status": "approved",
+      "updateType": "comparativo",
+      "source": "(Claude) Origem: NBC TA 620, item 3; imagem comparativa enviada pelo usuário. Aprovado pelo usuário em 2026-11-20. Conferência legal não concluída: ver pendências no conteúdo.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Responsabilidade indelegável",
+          "text": "O auditor é o único responsável por expressar a opinião de auditoria. A utilização do trabalho de especialista do auditor não reduz essa responsabilidade."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Critério",
+              "Especialista do auditor",
+              "Especialista da administração"
+            ],
+            [
+              "Quem utiliza",
+              "Auditor",
+              "Administração da entidade"
+            ],
+            [
+              "Área de especialização",
+              "Diferente de contabilidade ou auditoria",
+              "Diferente de contabilidade ou auditoria"
+            ],
+            [
+              "Finalidade",
+              "Ajudar a obter evidência de auditoria apropriada e suficiente",
+              "Ajudar na elaboração das demonstrações contábeis"
+            ],
+            [
+              "Referência",
+              "NBC TA 620",
+              "NBC TA 500"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "O trabalho de especialista não transfere nem divide a responsabilidade do auditor pela opinião."
+        },
+        {
+          "type": "reference",
+          "text": "NBC TA 620 — Conselho Federal de Contabilidade",
+          "url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA620.pdf"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Confirmar a versão vigente das NBC TA 620 e 500 aplicável à prova."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "aud-02-efd-icms-ipi-estrutura-e-ordenacao-dos-registros",
+      "subject": "Auditoria",
+      "targetId": "",
+      "targetTitle": "EFD-ICMS/IPI: estrutura e ordenação dos registros",
+      "title": "EFD-ICMS/IPI: estrutura e ordenação dos registros",
+      "status": "approved",
+      "updateType": "comparativo",
+      "source": "(Claude) Origem: Trechos do Guia Prático EFD-ICMS/IPI, versão 3.1.3, e exemplo C100/C400. Aprovado pelo usuário em 2026-11-20. Conferência legal não concluída: ver pendências no conteúdo.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Estrutura do arquivo",
+          "text": "Entre o registro inicial 0000 e o registro final 9999, o arquivo é composto por blocos, cada um com registro de abertura, registros de dados e registro de encerramento."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Ordem",
+              "Bloco",
+              "Conteúdo"
+            ],
+            [
+              "1",
+              "0",
+              "Abertura, identificação e referências"
+            ],
+            [
+              "2",
+              "B",
+              "Escrituração e apuração do ISS"
+            ],
+            [
+              "3",
+              "C",
+              "Documentos fiscais I — mercadorias (ICMS/IPI)"
+            ],
+            [
+              "4",
+              "D",
+              "Documentos fiscais II — serviços (ICMS)"
+            ],
+            [
+              "5",
+              "E",
+              "Apuração do ICMS e do IPI"
+            ],
+            [
+              "6",
+              "G",
+              "Crédito de ICMS do ativo permanente — CIAP"
+            ],
+            [
+              "7",
+              "H",
+              "Inventário físico"
+            ],
+            [
+              "8",
+              "K",
+              "Controle da produção e do estoque"
+            ],
+            [
+              "9",
+              "1",
+              "Outras informações"
+            ],
+            [
+              "10",
+              "9",
+              "Controle e encerramento do arquivo digital"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Ordenação",
+          "text": "Dentro de cada bloco, os registros seguem a sequência ascendente prevista no leiaute; os registros vinculados a um documento devem permanecer agrupados com ele."
+        },
+        {
+          "type": "flowchart",
+          "title": "Exemplo fornecido: notas modelo 1/1A e cupom fiscal",
+          "steps": [
+            {
+              "label": "Documento 1",
+              "text": "Registro C100 seguido de seus registros filhos"
+            },
+            {
+              "label": "Documento 2",
+              "text": "Próximo C100 seguido de seus registros filhos"
+            },
+            {
+              "label": "Equipamento ECF 1",
+              "text": "Registro C400 e seus registros filhos"
+            },
+            {
+              "label": "Outros ECF",
+              "text": "Repetir a estrutura C400 com os registros filhos de cada equipamento"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "C100",
+              "C400"
+            ],
+            [
+              "Registro ligado ao documento fiscal",
+              "Registro ligado a equipamento ECF"
+            ],
+            [
+              "Filhos vinculados a cada nota",
+              "Filhos vinculados a cada equipamento"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Não agrupar todos os registros C100 de vários documentos para apresentar os registros filhos só ao final; seguir a estrutura hierárquica."
+        },
+        {
+          "type": "reference",
+          "text": "Portal SPED — EFD ICMS/IPI",
+          "url": "https://sped.rfb.gov.br/projeto/show/274"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir a aplicabilidade e notas de rodapé dos blocos B, G e K na versão do Guia utilizada na questão; confirmar códigos e obrigatoriedades por UF/período."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "aud-03-ecd-entidades-dispensadas-e-hipoteses-de-obrigator",
+      "subject": "Auditoria",
+      "targetId": "",
+      "targetTitle": "ECD: entidades dispensadas e hipóteses de obrigatoriedade",
+      "title": "ECD: entidades dispensadas e hipóteses de obrigatoriedade",
+      "status": "approved",
+      "updateType": "comparativo",
+      "source": "(Claude) Origem: Imagem enviada pelo usuário; IN RFB 2.003/2021; Manual de Orientação da ECD 2026. Aprovado pelo usuário em 2026-11-20. Conferência legal não concluída: ver pendências no conteúdo.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Entidade/situação",
+              "Regra de revisão"
+            ],
+            [
+              "ME/EPP optante pelo Simples Nacional",
+              "Dispensa em regra, sujeita a hipóteses específicas de obrigatoriedade, como aporte de investidor-anjo nos termos legais"
+            ],
+            [
+              "Órgãos públicos, autarquias e fundações públicas",
+              "Dispensa prevista nas regras de ECD"
+            ],
+            [
+              "Pessoa jurídica inativa",
+              "Dispensa quando atender à definição fiscal de inatividade"
+            ],
+            [
+              "Imune ou isenta",
+              "Obrigatória quando ingressos relevantes alcançam R$ 4,8 milhões no ano, observadas as regras aplicáveis"
+            ],
+            [
+              "Lucro presumido",
+              "Pode estar dispensada se usar Livro Caixa nas condições legais e não incidir em outras causas de obrigatoriedade"
+            ],
+            [
+              "Itaipu Binacional",
+              "Hipótese específica de dispensa"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Lucro presumido",
+          "text": "A adoção do Livro Caixa, por si só, não afasta toda hipótese de obrigatoriedade: a distribuição de lucros isentos acima do limite legal é relevante."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Limite imunes/isentas",
+          "text": "Ingressos iguais ou superiores a R$ 4,8 milhões podem gerar obrigatoriedade; não trocar “inferior” por “inferior ou igual”."
+        },
+        {
+          "type": "reference",
+          "text": "Manual de Orientação da ECD — Leiaute 9, atualização janeiro de 2026",
+          "url": "https://sped.rfb.gov.br/estatico/66/D1D73A379CB13BC5CDE7B7948B1F6C48967CCE/Manual_de_Orienta%C3%A7%C3%A3o_da_ECD_Leiaute_9_janeiro_2026.pdf"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir ano-calendário e versão normativa para definir as dispensas; atualizar critérios e casos específicos antes da publicação."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "aud-04-nf-e-e-nfc-e-chave-natural-autorizacao-e-duplicida",
+      "subject": "Auditoria",
+      "targetId": "",
+      "targetTitle": "NF-e e NFC-e: chave natural, autorização e duplicidade",
+      "title": "NF-e e NFC-e: chave natural, autorização e duplicidade",
+      "status": "approved",
+      "updateType": "comparativo",
+      "source": "(Claude) Origem: Imagem enviada pelo usuário sobre chave natural. Aprovado pelo usuário em 2026-11-20. Conferência legal não concluída: ver pendências no conteúdo.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A imagem define chave natural como subconjunto dos campos da chave de acesso utilizado na identificação fiscal de documento eletrônico e na análise de duplicidade pela SEFAZ."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Campo na imagem",
+              "NF-e",
+              "NFC-e"
+            ],
+            [
+              "UF",
+              "UF do emitente",
+              "UF do emitente"
+            ],
+            [
+              "Identificador do emitente",
+              "CNPJ ou CPF (conforme material)",
+              "CNPJ"
+            ],
+            [
+              "Série",
+              "Sim",
+              "Sim"
+            ],
+            [
+              "Número",
+              "Sim",
+              "Sim"
+            ],
+            [
+              "Modelo",
+              "55",
+              "65"
+            ],
+            [
+              "Campo adicional destacado",
+              "tpAmb — segundo a imagem",
+              "tpEmis — segundo a imagem"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Composição ainda não validada",
+          "text": "Os campos tpAmb e tpEmis foram transcritos da imagem, mas a definição técnica exata de chave natural e as regras de rejeição devem ser confrontadas com MOC/Notas Técnicas da NF-e/NFC-e. Não tratar este quadro como especificação definitivamente validada."
+        },
+        {
+          "type": "flowchart",
+          "title": "Validação de duplicidade — representação conceitual",
+          "steps": [
+            {
+              "label": "Solicitação",
+              "text": "Documento fiscal é submetido à autorização"
+            },
+            {
+              "label": "Confronto",
+              "text": "SEFAZ aplica as regras técnicas de verificação de duplicidade"
+            },
+            {
+              "label": "Resultado",
+              "text": "Se houver duplicidade nos termos técnicos, pedido é rejeitado; caso contrário segue para as demais validações"
+            }
+          ]
+        },
+        {
+          "type": "reference",
+          "text": "Portal Nacional NF-e — documentos técnicos",
+          "url": "https://www.nfe.fazenda.gov.br/portal/principal.aspx"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "PRIORIDADE: validar os campos distintivos, o conceito de chave natural e as regras específicas NF-e/NFC-e com o MOC/Nota Técnica da versão aplicável."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "aud-05-cpi-quebra-de-sigilo-bancario-e-obtencao-de-docume",
+      "subject": "Auditoria",
+      "targetId": "",
+      "targetTitle": "CPI: quebra de sigilo bancário e obtenção de documentos",
+      "title": "CPI: quebra de sigilo bancário e obtenção de documentos",
+      "status": "approved",
+      "updateType": "comparativo",
+      "source": "(Claude) Origem: LC 105/2001, art. 4º, §§ 1º e 2º; trecho legal fornecido. Aprovado pelo usuário em 2026-11-20. Conferência legal não concluída: ver pendências no conteúdo.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Critério",
+              "Quebra de sigilo bancário",
+              "Requisição de informações"
+            ],
+            [
+              "Natureza",
+              "Decisão para acesso a dados protegidos",
+              "Pedido para entrega dos documentos/dados"
+            ],
+            [
+              "Competência",
+              "CPI, mediante deliberação fundamentada e requisitos legais",
+              "CPI, diretamente à instituição financeira ou via Banco Central/CVM"
+            ],
+            [
+              "Autorização judicial prévia",
+              "Não exigida para quebra regularmente deliberada pela CPI",
+              "Não exigida para requisição regularmente deliberada"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Duas vias legais",
+          "text": "O art. 4º, § 1º, da LC 105/2001 permite à CPI obter informações diretamente de instituição financeira ou por intermédio do Banco Central ou CVM."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Aprovação colegiada",
+          "text": "Nos termos do art. 4º, § 2º, as solicitações devem ser previamente aprovadas pelo plenário competente da Casa ou da CPI."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "É incorreto afirmar que a CPI está proibida de obter dados diretamente dos bancos."
+        },
+        {
+          "type": "reference",
+          "text": "LC 105/2001 — art. 4º",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp105.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir se o assunto deve permanecer na matéria Auditoria ou ser referenciado também em Direito Constitucional, conforme classificação editorial do usuário."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "aud-06-pericia-contabil-exame-versus-vistoria",
+      "subject": "Auditoria",
+      "targetId": "",
+      "targetTitle": "Perícia contábil: exame versus vistoria",
+      "title": "Perícia contábil: exame versus vistoria",
+      "status": "approved",
+      "updateType": "comparativo",
+      "source": "(Claude) Origem: NBC TP 01 (R1), item 32, alíneas a e b; texto fornecido. Aprovado pelo usuário em 2026-11-20. Conferência legal não concluída: ver pendências no conteúdo.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Critério",
+              "Exame",
+              "Vistoria"
+            ],
+            [
+              "Definição normativa",
+              "Análise de livros, registros de transações e documentos",
+              "Diligência para verificar e constatar circunstancialmente situação, coisa ou fato"
+            ],
+            [
+              "Palavra-chave",
+              "Análise documental",
+              "Constatação circunstancial"
+            ],
+            [
+              "Exemplo ilustrativo",
+              "Analisar livros contábeis",
+              "Verificar a existência e condição de determinado estoque"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Não confundir análise de documentos (exame) com diligência para constatação circunstancial de situação, coisa ou fato (vistoria)."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir se a prova utilizou NBC TP 01 (R1) ou revisão posterior."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "aud-07-riscos-de-auditoria-inerente-controle-e-deteccao",
+      "subject": "Auditoria",
+      "targetId": "",
+      "targetTitle": "Riscos de auditoria: inerente, controle e detecção",
+      "title": "Riscos de auditoria: inerente, controle e detecção",
+      "status": "approved",
+      "updateType": "comparativo",
+      "source": "(Claude) Origem: NBC TA 200; imagem enviada pelo usuário. Aprovado pelo usuário em 2026-11-20. Conferência legal não concluída: ver pendências no conteúdo.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Modelo conceitual",
+          "text": "Risco de auditoria = Risco de distorção relevante × Risco de detecção. Risco de auditoria é o risco de opinião inadequada quando as demonstrações contábeis contêm distorção relevante."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Risco",
+              "Conceito",
+              "Associação principal"
+            ],
+            [
+              "Inerente",
+              "Suscetibilidade à distorção relevante antes de considerar controles",
+              "Características da transação/saldo/divulgação"
+            ],
+            [
+              "Controle",
+              "Risco de o controle interno não prevenir ou detectar e corrigir tempestivamente distorção",
+              "Funcionamento dos controles da entidade"
+            ],
+            [
+              "Detecção",
+              "Risco de os procedimentos do auditor não detectarem distorção relevante existente",
+              "Procedimentos executados pelo auditor"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Componentes do RDR",
+          "text": "Risco inerente e de controle são componentes do risco de distorção relevante; a expressão “RI + RC” é conceitual e não deve ser tratada como fórmula aritmética necessária."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "RDR avaliado",
+              "RD aceitável para manter RA alvo"
+            ],
+            [
+              "Maior",
+              "Menor"
+            ],
+            [
+              "Menor",
+              "Maior"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha de relevância",
+          "text": "Não generalizar que “alta relevância sempre aumenta os testes”. O alcance dos procedimentos depende da materialidade estabelecida, dos riscos avaliados e do julgamento profissional."
+        },
+        {
+          "type": "reference",
+          "text": "NBC TA 200 — CFC",
+          "url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA200(R1).pdf"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir edição normativa e distinção entre materialidade e risco antes da implementação."
+        }
+      ],
+      "flashcards": []
+    },
     {
       "id": "contab-20-premio-debentures-custo-amortizado",
       "subject": "Contabilidade",
