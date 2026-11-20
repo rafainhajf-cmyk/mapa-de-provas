@@ -2,6 +2,12 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (Tributário: Dificuldades por matéria só com direito normativo)
+- Na aba Dificuldades por matéria, a matéria Tributário passa a mostrar apenas o grupo "Direito Tributário Normativo" (apostilas DT do Literalidade, principalmente o CTN). Os grupos IPVA, ITCMD, ITBI, ISSQN, Reforma, LC 227, RMIT, Comparativo e LTE e Convênios saem dessa aba.
+- Arquivos: `source-content/dificuldades.js`.
+- Não publicado: commit local, aguardando autorização para push.
+- Pendências: revisar a apostila de Tributário com foco em não confundir (Kandir, reforma, LC 236, LC 227, EC 132, LC 214, LC 24/1975, LC 160/2017, LC 192/2022).
+
 ## 2026-11-20 — Claude (Contabilidade: teoria, lote 3 — LC 116, CPC 02, CPC 46, goodwill e outros)
 - Onze lições novas em `accounting-curated.js`: LC 116 (fato gerador, sujeito passivo e local, alíquota e base), CPC 02 (conversão), CPC 46 (valor justo), goodwill, IRPJ e CSLL, partidas dobradas, plano de contas, conceito e objeto, e princípios contábeis.
 - Não coberto nesta rodada: "Operações com Mercadorias (RCM, frete)", porque não tenho a definição de RCM como termo da prova. Preciso que você diga o que é RCM antes de eu escrever essa lição.
