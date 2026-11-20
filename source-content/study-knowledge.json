@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
-  "exportedAt": "2026-11-19T04:15:39.016Z",
+  "exportedAt": "2026-11-20T12:22:28.827Z",
   "records": [
     {
       "id": "contab-20-premio-debentures-custo-amortizado",
@@ -113,6 +113,305 @@
           "Não como regra normativa; faltam fluxos e taxa efetiva."
         ]
       ]
+    },
+    {
+      "id": "contab-teoria-arlp",
+      "subject": "Contabilidade",
+      "targetId": "conta-b-02",
+      "targetTitle": "Ativo Realizável a Longo Prazo - ARLP",
+      "title": "Ativo realizável a longo prazo (ARLP)",
+      "status": "approved",
+      "updateType": "teoria",
+      "source": "Redação própria, conferida no texto da Lei 6.404/1976 (arts. 178 e 179) e no CPC 12 (itens 9 e 10).",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O ativo realizável a longo prazo reúne direitos realizáveis após o término do exercício social seguinte, que não se enquadram em investimentos, imobilizado ou intangível."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Conta",
+              "Exemplo",
+              "Cuidado"
+            ],
+            [
+              "Clientes a longo prazo",
+              "Venda a prazo com recebimento em 24 meses",
+              "Ajustar a valor presente (CPC 12) quando o juro for implícito e relevante"
+            ],
+            [
+              "Empréstimos a controladas, coligadas e diretores",
+              "Empréstimo a controlada com vencimento em 3 anos",
+              "Saldos com partes relacionadas devem ser identificados"
+            ],
+            [
+              "Títulos e valores mobiliários de longo prazo",
+              "Aplicação com vencimento em 2 anos",
+              "A classificação depende do modelo de negócios (CPC 48)"
+            ],
+            [
+              "Impostos a recuperar de longo prazo",
+              "Crédito tributário compensável após 12 meses",
+              "Só entra o valor que se realiza após 12 meses"
+            ],
+            [
+              "Depósitos judiciais",
+              "Depósito para garantir processo sem prazo definido",
+              "Classificação depende da expectativa de realização"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra",
+          "text": "Se o direito se realiza depois de 12 meses da data do balanço, ele é não circulante. Quando o ciclo operacional da empresa é maior que 12 meses, o ciclo é o critério."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "ARLP não é investimento. Participação em controlada ou coligada vai para investimentos, mesmo que a expectativa de retorno seja de longo prazo."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-teoria-cpc47-receita",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-06",
+      "targetTitle": "Receita com Contrato com Cliente (CPC 47)",
+      "title": "Receita com contrato com cliente (CPC 47)",
+      "status": "approved",
+      "updateType": "teoria",
+      "source": "Redação própria, a partir do exercício de adiantamento de cliente (quadro Lançamentos contábeis) e das cinco etapas do CPC 47 (IFRS 15).",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "flashcards": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A receita de contrato com cliente é reconhecida quando a entidade transfere ao cliente o controle do bem ou serviço prometido, e não quando o dinheiro é recebido nem quando o contrato é assinado."
+        },
+        {
+          "type": "flowchart",
+          "title": "Cinco etapas do CPC 47",
+          "steps": [
+            {
+              "label": "1. Identificar o contrato",
+              "text": "Contrato formalmente aprovado, com direitos e obrigações identificáveis."
+            },
+            {
+              "label": "2. Identificar as obrigações de desempenho",
+              "text": "Cada bem ou serviço distinto prometido ao cliente."
+            },
+            {
+              "label": "3. Determinar o preço da transação",
+              "text": "Valor da contraprestação que a entidade espera receber."
+            },
+            {
+              "label": "4. Alocar o preço às obrigações",
+              "text": "Dividir o preço entre as obrigações de desempenho."
+            },
+            {
+              "label": "5. Reconhecer a receita",
+              "text": "Quando, ou à medida que, a obrigação de desempenho for satisfeita."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situação",
+              "Lançamento",
+              "Tratamento"
+            ],
+            [
+              "Adiantamento recebido antes da entrega",
+              "D Caixa / C Adiantamento de clientes (passivo de contrato)",
+              "Sem receita: a obrigação ainda não foi cumprida"
+            ],
+            [
+              "Entrega do bem ou serviço",
+              "D Adiantamento de clientes / C Receita",
+              "Receita reconhecida no momento da transferência do controle"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra essencial",
+          "text": "Adiantamento de cliente é passivo de contrato. Ele vira receita somente quando a obrigação de desempenho é satisfeita."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Recebimento não é receita. Caixa recebido antes da entrega aumenta o passivo, e o resultado não muda nesse momento."
+        }
+      ]
+    },
+    {
+      "id": "contab-teoria-fornecedores",
+      "subject": "Contabilidade",
+      "targetId": "conta-c-01",
+      "targetTitle": "Fornecedores",
+      "title": "Fornecedores",
+      "status": "approved",
+      "updateType": "teoria",
+      "source": "Redação própria, conferida no CPC 12 (itens 9 e 10), na prática do ajuste a valor presente de fornecedores e no CPC 16 (descontos e abatimentos deduzidos do custo de aquisição).",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fornecedores são obrigações com quem entregou mercadorias, matéria-prima ou serviços a prazo. Normalmente ficam no passivo circulante, porque vencem em até 12 meses."
+        },
+        {
+          "type": "formula",
+          "text": "Compra a prazo de mercadorias: D Estoque (ou despesa) / C Fornecedores, pelo valor da nota fiscal"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situação",
+              "Tratamento",
+              "Observação"
+            ],
+            [
+              "Compra a prazo de mercadorias",
+              "D Estoque / C Fornecedores pelo valor da nota",
+              "ICMS recuperável fica separado do estoque"
+            ],
+            [
+              "Pagamento no vencimento",
+              "D Fornecedores / C Caixa ou Bancos",
+              "Baixa pelo valor pago, sem alterar o custo do estoque"
+            ],
+            [
+              "Desconto incondicional concedido pelo fornecedor",
+              "Reduz o custo da compra",
+              "Não é receita financeira"
+            ],
+            [
+              "Juros e multa por atraso",
+              "D Despesa financeira / C Fornecedores ou Caixa",
+              "Não entram no custo do estoque nem do ativo"
+            ],
+            [
+              "Compra com prazo longo e juros embutidos",
+              "Ajustar a valor presente (CPC 12)",
+              "A diferença é despesa financeira ao longo do prazo"
+            ]
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Roteiro da compra a prazo",
+          "steps": [
+            {
+              "label": "1. Receber a mercadoria ou serviço",
+              "text": "Reconhecer o ativo ou a despesa pela nota"
+            },
+            {
+              "label": "2. Reconhecer o fornecedor",
+              "text": "Registrar a obrigação pelo valor da nota"
+            },
+            {
+              "label": "3. Verificar o prazo",
+              "text": "Se for longo e houver juros implícitos, ajustar a valor presente"
+            },
+            {
+              "label": "4. Pagar no vencimento",
+              "text": "Baixar a obrigação pelo valor pago"
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra",
+          "text": "Fornecedores são mensurados pelo valor da obrigação. Quando o prazo é longo e os juros são implícitos, o valor presente é o valor de reconhecimento inicial."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Juros de atraso e multa não entram no custo do estoque, nem do ativo. São despesa do período."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "contab-teoria-lei-6404",
+      "subject": "Contabilidade",
+      "targetId": "conta-d-08",
+      "targetTitle": "Lei 6.404 e suas alterações",
+      "title": "Lei 6.404/1976 e suas alterações",
+      "status": "approved",
+      "updateType": "teoria",
+      "source": "Redação própria, conferida no texto da Lei 6.404/1976 (arts. 176, 178, 179, 183, 184 e 186) e nas alterações das Leis 11.638/2007 e 11.941/2009.",
+      "version": 1,
+      "updatedAt": "2026-11-19",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A Lei 6.404/1976 é a lei das sociedades por ações. Foi alterada pelas Leis 11.638/2007 e 11.941/2009, que aproximaram a contabilidade brasileira das normas internacionais, adotadas por meio dos pronunciamentos do CPC."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Artigo",
+              "Assunto"
+            ],
+            [
+              "Art. 176",
+              "Demonstrações obrigatórias ao fim de cada exercício: balanço patrimonial, DLPA, DRE, DFC e, se companhia aberta, DVA"
+            ],
+            [
+              "Art. 178",
+              "Estrutura do balanço: ativo e passivo, circulante e não circulante, e patrimônio líquido"
+            ],
+            [
+              "Art. 179",
+              "Contas do ativo não circulante: realizável a longo prazo, investimentos, imobilizado e intangível"
+            ],
+            [
+              "Art. 183",
+              "Critérios de avaliação do ativo, incluindo ajuste a valor presente das operações de longo prazo (inciso VIII, incluído em 2007)"
+            ],
+            [
+              "Art. 184",
+              "Critérios de avaliação do passivo: obrigações em moeda estrangeira com paridade cambial pela taxa da data do balanço (inciso II) e ajuste a valor presente das obrigações não circulantes (inciso III, redação de 2009)"
+            ],
+            [
+              "Art. 186",
+              "Demonstração de lucros ou prejuízos acumulados (DLPA)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra",
+          "text": "Ao citar um artigo em prova, confira a redação vigente, porque as alterações de 2007 e 2009 mudaram nomes e critérios."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Uma alternativa que descreve a redação anterior da lei pode estar errada em relação à lei vigente. Atenção, sobretudo, a termos ligados às alterações de 2007 e 2009."
+        }
+      ],
+      "flashcards": []
     },
     {
       "id": "contab-tq-balanco-patrimonial",
@@ -3050,6 +3349,332 @@
       "flashcards": []
     },
     {
+      "id": "dir-emp-efeitos-falencia",
+      "subject": "Direito Empresarial",
+      "targetId": "",
+      "targetTitle": "Efeitos da falência e da recuperação",
+      "title": "Efeitos da falência e da recuperação (art. 6º, I a III)",
+      "status": "approved",
+      "updateType": "rascunho para conferência",
+      "source": "(Claude) Conferido em 2026-11-20 contra o art. 6º, incisos I a III, da Lei 11.101/2005. Aprovado pelo usuário em 2026-11-20. Pendência: parágrafos do art. 6º.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Gatilho: decretação da falência ou deferimento do processamento da recuperação judicial. Não confundir deferimento do processamento com concessão da recuperação."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Inciso",
+              "Efeito",
+              "Objeto protegido"
+            ],
+            [
+              "I",
+              "Suspende a prescrição das obrigações sujeitas ao regime da lei.",
+              "PRAZO: a contagem prescricional fica suspensa."
+            ],
+            [
+              "II",
+              "Suspende execuções contra o devedor, inclusive de credores particulares do sócio solidário, nos limites da lei.",
+              "PROCESSO: paralisa a execução abrangida."
+            ],
+            [
+              "III",
+              "Proíbe retenção, arresto, penhora, sequestro, busca e apreensão e outras constrições decorrentes de créditos sujeitos ao regime.",
+              "PATRIMÔNIO: impede medidas de constrição indicadas."
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Memorize",
+          "text": "Art. 6º: prazo (prescrição), processo (execução) e bens (constrição)."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Cuidado",
+          "text": "Os efeitos dependem da sujeição do crédito ao regime e de exceções e regras específicas do próprio art. 6º; não são absolutos."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Estudar os parágrafos do art. 6º (prazos e exceções), não reproduzidos no trecho original."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "dir-emp-investidor-anjo",
+      "subject": "Direito Empresarial",
+      "targetId": "",
+      "targetTitle": "Investidor-anjo",
+      "title": "Investidor-anjo (LC 123/2006, art. 61-A)",
+      "status": "approved",
+      "updateType": "rascunho para conferência",
+      "source": "(Claude) Conferido em 2026-11-20 contra o art. 61-A da LC 123/2006. Aprovado pelo usuário em 2026-11-20. Pendências: limite do resgate e voto consultivo.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Investidor-anjo realiza aporte mediante contrato de participação, sem ingressar automaticamente no capital social ou assumir a condição de sócio."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Tema",
+              "Regra de revisão"
+            ],
+            [
+              "Sócio / gestão",
+              "Não é sócio por força do aporte; não tem gerência nem voto na administração."
+            ],
+            [
+              "Deliberações",
+              "Pode participar em caráter estritamente consultivo, conforme pacto contratual. [pendente de conferência]"
+            ],
+            [
+              "Dívidas",
+              "Não responde por dívidas da empresa em razão do aporte, inclusive em recuperação judicial, nos termos da disciplina legal. [recuperação judicial pendente de conferência]"
+            ],
+            [
+              "Informações",
+              "Pode examinar livros, documentos, caixa e carteira; contrato pode prever época própria. Direitos de informação e prestação de contas conforme lei."
+            ],
+            [
+              "Remuneração",
+              "Pelos aportes, nos termos do contrato, pelo prazo máximo legal de sete anos."
+            ],
+            [
+              "Resgate",
+              "Exigível apenas depois de no mínimo dois anos do aporte, ou prazo contratual superior. Limite de valor investido corrigido pelo índice contratual. [limite corrigido pendente de conferência]"
+            ],
+            [
+              "Conversão",
+              "A legislação permite prever conversão do aporte em participação societária, conforme condições aplicáveis."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Marco",
+              "Significado"
+            ],
+            [
+              "Aporte (t = 0)",
+              "Início da contagem para eventual resgate."
+            ],
+            [
+              "2 anos",
+              "Prazo mínimo para exercer resgate, salvo prazo superior previsto no contrato."
+            ],
+            [
+              "Até 7 anos",
+              "Limite legal para vigência e remuneração do contrato de participação; não significa resgate automático."
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Fiscalizar documentos ou participar de consultas não equivale a administrar ou votar como sócio."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Cuidado",
+          "text": "Resgate do capital e remuneração dos aportes são institutos diferentes. O resgate observa o teto de valor investido devidamente corrigido."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Limite do resgate pelo valor corrigido e deliberações apenas consultivas ainda não conferidos com o texto legal."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "dir-emp-preferencia-creditos",
+      "subject": "Direito Empresarial",
+      "targetId": "",
+      "targetTitle": "Preferência dos créditos",
+      "title": "Preferência dos créditos (fora e na falência)",
+      "status": "approved",
+      "updateType": "rascunho para conferência",
+      "source": "(Claude) Conferido em 2026-11-20 contra o art. 6º, 83 e 84 da Lei 11.101/2005. Aprovado pelo usuário em 2026-11-20. Pendências: CTN art. 186 e art. 151 não conferidos.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Material de revisão: quadros rápidos, distinções e pontos de atenção sobre a ordem de preferência dos créditos na falência e fora dela."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Aspecto",
+              "Fora da falência",
+              "Na falência"
+            ],
+            [
+              "Preferência tributária",
+              "Trabalhistas e acidentes de trabalho preferem ao tributo; em relação aos demais, vale a preferência tributária do art. 186.",
+              "Restituições legais e créditos extraconcursais têm tratamento prioritário. Entre concursais: trabalhistas, garantia real, tributários, demais classes."
+            ],
+            [
+              "Garantia real × tributo",
+              "Garantia real não supera a preferência do crédito tributário apenas pela existência de garantia.",
+              "Garantia real (até valor do bem) precede crédito tributário concursal."
+            ],
+            [
+              "Crédito trabalhista",
+              "Sem teto falimentar de 150 salários mínimos no art. 186.",
+              "Concursal: limite de 150 salários mínimos por credor; acidentes de trabalho sem esse limite."
+            ],
+            [
+              "Crédito tributário",
+              "Ressalvados créditos trabalhistas e decorrentes de acidentes.",
+              "3ª classe concursal (art. 83, III), exceto multas e créditos extraconcursais."
+            ],
+            [
+              "Restituições",
+              "Não há uma ordem falimentar geral aplicável.",
+              "Restituição de bens segue regras próprias; restituições em dinheiro têm lugar expresso no art. 84, I-C."
+            ],
+            [
+              "Multas tributárias",
+              "Não presumir mesma preferência do principal em qualquer regime.",
+              "Classe concursal própria de multas e penalidades, após quirografários (art. 83, VII)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Inciso",
+              "Classe concursal (art. 83)"
+            ],
+            [
+              "I",
+              "Trabalhistas (até 150 salários mínimos por credor) e acidentes de trabalho"
+            ],
+            [
+              "II",
+              "Garantia real, até o valor do bem gravado"
+            ],
+            [
+              "III",
+              "Tributários, exceto extraconcursais e multas tributárias"
+            ],
+            [
+              "IV e V",
+              "Revogados"
+            ],
+            [
+              "VI",
+              "Quirografários, inclusive créditos residuais e saldos trabalhistas acima do limite do inciso I"
+            ],
+            [
+              "VII",
+              "Multas contratuais e penas pecuniárias, incluídas as multas tributárias"
+            ],
+            [
+              "VIII",
+              "Subordinados"
+            ],
+            [
+              "IX",
+              "Juros vencidos após a decretação da falência (art. 124)"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Inciso",
+              "Classe extraconcursal (art. 84)"
+            ],
+            [
+              "I-A",
+              "Despesas indispensáveis (art. 150) e salários urgentes (art. 151)"
+            ],
+            [
+              "I-B",
+              "Valor efetivamente entregue por financiador na recuperação, nas condições da lei"
+            ],
+            [
+              "I-C",
+              "Restituições em dinheiro previstas no art. 86"
+            ],
+            [
+              "I-D",
+              "Administrador judicial, auxiliares, Comitê e trabalho após a falência"
+            ],
+            [
+              "I-E",
+              "Obrigações de atos jurídicos válidos na recuperação (art. 67) ou após a falência"
+            ],
+            [
+              "II",
+              "Quantias fornecidas à massa pelos credores"
+            ],
+            [
+              "III",
+              "Despesas de arrecadação, administração, realização do ativo e distribuição do produto"
+            ],
+            [
+              "IV",
+              "Custas judiciais em que a massa foi vencida"
+            ],
+            [
+              "V",
+              "Tributos com fatos geradores após a decretação da falência (observada a ordem do art. 83)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra",
+          "text": "A ordem do art. 84 precede as classes concursais do art. 83, sem dispensar as regras próprias das restituições."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Crédito tributário anterior à falência é, em regra, concursal; tributo com fato gerador posterior é extraconcursal. Multa tributária não ocupa a classe do tributo principal."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Cuidado",
+          "text": "O crédito estritamente salarial do art. 151 (vencido nos três meses anteriores, até cinco salários mínimos por trabalhador) não deve ser confundido com o teto concursal de 150 salários mínimos."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "CTN, art. 186 (regime fora da falência) e art. 151 (três meses e cinco salários mínimos) ainda não conferidos com o texto legal."
+        }
+      ],
+      "flashcards": []
+    },
+    {
       "id": "macro-agregados-monetarios",
       "subject": "Macroeconomia",
       "targetId": "",
@@ -4558,305 +5183,6 @@
         }
       ],
       "flashcards": []
-    },
-    {
-      "id": "contab-teoria-arlp",
-      "subject": "Contabilidade",
-      "targetId": "conta-b-02",
-      "targetTitle": "Ativo Realizável a Longo Prazo - ARLP",
-      "title": "Ativo realizável a longo prazo (ARLP)",
-      "status": "approved",
-      "updateType": "teoria",
-      "source": "Redação própria, conferida no texto da Lei 6.404/1976 (arts. 178 e 179) e no CPC 12 (itens 9 e 10).",
-      "version": 1,
-      "updatedAt": "2026-11-19",
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "O ativo realizável a longo prazo reúne direitos realizáveis após o término do exercício social seguinte, que não se enquadram em investimentos, imobilizado ou intangível."
-        },
-        {
-          "type": "table",
-          "rows": [
-            [
-              "Conta",
-              "Exemplo",
-              "Cuidado"
-            ],
-            [
-              "Clientes a longo prazo",
-              "Venda a prazo com recebimento em 24 meses",
-              "Ajustar a valor presente (CPC 12) quando o juro for implícito e relevante"
-            ],
-            [
-              "Empréstimos a controladas, coligadas e diretores",
-              "Empréstimo a controlada com vencimento em 3 anos",
-              "Saldos com partes relacionadas devem ser identificados"
-            ],
-            [
-              "Títulos e valores mobiliários de longo prazo",
-              "Aplicação com vencimento em 2 anos",
-              "A classificação depende do modelo de negócios (CPC 48)"
-            ],
-            [
-              "Impostos a recuperar de longo prazo",
-              "Crédito tributário compensável após 12 meses",
-              "Só entra o valor que se realiza após 12 meses"
-            ],
-            [
-              "Depósitos judiciais",
-              "Depósito para garantir processo sem prazo definido",
-              "Classificação depende da expectativa de realização"
-            ]
-          ]
-        },
-        {
-          "type": "callout",
-          "kind": "rule",
-          "title": "Regra",
-          "text": "Se o direito se realiza depois de 12 meses da data do balanço, ele é não circulante. Quando o ciclo operacional da empresa é maior que 12 meses, o ciclo é o critério."
-        },
-        {
-          "type": "callout",
-          "kind": "danger",
-          "title": "Pegadinha",
-          "text": "ARLP não é investimento. Participação em controlada ou coligada vai para investimentos, mesmo que a expectativa de retorno seja de longo prazo."
-        }
-      ],
-      "flashcards": []
-    },
-    {
-      "id": "contab-teoria-fornecedores",
-      "subject": "Contabilidade",
-      "targetId": "conta-c-01",
-      "targetTitle": "Fornecedores",
-      "title": "Fornecedores",
-      "status": "approved",
-      "updateType": "teoria",
-      "source": "Redação própria, conferida no CPC 12 (itens 9 e 10), na prática do ajuste a valor presente de fornecedores e no CPC 16 (descontos e abatimentos deduzidos do custo de aquisição).",
-      "version": 1,
-      "updatedAt": "2026-11-19",
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Fornecedores são obrigações com quem entregou mercadorias, matéria-prima ou serviços a prazo. Normalmente ficam no passivo circulante, porque vencem em até 12 meses."
-        },
-        {
-          "type": "formula",
-          "text": "Compra a prazo de mercadorias: D Estoque (ou despesa) / C Fornecedores, pelo valor da nota fiscal"
-        },
-        {
-          "type": "table",
-          "rows": [
-            [
-              "Situação",
-              "Tratamento",
-              "Observação"
-            ],
-            [
-              "Compra a prazo de mercadorias",
-              "D Estoque / C Fornecedores pelo valor da nota",
-              "ICMS recuperável fica separado do estoque"
-            ],
-            [
-              "Pagamento no vencimento",
-              "D Fornecedores / C Caixa ou Bancos",
-              "Baixa pelo valor pago, sem alterar o custo do estoque"
-            ],
-            [
-              "Desconto incondicional concedido pelo fornecedor",
-              "Reduz o custo da compra",
-              "Não é receita financeira"
-            ],
-            [
-              "Juros e multa por atraso",
-              "D Despesa financeira / C Fornecedores ou Caixa",
-              "Não entram no custo do estoque nem do ativo"
-            ],
-            [
-              "Compra com prazo longo e juros embutidos",
-              "Ajustar a valor presente (CPC 12)",
-              "A diferença é despesa financeira ao longo do prazo"
-            ]
-          ]
-        },
-        {
-          "type": "flowchart",
-          "title": "Roteiro da compra a prazo",
-          "steps": [
-            {
-              "label": "1. Receber a mercadoria ou serviço",
-              "text": "Reconhecer o ativo ou a despesa pela nota"
-            },
-            {
-              "label": "2. Reconhecer o fornecedor",
-              "text": "Registrar a obrigação pelo valor da nota"
-            },
-            {
-              "label": "3. Verificar o prazo",
-              "text": "Se for longo e houver juros implícitos, ajustar a valor presente"
-            },
-            {
-              "label": "4. Pagar no vencimento",
-              "text": "Baixar a obrigação pelo valor pago"
-            }
-          ]
-        },
-        {
-          "type": "callout",
-          "kind": "rule",
-          "title": "Regra",
-          "text": "Fornecedores são mensurados pelo valor da obrigação. Quando o prazo é longo e os juros são implícitos, o valor presente é o valor de reconhecimento inicial."
-        },
-        {
-          "type": "callout",
-          "kind": "danger",
-          "title": "Pegadinha",
-          "text": "Juros de atraso e multa não entram no custo do estoque, nem do ativo. São despesa do período."
-        }
-      ],
-      "flashcards": []
-    },
-    {
-      "id": "contab-teoria-lei-6404",
-      "subject": "Contabilidade",
-      "targetId": "conta-d-08",
-      "targetTitle": "Lei 6.404 e suas alterações",
-      "title": "Lei 6.404/1976 e suas alterações",
-      "status": "approved",
-      "updateType": "teoria",
-      "source": "Redação própria, conferida no texto da Lei 6.404/1976 (arts. 176, 178, 179, 183, 184 e 186) e nas alterações das Leis 11.638/2007 e 11.941/2009.",
-      "version": 1,
-      "updatedAt": "2026-11-19",
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "A Lei 6.404/1976 é a lei das sociedades por ações. Foi alterada pelas Leis 11.638/2007 e 11.941/2009, que aproximaram a contabilidade brasileira das normas internacionais, adotadas por meio dos pronunciamentos do CPC."
-        },
-        {
-          "type": "table",
-          "rows": [
-            [
-              "Artigo",
-              "Assunto"
-            ],
-            [
-              "Art. 176",
-              "Demonstrações obrigatórias ao fim de cada exercício: balanço patrimonial, DLPA, DRE, DFC e, se companhia aberta, DVA"
-            ],
-            [
-              "Art. 178",
-              "Estrutura do balanço: ativo e passivo, circulante e não circulante, e patrimônio líquido"
-            ],
-            [
-              "Art. 179",
-              "Contas do ativo não circulante: realizável a longo prazo, investimentos, imobilizado e intangível"
-            ],
-            [
-              "Art. 183",
-              "Critérios de avaliação do ativo, incluindo ajuste a valor presente das operações de longo prazo (inciso VIII, incluído em 2007)"
-            ],
-            [
-              "Art. 184",
-              "Critérios de avaliação do passivo: obrigações em moeda estrangeira com paridade cambial pela taxa da data do balanço (inciso II) e ajuste a valor presente das obrigações não circulantes (inciso III, redação de 2009)"
-            ],
-            [
-              "Art. 186",
-              "Demonstração de lucros ou prejuízos acumulados (DLPA)"
-            ]
-          ]
-        },
-        {
-          "type": "callout",
-          "kind": "rule",
-          "title": "Regra",
-          "text": "Ao citar um artigo em prova, confira a redação vigente, porque as alterações de 2007 e 2009 mudaram nomes e critérios."
-        },
-        {
-          "type": "callout",
-          "kind": "danger",
-          "title": "Pegadinha",
-          "text": "Uma alternativa que descreve a redação anterior da lei pode estar errada em relação à lei vigente. Atenção, sobretudo, a termos ligados às alterações de 2007 e 2009."
-        }
-      ],
-      "flashcards": []
-    },
-    {
-      "id": "contab-teoria-cpc47-receita",
-      "subject": "Contabilidade",
-      "targetId": "conta-a-06",
-      "targetTitle": "Receita com Contrato com Cliente (CPC 47)",
-      "title": "Receita com contrato com cliente (CPC 47)",
-      "status": "approved",
-      "updateType": "teoria",
-      "source": "Redação própria, a partir do exercício de adiantamento de cliente (quadro Lançamentos contábeis) e das cinco etapas do CPC 47 (IFRS 15).",
-      "version": 1,
-      "updatedAt": "2026-11-19",
-      "flashcards": [],
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "A receita de contrato com cliente é reconhecida quando a entidade transfere ao cliente o controle do bem ou serviço prometido, e não quando o dinheiro é recebido nem quando o contrato é assinado."
-        },
-        {
-          "type": "flowchart",
-          "title": "Cinco etapas do CPC 47",
-          "steps": [
-            {
-              "label": "1. Identificar o contrato",
-              "text": "Contrato formalmente aprovado, com direitos e obrigações identificáveis."
-            },
-            {
-              "label": "2. Identificar as obrigações de desempenho",
-              "text": "Cada bem ou serviço distinto prometido ao cliente."
-            },
-            {
-              "label": "3. Determinar o preço da transação",
-              "text": "Valor da contraprestação que a entidade espera receber."
-            },
-            {
-              "label": "4. Alocar o preço às obrigações",
-              "text": "Dividir o preço entre as obrigações de desempenho."
-            },
-            {
-              "label": "5. Reconhecer a receita",
-              "text": "Quando, ou à medida que, a obrigação de desempenho for satisfeita."
-            }
-          ]
-        },
-        {
-          "type": "table",
-          "rows": [
-            [
-              "Situação",
-              "Lançamento",
-              "Tratamento"
-            ],
-            [
-              "Adiantamento recebido antes da entrega",
-              "D Caixa / C Adiantamento de clientes (passivo de contrato)",
-              "Sem receita: a obrigação ainda não foi cumprida"
-            ],
-            [
-              "Entrega do bem ou serviço",
-              "D Adiantamento de clientes / C Receita",
-              "Receita reconhecida no momento da transferência do controle"
-            ]
-          ]
-        },
-        {
-          "type": "callout",
-          "kind": "rule",
-          "title": "Regra essencial",
-          "text": "Adiantamento de cliente é passivo de contrato. Ele vira receita somente quando a obrigação de desempenho é satisfeita."
-        },
-        {
-          "type": "callout",
-          "kind": "danger",
-          "title": "Pegadinha",
-          "text": "Recebimento não é receita. Caixa recebido antes da entrega aumenta o passivo, e o resultado não muda nesse momento."
-        }
-      ]
     }
   ]
 }
