@@ -2,6 +2,14 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (Auditoria: quatro esquemas novos e complemento do risco)
+- Usuário aprovou a proposta do consolidado de Auditoria (conteúdos 001 a 010). Publicados `aud-08` (testes de controle × detalhes), `aud-09` (AUM), `aud-10` (tamanho da amostra, materialidade e TIED) e `aud-11` (eventos subsequentes X/Y/Z), versão 1.
+- `aud-07` (riscos de auditoria) recebeu o complemento de risco de amostragem × não amostragem e a memória; versão 2. A tabela de riscos já publicada foi mantida.
+- Bloco 06 (revisão relâmpago) não foi publicado como esquema.
+- Conferência legal não concluída: NBC TA 530 (5, A1, A18 a A22), NBC TA 560 (5(e), 6, 10, 14 a 17), NBC TA 320 (materialidade). Pendência registrada no campo `source` de cada esquema.
+- Planilha: não alterada nesta etapa; os quatro novos ainda não têm linha em "Conteúdos estruturados".
+- Arquivos: `source-content/study-knowledge.json`, `docs/REGISTRO_ALTERACOES.md`.
+
 ## 2026-11-20 — Claude (fórmulas: descontos reorganizados no quadro de comparação)
 - Quadro "Descontos — por dentro × por fora": bases separadas (racional, taxa i, base A; comercial, taxa d, base N), aviso para não misturar i e d, exemplo com N = 1.100 (por dentro: A = 1.000 e D = 100; por fora: D = 110 e A = 990) e a relação D_c = D_r · (1 + i · n) com a condição d = i.
 - Símbolo "D𝚌" trocado por "Dc" nos textos (4 ocorrências).

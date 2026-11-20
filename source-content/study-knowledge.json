@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
-  "exportedAt": "2026-11-20T13:21:32.177Z",
+  "exportedAt": "2026-11-20T18:03:38.304Z",
   "records": [
     {
       "id": "aud-01-responsabilidade-pela-opiniao-e-especialistas",
@@ -508,8 +508,8 @@
       "title": "Riscos de auditoria: inerente, controle e detecção",
       "status": "approved",
       "updateType": "comparativo",
-      "source": "(Claude) Origem: NBC TA 200; imagem enviada pelo usuário. Aprovado pelo usuário em 2026-11-20. Conferência legal não concluída: ver pendências no conteúdo.",
-      "version": 1,
+      "source": "(Claude) Origem: NBC TA 200; imagem enviada pelo usuário. Aprovado pelo usuário em 2026-11-20. Conferência legal não concluída: ver pendências no conteúdo. Versão 2: complemento de risco de amostragem (consolidado enviado pelo usuário, Auditoria 001 a 010).",
+      "version": 2,
       "updatedAt": "2026-11-20",
       "blocks": [
         {
@@ -578,10 +578,351 @@
           "url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA200(R1).pdf"
         },
         {
+          "type": "paragraph",
+          "text": "Complemento: risco de amostragem × risco não resultante da amostragem."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Risco de amostragem",
+              "Risco não resultante da amostragem"
+            ],
+            [
+              "A conclusão obtida com uma amostra pode diferir daquela obtida examinando toda a população com o mesmo procedimento.",
+              "A conclusão é errada por outros motivos: procedimento inadequado, interpretação equivocada, falha em reconhecer distorção ou desvio."
+            ],
+            [
+              "Pode ser reduzido por desenho adequado e, frequentemente, por amostra maior.",
+              "Pode ser reduzido por treinamento, supervisão, revisão, ceticismo e procedimentos adequados."
+            ],
+            [
+              "Existe tanto em amostragem estatística como não estatística.",
+              "Pode existir mesmo com amostra adequada ou exame de toda a população."
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Memória",
+          "text": "Amostragem: diferença entre amostra e população. Não amostragem: problema no procedimento ou na interpretação. Nenhum dos dois deve ser confundido com o risco inerente."
+        },
+        {
           "type": "callout",
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Conferir edição normativa e distinção entre materialidade e risco antes da implementação."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "aud-08-testes-de-controle-x-testes-de-detalhes",
+      "subject": "Auditoria",
+      "targetId": "",
+      "targetTitle": "Testes de controle × testes de detalhes",
+      "title": "Testes de controle × testes de detalhes",
+      "status": "approved",
+      "updateType": "comparativo",
+      "source": "(Claude) Origem: consolidado enviado pelo usuário (Auditoria, conteúdos 001 a 010). Aprovado pelo usuário em 2026-11-20. NBC TA 530, itens 5 e A18 a A22 (conferir). Conferência legal não concluída: itens de NBC TA 530 (5, A1, A18 a A22) e NBC TA 560 (5(e), 6, 10, 14 a 17) e a distinção entre materialidade global, na execução e distorção tolerável (NBC TA 320) pendentes.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Critério",
+              "Teste de controle",
+              "Teste de detalhes"
+            ],
+            [
+              "O que avalia",
+              "Eficácia operacional dos controles internos",
+              "Distorções em classes de transações, saldos ou divulgações"
+            ],
+            [
+              "Indicador",
+              "Taxa de desvio",
+              "Valor de distorção"
+            ],
+            [
+              "Projeção",
+              "Taxa de desvio da amostra corresponde à taxa projetada; dispensa projeção explícita adicional",
+              "Projeta as distorções encontradas na amostra para a população"
+            ],
+            [
+              "Foco da conclusão",
+              "Pode afetar a confiança depositada nos controles",
+              "Pode afetar a conclusão sobre os valores contábeis"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "note",
+          "title": "Exemplo — controle",
+          "text": "100 pagamentos testados, 8 sem autorização obrigatória: taxa observada de desvio = 8%. Isso não significa que 8% dos valores foram registrados incorretamente."
+        },
+        {
+          "type": "callout",
+          "kind": "note",
+          "title": "Exemplo — detalhes",
+          "text": "Lançamento de R$ 50.000 que deveria ser de R$ 42.000: distorção monetária de R$ 8.000. A conclusão depende do conjunto dos testes e da avaliação da população."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Distorção anômala",
+              "Distorção projetada"
+            ],
+            [
+              "Demonstradamente não representativa da população. Não é extrapolada como se fosse típica.",
+              "Estimativa para a população baseada nas distorções encontradas na amostra."
+            ],
+            [
+              "Não é ignorada: se não corrigida, seu efeito deve ser considerado.",
+              "Nos testes de detalhes, a melhor estimativa da distorção da população combina projeção e anomalia, se houver."
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Macete",
+          "text": "Controle = taxa de desvio. Detalhes = distorção projetada + anômala (quando existir). Uma distorção só é classificada como anômala mediante evidência suficiente e apropriada de que não representa a população."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferência legal não concluída: itens de NBC TA 530 (5, A1, A18 a A22) e NBC TA 560 (5(e), 6, 10, 14 a 17) e a distinção entre materialidade global, na execução e distorção tolerável (NBC TA 320) pendentes."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "aud-09-amostragem-por-unidade-monetaria-aum",
+      "subject": "Auditoria",
+      "targetId": "",
+      "targetTitle": "Amostragem por unidade monetária (AUM)",
+      "title": "Amostragem por unidade monetária (AUM)",
+      "status": "approved",
+      "updateType": "comparativo",
+      "source": "(Claude) Origem: consolidado enviado pelo usuário (Auditoria, conteúdos 001 a 010). Aprovado pelo usuário em 2026-11-20. Amostragem: conferir o modelo descrito no material contra a fonte primária da questão. Conferência legal não concluída: itens de NBC TA 530 (5, A1, A18 a A22) e NBC TA 560 (5(e), 6, 10, 14 a 17) e a distinção entre materialidade global, na execução e distorção tolerável (NBC TA 320) pendentes.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A AUM toma a unidade monetária como base da seleção. Itens com valores maiores concentram mais unidades monetárias e, portanto, têm maior probabilidade de seleção."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Elemento",
+              "Ideia para a prova"
+            ],
+            [
+              "População monetária (M)",
+              "Montante registrado contabilmente que compõe a população."
+            ],
+            [
+              "Quantidade de documentos",
+              "No modelo descrito no material, não exige conhecimento prévio da quantidade de elementos da população."
+            ],
+            [
+              "Variância dos valores",
+              "No modelo descrito, não exige conhecer previamente a variância dos itens."
+            ],
+            [
+              "Parâmetros apresentados",
+              "Proporção máxima de erros (p), índice de confiabilidade (Ci,a) e montante monetário (M)."
+            ],
+            [
+              "Uso frequente",
+              "Auditorias financeiras; análise de distorções monetárias e fidedignidade dos registros."
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "note",
+          "title": "Exemplo",
+          "text": "Uma nota de R$ 9.000 tem, proporcionalmente, nove vezes as unidades monetárias de uma nota de R$ 1.000; logo, tem maior probabilidade de seleção sob amostragem proporcional ao valor."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "O material associa a técnica à distribuição hipergeométrica. Essa associação deve ficar vinculada ao modelo específico da questão: não é correto afirmar, sem ressalvas, que todas as variantes de amostragem monetária utilizam necessariamente essa distribuição."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferência legal não concluída: itens de NBC TA 530 (5, A1, A18 a A22) e NBC TA 560 (5(e), 6, 10, 14 a 17) e a distinção entre materialidade global, na execução e distorção tolerável (NBC TA 320) pendentes."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "aud-10-tamanho-da-amostra-materialidade-e-tied",
+      "subject": "Auditoria",
+      "targetId": "",
+      "targetTitle": "Tamanho da amostra, materialidade e mnemônico TIED",
+      "title": "Tamanho da amostra, materialidade e mnemônico TIED",
+      "status": "approved",
+      "updateType": "comparativo",
+      "source": "(Claude) Origem: consolidado enviado pelo usuário (Auditoria, conteúdos 001 a 010). Aprovado pelo usuário em 2026-11-20. NBC TA 320 (materialidade) e NBC TA 530 (conferir). Conferência legal não concluída: itens de NBC TA 530 (5, A1, A18 a A22) e NBC TA 560 (5(e), 6, 10, 14 a 17) e a distinção entre materialidade global, na execução e distorção tolerável (NBC TA 320) pendentes.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Fator aumenta",
+              "O que ocorre com o tamanho da amostra?",
+              "Relação"
+            ],
+            [
+              "Distorção / desvio tolerável",
+              "Diminui",
+              "Inversa (TI)"
+            ],
+            [
+              "Distorção / desvio esperado",
+              "Aumenta",
+              "Direta (ED)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "TIED",
+          "text": "Tolerável = inversamente proporcional; esperado = diretamente proporcional. Mantidos constantes os demais fatores."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Conceito",
+              "Significado"
+            ],
+            [
+              "Materialidade global",
+              "Referência geral baseada na influência das distorções sobre as decisões dos usuários das demonstrações."
+            ],
+            [
+              "Materialidade na execução",
+              "Valor abaixo da materialidade global, para reduzir o risco de o agregado de distorções não corrigidas e não detectadas exceder a materialidade."
+            ],
+            [
+              "Distorção tolerável",
+              "Valor monetário definido para população específica; pode ser igual ou inferior à materialidade na execução."
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "note",
+          "title": "Exemplo",
+          "text": "Materialidade na execução = 10 (mil): distorção tolerável de 9 ou 10 é compatível com essa relação; 11 é superior ao parâmetro. Isso não significa que uma amostra com valor tolerável 9 ou 10 seja automaticamente aceita."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Materialidade e distorção tolerável são parâmetros de planejamento e avaliação; não são autorização para desprezar erros encontrados. A conclusão também considera distorções observadas, projetadas e risco de amostragem."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferência legal não concluída: itens de NBC TA 530 (5, A1, A18 a A22) e NBC TA 560 (5(e), 6, 10, 14 a 17) e a distinção entre materialidade global, na execução e distorção tolerável (NBC TA 320) pendentes."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "aud-11-eventos-subsequentes-x-y-z",
+      "subject": "Auditoria",
+      "targetId": "",
+      "targetTitle": "Eventos subsequentes — períodos X, Y e Z",
+      "title": "Eventos subsequentes — períodos X, Y e Z",
+      "status": "approved",
+      "updateType": "comparativo",
+      "source": "(Claude) Origem: consolidado enviado pelo usuário (Auditoria, conteúdos 001 a 010). Aprovado pelo usuário em 2026-11-20. NBC TA 560, itens 5(e), 6, 10 e 14 a 17 (conferir). Conferência legal não concluída: itens de NBC TA 530 (5, A1, A18 a A22) e NBC TA 560 (5(e), 6, 10, 14 a 17) e a distinção entre materialidade global, na execução e distorção tolerável (NBC TA 320) pendentes.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Definição da NBC TA 560, item 5(e): acontecimentos entre a data das demonstrações contábeis e a data do relatório do auditor, e fatos que cheguem ao conhecimento dele após a data do relatório."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Período",
+              "Marco temporal",
+              "Responsabilidade"
+            ],
+            [
+              "X",
+              "Data das demonstrações → data do relatório",
+              "Busca ativa: executar procedimentos destinados a obter evidência sobre eventos que exijam ajuste ou divulgação."
+            ],
+            [
+              "Y",
+              "Após o relatório → antes da divulgação",
+              "Sem busca rotineira: se conhecido fato que poderia alterar o relatório, discutir com a administração, avaliar a necessidade de alterar as demonstrações e, quando aplicável, indagar o tratamento pretendido."
+            ],
+            [
+              "Z",
+              "Após a divulgação",
+              "Sem busca rotineira: se conhecido fato que poderia alterar o relatório, seguir as providências específicas previstas na NBC TA 560."
+            ]
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Fluxo do período Y (NBC TA 560, item 10)",
+          "steps": [
+            {
+              "label": "Passo 1",
+              "text": "Auditor toma conhecimento de fato que poderia ter alterado seu relatório."
+            },
+            {
+              "label": "Passo 2",
+              "text": "Discute o fato com a administração e, quando apropriado, com os responsáveis pela governança."
+            },
+            {
+              "label": "Passo 3",
+              "text": "Determina se as demonstrações contábeis precisam ser alteradas."
+            },
+            {
+              "label": "Passo 4",
+              "text": "Se precisarem de alteração, indaga à administração como ela pretende tratar o fato nas demonstrações."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "“Não precisa realizar procedimentos de auditoria após o relatório” não equivale a “pode ignorar um fato relevante de que tome conhecimento”. Os procedimentos e providências variam conforme X, Y ou Z."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferência legal não concluída: itens de NBC TA 530 (5, A1, A18 a A22) e NBC TA 560 (5(e), 6, 10, 14 a 17) e a distinção entre materialidade global, na execução e distorção tolerável (NBC TA 320) pendentes."
         }
       ],
       "flashcards": []
