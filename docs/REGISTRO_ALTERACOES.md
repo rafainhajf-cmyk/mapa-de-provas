@@ -2,6 +2,16 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (Apostila de Tributário: lotes A a G, verificação final)
+- Revisão da apostila de Tributário em sete lotes: A (2.1, 2.2, 2.6 a 2.8), B (2.9 a 2.11), C (2.13, 3.1, 3.3, 3.4), D (3.5 a 3.8), E (4.1 a 4.4), F (5, 6.1 a 6.9), G (7, 8, 9 e URLs da seção 9, 11.1 a 11.9).
+- Resumos "Antes, Agora, Não confundir, Cuidado com o antigo" acrescentados aos pontos do foco. Textos existentes mantidos.
+- Correções: detalhe inventado removido da 6.3; URLs com espaços da seção 9 corrigidas; referência STJ/REsp da seção 9 separada em texto (separador inferido, conferir).
+- Conferidos por busca na web: LC 160/2017, arts. 108 e 109 da LC 214, arts. 67 e 76 da LC 214, art. 2º da LC 192 (via LC 227), EC 137/2025, LC 227 (IS na base do ICMS).
+- Verificação final: JSON de apostila-data.json válido; árvore de trabalho sem alterações pendentes.
+- Arquivos: `source-content/apostila-data.json`, `docs/REGISTRO_ALTERACOES.md`.
+- Não publicado: commits locais (lotes A a G), aguardando autorização para push.
+- Pendências: conferir na lei seção 3.7 (LC 232/2026 e Copa 2027), 3.8 (ADCT art. 126, III, ressalva ZFM), art. 31-A da Kandir, art. 3º § 3º da LC 214, art. 170 e demais citações dos resumos; conferir o separador do trecho STJ/REsp da seção 9; RCM e frete na lição de mercadorias (sem definição do usuário).
+
 ## 2026-11-20 — Claude (Apostila de Tributário: convênios conferidos na LC 160/2017)
 - Resumo de convênios ICMS atualizado com o texto da LC 160/2017 (arts. 1º e 2º, quórum da convalidação, benefícios novos com unanimidade, redução de 20% ao ano a partir do 12º ano e revogação pela LC 214/2025, art. 543, com efeitos em 2033).
 - Conferência feita por busca na web (Câmara e Planalto). Anexos enviados não contêm as leis tributárias do foco; ver lista de pendências.
