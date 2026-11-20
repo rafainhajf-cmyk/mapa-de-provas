@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
-  "exportedAt": "2026-11-20T12:27:29.334Z",
+  "exportedAt": "2026-11-20T13:21:32.177Z",
   "records": [
     {
       "id": "aud-01-responsabilidade-pela-opiniao-e-especialistas",
@@ -3927,6 +3927,340 @@
           "kind": "warning",
           "title": "Limites e dispensas mudam",
           "text": "A obrigatoriedade da ECD para imunes e isentas usa o limite da IN vigente na data da prova (R$ 4,8 milhões em 2590871 e 2965563). Conferir o ano normativo antes de transportar o número."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "civ-01-prescricao-decadencia-imprescritibilidade",
+      "subject": "Direito Civil",
+      "targetId": "",
+      "targetTitle": "Prescrição, decadência e imprescritibilidade",
+      "title": "Prescrição, decadência e imprescritibilidade",
+      "status": "approved",
+      "updateType": "comparativo",
+      "source": "(Claude) Anotação textual do usuário. Aprovado pelo usuário em 2026-11-20. Conferência legal não concluída: A inclusão individual deste conteúdo não foi expressamente confirmada. Número TEC não informado.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Natureza da ação",
+              "Regime geral",
+              "Por quê?"
+            ],
+            [
+              "Condenatória",
+              "Prescrição",
+              "Pretensão de exigir prestação"
+            ],
+            [
+              "Constitutiva com prazo especial",
+              "Decadência",
+              "Direito potestativo sujeito a prazo"
+            ],
+            [
+              "Constitutiva sem prazo especial",
+              "Imprescritibilidade na classificação doutrinária apresentada",
+              "Ausência de prazo especial"
+            ],
+            [
+              "Declaratória",
+              "Imprescritibilidade do pedido declaratório",
+              "Reconhecimento de situação jurídica"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Alcance da regra",
+          "text": "Pedido declaratório imprescritível não torna automaticamente imprescritível eventual pretensão condenatória cumulada. A aplicação a ações específicas requer conferência."
+        },
+        {
+          "type": "reference",
+          "text": "Código Civil, arts. 189 e 207 a 211",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "civ-02-negocio-juridico-nulo-anulavel",
+      "subject": "Direito Civil",
+      "targetId": "",
+      "targetTitle": "Negócio jurídico nulo × anulável",
+      "title": "Negócio jurídico nulo × anulável",
+      "status": "approved",
+      "updateType": "comparativo",
+      "source": "(Claude) Imagem fornecida pelo usuário; Código Civil, arts. 166, 167, 171, 178 e 179. Aprovado pelo usuário em 2026-11-20. Conferência legal não concluída: Número TEC não informado.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "NULO — arts. 166 e 167",
+              "ANULÁVEL — art. 171"
+            ],
+            [
+              "Incapacidade absoluta",
+              "Incapacidade relativa"
+            ],
+            [
+              "Objeto ilícito, impossível ou indeterminável",
+              "Erro, dolo, coação, estado de perigo, lesão"
+            ],
+            [
+              "Motivo determinante ilícito comum às partes",
+              "Fraude contra credores"
+            ],
+            [
+              "Ausência de forma prescrita ou solenidade essencial",
+              "—"
+            ],
+            [
+              "Objetivo de fraudar lei imperativa; nulidade expressa",
+              "—"
+            ],
+            [
+              "Simulação",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Critério",
+              "Nulo",
+              "Anulável"
+            ],
+            [
+              "Confirmação",
+              "Não",
+              "Em regra, sim"
+            ],
+            [
+              "Reconhecimento de ofício",
+              "Cabe, conforme art. 168",
+              "Não, em regra"
+            ],
+            [
+              "Prazo",
+              "Não convalesce pelo decurso do tempo",
+              "Prazo decadencial: quatro anos nas hipóteses do art. 178; dois anos se aplicável o art. 179"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Simulação: nulidade. Fraude contra credores: anulabilidade."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Prazo inicial",
+          "text": "O termo inicial do prazo do art. 178 depende da causa de anulabilidade."
+        },
+        {
+          "type": "reference",
+          "text": "Código Civil, arts. 166 a 179",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "civ-03-sucessao-legitima-ordem-de-vocacao",
+      "subject": "Direito Civil",
+      "targetId": "",
+      "targetTitle": "Sucessão legítima — ordem de vocação hereditária",
+      "title": "Sucessão legítima — ordem de vocação hereditária",
+      "status": "approved",
+      "updateType": "comparativo",
+      "source": "(Claude) Texto do art. 1.829 do Código Civil fornecido pelo usuário. Aprovado pelo usuário em 2026-11-20. Conferência legal não concluída: A inclusão individual deste conteúdo não foi expressamente confirmada. Número TEC não informado.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Ordem",
+              "Chamados"
+            ],
+            [
+              "I",
+              "Descendentes, em concorrência com cônjuge, salvo exceções"
+            ],
+            [
+              "II",
+              "Ascendentes em concorrência com cônjuge"
+            ],
+            [
+              "III",
+              "Cônjuge sobrevivente"
+            ],
+            [
+              "IV",
+              "Colaterais"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Regime",
+              "Concorrência do cônjuge com descendentes"
+            ],
+            [
+              "Comunhão universal",
+              "Não"
+            ],
+            [
+              "Separação obrigatória",
+              "Não"
+            ],
+            [
+              "Comunhão parcial sem bens particulares",
+              "Não"
+            ],
+            [
+              "Comunhão parcial com bens particulares",
+              "Sim, observadas particularidades da base sucessória"
+            ],
+            [
+              "Separação convencional",
+              "Sim"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Separação obrigatória não é separação convencional."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Meação × herança",
+          "text": "Meação decorre do regime de bens; herança decorre da transmissão sucessória. Não são equivalentes."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "União estável",
+          "text": "O Tema 809 do STF aplica ao companheiro o regime sucessório do art. 1.829. Examinar contexto temporal em questão concreta."
+        },
+        {
+          "type": "reference",
+          "text": "Código Civil, art. 1.829",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "civ-04-tomada-de-decisao-apoiada-capacidade",
+      "subject": "Direito Civil",
+      "targetId": "",
+      "targetTitle": "Tomada de decisão apoiada × capacidade civil da pessoa com deficiência",
+      "title": "Tomada de decisão apoiada × capacidade civil da pessoa com deficiência",
+      "status": "approved",
+      "updateType": "comparativo",
+      "source": "(Claude) Código Civil, art. 1.783-A, e Lei 13.146/2015, art. 6º — textos enviados pelo usuário. Aprovado pelo usuário em 2026-11-20. Conferência legal não concluída: A inclusão individual deste conteúdo não foi expressamente confirmada. Número TEC não informado.",
+      "version": 1,
+      "updatedAt": "2026-11-20",
+      "blocks": [
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Tomada de decisão apoiada",
+          "text": "A pessoa com deficiência elege pelo menos duas pessoas idôneas com vínculos e confiança para fornecer elementos e informações que auxiliem suas decisões. O apoio não transfere sua vontade."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Critério",
+              "Tomada de decisão apoiada",
+              "Curatela"
+            ],
+            [
+              "Papel",
+              "Apoio à decisão pessoal",
+              "Proteção extraordinária delimitada judicialmente"
+            ],
+            [
+              "Escolha",
+              "Pelo menos 2 apoiadores",
+              "Curador designado judicialmente"
+            ],
+            [
+              "Capacidade",
+              "Exercício preservado",
+              "Limitações específicas na decisão judicial"
+            ],
+            [
+              "Abrangência",
+              "Atos do termo de apoio",
+              "Em regra, questões patrimoniais e negociais"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Art. 6º do Estatuto",
+              "Garantia"
+            ],
+            [
+              "Casamento e união estável",
+              "Capacidade preservada"
+            ],
+            [
+              "Direitos sexuais, reprodutivos e planejamento familiar",
+              "Capacidade preservada"
+            ],
+            [
+              "Fertilidade",
+              "Esterilização compulsória proibida"
+            ],
+            [
+              "Convivência familiar e comunitária",
+              "Direito preservado"
+            ],
+            [
+              "Guarda, tutela, curatela e adoção",
+              "Igualdade de oportunidades"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "A deficiência por si só não reduz a plena capacidade civil; apoiadores não substituem automaticamente a decisão da pessoa."
+        },
+        {
+          "type": "reference",
+          "text": "Código Civil, art. 1.783-A",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+        },
+        {
+          "type": "reference",
+          "text": "Lei 13.146, de 6 de julho de 2015, art. 6º",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
         }
       ],
       "flashcards": []

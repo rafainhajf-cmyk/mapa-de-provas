@@ -2,6 +2,14 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (Direito Civil publicado: 4 comparativos aprovados pelo usuário)
+- Usuário autorizou publicar os 4 conteúdos de Direito Civil do arquivo consolidado (`civ-01` a `civ-04`) "como estão". Importados em `study-knowledge.json` com status approved e versão 1. Sem registro existente alterado.
+- Conferência legal não concluída: item 1 (art. 189 e 207–211 CC; imprescritibilidade das declaratórias e das constitutivas sem prazo é posição doutrinária); item 2 (prazo de lesão e estado de perigo pelo art. 179 CC); item 3 (Tema 809 do STF, inclusive a parte temporal); item 4 (arts. 1.783-A CC e 6º da Lei 13.146/2015 conferidos de memória, não contra o texto oficial). Cada item traz a pendência no campo `source`.
+- Itens 1, 3 e 4 não tiveram inclusão individual confirmada pelo usuário; a publicação foi autorizada assim mesmo.
+- Planilha: as linhas de Direito Civil não foram criadas (o arquivo de origem proíbe alterar planilhas). Registrar depois para manter a fonte de verdade.
+- Arquivos: `source-content/study-knowledge.json`, `docs/REGISTRO_ALTERACOES.md`.
+- Pendências: conferência legal acima; IDs TEC não informados (nenhuma questão vinculada); conferir no site a matéria Direito Civil após o deploy.
+
 ## 2026-11-20 — Claude (Direito Empresarial e Auditoria publicados; esquemas aparecem na biblioteca)
 - Usuário aprovou os 3 conteúdos de Direito Empresarial (`dir-emp-preferencia-creditos`, `dir-emp-investidor-anjo`, `dir-emp-efeitos-falencia`) e os 7 de Auditoria (`aud-01` a `aud-07`). Importados em `study-knowledge.json` pelo script de importação (commits 8ef7707 e f08c981). Sem registro existente alterado.
 - Conferência legal: art. 6º (I a III), art. 83 e art. 84 da Lei 11.101/2005 e art. 61-A da LC 123/2006 conferidos contra o texto legal. Não conferidos: CTN art. 186, art. 151, limite de resgate pelo valor corrigido, voto consultivo do investidor-anjo; e todos os 7 conteúdos de Auditoria (NBC TA 620/200, Guia EFD, ECD, NF-e chave natural, LC 105 art. 4º, NBC TP 01). Cada pendência está marcada no próprio bloco como aviso.
