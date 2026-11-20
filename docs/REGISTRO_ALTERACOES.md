@@ -2,6 +2,15 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (Apostila de Tributário: conferência final da 3.7, 3.8 e pendências)
+- Conferido na web: seção 3.7 (LC 232/2026, Copa Feminina 2027: isenção de ISS concedida pelos Municípios e DF, limitada às pessoas jurídicas com incentivo federal, prazo ligado ao incentivo da União); seção 3.8 (ADCT, art. 126, III, "a": alíquota do IPI zero a partir de 2027, ressalva da ZFM).
+- Pendente de atenção: PEC 22/2026 propõe nova redação ao art. 126 do ADCT; conferir o andamento antes de publicar a 3.8.
+- Não localizado na busca: art. 31-A da Lei Kandir (a busca retornou outras leis); art. 3º, § 3º, da LC 214 (a busca não trouxe o texto). Ambos seguem sem conferência.
+- Observação: a data "texto oficial conferido em 24/10/2026", na seção 11.5, não tem comprovação nesta sessão; conferir ou remover.
+- Arquivos: `docs/REGISTRO_ALTERACOES.md`.
+- Não publicado: commit local, aguardando autorização para push.
+- Pendências: art. 31-A da Kandir; art. 3º, § 3º, da LC 214; seção 3.7 (texto da lei a ser conferido em detalhe); seção 11.5 (data de conferência); RCM e frete na lição de mercadorias.
+
 ## 2026-11-20 — Claude (Apostila de Tributário: lotes A a G, verificação final)
 - Revisão da apostila de Tributário em sete lotes: A (2.1, 2.2, 2.6 a 2.8), B (2.9 a 2.11), C (2.13, 3.1, 3.3, 3.4), D (3.5 a 3.8), E (4.1 a 4.4), F (5, 6.1 a 6.9), G (7, 8, 9 e URLs da seção 9, 11.1 a 11.9).
 - Resumos "Antes, Agora, Não confundir, Cuidado com o antigo" acrescentados aos pontos do foco. Textos existentes mantidos.
