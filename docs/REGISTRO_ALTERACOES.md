@@ -2,6 +2,13 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (Apostila de Tributário: convênios conferidos na LC 160/2017)
+- Resumo de convênios ICMS atualizado com o texto da LC 160/2017 (arts. 1º e 2º, quórum da convalidação, benefícios novos com unanimidade, redução de 20% ao ano a partir do 12º ano e revogação pela LC 214/2025, art. 543, com efeitos em 2033).
+- Conferência feita por busca na web (Câmara e Planalto). Anexos enviados não contêm as leis tributárias do foco; ver lista de pendências.
+- Arquivos: `source-content/apostila-data.json`.
+- Não publicado: commit local, aguardando autorização para push.
+- Pendências: LC 192/2022 (art. 2º), LC 214 arts. 108 e 109 e revogação do art. 543 ainda não conferidos no texto oficial; os PDFs de origem da apostila não estão anexados.
+
 ## 2026-11-20 — Claude (Apostila de Tributário: antes, agora, não confundir — lote 2)
 - Resumo "Antes, Agora, Não confundir, Cuidado com o antigo" acrescentado a: seção 11 (contribuinte e responsável), convênios ICMS (LC 24/1975 e LC 160/2017), 2.12 (benefícios e combustíveis) e 3.2 (LC 192/2022).
 - Arquivos: `source-content/apostila-data.json`.
