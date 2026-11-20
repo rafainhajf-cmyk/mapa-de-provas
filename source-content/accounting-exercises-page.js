@@ -1,5 +1,5 @@
-import {accountingSetsHTML} from './accounting-curated.js?v=7';
-import {tecRefsHTML} from './accounting-tec-refs.js?v=1';
+import {accountingSetsHTML} from './accounting-curated.js?v=8';
+import {tecRefsHTML} from './accounting-tec-refs.js?v=2';
 document.querySelector('#exerciseLists').innerHTML=accountingSetsHTML()+tecRefsHTML();
 const progressKey='mapa-contab-curated-progress-v1';
 let completed={};

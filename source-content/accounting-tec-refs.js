@@ -423,6 +423,9 @@ const refs = [
  }
 ];
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+export function tecRefsLinksHTML(title){
+ return '<div class="tec-table-wrap"><p><strong>'+esc(title)+' · '+refs.length+' questões</strong></p>'+refs.map(x=>'<a data-route-jump="'+esc(x.id)+'" href="#tec-'+esc(x.id)+'">#'+esc(x.id)+'</a>').join(' · ')+'</div>';
+}
 export function tecRefsHTML(){
  return '<section class="accounting-curated"><section><h2 class="accounting-set-title">Novos exercícios TEC · referências (70 questões)</h2><p class="accounting-curated-note">Questões do caderno [União] Contabilidade ainda sem cartão na página. Abra a questão no TEC para responder. O gabarito é o do caderno; as marcadas como conferidas tiveram o comentário do professor verificado.</p>'
   + refs.map(r=>'<article id="tec-'+esc(r.id)+'" class="accounting-ia-exercise" data-study-route="bank" data-exercise-origin="tec" data-minimal="no" data-exercise-kind="misto" data-exercise-solved="no"><label class="curated-done"><input type="checkbox" data-curated-id="TEC-'+esc(r.id)+'"> Feito</label><label class="curated-done">Resultado <select data-result-id="TEC-'+esc(r.id)+'"><option value="">—</option><option value="acertei">Acertei</option><option value="errei">Errei</option></select></label><h4>TEC #'+esc(r.id)+' · Contabilidade</h4><p class="exercise-source">'+esc(r.assunto)+'<br><a target="_blank" rel="noopener noreferrer" href="https://www.tecconcursos.com.br/questoes/'+esc(r.id)+'">Abrir a questão no TEC</a></p><details><summary>Revelar gabarito do caderno</summary><p><strong>Gabarito: '+esc(r.gabarito)+'</strong>'+(r.verificado?' (conferido no comentário do professor)':' (não verificado por Claude)')+'</p></details></article>').join('')

@@ -2,6 +2,13 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (Contabilidade: teoria CPC 47 e 70 questões TEC nas três seções)
+- Acrescentada lição "CPC 47 — receita de contrato com cliente" na Teoria das questões, escrita em linguagem própria (único assunto da lista sem lição).
+- As 70 questões TEC de referência passaram a aparecer como links (#ID) nas três seções: Lista mínima, Roteiro enxuto e Teoria das questões.
+- Unificadas as versões dos módulos (`accounting-tec-refs.js?v=2`, `accounting-curated.js?v=8`, `accounting-exercises-page.js?v=5`).
+- Arquivos: `source-content/accounting-curated.js`, `source-content/accounting-tec-refs.js` (função `tecRefsLinksHTML`), `source-content/accounting-exercises-page.js`, `source-content/contabilidade-exercicios.html`.
+- Pendências: etapa 2 (explicações curtas para as 70, em lotes, marcadas como de Claude); etapa 3 (conferência no site e linhas na aba Questões da planilha, ainda não feitas).
+
 ## 2026-11-20 — Claude (Contabilidade: resultado por questão TEC na página de exercícios)
 - Usuário pediu marcar, em cada exercício TEC de Contabilidade, se fez a questão e se acertou. Acrescentado o campo "Resultado: Acertei / Errei" ao lado de "Feito", com contador de respondidas e acertos no topo.
 - O clique em "Ver origem no TEC" continua abrindo a questão no TEC (escolha do usuário). Não foi incluído PDF do caderno.
