@@ -27099,6 +27099,142 @@
           "message": "Há espaço de imagem ausente na segunda página; texto e diagramas legíveis incorporados."
         }
       ]
+    },
+    "Direito Administrativo": {
+      "coverage": "complete",
+      "source": "Sumário enviado pelo usuário (Sumários das 8 matérias, 2026-11-20).",
+      "nodes": [
+        {
+          "id": "adm-01",
+          "title": "Organização administrativa — agências reguladoras e agências executivas"
+        },
+        {
+          "id": "adm-02",
+          "title": "Terceiro setor — OS, OSCIP, OSC, Sistema S e entidades de apoio"
+        },
+        {
+          "id": "adm-03",
+          "title": "Atos administrativos — quadro geral"
+        },
+        {
+          "id": "adm-04",
+          "title": "Poderes da Administração — quadro geral",
+          "children": [
+            {
+              "id": "adm-04-a",
+              "title": "Poder hierárquico — delegação, avocação e CENORA"
+            },
+            {
+              "id": "adm-04-b",
+              "title": "Poder de polícia — conceito, DAC e delegação"
+            }
+          ]
+        },
+        {
+          "id": "adm-05",
+          "title": "Consórcios públicos — contrato de programa"
+        }
+      ]
+    },
+    "Direito Civil e Processual Civil": {
+      "coverage": "complete",
+      "source": "Sumário enviado pelo usuário (Sumários das 8 matérias, 2026-11-20). Processo Civil ainda pendente de indexação.",
+      "nodes": [
+        {
+          "id": "civ-s-01",
+          "title": "Capacidade civil — tomada de decisão apoiada e capacidade da pessoa com deficiência"
+        },
+        {
+          "id": "civ-s-02",
+          "title": "Negócio jurídico — nulidade e anulabilidade"
+        },
+        {
+          "id": "civ-s-03",
+          "title": "Prescrição, decadência e imprescritibilidade"
+        },
+        {
+          "id": "civ-s-04",
+          "title": "Sucessão legítima — ordem de vocação hereditária"
+        }
+      ]
+    },
+    "Direito Empresarial": {
+      "coverage": "complete",
+      "source": "Sumário enviado pelo usuário (Sumários das 8 matérias, 2026-11-20).",
+      "nodes": [
+        {
+          "id": "dir-emp-s-01",
+          "title": "Investidor-anjo"
+        },
+        {
+          "id": "dir-emp-s-02",
+          "title": "Recuperação judicial e falência — efeitos sobre ações, execuções e prescrição"
+        },
+        {
+          "id": "dir-emp-s-03",
+          "title": "Preferência dos créditos — ordem de pagamento dentro e fora da falência"
+        }
+      ]
+    },
+    "Tributário": {
+      "coverage": "complete",
+      "source": "Sumário enviado pelo usuário (Sumários das 8 matérias, 2026-11-20).",
+      "nodes": [
+        {
+          "id": "trib-01",
+          "title": "Direito Tributário",
+          "children": [
+            {
+              "id": "trib-01-a",
+              "title": "Conceito, natureza e espécies de tributos"
+            },
+            {
+              "id": "trib-01-b",
+              "title": "Competência, legislação tributária e aplicação da lei no tempo"
+            },
+            {
+              "id": "trib-01-c",
+              "title": "Princípios e imunidades"
+            },
+            {
+              "id": "trib-01-d",
+              "title": "Obrigação e responsabilidade tributária"
+            },
+            {
+              "id": "trib-01-e",
+              "title": "Crédito tributário e sua extinção"
+            },
+            {
+              "id": "trib-01-f",
+              "title": "Fiscalização, sigilo de informações financeiras e repartição de receitas"
+            },
+            {
+              "id": "trib-01-g",
+              "title": "Processo administrativo fiscal, execução fiscal e ações judiciais tributárias"
+            },
+            {
+              "id": "trib-01-h",
+              "title": "CTN e atualizações"
+            }
+          ]
+        },
+        {
+          "id": "trib-02",
+          "title": "Legislação Tributária Estadual (LTE) — ICMS, IPVA, ITCMD, legislação do Ceará e Simples Nacional"
+        },
+        {
+          "id": "trib-03",
+          "title": "Tributação municipal — IPTU, ITBI e ISSQN"
+        },
+        {
+          "id": "trib-04",
+          "title": "Reforma Tributária — EC 132/2023 e transição, IBS e CBS, Imposto Seletivo, Comitê Gestor do IBS, processo administrativo do IBS, LC 227/2026 e direitos e garantias do contribuinte"
+        },
+        {
+          "id": "trib-05",
+          "title": "Comparativo tributário de leis"
+        }
+      ]
     }
   },
   "subjectResources": [

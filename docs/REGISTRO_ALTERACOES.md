@@ -2,6 +2,13 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (sumários de Direito Administrativo, Direito Civil e Processual Civil, Direito Empresarial e Tributário)
+- Usuário enviou o arquivo "Sumários das 8 matérias". Cadastrados em `subjectCatalogs` de `difficulty-data.json` os sumários de Direito Administrativo (5 assuntos), Direito Civil e Processual Civil (4; Processo Civil pendente de indexação), Direito Empresarial (3) e Tributário (5, com subitens em Direito Tributário).
+- Não cadastrados: Direito Penal e Processual Penal, Estatística, Português e Raciocínio Lógico. São estrutura sugerida no arquivo, sem confirmação do usuário.
+- Os assuntos não têm vínculo com as pastas de material; aparecem como lista, sem link para arquivos.
+- Arquivos: `source-content/difficulty-data.json`, `docs/REGISTRO_ALTERACOES.md`.
+- Pendências: confirmar as quatro matérias sugeridas; indexar Processo Civil; vincular os assuntos aos materiais quando houver.
+
 ## 2026-11-20 — Claude (Direito Civil publicado: 4 comparativos aprovados pelo usuário)
 - Usuário autorizou publicar os 4 conteúdos de Direito Civil do arquivo consolidado (`civ-01` a `civ-04`) "como estão". Importados em `study-knowledge.json` com status approved e versão 1. Sem registro existente alterado.
 - Conferência legal não concluída: item 1 (art. 189 e 207–211 CC; imprescritibilidade das declaratórias e das constitutivas sem prazo é posição doutrinária); item 2 (prazo de lesão e estado de perigo pelo art. 179 CC); item 3 (Tema 809 do STF, inclusive a parte temporal); item 4 (arts. 1.783-A CC e 6º da Lei 13.146/2015 conferidos de memória, não contra o texto oficial). Cada item traz a pendência no campo `source`.
