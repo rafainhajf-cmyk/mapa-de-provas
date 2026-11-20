@@ -2,6 +2,12 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (Apostila de Tributário: antes, agora, não confundir — lote 1)
+- Seções 2.3, 2.4 e 2.5 (crédito na aquisição, nota fiscal e local da operação) ganharam o resumo "Antes, Agora, Não confundir, Cuidado com o antigo" no início. O texto existente foi mantido.
+- Arquivos: `source-content/apostila-data.json`.
+- Não publicado: commit local, aguardando autorização para push.
+- Pendências: aplicar o mesmo formato à seção 11 (contribuinte e responsável), às leis de convênios (LC 24/1975 e LC 160/2017), à LC 192/2022 e às demais seções do foco. Conferir o art. 108 e 109 da LC 214 nas fontes oficiais antes de publicar.
+
 ## 2026-11-20 — Claude (Tributário: Dificuldades por matéria só com direito normativo)
 - Na aba Dificuldades por matéria, a matéria Tributário passa a mostrar apenas o grupo "Direito Tributário Normativo" (apostilas DT do Literalidade, principalmente o CTN). Os grupos IPVA, ITCMD, ITBI, ISSQN, Reforma, LC 227, RMIT, Comparativo e LTE e Convênios saem dessa aba.
 - Arquivos: `source-content/dificuldades.js`.
