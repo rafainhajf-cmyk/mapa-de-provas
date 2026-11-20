@@ -2,6 +2,13 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (Contabilidade: roteiro com Feito/Resultado e filtro por prova)
+- Roteiro enxuto: cada linha ganhou "Feito" e "Resultado" (Acertei/Errei) para a questão principal e para o complemento, como na Lista mínima. Marcar em um lugar atualiza o cartão correspondente na página de exercícios.
+- Página de exercícios: novo filtro "Prova" (226 provas, mapeamento de 621 questões em `accounting-exam-map.js`). Ao escolher uma prova, mostra "nesta prova: X de Y feitas".
+- Teoria ainda não ampliada: cobertura dos 621 exercícios depende de confirmar escopo (LC 116).
+- Arquivos: `source-content/accounting-curated.js`, `source-content/accounting-exercises-page.js`, `source-content/contabilidade-exercicios.html`, `source-content/accounting-exam-map.js` (novo).
+- Pendências: testar no navegador depois do deploy (marcação duplicada roteiro/cartão e contagem por prova); decidir se LC 116 entra na teoria.
+
 ## 2026-11-20 — Claude (Contabilidade: explicações das 70 questões TEC, etapa 2)
 - Acrescentada explicação curta para cada uma das 70 questões de referência, dentro de "Revelar gabarito do caderno". Texto marcado como escrito por Claude, não pelo professor.
 - Cálculos refeitos por Claude; a maioria bate com o gabarito do caderno.
