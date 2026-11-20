@@ -27235,6 +27235,178 @@
           "title": "Comparativo tributário de leis"
         }
       ]
+    },
+    "Direito Penal e Processual Penal": {
+      "coverage": "complete",
+      "source": "Estrutura sugerida, confirmada pelo usuário em 2026-11-20.",
+      "nodes": [
+        {
+          "id": "pen-01",
+          "title": "Direito Penal",
+          "children": [
+            {
+              "id": "pen-01-a",
+              "title": "Princípios e aplicação da lei penal"
+            },
+            {
+              "id": "pen-01-b",
+              "title": "Teoria do crime — tipicidade, ilicitude e culpabilidade"
+            },
+            {
+              "id": "pen-01-c",
+              "title": "Tentativa, consumação e concurso de pessoas"
+            },
+            {
+              "id": "pen-01-d",
+              "title": "Penas e extinção da punibilidade"
+            },
+            {
+              "id": "pen-01-e",
+              "title": "Crimes contra a Administração Pública e contra a ordem tributária"
+            }
+          ]
+        },
+        {
+          "id": "pen-02",
+          "title": "Processo Penal",
+          "children": [
+            {
+              "id": "pen-02-a",
+              "title": "Inquérito policial e ação penal"
+            },
+            {
+              "id": "pen-02-b",
+              "title": "Jurisdição e competência"
+            },
+            {
+              "id": "pen-02-c",
+              "title": "Provas e cadeia de custódia"
+            },
+            {
+              "id": "pen-02-d",
+              "title": "Prisões, medidas cautelares e liberdade provisória"
+            },
+            {
+              "id": "pen-02-e",
+              "title": "Procedimentos, nulidades e recursos"
+            }
+          ]
+        }
+      ]
+    },
+    "Estatística": {
+      "coverage": "complete",
+      "source": "Estrutura sugerida, confirmada pelo usuário em 2026-11-20.",
+      "nodes": [
+        {
+          "id": "est-01",
+          "title": "Estatística descritiva — tabelas, gráficos e distribuição de frequências"
+        },
+        {
+          "id": "est-02",
+          "title": "Medidas de posição, dispersão e forma"
+        },
+        {
+          "id": "est-03",
+          "title": "Probabilidade — eventos, probabilidade condicional e teorema de Bayes"
+        },
+        {
+          "id": "est-04",
+          "title": "Variáveis aleatórias e distribuições discretas e contínuas"
+        },
+        {
+          "id": "est-05",
+          "title": "Amostragem e distribuições amostrais"
+        },
+        {
+          "id": "est-06",
+          "title": "Estimação pontual e intervalos de confiança"
+        },
+        {
+          "id": "est-07",
+          "title": "Testes de hipóteses"
+        },
+        {
+          "id": "est-08",
+          "title": "Correlação e regressão"
+        }
+      ]
+    },
+    "Português": {
+      "coverage": "complete",
+      "source": "Estrutura sugerida, confirmada pelo usuário em 2026-11-20.",
+      "nodes": [
+        {
+          "id": "por-01",
+          "title": "Compreensão e interpretação de textos"
+        },
+        {
+          "id": "por-02",
+          "title": "Tipologia textual, coesão e coerência"
+        },
+        {
+          "id": "por-03",
+          "title": "Semântica — sentido, ambiguidade e relações entre palavras"
+        },
+        {
+          "id": "por-04",
+          "title": "Ortografia e acentuação"
+        },
+        {
+          "id": "por-05",
+          "title": "Classes de palavras e formação de palavras"
+        },
+        {
+          "id": "por-06",
+          "title": "Sintaxe da oração e do período"
+        },
+        {
+          "id": "por-07",
+          "title": "Concordância, regência e crase"
+        },
+        {
+          "id": "por-08",
+          "title": "Pontuação e colocação pronominal"
+        },
+        {
+          "id": "por-09",
+          "title": "Reescrita de frases e preservação do sentido"
+        }
+      ]
+    },
+    "Raciocínio Lógico": {
+      "coverage": "complete",
+      "source": "Estrutura sugerida, confirmada pelo usuário em 2026-11-20.",
+      "nodes": [
+        {
+          "id": "rl-01",
+          "title": "Proposições, conectivos e tabelas-verdade"
+        },
+        {
+          "id": "rl-02",
+          "title": "Equivalências, negações, tautologias e contradições"
+        },
+        {
+          "id": "rl-03",
+          "title": "Quantificadores e lógica de predicados"
+        },
+        {
+          "id": "rl-04",
+          "title": "Argumentação e validade de argumentos"
+        },
+        {
+          "id": "rl-05",
+          "title": "Conjuntos e diagramas"
+        },
+        {
+          "id": "rl-06",
+          "title": "Sequências, padrões e problemas de associação"
+        },
+        {
+          "id": "rl-07",
+          "title": "Princípios de contagem e probabilidade aplicada"
+        }
+      ]
     }
   },
   "subjectResources": [

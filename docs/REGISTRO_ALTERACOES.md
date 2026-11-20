@@ -2,12 +2,12 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
-## 2026-11-20 — Claude (sumários de Direito Administrativo, Direito Civil e Processual Civil, Direito Empresarial e Tributário)
+## 2026-11-20 — Claude (sumários de oito matérias cadastrados)
 - Usuário enviou o arquivo "Sumários das 8 matérias". Cadastrados em `subjectCatalogs` de `difficulty-data.json` os sumários de Direito Administrativo (5 assuntos), Direito Civil e Processual Civil (4; Processo Civil pendente de indexação), Direito Empresarial (3) e Tributário (5, com subitens em Direito Tributário).
-- Não cadastrados: Direito Penal e Processual Penal, Estatística, Português e Raciocínio Lógico. São estrutura sugerida no arquivo, sem confirmação do usuário.
+- Penal e Processual Penal, Estatística, Português e Raciocínio Lógico: estrutura sugerida no arquivo, confirmada pelo usuário em 2026-11-20 e cadastrada no mesmo commit.
 - Os assuntos não têm vínculo com as pastas de material; aparecem como lista, sem link para arquivos.
 - Arquivos: `source-content/difficulty-data.json`, `docs/REGISTRO_ALTERACOES.md`.
-- Pendências: confirmar as quatro matérias sugeridas; indexar Processo Civil; vincular os assuntos aos materiais quando houver.
+- Pendências: indexar Processo Civil; vincular os assuntos aos materiais quando houver.
 
 ## 2026-11-20 — Claude (Direito Civil publicado: 4 comparativos aprovados pelo usuário)
 - Usuário autorizou publicar os 4 conteúdos de Direito Civil do arquivo consolidado (`civ-01` a `civ-04`) "como estão". Importados em `study-knowledge.json` com status approved e versão 1. Sem registro existente alterado.
