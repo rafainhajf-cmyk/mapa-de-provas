@@ -2,6 +2,14 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (Contabilidade: resultado por questão TEC na página de exercícios)
+- Usuário pediu marcar, em cada exercício TEC de Contabilidade, se fez a questão e se acertou. Acrescentado o campo "Resultado: Acertei / Errei" ao lado de "Feito", com contador de respondidas e acertos no topo.
+- O clique em "Ver origem no TEC" continua abrindo a questão no TEC (escolha do usuário). Não foi incluído PDF do caderno.
+- Marcações guardadas só neste navegador (`localStorage`, chave `mapa-contab-results-v1`), como o checkbox "Feito".
+- Arquivos: `source-content/accounting-curated.js` (import v=7 em `accounting-exercises-page.js`), `source-content/accounting-exercises-page.js`, `source-content/contabilidade-exercicios.html` (script v=3).
+- Conferência dos gabaritos de 3 questões divergentes (Q63 ID 3601421 = D; Q64 ID 2792283 = B; Q85 ID 3816434 = A) pelos comentários do TEC: o gabarito do caderno confere nas três.
+- Pendências: marcações não sincronizam entre aparelhos.
+
 ## 2026-11-20 — Claude (Auditoria: quatro esquemas novos e complemento do risco)
 - Usuário aprovou a proposta do consolidado de Auditoria (conteúdos 001 a 010). Publicados `aud-08` (testes de controle × detalhes), `aud-09` (AUM), `aud-10` (tamanho da amostra, materialidade e TIED) e `aud-11` (eventos subsequentes X/Y/Z), versão 1.
 - `aud-07` (riscos de auditoria) recebeu o complemento de risco de amostragem × não amostragem e a memória; versão 2. A tabela de riscos já publicada foi mantida.

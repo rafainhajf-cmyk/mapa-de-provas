@@ -1,7 +1,10 @@
-import {accountingSetsHTML} from './accounting-curated.js?v=6';
+import {accountingSetsHTML} from './accounting-curated.js?v=7';
 document.querySelector('#exerciseLists').innerHTML=accountingSetsHTML();
 const progressKey='mapa-contab-curated-progress-v1';
 let completed={};
+const resultKey='mapa-contab-results-v1';
+let results={};
+try { const value=JSON.parse(localStorage.getItem(resultKey)||'{}');if(value&&typeof value==='object'&&!Array.isArray(value))results=value; } catch {}
 try { const value=JSON.parse(localStorage.getItem(progressKey)||'{}');if(value&&typeof value==='object'&&!Array.isArray(value))completed=value; } catch {}
 const boxes=[...document.querySelectorAll('[data-curated-id]')];
 const articles=[...document.querySelectorAll('article[data-exercise-kind]')];
@@ -22,6 +25,8 @@ function update(){
  applyFilters();
  const marked=new Set(boxes.filter(box=>box.checked).map(box=>box.dataset.curatedId)).size;
  document.querySelector('#curatedProgress').textContent=marked+' de '+new Set(boxes.map(box=>box.dataset.curatedId)).size+' exercícios marcados como feitos neste navegador.';
+ const answered=Object.keys(results).length,hits=Object.values(results).filter(v=>v==='acertei').length;
+ document.querySelector('#curatedProgress').textContent+=' Respondidas: '+answered+' · acertos: '+hits+'.';
 }
 for(const id of filterIds)document.getElementById(id).addEventListener('change',applyFilters);
 for(const box of boxes){
@@ -39,4 +44,13 @@ document.querySelector('#exerciseLists').addEventListener('click',event=>{
  for(const id of filterIds)document.getElementById(id).value='all';
  applyFilters();card.scrollIntoView({block:'start'});
 });
+const resultSelects=[...document.querySelectorAll('select[data-result-id]')];
+for(const sel of resultSelects){
+ sel.value=results[sel.dataset.resultId]||'';
+ sel.addEventListener('change',()=>{
+  if(sel.value)results[sel.dataset.resultId]=sel.value;else delete results[sel.dataset.resultId];
+  try {localStorage.setItem(resultKey,JSON.stringify(results));}catch{}
+  update();
+ });
+}
 update();
