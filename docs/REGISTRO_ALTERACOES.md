@@ -2,6 +2,12 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (Contabilidade: teoria, lote 2 — passivos, PL, CPC 12 e consolidação)
+- Onze lições novas em `accounting-curated.js`: empréstimos e fornecedores, duplicatas, PCLD, receitas e despesas antecipadas, folha (CPC 33), capital social, reservas de capital, ajuste de avaliação patrimonial, reserva de reavaliação, CPC 12 e CPC 36.
+- Cobre lacunas de passivos (empréstimos 17, duplicatas 3, PCLD 2, antecipadas 2, folha 2), PL (capital 5, reservas de capital 1, AVP 1, reavaliação 1), CPC 12 (18) e CPC 36 (4).
+- Não publicado: commit local, aguardando autorização para push.
+- Pendências: lotes seguintes (LC 116, goodwill complementar, mercadorias com RCM e frete, CPC 46, IRPJ e CSLL, conversão do CPC 02 e demais lacunas).
+
 ## 2026-11-20 — Claude (Contabilidade: teoria, lote 1 — demonstrações)
 - Sete lições novas em `accounting-curated.js`: DRE em cascata, destinação do lucro, balanço patrimonial, DRA, DLPA, CPC 26 (conjunto completo) e notas explicativas.
 - Cobre lacunas de DRE e destinação (24 questões), balanço (18), DRA (12), DLPA (1), CPC 26 (9) e notas (4).
