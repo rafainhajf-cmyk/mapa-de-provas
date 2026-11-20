@@ -2,6 +2,14 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (Direito Empresarial e Auditoria publicados; esquemas aparecem na biblioteca)
+- Usuário aprovou os 3 conteúdos de Direito Empresarial (`dir-emp-preferencia-creditos`, `dir-emp-investidor-anjo`, `dir-emp-efeitos-falencia`) e os 7 de Auditoria (`aud-01` a `aud-07`). Importados em `study-knowledge.json` pelo script de importação (commits 8ef7707 e f08c981). Sem registro existente alterado.
+- Conferência legal: art. 6º (I a III), art. 83 e art. 84 da Lei 11.101/2005 e art. 61-A da LC 123/2006 conferidos contra o texto legal. Não conferidos: CTN art. 186, art. 151, limite de resgate pelo valor corrigido, voto consultivo do investidor-anjo; e todos os 7 conteúdos de Auditoria (NBC TA 620/200, Guia EFD, ECD, NF-e chave natural, LC 105 art. 4º, NBC TP 01). Cada pendência está marcada no próprio bloco como aviso.
+- Interface: matérias sem material no Drive (Direito Empresarial, Auditoria) mostravam "Sem materiais enviados" na biblioteca de Dificuldades. `study-knowledge-ui.js` agora lista os esquemas aprovados dessas matérias no lugar do aviso. Cache de `study-knowledge-ui.js` atualizado para v=3 em `dificuldades.html`.
+- Planilha: linhas 50 a 59 de "Conteúdos estruturados" como `approved`. A coluna "Blocos JSON" guarda só a referência ao repositório; o texto completo está em `study-knowledge.json`.
+- Arquivos: `source-content/study-knowledge.json`, `source-content/study-knowledge-ui.js`, `source-content/dificuldades.html`, `docs/REGISTRO_ALTERACOES.md`.
+- Pendências: conferência legal acima; verificar no site (aba Dificuldades, matéria Direito Empresarial e Auditoria) se os esquemas aparecem depois do deploy.
+
 ## 2026-11-19 — Claude (Contabilidade: rascunhos aprovados, CPC 47 e CPC 08 no índice, Contabilidade Básica conferida)
 - Rascunhos `contab-teoria-arlp`, `contab-teoria-fornecedores` e `contab-teoria-lei-6404` com status `approved` a pedido do usuário. Origens atualizadas com o que foi conferido (Lei 6.404, CPC 12 e CPC 16 — desconto e abatimento deduzidos do custo de aquisição).
 - Novo registro `contab-teoria-cpc47-receita` (conta-a-06): definição, cinco etapas do CPC 47, tabela de adiantamento de cliente e pegadinha. Base: exercício do quadro Lançamentos contábeis e o CPC 47.

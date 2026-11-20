@@ -49,10 +49,26 @@ function paint(){
  }
  updateIndex(root,approved);
 }
+// Matérias sem nenhum material no Drive (ex.: Direito Empresarial, Auditoria) mostram
+// os esquemas aprovados na própria lista da biblioteca, no lugar de "Sem materiais enviados".
+function paintLibrary(){
+ const lib=document.querySelector('#difficultyLibrary');if(!lib)return;
+ for(const group of lib.querySelectorAll('details.difficulty-library-group')){
+  const subject=group.querySelector('summary')?.dataset.librarySubject;
+  const empty=group.querySelector('.library-no-material');
+  if(!subject||!empty)continue;
+  const notes=approved.filter(x=>x.updateType!==QT&&x.subject===subject);
+  if(!notes.length)continue;
+  const box=document.createElement('div');box.setAttribute('data-knowledge-library','1');box.innerHTML=knowledgeHTML(notes);
+  empty.replaceWith(box);
+ }
+}
 async function boot(){
  try{
   const r=await fetch('./study-knowledge.json',{cache:'no-store'});if(!r.ok)throw Error('Fonte de esquemas indisponível');
   approved=parseKnowledgeBundle(await r.json());
+  const lib=document.querySelector('#difficultyLibrary');
+  if(lib){new MutationObserver(()=>queueMicrotask(paintLibrary)).observe(lib,{childList:true,subtree:true});paintLibrary();}
   const root=document.querySelector(selector);if(!root)return;
   let scheduled=false;
   const observer=new MutationObserver(()=>{if(scheduled)return;scheduled=true;queueMicrotask(()=>{scheduled=false;paint();});});
