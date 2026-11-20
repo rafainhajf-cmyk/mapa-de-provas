@@ -2,6 +2,12 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (Apostila de Tributário: antes, agora, não confundir — lote 2)
+- Resumo "Antes, Agora, Não confundir, Cuidado com o antigo" acrescentado a: seção 11 (contribuinte e responsável), convênios ICMS (LC 24/1975 e LC 160/2017), 2.12 (benefícios e combustíveis) e 3.2 (LC 192/2022).
+- Arquivos: `source-content/apostila-data.json`.
+- Não publicado: commit local, aguardando autorização para push.
+- Pendências: conferir nas fontes oficiais os textos sobre LC 160/2017 (convalidação e revogação) e LC 192/2022; depois, lote das demais seções do foco.
+
 ## 2026-11-20 — Claude (Apostila de Tributário: antes, agora, não confundir — lote 1)
 - Seções 2.3, 2.4 e 2.5 (crédito na aquisição, nota fiscal e local da operação) ganharam o resumo "Antes, Agora, Não confundir, Cuidado com o antigo" no início. O texto existente foi mantido.
 - Arquivos: `source-content/apostila-data.json`.
