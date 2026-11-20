@@ -65,7 +65,7 @@ function paintLibrary(){
 }
 async function boot(){
  try{
-  const r=await fetch('./study-knowledge.json',{cache:'no-store'});if(!r.ok)throw Error('Fonte de esquemas indisponível');
+  const r=await fetch('./study-knowledge.json');if(!r.ok)throw Error('Fonte de esquemas indisponível');
   approved=parseKnowledgeBundle(await r.json());
   const lib=document.querySelector('#difficultyLibrary');
   if(lib){new MutationObserver(()=>queueMicrotask(paintLibrary)).observe(lib,{childList:true,subtree:true});paintLibrary();}

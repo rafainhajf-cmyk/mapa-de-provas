@@ -2,6 +2,15 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (site mais leve: JSONs de leitura com cache do navegador)
+- Medição: `data.json` tinha 11 MB sem compressão (1,5 MB comprimido), quase tudo banco de questões, e era baixado inteiro a cada abertura da página principal. `difficulty-data.json` (1,4 MB) era baixado de novo pela busca global.
+- Causa: as leituras usavam `cache: 'no-store'`, que proíbe o navegador de guardar qualquer cópia.
+- Mudança: removido `cache: 'no-store'` nas leituras de `data.json`, `difficulty-data.json`, `study-knowledge.json`, `formula-data.json` e `apostila-data.json`. O navegador agora guarda a cópia e só revalida com o servidor (resposta 304 quando nada mudou). A API de sincronização continua sem cache.
+- Versões de script atualizadas: `app.v44.js` (v=95), `dificuldades.js` (v=110), `study-global-search.js` (v=95), `formulas.js` (v=96), `study-knowledge-ui.js` (v=4), `apostila.js` (v=110).
+- Não mexido: o banco de questões (9,3 MB dentro de `data.json`) continua em um único arquivo. Separar por matéria seria a próxima melhoria, mas exige refatorar `app.v44.js`.
+- Arquivos não usados por nenhuma página (`app.js`, `app.v33.js`, `app.v36.js`) continuam publicados. Podem ser removidos em outra mudança.
+- Pendências: medir no navegador depois do deploy (tamanho transferido da segunda abertura).
+
 ## 2026-11-20 — Claude (sumários de oito matérias cadastrados)
 - Usuário enviou o arquivo "Sumários das 8 matérias". Cadastrados em `subjectCatalogs` de `difficulty-data.json` os sumários de Direito Administrativo (5 assuntos), Direito Civil e Processual Civil (4; Processo Civil pendente de indexação), Direito Empresarial (3) e Tributário (5, com subitens em Direito Tributário).
 - Penal e Processual Penal, Estatística, Português e Raciocínio Lógico: estrutura sugerida no arquivo, confirmada pelo usuário em 2026-11-20 e cadastrada no mesmo commit.

@@ -1,6 +1,6 @@
 const $=s=>document.querySelector(s),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const KEY='mapadeprovas.v1';let saved={};try{saved=JSON.parse(localStorage.getItem(KEY)||'{}')}catch{}
-let base;try{const r=await fetch('./data.json',{cache:'no-store'});if(!r.ok)throw Error();base=await r.json()}catch{$('#results').innerHTML='<div class="empty"><h3>Não foi possível carregar a base.</h3><p>Atualize a página para tentar novamente.</p></div>';throw Error('Data unavailable')}
+let base;try{const r=await fetch('./data.json');if(!r.ok)throw Error();base=await r.json()}catch{$('#results').innerHTML='<div class="empty"><h3>Não foi possível carregar a base.</h3><p>Atualize a página para tentar novamente.</p></div>';throw Error('Data unavailable')}
 let custom=saved.custom||{subjects:[],exams:[],questions:[]},progress=saved.progress||{},notes=saved.notes||{},materialLinks=cleanMaterialLinks(saved.materialLinks);const state={subject:'Tributário',area:'Todas',search:'',board:'',exam:'',common:false,sort:'alpha',view:'matrix',kandir:'',difference:'',page:'map',quality:'',transfer:'',studyTrack:'state-complement',coverage:'',includeAnnulled:false,accountingTheoryOpen:false};let activeQuestion=null;
 function subjectCatalog(subject=state.subject){return (base.subjectCatalog||[]).find(c=>c.name===subject)}
 const normalize=s=>String(s).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
