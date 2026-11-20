@@ -2,6 +2,12 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (Contabilidade: teoria, lote 1 — demonstrações)
+- Sete lições novas em `accounting-curated.js`: DRE em cascata, destinação do lucro, balanço patrimonial, DRA, DLPA, CPC 26 (conjunto completo) e notas explicativas.
+- Cobre lacunas de DRE e destinação (24 questões), balanço (18), DRA (12), DLPA (1), CPC 26 (9) e notas (4).
+- Não publicado: commit local, aguardando autorização para push.
+- Pendências: lotes seguintes (passivos, PL, CPC 12, consolidação, LC 116 e demais lacunas).
+
 ## 2026-11-20 — Claude (Contabilidade: roteiro com Feito/Resultado e filtro por prova)
 - Roteiro enxuto: cada linha ganhou "Feito" e "Resultado" (Acertei/Errei) para a questão principal e para o complemento, como na Lista mínima. Marcar em um lugar atualiza o cartão correspondente na página de exercícios.
 - Página de exercícios: novo filtro "Prova" (226 provas, mapeamento de 621 questões em `accounting-exam-map.js`). Ao escolher uma prova, mostra "nesta prova: X de Y feitas".
