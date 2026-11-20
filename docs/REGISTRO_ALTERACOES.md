@@ -7,7 +7,7 @@ Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — 
 - Cálculos refeitos por Claude; a maioria bate com o gabarito do caderno.
 - Pendências de conferência por ID: 3567083 e 3567073 estão sem as tabelas de balanço no texto (não recalculadas). 3683447: item I parece correto, em divergência com o gabarito B. 3257507 e 3816106: gabarito duvidoso. 3231477: enunciado incompleto. Confiança média em 3401258, 2395571, 1790371, 3228153, 3381834, 3228140 e 2792283 (premissas fiscais ou de classificação).
 - Arquivos: `source-content/accounting-tec-explicacoes.js` (novo), `source-content/accounting-tec-refs.js` (importa explicações e mostra no cartão).
-- Pendências: etapa 3 (conferência no site e linhas na aba Questões da planilha, ainda não feitas).
+- Etapa 3 feita: 70 linhas incluídas na aba Questões da planilha (A604:Q673), status `draft`, observação "(Claude)" com gabarito e data. Assuntos cortados em 60 caracteres na origem (28 casos), mantidos como estão para bater com o site.
 
 ## 2026-11-20 — Claude (Contabilidade: teoria CPC 47 e 70 questões TEC nas três seções)
 - Acrescentada lição "CPC 47 — receita de contrato com cliente" na Teoria das questões, escrita em linguagem própria (único assunto da lista sem lição).
