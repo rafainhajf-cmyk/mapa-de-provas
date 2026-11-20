@@ -2,6 +2,12 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (Contabilidade: teoria, lote 3 — LC 116, CPC 02, CPC 46, goodwill e outros)
+- Onze lições novas em `accounting-curated.js`: LC 116 (fato gerador, sujeito passivo e local, alíquota e base), CPC 02 (conversão), CPC 46 (valor justo), goodwill, IRPJ e CSLL, partidas dobradas, plano de contas, conceito e objeto, e princípios contábeis.
+- Não coberto nesta rodada: "Operações com Mercadorias (RCM, frete)", porque não tenho a definição de RCM como termo da prova. Preciso que você diga o que é RCM antes de eu escrever essa lição.
+- Lições escritas sem conferência das fontes oficiais: LC 116 (artigos citados), CPC 46 e tributos sobre o lucro (valores e faixas).
+- Não publicado: commit local, aguardando autorização para push.
+
 ## 2026-11-20 — Claude (Contabilidade: teoria, lote 2 — passivos, PL, CPC 12 e consolidação)
 - Onze lições novas em `accounting-curated.js`: empréstimos e fornecedores, duplicatas, PCLD, receitas e despesas antecipadas, folha (CPC 33), capital social, reservas de capital, ajuste de avaliação patrimonial, reserva de reavaliação, CPC 12 e CPC 36.
 - Cobre lacunas de passivos (empréstimos 17, duplicatas 3, PCLD 2, antecipadas 2, folha 2), PL (capital 5, reservas de capital 1, AVP 1, reavaliação 1), CPC 12 (18) e CPC 36 (4).
