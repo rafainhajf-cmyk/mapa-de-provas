@@ -82,6 +82,11 @@ export default async function handler(req, res) {
       res.statusCode=200; return res.end(req.method==='HEAD' ? undefined : html);
     }
     const info=await stat(file); let start=0,end=info.size-1;
+    // Arquivo estático autorizado: o navegador pode guardar uma cópia privada, mas revalida a cada uso (304 quando igual).
+    const etag='"'+info.size.toString(36)+'-'+Math.floor(info.mtimeMs).toString(36)+'"';
+    res.setHeader('Cache-Control','private, max-age=0, must-revalidate');
+    res.setHeader('ETag',etag);
+    if (req.headers['if-none-match']===etag && !req.headers.range) { res.statusCode=304; return res.end(); }
     res.setHeader('Accept-Ranges','bytes');
     if (req.headers.range) {
       const range=/^bytes=(\d*)-(\d*)$/.exec(req.headers.range);

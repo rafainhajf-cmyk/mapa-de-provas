@@ -7,6 +7,8 @@ Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — 
 - Causa: as leituras usavam `cache: 'no-store'`, que proíbe o navegador de guardar qualquer cópia.
 - Mudança: removido `cache: 'no-store'` nas leituras de `data.json`, `difficulty-data.json`, `study-knowledge.json`, `formula-data.json` e `apostila-data.json`. O navegador agora guarda a cópia e só revalida com o servidor (resposta 304 quando nada mudou). A API de sincronização continua sem cache.
 - Versões de script atualizadas: `app.v44.js` (v=95), `dificuldades.js` (v=110), `study-global-search.js` (v=95), `formulas.js` (v=96), `study-knowledge-ui.js` (v=4), `apostila.js` (v=110).
+- Causa real: o site passa por `api/gateway.mjs`, que enviava `no-store` também para arquivos estáticos. Mudança: arquivos estáticos autorizados recebem `private, max-age=0, must-revalidate` e `ETag`; o navegador guarda a cópia e revalida (304 sem corpo quando nada mudou). Páginas HTML continuam sem cache, porque levam o token de sessão. Login é verificado a cada pedido.
+- Teste automático do gateway (`test.mjs`) não pôde rodar aqui, porque as dependências (`iron-session`) não estão instaladas e o npm está bloqueado. Conferido no navegador após o deploy.
 - Não mexido: o banco de questões (9,3 MB dentro de `data.json`) continua em um único arquivo. Separar por matéria seria a próxima melhoria, mas exige refatorar `app.v44.js`.
 - Arquivos não usados por nenhuma página (`app.js`, `app.v33.js`, `app.v36.js`) continuam publicados. Podem ser removidos em outra mudança.
 - Pendências: medir no navegador depois do deploy (tamanho transferido da segunda abertura).
