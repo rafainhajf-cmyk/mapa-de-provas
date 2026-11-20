@@ -2,6 +2,12 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-20 — Claude (fórmulas: bloco de capitalização contínua reorganizado)
+- Bloco "Capitalização contínua" da comparação de fórmulas: título, variáveis em linha própria, colunas renomeadas para "Efetiva → instantânea" e "Instantânea → efetiva", exemplo (10% ⇒ δ ≈ 9,531% ⇒ 10%) e alerta de que δ não é taxa efetiva.
+- Conferido: ln(1,10) ≈ 0,09531 e e^0,09531 − 1 ≈ 0,10.
+- Arquivos: `source-content/formulas.js`, `source-content/formulas.html` (formulas.js v=97).
+- Pendências: nenhuma.
+
 ## 2026-11-20 — Claude (site mais leve: JSONs de leitura com cache do navegador)
 - Medição: `data.json` tinha 11 MB sem compressão (1,5 MB comprimido), quase tudo banco de questões, e era baixado inteiro a cada abertura da página principal. `difficulty-data.json` (1,4 MB) era baixado de novo pela busca global.
 - Causa: as leituras usavam `cache: 'no-store'`, que proíbe o navegador de guardar qualquer cópia.
