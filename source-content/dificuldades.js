@@ -59,10 +59,10 @@ export const state={selected:'all',view:'overview',search:'',status:'',subject:'
 const $=s=>document.querySelector(s);let model;
 export function libraryTopics(model,subject=''){
  const folders=model.folders.filter(f=>!subject||f.subject===subject),entries=[],used=new Set();
- for(const catalogSubject of ['Macroeconomia','Matemática Financeira','Contabilidade','Ciência de Dados','Auditoria']){
+ for(const catalogSubject of ['Macroeconomia','Matemática Financeira','Contabilidade','Ciência de Dados','Auditoria','Direito Administrativo']){
   if(subject&&subject!==catalogSubject)continue;
   const nodes=model.raw.subjectCatalogs?.[catalogSubject]?.nodes,folder=folders.find(f=>f.id===model.raw.subjectCatalogs?.[catalogSubject]?.rootFolderId)||folders.find(f=>f.subject===catalogSubject);
-  if(nodes&&folder)for(const [i,node] of nodes.entries()){const ids=[...new Set(node.fileIds||[])].filter(id=>model.files.has(id));entries.push({id:'group:'+folder.id+':'+node.id,title:node.title,studyGroup:node.title,order:i+1,subject:catalogSubject,folderId:folder.id,area:['Ciência de Dados','Auditoria'].includes(catalogSubject)?'':catalogSubject,fileIds:ids});ids.forEach(id=>used.add(id));}
+  if(nodes&&folder)for(const [i,node] of nodes.entries()){const ids=[...new Set(node.fileIds||[])].filter(id=>model.files.has(id));entries.push({id:'group:'+folder.id+':'+node.id,title:node.title,studyGroup:node.title,order:i+1,subject:catalogSubject,folderId:folder.id,area:['Ciência de Dados','Auditoria','Direito Administrativo'].includes(catalogSubject)?'':catalogSubject,fileIds:ids});ids.forEach(id=>used.add(id));}
  }
 
  for(const folder of folders)for(const file of folder.files){const note=model.analyzed.get(file.id);if(used.has(file.id)||note?.kind!=='study-note')continue;if(note.studyGroup){let group=entries.find(e=>e.studyGroup===note.studyGroup&&e.subject===folder.subject&&e.area===note.studyArea);if(!group){group={id:'group:'+folder.id+':'+note.studyGroupOrder,title:note.studyGroup,studyGroup:note.studyGroup,order:note.studyGroupOrder,subject:folder.subject,folderId:folder.id,area:note.studyArea,fileIds:[]};entries.push(group);}group.fileIds.push(file.id);}else entries.push({id:'material:'+file.id,title:note.topic||file.title,order:Number.isFinite(note.pinnedOrder)?note.pinnedOrder:undefined,subject:folder.subject,folderId:folder.id,area:folder.subject==='Tributário'?folder.path[1]||'Direito Tributário':'',fileIds:[file.id]});used.add(file.id)}

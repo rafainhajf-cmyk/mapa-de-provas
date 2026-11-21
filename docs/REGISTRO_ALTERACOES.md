@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-21 — Claude (Administrativo: assuntos próprios para os esquemas e rascunhos)
+- Direito Administrativo ganhou um assunto por esquema aprovado (34 assuntos, com o título do esquema). Esquemas e rascunhos passam a aparecer dentro do assunto correspondente, e não mais só no painel do índice.
+- `scripts/build.mjs` gera o catálogo `Direito Administrativo` a partir de `source-content/study-knowledge.json`; `source-content/dificuldades.js` inclui a matéria na lista de catálogos (sem repetir área).
+- Arquivos: `scripts/build.mjs`, `source-content/dificuldades.js`, `docs/REGISTRO_ALTERACOES.md`.
+- Testes: `npm run build` ok; `npm test` com as mesmas 5 falhas pré-existentes (30 pass).
+- Pendências: conferência visual no site depois do deploy (não feita; a branch ainda não foi mesclada). Confirmar que a visão do assunto não fica vazia por não ter arquivos do Drive. Branch `claude/assuntos-administrativo` aguarda aprovação para merge no `main`.
+
 ## 2026-11-21 — Claude (Custos: nova matéria em Dificuldades por matéria)
 - Matéria "Custos" criada em `source-content/difficulty-data.json` com 8 estudos: custos de produção (CPP, CPA, CPV), absorção × variável, margem de contribuição, ponto de equilíbrio, GAO, métodos de custeio e unidades de medida, proporcionalidade e taxa-padrão.
 - Conteúdo extraído dos 8 PDFs enviados. Fórmulas e quadros seguem as anotações; não conferidos contra fonte oficial.

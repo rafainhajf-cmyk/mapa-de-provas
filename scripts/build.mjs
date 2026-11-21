@@ -71,6 +71,19 @@ const constitutionalIds=new Set(rootData.folders.filter(f=>f.subject==='Direito 
 for(const id of constitutionalIds){const note=rootData.analysis.analyzedFiles.find(n=>n.id===id);if(!note?.contentBlocks?.length)continue;const i=liveData.analysis.analyzedFiles.findIndex(n=>n.id===id);if(i>=0)liveData.analysis.analyzedFiles[i]={...liveData.analysis.analyzedFiles[i],...note};}
 // Atualiza os blocos visuais de todas as matérias catalogadas, preservando arquivos originais.
 for(const originalNote of rootData.analysis.analyzedFiles){if(!originalNote.contentBlocks?.some(b=>b.type==='callout'||b.type==='flowchart'))continue;const index=liveData.analysis.analyzedFiles.findIndex(n=>n.id===originalNote.id);if(index>=0)liveData.analysis.analyzedFiles[index]={...liveData.analysis.analyzedFiles[index],contentBlocks:originalNote.contentBlocks};}
+// Assuntos de Direito Administrativo: um assunto por esquema aprovado (targetId), com o título do esquema.
+// Os esquemas e rascunhos são encaixados nele pelo study-knowledge-ui.js.
+const knowledgeRecords=JSON.parse(await readFile('source-content/study-knowledge.json','utf8')).records||[];
+const adminNodes=[];
+for(const r of knowledgeRecords){
+ if(r.subject!=='Direito Administrativo'||r.status!=='approved'||!r.targetId)continue;
+ if(adminNodes.some(n=>n.id===r.targetId))continue;
+ adminNodes.push({id:r.targetId,title:r.title,fileIds:[]});
+}
+if(adminNodes.length){
+ liveData.subjectCatalogs ||= {};
+ liveData.subjectCatalogs['Direito Administrativo']={coverage:'partial',source:'Esquemas aprovados do Direito Administrativo',nodes:adminNodes};
+}
 liveData.source ||= {};
 liveData.source.checkedAt=new Date().toISOString();
 await writeFile(liveDataPath,JSON.stringify(liveData));
