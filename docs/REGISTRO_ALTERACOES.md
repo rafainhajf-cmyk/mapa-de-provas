@@ -19,7 +19,7 @@ Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — 
 - Sete assuntos ganharam teoria da matéria, pesquisada de novo em fontes oficiais e secundárias citadas em cada ponto (rascunho em `docs/contabilidade/rascunho-teoria-7.md`): conta-f-02 (CPC 06 R2), conta-f-06 (CPC 24), conta-f-05 (CPC 16 R1), conta-f-03 (CPC 05 R1), conta-c-07 (CPC 33 R1), conta-b-01 (Disponibilidades), conta-c-01 (Fornecedores).
 - Pendências visíveis no texto: lançamentos do arrendatário; conflito sobre UEPS no CPC 16; regras de verbas rescisórias; prazo de equivalentes de caixa; diferença entre fornecedores e contas a pagar.
 - Arquivos: `source-content/accounting-theory-data.js`, `source-content/accounting-study.js` (import v=2), `source-content/dificuldades.js` (import v=113), `docs/contabilidade/rascunho-teoria-7.md`.
-- Pendências: conferir os itens das pendências no texto oficial; regras da Teoria das questões para as 19 questões sem regra; 20 questões tributárias de LC 116.
+- Pendências: conferir os itens das pendências no texto oficial; regras da Teoria das questões para as 8 questões sem explicação no repositório (2223559, 2949362, 3093142, 3114168, 3149114, 3154666, 3365979, 3975976); 20 questões tributárias de LC 116.
 
 ## 2026-11-21 — Claude (Contabilidade: teoria da matéria para 10 assuntos)
 - Dez assuntos de Contabilidade ganharam teoria da matéria, transcrita do rascunho aprovado (`docs/contabilidade/rascunho-teoria-18.md`), com a fonte citada em cada ponto: conta-a-06, conta-b-02, conta-b-03, conta-b-06, conta-c-02, conta-c-03, conta-c-04, conta-d-08, conta-e-02, conta-e-08.
