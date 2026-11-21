@@ -21,7 +21,8 @@ Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — 
 - `scripts/build.mjs` gera o catálogo `Direito Administrativo` a partir de `source-content/study-knowledge.json`; `source-content/dificuldades.js` inclui a matéria na lista de catálogos (sem repetir área).
 - Arquivos: `scripts/build.mjs`, `source-content/dificuldades.js`, `docs/REGISTRO_ALTERACOES.md`.
 - Testes: `npm run build` ok; `npm test` com as mesmas 5 falhas pré-existentes (30 pass).
-- Pendências: conferência visual no site depois do deploy (não feita; a branch ainda não foi mesclada). Confirmar que a visão do assunto não fica vazia por não ter arquivos do Drive. Branch `claude/assuntos-administrativo` aguarda aprovação para merge no `main`.
+- Publicado: merge `5553940` no `main`, deploy `dpl_EJvdj54dYib8B6bze81xArqd5Gjk` READY. Conferido no site: os 34 assuntos aparecem na lista de Direito Administrativo; cada um abre com o esquema e o rascunho dentro (71 blocos, todos no assunto de mesmo título). O painel do índice deixou de repetir esses blocos.
+- Pendências: o assunto não tem arquivos do Drive; a leitura vem só dos esquemas. Testes após o merge: 31 pass, 4 fail (no `main` antes da mudança eram 27 pass, 8 fail; as 4 restantes já falhavam).
 
 ## 2026-11-21 — Claude (Custos: nova matéria em Dificuldades por matéria)
 - Matéria "Custos" criada em `source-content/difficulty-data.json` com 8 estudos: custos de produção (CPP, CPA, CPV), absorção × variável, margem de contribuição, ponto de equilíbrio, GAO, métodos de custeio e unidades de medida, proporcionalidade e taxa-padrão.
