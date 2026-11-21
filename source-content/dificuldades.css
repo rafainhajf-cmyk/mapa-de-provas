@@ -138,3 +138,8 @@ body:has(.study-note-dialog[open]){overflow:hidden}
 .macro-source-materials[open]>.reader-document{margin-top:22px}
 .macro-existing-graphs{max-width:1120px;margin:20px auto}
 @media(max-width:640px){.macro-concept-review .macro-review-section{padding:13px}.macro-concept-review .macro-formula{font-size:17px;padding:13px}.macro-concept-review td,.macro-concept-review th{padding:9px}.macro-review-label{font-size:11px}}
+
+.content-filter{display:grid;gap:.5rem;margin:.75rem 0;padding:.75rem;border:1px solid currentColor;border-radius:8px}
+.content-filter-options{display:flex;flex-wrap:wrap;gap:.4rem}
+.content-filter-option{display:inline-flex;align-items:center;gap:.3rem;padding:.25rem .65rem;border:1px solid currentColor;border-radius:999px;cursor:pointer;font-size:.92rem}
+.content-filter-option input{margin:0}
