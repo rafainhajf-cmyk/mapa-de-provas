@@ -3,6 +3,12 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-21 — Claude (Contabilidade: teoria, exercícios TEC para checar e teoria das questões por assunto)
+- Em cada assunto de "Dificuldades por matéria", a teoria da matéria fica à esquerda e a coluna "Exercícios TEC para checar" à direita, com Feito e Resultado (acertei/errei) ligados ao mesmo progresso da página de exercícios.
+- A "Teoria das questões" passou a usar as regras aprovadas em `contabilidade-teoria-questoes/*.json` (39 assuntos, 582 questões TEC); antes ficava vazia.
+- Arquivos: `source-content/accounting-study.js`, `source-content/accounting-study.css`, `source-content/accounting-question-data.js` (novo, gerado a partir do JSON), `source-content/dificuldades.js`, `source-content/dificuldades.html`, `docs/REGISTRO_ALTERACOES.md`.
+- Testes: as mesmas 5 falhas de antes da mudança; `npm run build` concluído.
+- Pendências: conferência visual no site não feita (a extensão do navegador falhou ao capturar a tela); branch `claude/contabilidade-teoria-exercicios` não mesclada no `main` até essa conferência.
 ## 2026-11-21 — Claude (Administrativo: rascunhos das questões publicados nos esquemas)
 - Publicados como `approved` os rascunhos por questão de Direito Administrativo (esquemas 01 a 33; 434 questões, com o 3562950 dentro do bloco do 3561311). Esquema 34 não entra: os dois IDs não são de Direito Administrativo (3975639 é Constituição de Goiás, excluída pelo usuário).
 - Cada esquema aparece no índice da matéria, em "Esquemas incrementais aprovados", como registros de tipo "rascunho" (37 partes, pois cada registro tem até 99 blocos). Título: "Explicações por alternativa — Esquema NN (não conferido)".
