@@ -2186,74 +2186,6 @@
      "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
     }
    ]
-  },
-  {
-   "id": "custos-materia-2026",
-   "title": "Custos",
-   "url": "",
-   "path": [
-    "Custos"
-   ],
-   "status": "read",
-   "files": [
-    {
-     "id": "custos-producao",
-     "title": "Custos de produção — CP, CT, CPP, CPA e CPV",
-     "url": "",
-     "mimeType": "text/plain",
-     "pageCount": null
-    },
-    {
-     "id": "absorcao-variavel",
-     "title": "Custeio por absorção × custeio variável",
-     "url": "",
-     "mimeType": "text/plain",
-     "pageCount": null
-    },
-    {
-     "id": "margem-contribuicao",
-     "title": "Margem de contribuição unitária e total",
-     "url": "",
-     "mimeType": "text/plain",
-     "pageCount": null
-    },
-    {
-     "id": "ponto-equilibrio",
-     "title": "Ponto de equilíbrio e margem de segurança",
-     "url": "",
-     "mimeType": "text/plain",
-     "pageCount": null
-    },
-    {
-     "id": "gau",
-     "title": "Grau de alavancagem operacional (GAO)",
-     "url": "",
-     "mimeType": "text/plain",
-     "pageCount": null
-    },
-    {
-     "id": "metodos-custeio",
-     "title": "Sistemas e métodos de custeio",
-     "url": "",
-     "mimeType": "text/plain",
-     "pageCount": null
-    },
-    {
-     "id": "proporcionalidade",
-     "title": "Reconhecimento de receita pela proporcionalidade",
-     "url": "",
-     "mimeType": "text/plain",
-     "pageCount": null
-    },
-    {
-     "id": "taxa-padrao",
-     "title": "Taxa-padrão e variações do custo-padrão",
-     "url": "",
-     "mimeType": "text/plain",
-     "pageCount": null
-    }
-   ],
-   "subject": "Custos"
   }
  ],
  "analysis": {
@@ -26163,6 +26095,56 @@
       "type": "paragraph",
       "style": "NORMAL_TEXT",
       "text": "As fórmulas desta matéria estão em “Fórmulas e quiz de Custos”."
+     }
+    ]
+   },
+   {
+    "id": "departamentalizacao",
+    "modifiedAt": "2026-11-21T20:19:00.000Z",
+    "analyzedAt": "2026-11-21T20:19:00.000Z",
+    "coverage": "complete",
+    "assessment": "not-assessed",
+    "kind": "study-note",
+    "category": "Custos",
+    "topic": "Departamentalização",
+    "summary": "Departamentos de serviços (custos indiretos, rateados aos de produção) e departamentos de produção (custos diretos aos produtos).",
+    "source": "Texto enviado pelo usuário no chat em 21/11/2026.",
+    "contentBlocks": [
+     {
+      "type": "paragraph",
+      "style": "TITLE",
+      "text": "Departamentalização"
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "Em um sistema de departamentalização, os departamentos se dividem em dois tipos."
+     },
+     {
+      "type": "paragraph",
+      "style": "HEADING_1",
+      "text": "Departamentos de serviços"
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "Seus custos são considerados indiretos em relação aos produtos, pois não podem ser atribuídos diretamente a um produto específico. Esses custos são alocados aos departamentos de produção por meio de critérios de rateio."
+     },
+     {
+      "type": "paragraph",
+      "style": "HEADING_1",
+      "text": "Departamentos de produção"
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "Seus custos são diretamente atribuídos aos produtos, pois estão diretamente envolvidos na fabricação. Isso inclui custos como matéria-prima e mão de obra direta."
+     },
+     {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Regra",
+      "text": "Custos de serviços vão primeiro aos departamentos de produção, por rateio; depois, os departamentos de produção atribuem seus custos aos produtos."
      }
     ]
    }
