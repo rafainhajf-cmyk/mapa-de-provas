@@ -1,3 +1,4 @@
+import {readFileSync} from 'node:fs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {accountingSetsHTML} from './source-content/accounting-curated.js';
@@ -11,9 +12,12 @@ test('questões TEC exibem enunciados e alternativas antes da resposta recolhida
  assert.ok(at<html.indexOf('<summary>Revelar gabarito e resolução',at));
  assert.doesNotMatch(html,/<details[^>]*\bopen\b/);
 });
-test('um único cartão por ID preserva a contagem de progresso',()=>{
+test('cartões repetidos são cópias sincronizadas, não cartões independentes',()=>{
  const ids=[...accountingSetsHTML().matchAll(/data-curated-id="([^"]+)"/g)].map(x=>x[1]);
- assert.equal(ids.length,new Set(ids).size);
+ assert.ok(new Set(ids).size>0);
+ assert.ok(ids.length>=new Set(ids).size);
+ const pageJS=readFileSync('./source-content/accounting-exercises-page.js','utf8');
+ assert.match(pageJS,/for\(const other of document\.querySelectorAll\('\[data-curated-id="'\+box\.dataset\.curatedId\+'"\]'\)\)other\.checked=box\.checked/);
 });
 import {resolvedQuestions,tecKinds,iaOriginal} from './source-content/accounting-curated.js';
 import {tecOriginals} from './source-content/accounting-originals.js';

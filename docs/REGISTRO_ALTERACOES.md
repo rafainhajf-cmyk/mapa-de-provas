@@ -3,6 +3,11 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-21 — Claude (Contabilidade: cartões repetidos mantidos, teste ajustado)
+- Decisão do usuário: manter as três listas (mínima, roteiro e completo). Os cartões repetidos são cópias sincronizadas pelo mesmo `data-curated-id`.
+- `accounting-exercises.test.mjs`: o teste passou a verificar a sincronização das cópias, em vez de IDs únicos. 7 de 7 aprovados.
+- Pendências: nenhuma nesta mudança.
+
 ## 2026-11-21 — Claude (Administrativo: correção da questão 2235648 no esquema 23)
 - A explicação da alternativa D dizia que a culpa no prejuízo ao erário seria admitida com dano comprovado. Reescrita: a Lei 14.230/2021 exige dolo para o ato do art. 10 e suprimiu a modalidade culposa (rascunho versão 3).
 - Arquivos: `source-content/study-knowledge.json`, `docs/REGISTRO_ALTERACOES.md`.
