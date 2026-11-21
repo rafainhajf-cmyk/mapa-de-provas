@@ -3,6 +3,12 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-21 — Claude (Custos: nova matéria em Dificuldades por matéria)
+- Matéria "Custos" criada em `source-content/difficulty-data.json` com 8 estudos: custos de produção (CPP, CPA, CPV), absorção × variável, margem de contribuição, ponto de equilíbrio, GAO, métodos de custeio e unidades de medida, proporcionalidade e taxa-padrão.
+- Conteúdo extraído dos 8 PDFs enviados. Fórmulas e quadros seguem as anotações; não conferidos contra fonte oficial.
+- Pendente: "Métodos de custeio e unidades de medida" tem só os nomes; falta a definição de cada um.
+- Não publicado: commit local, aguardando autorização para push.
+
 ## 2026-11-21 — Claude (Contabilidade: teoria, exercícios TEC para checar e teoria das questões por assunto)
 - Em cada assunto de "Dificuldades por matéria", a teoria da matéria fica à esquerda e a coluna "Exercícios TEC para checar" à direita, com Feito e Resultado (acertei/errei) ligados ao mesmo progresso da página de exercícios.
 - A "Teoria das questões" passou a usar as regras aprovadas em `contabilidade-teoria-questoes/*.json` (39 assuntos, 582 questões TEC); antes ficava vazia.
