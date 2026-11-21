@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
-  "exportedAt": "2026-11-21T19:30:25.847Z",
+  "exportedAt": "2026-11-21T19:37:23.061Z",
   "records": [
     {
       "id": "aud-01-responsabilidade-pela-opiniao-e-especialistas",
@@ -6373,13 +6373,13 @@
     {
       "id": "admin-rasc-01",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-01",
-      "targetTitle": "Rascunhos das questões — Esquema 01",
-      "title": "Explicações por alternativa — Esquema 01 (não conferido)",
+      "targetId": "admin-01",
+      "targetTitle": "Âmbito, definições e agentes da Lei 14.133",
+      "title": "Âmbito, definições e agentes da Lei 14.133",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -6704,13 +6704,13 @@
     {
       "id": "admin-rasc-02",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-02",
-      "targetTitle": "Rascunhos das questões — Esquema 02",
-      "title": "Explicações por alternativa — Esquema 02 (não conferido)",
+      "targetId": "admin-02",
+      "targetTitle": "Planejamento, fases e habilitação",
+      "title": "Planejamento, fases e habilitação",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -6845,13 +6845,13 @@
     {
       "id": "admin-rasc-03",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-03",
-      "targetTitle": "Rascunhos das questões — Esquema 03",
-      "title": "Explicações por alternativa — Esquema 03 (não conferido)",
+      "targetId": "admin-03",
+      "targetTitle": "Modalidades e critérios de julgamento",
+      "title": "Modalidades e critérios de julgamento",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -7036,13 +7036,13 @@
     {
       "id": "admin-rasc-04",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-04",
-      "targetTitle": "Rascunhos das questões — Esquema 04",
-      "title": "Explicações por alternativa — Esquema 04 (não conferido)",
+      "targetId": "admin-04",
+      "targetTitle": "Contratação direta e alienações",
+      "title": "Contratação direta e alienações",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -7175,13 +7175,13 @@
     {
       "id": "admin-rasc-05",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-05",
-      "targetTitle": "Rascunhos das questões — Esquema 05",
-      "title": "Explicações por alternativa — Esquema 05 (não conferido)",
+      "targetId": "admin-05",
+      "targetTitle": "Formalização, garantias e alocação de riscos",
+      "title": "Formalização, garantias e alocação de riscos",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -7366,13 +7366,13 @@
     {
       "id": "admin-rasc-06",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-06",
-      "targetTitle": "Rascunhos das questões — Esquema 06",
-      "title": "Explicações por alternativa — Esquema 06 (não conferido)",
+      "targetId": "admin-06",
+      "targetTitle": "Prerrogativas, execução e fim do contrato",
+      "title": "Prerrogativas, execução e fim do contrato",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -7567,13 +7567,13 @@
     {
       "id": "admin-rasc-07",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-07",
-      "targetTitle": "Rascunhos das questões — Esquema 07",
-      "title": "Explicações por alternativa — Esquema 07 (não conferido)",
+      "targetId": "admin-07",
+      "targetTitle": "Impugnação, recursos e linhas de defesa",
+      "title": "Impugnação, recursos e linhas de defesa",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -7666,13 +7666,13 @@
     {
       "id": "admin-rasc-08",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-08",
-      "targetTitle": "Rascunhos das questões — Esquema 08",
-      "title": "Explicações por alternativa — Esquema 08 (não conferido)",
+      "targetId": "admin-08",
+      "targetTitle": "Estatais: regime e contratação",
+      "title": "Estatais: regime e contratação",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -7771,13 +7771,13 @@
     {
       "id": "admin-rasc-09",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-09",
-      "targetTitle": "Rascunhos das questões — Esquema 09",
-      "title": "Explicações por alternativa — Esquema 09 (não conferido)",
+      "targetId": "admin-09",
+      "targetTitle": "Regime administrativo e princípios",
+      "title": "Regime administrativo e princípios",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -8042,13 +8042,13 @@
     {
       "id": "admin-rasc-10",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-10",
-      "targetTitle": "Rascunhos das questões — Esquema 10",
-      "title": "Explicações por alternativa — Esquema 10 (não conferido)",
+      "targetId": "admin-10",
+      "targetTitle": "Elementos, mérito e atributos dos atos",
+      "title": "Elementos, mérito e atributos dos atos",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -8339,13 +8339,13 @@
     {
       "id": "admin-rasc-11",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-11",
-      "targetTitle": "Rascunhos das questões — Esquema 11",
-      "title": "Explicações por alternativa — Esquema 11 (não conferido)",
+      "targetId": "admin-11",
+      "targetTitle": "Anulação, revogação, cassação e convalidação",
+      "title": "Anulação, revogação, cassação e convalidação",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -8540,13 +8540,13 @@
     {
       "id": "admin-rasc-12",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-12",
-      "targetTitle": "Rascunhos das questões — Esquema 12",
-      "title": "Explicações por alternativa — Esquema 12 (não conferido)",
+      "targetId": "admin-12",
+      "targetTitle": "Poder hierárquico, disciplinar e regulamentar",
+      "title": "Poder hierárquico, disciplinar e regulamentar",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -8849,13 +8849,13 @@
     {
       "id": "admin-rasc-13",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-13",
-      "targetTitle": "Rascunhos das questões — Esquema 13",
-      "title": "Explicações por alternativa — Esquema 13 (não conferido)",
+      "targetId": "admin-13",
+      "targetTitle": "Poder de polícia e seu ciclo",
+      "title": "Poder de polícia e seu ciclo",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -9092,13 +9092,13 @@
     {
       "id": "admin-rasc-14-1",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-14",
-      "targetTitle": "Rascunhos das questões — Esquema 14 (parte 1 de 2)",
-      "title": "Explicações por alternativa — Esquema 14 (parte 1 de 2) (não conferido)",
+      "targetId": "admin-14",
+      "targetTitle": "Direta e indireta, desconcentração e agências",
+      "title": "Direta e indireta, desconcentração e agências",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -9513,13 +9513,13 @@
     {
       "id": "admin-rasc-14-2",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-14",
-      "targetTitle": "Rascunhos das questões — Esquema 14 (parte 2 de 2)",
-      "title": "Explicações por alternativa — Esquema 14 (parte 2 de 2) (não conferido)",
+      "targetId": "admin-14",
+      "targetTitle": "Direta e indireta, desconcentração e agências",
+      "title": "Direta e indireta, desconcentração e agências",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -9660,13 +9660,13 @@
     {
       "id": "admin-rasc-15",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-15",
-      "targetTitle": "Rascunhos das questões — Esquema 15",
-      "title": "Explicações por alternativa — Esquema 15 (não conferido)",
+      "targetId": "admin-15",
+      "targetTitle": "Terceiro setor, convênios e parcerias com OSC",
+      "title": "Terceiro setor, convênios e parcerias com OSC",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -10027,13 +10027,13 @@
     {
       "id": "admin-rasc-16",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-16",
-      "targetTitle": "Rascunhos das questões — Esquema 16",
-      "title": "Explicações por alternativa — Esquema 16 (não conferido)",
+      "targetId": "admin-16",
+      "targetTitle": "Serviço público, concessão e permissão",
+      "title": "Serviço público, concessão e permissão",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -10426,13 +10426,13 @@
     {
       "id": "admin-rasc-17",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-17",
-      "targetTitle": "Rascunhos das questões — Esquema 17",
-      "title": "Explicações por alternativa — Esquema 17 (não conferido)",
+      "targetId": "admin-17",
+      "targetTitle": "PPP e consórcios públicos",
+      "title": "PPP e consórcios públicos",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -10793,13 +10793,13 @@
     {
       "id": "admin-rasc-18-1",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-18",
-      "targetTitle": "Rascunhos das questões — Esquema 18 (parte 1 de 2)",
-      "title": "Explicações por alternativa — Esquema 18 (parte 1 de 2) (não conferido)",
+      "targetId": "admin-18",
+      "targetTitle": "Risco administrativo, omissão e direito de regresso",
+      "title": "Risco administrativo, omissão e direito de regresso",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -11212,13 +11212,13 @@
     {
       "id": "admin-rasc-18-2",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-18",
-      "targetTitle": "Rascunhos das questões — Esquema 18 (parte 2 de 2)",
-      "title": "Explicações por alternativa — Esquema 18 (parte 2 de 2) (não conferido)",
+      "targetId": "admin-18",
+      "targetTitle": "Risco administrativo, omissão e direito de regresso",
+      "title": "Risco administrativo, omissão e direito de regresso",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -11263,13 +11263,13 @@
     {
       "id": "admin-rasc-19",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-19",
-      "targetTitle": "Rascunhos das questões — Esquema 19",
-      "title": "Explicações por alternativa — Esquema 19 (não conferido)",
+      "targetId": "admin-19",
+      "targetTitle": "Desapropriação indireta e requisição",
+      "title": "Desapropriação indireta e requisição",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -11332,13 +11332,13 @@
     {
       "id": "admin-rasc-20",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-20",
-      "targetTitle": "Rascunhos das questões — Esquema 20",
-      "title": "Explicações por alternativa — Esquema 20 (não conferido)",
+      "targetId": "admin-20",
+      "targetTitle": "Controle administrativo, judicial e tribunais de contas",
+      "title": "Controle administrativo, judicial e tribunais de contas",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -11691,13 +11691,13 @@
     {
       "id": "admin-rasc-21",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-21",
-      "targetTitle": "Rascunhos das questões — Esquema 21",
-      "title": "Explicações por alternativa — Esquema 21 (não conferido)",
+      "targetId": "admin-21",
+      "targetTitle": "Recurso, revisão e PAD",
+      "title": "Recurso, revisão e PAD",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -11788,13 +11788,13 @@
     {
       "id": "admin-rasc-22",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-22",
-      "targetTitle": "Rascunhos das questões — Esquema 22",
-      "title": "Explicações por alternativa — Esquema 22 (não conferido)",
+      "targetId": "admin-22",
+      "targetTitle": "Lei Anticorrupção e leniência",
+      "title": "Lei Anticorrupção e leniência",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -12005,13 +12005,13 @@
     {
       "id": "admin-rasc-23-1",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-23",
-      "targetTitle": "Rascunhos das questões — Esquema 23 (parte 1 de 2)",
-      "title": "Explicações por alternativa — Esquema 23 (parte 1 de 2) (não conferido)",
+      "targetId": "admin-23",
+      "targetTitle": "Improbidade: dolo, tipos e aplicação no tempo",
+      "title": "Improbidade: dolo, tipos e aplicação no tempo",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -12422,13 +12422,13 @@
     {
       "id": "admin-rasc-23-2",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-23",
-      "targetTitle": "Rascunhos das questões — Esquema 23 (parte 2 de 2)",
-      "title": "Explicações por alternativa — Esquema 23 (parte 2 de 2) (não conferido)",
+      "targetId": "admin-23",
+      "targetTitle": "Improbidade: dolo, tipos e aplicação no tempo",
+      "title": "Improbidade: dolo, tipos e aplicação no tempo",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -12487,13 +12487,13 @@
     {
       "id": "admin-rasc-24",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-24",
-      "targetTitle": "Rascunhos das questões — Esquema 24",
-      "title": "Explicações por alternativa — Esquema 24 (não conferido)",
+      "targetId": "admin-24",
+      "targetTitle": "Improbidade: penas, processo e declaração de bens",
+      "title": "Improbidade: penas, processo e declaração de bens",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -12746,13 +12746,13 @@
     {
       "id": "admin-rasc-25",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-25",
-      "targetTitle": "Rascunhos das questões — Esquema 25",
-      "title": "Explicações por alternativa — Esquema 25 (não conferido)",
+      "targetId": "admin-25",
+      "targetTitle": "Agentes, concurso, acumulação e estabilidade",
+      "title": "Agentes, concurso, acumulação e estabilidade",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -13087,13 +13087,13 @@
     {
       "id": "admin-rasc-26",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-26",
-      "targetTitle": "Rascunhos das questões — Esquema 26",
-      "title": "Explicações por alternativa — Esquema 26 (não conferido)",
+      "targetId": "admin-26",
+      "targetTitle": "Bens públicos e uso privativo",
+      "title": "Bens públicos e uso privativo",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -13350,13 +13350,13 @@
     {
       "id": "admin-rasc-27",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-27",
-      "targetTitle": "Rascunhos das questões — Esquema 27",
-      "title": "Explicações por alternativa — Esquema 27 (não conferido)",
+      "targetId": "admin-27",
+      "targetTitle": "LAI: transparência, pedidos e sigilo",
+      "title": "LAI: transparência, pedidos e sigilo",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -13587,13 +13587,13 @@
     {
       "id": "admin-rasc-28",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-28",
-      "targetTitle": "Rascunhos das questões — Esquema 28",
-      "title": "Explicações por alternativa — Esquema 28 (não conferido)",
+      "targetId": "admin-28",
+      "targetTitle": "LGPD no setor público",
+      "title": "LGPD no setor público",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -13796,13 +13796,13 @@
     {
       "id": "admin-rasc-29",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-29",
-      "targetTitle": "Rascunhos das questões — Esquema 29",
-      "title": "Explicações por alternativa — Esquema 29 (não conferido)",
+      "targetId": "admin-29",
+      "targetTitle": "Estoques e cadeia de suprimentos",
+      "title": "Estoques e cadeia de suprimentos",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -13969,13 +13969,13 @@
     {
       "id": "admin-rasc-30-1",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-30",
-      "targetTitle": "Rascunhos das questões — Esquema 30 (parte 1 de 2)",
-      "title": "Explicações por alternativa — Esquema 30 (parte 1 de 2) (não conferido)",
+      "targetId": "admin-30",
+      "targetTitle": "Governança, governabilidade e accountability",
+      "title": "Governança, governabilidade e accountability",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -14412,13 +14412,13 @@
     {
       "id": "admin-rasc-30-2",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-30",
-      "targetTitle": "Rascunhos das questões — Esquema 30 (parte 2 de 2)",
-      "title": "Explicações por alternativa — Esquema 30 (parte 2 de 2) (não conferido)",
+      "targetId": "admin-30",
+      "targetTitle": "Governança, governabilidade e accountability",
+      "title": "Governança, governabilidade e accountability",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -14471,13 +14471,13 @@
     {
       "id": "admin-rasc-31",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-31",
-      "targetTitle": "Rascunhos das questões — Esquema 31",
-      "title": "Explicações por alternativa — Esquema 31 (não conferido)",
+      "targetId": "admin-31",
+      "targetTitle": "Modelos administrativos, qualidade e resultados",
+      "title": "Modelos administrativos, qualidade e resultados",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -14704,13 +14704,13 @@
     {
       "id": "admin-rasc-32",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-32",
-      "targetTitle": "Rascunhos das questões — Esquema 32",
-      "title": "Explicações por alternativa — Esquema 32 (não conferido)",
+      "targetId": "admin-32",
+      "targetTitle": "AFO: receita, classificação e dívida ativa",
+      "title": "AFO: receita, classificação e dívida ativa",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -15011,13 +15011,13 @@
     {
       "id": "admin-rasc-33",
       "subject": "Direito Administrativo",
-      "targetId": "rasc-33",
-      "targetTitle": "Rascunhos das questões — Esquema 33",
-      "title": "Explicações por alternativa — Esquema 33 (não conferido)",
+      "targetId": "admin-33",
+      "targetTitle": "Auditoria, COSO e gestão de riscos",
+      "title": "Auditoria, COSO e gestão de riscos",
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
