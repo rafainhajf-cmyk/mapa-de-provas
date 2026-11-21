@@ -12011,7 +12011,7 @@
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -12370,7 +12370,7 @@
         },
         {
           "type": "paragraph",
-          "text": "D: a modalidade culposa para prejuízo ao erário é admitida apenas com dano comprovado, o que não corresponde ao texto. Incorreta."
+          "text": "D: a Lei 14.230/2021 exige dolo para o ato que causa lesão ao erário (art. 10), e a modalidade culposa foi suprimida. Incorreta."
         },
         {
           "type": "paragraph",
