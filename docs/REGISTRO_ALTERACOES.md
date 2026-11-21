@@ -3,6 +3,11 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-21 — Claude (Contabilidade: regras para 11 das 19 questões sem regra)
+- Quatro regras novas (R10 a R15) na Teoria das questões de Contabilidade Básica, escritas a partir das explicações já registradas no repositório (`accounting-solutions-01.js`), para 11 questões: 2013231, 2064755, 3662027, 3662029, 2163640, 2771977, 3240910, 2775131, 3584435, 3883229 e 2231001.
+- Ficam pendentes 8 questões sem explicação no repositório (2223559, 2949362, 3093142, 3114168, 3149114, 3154666, 3365979, 3975976). Os enunciados estão só no TEC, que pede login.
+- Arquivos: `source-content/accounting-question-data.js`, `source-content/accounting-study.js` (import v=3), `source-content/dificuldades.js` (import v=114).
+
 ## 2026-11-21 — Claude (Contabilidade: teoria de mais 7 assuntos)
 - Sete assuntos ganharam teoria da matéria, pesquisada de novo em fontes oficiais e secundárias citadas em cada ponto (rascunho em `docs/contabilidade/rascunho-teoria-7.md`): conta-f-02 (CPC 06 R2), conta-f-06 (CPC 24), conta-f-05 (CPC 16 R1), conta-f-03 (CPC 05 R1), conta-c-07 (CPC 33 R1), conta-b-01 (Disponibilidades), conta-c-01 (Fornecedores).
 - Pendências visíveis no texto: lançamentos do arrendatário; conflito sobre UEPS no CPC 16; regras de verbas rescisórias; prazo de equivalentes de caixa; diferença entre fornecedores e contas a pagar.

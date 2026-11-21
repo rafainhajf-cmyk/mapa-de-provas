@@ -4,7 +4,7 @@ import { groupedSubjectsHTML } from './study-subject-families.js?v=98';
 import { accountingMode, accountingReadingToolbarHTML, prepareAccountingReading, openAccountingPDF } from './accounting-reading.js?v=97';
 let accountingReadingMode=accountingMode(new URLSearchParams(location.search).get('leitura'));
 import { studyVisualHTML } from './study-visuals.js?v=93';
-import { accountingStudyHTML } from './accounting-study.js?v=113';
+import { accountingStudyHTML } from './accounting-study.js?v=114';
 import { openStudyInbox } from './study-inbox.js?v=85';
 function editableExtractedHTML(text){return String(text||'').split(/\n\s*\n/).filter(part=>part.trim()).map(part=>'<p class="editable-transcript">'+esc(part.replace(/\s*\n\s*/g,' ').trim())+'</p>').join('');}
 import { mountStudyReader, studyFileProgress } from './study-reader.js?v=97';

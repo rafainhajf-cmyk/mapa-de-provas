@@ -1,4 +1,4 @@
-import { questionDataByTopic } from './accounting-question-data.js?v=2';
+import { questionDataByTopic } from './accounting-question-data.js?v=3';
 import { theoryDataByTopic } from './accounting-theory-data.js?v=2';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function blocksHTML(blocks,render,options){return typeof blocks==='string'?`<p>${esc(blocks)}</p>`:render(blocks||[],options)}
