@@ -34,6 +34,13 @@ Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — 
 - Ficaram de fora 20 questões de Legislação Tributária (LC 116), que seguem pendentes como já registrado para Tributário.
 - Arquivos: `source-content/accounting-question-data.js`, `source-content/accounting-study.js`, `source-content/dificuldades.js`, `docs/REGISTRO_ALTERACOES.md`.
 - Pendências: regras da Teoria das questões para as 19; teoria da matéria para os 18 assuntos sem texto; 20 questões tributárias de LC 116.
+## 2026-11-21 — Claude (Administrativo: revisão do esquema 30, início)
+- Revisadas as 35 questões do esquema 30 contra enunciado e explicações. Corrigida a questão 3259100: a explicação agora diz que capacidade financeira, gerencial e técnica é da governança, não da governabilidade (rascunho versão 3).
+- Pendente (enunciado truncado, conferir no TEC): 3872457, 2639432, 1071484, 3271428, 3800185, 3023452, 3357984, 3366772, 3441978, 758732, 3259100 (texto "Certo" colado no enunciado). Divergência de gabarito mantida: 3289707.
+- Arquivos: `source-content/study-knowledge.json`, `docs/REGISTRO_ALTERACOES.md`.
+- Testes: `npm run build` ok; `npm test` com as mesmas 4 falhas pré-existentes.
+- Não publicado: branch `claude/revisao-esquema-30`, aguardando autorização.
+
 ## 2026-11-21 — Claude (Administrativo: assuntos próprios para os esquemas e rascunhos)
 - Direito Administrativo ganhou um assunto por esquema aprovado (34 assuntos, com o título do esquema). Esquemas e rascunhos passam a aparecer dentro do assunto correspondente, e não mais só no painel do índice.
 - `scripts/build.mjs` gera o catálogo `Direito Administrativo` a partir de `source-content/study-knowledge.json`; `source-content/dificuldades.js` inclui a matéria na lista de catálogos (sem repetir área).
