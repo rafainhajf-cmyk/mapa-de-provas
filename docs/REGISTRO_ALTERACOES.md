@@ -3,6 +3,12 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-21 — Claude (Contabilidade: 19 questões de Contabilidade Geral ligadas ao assunto)
+- 601 questões do inventário de Contabilidade estão ligadas a um assunto (eram 582). As 19 novas estão em Contabilidade Básica (`conta-a-01`) e aparecem na coluna de exercícios.
+- Essas 19 ainda não têm regra aprovada na Teoria das questões; a seção mostra a lista delas com essa observação, sem regra inventada.
+- Ficaram de fora 20 questões de Legislação Tributária (LC 116), que seguem pendentes como já registrado para Tributário.
+- Arquivos: `source-content/accounting-question-data.js`, `source-content/accounting-study.js`, `source-content/dificuldades.js`, `docs/REGISTRO_ALTERACOES.md`.
+- Pendências: regras da Teoria das questões para as 19; teoria da matéria para os 18 assuntos sem texto; 20 questões tributárias de LC 116.
 ## 2026-11-21 — Claude (Custos: nova matéria em Dificuldades por matéria)
 - Matéria "Custos" criada em `source-content/difficulty-data.json` com 8 estudos: custos de produção (CPP, CPA, CPV), absorção × variável, margem de contribuição, ponto de equilíbrio, GAO, métodos de custeio e unidades de medida, proporcionalidade e taxa-padrão.
 - Conteúdo extraído dos 8 PDFs enviados. Fórmulas e quadros seguem as anotações; não conferidos contra fonte oficial.

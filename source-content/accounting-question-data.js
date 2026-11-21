@@ -1,4 +1,5 @@
-// Gerado a partir de contabilidade-teoria-questoes/*.json (Teoria das questões e questões TEC por assunto).
+// Gerado a partir de contabilidade-teoria-questoes/*.json e docs/contabilidade/inventario-621.json.
+// semRegra: questões do inventário de Contabilidade Geral ainda sem regra aprovada na Teoria das questões.
 export const questionDataByTopic = {
  "conta-e-02": {
   "titulo": "Teoria das questões — Balanço patrimonial e variações patrimoniais",
@@ -172,7 +173,26 @@ export const questionDataByTopic = {
    "2865830",
    "2965563",
    "3093598",
-   "3446245"
+   "3446245",
+   "2013231",
+   "2064755",
+   "2163640",
+   "2223559",
+   "2231001",
+   "2771977",
+   "2775131",
+   "2949362",
+   "3093142",
+   "3114168",
+   "3149114",
+   "3154666",
+   "3240910",
+   "3365979",
+   "3584435",
+   "3662027",
+   "3662029",
+   "3883229",
+   "3975976"
   ],
   "regras": [
    {
@@ -246,6 +266,27 @@ export const questionDataByTopic = {
      "2965563"
     ]
    }
+  ],
+  "semRegra": [
+   "2013231",
+   "2064755",
+   "2163640",
+   "2223559",
+   "2231001",
+   "2771977",
+   "2775131",
+   "2949362",
+   "3093142",
+   "3114168",
+   "3149114",
+   "3154666",
+   "3240910",
+   "3365979",
+   "3584435",
+   "3662027",
+   "3662029",
+   "3883229",
+   "3975976"
   ]
  },
  "conta-a-02": {
