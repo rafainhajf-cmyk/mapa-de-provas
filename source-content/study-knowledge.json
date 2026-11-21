@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
-  "exportedAt": "2026-11-20T18:03:38.304Z",
+  "exportedAt": "2026-11-21T18:37:15.314Z",
   "records": [
     {
       "id": "aud-01-responsabilidade-pela-opiniao-e-especialistas",
@@ -4268,6 +4268,2104 @@
           "kind": "warning",
           "title": "Limites e dispensas mudam",
           "text": "A obrigatoriedade da ECD para imunes e isentas usa o limite da IN vigente na data da prova (R$ 4,8 milhões em 2590871 e 2965563). Conferir o ano normativo antes de transportar o número."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-01-licitacoes-ambito-agentes",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-01",
+      "targetTitle": "Licitações e contratos",
+      "title": "Âmbito, definições e agentes da Lei 14.133",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A Lei 14.133/2021 alcança a administração direta, autarquias, fundações e fundos da União, Estados, DF e Municípios. Empresas estatais seguem, em regra, a Lei 13.303/2016."
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra essencial",
+          "text": "Direta, autarquias e fundações seguem a Lei 14.133. Estatais seguem, em regra, a Lei 13.303/2016."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Figura",
+              "Quem conduz a licitação",
+              "Base"
+            ],
+            [
+              "Agente de contratação",
+              "Servidor efetivo ou empregado público de quadro permanente, designado para conduzir a fase de seleção",
+              "Lei 14.133, art. 8º"
+            ],
+            [
+              "Pregoeiro",
+              "Agente de contratação na modalidade pregão",
+              "Lei 14.133, art. 8º"
+            ],
+            [
+              "Comissão de contratação",
+              "Colegiado para bens ou serviços especiais, em lugar do agente, nas hipóteses legais",
+              "Lei 14.133, art. 6º, XXXIV e art. 8º"
+            ],
+            [
+              "Fiscal do contrato",
+              "Acompanha a execução e registra ocorrências",
+              "Lei 14.133, art. 117"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Segregação de funções reduz o risco de ocultação de erros. Agente de contratação não é escolhido livremente entre quaisquer pessoas: a regra é servidor efetivo ou empregado de quadro permanente."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Documento",
+              "Função",
+              "Base"
+            ],
+            [
+              "Termo de referência",
+              "Descreve bens e serviços e define a solução contratada",
+              "Lei 14.133, art. 6º, XXIII"
+            ],
+            [
+              "Anteprojeto",
+              "Subsidia a elaboração do projeto básico",
+              "Lei 14.133, art. 6º, XXIV"
+            ],
+            [
+              "Projeto básico",
+              "Detalha a obra ou serviço de engenharia",
+              "Lei 14.133, art. 6º, XXV"
+            ],
+            [
+              "Projeto executivo",
+              "Detalha a execução, com elementos suficientes para a obra",
+              "Lei 14.133, art. 6º, XXVI"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Na contratação integrada, o contratado elabora os projetos básico e executivo. Na semi-integrada, o contratado elabora o projeto executivo, e a administração já tem o projeto básico."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 14.133/2021 — texto compilado (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir numeração dos incisos do art. 6º e do art. 8º no texto vigente; a versão desta edição foi montada a partir do resumo da planilha."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-02-licitacoes-planejamento-habilitacao",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-02",
+      "targetTitle": "Licitações e contratos",
+      "title": "Planejamento, fases e habilitação",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A licitação segue fases em ordem: preparatória, divulgação do edital, apresentação de propostas ou lances, julgamento, habilitação, recursal e homologação."
+        },
+        {
+          "type": "flowchart",
+          "title": "Fases da licitação (art. 17)",
+          "steps": [
+            {
+              "label": "1. Preparatória",
+              "text": "ETP, termo de referência e análise de riscos."
+            },
+            {
+              "label": "2. Edital",
+              "text": "Divulgação e publicação."
+            },
+            {
+              "label": "3. Propostas ou lances",
+              "text": "Recebimento."
+            },
+            {
+              "label": "4. Julgamento",
+              "text": "Aplicação do critério escolhido."
+            },
+            {
+              "label": "5. Habilitação",
+              "text": "Verificação de requisitos."
+            },
+            {
+              "label": "6. Recurso",
+              "text": "Impugnação e recursos nos prazos legais."
+            },
+            {
+              "label": "7. Homologação",
+              "text": "Ato final da autoridade."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra essencial",
+          "text": "O estudo técnico preliminar evidencia o problema e fundamenta a escolha da solução. É ele que justifica o objeto e a contratação."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Requisito de habilitação",
+              "Exemplo"
+            ],
+            [
+              "Jurídico",
+              "Atos constitutivos"
+            ],
+            [
+              "Técnico",
+              "Atestados e registros"
+            ],
+            [
+              "Fiscal, social e trabalhista",
+              "Regularidade com tributos e encargos"
+            ],
+            [
+              "Econômico-financeiro",
+              "Índices e capital social"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "A habilitação pode ser antecipada para antes do julgamento, mas somente com motivação e previsão expressa no edital."
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Encerramento do certame",
+          "text": "A autoridade pode devolver o processo para saneamento, revogar por fato superveniente comprovado, anular por ilegalidade insanável ou adjudicar e homologar."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 14.133/2021, arts. 17, 18 e 71 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferido em 2026-11-21 no art. 17 § 1º: antecipação da habilitação exige ato motivado e previsão expressa no edital."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-03-licitacoes-modalidades-criterios",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-03",
+      "targetTitle": "Licitações e contratos",
+      "title": "Modalidades e critérios de julgamento",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A Lei 14.133 prevê cinco modalidades: pregão, concorrência, concurso, leilão e diálogo competitivo. Convite e tomada de preços não existem nesta lei."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Modalidade",
+              "Uso principal",
+              "Base"
+            ],
+            [
+              "Pregão",
+              "Bens e serviços comuns, inclusive serviço comum de engenharia",
+              "Lei 14.133, art. 6º, XLI"
+            ],
+            [
+              "Concorrência",
+              "Bens e serviços especiais e obras e serviços de engenharia, nas hipóteses legais",
+              "Lei 14.133, art. 28"
+            ],
+            [
+              "Concurso",
+              "Trabalho técnico, científico ou artístico",
+              "Lei 14.133, art. 28"
+            ],
+            [
+              "Leilão",
+              "Alienação de bens",
+              "Lei 14.133, art. 28"
+            ],
+            [
+              "Diálogo competitivo",
+              "Desenvolvimento de soluções, nas hipóteses legais",
+              "Lei 14.133, art. 28"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Critérios",
+          "text": "Menor preço, maior desconto, melhor técnica ou conteúdo artístico, técnica e preço, maior lance e maior retorno econômico."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Modalidade ou contrato",
+              "Critério típico"
+            ],
+            [
+              "Pregão",
+              "Menor preço ou maior desconto"
+            ],
+            [
+              "Leilão",
+              "Maior lance"
+            ],
+            [
+              "Contrato de eficiência",
+              "Maior retorno econômico"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Convite e tomada de preços pertencem à lei anterior (8.666/1993). Se a questão as cita como modalidades atuais, a alternativa está errada."
+        },
+        {
+          "type": "paragraph",
+          "text": "A indicação de marca em compras exige justificativa e enquadramento em hipótese do art. 41."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 14.133/2021, arts. 6º, 28, 33 e 41 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir o rol de modalidades e a redação do art. 33 no texto vigente antes de publicar."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-04-licitacoes-contratacao-direta-alienacoes",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-04",
+      "targetTitle": "Licitações e contratos",
+      "title": "Contratação direta e alienações",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A contratação direta se divide em inexigibilidade, quando a competição é inviável, e dispensa, quando a lei a autoriza expressamente. Ambas exigem processo instruído e justificativa de preço."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Figura",
+              "Quando cabe",
+              "Base"
+            ],
+            [
+              "Inexigibilidade",
+              "Competição inviável",
+              "Lei 14.133, art. 74"
+            ],
+            [
+              "Dispensa",
+              "Hipótese prevista em lei, inclusive por valor ou emergência",
+              "Lei 14.133, art. 75"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra essencial",
+          "text": "Para emergência, a contratação se restringe ao necessário para enfrentar a situação, respeitado o prazo legal."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Alienação exige interesse público justificado e avaliação. Leilão é a regra, com hipóteses legais de dispensa de licitação."
+        },
+        {
+          "type": "paragraph",
+          "text": "Para fornecedor exclusivo, é preciso comprovar a exclusividade e evitar preferência por marca."
+        },
+        {
+          "type": "paragraph",
+          "text": "Os valores de dispensa por limite são atualizados por decreto. Confirmar o valor vigente na data da prova."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 14.133/2021, arts. 74, 75 e 76 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir a exigência de autorização legislativa para alienação de imóveis: o resumo da planilha a menciona e o texto vigente precisa ser verificado."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-05-licitacoes-formalizacao-garantias-riscos",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-05",
+      "targetTitle": "Licitações e contratos",
+      "title": "Formalização, garantias e alocação de riscos",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O contrato se formaliza com publicação no PNCP, que é condição de eficácia do contrato e de seus aditamentos."
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Eficácia",
+          "text": "Publicação no PNCP é condição de eficácia do contrato e de aditamentos. Confirmar o prazo legal de publicação no texto vigente."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Garantia",
+              "Limite",
+              "Base"
+            ],
+            [
+              "Garantia contratual padrão",
+              "Até 5% do valor do contrato",
+              "Lei 14.133, art. 96"
+            ],
+            [
+              "Garantia reforçada",
+              "Até 10%, com justificativa, em contratos de alta complexidade técnica ou valor",
+              "Lei 14.133, art. 96, § 3º"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "A garantia é opcional em regra e exigida só quando justificada. Não é obrigatória em todo contrato, e o percentual máximo depende de justificativa."
+        },
+        {
+          "type": "paragraph",
+          "text": "A matriz de riscos distribui os riscos previsíveis entre contratante e contratado. O evento de responsabilidade do contratado não se transfere ao contratante sem previsão."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 14.133/2021, arts. 94, 96 e 103 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir o prazo de publicação e o percentual das garantias no texto vigente."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-06-licitacoes-prerrogativas-execucao-fim",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-06",
+      "targetTitle": "Licitações e contratos",
+      "title": "Prerrogativas, execução e fim do contrato",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A administração tem prerrogativas no contrato administrativo, como modificar unilateralmente, fiscalizar, aplicar sanções e extinguir o contrato."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Prerrogativa",
+              "Efeito prático"
+            ],
+            [
+              "Modificação unilateral",
+              "Ajusta o objeto para o interesse público, com equilíbrio econômico-financeiro"
+            ],
+            [
+              "Fiscalização",
+              "Acompanhamento pelo fiscal do contrato"
+            ],
+            [
+              "Sanções",
+              "Aplicadas com contraditório e ampla defesa"
+            ],
+            [
+              "Extinção",
+              "Pelo término da vigência ou por rescisão, nas hipóteses legais"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Extinção",
+          "text": "O contrato se extingue pelo término da vigência, pela rescisão ou por ato consensual, nas hipóteses legais."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Prerrogativa não significa arbitrariedade: toda modificação e sanção depende de motivação e de contraditório."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 14.133/2021, arts. 104, 117 e 137 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir os incisos do art. 104 e as hipóteses de rescisão do art. 137 no texto vigente."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-07-licitacoes-impugnacao-recursos-defesa",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-07",
+      "targetTitle": "Licitações e contratos",
+      "title": "Impugnação, recursos e linhas de defesa",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A impugnação e o pedido de esclarecimento permitem questionar o edital. Os recursos atacam atos do julgamento e da habilitação, dentro de prazos próprios."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Instrumento",
+              "Prazo",
+              "Base"
+            ],
+            [
+              "Impugnação ao edital",
+              "Até 3 dias úteis antes da data de abertura",
+              "Lei 14.133, art. 164"
+            ],
+            [
+              "Pedido de esclarecimento",
+              "Até 3 dias úteis antes da data de abertura",
+              "Lei 14.133, art. 164"
+            ],
+            [
+              "Recurso",
+              "3 dias úteis após a intenção de recorrer",
+              "Lei 14.133, art. 165"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Prazos de impugnação e de recurso são contados em dias úteis e têm início em momentos diferentes. Não confundir a data da abertura com a data da intenção de recorrer."
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Garantias",
+          "text": "Quem se sente prejudicado tem direito ao contraditório e à ampla defesa antes da sanção."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 14.133/2021, arts. 164 a 168 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir os prazos e o efeito dos recursos no texto vigente, principalmente o efeito suspensivo."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-08-licitacoes-estatais-regime",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-08",
+      "targetTitle": "Licitações e contratos",
+      "title": "Estatais: regime e contratação",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "As empresas públicas e sociedades de economia mista seguem a Lei 13.303/2016, com licitação própria e hipóteses de contratação direta distintas das da Lei 14.133."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Tema",
+              "Empresas estatais (Lei 13.303/2016)",
+              "Administração direta (Lei 14.133/2021)"
+            ],
+            [
+              "Regime",
+              "Licitação própria, com exceções legais",
+              "Licitação regida pela Lei 14.133"
+            ],
+            [
+              "Contratação direta",
+              "Hipóteses próprias",
+              "Inexigibilidade e dispensa do art. 74 e 75"
+            ],
+            [
+              "Preço",
+              "Justificativa de preço obrigatória",
+              "Justificativa de preço obrigatória"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Preço",
+          "text": "Urgência não dispensa a justificativa do preço. Sobrepreço ou superfaturamento continuam sendo ilícitos."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Estatais não seguem a Lei 14.133 como regra. Confundir os dois regimes é a pegadinha mais comum."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 13.303/2016, arts. 28 a 30 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir as hipóteses de dispensa e a regra de sobrepreço do art. 30 no texto vigente."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-09-princ-regime-principios",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-09",
+      "targetTitle": "Princípios e regime",
+      "title": "Regime administrativo e princípios",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O regime jurídico administrativo reúne prerrogativas da Administração e sujeições a princípios. Os princípios expressos estão no caput do art. 37 da Constituição."
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Mnemônico",
+          "text": "LIMPE: legalidade, impessoalidade, moralidade, publicidade e eficiência."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Princípio",
+              "Ideia central"
+            ],
+            [
+              "Legalidade",
+              "Agir somente como a lei autoriza"
+            ],
+            [
+              "Impessoalidade",
+              "Atuação sem favorecimento pessoal"
+            ],
+            [
+              "Moralidade",
+              "Probidade e boa-fé"
+            ],
+            [
+              "Publicidade",
+              "Divulgação dos atos, com exceções legais"
+            ],
+            [
+              "Eficiência",
+              "Resultado com economicidade e qualidade"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Prerrogativa não é privilégio pessoal: existe para atender ao interesse público e decorre da lei."
+        },
+        {
+          "type": "reference",
+          "text": "Constituição Federal, art. 37, caput",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir a redação do art. 37 e se a questão cita princípios além dos expressos."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-10-princ-elementos-merito-atributos",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-10",
+      "targetTitle": "Princípios e atos",
+      "title": "Elementos, mérito e atributos dos atos",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Os elementos do ato administrativo são competência, finalidade, forma, motivo e objeto."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Elemento",
+              "Pergunta que responde"
+            ],
+            [
+              "Competência",
+              "Quem pode praticar o ato"
+            ],
+            [
+              "Finalidade",
+              "Para qual fim público"
+            ],
+            [
+              "Forma",
+              "Como o ato se exterioriza"
+            ],
+            [
+              "Motivo",
+              "Fato e fundamento que justificam o ato"
+            ],
+            [
+              "Objeto",
+              "O que o ato decide ou produz"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Mérito",
+          "text": "Mérito é a margem legítima de escolha quanto à conveniência e oportunidade. Ilegalidade não entra no mérito."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Finalidade ou motivo desviados tornam o ato ilegal, ainda que pareça conveniente."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 9.784/1999, art. 2º (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir a lista de atributos adotada na questão e os requisitos do art. 2º da Lei 9.784."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-11-princ-anulacao-revogacao-convalidacao",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-11",
+      "targetTitle": "Princípios e atos",
+      "title": "Anulação, revogação, cassação e convalidação",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A Administração controla os próprios atos: ilegalidade leva à anulação, conveniência de ato válido leva à revogação e defeito sanável leva à convalidação."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Instituto",
+              "Quando",
+              "Quem decide"
+            ],
+            [
+              "Anulação",
+              "Ato ilegal",
+              "Administração ou Judiciário"
+            ],
+            [
+              "Revogação",
+              "Conveniência e oportunidade de ato válido",
+              "Somente a Administração"
+            ],
+            [
+              "Convalidação",
+              "Defeito sanável de competência ou forma",
+              "Administração"
+            ],
+            [
+              "Cassação",
+              "Descumprimento de condição pelo beneficiário",
+              "Administração"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Revogação não desfaz atos já consumados nem direitos adquiridos. Anulação, em regra, opera com efeito retroativo."
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Base",
+          "text": "As Súmulas 346 e 473 do STF fundamentam a autotutela."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 9.784/1999, arts. 53 e 55 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir os arts. 53 e 55 da Lei 9.784 e o texto das súmulas citadas."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-12-princ-poder-hierarquico-disciplinar",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-12",
+      "targetTitle": "Poderes administrativos",
+      "title": "Poder hierárquico, disciplinar e regulamentar",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Poder",
+              "Função"
+            ],
+            [
+              "Hierárquico",
+              "Ordena e revê a atuação interna dos órgãos"
+            ],
+            [
+              "Disciplinar",
+              "Apura e sanciona infrações de servidores e de pessoas com vínculo especial"
+            ],
+            [
+              "Regulamentar",
+              "Viabiliza a execução da lei por decreto"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra essencial",
+          "text": "O poder regulamentar não cria obrigações novas nem restringe direitos fora da lei."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Poder disciplinar não se confunde com poder de polícia: o primeiro alcança a relação interna com agentes, o segundo alcança particulares."
+        },
+        {
+          "type": "reference",
+          "text": "Constituição Federal, art. 84, IV (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir o art. 84, IV e a hipótese de decreto autônomo previsto na EC 32/2001."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-13-princ-poder-policia",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-13",
+      "targetTitle": "Poder de polícia",
+      "title": "Poder de polícia e seu ciclo",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O poder de polícia limita direitos e atividades de particulares em benefício do interesse coletivo. Seu ciclo segue quatro etapas: ordem, consentimento, fiscalização e sanção."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Etapa",
+              "Exemplo"
+            ],
+            [
+              "Ordem",
+              "Norma que impõe limite ou exigência"
+            ],
+            [
+              "Consentimento",
+              "Licença ou autorização para a atividade"
+            ],
+            [
+              "Fiscalização",
+              "Verificação do cumprimento"
+            ],
+            [
+              "Sanção",
+              "Multa, interdição ou apreensão"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Poder de polícia não se confunde com serviço público: aquele restringe, este presta utilidade ao cidadão."
+        },
+        {
+          "type": "reference",
+          "text": "Código Tributário Nacional, art. 78 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir a definição do art. 78 do CTN e a jurisprudência sobre a sanção aplicada."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-14-org-direta-indireta-desconcentracao",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-14",
+      "targetTitle": "Organização administrativa",
+      "title": "Direta e indireta, desconcentração e agências",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Conceito",
+              "Característica"
+            ],
+            [
+              "Desconcentração",
+              "Distribui competências dentro da mesma pessoa jurídica"
+            ],
+            [
+              "Descentralização",
+              "Transfere competências a pessoas jurídicas distintas"
+            ],
+            [
+              "Autarquia",
+              "Criada por lei específica"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra essencial",
+          "text": "Lei específica autoriza a instituição das demais entidades da administração indireta."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Ministério é órgão, não pessoa jurídica. Desconcentração não cria entidade nova."
+        },
+        {
+          "type": "reference",
+          "text": "Constituição Federal, art. 37, XIX (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir o art. 37, XIX e o Decreto-Lei 200/1967 sobre as entidades indiretas."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-15-org-terceiro-setor-convenios",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-15",
+      "targetTitle": "Terceiro setor",
+      "title": "Terceiro setor, convênios e parcerias com OSC",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Figura",
+              "Instrumento",
+              "Base"
+            ],
+            [
+              "OS",
+              "Contrato de gestão",
+              "Lei 9.637/1998"
+            ],
+            [
+              "OSCIP",
+              "Termo de parceria",
+              "Lei 9.790/1999"
+            ],
+            [
+              "OSC (MROSC)",
+              "Colaboração, fomento ou acordo de cooperação",
+              "Lei 13.019/2014"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "MROSC",
+          "text": "Colaboração parte da iniciativa pública, fomento parte da iniciativa da OSC, e o acordo de cooperação não tem transferência financeira."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "OS não é qualificação automática: depende de ato do Poder Público. Não confundir contrato de gestão com termo de parceria."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 13.019/2014 (MROSC) (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13019.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir as Leis 9.637, 9.790 e 13.019 quanto às modalidades e às alterações posteriores."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-16-org-servico-publico-concessao",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-16",
+      "targetTitle": "Serviços públicos",
+      "title": "Serviço público, concessão e permissão",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Instituto",
+              "Natureza",
+              "Destinatário"
+            ],
+            [
+              "Concessão",
+              "Delegação contratual por prazo determinado, com licitação",
+              "Pessoa jurídica ou consórcio"
+            ],
+            [
+              "Permissão",
+              "Delegação precária, por contrato de adesão, com licitação",
+              "Pessoa física ou jurídica"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Concessão exige pessoa jurídica ou consórcio. Permissão aceita pessoa física. A confusão entre os dois é a pegadinha mais comum."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 8.987/1995 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987cons.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir o art. 2º e o art. 40 da Lei 8.987 e a redação vigente sobre permissão."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-17-org-ppp-consorcios",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-17",
+      "targetTitle": "Parcerias e consórcios",
+      "title": "PPP e consórcios públicos",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Modalidade",
+              "Remuneração"
+            ],
+            [
+              "PPP patrocinada",
+              "Tarifa do usuário mais contraprestação pública"
+            ],
+            [
+              "PPP administrativa",
+              "Contraprestação pública, com Administração como usuária direta ou indireta"
+            ],
+            [
+              "Concessão comum",
+              "Tarifa, sem contraprestação pública típica da PPP"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "PPP não é simples concessão com contraprestação: a administrativa não tem tarifa do usuário."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 11.079/2004 (PPP) (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079.htm"
+        },
+        {
+          "type": "reference",
+          "text": "Lei 11.107/2005 (consórcios públicos) (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferido em 2026-11-21: valor mínimo de R$ 10 milhões, art. 2º, § 4º, I, da Lei 11.079."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-18-resp-risco-omissao-regresso",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-18",
+      "targetTitle": "Responsabilidade civil do Estado",
+      "title": "Risco administrativo, omissão e direito de regresso",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O Estado responde objetivamente pelos danos que seus agentes causarem a terceiros, na modalidade do risco administrativo, com possibilidade de excludentes."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Requisito",
+              "Verificar"
+            ],
+            [
+              "Conduta",
+              "Ação ou omissão de agente nessa qualidade"
+            ],
+            [
+              "Dano",
+              "Lesão efetiva, certa e, em regra, individualizada"
+            ],
+            [
+              "Nexo",
+              "Relação causal entre conduta e dano"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Direito de regresso",
+          "text": "Quem indenizou a vítima pode voltar-se contra o agente, nos casos de dolo ou culpa."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Omissão do Estado gera responsabilidade subjetiva, em regra. Risco administrativo é objetivo, mas não se aplica a todo caso de omissão."
+        },
+        {
+          "type": "reference",
+          "text": "Constituição Federal, art. 37, § 6º (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir a jurisprudência do STF sobre omissão e risco administrativo antes de publicar."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-19-resp-desapropriacao-requisicao",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-19",
+      "targetTitle": "Intervenção na propriedade",
+      "title": "Desapropriação indireta e requisição",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Instituto",
+              "Pressuposto",
+              "Consequência"
+            ],
+            [
+              "Desapropriação indireta",
+              "Apossamento e incorporação fática ao patrimônio público",
+              "Indenização por via judicial"
+            ],
+            [
+              "Requisição",
+              "Iminente perigo público",
+              "Indenização ulterior, se houver dano"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Apossamento sem decreto não é desapropriação válida, mas gera direito à indenização. Requisição não exige a prévia indenização que a desapropriação exige."
+        },
+        {
+          "type": "reference",
+          "text": "Constituição Federal, art. 5º, XXIV e XXV (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir a jurisprudência atual sobre indenização em desapropriação indireta."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-20-ctrl-controle-tribunais-contas",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-20",
+      "targetTitle": "Controle da administração",
+      "title": "Controle administrativo, judicial e tribunais de contas",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Controle",
+              "Quem exerce",
+              "Alcance"
+            ],
+            [
+              "Administrativo (autotutela)",
+              "A própria Administração",
+              "Revê os próprios atos"
+            ],
+            [
+              "Judicial",
+              "Poder Judiciário",
+              "Legalidade, inclusive finalidade e proporcionalidade"
+            ],
+            [
+              "Tribunal de Contas",
+              "Controle externo",
+              "Técnico-financeiro"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Judiciário controla legalidade, não mérito. Tribunal de Contas não julga o Judiciário, mas emite decisão com natureza administrativa."
+        },
+        {
+          "type": "reference",
+          "text": "Constituição Federal, arts. 70 e 71 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir os arts. 70 e 71 da Constituição e a jurisprudência do STF sobre o alcance do controle."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-21-ctrl-recurso-revisao-pad",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-21",
+      "targetTitle": "Processo administrativo",
+      "title": "Recurso, revisão e PAD",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Instituto",
+              "Regra no processo federal"
+            ],
+            [
+              "Recurso administrativo",
+              "Em regra, 10 dias"
+            ],
+            [
+              "Reconsideração",
+              "A autoridade recorrida pode reconsiderar em 5 dias"
+            ],
+            [
+              "Revisão de PAD",
+              "Exige fatos novos ou circunstâncias relevantes, a qualquer tempo"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Revisão não serve para rediscutir a prova já analisada: exige fato novo ou circunstância relevante."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 9.784/1999, arts. 56 a 65 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+        },
+        {
+          "type": "reference",
+          "text": "Lei 8.112/1990, art. 174 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir os prazos dos arts. 56 e 59 da Lei 9.784 e a aplicação ao PAD federal (Lei 8.112)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-22-ctrl-lei-anticorrupcao-leniencia",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-22",
+      "targetTitle": "Responsabilização de pessoas jurídicas",
+      "title": "Lei Anticorrupção e leniência",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Tema",
+              "Regra"
+            ],
+            [
+              "Pessoa jurídica",
+              "Responsabilidade objetiva, na esfera administrativa e civil"
+            ],
+            [
+              "Pessoa física",
+              "Depende de culpabilidade"
+            ],
+            [
+              "Sanções",
+              "Multa e publicação extraordinária da decisão"
+            ],
+            [
+              "Leniência",
+              "Acordo com a pessoa jurídica que colabora"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Responsabilidade objetiva da empresa não se estende automaticamente à pessoa física, que depende de culpa ou dolo."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 12.846/2013 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir os arts. 6º e 16 da Lei 12.846 quanto a valores das multas e requisitos da leniência."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-23-ctrl-improbidade-dolo-tipos",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-23",
+      "targetTitle": "Improbidade administrativa",
+      "title": "Improbidade: dolo, tipos e aplicação no tempo",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Artigo",
+              "Tipo"
+            ],
+            [
+              "Art. 9º",
+              "Enriquecimento ilícito: vantagem patrimonial indevida"
+            ],
+            [
+              "Art. 10",
+              "Lesão ao erário: prejuízo efetivo e comprovado"
+            ],
+            [
+              "Art. 11",
+              "Violação aos princípios, em conduta tipificada"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Os três tipos exigem dolo. Culpa, em regra, não configura improbidade."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 8.429/1992 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir a redação atual da Lei 8.429 após as alterações da Lei 14.230/2021, inclusive a aplicação no tempo."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-24-ctrl-improbidade-penas-processo",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-24",
+      "targetTitle": "Improbidade administrativa",
+      "title": "Improbidade: penas, processo e declaração de bens",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Artigo",
+              "Sanções resumidas"
+            ],
+            [
+              "Art. 9º",
+              "Suspensão dos direitos políticos até 14 anos"
+            ],
+            [
+              "Art. 10",
+              "Suspensão dos direitos políticos até 12 anos"
+            ],
+            [
+              "Art. 11",
+              "Multa de até 24 vezes a remuneração e proibição de contratar ou receber benefícios por até 4 anos"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Sanções variam conforme o tipo do ato. Não aplicar a faixa do art. 9º ao caso do art. 11."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 8.429/1992, art. 12 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Sanções do art. 12 conferidas em 2026-11-21 no texto da Lei 14.230/2021 (14, 12 e 4 anos). Prazo de prescrição ainda não conferido."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-25-agentes-concurso-acumulacao-estabilidade",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-25",
+      "targetTitle": "Agentes públicos",
+      "title": "Agentes, concurso, acumulação e estabilidade",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Tema",
+              "Regra"
+            ],
+            [
+              "Acesso",
+              "Cargo efetivo e emprego exigem concurso, ressalvadas as nomeações para cargo em comissão"
+            ],
+            [
+              "Função de confiança",
+              "Exclusiva de servidor efetivo"
+            ],
+            [
+              "Estabilidade",
+              "3 anos de efetivo exercício e avaliação especial de desempenho"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Cargo em comissão dispensa concurso, mas não dá estabilidade. Função de confiança não substitui cargo efetivo."
+        },
+        {
+          "type": "reference",
+          "text": "Constituição Federal, art. 37 e art. 41 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir o art. 41 da Constituição e as regras de acumulação de cargos no art. 37, XVI e XVII."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-26-bens-publicos-uso-privativo",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-26",
+      "targetTitle": "Bens públicos",
+      "title": "Bens públicos e uso privativo",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Categoria",
+              "Exemplo"
+            ],
+            [
+              "Uso comum do povo",
+              "Ruas, praças, rios"
+            ],
+            [
+              "Uso especial",
+              "Prédios onde funcionam órgãos públicos"
+            ],
+            [
+              "Dominicais",
+              "Bens sem destinação pública definida"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra essencial",
+          "text": "Bens afetados são inalienáveis enquanto conservarem a qualificação. Dominicais podem ser alienados na forma da lei."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Desafetação transforma bem de uso comum ou especial em dominical. Sem ato formal, o bem continua afetado."
+        },
+        {
+          "type": "reference",
+          "text": "Código Civil, arts. 98 a 103 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir os arts. 98 a 103 do Código Civil e a regra de desafetação na lei de cada ente."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-27-lai-transparencia-sigilo",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-27",
+      "targetTitle": "Transparência pública",
+      "title": "LAI: transparência, pedidos e sigilo",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Modalidade",
+              "Característica"
+            ],
+            [
+              "Transparência ativa",
+              "Divulgação de ofício"
+            ],
+            [
+              "Transparência passiva",
+              "Resposta a pedido, sem exigir motivação do interessado"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Prazo",
+          "text": "Se o acesso imediato for inviável, o prazo é de 20 dias, prorrogável por 10 com justificativa."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Pedido de acesso não exige motivação. Sigilo depende de hipótese legal expressa."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 12.527/2011, arts. 8º, 11 e 24 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir o art. 11 da LAI quanto aos prazos e a classificação de sigilo do art. 24."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-28-lgpd-setor-publico",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-28",
+      "targetTitle": "Proteção de dados",
+      "title": "LGPD no setor público",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Figura",
+              "Papel"
+            ],
+            [
+              "Controlador",
+              "Decide sobre o tratamento"
+            ],
+            [
+              "Operador",
+              "Trata dados em nome do controlador"
+            ],
+            [
+              "Encarregado",
+              "Canal de comunicação com titulares e a ANPD"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Conceitos",
+          "text": "Dado pessoal identifica ou permite identificar pessoa natural. Dado sensível segue bases legais específicas."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Operador não decide sobre a finalidade do tratamento. Essa decisão é do controlador."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 13.709/2018 (LGPD) (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir o art. 5º da LGPD e o art. 23 sobre tratamento pelo poder público."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-29-adm-estoques-cadeia",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-29",
+      "targetTitle": "Gestão pública",
+      "title": "Estoques e cadeia de suprimentos",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O estoque de segurança absorve variações de demanda ou atrasos de reposição."
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Fórmula",
+          "text": "Ponto de pedido = consumo no tempo de reposição + estoque de segurança."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Estoque de segurança não é estoque máximo. Ele existe para cobrir a variação, não para acumular."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir a fórmula se a questão usar outro método de controle de estoque."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-30-adm-governanca-accountability",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-30",
+      "targetTitle": "Gestão pública",
+      "title": "Governança, governabilidade e accountability",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Conceito",
+              "Função"
+            ],
+            [
+              "Governabilidade",
+              "Condições políticas para governar"
+            ],
+            [
+              "Governança",
+              "Avaliar, direcionar e monitorar"
+            ],
+            [
+              "Gestão",
+              "Planejar e executar"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Governança não executa: quem executa é a gestão. Governabilidade trata das condições políticas, não da eficiência interna."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conteúdo doutrinário. Conferir com o caderno do TEC a definição adotada."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-31-adm-modelos-qualidade-resultados",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-31",
+      "targetTitle": "Gestão pública",
+      "title": "Modelos administrativos, qualidade e resultados",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Modelo",
+              "Ênfase"
+            ],
+            [
+              "Patrimonialista",
+              "Confunde as esferas pública e privada"
+            ],
+            [
+              "Burocrático",
+              "Mérito, formalidade e impessoalidade"
+            ],
+            [
+              "Gerencial",
+              "Desempenho e entrega de resultados"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "O modelo gerencial não abandona a legalidade: acrescenta foco em resultado ao modelo burocrático."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conteúdo doutrinário. Conferir com o caderno do TEC a classificação usada."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-32-adm-afo-receita-divida",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-32",
+      "targetTitle": "Orçamento público",
+      "title": "AFO: receita, classificação e dívida ativa",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Componente",
+              "Conteúdo"
+            ],
+            [
+              "Natureza",
+              "Categoria econômica, origem, espécie, desdobramentos e tipo"
+            ],
+            [
+              "Vinculação",
+              "Fonte ou destinação indica a vinculação do recurso"
+            ],
+            [
+              "Resultado primário",
+              "Identificador que distingue os efeitos fiscais"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Origem e espécie são níveis diferentes da classificação. Não trocar um pelo outro."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 4.320/1964 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir a classificação de receita no manual atual da STN e os arts. 11 a 14 da Lei 4.320."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-33-adm-auditoria-coso-riscos",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-33",
+      "targetTitle": "Controle interno",
+      "title": "Auditoria, COSO e gestão de riscos",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Componente do COSO",
+              "Função"
+            ],
+            [
+              "Ambiente de controle",
+              "Base cultural e de integridade"
+            ],
+            [
+              "Avaliação de riscos",
+              "Identificação e análise de riscos"
+            ],
+            [
+              "Atividades de controle",
+              "Políticas e procedimentos de resposta"
+            ],
+            [
+              "Informação e comunicação",
+              "Fluxo de dados relevantes"
+            ],
+            [
+              "Monitoramento",
+              "Avaliação contínua e separada"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Auditoria é atividade independente de avaliação. Controle interno é função da gestão, não sinônimo de auditoria."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir a versão do COSO usada na questão e a descrição de cada componente."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-34-adm-questoes-pontuais-eventos",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-34",
+      "targetTitle": "Questões pontuais",
+      "title": "Questões pontuais: eventos",
+      "status": "approved",
+      "updateType": "esquema",
+      "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
+      "version": 1,
+      "updatedAt": "2026-11-21",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Congresso é reunião formal de um grupo profissional para estudar, debater e formular conclusões sobre tema comum."
         }
       ],
       "flashcards": []

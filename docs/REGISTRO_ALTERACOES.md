@@ -2,6 +2,15 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+
+## 2026-11-21 — Claude (Administrativo: 34 esquemas publicados no Mapa)
+- Publicados como `approved` os 34 esquemas de Direito Administrativo (admin-01 a admin-34), importados da aba "Conteúdos estruturados" com `scripts/import-study-knowledge.mjs` (34 IDs aprovados; 123 registros preservados).
+- admin-34: removido o trecho de Constituição de Goiás; ID renomeado para `admin-34-adm-questoes-pontuais-eventos`. Conteúdo restrito à definição de congresso.
+- Conferido na web: PPP com valor mínimo de R$ 10 milhões (art. 2º, § 4º, I, Lei 11.079); sanções do art. 12 da Lei 8.429 após a Lei 14.230/2021 (14, 12 e 4 anos); habilitação antecipada no art. 17, § 1º, da Lei 14.133 (ato motivado e previsão no edital).
+- Testes: `npm test` com as mesmas 5 falhas do commit anterior (pacotes `@vercel/blob` e `iron-session` ausentes; duas asserções antigas de contagem e versão). Nenhuma falha nova. `npm run build` concluído.
+- Arquivos: `source-content/study-knowledge.json`, `docs/REGISTRO_ALTERACOES.md`.
+- Pendências: conferência dos demais artigos citados (Lei 14.133, Lei 13.303, Lei 12.846, Lei 12.527, LGPD, CC e outros); prescrição da improbidade (admin-24); coluna "Comparativo necessário" da aba Esquemas; conferência visual no site após o deploy.
+
 ## 2026-11-21 — Claude (Apostila de Tributário: datas de conferência removidas)
 - Removidas duas datas de conferência ("24/10/2026") da seção 11.5 e da lista de fontes da seção 9, por não terem comprovação nesta sessão.
 - O § 3º do art. 3º da LC 214, citado como acrescido pela LC 227/2026, foi confirmado na Câmara.
