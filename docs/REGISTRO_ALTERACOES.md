@@ -3,6 +3,12 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-21 — Claude (Administrativo: prescrição do admin-24 conferida e republicada)
+- admin-24: conferida a prescrição da improbidade no art. 23 da Lei 8.429/1992 (8 anos; prescrição intercorrente de 4 anos no § 5º). Aviso de pendência trocado por nota de conferência. Versão 2.
+- Testes: `npm test` com as mesmas 5 falhas pré-existentes. `npm run build` concluído.
+- Arquivos: `source-content/study-knowledge.json`, `docs/REGISTRO_ALTERACOES.md`.
+- Pendências: conferência dos demais artigos citados nos esquemas; coluna "Comparativo necessário" da aba Esquemas; conferência visual dos demais cards.
+
 ## 2026-11-21 — Claude (Administrativo: 34 esquemas publicados no Mapa)
 - Publicados como `approved` os 34 esquemas de Direito Administrativo (admin-01 a admin-34), importados da aba "Conteúdos estruturados" com `scripts/import-study-knowledge.mjs` (34 IDs aprovados; 123 registros preservados).
 - admin-34: removido o trecho de Constituição de Goiás; ID renomeado para `admin-34-adm-questoes-pontuais-eventos`. Conteúdo restrito à definição de congresso.

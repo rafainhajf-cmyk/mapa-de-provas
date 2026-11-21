@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
-  "exportedAt": "2026-11-21T18:37:15.314Z",
+  "exportedAt": "2026-11-21T18:47:23.666Z",
   "records": [
     {
       "id": "aud-01-responsabilidade-pela-opiniao-e-especialistas",
@@ -5839,7 +5839,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "Planilha Mapa de Provas Administrativo TEC (aba Esquemas)",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -5876,9 +5876,9 @@
         },
         {
           "type": "callout",
-          "kind": "warning",
-          "title": "Pendência de conferência",
-          "text": "Sanções do art. 12 conferidas em 2026-11-21 no texto da Lei 14.230/2021 (14, 12 e 4 anos). Prazo de prescrição ainda não conferido."
+          "kind": "note",
+          "title": "Conferência",
+          "text": "Sanções do art. 12 conferidas em 2026-11-21 no texto da Lei 14.230/2021 (14, 12 e 4 anos). Prazos de prescrição conferidos em 2026-11-21 no art. 23 da Lei 8.429/1992 (8 anos; intercorrente de 4 anos no §5º); o esquema não os detalha."
         }
       ],
       "flashcards": []
