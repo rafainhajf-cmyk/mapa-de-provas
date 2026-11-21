@@ -2233,7 +2233,7 @@
     },
     {
      "id": "metodos-custeio",
-     "title": "Métodos de custeio e unidades de medida de custo",
+     "title": "Sistemas e métodos de custeio",
      "url": "",
      "mimeType": "text/plain",
      "pageCount": null
@@ -25949,46 +25949,87 @@
    },
    {
     "id": "metodos-custeio",
-    "modifiedAt": "2026-11-21T19:40:00.000Z",
-    "analyzedAt": "2026-11-21T19:40:00.000Z",
+    "modifiedAt": "2026-11-21T20:13:00.000Z",
+    "analyzedAt": "2026-11-21T20:13:00.000Z",
     "coverage": "complete",
     "assessment": "not-assessed",
     "kind": "study-note",
     "category": "Custos",
-    "topic": "Métodos de custeio e unidades de medida de custo",
-    "summary": "Lista dos métodos de custeio e dos tipos de custo padrão, ideal, estimado e corrente. Definições pendentes.",
+    "topic": "Sistemas e métodos de custeio",
+    "summary": "Sistemas de custeio (histórico, corrente, estimado, padrão) e métodos de custeio (direto, variável, absorção, por atividade, pleno).",
     "source": "Anotações de estudo de Custos enviadas no chat em 21/11/2026 (PDFs do usuário), conferidas pelo texto das próprias anotações.",
     "contentBlocks": [
      {
       "type": "paragraph",
       "style": "TITLE",
-      "text": "Métodos de custeio"
-     },
-     {
-      "type": "paragraph",
-      "style": "NORMAL_TEXT",
-      "text": "Direto · indireto · variável · fixo · absorção · pleno."
+      "text": "Sistemas e métodos de custeio"
      },
      {
       "type": "paragraph",
       "style": "HEADING_1",
-      "text": "Unidades de medida de custo"
+      "text": "Sistema de custeio"
      },
      {
       "type": "paragraph",
       "style": "NORMAL_TEXT",
-      "text": "Custo padrão · custo ideal · custo estimado · custo corrente."
+      "text": "• Custo histórico"
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "• Custo corrente"
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "• Custo estimado"
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "• Custo padrão"
+     },
+     {
+      "type": "paragraph",
+      "style": "HEADING_1",
+      "text": "Método de custeio"
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "• Custeio direto"
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "• Custeio variável"
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "• Custeio por absorção"
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "• Custeio por atividade"
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "• Custeio pleno"
+     },
+     {
+      "type": "callout",
+      "kind": "note",
+      "title": "ABC",
+      "text": "ABC é uma técnica: NBC TSP 34."
      },
      {
       "type": "callout",
       "kind": "warning",
-      "title": "Pendente de esquematização",
-      "text": "A anotação enviada traz só os nomes. Definição, fórmula e diferença entre eles ainda não foram esquematizadas; envie a explicação ou a teoria da matéria para completar este bloco."
-     },
-     {
-      "type": "paragraph",
-      "style": "NORMAL_TEXT",
-      "text": "As fórmulas desta matéria estão em “Fórmulas e quiz de Custos”."
+      "title": "Pendente",
+      "text": "Definição de cada sistema e método ainda não enviada. Envie a explicação para completar este bloco."
      }
     ]
    },
