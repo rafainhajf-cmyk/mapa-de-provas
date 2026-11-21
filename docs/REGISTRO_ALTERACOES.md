@@ -2,6 +2,13 @@
 
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
+## 2026-11-21 — Claude (Apostila de Tributário: datas de conferência removidas)
+- Removidas duas datas de conferência ("24/10/2026") da seção 11.5 e da lista de fontes da seção 9, por não terem comprovação nesta sessão.
+- O § 3º do art. 3º da LC 214, citado como acrescido pela LC 227/2026, foi confirmado na Câmara.
+- Não confirmado: art. 31-A da Kandir (redução de ICMS de 10% a 40% em 2029 a 2032), citado em vários pontos. Conferir o texto consolidado antes de publicar.
+- Arquivos: `source-content/apostila-data.json`, `docs/REGISTRO_ALTERACOES.md`.
+- Pendências: art. 31-A da Kandir; PEC 22/2026 (seção 3.8); separador do trecho STJ/REsp (seção 9); RCM e frete (lição de mercadorias).
+
 ## 2026-11-20 — Claude (Apostila de Tributário: conferência final da 3.7, 3.8 e pendências)
 - Conferido na web: seção 3.7 (LC 232/2026, Copa Feminina 2027: isenção de ISS concedida pelos Municípios e DF, limitada às pessoas jurídicas com incentivo federal, prazo ligado ao incentivo da União); seção 3.8 (ADCT, art. 126, III, "a": alíquota do IPI zero a partir de 2027, ressalva da ZFM).
 - Pendente de atenção: PEC 22/2026 propõe nova redação ao art. 126 do ADCT; conferir o andamento antes de publicar a 3.8.
