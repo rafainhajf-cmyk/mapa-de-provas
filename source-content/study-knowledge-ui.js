@@ -30,11 +30,26 @@ function addQuestionTheory(root,note){
  return true;
 }
 function addIncrement(el,note){if(el.querySelector('[data-knowledge-id="'+note.id+'"]'))return;el.insertAdjacentHTML('beforeend',knowledgeHTML([note]));}
+// Esquema incremental entra no assunto cujo título é igual ao título do esquema (ex.: "Âmbito, definições e agentes da Lei 14.133").
+function addToUniformTopic(active,note){
+ const h=active.querySelector(':scope > h3');
+ if(!h||norm(note.title)!==norm(h.textContent))return false;
+ let box=active.querySelector(':scope > [data-knowledge-topic-box]');
+ if(!box){box=document.createElement('div');box.setAttribute('data-knowledge-topic-box','1');h.after(box);}
+ addIncrement(box,note);
+ return true;
+}
+// Esquemas já colocados em um assunto da lista não são repetidos no painel do índice.
+function placedInTopicList(page,note){
+ const names=[...page.querySelectorAll('[data-library-topic]')].map(b=>norm(b.textContent));
+ const title=norm(note.title);
+ return !!title&&names.some(n=>n.startsWith(title));
+}
 function updateIndex(root,notes){
  const page=root.querySelector('.uniform-subjects,.subject-contents');
  if(!page)return;
  const label=norm(page.querySelector('h3')?.textContent||'');
- const subject=notes.filter(x=>x.updateType!==QT&&label.includes(norm(x.subject)));
+ const subject=notes.filter(x=>x.updateType!==QT&&label.includes(norm(x.subject))&&!placedInTopicList(page,x));
  if(!subject.length||page.querySelector('[data-knowledge-overview]'))return;
  const panel=document.createElement('div');panel.setAttribute('data-knowledge-overview','1');panel.className='accounting-panel';panel.style.margin='20px 0';panel.innerHTML='<h4>Esquemas incrementais aprovados no Drive</h4><p>Complementos estruturados associados ao índice da matéria.</p>'+knowledgeHTML(subject);
  page.append(panel);
@@ -44,7 +59,7 @@ function paint(){
  // Não inserir outra versão do mesmo ID: a regra vale para navegação e leitura contínua.
  const active=root.querySelector('.uniform-topic');
  if(active){
-  for(const note of approved){if(note.updateType===QT){addQuestionTheory(active,note);continue;}const target=targetInReader(active,note);if(target)addIncrement(target,note);}
+  for(const note of approved){if(note.updateType===QT){addQuestionTheory(active,note);continue;}if(addToUniformTopic(active,note))continue;const target=targetInReader(active,note);if(target)addIncrement(target,note);}
   return;
  }
  updateIndex(root,approved);
