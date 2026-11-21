@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-21 — Claude (Contabilidade: teoria da matéria para 10 assuntos)
+- Dez assuntos de Contabilidade ganharam teoria da matéria, transcrita do rascunho aprovado (`docs/contabilidade/rascunho-teoria-18.md`), com a fonte citada em cada ponto: conta-a-06, conta-b-02, conta-b-03, conta-b-06, conta-c-02, conta-c-03, conta-c-04, conta-d-08, conta-e-02, conta-e-08.
+- Quando o assunto não tem teoria própria, a página usa esse texto. Notas de conflito seguem visíveis (duplicatas descontadas; CPC 36 conferido só pelo sumário).
+- Não publicados nesta entrega: Disponibilidades (conta-b-01) e Fornecedores (conta-c-01), sem pesquisa; CPC 06, 24, 16, 05 e 33 (conta-f-02, conta-f-03, conta-f-05, conta-f-06, conta-c-07), cujos textos não estão no rascunho aprovado e precisam de nova pesquisa.
+- Arquivos: `source-content/accounting-theory-data.js`, `source-content/accounting-study.js`, `source-content/dificuldades.js` (import v=112).
+- Pendências: teoria de Disponibilidades e Fornecedores; teoria dos 5 assuntos acima; regras da Teoria das questões para as 19 questões sem regra; 20 questões tributárias de LC 116.
+
 ## 2026-11-21 — Claude (Contabilidade: 19 questões de Contabilidade Geral ligadas ao assunto)
 - 601 questões do inventário de Contabilidade estão ligadas a um assunto (eram 582). As 19 novas estão em Contabilidade Básica (`conta-a-01`) e aparecem na coluna de exercícios.
 - Essas 19 ainda não têm regra aprovada na Teoria das questões; a seção mostra a lista delas com essa observação, sem regra inventada.
