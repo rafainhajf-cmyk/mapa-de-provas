@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-21 — Claude (Administrativo: correção da questão 2235648 no esquema 23)
+- A explicação da alternativa D dizia que a culpa no prejuízo ao erário seria admitida com dano comprovado. Reescrita: a Lei 14.230/2021 exige dolo para o ato do art. 10 e suprimiu a modalidade culposa (rascunho versão 3).
+- Arquivos: `source-content/study-knowledge.json`, `docs/REGISTRO_ALTERACOES.md`.
+- Testes: `npm run build` ok; `npm test` com as mesmas 4 falhas pré-existentes.
+- Pendente: 3975683 (alternativa E sem citar o artigo), por falta do enunciado completo; enunciados truncados e precedentes do esquema 23 a conferir no TEC e na jurisprudência.
+- Publicado conforme autorização do usuário; conferir no site após o deploy.
+
 ## 2026-11-21 — Claude (Contabilidade: regras para 11 das 19 questões sem regra)
 - Quatro regras novas (R10 a R15) na Teoria das questões de Contabilidade Básica, escritas a partir das explicações já registradas no repositório (`accounting-solutions-01.js`), para 11 questões: 2013231, 2064755, 3662027, 3662029, 2163640, 2771977, 3240910, 2775131, 3584435, 3883229 e 2231001.
 - Ficam pendentes 8 questões sem explicação no repositório (2223559, 2949362, 3093142, 3114168, 3149114, 3154666, 3365979, 3975976). Os enunciados estão só no TEC, que pede login.
