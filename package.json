@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",
+    "check:cobertura": "node scripts/check-cobertura.mjs",
     "test": "node --test test.mjs sync.test.mjs sync-client.test.mjs accounting-exercises.test.mjs flashcards-macroeconomia.test.mjs macro-concepts.test.mjs review-blocks.test.mjs normativo.test.mjs",
     "test:accounting:browser": "node accounting-browser-check.mjs"
   },

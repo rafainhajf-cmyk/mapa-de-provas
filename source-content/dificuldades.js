@@ -92,7 +92,7 @@ function taxGroup(t){
  return 'Direito Tributário Normativo';
 }
 function taxGroups(topics,render){
- const groups=[TAX_GROUPS[9]];
+ const groups=[TAX_GROUPS[9],'LTE e Convênios'];
  return groups.map(g=>'<details class="difficulty-library-group tax-category"><summary>'+esc(g)+' ('+topics.filter(t=>taxGroup(t)===g).length+')</summary><div class="difficulty-content-list">'+(topics.filter(t=>taxGroup(t)===g).map(render).join('')||'<p>Sem materiais cadastrados.</p>')+'</div></details>').join('');
 }
 function uniformLibraryHTML(subject='',filter=[]){

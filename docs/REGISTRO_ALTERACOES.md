@@ -8,6 +8,14 @@ Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — 
 - `accounting-exercises.test.mjs`: o teste passou a verificar a sincronização das cópias, em vez de IDs únicos. 7 de 7 aprovados.
 - Pendências: nenhuma nesta mudança.
 
+## 2026-11-21 — Claude (etapas 8 a 10: LTE no Tributário, conferência antes de publicar e painel por matéria)
+- Etapa 8: Apostila de Tributário conferida como separada de Direito Tributário Normativo (dados, código e navegação). Achado: assuntos "LTE e Convênios" não apareciam na aba Tributário de Dificuldades, porque o grupo não estava na lista exibida. Corrigido em `source-content/dificuldades.js` (grupo exibido adicionado ao lado de Direito Tributário Normativo).
+- Etapa 9: novo `scripts/check-cobertura.mjs` (`npm run check:cobertura`). Lê `study-knowledge.json`, mostra o painel por matéria (aprovados, rascunhos, blocos, ⚠ pendentes) e aponta erros de publicação (campos obrigatórios, id duplicado, mais de 100 blocos, sem blocos). Sem gravar arquivos.
+- Etapa 10: a conferência antes de publicar é o mesmo script. Resultado atual: 0 erros; 159 avisos de aprovados sem flashcards e 37 registros com ⚠ pendente (Direito Administrativo, rascunhos admin-rasc).
+- Arquivos: `source-content/dificuldades.js`, `scripts/check-cobertura.mjs`, `package.json`, `docs/REGISTRO_ALTERACOES.md`.
+- Testes: `npm run build` ok; `npm test` com as mesmas 4 falhas pré-existentes.
+- Pendente: a correção da aba LTE ainda não foi conferida no site (só depois de publicar). Branch `claude/etapas-8-10`, sem push e sem publicação. Etapas 4 a 7 e 11 a 13 dependem de material do usuário.
+
 ## 2026-11-21 — Claude (Administrativo: correção da questão 2235648 no esquema 23)
 - A explicação da alternativa D dizia que a culpa no prejuízo ao erário seria admitida com dano comprovado. Reescrita: a Lei 14.230/2021 exige dolo para o ato do art. 10 e suprimiu a modalidade culposa (rascunho versão 3).
 - Arquivos: `source-content/study-knowledge.json`, `docs/REGISTRO_ALTERACOES.md`.
