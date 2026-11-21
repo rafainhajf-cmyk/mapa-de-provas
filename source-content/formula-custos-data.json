@@ -1,0 +1,217 @@
+{
+ "title": "Fórmulas de Custos",
+ "scope": "Compilação das fórmulas das anotações de Custos enviadas no chat (PDFs de 21/11/2026). Métodos de custeio e unidades de medida ainda não têm fórmulas, porque o material enviado traz só os nomes.",
+ "legend": "CP: custo primário · CT: custo de transformação · CPP: custo de produção do período · CPA: custo dos produtos acabados · CPV: custo dos produtos vendidos · MP: matéria-prima · MOD: mão de obra direta · CIF: custos indiretos de fabricação · CV/DV: custos e despesas variáveis · CFDF: custos e despesas fixas · MCu/MCT: margem de contribuição unitária/total · PEC/PEE/PEF/PEO: pontos de equilíbrio · MS: margem de segurança · GAO: grau de alavancagem operacional · TP: taxa-padrão.",
+ "formulas": [
+  {
+   "id": "cpm",
+   "group": "Custos de produção",
+   "title": "Custo primário",
+   "text": "CP = MP + MOD",
+   "html": "CP = MP + MOD",
+   "note": "MP = matéria-prima; MOD = mão de obra direta. MP = EIMP + compras de MP − EFMP.",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "cpt",
+   "group": "Custos de produção",
+   "title": "Custo de transformação",
+   "text": "CT = MOD + CIF",
+   "html": "CT = MOD + CIF",
+   "note": "CIF = todos os custos indiretos de fabricação (aluguéis, seguros, mão de obra indireta).",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "cpp",
+   "group": "Custos de produção",
+   "title": "Custo de produção do período (CPP)",
+   "text": "CPP = MP + MOD + CIF",
+   "html": "CPP = MP + MOD + CIF",
+   "note": "",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "mp",
+   "group": "Custos de produção",
+   "title": "Matéria-prima consumida",
+   "text": "MP = EIMP + Compras de MP − EFMP",
+   "html": "MP = EIMP + Compras de MP − EFMP",
+   "note": "EIMP: estoque inicial de matéria-prima; EFMP: estoque final.",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "cpa",
+   "group": "Custos de produção",
+   "title": "Custo dos produtos acabados (CPA)",
+   "text": "CPA = EIPE + CPP − EFPE",
+   "html": "CPA = EIPE + CPP − EFPE",
+   "note": "EIPE/EFPE: estoque inicial/final de produtos em elaboração.",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "cpv",
+   "group": "Custos de produção",
+   "title": "Custo dos produtos vendidos (CPV)",
+   "text": "CPV = EIPA + CPA − EFPA",
+   "html": "CPV = EIPA + CPA − EFPA",
+   "note": "EIPA/EFPA: estoque inicial/final de produtos acabados. Se toda a produção acabada é vendida, CPA = CPV.",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "mcu",
+   "group": "Margem de contribuição",
+   "title": "Margem de contribuição unitária",
+   "text": "MCu = PV − (CV + DV)",
+   "html": "MCu = PV − (CV + DV)",
+   "note": "PV: preço de venda unitário; CV: custos variáveis (matéria-prima, embalagem, mão de obra direta); DV: despesas variáveis (comissão sobre vendas, frete).",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "mct",
+   "group": "Margem de contribuição",
+   "title": "Margem de contribuição total",
+   "text": "MCT = MCu × Qtde vendida",
+   "html": "MCT = MCu × Qtde vendida",
+   "note": "Usa a quantidade vendida, não a produzida.",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "pec",
+   "group": "Ponto de equilíbrio",
+   "title": "PEC — ponto de equilíbrio contábil",
+   "text": "PEC = CFDF ÷ MCun",
+   "html": "PEC = CFDF ÷ MCun",
+   "note": "CFDF: custos fixos e despesas fixas.",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "pee",
+   "group": "Ponto de equilíbrio",
+   "title": "PEE — ponto de equilíbrio econômico",
+   "text": "PEE = (CFDF + ML) ÷ MCun",
+   "html": "PEE = (CFDF + ML) ÷ MCun",
+   "note": "ML: margem de lucro desejada.",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "pef",
+   "group": "Ponto de equilíbrio",
+   "title": "PEF — ponto de equilíbrio financeiro",
+   "text": "PEF = (CFDF − Depreciação) ÷ MCun",
+   "html": "PEF = (CFDF − Depreciação) ÷ MCun",
+   "note": "Depreciação: depreciação, amortização e exaustão.",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "peo",
+   "group": "Ponto de equilíbrio",
+   "title": "PEO — ponto de equilíbrio operacional",
+   "text": "PEO = (CFDF − Despesas financeiras) ÷ MCun",
+   "html": "PEO = (CFDF − D<sub>financeiras</sub>) ÷ MCun",
+   "note": "",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "ms",
+   "group": "Ponto de equilíbrio",
+   "title": "Margem de segurança",
+   "text": "MS = (Q vendida − Q de equilíbrio) ÷ Q vendida",
+   "html": "MS = (Q<sub>vendida</sub> − Q<sub>equilíbrio</sub>) ÷ Q<sub>vendida</sub>",
+   "note": "Regra em regra: PEE > PEC > PEF.",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "gao1",
+   "group": "GAO",
+   "title": "GAO — forma básica",
+   "text": "GAO = 1 ÷ MS",
+   "html": "GAO = 1 ÷ MS",
+   "note": "",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "gao2",
+   "group": "GAO",
+   "title": "GAO — forma percentual",
+   "text": "GAO = Δ% Lucro ÷ Δ% Vendas",
+   "html": "GAO = Δ% Lucro ÷ Δ% Vendas",
+   "note": "GAO > 1: lucro cresce mais que as vendas; GAO = 1: mesma proporção; GAO < 1: cresce menos.",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "gao3",
+   "group": "GAO",
+   "title": "GAO — pela margem de contribuição",
+   "text": "GAO = MCT ÷ L",
+   "html": "GAO = MCT ÷ L",
+   "note": "L: lucro operacional (na anotação de ponto de equilíbrio aparece como LL).",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "prop1",
+   "group": "Proporcionalidade",
+   "title": "Receita pelo custo total",
+   "text": "Receita = (Custo incorrido ÷ Custo total previsto) × Receita total contratada",
+   "html": "Receita = (Custo incorrido ÷ Custo total previsto) × Receita total contratada",
+   "note": "A empresa reconhece receita na mesma proporção do custo executado.",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "prop2",
+   "group": "Proporcionalidade",
+   "title": "Receita pelo custo de conversão",
+   "text": "Receita = (Custo de conversão incorrido ÷ Custo de conversão total previsto) × Receita total",
+   "html": "Receita = (Custo de conversão incorrido ÷ Custo de conversão total previsto) × Receita total",
+   "note": "Custo de conversão = MOD + CIF. Matéria-prima não entra.",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "tp",
+   "group": "Taxa-padrão",
+   "title": "Taxa-padrão da mão de obra",
+   "text": "TP = Custo-padrão da mão de obra ÷ Horas-padrão",
+   "html": "TP = Custo-padrão da MO ÷ Horas-padrão",
+   "note": "Geralmente a taxa-padrão já vem no enunciado.",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "vtx",
+   "group": "Taxa-padrão",
+   "title": "Variação da taxa",
+   "text": "Horas reais × (taxa real − taxa-padrão)",
+   "html": "Horas reais × (taxa real − taxa-padrão)",
+   "note": "Se a taxa real for menor que a taxa-padrão, a variação é favorável, com as mesmas horas reais.",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "vef",
+   "group": "Taxa-padrão",
+   "title": "Variação de eficiência",
+   "text": "(Horas reais − horas-padrão) × taxa-padrão",
+   "html": "(Horas reais − horas-padrão) × taxa-padrão",
+   "note": "",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  },
+  {
+   "id": "cpt2",
+   "group": "Taxa-padrão",
+   "title": "Custo-padrão total",
+   "text": "Horas-padrão × taxa-padrão",
+   "html": "Horas-padrão × taxa-padrão",
+   "note": "Exemplo: 2.000 unidades × 2,5 h × R$ 14,00 = R$ 70.000.",
+   "source": "Anotações de Custos enviadas no chat (21/11/2026)"
+  }
+ ],
+ "sources": [
+  {
+   "name": "Anotações de Custos (8 PDFs enviados no chat em 21/11/2026)"
+  }
+ ],
+ "checks": [
+  {
+   "title": "Revisão",
+   "text": "Fórmulas copiadas das anotações enviadas, sem conferência contra livro ou banca. Os valores de exemplo foram recalculados a partir dos números das anotações."
+  }
+ ],
+ "references": []
+}

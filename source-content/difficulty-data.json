@@ -25606,14 +25606,6 @@
       ]
      },
      {
-      "type": "formula",
-      "text": "MP = EIMP + Compras de MP − EFMP"
-     },
-     {
-      "type": "formula",
-      "text": "CPA = EIPE + CPP − EFPE  ·  CPV = EIPA + CPA − EFPA"
-     },
-     {
       "type": "paragraph",
       "style": "NORMAL_TEXT",
       "text": "Legenda: EIMP/EFMP = estoque inicial/final de matéria-prima; EIPE/EFPE = estoque inicial/final de produtos em elaboração; EIPA/EFPA = estoque inicial/final de produtos acabados; MOD = valor da hora × horas trabalhadas (em geral, valor dado pronto); CIF = todos os custos indiretos, como aluguéis, seguros e mão de obra indireta."
@@ -25648,6 +25640,11 @@
         "Produziu-se mais do que se vendeu"
        ]
       ]
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "As fórmulas desta matéria estão em “Fórmulas e quiz de Custos”."
      }
     ]
    },
@@ -25734,6 +25731,11 @@
       "type": "paragraph",
       "style": "NORMAL_TEXT",
       "text": "Exemplo de leitura: se o estoque inicial é zero e o final tem produtos, a produção foi maior que a venda, logo o lucro por absorção tende a ser maior."
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "As fórmulas desta matéria estão em “Fórmulas e quiz de Custos”."
      }
     ]
    },
@@ -25753,14 +25755,6 @@
       "type": "paragraph",
       "style": "TITLE",
       "text": "Margem de contribuição"
-     },
-     {
-      "type": "formula",
-      "text": "MCu = PV − (CV + DV)"
-     },
-     {
-      "type": "formula",
-      "text": "MCT = MCu × Quantidade vendida (Qtde)"
      },
      {
       "type": "paragraph",
@@ -25799,6 +25793,11 @@
       "kind": "warning",
       "title": "Cuidado",
       "text": "Custos fixos não entram na margem de contribuição."
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "As fórmulas desta matéria estão em “Fórmulas e quiz de Custos”."
      }
     ]
    },
@@ -25861,13 +25860,14 @@
       "text": "Em regra: PEE > PEC > PEF."
      },
      {
-      "type": "formula",
-      "text": "MS = (Q vendida − Q de equilíbrio) ÷ Q vendida"
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "Margem de segurança: quantidade vendida acima do ponto de equilíbrio."
      },
      {
       "type": "paragraph",
       "style": "NORMAL_TEXT",
-      "text": "Margem de segurança: quantidade vendida acima do ponto de equilíbrio."
+      "text": "As fórmulas desta matéria estão em “Fórmulas e quiz de Custos”."
      }
     ]
    },
@@ -25939,6 +25939,11 @@
       "type": "paragraph",
       "style": "NORMAL_TEXT",
       "text": "Na anotação de ponto de equilíbrio, a mesma forma aparece como GAO = MCT ÷ LL, com Δ% sobre a quantidade vendida (ΔQV). Use a forma do enunciado."
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "As fórmulas desta matéria estão em “Fórmulas e quiz de Custos”."
      }
     ]
    },
@@ -25979,6 +25984,11 @@
       "kind": "warning",
       "title": "Pendente de esquematização",
       "text": "A anotação enviada traz só os nomes. Definição, fórmula e diferença entre eles ainda não foram esquematizadas; envie a explicação ou a teoria da matéria para completar este bloco."
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "As fórmulas desta matéria estão em “Fórmulas e quiz de Custos”."
      }
     ]
    },
@@ -26003,10 +26013,6 @@
       "type": "paragraph",
       "style": "HEADING_1",
       "text": "Critério 1 — custo total"
-     },
-     {
-      "type": "formula",
-      "text": "Receita reconhecida = (Custo incorrido ÷ Custo total previsto) × Receita total contratada"
      },
      {
       "type": "paragraph",
@@ -26041,14 +26047,15 @@
       ]
      },
      {
-      "type": "formula",
-      "text": "Receita = (Custo de conversão incorrido ÷ Custo de conversão total previsto) × Receita total"
-     },
-     {
       "type": "callout",
       "kind": "danger",
       "title": "Pegadinha",
       "text": "Matéria-prima não entra no custo de conversão. Se o enunciado trouxer custo total, retire a matéria-prima antes de calcular a proporção."
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "As fórmulas desta matéria estão em “Fórmulas e quiz de Custos”."
      }
     ]
    },
@@ -26068,10 +26075,6 @@
       "type": "paragraph",
       "style": "TITLE",
       "text": "Taxa-padrão"
-     },
-     {
-      "type": "formula",
-      "text": "TP = Custo-padrão da mão de obra ÷ Horas-padrão"
      },
      {
       "type": "paragraph",
@@ -26114,6 +26117,11 @@
       "kind": "warning",
       "title": "Atenção",
       "text": "Na variação da taxa, se a taxa real for menor que a taxa-padrão, a variação é favorável, considerando as mesmas horas reais."
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "As fórmulas desta matéria estão em “Fórmulas e quiz de Custos”."
      }
     ]
    }
