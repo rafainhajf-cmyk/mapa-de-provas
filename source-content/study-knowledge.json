@@ -13975,7 +13975,7 @@
       "status": "approved",
       "updateType": "rascunho",
       "source": "(Claude) Rascunho por questão a partir da planilha do TEC; não conferido. Itens com ⚠ pendentes.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-21",
       "blocks": [
         {
@@ -14012,7 +14012,7 @@
           "type": "callout",
           "kind": "warning",
           "title": "Conferir",
-          "text": "Errado. ⚠ O texto da planilha traz \"Certo\" colado ao fim; conferir o enunciado completo."
+          "text": "Errado. Capacidade financeira, gerencial e técnica é atributo da governança; governabilidade é a capacidade política de governar. ⚠ O texto da planilha traz \"Certo\" colado ao fim; conferir o enunciado completo."
         },
         {
           "type": "paragraph",
