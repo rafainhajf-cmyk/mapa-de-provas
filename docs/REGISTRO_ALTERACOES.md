@@ -3,6 +3,15 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-21 — Claude (Administrativo: rascunhos das questões publicados nos esquemas)
+- Publicados como `approved` os rascunhos por questão de Direito Administrativo (esquemas 01 a 33; 434 questões, com o 3562950 dentro do bloco do 3561311). Esquema 34 não entra: os dois IDs não são de Direito Administrativo (3975639 é Constituição de Goiás, excluída pelo usuário).
+- Cada esquema aparece no índice da matéria, em "Esquemas incrementais aprovados", como registros de tipo "rascunho" (37 partes, pois cada registro tem até 99 blocos). Título: "Explicações por alternativa — Esquema NN (não conferido)".
+- Não ligados às questões do Dificuldades. Os trechos com ⚠ estão marcados como "Conferir" e não foram conferidos no TEC nem na lei.
+- Divergências conhecidas com o gabarito do PDF: 3289707 (teoria da agência) e os demais da lista da planilha. Esquemas 29 a 33 tratam de temas que podem não ser de Direito Administrativo.
+- Testes: `npm test` com as mesmas 5 falhas pré-existentes. `npm run build` concluído.
+- Arquivos: `source-content/study-knowledge.json`, `docs/REGISTRO_ALTERACOES.md`.
+- Pendências: conferência dos ⚠ no TEC e na lei; atualizar a aba "Conteúdos estruturados" da planilha com as linhas dos rascunhos (ainda não feito); decidir se os esquemas 29 a 33 ficam no Administrativo.
+
 ## 2026-11-21 — Claude (Administrativo: prescrição do admin-24 conferida e republicada)
 - admin-24: conferida a prescrição da improbidade no art. 23 da Lei 8.429/1992 (8 anos; prescrição intercorrente de 4 anos no § 5º). Aviso de pendência trocado por nota de conferência. Versão 2.
 - Testes: `npm test` com as mesmas 5 falhas pré-existentes. `npm run build` concluído.
