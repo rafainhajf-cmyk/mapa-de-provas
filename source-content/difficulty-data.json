@@ -2186,6 +2186,25 @@
      "modifiedAt": "2026-10-25T15:36:53.910593+00:00"
     }
    ]
+  },
+  {
+   "id": "contab-publica-2026",
+   "title": "Contabilidade Pública",
+   "url": "",
+   "path": [
+    "Contabilidade Pública"
+   ],
+   "status": "read",
+   "files": [
+    {
+     "id": "nbc-tsp-34-custo-periodo",
+     "title": "Custo do período — NBC TSP 34",
+     "url": "",
+     "mimeType": "text/plain",
+     "pageCount": null
+    }
+   ],
+   "subject": "Contabilidade Pública"
   }
  ],
  "analysis": {
@@ -26145,6 +26164,78 @@
       "kind": "rule",
       "title": "Regra",
       "text": "Custos de serviços vão primeiro aos departamentos de produção, por rateio; depois, os departamentos de produção atribuem seus custos aos produtos."
+     }
+    ]
+   },
+   {
+    "id": "nbc-tsp-34-custo-periodo",
+    "modifiedAt": "2026-11-21T20:55:00.000Z",
+    "analyzedAt": "2026-11-21T20:55:00.000Z",
+    "coverage": "complete",
+    "assessment": "not-assessed",
+    "kind": "study-note",
+    "category": "Contabilidade Pública",
+    "topic": "Custo do período — NBC TSP 34",
+    "summary": "Custo do período no setor público: regime de competência, origem orçamentária ou não orçamentária, e o momento do consumo como fato gerador.",
+    "source": "NBC TSP 34, item 23 (texto enviado pelo usuário no chat em 21/11/2026).",
+    "contentBlocks": [
+     {
+      "type": "paragraph",
+      "style": "TITLE",
+      "text": "Custo do período — NBC TSP 34"
+     },
+     {
+      "type": "callout",
+      "kind": "rule",
+      "title": "Regra",
+      "text": "Conforme a NBC TSP 34, o custo do período é o momento do consumo, que equivale ao fato gerador contábil."
+     },
+     {
+      "type": "paragraph",
+      "style": "HEADING_1",
+      "text": "Regime de apuração"
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "O custo do período deve ser apurado pelo regime de competência, independentemente da execução orçamentária."
+     },
+     {
+      "type": "paragraph",
+      "style": "HEADING_1",
+      "text": "De onde vêm os recursos consumidos"
+     },
+     {
+      "type": "table",
+      "rows": [
+       [
+        "Origem",
+        "Como o fato gerador ocorre",
+        "Exemplos"
+       ],
+       [
+        "Execução orçamentária",
+        "Coincide com o momento da liquidação",
+        "Material de consumo imediato; prestação de serviços"
+       ],
+       [
+        "Execução não orçamentária",
+        "Ocorre em momento distinto da liquidação",
+        "Apropriação mensal do 13º salário; depreciação; consumo de material em estoque"
+       ]
+      ]
+     },
+     {
+      "type": "callout",
+      "kind": "danger",
+      "title": "Pegadinha",
+      "text": "Não confundir liquidação com consumo: o custo do período segue o momento do consumo, não o da liquidação, quando eles são diferentes."
+     },
+     {
+      "type": "callout",
+      "kind": "note",
+      "title": "Fonte",
+      "text": "Texto da NBC TSP 34, item 23, enviado pelo usuário no chat em 21/11/2026."
      }
     ]
    }
