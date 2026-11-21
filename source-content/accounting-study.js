@@ -1,5 +1,5 @@
 import { questionDataByTopic } from './accounting-question-data.js?v=2';
-import { theoryDataByTopic } from './accounting-theory-data.js?v=1';
+import { theoryDataByTopic } from './accounting-theory-data.js?v=2';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function blocksHTML(blocks,render,options){return typeof blocks==='string'?`<p>${esc(blocks)}</p>`:render(blocks||[],options)}
 function originalPanelsHTML(panels=[]){return panels.map(p=>{if(!/^assets\/accounting-originals\/[a-z0-9-]+\.svg$/.test(p.src||''))return '';const figure=`<figure class="accounting-original-panel"><div class="accounting-original-caption"><span>${esc(p.title)}</span><a href="${esc(p.src)}" target="_blank" rel="noopener noreferrer" aria-label="Ampliar ${esc(p.title)}">Ampliar ↗</a></div><img src="${esc(p.src)}" alt="Quadro original: ${esc(p.title)}" width="${esc(p.width)}" height="${esc(p.height)}" style="width:${Math.min(Number(p.width)*1.7,900)}px" loading="lazy" decoding="async"></figure>`;return p.reveal?`<details class="accounting-answer"><summary>Ver quadro com exemplo resolvido</summary><div class="accounting-answer-body">${figure}</div></details>`:figure}).join('')}
