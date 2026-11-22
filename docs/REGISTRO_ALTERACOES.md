@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Direito Tributário Normativo: lote LC 123/2006, 89 conferências com PDF oficial)
+- Conferidas as 89 questões da LC 123/2006 (arts. 1º a 3º-B, 4º a 11, 12 a 41, 42 a 49-A, 56, 61-A, 64, 70 e 73) com o PDF oficial do Planalto impresso em 22/11/2026. Total: 401 registros; dois guias novos, `lote-lc123-enquadramento-tributos` e `lote-lc123-mercados-sociedades` (113 guias). Nenhum gabarito foi alterado.
+- Ressalvas (`with-caveat`): 566045 (alternativa A escreve "pessoa fiduciária"), 2924816 (alternativa E inverte o art. 20, §1º no texto da base), 881725 (alternativa C acrescenta "individual"), 660072 (caput do art. 33 reescrito pela LC 227/2026), 498356 (retenção da contribuição patronal está na Lei 8.212, art. 31), 410371 e 410670 (arts. 42 a 45 com remissão à Lei 14.133/2021).
+- Temporalidade: o texto conferido já traz LC 155/2016, 167/2019, 182/2021, 214/2025 e 227/2026; provas anteriores seguem redações antigas (prazo de 2 dias úteis do art. 43, §1º, e limite de R$ 3,6 milhões), mas a regra decisiva de cada registro vale nos dois textos.
+- Arquivos: `data-sources/tributario-normativo/reviewed-bindings.json`, `source-content/normativo-visuals.js`, `normativo.test.mjs` (312→401; guias 111→113).
+- Testes: `npm run build` ok; `normativo.test.mjs` 15/15.
+- Pendências: 102 questões sem conferência (restante da LC 116, ICMS, ITCMD, repartição constitucional, IPVA, IPTU, ITBI e outras que exigem CF e CTN oficiais); conferência visual exige senha.
+
 ## 2026-11-22 — Claude (Direito Tributário Normativo: lote CGSN 140/2018, 18 conferências com texto oficial)
 - Conferidas as 18 questões da Resolução CGSN 140/2018 (receita bruta, MEI, fiscalização, exclusão, parcelamento) com o PDF do DOU. Total: 312 registros; novo guia `lote-cgsn140` (111 guias).
 - Ressalvas (`with-caveat`): 3340762 (LC 123, art. 3º, §4º, não cruzada), 2866330 (art. 4º), 2590866 (prazo de cinco anos da retificação do PGDAS-D não localizado), 2163366 e 879923 (enunciado cita 140/2017).
