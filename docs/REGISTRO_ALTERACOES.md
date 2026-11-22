@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Português: link do treino de questões no Dificuldades)
+- Pedido do usuário: colocar o link do treino de Português na parte de Dificuldades por matéria. Ao selecionar Português, aparece o cartão "Treino de Português · 20 questões" acima dos materiais.
+- Link: página privada do Claude (artefato), visível só ao dono da conta. Quem não for o dono não consegue abrir.
+- Arquivos: `source-content/dificuldades.js`, `source-content/dificuldades.html` (import v=114).
+- Testes: `npm test` com as mesmas 7 falhas já existentes antes da mudança; nenhuma nova.
+- Pendente: conferir no site após o deploy.
+
 ## 2026-11-21 — Claude (Contabilidade: cartões repetidos mantidos, teste ajustado)
 - Decisão do usuário: manter as três listas (mínima, roteiro e completo). Os cartões repetidos são cópias sincronizadas pelo mesmo `data-curated-id`.
 - `accounting-exercises.test.mjs`: o teste passou a verificar a sincronização das cópias, em vez de IDs únicos. 7 de 7 aprovados.
