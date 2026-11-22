@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Direito Tributário Normativo: lote LC 116, 22 conferências com PDF oficial)
+- Conferidas as 22 questões de Fato Gerador e Hipóteses de Não Incidência (arts. 1º e 2º da LC 116) com o PDF oficial da LC 116 e da LC 87 (Planalto, impressos em 22/11/2026). Total: 277 registros; novo guia `lote-iss-lc116` (109 guias).
+- Ressalvas (`with-caveat`): 693070, 760219, 677593, 396979, 283942, 300321, 263630 e 3976043. Pontos: texto atual da lista anexa (alterada pelas LC 157/2016 e 218/2025), meios processuais, SV 31 e jurisprudência de incorporação não reconferidos; item 9.01 não cita ICMS de modo expresso (300321).
+- Fonte: só a LC 116 e a LC 87 oficiais; resumos do Literalidade não foram usados como fonte oficial.
+- Arquivos: `data-sources/tributario-normativo/reviewed-bindings.json`, `source-content/normativo-visuals.js`, `normativo.test.mjs` (255→277; guias 108→109).
+- Testes: `npm run build` ok; `normativo.test.mjs` 15/15.
+- Pendências: 226 questões sem conferência (LC 123, CGSN 140/2018, LC 105, LC 116 arts. 3º a 8º-A, ICMS, ITCMD etc.), que dependem de PDFs oficiais; conferência visual exige senha.
+
 ## 2026-11-22 — Claude (Dificuldades por matéria: área Tributário retirada do site)
 - Pedido do usuário: a área Tributário de Dificuldades por matéria não deve existir; o que tiver correspondência deve ir para Tributário Normativo ou Apostila de Tributário; o que não tiver correspondência sai do site.
 - Feito: a matéria "Tributário" deixou de aparecer na lista de matérias de Dificuldades (`librarySubjects` em `source-content/dificuldades.js`). Os arquivos no Drive não foram alterados nem excluídos.
