@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Direito Tributário Normativo: cinco conferências individuais com fonte verificada)
+- Registros conferidos: 3113680 (SV 52, texto no Volume 2 do material, p. 36), 2324328 (Temas 385, 437, 685 e 1140 no portal do STF), 3684862 (tese do RHC 163.334 no portal do STF), 1234918 (CTN, art. 97, V, no Planalto) e 3401182 (CTN, art. 118, I e II, no Planalto e no Volume 4, p. 9). Total: 251 registros.
+- Não promovidos nesta etapa: 2231509 e 3764354 (sem fonte doutrinária, conforme a regra já registrada), e 609604, 677586, 3976056, 3822142 e 2163751, que ficam pendentes até confronto com fonte oficial. Ressalvas de cada registro estão em `temporalStatus`.
+- Vínculos: os cinco IDs foram ligados aos esquemas existentes (lote-conceito, lote-imunidades, lote-sancoes-politicas, lote-fraude-fiscal). Nenhum esquema novo.
+- Arquivos: `data-sources/tributario-normativo/reviewed-bindings.json`, `source-content/normativo-visuals.js`, `normativo.test.mjs` (contagem de 246 para 251).
+- Testes: `npm run build` ok; `normativo.test.mjs` 15/15. Na suíte completa, as mesmas 4 falhas já existiam antes desta mudança (apostila: 81 seções; sync; sync-client; test.mjs).
+- Pendências: 7 questões em conferência; o texto integral dos acórdãos não foi lido; a conferência visual do site após o deploy não foi feita; o stash `reviewed-bindings` (258 registros, com os 7 não promovidos) permanece como referência e não foi aplicado. `scripts/record-normativo-review.mjs` ainda contém as entradas não promovidas e não deve ser rodado sem revisão.
+
 ## 2026-11-22 — Claude (Apostila de Tributário: convênios de ICMS, o que só existe na LC 214 e o que só existe na EC 132, em relação à Lei Kandir)
 - Seção 12 (novo): LC 24/1975, LC 160/2017 e LC 192/2022 comparadas por ato, quórum, efeito e condição, com o que cada uma regula e uma ordem de decisão para prova. Seção 13 (novo): o que só existe na LC 214 em relação à Lei Kandir (LC 87/1996). Seção 14 (novo): o que só existe na EC 132 em relação à Lei Kandir.
 - Fontes: textos da pasta "Tributário e Reforma" no Drive (LC 24/160, LC 192, LC 87, EC 132, LC 214). Os artigos citados foram conferidos no texto arquivado; a jurisprudência e as questões de prova das anotações não foram usadas como fonte normativa.

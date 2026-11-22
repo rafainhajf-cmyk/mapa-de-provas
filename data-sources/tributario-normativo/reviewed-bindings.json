@@ -6114,6 +6114,87 @@
       "excludedMentions": "Apenas o núcleo decisivo recebe vínculo; menções em distratores não somam incidências independentes.",
       "scope": "Leitura individual do enunciado, de todas as alternativas e do gabarito no PDF; confronto com fonte oficial e comentário consolidado. Sem nova certificaçãoDT neste lote.",
       "temporalStatus": "Regime da prova conferido; alterações legislativas de 2026 e precedentes posteriores estão separados da resposta histórica."
+    },
+    {
+      "reviewedAt": "2026-11-22",
+      "temporalStatus": "CTN, art. 118, I e II, conferido no texto oficial do Planalto e no Volume 4 do material (p. 9). Não conferida nesta etapa a jurisprudência do STF sobre renda de atividade ilícita. Ressalva: o gabarito depende dessa jurisprudência.",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [
+        {
+          "volume": 4,
+          "section": "02.5",
+          "page": 9
+        }
+      ],
+      "questionId": "3401182",
+      "answer": "B",
+      "guideId": "lote-conceito",
+      "decisiveRule": "Pecunia non olet: a incidência independe da licitude do ato; o fato gerador é interpretado abstraindo a validade jurídica e os efeitos (CTN, art. 118). Afirmativa III é falsa porque o tributo devido na importação irregular não deixa de existir pelas penas administrativas.",
+      "legalBasis": "CTN, art. 118, II; jurisprudência do STF sobre tributação de renda de atividade ilícita",
+      "excludedMentions": "III (contrabando ou descaminho sem tributação) é o distrator decisivo; penas administrativas e penais não substituem o tributo.",
+      "scope": "Enunciado, afirmativas e alternativas lidos no TEC; gabarito confrontado com CTN, art. 118."
+    },
+    {
+      "reviewedAt": "2026-11-22",
+      "temporalStatus": "Súmula Vinculante 52 conferida no texto do Volume 2 do material (p. 36), que reproduz o verbete. Aplica-se às entidades do art. 150, VI, c, da CF, inclusive as de educação. A condição é a aplicação dos aluguéis nas atividades institucionais, afirmada no enunciado.",
+      "officialUrl": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=2610",
+      "dtReferences": [
+        {
+          "volume": 2,
+          "section": "09.1",
+          "page": 36
+        }
+      ],
+      "questionId": "3113680",
+      "answer": "C",
+      "guideId": "lote-imunidades",
+      "decisiveRule": "Súmula Vinculante 52: imóvel de entidade do art. 150, VI, c, segue imune ao IPTU mesmo alugado, se os aluguéis forem aplicados nas atividades institucionais. A imunidade não passa ao locatário, que deve ISS pelo próprio serviço de festas.",
+      "legalBasis": "STF, Súmula Vinculante 52; CF, art. 150, VI, c e §4º; CF, art. 156, I; CTN, art. 32",
+      "excludedMentions": "ISS da instituição (A, E) e ISS/IPTU da empresa de buffet (B, D) são distratores. D também erra o município do IPTU, que é o da situação do imóvel (Jaboatão), não o da sede da locadora.",
+      "scope": "Enunciado, alternativas e gabarito lidos no TEC; confronto com o texto oficial da SV 52 no portal do STF.",
+      "examYear": 2024
+    },
+    {
+      "reviewedAt": "2026-11-22",
+      "temporalStatus": "CTN, art. 97, V, conferido no texto oficial do Planalto. A não incidência das anterioridades sobre multa é entendimento doutrinário, não conferido em fonte jurisprudencial nesta etapa. Regra constitucional e codificada estável.",
+      "officialUrl": "https://www2.camara.leg.br/legin/fed/lei/1960-1969/lei-5172-25-outubro-1966-358971-normaatualizada-pl.html",
+      "dtReferences": [],
+      "questionId": "1234918",
+      "answer": "A",
+      "guideId": "lote-sancoes-politicas",
+      "decisiveRule": "Multa é sanção de ato ilícito, não tributo (CTN, art. 3º): exige lei (CTN, art. 97, V), mas as anterioridades reservadas à cobrança de tributos não se aplicam a ela.",
+      "legalBasis": "CTN, arts. 3º e 97, V; CF, art. 150, III; CF, art. 150, VI, a, §§2º e 3º; CF, art. 155, I e II; CF, art. 145, II; CTN, arts. 77 e 80",
+      "excludedMentions": "B (cessão onerosa no ITCMD), C (taxa estadual por passaporte federal), D (ICMS sobre transporte municipal) e E (IPVA sobre veículos da União, imune pelo art. 150, VI, a) são distratores.",
+      "scope": "Enunciado, alternativas e resolução lidos no TEC; confronto com CF arts. 145, 150 e 155 e CTN arts. 3º, 77, 80 e 97 pelo texto conhecido, sem consulta online nesta rodada.",
+      "examYear": 2020
+    },
+    {
+      "reviewedAt": "2026-11-22",
+      "temporalStatus": "Tese do RHC 163.334 (julgado em 18/12/2019, por maioria) conferida no portal do STF. Não conferidas nesta etapa as bases das alternativas A, C, D e E (parcelamento, Lei 9.430/1996, art. 83; SV 24). Ressalva de controvérsia doutrinária sobre a tipicidade.",
+      "officialUrl": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=433114&tip=UN",
+      "dtReferences": [],
+      "questionId": "3684862",
+      "answer": "B",
+      "guideId": "lote-fraude-fiscal",
+      "decisiveRule": "STF, RHC 163.334: o contribuinte que, de forma contumaz e com dolo de apropriação, deixa de recolher o ICMS cobrado do adquirente incide no art. 2º, II, da Lei 8.137/1990. A mera inadimplência não basta.",
+      "legalBasis": "Lei 8.137/1990, art. 2º, II; STF, RHC 163.334; STF, Súmula Vinculante 24; Lei 9.430/1996, art. 83; Lei 10.684/2003, art. 9º",
+      "excludedMentions": "A (parcelamento antes da denúncia suspende a pretensão punitiva, sem extingui-la), C (representação fiscal só após decisão administrativa final), D (SV 24: crimes materiais do art. 1º, I a IV, dependem de lançamento definitivo) e E (garantia da execução não equivale ao pagamento) são distratores.",
+      "scope": "Enunciado e alternativas lidos no TEC; tese do RHC 163.334 confrontada com a publicação do STF e com o acórdão reproduzido em fontes secundárias (Migalhas e IBET). SV 24, art. 83 da Lei 9.430 e art. 9º da Lei 10.684 pelo texto conhecido, sem consulta online nesta rodada.",
+      "examYear": 2025
+    },
+    {
+      "reviewedAt": "2026-11-22",
+      "temporalStatus": "Temas 385 e 437 (RE 594.015 e RE 601.720) e Tema 685 (IPVA em alienação fiduciária) e Tema 1140 (RE 1.320.054) conferidos no portal do STF e em reproduções oficiais de tese. Ressalva: o Tema 1140 exige ausência de distribuição de lucros a acionistas privados e de risco ao equilíbrio concorrencial, requisitos que o enunciado sintetiza. Não conferido o texto integral dos acórdãos.",
+      "officialUrl": "https://portal.stf.jus.br/jurisprudenciarepercussao/detalharprocesso.asp?numerotema=1140",
+      "dtReferences": [],
+      "questionId": "2324328",
+      "answer": "D",
+      "guideId": "lote-imunidades",
+      "decisiveRule": "Imunidade recíproca: I não alcança (IPTU de imóvel público cedido a particular para exploração lucrativa, Temas 385 e 437); II alcança (não incide IPVA sobre veículo adquirido por alienação fiduciária por pessoa jurídica de direito público, Tema 685); III alcança (estatal que presta serviço público essencial sem distribuir lucros, Tema 1140).",
+      "legalBasis": "CF, art. 150, VI, a, §§2º e 3º; STF, Temas 385, 437, 685 e 1140",
+      "excludedMentions": "A (todas as situações) e E (nenhuma) são distratores, assim como B e C, que erram ao excluir II ou III.",
+      "scope": "Enunciado, alternativas e gabarito lidos no TEC; teses dos Temas 385, 685 e 1140 confirmadas em fontes secundárias e no portal do STF; Tema 437 conferido por citação em acórdãos. Não consultado o acórdão original.",
+      "examYear": 2022
     }
   ]
 }
