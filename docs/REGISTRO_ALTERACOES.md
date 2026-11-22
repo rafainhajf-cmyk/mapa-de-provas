@@ -3,13 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
-## 2026-11-22 — Claude (Direito Tributário Normativo: quatro conferências com fonte oficial, sem publicação)
+## 2026-11-22 — Claude (Direito Tributário Normativo: quatro conferências com fonte oficial, publicadas em 255ab69)
 - Conferidos nesta rodada: 677586 (CTN, art. 210, caput e parágrafo único, no Planalto), 609604 (CF, art. 150, IV, por fonte secundária, e Tema 214 do STF, RE 582.461: multa moratória de 20% não é confiscatória), 3976056 (CTN, art. 4º, I, no Planalto; CF, art. 154, I, em reproduções do texto) e 3822142 (CTN, arts. 6º e 7º, no Planalto; CF, art. 156-A, em reprodução). Total: 255 registros.
 - Não promovidos: 2163751 (a imunidade de templos sobre o IPVA dos veículos apoia-se em doutrina; o STF confirmou a imunidade ampla no RE 325.822, sem decisão específica sobre IPVA verificada; a citação do Tema 342 no registro original está errada, pois o tema trata de ICMS em aquisições de entidades filantrópicas), 2231509 e 3764354 (bloqueados pela regra de fonte doutrinária).
 - Ressalvas: as alternativas dos quatro registros não foram reconferidas contra o enunciado, porque o enunciado não está na planilha e exige login no TEC. CF, art. 155 e CF, art. 150 (caput) não foram reconferidos no texto oficial.
 - Arquivos: `data-sources/tributario-normativo/reviewed-bindings.json`, `source-content/normativo-visuals.js` (camada `bindings255`), `normativo.test.mjs` (contagem de 251 para 255).
 - Testes: `npm run build` ok; `normativo.test.mjs` 15/15.
-- Pendências: 3 questões em conferência (2163751, 2231509, 3764354); conferência do enunciado no TEC; publicação ainda não autorizada nesta etapa (commit local, sem push).
+- Pendências: 3 questões em conferência (2163751, 2231509, 3764354); conferência do enunciado no TEC. Publicado: commit 255ab69 em `origin/main`, deploy de produção READY, com autorização do usuário.
 
 ## 2026-11-22 — Claude (Direito Tributário Normativo: cinco conferências individuais com fonte verificada)
 - Registros conferidos: 3113680 (SV 52, texto no Volume 2 do material, p. 36), 2324328 (Temas 385, 437, 685 e 1140 no portal do STF), 3684862 (tese do RHC 163.334 no portal do STF), 1234918 (CTN, art. 97, V, no Planalto) e 3401182 (CTN, art. 118, I e II, no Planalto e no Volume 4, p. 9). Total: 251 registros.
