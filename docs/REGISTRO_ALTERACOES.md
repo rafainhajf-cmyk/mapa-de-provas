@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Direito Tributário Normativo: lote LC 105, 17 conferências com PDF oficial)
+- Conferidas as 17 questões de sigilo bancário (LC 105/2001) com o PDF oficial do Planalto. Total: 294 registros; novo guia `lote-sigilo-lc105` (110 guias).
+- Ressalvas (`with-caveat`): 3364642 (responsabilidade civil por vazamento não está na LC 105) e 3114145 (a alternativa D não reproduz o art. 11). O texto atual inclui o art. 1º, §3º, VIII (LC 224/2025).
+- Arquivos: `data-sources/tributario-normativo/reviewed-bindings.json`, `source-content/normativo-visuals.js`, `normativo.test.mjs` (277→294; guias 109→110).
+- Testes: `npm run build` ok; `normativo.test.mjs` 15/15.
+- Pendências: 209 questões sem conferência (LC 123, CGSN 140/2018, restante da LC 116, ICMS, ITCMD etc.); conferência visual exige senha.
+
 ## 2026-11-22 — Claude (Direito Tributário Normativo: lote LC 116, 22 conferências com PDF oficial)
 - Conferidas as 22 questões de Fato Gerador e Hipóteses de Não Incidência (arts. 1º e 2º da LC 116) com o PDF oficial da LC 116 e da LC 87 (Planalto, impressos em 22/11/2026). Total: 277 registros; novo guia `lote-iss-lc116` (109 guias).
 - Ressalvas (`with-caveat`): 693070, 760219, 677593, 396979, 283942, 300321, 263630 e 3976043. Pontos: texto atual da lista anexa (alterada pelas LC 157/2016 e 218/2025), meios processuais, SV 31 e jurisprudência de incorporação não reconferidos; item 9.01 não cita ICMS de modo expresso (300321).
