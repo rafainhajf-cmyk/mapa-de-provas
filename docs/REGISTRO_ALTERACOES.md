@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Apostila de Tributário: convênios de ICMS, o que só existe na LC 214 e o que só existe na EC 132, em relação à Lei Kandir)
+- Seção 12 (novo): LC 24/1975, LC 160/2017 e LC 192/2022 comparadas por ato, quórum, efeito e condição, com o que cada uma regula e uma ordem de decisão para prova. Seção 13 (novo): o que só existe na LC 214 em relação à Lei Kandir (LC 87/1996). Seção 14 (novo): o que só existe na EC 132 em relação à Lei Kandir.
+- Fontes: textos da pasta "Tributário e Reforma" no Drive (LC 24/160, LC 192, LC 87, EC 132, LC 214). Os artigos citados foram conferidos no texto arquivado; a jurisprudência e as questões de prova das anotações não foram usadas como fonte normativa.
+- Arquivos: `source-content/apostila-data.json` (versão 2026-11-22).
+- Testes: `npm run build` ok; `npm test` com as mesmas 4 falhas pré-existentes.
+- Pendências: EC 137/2025 não está incluída na seção 14; conferir a visualização no site após o deploy.
+
 ## 2026-11-22 — Claude (Português: link do treino de questões no Dificuldades)
 - Pedido do usuário: colocar o link do treino de Português na parte de Dificuldades por matéria. Ao selecionar Português, aparece o cartão "Treino de Português · 20 questões" acima dos materiais.
 - Link: página privada do Claude (artefato), visível só ao dono da conta. Quem não for o dono não consegue abrir.
