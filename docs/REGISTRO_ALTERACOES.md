@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Direito Tributário Normativo: ISS, local da prestação e alíquota, 15 conferências com PDF oficial)
+- Conferidas as 15 questões restantes da LC 116/2003 (arts. 3º a 5º, 7º e 8º-A) com o PDF oficial do Planalto; a 881729 também usa o CTN, art. 175, parágrafo único, no texto compilado do Planalto (PDF do CTN não enviado). Total: 416 registros; novo guia `lote-iss-local-aliquota` (114 guias). Nenhum gabarito foi alterado.
+- Ressalvas (`with-caveat`): 3113663 (o subitem 17.25 entrou pela LC 157/2016) e 881729 (CTN só no texto compilado).
+- Arquivos: `data-sources/tributario-normativo/reviewed-bindings.json`, `source-content/normativo-visuals.js`, `normativo.test.mjs` (401→416; guias 113→114).
+- Testes: `npm run build` ok; `normativo.test.mjs` 15/15.
+- Pendências: 87 questões sem conferência (ICMS, ITCMD, CTN, repartição constitucional, IPVA, IPTU, ITBI, planejamento tributário e jurisprudência), que dependem de CF e CTN oficiais; conferência visual exige senha.
+
 ## 2026-11-22 — Claude (Direito Tributário Normativo: lote LC 123/2006, 89 conferências com PDF oficial)
 - Conferidas as 89 questões da LC 123/2006 (arts. 1º a 3º-B, 4º a 11, 12 a 41, 42 a 49-A, 56, 61-A, 64, 70 e 73) com o PDF oficial do Planalto impresso em 22/11/2026. Total: 401 registros; dois guias novos, `lote-lc123-enquadramento-tributos` e `lote-lc123-mercados-sociedades` (113 guias). Nenhum gabarito foi alterado.
 - Ressalvas (`with-caveat`): 566045 (alternativa A escreve "pessoa fiduciária"), 2924816 (alternativa E inverte o art. 20, §1º no texto da base), 881725 (alternativa C acrescenta "individual"), 660072 (caput do art. 33 reescrito pela LC 227/2026), 498356 (retenção da contribuição patronal está na Lei 8.212, art. 31), 410371 e 410670 (arts. 42 a 45 com remissão à Lei 14.133/2021).
