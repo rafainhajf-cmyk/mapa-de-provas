@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Direito Tributário Normativo: lote CGSN 140/2018, 18 conferências com texto oficial)
+- Conferidas as 18 questões da Resolução CGSN 140/2018 (receita bruta, MEI, fiscalização, exclusão, parcelamento) com o PDF do DOU. Total: 312 registros; novo guia `lote-cgsn140` (111 guias).
+- Ressalvas (`with-caveat`): 3340762 (LC 123, art. 3º, §4º, não cruzada), 2866330 (art. 4º), 2590866 (prazo de cinco anos da retificação do PGDAS-D não localizado), 2163366 e 879923 (enunciado cita 140/2017).
+- Teste alterado: a verificação "candidatos DT > conferidos" virou "candidatos DT > 0", porque os conferidos agora incluem questões fora do cruzamento DT (LC 116, LC 105, CGSN). Nenhum candidato foi promovido por essa mudança.
+- Arquivos: `data-sources/tributario-normativo/reviewed-bindings.json`, `source-content/normativo-visuals.js`, `normativo.test.mjs` (294→312; guias 110→111).
+- Testes: `npm run build` ok; `normativo.test.mjs` 15/15.
+- Pendências: 191 questões sem conferência (LC 123, restante da LC 116, ICMS, ITCMD etc.); conferência visual exige senha.
+
 ## 2026-11-22 — Claude (Direito Tributário Normativo: lote LC 105, 17 conferências com PDF oficial)
 - Conferidas as 17 questões de sigilo bancário (LC 105/2001) com o PDF oficial do Planalto. Total: 294 registros; novo guia `lote-sigilo-lc105` (110 guias).
 - Ressalvas (`with-caveat`): 3364642 (responsabilidade civil por vazamento não está na LC 105) e 3114145 (a alternativa D não reproduz o art. 11). O texto atual inclui o art. 1º, §3º, VIII (LC 224/2025).
