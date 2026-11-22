@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Direito Tributário Normativo: lote ICMS CF/LC 87)
+
+- Conferidas 7 questões de ICMS (3079701, 2163521, 1736954, 1768957, 1005280, 877340, 1037346) e registradas no guia `lote-icms-cf-lc87`; total 423 conferências e 115 guias. Nenhum gabarito foi alterado.
+- Fontes: LC 87 e LC 116 nos PDFs oficiais; CF/1988 no texto compilado do Planalto (consulta por WebFetch, sem PDF), então todas as conferências baseadas na CF e a de DIFAL (STF, ADI 7066 e Tema 1.266, por notícias do tribunal) ficaram `with-caveat`.
+- A 3764380 ficou fora: a alternativa A (ICMS com função arrecadatória e extrafiscal) também é defensável e o teste do repositório a mantém sem conferência.
+- Pendentes: 80 questões; PDFs da CF e do CTN não enviados.
+- Arquivos: reviewed-bindings.json, normativo-visuals.js, normativo.test.mjs.
+
 ## 2026-11-22 — Claude (Direito Tributário Normativo: ISS, local da prestação e alíquota, 15 conferências com PDF oficial)
 - Conferidas as 15 questões restantes da LC 116/2003 (arts. 3º a 5º, 7º e 8º-A) com o PDF oficial do Planalto; a 881729 também usa o CTN, art. 175, parágrafo único, no texto compilado do Planalto (PDF do CTN não enviado). Total: 416 registros; novo guia `lote-iss-local-aliquota` (114 guias). Nenhum gabarito foi alterado.
 - Ressalvas (`with-caveat`): 3113663 (o subitem 17.25 entrou pela LC 157/2016) e 881729 (CTN só no texto compilado).
