@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Dificuldades por matéria: área Tributário retirada do site)
+- Pedido do usuário: a área Tributário de Dificuldades por matéria não deve existir; o que tiver correspondência deve ir para Tributário Normativo ou Apostila de Tributário; o que não tiver correspondência sai do site.
+- Feito: a matéria "Tributário" deixou de aparecer na lista de matérias de Dificuldades (`librarySubjects` em `source-content/dificuldades.js`). Os arquivos no Drive não foram alterados nem excluídos.
+- Não feito: a transferência dos 6 arquivos gravados para o Tributário Normativo ou para a Apostila (imunidade das entidades beneficentes, retroatividade benigna, comparativo de leis e mandado de segurança). Os 4 arquivos com possível correspondência ficam ocultos e precisam de vínculo manual.
+- Arquivos: `source-content/dificuldades.js`, `docs/REGISTRO_ALTERACOES.md`.
+- Testes: `npm run build` ok; `normativo.test.mjs` 15/15.
+- Pendências: vínculo dos 4 arquivos; conferência visual no site (exige senha).
+
 ## 2026-11-22 — Claude (Direito Tributário Normativo: quatro conferências com fonte oficial, publicadas em 255ab69)
 - Conferidos nesta rodada: 677586 (CTN, art. 210, caput e parágrafo único, no Planalto), 609604 (CF, art. 150, IV, por fonte secundária, e Tema 214 do STF, RE 582.461: multa moratória de 20% não é confiscatória), 3976056 (CTN, art. 4º, I, no Planalto; CF, art. 154, I, em reproduções do texto) e 3822142 (CTN, arts. 6º e 7º, no Planalto; CF, art. 156-A, em reprodução). Total: 255 registros.
 - Não promovidos: 2163751 (a imunidade de templos sobre o IPVA dos veículos apoia-se em doutrina; o STF confirmou a imunidade ampla no RE 325.822, sem decisão específica sobre IPVA verificada; a citação do Tema 342 no registro original está errada, pois o tema trata de ICMS em aquisições de entidades filantrópicas), 2231509 e 3764354 (bloqueados pela regra de fonte doutrinária).

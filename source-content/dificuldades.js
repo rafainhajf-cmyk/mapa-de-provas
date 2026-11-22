@@ -71,7 +71,7 @@ export function libraryTopics(model,subject=''){
  for(const folder of model.content.filter(f=>(!subject||f.subject===subject)&&!f.files.length&&f.path.length>1))entries.push({id:'folder:'+folder.id,title:folder.title,subject:folder.subject,folderId:folder.id,area:folder.subject==='Tributário'?folder.path[1]:'',fileIds:[]});
  for(const entry of entries)if(entry.studyGroup)entry.fileIds.sort((a,b)=>(model.analyzed.get(a)?.studyOrder||0)-(model.analyzed.get(b)?.studyOrder||0));return entries.sort((a,b)=>(a.order??999)-(b.order??999)||a.title.localeCompare(b.title,'pt-BR'));
 }
-function librarySubjects(){return [...new Set(model.folders.map(f=>f.subject))].sort((a,b)=>a.localeCompare(b,'pt-BR'))}
+function librarySubjects(){return [...new Set(model.folders.map(f=>f.subject))].filter(s=>s!=='Tributário').sort((a,b)=>a.localeCompare(b,'pt-BR'))}
 function topicCriticalHTML(topic){const n=studyFileProgress(topic.fileIds).critical;return n?`<span class="critical-badge">⚑ ${n} crítico(s)</span>`:'';}
 // Categorias exclusivas da biblioteca de Tributário, sem mover ou excluir arquivos.
 const TAX_GROUPS=['IPVA','ITCMD','ITBI','ISSQN e LC 116','Reforma — LC 236','Comparativo Tributário','LC 227/2026 — Texto legal','RMIT da Reforma','Reforma — Temas exclusivos','Direito Tributário Normativo'];
