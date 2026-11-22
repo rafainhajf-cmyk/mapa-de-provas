@@ -6195,6 +6195,61 @@
       "excludedMentions": "A (todas as situações) e E (nenhuma) são distratores, assim como B e C, que erram ao excluir II ou III.",
       "scope": "Enunciado, alternativas e gabarito lidos no TEC; teses dos Temas 385, 685 e 1140 confirmadas em fontes secundárias e no portal do STF; Tema 437 conferido por citação em acórdãos. Não consultado o acórdão original.",
       "examYear": 2022
+    },
+    {
+      "reviewedAt": "2026-11-22",
+      "temporalStatus": "Tema 214 do STF (RE 582.461): multa moratória de 20% não é confiscatória. A aplicação do art. 150, IV, da CF às multas foi confirmada em fonte secundária (ConJur), não no acórdão. Confirmar alterações posteriores antes de uso atual.",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [],
+      "questionId": "609604",
+      "answer": "A",
+      "guideId": "lote-principios",
+      "decisiveRule": "Multa moratória, ainda que não seja tributo, não pode ter caráter confiscatório (CF, art. 150, IV); demais alternativas erram por legalidade (C), anterioridade anual (E), e pela extensão da imunidade recíproca (D) e do IGF (B).",
+      "legalBasis": "CF, art. 150, IV; CF, art. 150, I e III, b; CF, art. 153, VII; STF, Tema 214 (RE 582.461)",
+      "excludedMentions": "Taxa judiciária majorada por decreto (C) viola legalidade; taxa de polícia no mesmo exercício (E) viola anterioridade anual; IGF com efeito confiscatório (B) não é previsto.",
+      "scope": "Enunciado e alternativas lidos no TEC (registro anterior). Reconferido em 2026-11-22: art. 150, IV, da CF por citação em fonte secundária (o texto do Planalto não foi alcançado pelo WebFetch); tese do Tema 214 em fontes secundárias. Alternativas não reconferidas contra o enunciado nesta rodada."
+    },
+    {
+      "reviewedAt": "2026-11-22",
+      "temporalStatus": "CTN, art. 210, caput e parágrafo único, conferidos no Planalto (CTN compilado) em 2026-11-22: os prazos 'fixados nesta Lei ou legislação tributária' são contínuos. Confirmar alterações posteriores antes de uso atual.",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "dtReferences": [],
+      "questionId": "677586",
+      "answer": "C",
+      "guideId": "lote-pagamento-local-prazo",
+      "decisiveRule": "CTN, art. 210: a contagem contínua, com exclusão do dia inicial e inclusão do vencimento, vale tanto para os prazos fixados no próprio CTN quanto para os da legislação tributária.",
+      "legalBasis": "CTN, art. 210, caput e parágrafo único",
+      "excludedMentions": "A e E (restringem ao CTN) e B e D (excluem uma das duas categorias de prazos) são distratores. O parágrafo único (dia de expediente normal) não altera a alternativa.",
+      "scope": "Enunciado e alternativas lidos no TEC (registro anterior). Reconferido em 2026-11-22: art. 210 do CTN no Planalto, por extração do WebFetch com offset. Alternativas não reconferidas contra o enunciado nesta rodada.",
+      "examYear": 2018
+    },
+    {
+      "reviewedAt": "2026-11-22",
+      "temporalStatus": "CTN, art. 4º, I, conferido no Planalto (CTN compilado) em 2026-11-22. CF, art. 154, I, conferido em reproduções do texto constitucional, não no Planalto. Ressalva: competências estaduais (CF, art. 155) não reconferidas nesta rodada.",
+      "officialUrl": "https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-normaatualizada-pl.html",
+      "dtReferences": [],
+      "questionId": "3976056",
+      "answer": "A",
+      "guideId": "lote-mapa-competencias",
+      "decisiveRule": "A natureza jurídica do tributo é definida pelo fato gerador, não pelo nome (CTN, art. 4º, I). Imposto sobre propriedade de relógios não está entre as competências estaduais; a residual para impostos novos é da União, por lei complementar (CF, art. 154, I).",
+      "legalBasis": "CTN, art. 4º, I; CF, art. 154, I; CF, art. 155 (competências estaduais)",
+      "excludedMentions": "B e E (desdobramento do ICMS), C (troca de lei ordinária por complementar não corrige a falta de competência) e D (analogia com IPVA e ICMS sobre veículos) são distratores.",
+      "scope": "Enunciado, alternativas e resolução lidos no TEC (registro anterior). Reconferido em 2026-11-22: CTN art. 4º, I (Planalto) e CF art. 154, I (reproduções). Ressalva: CF art. 155 não reconferido.",
+      "examYear": 2026
+    },
+    {
+      "reviewedAt": "2026-11-22",
+      "temporalStatus": "CTN, arts. 6º e 7º, conferidos no Planalto (CTN compilado) em 2026-11-22; CF, art. 156-A, conferido em reprodução do texto (competência compartilhada do IBS). Ressalva na alternativa A: a anterioridade é um dos limites, não o único.",
+      "officialUrl": "https://www2.camara.leg.br/legin/fed/lei/1960-1969/lei-5172-25-outubro-1966-358971-normaatualizada-pl.html",
+      "dtReferences": [],
+      "questionId": "3822142",
+      "answer": "A",
+      "guideId": "dt-competencia",
+      "decisiveRule": "A competência tributária está sujeita às limitações constitucionais ao poder de tributar (CF, art. 150). B erra a fonte, pois a competência vem da Constituição, não de regulamentos; C erra porque a arrecadação e a fiscalização são delegáveis (CTN, art. 7º); E erra porque o IBS é de competência compartilhada (CF, art. 156-A).",
+      "legalBasis": "CTN, arts. 6º e 7º; CF, art. 150; CF, art. 156-A",
+      "excludedMentions": "B (regulamento como fonte de competência), C (indelegabilidade das funções administrativas), D (obrigação de criar todo tributo) e E (exclusividade incompatível com o IBS compartilhado) são distratores.",
+      "scope": "Enunciado, alternativas e resolução lidos no TEC (registro anterior). Reconferido em 2026-11-22: CTN arts. 6º e 7º (Planalto); CF art. 156-A em reprodução. CF art. 150 (caput) não reconferido nesta rodada. Ressalva na alternativa A.",
+      "examYear": 2026
     }
   ]
 }
