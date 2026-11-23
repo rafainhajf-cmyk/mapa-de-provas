@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Direito Tributário Normativo: lote extinção do crédito, CTN)
+
+- Conferidas 12 questões (2235907, 1896388, 3863209, 3906968, 3846934, 3023560, 2163762, 3846937, 3845741, 3846959, 3976051, 3846962) no guia `lote-ctn-extincao`; total 435 conferências e 116 guias. Nenhum gabarito foi alterado.
+- Fonte: CTN no texto compilado do Planalto (consulta por WebFetch, sem PDF), então todas ficaram `with-caveat`.
+- A 3976046 (moratória e denúncia espontânea) ficou de fora: a leitura do art. 154 não sustenta a alternativa A de forma unívoca.
+- Pendentes: 68 questões; PDFs da CF e do CTN não enviados.
+- Arquivos: reviewed-bindings.json, normativo-visuals.js, normativo.test.mjs.
+
 ## 2026-11-22 — Claude (Direito Tributário Normativo: lote ICMS CF/LC 87)
 
 - Conferidas 7 questões de ICMS (3079701, 2163521, 1736954, 1768957, 1005280, 877340, 1037346) e registradas no guia `lote-icms-cf-lc87`; total 423 conferências e 115 guias. Nenhum gabarito foi alterado.
