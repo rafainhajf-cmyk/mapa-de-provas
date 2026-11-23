@@ -3,6 +3,15 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Apostila de Tributário: volume só da EC 132)
+
+- Pedido: fazer com a EC 132 o mesmo que com a LC 214 e a LC 227 (só o que é novo).
+- Volume novo "EC 132/2023: só o que é novo" (13 seções), a partir de `ec132-cobertura.md`: art. 1º (CF: IBS, CBS, IS, Comitê Gestor, repartição), art. 2º (ADCT e transição), arts. 3º a 5º, arts. 6º a 9º (cesta básica, regimes diferenciados) e arts. 10 a 23 (serviços financeiros, fundo de compensação, revogações, vigência), mais os pontos de atenção da leitura.
+- Fora, por terem volumes próprios: art. 155 (ITCMD e IPVA), art. 156, §1º, III (IPTU) e arts. 16 e 17 da emenda (ITCMD).
+- Leitura automática do Planalto, não verbatim e não conferida com o texto oficial; aviso no topo do volume.
+- Arquivos: apostila-data.json, apostila.js, apostila.html (cache v114).
+- Pendências: conferência visual no site e conferência do resumo com o Planalto.
+
 ## 2026-11-22 — Claude (Apostila de Tributário: volumes só da LC 214 e só da LC 227)
 
 - Pedido: uma parte só da LC 214 (o que não existia antes e não está no comparativo com a Kandir) e outra só da LC 227 (só tópicos novos, sem o que ela alterou da LC 214).

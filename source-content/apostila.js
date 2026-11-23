@@ -12,6 +12,7 @@ const volumes=[
 {id:'convenios',title:'Convênios de ICMS'},
 {id:'lc214',title:'LC 214/2025: só o que é novo'},
 {id:'lc227only',title:'LC 227/2026: só o que é novo'},
+{id:'ec132',title:'EC 132/2023: só o que é novo'},
 {id:'lc236',title:'Alterações da LC 236/2026'},
 {id:'lc227',title:'Alterações da LC 227/2026'},
 {id:'ipva',title:'IPVA'},
@@ -79,7 +80,7 @@ $('menu').addEventListener('click',()=>openMenu(!document.body.classList.contain
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&document.body.classList.contains('nav-open')){openMenu(false);$('menu').focus();}});
 window.addEventListener('hashchange',()=>sections.length&&jump(location.hash.slice(1)));window.addEventListener('scroll',trackScroll,{passive:true});window.addEventListener('pagehide',save);
 window.addEventListener('storage',e=>{if(e.key===KEY){progress=loadProgress();renderOutline();updateReadStates();}});
-async function init(){try{const response=await fetch('apostila-data.json?v=20261122c');if(!response.ok)throw Error('load');const data=await response.json();if(!Array.isArray(data.sections)||!data.sections.length)throw Error('empty');sections=data.sections.map((s,originalIndex)=>({...s,originalIndex}));updateChangeHistory();progress=loadProgress();renderVolumes();const target=sections.find(s=>s.id===location.hash.slice(1));if(target)selectedVolume=volumeFor(target);const initial=target||visibleSections().find(s=>s.id===progress.last)||visibleSections()[0];current=initial;chooseVolume(selectedVolume,false);if(initial!==visibleSections()[0])requestAnimationFrame(()=>jump(initial.id));}catch{$('article').replaceChildren();$('loadError').hidden=false;$('progressCount').textContent='Conteúdo indisponível';}}
+async function init(){try{const response=await fetch('apostila-data.json?v=20261122d');if(!response.ok)throw Error('load');const data=await response.json();if(!Array.isArray(data.sections)||!data.sections.length)throw Error('empty');sections=data.sections.map((s,originalIndex)=>({...s,originalIndex}));updateChangeHistory();progress=loadProgress();renderVolumes();const target=sections.find(s=>s.id===location.hash.slice(1));if(target)selectedVolume=volumeFor(target);const initial=target||visibleSections().find(s=>s.id===progress.last)||visibleSections()[0];current=initial;chooseVolume(selectedVolume,false);if(initial!==visibleSections()[0])requestAnimationFrame(()=>jump(initial.id));}catch{$('article').replaceChildren();$('loadError').hidden=false;$('progressCount').textContent='Conteúdo indisponível';}}
 $('article').addEventListener('study-content-edited',event=>{const heading=event.target;if(heading.tagName!=='H2')return;const section=sections.find(s=>s.id===heading.closest('.book-section')?.id);if(section){section.title=heading.textContent.trim();renderOutline();}});
 init();
 
