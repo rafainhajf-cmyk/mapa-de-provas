@@ -18817,6 +18817,58 @@
      "type": "table",
      "rows": [
       [
+       "Compare",
+       "Agência reguladora (AR)",
+       "Agência executiva (AE)"
+      ],
+      [
+       "Natureza",
+       "Autarquia sob regime especial, com personalidade de direito público.",
+       "Qualificação de autarquia ou fundação pública; não cria nova espécie de entidade."
+      ],
+      [
+       "Criação ou qualificação",
+       "Criada por lei específica com o regime e as competências regulatórias.",
+       "A entidade já existe; recebe qualificação por decreto, no modelo federal."
+      ],
+      [
+       "Finalidade",
+       "Regular e fiscalizar o setor, conforme sua lei; editar normas técnicas.",
+       "Melhorar desempenho e qualidade dos serviços, racionalizar estruturas e reduzir custos."
+      ],
+      [
+       "Autonomia",
+       "Decorre do regime especial legal; dirigentes com mandato, nos termos legais.",
+       "Autonomia de gestão ampliada, vinculada a metas e avaliação de resultados."
+      ],
+      [
+       "Contrato de gestão",
+       "Não cria o regime especial nem transforma a AR em AE.",
+       "É requisito, junto com plano estratégico e ato formal."
+      ],
+      [
+       "Exemplos",
+       "Anvisa e Anatel, conforme as respectivas leis.",
+       "Inmetro (Decreto de 29/07/1998)."
+      ]
+     ]
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Memorize",
+     "text": "AR = regulação + regime especial · AE = entidade existente + plano + contrato + qualificação. Ambas ficam na Administração indireta."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Assinar contrato não basta para virar AE: é preciso também plano estratégico e qualificação formal (Lei 9.649/1998, art. 51)."
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
        "Conceito",
        "Característica"
       ],
@@ -18860,6 +18912,18 @@
        "kind": "warning",
        "title": "Pendência de conferência",
        "text": "Conferir o art. 37, XIX e o Decreto-Lei 200/1967 sobre as entidades indiretas."
+      },
+      {
+       "type": "paragraph",
+       "text": "Normas das ARs: atos infralegais podem especificar tecnicamente direitos e deveres, nos parâmetros legais. A vedação é criar ou extinguir direitos e obrigações primários sem base legal, ou contrariar a lei."
+      },
+      {
+       "type": "paragraph",
+       "text": "A qualificação como AE não prova, por si só, que toda atividade seja exclusiva do Estado; confira a lei de cada entidade."
+      },
+      {
+       "type": "reference",
+       "text": "Fontes: Lei 13.848/2019, arts. 2º a 6º; Lei 9.649/1998, arts. 51 e 52; Decreto 2.487/1998, art. 1º; STF, ADI 4.874."
       }
      ]
     }
@@ -18878,6 +18942,118 @@
    "version": 1,
    "updatedAt": "2026-11-23",
    "blocks": [
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Assunto",
+       "OS",
+       "OSCIP"
+      ],
+      [
+       "Lei federal",
+       "Lei nº 9.637/1998",
+       "Lei nº 9.790/1999"
+      ],
+      [
+       "Instrumento",
+       "Contrato de gestão: metas, responsabilidades e avaliação de resultados.",
+       "Termo de parceria: vínculo de cooperação para fomento e execução das atividades."
+      ],
+      [
+       "Qualificação",
+       "Poder Executivo; juízo discricionário, sujeito a critérios públicos e objetivos.",
+       "Ministério da Justiça; ato vinculado ao cumprimento dos requisitos legais. Exige ao menos 3 anos de funcionamento regular."
+      ],
+      [
+       "Órgão estatutário",
+       "Conselho de Administração e diretoria (CA–OS).",
+       "Conselho fiscal ou órgão equivalente."
+      ],
+      [
+       "Presença pública",
+       "Representantes do Poder Público no CA: 20% a 40%, conforme a lei federal.",
+       "Admite servidores públicos em conselho ou diretoria."
+      ],
+      [
+       "Desqualificação",
+       "Poder Executivo, mediante processo administrativo com ampla defesa.",
+       "A pedido ou por decisão em processo administrativo ou judicial, com ampla defesa e contraditório."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Assunto",
+       "OS",
+       "OSCIP"
+      ],
+      [
+       "Áreas",
+       "Ensino, pesquisa científica, desenvolvimento tecnológico, proteção ambiental, cultura e saúde.",
+       "Rol do art. 3º: assistência social, cultura, educação e saúde gratuitas, meio ambiente, voluntariado, direitos e outras finalidades legais."
+      ],
+      [
+       "Fomento público",
+       "Recursos orçamentários e bens do contrato de gestão; permissão de uso.",
+       "Recursos e bens vinculados ao termo de parceria, com prestação de contas."
+      ],
+      [
+       "Cessão de servidor",
+       "Cessão especial prevista na lei federal, com ônus para a origem.",
+       "Sem previsão equivalente de cessão especial na Lei 9.790/1999."
+      ],
+      [
+       "Dirigentes",
+       "Podem ser remunerados, observados os critérios do contrato de gestão.",
+       "Remuneração para gestão executiva ou serviços específicos, nos valores de mercado da região; não é automática."
+      ],
+      [
+       "Seleção de pessoal",
+       "Sem concurso; procedimento público, objetivo e impessoal (STF, ADI 1.923).",
+       "Empregados não se tornam servidores públicos pela parceria."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Instrumento (OSC, Lei 13.019/2014)",
+       "Há transferência de dinheiro?",
+       "Origem da proposta"
+      ],
+      [
+       "Termo de colaboração",
+       "Sim",
+       "Administração: ela chama a OSC."
+      ],
+      [
+       "Termo de fomento",
+       "Sim",
+       "OSC: “quem tem fome pede”."
+      ],
+      [
+       "Acordo de cooperação",
+       "Não",
+       "Parceria de interesse público e recíproco; compartilhar bens não é repasse de dinheiro."
+      ]
+     ]
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Memorize",
+     "text": "OS → contrato de gestão → CA · OSCIP → termo de parceria → conselho fiscal · OSC → colaboração, fomento ou cooperação."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "OSC não é sinônimo de OSCIP. OS e OSCIP não integram a Administração indireta."
+    },
     {
      "type": "table",
      "rows": [
@@ -18929,6 +19105,30 @@
        "kind": "warning",
        "title": "Pendência de conferência",
        "text": "Conferir as Leis 9.637, 9.790 e 13.019 quanto às modalidades e às alterações posteriores."
+      },
+      {
+       "type": "paragraph",
+       "text": "Compras: para OS, o STF exige procedimentos públicos, objetivos e impessoais, inclusive na seleção de pessoal e nas contratações com recursos públicos. Para OSCIP, há regulamento próprio de compras com recursos públicos (art. 14 da Lei 9.790/1999)."
+      },
+      {
+       "type": "paragraph",
+       "text": "Questões antigas: o art. 24, XXIV, da Lei 8.666/1993 previa dispensa para serviços de OS nas condições legais. A Lei 8.666/1993 foi revogada em 30/12/2023. Não transporte a hipótese automaticamente para a Lei 14.133/2021."
+      },
+      {
+       "type": "paragraph",
+       "text": "OSCIP: não podem receber o título sociedades comerciais, sindicatos, organizações partidárias, instituições religiosas, hospitais e escolas privadas não gratuitos, organizações sociais, cooperativas, fundações e entidades criadas por órgão público e organizações creditícias do Sistema Financeiro Nacional (o parágrafo único ressalva microcrédito e microfinanças)."
+      },
+      {
+       "type": "paragraph",
+       "text": "Estatuto da OSCIP: deve prever legalidade, impessoalidade, moralidade, publicidade, economicidade e eficiência. Uma OSCIP pode executar termos de parceria simultâneos se tiver capacidade operacional (Decreto 3.100/1999, art. 16)."
+      },
+      {
+       "type": "paragraph",
+       "text": "Em regra, colaboração e fomento são precedidos de chamamento público, com exceções legais. A cooperação normalmente dispensa chamamento, mas há ressalva quando envolve comodato, doação ou outro compartilhamento patrimonial (art. 29)."
+      },
+      {
+       "type": "reference",
+       "text": "Fontes: Lei 9.637/1998; Lei 9.790/1999; Decreto 3.100/1999, arts. 16, 21 e 23; Lei 13.019/2014, arts. 2º, 3º, 16, 17, 24 e 29; STF, ADI 1.923; Lei 14.133/2021, arts. 190–193."
       }
      ]
     }

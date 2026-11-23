@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-23 — Claude (Direito Administrativo: quadros comparativos de Terceiro setor e agências)
+
+- Pedido: quadros comparativos entre tipos (como nos quadros do Drive). Referência: quadros "Terceiro setor: OS, OSCIP e OSC" e "Agência reguladora × agência executiva".
+- Feito: cartões rascunho `admin-15-…-cartoes` (OS × OSCIP em 2 quadros, OSC em 1 quadro, memorização e pegadinha) e `admin-14-…-cartoes` (AR × AE, memorização e pegadinha). Conteúdo a partir dos quadros do Drive; o restante do texto foi para "Ver explicação detalhada".
+- Ainda não feito: os demais 35 cartões ainda não seguem o padrão de quadros comparativos.
+- Arquivos: source-content/study-knowledge.json.
+
 ## 2026-11-23 — Claude (Direito Administrativo: cartões com quadros no topo; texto no detalhe)
 
 - Pedido: refazer no formato combinado (quadros comparativos e fluxogramas, pouco texto corrido).
