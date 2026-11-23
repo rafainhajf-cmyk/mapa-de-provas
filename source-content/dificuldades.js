@@ -1,4 +1,4 @@
-import { renderReviewBlocks, compactReviewBlocks } from './review-blocks.js?v=109';
+import { renderReviewBlocks, compactReviewBlocks } from './review-blocks.js?v=110';
 import { macroConcepts, macroSources } from './macro-concepts.js?v=108';
 import { groupedSubjectsHTML } from './study-subject-families.js?v=98';
 import { accountingMode, accountingReadingToolbarHTML, prepareAccountingReading, openAccountingPDF } from './accounting-reading.js?v=97';

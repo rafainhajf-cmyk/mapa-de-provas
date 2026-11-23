@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (cores: Literalidade x acrescentado nos volumes LC 214, LC 227, EC 132 e Kandir)
+- Pedido do usuário: nos volumes separados, o que vem dos resumos do Literalidade fica em preto e o que eu acrescentei fica em outra cor.
+- Feito: campos `origin`/`rowOrigins` no `apostila-data.json` (linhas de tabela e avisos "Atenção"); `review-blocks.js` e `review-blocks.css` passam a pintar de roxo (classe `origem-add`) o que não estava nos resumos; legenda "Cores: o que veio do Literalidade" no início de cada um dos quatro volumes.
+- Método e limite: classificação por intervalo de artigos e temas do índice dos resumos do Drive (EC 132 Bloco 1; LC 214 Blocos 2, 3, 4 e Imposto Seletivo; CGIBS e PAF do IBS; ICMS Blocos 2, 3-a e 3-b). Não conferi frase por frase se o resumo trouxe cada detalhe do artigo. Na dúvida, marcado como acrescentado. Avisos "Atenção" que escrevi: roxos. A seção original 3.1 do comparativo não foi classificada.
+- Roxo (acrescentado), entre outros: LC 214 arts. 84 em diante (exceto IS arts. 409–435), IS arts. 436–438 e 475–476; LC 227 arts. 103 a 131 e 170 a 172; Kandir arts. 24-A, 31 e 31-A; EC 132 arts. 6º a 23 e várias linhas do art. 1º, 2º, 3º, 4º e 5º sem tema nos resumos.
+- Arquivos: source-content/apostila-data.json, review-blocks.js, review-blocks.css, apostila.js (?v), apostila.html, dificuldades.js/.html.
+
 ## 2026-11-22 — Claude (Apostila de Tributário: volume só da EC 132)
 
 - Pedido: fazer com a EC 132 o mesmo que com a LC 214 e a LC 227 (só o que é novo).
