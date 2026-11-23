@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-23 — Claude (Dificuldades por matéria: autofiltro de conteúdos na Biblioteca de todas as matérias)
+
+- Pedido do usuário: o filtro por conteúdo só aparecia no "Todo o conteúdo da matéria" e faltava em Direito Administrativo e nas demais matérias da Biblioteca.
+- Feito: `uniformLibraryHTML` passa a mostrar o painel "Filtrar conteúdos" com os tópicos de `libraryTopics` de cada matéria, usando o mesmo estado (`state.contentFilter`) do filtro existente.
+- Não feito: esquema de Direito Administrativo (apostila dentro de Dificuldades) e conferência visual no site.
+- Arquivos: source-content/dificuldades.js.
+- Pendências: conferência visual após deploy; decidir merge no main.
+
 ## 2026-11-22 — Claude (Apostila de Tributário: conferência do quadro Kandir × LC 214 × LC 227 com o art. 174)
 
 - Conferido no Planalto: art. 174 da LC 227 (dispositivos da LC 214 alterados, incluídos e revogados, até o art. 493-A) e arts. 175 a 182 (vigência e efeitos). Quadro da seção 15 reescrito com esses dados e 4 linhas novas (campo de incidência, split payment, plataformas, base de cálculo).
