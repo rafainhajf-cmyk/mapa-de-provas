@@ -3,6 +3,12 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-23 — Claude (Direito Administrativo: 33 cartões voltam a rascunho)
+
+- Motivo: o usuário conferiu o site e os cartões não seguem o formato combinado (quadros comparativos, fluxogramas e pouco texto corrido). Os cartões só reorganizaram o texto dos esquemas.
+- Feito: os 33 `…-cartoes` voltaram para `draft`. Nenhum conteúdo alterado.
+- Pendência: refazer em quadros comparativos e fluxogramas, com a explicação detalhada recolhida, antes de qualquer nova aprovação.
+
 ## 2026-11-23 — Claude (Direito Administrativo: 33 cartões aprovados para o site)
 
 - Autorização do usuário: aprovar os cartões.
