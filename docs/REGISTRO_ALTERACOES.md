@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Direito Tributário Normativo: lote jurisprudência de impostos estaduais e municipais)
+
+- Conferidas 14 questões (218242, 3541955, 3639034, 2022748, 2022756, 660173, 3679705, 263617, 3380414, 3116076, 840015, 3541972, 3127410, 3127636) no guia `lote-jurisprudencia-impostos-estaduais-municipais`; total 458 conferências e 118 guias. Nenhum gabarito foi alterado.
+- Fontes: teses e súmulas do STF e do STJ em páginas do STF, do Senado e de sites jurídicos, sem os acórdãos; texto legal no compilado do Planalto. Todas `with-caveat`.
+- Ficaram de fora: 2022742 (templos, itens I e III não confirmados), 3228248 (ICMS-ST e art. 166 do CTN) e 2163751 (IPVA templos, já pendente).
+- Pendentes: 45 questões.
+- Arquivos: reviewed-bindings.json, normativo-visuals.js, normativo.test.mjs.
+
 ## 2026-11-22 — Claude (Direito Tributário Normativo: lote lançamento, garantias e dívida ativa)
 
 - Conferidas 9 questões (3846262, 3845758, 3906966, 2021332, 3976057, 3863202, 3079708, 3884027, 2049500) no guia `lote-ctn-lancamento-credito`; total 444 conferências e 117 guias. Nenhum gabarito foi alterado.
