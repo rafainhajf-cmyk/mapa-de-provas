@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-23 — Claude (Direito Administrativo: 25 rascunhos em formato de cartão, admin-09 a admin-33)
+
+- Pedido: continuar o formato cartão nos demais tópicos de Direito Administrativo.
+- Feito: 25 rascunhos `…-cartoes` (status `draft`), a partir dos esquemas aprovados da planilha de admin-09 a admin-33. Mesma regra dos licitações: topo com 1º parágrafo e callouts "Regra essencial"/"Pegadinha"; resto em "Ver explicação detalhada". Conteúdo mantido.
+- Não feito: admin-34 ("Questões pontuais: eventos") não é um tópico de matéria e ficou de fora; os esquemas `admin-rasc-*` continuam como estão.
+- Arquivos: source-content/study-knowledge.json.
+
 ## 2026-11-23 — Claude (Licitações: 8 rascunhos em formato de cartão)
 
 - Pedido: Direito Administrativo no formato cartão da apostila de Tributário (topo curto, explicação detalhada ao clicar).

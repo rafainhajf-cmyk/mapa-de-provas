@@ -18436,6 +18436,1583 @@
     }
    ],
    "flashcards": []
+  },
+  {
+   "id": "admin-09-princ-regime-principios-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-09",
+   "targetTitle": "Princípios e regime",
+   "title": "Regime administrativo e princípios",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "O regime jurídico administrativo reúne prerrogativas da Administração e sujeições a princípios. Os princípios expressos estão no caput do art. 37 da Constituição."
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Mnemônico",
+     "text": "LIMPE: legalidade, impessoalidade, moralidade, publicidade e eficiência."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Prerrogativa não é privilégio pessoal: existe para atender ao interesse público e decorre da lei."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Princípio",
+         "Ideia central"
+        ],
+        [
+         "Legalidade",
+         "Agir somente como a lei autoriza"
+        ],
+        [
+         "Impessoalidade",
+         "Atuação sem favorecimento pessoal"
+        ],
+        [
+         "Moralidade",
+         "Probidade e boa-fé"
+        ],
+        [
+         "Publicidade",
+         "Divulgação dos atos, com exceções legais"
+        ],
+        [
+         "Eficiência",
+         "Resultado com economicidade e qualidade"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Constituição Federal, art. 37, caput",
+       "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir a redação do art. 37 e se a questão cita princípios além dos expressos."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-10-princ-elementos-merito-atributos-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-10",
+   "targetTitle": "Princípios e atos",
+   "title": "Elementos, mérito e atributos dos atos",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "Os elementos do ato administrativo são competência, finalidade, forma, motivo e objeto."
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Mérito",
+     "text": "Mérito é a margem legítima de escolha quanto à conveniência e oportunidade. Ilegalidade não entra no mérito."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Finalidade ou motivo desviados tornam o ato ilegal, ainda que pareça conveniente."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Elemento",
+         "Pergunta que responde"
+        ],
+        [
+         "Competência",
+         "Quem pode praticar o ato"
+        ],
+        [
+         "Finalidade",
+         "Para qual fim público"
+        ],
+        [
+         "Forma",
+         "Como o ato se exterioriza"
+        ],
+        [
+         "Motivo",
+         "Fato e fundamento que justificam o ato"
+        ],
+        [
+         "Objeto",
+         "O que o ato decide ou produz"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 9.784/1999, art. 2º (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir a lista de atributos adotada na questão e os requisitos do art. 2º da Lei 9.784."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-11-princ-anulacao-revogacao-convalidacao-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-11",
+   "targetTitle": "Princípios e atos",
+   "title": "Anulação, revogação, cassação e convalidação",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "A Administração controla os próprios atos: ilegalidade leva à anulação, conveniência de ato válido leva à revogação e defeito sanável leva à convalidação."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Revogação não desfaz atos já consumados nem direitos adquiridos. Anulação, em regra, opera com efeito retroativo."
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Base",
+     "text": "As Súmulas 346 e 473 do STF fundamentam a autotutela."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Instituto",
+         "Quando",
+         "Quem decide"
+        ],
+        [
+         "Anulação",
+         "Ato ilegal",
+         "Administração ou Judiciário"
+        ],
+        [
+         "Revogação",
+         "Conveniência e oportunidade de ato válido",
+         "Somente a Administração"
+        ],
+        [
+         "Convalidação",
+         "Defeito sanável de competência ou forma",
+         "Administração"
+        ],
+        [
+         "Cassação",
+         "Descumprimento de condição pelo beneficiário",
+         "Administração"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 9.784/1999, arts. 53 e 55 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir os arts. 53 e 55 da Lei 9.784 e o texto das súmulas citadas."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-12-princ-poder-hierarquico-disciplinar-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-12",
+   "targetTitle": "Poderes administrativos",
+   "title": "Poder hierárquico, disciplinar e regulamentar",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Regra essencial",
+     "text": "O poder regulamentar não cria obrigações novas nem restringe direitos fora da lei."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Poder disciplinar não se confunde com poder de polícia: o primeiro alcança a relação interna com agentes, o segundo alcança particulares."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Poder",
+         "Função"
+        ],
+        [
+         "Hierárquico",
+         "Ordena e revê a atuação interna dos órgãos"
+        ],
+        [
+         "Disciplinar",
+         "Apura e sanciona infrações de servidores e de pessoas com vínculo especial"
+        ],
+        [
+         "Regulamentar",
+         "Viabiliza a execução da lei por decreto"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Constituição Federal, art. 84, IV (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir o art. 84, IV e a hipótese de decreto autônomo previsto na EC 32/2001."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-13-princ-poder-policia-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-13",
+   "targetTitle": "Poder de polícia",
+   "title": "Poder de polícia e seu ciclo",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "O poder de polícia limita direitos e atividades de particulares em benefício do interesse coletivo. Seu ciclo segue quatro etapas: ordem, consentimento, fiscalização e sanção."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Poder de polícia não se confunde com serviço público: aquele restringe, este presta utilidade ao cidadão."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Etapa",
+         "Exemplo"
+        ],
+        [
+         "Ordem",
+         "Norma que impõe limite ou exigência"
+        ],
+        [
+         "Consentimento",
+         "Licença ou autorização para a atividade"
+        ],
+        [
+         "Fiscalização",
+         "Verificação do cumprimento"
+        ],
+        [
+         "Sanção",
+         "Multa, interdição ou apreensão"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Código Tributário Nacional, art. 78 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir a definição do art. 78 do CTN e a jurisprudência sobre a sanção aplicada."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-14-org-direta-indireta-desconcentracao-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-14",
+   "targetTitle": "Organização administrativa",
+   "title": "Direta e indireta, desconcentração e agências",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Regra essencial",
+     "text": "Lei específica autoriza a instituição das demais entidades da administração indireta."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Ministério é órgão, não pessoa jurídica. Desconcentração não cria entidade nova."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Conceito",
+         "Característica"
+        ],
+        [
+         "Desconcentração",
+         "Distribui competências dentro da mesma pessoa jurídica"
+        ],
+        [
+         "Descentralização",
+         "Transfere competências a pessoas jurídicas distintas"
+        ],
+        [
+         "Autarquia",
+         "Criada por lei específica"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Constituição Federal, art. 37, XIX (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir o art. 37, XIX e o Decreto-Lei 200/1967 sobre as entidades indiretas."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-15-org-terceiro-setor-convenios-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-15",
+   "targetTitle": "Terceiro setor",
+   "title": "Terceiro setor, convênios e parcerias com OSC",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "MROSC",
+     "text": "Colaboração parte da iniciativa pública, fomento parte da iniciativa da OSC, e o acordo de cooperação não tem transferência financeira."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "OS não é qualificação automática: depende de ato do Poder Público. Não confundir contrato de gestão com termo de parceria."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Figura",
+         "Instrumento",
+         "Base"
+        ],
+        [
+         "OS",
+         "Contrato de gestão",
+         "Lei 9.637/1998"
+        ],
+        [
+         "OSCIP",
+         "Termo de parceria",
+         "Lei 9.790/1999"
+        ],
+        [
+         "OSC (MROSC)",
+         "Colaboração, fomento ou acordo de cooperação",
+         "Lei 13.019/2014"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 13.019/2014 (MROSC) (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13019.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir as Leis 9.637, 9.790 e 13.019 quanto às modalidades e às alterações posteriores."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-16-org-servico-publico-concessao-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-16",
+   "targetTitle": "Serviços públicos",
+   "title": "Serviço público, concessão e permissão",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Concessão exige pessoa jurídica ou consórcio. Permissão aceita pessoa física. A confusão entre os dois é a pegadinha mais comum."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Instituto",
+         "Natureza",
+         "Destinatário"
+        ],
+        [
+         "Concessão",
+         "Delegação contratual por prazo determinado, com licitação",
+         "Pessoa jurídica ou consórcio"
+        ],
+        [
+         "Permissão",
+         "Delegação precária, por contrato de adesão, com licitação",
+         "Pessoa física ou jurídica"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 8.987/1995 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987cons.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir o art. 2º e o art. 40 da Lei 8.987 e a redação vigente sobre permissão."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-17-org-ppp-consorcios-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-17",
+   "targetTitle": "Parcerias e consórcios",
+   "title": "PPP e consórcios públicos",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "PPP não é simples concessão com contraprestação: a administrativa não tem tarifa do usuário."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Modalidade",
+         "Remuneração"
+        ],
+        [
+         "PPP patrocinada",
+         "Tarifa do usuário mais contraprestação pública"
+        ],
+        [
+         "PPP administrativa",
+         "Contraprestação pública, com Administração como usuária direta ou indireta"
+        ],
+        [
+         "Concessão comum",
+         "Tarifa, sem contraprestação pública típica da PPP"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 11.079/2004 (PPP) (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079.htm"
+      },
+      {
+       "type": "reference",
+       "text": "Lei 11.107/2005 (consórcios públicos) (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferido em 2026-11-21: valor mínimo de R$ 10 milhões, art. 2º, § 4º, I, da Lei 11.079."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-18-resp-risco-omissao-regresso-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-18",
+   "targetTitle": "Responsabilidade civil do Estado",
+   "title": "Risco administrativo, omissão e direito de regresso",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "O Estado responde objetivamente pelos danos que seus agentes causarem a terceiros, na modalidade do risco administrativo, com possibilidade de excludentes."
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Direito de regresso",
+     "text": "Quem indenizou a vítima pode voltar-se contra o agente, nos casos de dolo ou culpa."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Omissão do Estado gera responsabilidade subjetiva, em regra. Risco administrativo é objetivo, mas não se aplica a todo caso de omissão."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Requisito",
+         "Verificar"
+        ],
+        [
+         "Conduta",
+         "Ação ou omissão de agente nessa qualidade"
+        ],
+        [
+         "Dano",
+         "Lesão efetiva, certa e, em regra, individualizada"
+        ],
+        [
+         "Nexo",
+         "Relação causal entre conduta e dano"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Constituição Federal, art. 37, § 6º (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir a jurisprudência do STF sobre omissão e risco administrativo antes de publicar."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-19-resp-desapropriacao-requisicao-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-19",
+   "targetTitle": "Intervenção na propriedade",
+   "title": "Desapropriação indireta e requisição",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Apossamento sem decreto não é desapropriação válida, mas gera direito à indenização. Requisição não exige a prévia indenização que a desapropriação exige."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Instituto",
+         "Pressuposto",
+         "Consequência"
+        ],
+        [
+         "Desapropriação indireta",
+         "Apossamento e incorporação fática ao patrimônio público",
+         "Indenização por via judicial"
+        ],
+        [
+         "Requisição",
+         "Iminente perigo público",
+         "Indenização ulterior, se houver dano"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Constituição Federal, art. 5º, XXIV e XXV (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir a jurisprudência atual sobre indenização em desapropriação indireta."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-20-ctrl-controle-tribunais-contas-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-20",
+   "targetTitle": "Controle da administração",
+   "title": "Controle administrativo, judicial e tribunais de contas",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Judiciário controla legalidade, não mérito. Tribunal de Contas não julga o Judiciário, mas emite decisão com natureza administrativa."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Controle",
+         "Quem exerce",
+         "Alcance"
+        ],
+        [
+         "Administrativo (autotutela)",
+         "A própria Administração",
+         "Revê os próprios atos"
+        ],
+        [
+         "Judicial",
+         "Poder Judiciário",
+         "Legalidade, inclusive finalidade e proporcionalidade"
+        ],
+        [
+         "Tribunal de Contas",
+         "Controle externo",
+         "Técnico-financeiro"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Constituição Federal, arts. 70 e 71 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir os arts. 70 e 71 da Constituição e a jurisprudência do STF sobre o alcance do controle."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-21-ctrl-recurso-revisao-pad-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-21",
+   "targetTitle": "Processo administrativo",
+   "title": "Recurso, revisão e PAD",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Revisão não serve para rediscutir a prova já analisada: exige fato novo ou circunstância relevante."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Instituto",
+         "Regra no processo federal"
+        ],
+        [
+         "Recurso administrativo",
+         "Em regra, 10 dias"
+        ],
+        [
+         "Reconsideração",
+         "A autoridade recorrida pode reconsiderar em 5 dias"
+        ],
+        [
+         "Revisão de PAD",
+         "Exige fatos novos ou circunstâncias relevantes, a qualquer tempo"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 9.784/1999, arts. 56 a 65 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      },
+      {
+       "type": "reference",
+       "text": "Lei 8.112/1990, art. 174 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir os prazos dos arts. 56 e 59 da Lei 9.784 e a aplicação ao PAD federal (Lei 8.112)."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-22-ctrl-lei-anticorrupcao-leniencia-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-22",
+   "targetTitle": "Responsabilização de pessoas jurídicas",
+   "title": "Lei Anticorrupção e leniência",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Responsabilidade objetiva da empresa não se estende automaticamente à pessoa física, que depende de culpa ou dolo."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Tema",
+         "Regra"
+        ],
+        [
+         "Pessoa jurídica",
+         "Responsabilidade objetiva, na esfera administrativa e civil"
+        ],
+        [
+         "Pessoa física",
+         "Depende de culpabilidade"
+        ],
+        [
+         "Sanções",
+         "Multa e publicação extraordinária da decisão"
+        ],
+        [
+         "Leniência",
+         "Acordo com a pessoa jurídica que colabora"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 12.846/2013 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir os arts. 6º e 16 da Lei 12.846 quanto a valores das multas e requisitos da leniência."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-23-ctrl-improbidade-dolo-tipos-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-23",
+   "targetTitle": "Improbidade administrativa",
+   "title": "Improbidade: dolo, tipos e aplicação no tempo",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Os três tipos exigem dolo. Culpa, em regra, não configura improbidade."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Artigo",
+         "Tipo"
+        ],
+        [
+         "Art. 9º",
+         "Enriquecimento ilícito: vantagem patrimonial indevida"
+        ],
+        [
+         "Art. 10",
+         "Lesão ao erário: prejuízo efetivo e comprovado"
+        ],
+        [
+         "Art. 11",
+         "Violação aos princípios, em conduta tipificada"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 8.429/1992 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir a redação atual da Lei 8.429 após as alterações da Lei 14.230/2021, inclusive a aplicação no tempo."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-24-ctrl-improbidade-penas-processo-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-24",
+   "targetTitle": "Improbidade administrativa",
+   "title": "Improbidade: penas, processo e declaração de bens",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Sanções variam conforme o tipo do ato. Não aplicar a faixa do art. 9º ao caso do art. 11."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Artigo",
+         "Sanções resumidas"
+        ],
+        [
+         "Art. 9º",
+         "Suspensão dos direitos políticos até 14 anos"
+        ],
+        [
+         "Art. 10",
+         "Suspensão dos direitos políticos até 12 anos"
+        ],
+        [
+         "Art. 11",
+         "Multa de até 24 vezes a remuneração e proibição de contratar ou receber benefícios por até 4 anos"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 8.429/1992, art. 12 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8429.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "note",
+       "title": "Conferência",
+       "text": "Sanções do art. 12 conferidas em 2026-11-21 no texto da Lei 14.230/2021 (14, 12 e 4 anos). Prazos de prescrição conferidos em 2026-11-21 no art. 23 da Lei 8.429/1992 (8 anos; intercorrente de 4 anos no §5º); o esquema não os detalha."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-25-agentes-concurso-acumulacao-estabilidade-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-25",
+   "targetTitle": "Agentes públicos",
+   "title": "Agentes, concurso, acumulação e estabilidade",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Cargo em comissão dispensa concurso, mas não dá estabilidade. Função de confiança não substitui cargo efetivo."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Tema",
+         "Regra"
+        ],
+        [
+         "Acesso",
+         "Cargo efetivo e emprego exigem concurso, ressalvadas as nomeações para cargo em comissão"
+        ],
+        [
+         "Função de confiança",
+         "Exclusiva de servidor efetivo"
+        ],
+        [
+         "Estabilidade",
+         "3 anos de efetivo exercício e avaliação especial de desempenho"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Constituição Federal, art. 37 e art. 41 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir o art. 41 da Constituição e as regras de acumulação de cargos no art. 37, XVI e XVII."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-26-bens-publicos-uso-privativo-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-26",
+   "targetTitle": "Bens públicos",
+   "title": "Bens públicos e uso privativo",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Regra essencial",
+     "text": "Bens afetados são inalienáveis enquanto conservarem a qualificação. Dominicais podem ser alienados na forma da lei."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Desafetação transforma bem de uso comum ou especial em dominical. Sem ato formal, o bem continua afetado."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Categoria",
+         "Exemplo"
+        ],
+        [
+         "Uso comum do povo",
+         "Ruas, praças, rios"
+        ],
+        [
+         "Uso especial",
+         "Prédios onde funcionam órgãos públicos"
+        ],
+        [
+         "Dominicais",
+         "Bens sem destinação pública definida"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Código Civil, arts. 98 a 103 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir os arts. 98 a 103 do Código Civil e a regra de desafetação na lei de cada ente."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-27-lai-transparencia-sigilo-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-27",
+   "targetTitle": "Transparência pública",
+   "title": "LAI: transparência, pedidos e sigilo",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Prazo",
+     "text": "Se o acesso imediato for inviável, o prazo é de 20 dias, prorrogável por 10 com justificativa."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Pedido de acesso não exige motivação. Sigilo depende de hipótese legal expressa."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Modalidade",
+         "Característica"
+        ],
+        [
+         "Transparência ativa",
+         "Divulgação de ofício"
+        ],
+        [
+         "Transparência passiva",
+         "Resposta a pedido, sem exigir motivação do interessado"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 12.527/2011, arts. 8º, 11 e 24 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir o art. 11 da LAI quanto aos prazos e a classificação de sigilo do art. 24."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-28-lgpd-setor-publico-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-28",
+   "targetTitle": "Proteção de dados",
+   "title": "LGPD no setor público",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Conceitos",
+     "text": "Dado pessoal identifica ou permite identificar pessoa natural. Dado sensível segue bases legais específicas."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Operador não decide sobre a finalidade do tratamento. Essa decisão é do controlador."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Figura",
+         "Papel"
+        ],
+        [
+         "Controlador",
+         "Decide sobre o tratamento"
+        ],
+        [
+         "Operador",
+         "Trata dados em nome do controlador"
+        ],
+        [
+         "Encarregado",
+         "Canal de comunicação com titulares e a ANPD"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 13.709/2018 (LGPD) (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir o art. 5º da LGPD e o art. 23 sobre tratamento pelo poder público."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-29-adm-estoques-cadeia-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-29",
+   "targetTitle": "Gestão pública",
+   "title": "Estoques e cadeia de suprimentos",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "O estoque de segurança absorve variações de demanda ou atrasos de reposição."
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Fórmula",
+     "text": "Ponto de pedido = consumo no tempo de reposição + estoque de segurança."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Estoque de segurança não é estoque máximo. Ele existe para cobrir a variação, não para acumular."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir a fórmula se a questão usar outro método de controle de estoque."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-30-adm-governanca-accountability-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-30",
+   "targetTitle": "Gestão pública",
+   "title": "Governança, governabilidade e accountability",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Governança não executa: quem executa é a gestão. Governabilidade trata das condições políticas, não da eficiência interna."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Conceito",
+         "Função"
+        ],
+        [
+         "Governabilidade",
+         "Condições políticas para governar"
+        ],
+        [
+         "Governança",
+         "Avaliar, direcionar e monitorar"
+        ],
+        [
+         "Gestão",
+         "Planejar e executar"
+        ]
+       ]
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conteúdo doutrinário. Conferir com o caderno do TEC a definição adotada."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-31-adm-modelos-qualidade-resultados-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-31",
+   "targetTitle": "Gestão pública",
+   "title": "Modelos administrativos, qualidade e resultados",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "O modelo gerencial não abandona a legalidade: acrescenta foco em resultado ao modelo burocrático."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Modelo",
+         "Ênfase"
+        ],
+        [
+         "Patrimonialista",
+         "Confunde as esferas pública e privada"
+        ],
+        [
+         "Burocrático",
+         "Mérito, formalidade e impessoalidade"
+        ],
+        [
+         "Gerencial",
+         "Desempenho e entrega de resultados"
+        ]
+       ]
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conteúdo doutrinário. Conferir com o caderno do TEC a classificação usada."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-32-adm-afo-receita-divida-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-32",
+   "targetTitle": "Orçamento público",
+   "title": "AFO: receita, classificação e dívida ativa",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Origem e espécie são níveis diferentes da classificação. Não trocar um pelo outro."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Componente",
+         "Conteúdo"
+        ],
+        [
+         "Natureza",
+         "Categoria econômica, origem, espécie, desdobramentos e tipo"
+        ],
+        [
+         "Vinculação",
+         "Fonte ou destinação indica a vinculação do recurso"
+        ],
+        [
+         "Resultado primário",
+         "Identificador que distingue os efeitos fiscais"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 4.320/1964 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir a classificação de receita no manual atual da STN e os arts. 11 a 14 da Lei 4.320."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-33-adm-auditoria-coso-riscos-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-33",
+   "targetTitle": "Controle interno",
+   "title": "Auditoria, COSO e gestão de riscos",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Auditoria é atividade independente de avaliação. Controle interno é função da gestão, não sinônimo de auditoria."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Componente do COSO",
+         "Função"
+        ],
+        [
+         "Ambiente de controle",
+         "Base cultural e de integridade"
+        ],
+        [
+         "Avaliação de riscos",
+         "Identificação e análise de riscos"
+        ],
+        [
+         "Atividades de controle",
+         "Políticas e procedimentos de resposta"
+        ],
+        [
+         "Informação e comunicação",
+         "Fluxo de dados relevantes"
+        ],
+        [
+         "Monitoramento",
+         "Avaliação contínua e separada"
+        ]
+       ]
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir a versão do COSO usada na questão e a descrição de cada componente."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
   }
  ]
 }
