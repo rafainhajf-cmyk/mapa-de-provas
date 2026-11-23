@@ -3,6 +3,12 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-23 — Claude (Assuntos relacionados: todos os links, com a palavra de origem, e voltar à posição)
+
+- Ajuste pedido: mostrar todos os relacionados (não só 3), indicando por qual palavra vieram.
+- Feito: cada link mostra "· por: palavras". Ao abrir um relacionado aparece "← Voltar para [assunto de origem]", que restaura o assunto e a posição de rolagem. O botão só aparece no assunto aberto pelo link.
+- Arquivos: source-content/study-knowledge-ui.js.
+
 ## 2026-11-23 — Claude ("Assuntos relacionados" nos esquemas, como na Apostila de Tributário)
 
 - Feito: `source-content/study-knowledge-ui.js` mostra até 3 "Assuntos relacionados" ao final de um assunto, com esquemas da mesma matéria que compartilham palavras do título (score ≥ 2), em outro assunto. Clicar abre o assunto relacionado.
