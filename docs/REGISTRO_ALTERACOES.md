@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Direito Tributário Normativo: lote CF/CTN, competência, responsabilidade e repartição)
+
+- Conferidas 26 questões no guia `lote-cf-ctn-competencia-responsabilidade`; total 484 conferências e 119 guias. Nenhum gabarito foi alterado.
+- Fontes: CF e CTN no texto compilado do Planalto (consulta por WebFetch, sem PDF); LC 116 no PDF oficial. Todas `with-caveat`.
+- Ficaram de fora, com o motivo: 3846943 (o gabarito D contraria o art. 128, cuja redação coincide com a alternativa B), 3846281 (item I sobre inventariante herdeiro não consta do art. 134), 3863215 e 3863192 (sem base unívoca), 3976046 (art. 154), 3764380 (teste do repositório), 2022742, 3228248, 2163751, 2231509 e 3764354 (já pendentes), e as de planejamento tributário e conceito doutrinário.
+- Pendentes: 19 questões.
+- Arquivos: reviewed-bindings.json, normativo-visuals.js, normativo.test.mjs.
+
 ## 2026-11-22 — Claude (Direito Tributário Normativo: lote jurisprudência de impostos estaduais e municipais)
 
 - Conferidas 14 questões (218242, 3541955, 3639034, 2022748, 2022756, 660173, 3679705, 263617, 3380414, 3116076, 840015, 3541972, 3127410, 3127636) no guia `lote-jurisprudencia-impostos-estaduais-municipais`; total 458 conferências e 118 guias. Nenhum gabarito foi alterado.
