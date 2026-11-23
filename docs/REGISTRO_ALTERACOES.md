@@ -3,6 +3,12 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-23 — Claude ("Assuntos relacionados" nos esquemas, como na Apostila de Tributário)
+
+- Feito: `source-content/study-knowledge-ui.js` mostra até 3 "Assuntos relacionados" ao final de um assunto, com esquemas da mesma matéria que compartilham palavras do título (score ≥ 2), em outro assunto. Clicar abre o assunto relacionado.
+- Limite: só usa esquemas aprovados. Os cartões (rascunho) só mostrarão links depois da aprovação.
+- Arquivos: source-content/study-knowledge-ui.js.
+
 ## 2026-11-23 — Claude (Direito Administrativo: poderes e poder de polícia em quadro e fluxo)
 
 - Feito: `admin-12-…-cartoes` (poderes) passa a ter um quadro lado a lado (hierárquico, disciplinar, regulamentar e de polícia, com quem cada um alcança); `admin-13-…-cartoes` (poder de polícia) passa a ter um fluxograma das quatro etapas. Dados dos esquemas aprovados.

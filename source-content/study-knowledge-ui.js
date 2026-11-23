@@ -39,6 +39,22 @@ function addToUniformTopic(active,note){
  addIncrement(box,note);
  return true;
 }
+// "Assuntos relacionados", como na Apostila de Tributário: até 3 esquemas da mesma matéria
+// com palavras do título presentes em outro esquema (score >= 2), para outro assunto.
+const RELATED_STOP=['tributario','alteracoes','material','complementar','reforma','sobre','pelos','pela','entre','quando'];
+function relatedTokens(title){return norm(title).split(/[^a-z0-9]+/).filter(x=>x.length>5&&!RELATED_STOP.includes(x));}
+function addRelatedAside(active){
+ const h=active.querySelector(':scope > h3');if(!h||active.querySelector(':scope > .tax-related'))return;
+ const cur=approved.find(x=>x.updateType!==QT&&norm(x.title)===norm(h.textContent));
+ if(!cur)return;
+ const tokens=relatedTokens(cur.title);
+ const scored=approved.filter(o=>o.updateType!==QT&&o.subject===cur.subject&&norm(o.title)!==norm(cur.title)).map(o=>({o,score:tokens.filter(t=>norm(JSON.stringify(o.blocks||'')+' '+o.title).includes(t)).length})).filter(x=>x.score>=2).sort((a,b)=>b.score-a.score).slice(0,3);
+ if(!scored.length)return;
+ const aside=document.createElement('aside');aside.className='tax-related';
+ aside.innerHTML='<strong>Assuntos relacionados</strong>'+scored.map(x=>'<button type="button" class="tax-related-link" data-related-title="'+x.o.title.replace(/"/g,'&quot;')+'">'+x.o.title+'</button>').join('');
+ aside.addEventListener('click',e=>{const b=e.target.closest('[data-related-title]');if(!b)return;const want=norm(b.dataset.relatedTitle);const target=[...document.querySelectorAll('[data-library-topic]')].find(t=>norm(t.textContent).startsWith(want));target?.click();});
+ active.appendChild(aside);
+}
 // Esquemas já colocados em um assunto da lista não são repetidos no painel do índice.
 function placedInTopicList(page,note){
  const names=[...page.querySelectorAll('[data-library-topic]')].map(b=>norm(b.textContent));
@@ -60,6 +76,7 @@ function paint(){
  const active=root.querySelector('.uniform-topic');
  if(active){
   for(const note of approved){if(note.updateType===QT){addQuestionTheory(active,note);continue;}if(addToUniformTopic(active,note))continue;const target=targetInReader(active,note);if(target)addIncrement(target,note);}
+  addRelatedAside(active);
   return;
  }
  updateIndex(root,approved);
