@@ -3,6 +3,12 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Apostila de Tributário: conferência do quadro Kandir × LC 214 × LC 227 com o art. 174)
+
+- Conferido no Planalto: art. 174 da LC 227 (dispositivos da LC 214 alterados, incluídos e revogados, até o art. 493-A) e arts. 175 a 182 (vigência e efeitos). Quadro da seção 15 reescrito com esses dados e 4 linhas novas (campo de incidência, split payment, plataformas, base de cálculo).
+- Não conferido: conteúdo novo de cada dispositivo do art. 174 (lido só como lista); arts. 183 a 185 da LC 227; coluna "Antes" da última linha do ITCMD.
+- Arquivos: source-content/apostila-data.json, apostila.js, apostila.html.
+
 ## 2026-11-22 — Claude (Apostila de Tributário: quadros Kandir × LC 214 × LC 227 e IPVA/ITCMD)
 
 - Volume Comparativo: novas seções 15 (Lei Kandir × LC 214 × LC 227) e 16 (IPVA e ITCMD, antes × EC 132/137 × LC 227), em roxo (conteúdo acrescentado).
