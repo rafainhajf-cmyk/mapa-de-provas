@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Apostila de Tributário: quadros Kandir × LC 214 × LC 227 e IPVA/ITCMD)
+
+- Volume Comparativo: novas seções 15 (Lei Kandir × LC 214 × LC 227) e 16 (IPVA e ITCMD, antes × EC 132/137 × LC 227), em roxo (conteúdo acrescentado).
+- Conferido no texto do Planalto (LC 227): art. 167 (única alteração direta da Kandir), arts. 104–131, 132–145, 146–164 e 182; LC 227 não menciona IPVA.
+- Não conferido: alterações da LC 227 à LC 214 (art. 174) ponto a ponto; colunas LC 214, EC 132/137 e "Antes" repetem a apostila.
+- Arquivos: source-content/apostila-data.json, apostila.js, apostila.html. Gerador: /tmp/ap/gen6.py.
+
 ## 2026-11-22 — Claude (cores: Literalidade x acrescentado nos volumes LC 214, LC 227, EC 132 e Kandir)
 - Pedido do usuário: nos volumes separados, o que vem dos resumos do Literalidade fica em preto e o que eu acrescentei fica em outra cor.
 - Feito: campos `origin`/`rowOrigins` no `apostila-data.json` (linhas de tabela e avisos "Atenção"); `review-blocks.js` e `review-blocks.css` passam a pintar de roxo (classe `origem-add`) o que não estava nos resumos; legenda "Cores: o que veio do Literalidade" no início de cada um dos quatro volumes.
