@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Direito Tributário Normativo: lote lançamento, garantias e dívida ativa)
+
+- Conferidas 9 questões (3846262, 3845758, 3906966, 2021332, 3976057, 3863202, 3079708, 3884027, 2049500) no guia `lote-ctn-lancamento-credito`; total 444 conferências e 117 guias. Nenhum gabarito foi alterado.
+- Fontes: CTN no texto compilado do Planalto (sem PDF); ADPF 357 e Tema 990 do STF por páginas do Senado, do STF e de sites jurídicos. Todas `with-caveat`.
+- Ficaram de fora: 3863215 (prazo de "cinco anos mais um ano" sem base no CTN) e 3863192 (alternativas B e C parecem compatíveis com os arts. 149, IV, e 138).
+- Pendentes: 59 questões; PDFs da CF e do CTN não enviados.
+- Arquivos: reviewed-bindings.json, normativo-visuals.js, normativo.test.mjs.
+
 ## 2026-11-22 — Claude (Direito Tributário Normativo: lote extinção do crédito, CTN)
 
 - Conferidas 12 questões (2235907, 1896388, 3863209, 3906968, 3846934, 3023560, 2163762, 3846937, 3845741, 3846959, 3976051, 3846962) no guia `lote-ctn-extincao`; total 435 conferências e 116 guias. Nenhum gabarito foi alterado.
