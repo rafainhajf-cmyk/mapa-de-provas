@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-23 — Claude (Direito Administrativo: cartões com quadros no topo; texto no detalhe)
+
+- Pedido: refazer no formato combinado (quadros comparativos e fluxogramas, pouco texto corrido).
+- Feito: nos 36 rascunhos (33 cartões e 4 do Drive) os quadros e fluxogramas passam para o topo; parágrafos e explicações ficam em "Ver explicação detalhada". Só os destaques "Regra essencial"/"Pegadinha" continuam no topo. admin-29 recebeu um quadro com o conteúdo já existente (estoque de segurança × ponto de pedido), sem novos dados.
+- Ainda rascunho. Não aprovado.
+- Pendências: revisão jurídica dos 4 do Drive; ajustar quadros que ficarem longos demais.
+- Arquivos: source-content/study-knowledge.json.
+
 ## 2026-11-23 — Claude (Direito Administrativo: 33 cartões voltam a rascunho)
 
 - Motivo: o usuário conferiu o site e os cartões não seguem o formato combinado (quadros comparativos, fluxogramas e pouco texto corrido). Os cartões só reorganizaram o texto dos esquemas.

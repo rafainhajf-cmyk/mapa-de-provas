@@ -17430,10 +17430,6 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "Compare a função de cada poder: cumprir, escolher, organizar, sancionar, regulamentar ou limitar atividades particulares."
-    },
-    {
      "type": "table",
      "rows": [
       [
@@ -17485,6 +17481,10 @@
      "blocks": [
       {
        "type": "paragraph",
+       "text": "Compare a função de cada poder: cumprir, escolher, organizar, sancionar, regulamentar ou limitar atividades particulares."
+      },
+      {
+       "type": "paragraph",
        "text": "Licença: o exemplo discricionário é a licença para tratar de interesses particulares (Lei 8.112/1990, art. 91). Licenças de atividade podem ser vinculadas quando atendidos os requisitos."
       },
       {
@@ -17519,10 +17519,6 @@
    "version": 1,
    "updatedAt": "2026-11-23",
    "blocks": [
-    {
-     "type": "paragraph",
-     "text": "O ato é formado por cinco elementos, tem quatro atributos, uma espécie conforme sua função e pode terminar por anulação, revogação, cassação, caducidade ou contraposição."
-    },
     {
      "type": "table",
      "rows": [
@@ -17574,6 +17570,10 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
+      {
+       "type": "paragraph",
+       "text": "O ato é formado por cinco elementos, tem quatro atributos, uma espécie conforme sua função e pode terminar por anulação, revogação, cassação, caducidade ou contraposição."
+      },
       {
        "type": "paragraph",
        "text": "Exemplo da multa de trânsito: competência (autoridade competente), finalidade (segurança no trânsito), forma (registro e procedimento), motivo (excesso de velocidade) e objeto (aplicação da multa)."
@@ -17679,10 +17679,6 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "O Estado condiciona ou restringe o exercício de direitos, atividades e uso de bens para proteger o interesse público. O CTN, art. 78, exige competência, respeito à lei, processo legal e ausência de abuso ou desvio de poder."
-    },
-    {
      "type": "table",
      "rows": [
       [
@@ -17708,15 +17704,19 @@
      ]
     },
     {
-     "type": "callout",
-     "kind": "warning",
-     "title": "Cuidado",
-     "text": "Nem toda atuação de polícia é discricionária ou permite execução material direta."
-    },
-    {
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
+      {
+       "type": "paragraph",
+       "text": "O Estado condiciona ou restringe o exercício de direitos, atividades e uso de bens para proteger o interesse público. O CTN, art. 78, exige competência, respeito à lei, processo legal e ausência de abuso ou desvio de poder."
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Cuidado",
+       "text": "Nem toda atuação de polícia é discricionária ou permite execução material direta."
+      },
       {
        "type": "paragraph",
        "text": "Exigibilidade: meios indiretos de coerção (ex.: multa pelo descumprimento). Executoriedade: execução material direta (ex.: apreensão de alimento impróprio, nas hipóteses autorizadas ou urgentes)."
@@ -17750,8 +17750,64 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "A Lei 14.133/2021 alcança a administração direta, autarquias, fundações e fundos da União, Estados, DF e Municípios. Empresas estatais seguem, em regra, a Lei 13.303/2016."
+     "type": "table",
+     "rows": [
+      [
+       "Figura",
+       "Quem conduz a licitação",
+       "Base"
+      ],
+      [
+       "Agente de contratação",
+       "Servidor efetivo ou empregado público de quadro permanente, designado para conduzir a fase de seleção",
+       "Lei 14.133, art. 8º"
+      ],
+      [
+       "Pregoeiro",
+       "Agente de contratação na modalidade pregão",
+       "Lei 14.133, art. 8º"
+      ],
+      [
+       "Comissão de contratação",
+       "Colegiado para bens ou serviços especiais, em lugar do agente, nas hipóteses legais",
+       "Lei 14.133, art. 6º, XXXIV e art. 8º"
+      ],
+      [
+       "Fiscal do contrato",
+       "Acompanha a execução e registra ocorrências",
+       "Lei 14.133, art. 117"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Documento",
+       "Função",
+       "Base"
+      ],
+      [
+       "Termo de referência",
+       "Descreve bens e serviços e define a solução contratada",
+       "Lei 14.133, art. 6º, XXIII"
+      ],
+      [
+       "Anteprojeto",
+       "Subsidia a elaboração do projeto básico",
+       "Lei 14.133, art. 6º, XXIV"
+      ],
+      [
+       "Projeto básico",
+       "Detalha a obra ou serviço de engenharia",
+       "Lei 14.133, art. 6º, XXV"
+      ],
+      [
+       "Projeto executivo",
+       "Detalha a execução, com elementos suficientes para a obra",
+       "Lei 14.133, art. 6º, XXVI"
+      ]
+     ]
     },
     {
      "type": "callout",
@@ -17770,64 +17826,8 @@
      "title": "Ver explicação detalhada",
      "blocks": [
       {
-       "type": "table",
-       "rows": [
-        [
-         "Figura",
-         "Quem conduz a licitação",
-         "Base"
-        ],
-        [
-         "Agente de contratação",
-         "Servidor efetivo ou empregado público de quadro permanente, designado para conduzir a fase de seleção",
-         "Lei 14.133, art. 8º"
-        ],
-        [
-         "Pregoeiro",
-         "Agente de contratação na modalidade pregão",
-         "Lei 14.133, art. 8º"
-        ],
-        [
-         "Comissão de contratação",
-         "Colegiado para bens ou serviços especiais, em lugar do agente, nas hipóteses legais",
-         "Lei 14.133, art. 6º, XXXIV e art. 8º"
-        ],
-        [
-         "Fiscal do contrato",
-         "Acompanha a execução e registra ocorrências",
-         "Lei 14.133, art. 117"
-        ]
-       ]
-      },
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Documento",
-         "Função",
-         "Base"
-        ],
-        [
-         "Termo de referência",
-         "Descreve bens e serviços e define a solução contratada",
-         "Lei 14.133, art. 6º, XXIII"
-        ],
-        [
-         "Anteprojeto",
-         "Subsidia a elaboração do projeto básico",
-         "Lei 14.133, art. 6º, XXIV"
-        ],
-        [
-         "Projeto básico",
-         "Detalha a obra ou serviço de engenharia",
-         "Lei 14.133, art. 6º, XXV"
-        ],
-        [
-         "Projeto executivo",
-         "Detalha a execução, com elementos suficientes para a obra",
-         "Lei 14.133, art. 6º, XXVI"
-        ]
-       ]
+       "type": "paragraph",
+       "text": "A Lei 14.133/2021 alcança a administração direta, autarquias, fundações e fundos da União, Estados, DF e Municípios. Empresas estatais seguem, em regra, a Lei 13.303/2016."
       },
       {
        "type": "paragraph",
@@ -17862,8 +17862,63 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "A licitação segue fases em ordem: preparatória, divulgação do edital, apresentação de propostas ou lances, julgamento, habilitação, recursal e homologação."
+     "type": "flowchart",
+     "title": "Fases da licitação (art. 17)",
+     "steps": [
+      {
+       "label": "1. Preparatória",
+       "text": "ETP, termo de referência e análise de riscos."
+      },
+      {
+       "label": "2. Edital",
+       "text": "Divulgação e publicação."
+      },
+      {
+       "label": "3. Propostas ou lances",
+       "text": "Recebimento."
+      },
+      {
+       "label": "4. Julgamento",
+       "text": "Aplicação do critério escolhido."
+      },
+      {
+       "label": "5. Habilitação",
+       "text": "Verificação de requisitos."
+      },
+      {
+       "label": "6. Recurso",
+       "text": "Impugnação e recursos nos prazos legais."
+      },
+      {
+       "label": "7. Homologação",
+       "text": "Ato final da autoridade."
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Requisito de habilitação",
+       "Exemplo"
+      ],
+      [
+       "Jurídico",
+       "Atos constitutivos"
+      ],
+      [
+       "Técnico",
+       "Atestados e registros"
+      ],
+      [
+       "Fiscal, social e trabalhista",
+       "Regularidade com tributos e encargos"
+      ],
+      [
+       "Econômico-financeiro",
+       "Índices e capital social"
+      ]
+     ]
     },
     {
      "type": "callout",
@@ -17888,63 +17943,8 @@
      "title": "Ver explicação detalhada",
      "blocks": [
       {
-       "type": "flowchart",
-       "title": "Fases da licitação (art. 17)",
-       "steps": [
-        {
-         "label": "1. Preparatória",
-         "text": "ETP, termo de referência e análise de riscos."
-        },
-        {
-         "label": "2. Edital",
-         "text": "Divulgação e publicação."
-        },
-        {
-         "label": "3. Propostas ou lances",
-         "text": "Recebimento."
-        },
-        {
-         "label": "4. Julgamento",
-         "text": "Aplicação do critério escolhido."
-        },
-        {
-         "label": "5. Habilitação",
-         "text": "Verificação de requisitos."
-        },
-        {
-         "label": "6. Recurso",
-         "text": "Impugnação e recursos nos prazos legais."
-        },
-        {
-         "label": "7. Homologação",
-         "text": "Ato final da autoridade."
-        }
-       ]
-      },
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Requisito de habilitação",
-         "Exemplo"
-        ],
-        [
-         "Jurídico",
-         "Atos constitutivos"
-        ],
-        [
-         "Técnico",
-         "Atestados e registros"
-        ],
-        [
-         "Fiscal, social e trabalhista",
-         "Regularidade com tributos e encargos"
-        ],
-        [
-         "Econômico-financeiro",
-         "Índices e capital social"
-        ]
-       ]
+       "type": "paragraph",
+       "text": "A licitação segue fases em ordem: preparatória, divulgação do edital, apresentação de propostas ou lances, julgamento, habilitação, recursal e homologação."
       },
       {
        "type": "reference",
@@ -17975,8 +17975,60 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "A Lei 14.133 prevê cinco modalidades: pregão, concorrência, concurso, leilão e diálogo competitivo. Convite e tomada de preços não existem nesta lei."
+     "type": "table",
+     "rows": [
+      [
+       "Modalidade",
+       "Uso principal",
+       "Base"
+      ],
+      [
+       "Pregão",
+       "Bens e serviços comuns, inclusive serviço comum de engenharia",
+       "Lei 14.133, art. 6º, XLI"
+      ],
+      [
+       "Concorrência",
+       "Bens e serviços especiais e obras e serviços de engenharia, nas hipóteses legais",
+       "Lei 14.133, art. 28"
+      ],
+      [
+       "Concurso",
+       "Trabalho técnico, científico ou artístico",
+       "Lei 14.133, art. 28"
+      ],
+      [
+       "Leilão",
+       "Alienação de bens",
+       "Lei 14.133, art. 28"
+      ],
+      [
+       "Diálogo competitivo",
+       "Desenvolvimento de soluções, nas hipóteses legais",
+       "Lei 14.133, art. 28"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "rows": [
+      [
+       "Modalidade ou contrato",
+       "Critério típico"
+      ],
+      [
+       "Pregão",
+       "Menor preço ou maior desconto"
+      ],
+      [
+       "Leilão",
+       "Maior lance"
+      ],
+      [
+       "Contrato de eficiência",
+       "Maior retorno econômico"
+      ]
+     ]
     },
     {
      "type": "callout",
@@ -17995,60 +18047,8 @@
      "title": "Ver explicação detalhada",
      "blocks": [
       {
-       "type": "table",
-       "rows": [
-        [
-         "Modalidade",
-         "Uso principal",
-         "Base"
-        ],
-        [
-         "Pregão",
-         "Bens e serviços comuns, inclusive serviço comum de engenharia",
-         "Lei 14.133, art. 6º, XLI"
-        ],
-        [
-         "Concorrência",
-         "Bens e serviços especiais e obras e serviços de engenharia, nas hipóteses legais",
-         "Lei 14.133, art. 28"
-        ],
-        [
-         "Concurso",
-         "Trabalho técnico, científico ou artístico",
-         "Lei 14.133, art. 28"
-        ],
-        [
-         "Leilão",
-         "Alienação de bens",
-         "Lei 14.133, art. 28"
-        ],
-        [
-         "Diálogo competitivo",
-         "Desenvolvimento de soluções, nas hipóteses legais",
-         "Lei 14.133, art. 28"
-        ]
-       ]
-      },
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Modalidade ou contrato",
-         "Critério típico"
-        ],
-        [
-         "Pregão",
-         "Menor preço ou maior desconto"
-        ],
-        [
-         "Leilão",
-         "Maior lance"
-        ],
-        [
-         "Contrato de eficiência",
-         "Maior retorno econômico"
-        ]
-       ]
+       "type": "paragraph",
+       "text": "A Lei 14.133 prevê cinco modalidades: pregão, concorrência, concurso, leilão e diálogo competitivo. Convite e tomada de preços não existem nesta lei."
       },
       {
        "type": "paragraph",
@@ -18083,8 +18083,24 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "A contratação direta se divide em inexigibilidade, quando a competição é inviável, e dispensa, quando a lei a autoriza expressamente. Ambas exigem processo instruído e justificativa de preço."
+     "type": "table",
+     "rows": [
+      [
+       "Figura",
+       "Quando cabe",
+       "Base"
+      ],
+      [
+       "Inexigibilidade",
+       "Competição inviável",
+       "Lei 14.133, art. 74"
+      ],
+      [
+       "Dispensa",
+       "Hipótese prevista em lei, inclusive por valor ou emergência",
+       "Lei 14.133, art. 75"
+      ]
+     ]
     },
     {
      "type": "callout",
@@ -18103,24 +18119,8 @@
      "title": "Ver explicação detalhada",
      "blocks": [
       {
-       "type": "table",
-       "rows": [
-        [
-         "Figura",
-         "Quando cabe",
-         "Base"
-        ],
-        [
-         "Inexigibilidade",
-         "Competição inviável",
-         "Lei 14.133, art. 74"
-        ],
-        [
-         "Dispensa",
-         "Hipótese prevista em lei, inclusive por valor ou emergência",
-         "Lei 14.133, art. 75"
-        ]
-       ]
+       "type": "paragraph",
+       "text": "A contratação direta se divide em inexigibilidade, quando a competição é inviável, e dispensa, quando a lei a autoriza expressamente. Ambas exigem processo instruído e justificativa de preço."
       },
       {
        "type": "paragraph",
@@ -18159,8 +18159,24 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "O contrato se formaliza com publicação no PNCP, que é condição de eficácia do contrato e de seus aditamentos."
+     "type": "table",
+     "rows": [
+      [
+       "Garantia",
+       "Limite",
+       "Base"
+      ],
+      [
+       "Garantia contratual padrão",
+       "Até 5% do valor do contrato",
+       "Lei 14.133, art. 96"
+      ],
+      [
+       "Garantia reforçada",
+       "Até 10%, com justificativa, em contratos de alta complexidade técnica ou valor",
+       "Lei 14.133, art. 96, § 3º"
+      ]
+     ]
     },
     {
      "type": "callout",
@@ -18179,24 +18195,8 @@
      "title": "Ver explicação detalhada",
      "blocks": [
       {
-       "type": "table",
-       "rows": [
-        [
-         "Garantia",
-         "Limite",
-         "Base"
-        ],
-        [
-         "Garantia contratual padrão",
-         "Até 5% do valor do contrato",
-         "Lei 14.133, art. 96"
-        ],
-        [
-         "Garantia reforçada",
-         "Até 10%, com justificativa, em contratos de alta complexidade técnica ou valor",
-         "Lei 14.133, art. 96, § 3º"
-        ]
-       ]
+       "type": "paragraph",
+       "text": "O contrato se formaliza com publicação no PNCP, que é condição de eficácia do contrato e de seus aditamentos."
       },
       {
        "type": "paragraph",
@@ -18231,8 +18231,29 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "A administração tem prerrogativas no contrato administrativo, como modificar unilateralmente, fiscalizar, aplicar sanções e extinguir o contrato."
+     "type": "table",
+     "rows": [
+      [
+       "Prerrogativa",
+       "Efeito prático"
+      ],
+      [
+       "Modificação unilateral",
+       "Ajusta o objeto para o interesse público, com equilíbrio econômico-financeiro"
+      ],
+      [
+       "Fiscalização",
+       "Acompanhamento pelo fiscal do contrato"
+      ],
+      [
+       "Sanções",
+       "Aplicadas com contraditório e ampla defesa"
+      ],
+      [
+       "Extinção",
+       "Pelo término da vigência ou por rescisão, nas hipóteses legais"
+      ]
+     ]
     },
     {
      "type": "callout",
@@ -18251,29 +18272,8 @@
      "title": "Ver explicação detalhada",
      "blocks": [
       {
-       "type": "table",
-       "rows": [
-        [
-         "Prerrogativa",
-         "Efeito prático"
-        ],
-        [
-         "Modificação unilateral",
-         "Ajusta o objeto para o interesse público, com equilíbrio econômico-financeiro"
-        ],
-        [
-         "Fiscalização",
-         "Acompanhamento pelo fiscal do contrato"
-        ],
-        [
-         "Sanções",
-         "Aplicadas com contraditório e ampla defesa"
-        ],
-        [
-         "Extinção",
-         "Pelo término da vigência ou por rescisão, nas hipóteses legais"
-        ]
-       ]
+       "type": "paragraph",
+       "text": "A administração tem prerrogativas no contrato administrativo, como modificar unilateralmente, fiscalizar, aplicar sanções e extinguir o contrato."
       },
       {
        "type": "reference",
@@ -18304,8 +18304,29 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "A impugnação e o pedido de esclarecimento permitem questionar o edital. Os recursos atacam atos do julgamento e da habilitação, dentro de prazos próprios."
+     "type": "table",
+     "rows": [
+      [
+       "Instrumento",
+       "Prazo",
+       "Base"
+      ],
+      [
+       "Impugnação ao edital",
+       "Até 3 dias úteis antes da data de abertura",
+       "Lei 14.133, art. 164"
+      ],
+      [
+       "Pedido de esclarecimento",
+       "Até 3 dias úteis antes da data de abertura",
+       "Lei 14.133, art. 164"
+      ],
+      [
+       "Recurso",
+       "3 dias úteis após a intenção de recorrer",
+       "Lei 14.133, art. 165"
+      ]
+     ]
     },
     {
      "type": "callout",
@@ -18324,29 +18345,8 @@
      "title": "Ver explicação detalhada",
      "blocks": [
       {
-       "type": "table",
-       "rows": [
-        [
-         "Instrumento",
-         "Prazo",
-         "Base"
-        ],
-        [
-         "Impugnação ao edital",
-         "Até 3 dias úteis antes da data de abertura",
-         "Lei 14.133, art. 164"
-        ],
-        [
-         "Pedido de esclarecimento",
-         "Até 3 dias úteis antes da data de abertura",
-         "Lei 14.133, art. 164"
-        ],
-        [
-         "Recurso",
-         "3 dias úteis após a intenção de recorrer",
-         "Lei 14.133, art. 165"
-        ]
-       ]
+       "type": "paragraph",
+       "text": "A impugnação e o pedido de esclarecimento permitem questionar o edital. Os recursos atacam atos do julgamento e da habilitação, dentro de prazos próprios."
       },
       {
        "type": "reference",
@@ -18377,8 +18377,29 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "As empresas públicas e sociedades de economia mista seguem a Lei 13.303/2016, com licitação própria e hipóteses de contratação direta distintas das da Lei 14.133."
+     "type": "table",
+     "rows": [
+      [
+       "Tema",
+       "Empresas estatais (Lei 13.303/2016)",
+       "Administração direta (Lei 14.133/2021)"
+      ],
+      [
+       "Regime",
+       "Licitação própria, com exceções legais",
+       "Licitação regida pela Lei 14.133"
+      ],
+      [
+       "Contratação direta",
+       "Hipóteses próprias",
+       "Inexigibilidade e dispensa do art. 74 e 75"
+      ],
+      [
+       "Preço",
+       "Justificativa de preço obrigatória",
+       "Justificativa de preço obrigatória"
+      ]
+     ]
     },
     {
      "type": "callout",
@@ -18397,29 +18418,8 @@
      "title": "Ver explicação detalhada",
      "blocks": [
       {
-       "type": "table",
-       "rows": [
-        [
-         "Tema",
-         "Empresas estatais (Lei 13.303/2016)",
-         "Administração direta (Lei 14.133/2021)"
-        ],
-        [
-         "Regime",
-         "Licitação própria, com exceções legais",
-         "Licitação regida pela Lei 14.133"
-        ],
-        [
-         "Contratação direta",
-         "Hipóteses próprias",
-         "Inexigibilidade e dispensa do art. 74 e 75"
-        ],
-        [
-         "Preço",
-         "Justificativa de preço obrigatória",
-         "Justificativa de preço obrigatória"
-        ]
-       ]
+       "type": "paragraph",
+       "text": "As empresas públicas e sociedades de economia mista seguem a Lei 13.303/2016, com licitação própria e hipóteses de contratação direta distintas das da Lei 14.133."
       },
       {
        "type": "reference",
@@ -18450,8 +18450,33 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "O regime jurídico administrativo reúne prerrogativas da Administração e sujeições a princípios. Os princípios expressos estão no caput do art. 37 da Constituição."
+     "type": "table",
+     "rows": [
+      [
+       "Princípio",
+       "Ideia central"
+      ],
+      [
+       "Legalidade",
+       "Agir somente como a lei autoriza"
+      ],
+      [
+       "Impessoalidade",
+       "Atuação sem favorecimento pessoal"
+      ],
+      [
+       "Moralidade",
+       "Probidade e boa-fé"
+      ],
+      [
+       "Publicidade",
+       "Divulgação dos atos, com exceções legais"
+      ],
+      [
+       "Eficiência",
+       "Resultado com economicidade e qualidade"
+      ]
+     ]
     },
     {
      "type": "callout",
@@ -18470,33 +18495,8 @@
      "title": "Ver explicação detalhada",
      "blocks": [
       {
-       "type": "table",
-       "rows": [
-        [
-         "Princípio",
-         "Ideia central"
-        ],
-        [
-         "Legalidade",
-         "Agir somente como a lei autoriza"
-        ],
-        [
-         "Impessoalidade",
-         "Atuação sem favorecimento pessoal"
-        ],
-        [
-         "Moralidade",
-         "Probidade e boa-fé"
-        ],
-        [
-         "Publicidade",
-         "Divulgação dos atos, com exceções legais"
-        ],
-        [
-         "Eficiência",
-         "Resultado com economicidade e qualidade"
-        ]
-       ]
+       "type": "paragraph",
+       "text": "O regime jurídico administrativo reúne prerrogativas da Administração e sujeições a princípios. Os princípios expressos estão no caput do art. 37 da Constituição."
       },
       {
        "type": "reference",
@@ -18527,8 +18527,33 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "Os elementos do ato administrativo são competência, finalidade, forma, motivo e objeto."
+     "type": "table",
+     "rows": [
+      [
+       "Elemento",
+       "Pergunta que responde"
+      ],
+      [
+       "Competência",
+       "Quem pode praticar o ato"
+      ],
+      [
+       "Finalidade",
+       "Para qual fim público"
+      ],
+      [
+       "Forma",
+       "Como o ato se exterioriza"
+      ],
+      [
+       "Motivo",
+       "Fato e fundamento que justificam o ato"
+      ],
+      [
+       "Objeto",
+       "O que o ato decide ou produz"
+      ]
+     ]
     },
     {
      "type": "callout",
@@ -18547,33 +18572,8 @@
      "title": "Ver explicação detalhada",
      "blocks": [
       {
-       "type": "table",
-       "rows": [
-        [
-         "Elemento",
-         "Pergunta que responde"
-        ],
-        [
-         "Competência",
-         "Quem pode praticar o ato"
-        ],
-        [
-         "Finalidade",
-         "Para qual fim público"
-        ],
-        [
-         "Forma",
-         "Como o ato se exterioriza"
-        ],
-        [
-         "Motivo",
-         "Fato e fundamento que justificam o ato"
-        ],
-        [
-         "Objeto",
-         "O que o ato decide ou produz"
-        ]
-       ]
+       "type": "paragraph",
+       "text": "Os elementos do ato administrativo são competência, finalidade, forma, motivo e objeto."
       },
       {
        "type": "reference",
@@ -18604,8 +18604,34 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "A Administração controla os próprios atos: ilegalidade leva à anulação, conveniência de ato válido leva à revogação e defeito sanável leva à convalidação."
+     "type": "table",
+     "rows": [
+      [
+       "Instituto",
+       "Quando",
+       "Quem decide"
+      ],
+      [
+       "Anulação",
+       "Ato ilegal",
+       "Administração ou Judiciário"
+      ],
+      [
+       "Revogação",
+       "Conveniência e oportunidade de ato válido",
+       "Somente a Administração"
+      ],
+      [
+       "Convalidação",
+       "Defeito sanável de competência ou forma",
+       "Administração"
+      ],
+      [
+       "Cassação",
+       "Descumprimento de condição pelo beneficiário",
+       "Administração"
+      ]
+     ]
     },
     {
      "type": "callout",
@@ -18624,34 +18650,8 @@
      "title": "Ver explicação detalhada",
      "blocks": [
       {
-       "type": "table",
-       "rows": [
-        [
-         "Instituto",
-         "Quando",
-         "Quem decide"
-        ],
-        [
-         "Anulação",
-         "Ato ilegal",
-         "Administração ou Judiciário"
-        ],
-        [
-         "Revogação",
-         "Conveniência e oportunidade de ato válido",
-         "Somente a Administração"
-        ],
-        [
-         "Convalidação",
-         "Defeito sanável de competência ou forma",
-         "Administração"
-        ],
-        [
-         "Cassação",
-         "Descumprimento de condição pelo beneficiário",
-         "Administração"
-        ]
-       ]
+       "type": "paragraph",
+       "text": "A Administração controla os próprios atos: ilegalidade leva à anulação, conveniência de ato válido leva à revogação e defeito sanável leva à convalidação."
       },
       {
        "type": "reference",
@@ -18682,6 +18682,27 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Poder",
+       "Função"
+      ],
+      [
+       "Hierárquico",
+       "Ordena e revê a atuação interna dos órgãos"
+      ],
+      [
+       "Disciplinar",
+       "Apura e sanciona infrações de servidores e de pessoas com vínculo especial"
+      ],
+      [
+       "Regulamentar",
+       "Viabiliza a execução da lei por decreto"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "rule",
      "title": "Regra essencial",
@@ -18697,27 +18718,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Poder",
-         "Função"
-        ],
-        [
-         "Hierárquico",
-         "Ordena e revê a atuação interna dos órgãos"
-        ],
-        [
-         "Disciplinar",
-         "Apura e sanciona infrações de servidores e de pessoas com vínculo especial"
-        ],
-        [
-         "Regulamentar",
-         "Viabiliza a execução da lei por decreto"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Constituição Federal, art. 84, IV (Planalto)",
@@ -18747,8 +18747,29 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "O poder de polícia limita direitos e atividades de particulares em benefício do interesse coletivo. Seu ciclo segue quatro etapas: ordem, consentimento, fiscalização e sanção."
+     "type": "table",
+     "rows": [
+      [
+       "Etapa",
+       "Exemplo"
+      ],
+      [
+       "Ordem",
+       "Norma que impõe limite ou exigência"
+      ],
+      [
+       "Consentimento",
+       "Licença ou autorização para a atividade"
+      ],
+      [
+       "Fiscalização",
+       "Verificação do cumprimento"
+      ],
+      [
+       "Sanção",
+       "Multa, interdição ou apreensão"
+      ]
+     ]
     },
     {
      "type": "callout",
@@ -18761,29 +18782,8 @@
      "title": "Ver explicação detalhada",
      "blocks": [
       {
-       "type": "table",
-       "rows": [
-        [
-         "Etapa",
-         "Exemplo"
-        ],
-        [
-         "Ordem",
-         "Norma que impõe limite ou exigência"
-        ],
-        [
-         "Consentimento",
-         "Licença ou autorização para a atividade"
-        ],
-        [
-         "Fiscalização",
-         "Verificação do cumprimento"
-        ],
-        [
-         "Sanção",
-         "Multa, interdição ou apreensão"
-        ]
-       ]
+       "type": "paragraph",
+       "text": "O poder de polícia limita direitos e atividades de particulares em benefício do interesse coletivo. Seu ciclo segue quatro etapas: ordem, consentimento, fiscalização e sanção."
       },
       {
        "type": "reference",
@@ -18814,6 +18814,27 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Conceito",
+       "Característica"
+      ],
+      [
+       "Desconcentração",
+       "Distribui competências dentro da mesma pessoa jurídica"
+      ],
+      [
+       "Descentralização",
+       "Transfere competências a pessoas jurídicas distintas"
+      ],
+      [
+       "Autarquia",
+       "Criada por lei específica"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "rule",
      "title": "Regra essencial",
@@ -18829,27 +18850,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Conceito",
-         "Característica"
-        ],
-        [
-         "Desconcentração",
-         "Distribui competências dentro da mesma pessoa jurídica"
-        ],
-        [
-         "Descentralização",
-         "Transfere competências a pessoas jurídicas distintas"
-        ],
-        [
-         "Autarquia",
-         "Criada por lei específica"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Constituição Federal, art. 37, XIX (Planalto)",
@@ -18879,6 +18879,31 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Figura",
+       "Instrumento",
+       "Base"
+      ],
+      [
+       "OS",
+       "Contrato de gestão",
+       "Lei 9.637/1998"
+      ],
+      [
+       "OSCIP",
+       "Termo de parceria",
+       "Lei 9.790/1999"
+      ],
+      [
+       "OSC (MROSC)",
+       "Colaboração, fomento ou acordo de cooperação",
+       "Lei 13.019/2014"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "rule",
      "title": "MROSC",
@@ -18894,31 +18919,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Figura",
-         "Instrumento",
-         "Base"
-        ],
-        [
-         "OS",
-         "Contrato de gestão",
-         "Lei 9.637/1998"
-        ],
-        [
-         "OSCIP",
-         "Termo de parceria",
-         "Lei 9.790/1999"
-        ],
-        [
-         "OSC (MROSC)",
-         "Colaboração, fomento ou acordo de cooperação",
-         "Lei 13.019/2014"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Lei 13.019/2014 (MROSC) (Planalto)",
@@ -18948,6 +18948,26 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Instituto",
+       "Natureza",
+       "Destinatário"
+      ],
+      [
+       "Concessão",
+       "Delegação contratual por prazo determinado, com licitação",
+       "Pessoa jurídica ou consórcio"
+      ],
+      [
+       "Permissão",
+       "Delegação precária, por contrato de adesão, com licitação",
+       "Pessoa física ou jurídica"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "danger",
      "title": "Pegadinha",
@@ -18957,26 +18977,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Instituto",
-         "Natureza",
-         "Destinatário"
-        ],
-        [
-         "Concessão",
-         "Delegação contratual por prazo determinado, com licitação",
-         "Pessoa jurídica ou consórcio"
-        ],
-        [
-         "Permissão",
-         "Delegação precária, por contrato de adesão, com licitação",
-         "Pessoa física ou jurídica"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Lei 8.987/1995 (Planalto)",
@@ -19006,6 +19006,27 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Modalidade",
+       "Remuneração"
+      ],
+      [
+       "PPP patrocinada",
+       "Tarifa do usuário mais contraprestação pública"
+      ],
+      [
+       "PPP administrativa",
+       "Contraprestação pública, com Administração como usuária direta ou indireta"
+      ],
+      [
+       "Concessão comum",
+       "Tarifa, sem contraprestação pública típica da PPP"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "danger",
      "title": "Pegadinha",
@@ -19015,27 +19036,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Modalidade",
-         "Remuneração"
-        ],
-        [
-         "PPP patrocinada",
-         "Tarifa do usuário mais contraprestação pública"
-        ],
-        [
-         "PPP administrativa",
-         "Contraprestação pública, com Administração como usuária direta ou indireta"
-        ],
-        [
-         "Concessão comum",
-         "Tarifa, sem contraprestação pública típica da PPP"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Lei 11.079/2004 (PPP) (Planalto)",
@@ -19070,8 +19070,25 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "O Estado responde objetivamente pelos danos que seus agentes causarem a terceiros, na modalidade do risco administrativo, com possibilidade de excludentes."
+     "type": "table",
+     "rows": [
+      [
+       "Requisito",
+       "Verificar"
+      ],
+      [
+       "Conduta",
+       "Ação ou omissão de agente nessa qualidade"
+      ],
+      [
+       "Dano",
+       "Lesão efetiva, certa e, em regra, individualizada"
+      ],
+      [
+       "Nexo",
+       "Relação causal entre conduta e dano"
+      ]
+     ]
     },
     {
      "type": "callout",
@@ -19090,25 +19107,8 @@
      "title": "Ver explicação detalhada",
      "blocks": [
       {
-       "type": "table",
-       "rows": [
-        [
-         "Requisito",
-         "Verificar"
-        ],
-        [
-         "Conduta",
-         "Ação ou omissão de agente nessa qualidade"
-        ],
-        [
-         "Dano",
-         "Lesão efetiva, certa e, em regra, individualizada"
-        ],
-        [
-         "Nexo",
-         "Relação causal entre conduta e dano"
-        ]
-       ]
+       "type": "paragraph",
+       "text": "O Estado responde objetivamente pelos danos que seus agentes causarem a terceiros, na modalidade do risco administrativo, com possibilidade de excludentes."
       },
       {
        "type": "reference",
@@ -19139,6 +19139,26 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Instituto",
+       "Pressuposto",
+       "Consequência"
+      ],
+      [
+       "Desapropriação indireta",
+       "Apossamento e incorporação fática ao patrimônio público",
+       "Indenização por via judicial"
+      ],
+      [
+       "Requisição",
+       "Iminente perigo público",
+       "Indenização ulterior, se houver dano"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "danger",
      "title": "Pegadinha",
@@ -19148,26 +19168,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Instituto",
-         "Pressuposto",
-         "Consequência"
-        ],
-        [
-         "Desapropriação indireta",
-         "Apossamento e incorporação fática ao patrimônio público",
-         "Indenização por via judicial"
-        ],
-        [
-         "Requisição",
-         "Iminente perigo público",
-         "Indenização ulterior, se houver dano"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Constituição Federal, art. 5º, XXIV e XXV (Planalto)",
@@ -19197,6 +19197,31 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Controle",
+       "Quem exerce",
+       "Alcance"
+      ],
+      [
+       "Administrativo (autotutela)",
+       "A própria Administração",
+       "Revê os próprios atos"
+      ],
+      [
+       "Judicial",
+       "Poder Judiciário",
+       "Legalidade, inclusive finalidade e proporcionalidade"
+      ],
+      [
+       "Tribunal de Contas",
+       "Controle externo",
+       "Técnico-financeiro"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "danger",
      "title": "Pegadinha",
@@ -19206,31 +19231,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Controle",
-         "Quem exerce",
-         "Alcance"
-        ],
-        [
-         "Administrativo (autotutela)",
-         "A própria Administração",
-         "Revê os próprios atos"
-        ],
-        [
-         "Judicial",
-         "Poder Judiciário",
-         "Legalidade, inclusive finalidade e proporcionalidade"
-        ],
-        [
-         "Tribunal de Contas",
-         "Controle externo",
-         "Técnico-financeiro"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Constituição Federal, arts. 70 e 71 (Planalto)",
@@ -19260,6 +19260,27 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Instituto",
+       "Regra no processo federal"
+      ],
+      [
+       "Recurso administrativo",
+       "Em regra, 10 dias"
+      ],
+      [
+       "Reconsideração",
+       "A autoridade recorrida pode reconsiderar em 5 dias"
+      ],
+      [
+       "Revisão de PAD",
+       "Exige fatos novos ou circunstâncias relevantes, a qualquer tempo"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "danger",
      "title": "Pegadinha",
@@ -19269,27 +19290,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Instituto",
-         "Regra no processo federal"
-        ],
-        [
-         "Recurso administrativo",
-         "Em regra, 10 dias"
-        ],
-        [
-         "Reconsideração",
-         "A autoridade recorrida pode reconsiderar em 5 dias"
-        ],
-        [
-         "Revisão de PAD",
-         "Exige fatos novos ou circunstâncias relevantes, a qualquer tempo"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Lei 9.784/1999, arts. 56 a 65 (Planalto)",
@@ -19324,6 +19324,31 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Tema",
+       "Regra"
+      ],
+      [
+       "Pessoa jurídica",
+       "Responsabilidade objetiva, na esfera administrativa e civil"
+      ],
+      [
+       "Pessoa física",
+       "Depende de culpabilidade"
+      ],
+      [
+       "Sanções",
+       "Multa e publicação extraordinária da decisão"
+      ],
+      [
+       "Leniência",
+       "Acordo com a pessoa jurídica que colabora"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "danger",
      "title": "Pegadinha",
@@ -19333,31 +19358,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Tema",
-         "Regra"
-        ],
-        [
-         "Pessoa jurídica",
-         "Responsabilidade objetiva, na esfera administrativa e civil"
-        ],
-        [
-         "Pessoa física",
-         "Depende de culpabilidade"
-        ],
-        [
-         "Sanções",
-         "Multa e publicação extraordinária da decisão"
-        ],
-        [
-         "Leniência",
-         "Acordo com a pessoa jurídica que colabora"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Lei 12.846/2013 (Planalto)",
@@ -19387,6 +19387,27 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Artigo",
+       "Tipo"
+      ],
+      [
+       "Art. 9º",
+       "Enriquecimento ilícito: vantagem patrimonial indevida"
+      ],
+      [
+       "Art. 10",
+       "Lesão ao erário: prejuízo efetivo e comprovado"
+      ],
+      [
+       "Art. 11",
+       "Violação aos princípios, em conduta tipificada"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "danger",
      "title": "Pegadinha",
@@ -19396,27 +19417,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Artigo",
-         "Tipo"
-        ],
-        [
-         "Art. 9º",
-         "Enriquecimento ilícito: vantagem patrimonial indevida"
-        ],
-        [
-         "Art. 10",
-         "Lesão ao erário: prejuízo efetivo e comprovado"
-        ],
-        [
-         "Art. 11",
-         "Violação aos princípios, em conduta tipificada"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Lei 8.429/1992 (Planalto)",
@@ -19446,6 +19446,27 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Artigo",
+       "Sanções resumidas"
+      ],
+      [
+       "Art. 9º",
+       "Suspensão dos direitos políticos até 14 anos"
+      ],
+      [
+       "Art. 10",
+       "Suspensão dos direitos políticos até 12 anos"
+      ],
+      [
+       "Art. 11",
+       "Multa de até 24 vezes a remuneração e proibição de contratar ou receber benefícios por até 4 anos"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "danger",
      "title": "Pegadinha",
@@ -19455,27 +19476,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Artigo",
-         "Sanções resumidas"
-        ],
-        [
-         "Art. 9º",
-         "Suspensão dos direitos políticos até 14 anos"
-        ],
-        [
-         "Art. 10",
-         "Suspensão dos direitos políticos até 12 anos"
-        ],
-        [
-         "Art. 11",
-         "Multa de até 24 vezes a remuneração e proibição de contratar ou receber benefícios por até 4 anos"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Lei 8.429/1992, art. 12 (Planalto)",
@@ -19505,6 +19505,27 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Tema",
+       "Regra"
+      ],
+      [
+       "Acesso",
+       "Cargo efetivo e emprego exigem concurso, ressalvadas as nomeações para cargo em comissão"
+      ],
+      [
+       "Função de confiança",
+       "Exclusiva de servidor efetivo"
+      ],
+      [
+       "Estabilidade",
+       "3 anos de efetivo exercício e avaliação especial de desempenho"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "danger",
      "title": "Pegadinha",
@@ -19514,27 +19535,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Tema",
-         "Regra"
-        ],
-        [
-         "Acesso",
-         "Cargo efetivo e emprego exigem concurso, ressalvadas as nomeações para cargo em comissão"
-        ],
-        [
-         "Função de confiança",
-         "Exclusiva de servidor efetivo"
-        ],
-        [
-         "Estabilidade",
-         "3 anos de efetivo exercício e avaliação especial de desempenho"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Constituição Federal, art. 37 e art. 41 (Planalto)",
@@ -19564,6 +19564,27 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Categoria",
+       "Exemplo"
+      ],
+      [
+       "Uso comum do povo",
+       "Ruas, praças, rios"
+      ],
+      [
+       "Uso especial",
+       "Prédios onde funcionam órgãos públicos"
+      ],
+      [
+       "Dominicais",
+       "Bens sem destinação pública definida"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "rule",
      "title": "Regra essencial",
@@ -19579,27 +19600,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Categoria",
-         "Exemplo"
-        ],
-        [
-         "Uso comum do povo",
-         "Ruas, praças, rios"
-        ],
-        [
-         "Uso especial",
-         "Prédios onde funcionam órgãos públicos"
-        ],
-        [
-         "Dominicais",
-         "Bens sem destinação pública definida"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Código Civil, arts. 98 a 103 (Planalto)",
@@ -19629,6 +19629,23 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Modalidade",
+       "Característica"
+      ],
+      [
+       "Transparência ativa",
+       "Divulgação de ofício"
+      ],
+      [
+       "Transparência passiva",
+       "Resposta a pedido, sem exigir motivação do interessado"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "rule",
      "title": "Prazo",
@@ -19644,23 +19661,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Modalidade",
-         "Característica"
-        ],
-        [
-         "Transparência ativa",
-         "Divulgação de ofício"
-        ],
-        [
-         "Transparência passiva",
-         "Resposta a pedido, sem exigir motivação do interessado"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Lei 12.527/2011, arts. 8º, 11 e 24 (Planalto)",
@@ -19690,6 +19690,27 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Figura",
+       "Papel"
+      ],
+      [
+       "Controlador",
+       "Decide sobre o tratamento"
+      ],
+      [
+       "Operador",
+       "Trata dados em nome do controlador"
+      ],
+      [
+       "Encarregado",
+       "Canal de comunicação com titulares e a ANPD"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "rule",
      "title": "Conceitos",
@@ -19705,27 +19726,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Figura",
-         "Papel"
-        ],
-        [
-         "Controlador",
-         "Decide sobre o tratamento"
-        ],
-        [
-         "Operador",
-         "Trata dados em nome do controlador"
-        ],
-        [
-         "Encarregado",
-         "Canal de comunicação com titulares e a ANPD"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Lei 13.709/2018 (LGPD) (Planalto)",
@@ -19755,8 +19755,24 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "paragraph",
-     "text": "O estoque de segurança absorve variações de demanda ou atrasos de reposição."
+     "type": "table",
+     "rows": [
+      [
+       "Conceito",
+       "O que é",
+       "Atenção"
+      ],
+      [
+       "Estoque de segurança",
+       "Absorve variações de demanda ou atrasos de reposição.",
+       "Não é estoque máximo: existe para cobrir variação, não para acumular."
+      ],
+      [
+       "Ponto de pedido",
+       "Consumo no tempo de reposição + estoque de segurança.",
+       "Fórmula: consumo no tempo de reposição + estoque de segurança."
+      ]
+     ]
     },
     {
      "type": "callout",
@@ -19798,6 +19814,27 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Conceito",
+       "Função"
+      ],
+      [
+       "Governabilidade",
+       "Condições políticas para governar"
+      ],
+      [
+       "Governança",
+       "Avaliar, direcionar e monitorar"
+      ],
+      [
+       "Gestão",
+       "Planejar e executar"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "danger",
      "title": "Pegadinha",
@@ -19807,27 +19844,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Conceito",
-         "Função"
-        ],
-        [
-         "Governabilidade",
-         "Condições políticas para governar"
-        ],
-        [
-         "Governança",
-         "Avaliar, direcionar e monitorar"
-        ],
-        [
-         "Gestão",
-         "Planejar e executar"
-        ]
-       ]
-      },
       {
        "type": "callout",
        "kind": "warning",
@@ -19852,6 +19868,27 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Modelo",
+       "Ênfase"
+      ],
+      [
+       "Patrimonialista",
+       "Confunde as esferas pública e privada"
+      ],
+      [
+       "Burocrático",
+       "Mérito, formalidade e impessoalidade"
+      ],
+      [
+       "Gerencial",
+       "Desempenho e entrega de resultados"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "danger",
      "title": "Pegadinha",
@@ -19861,27 +19898,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Modelo",
-         "Ênfase"
-        ],
-        [
-         "Patrimonialista",
-         "Confunde as esferas pública e privada"
-        ],
-        [
-         "Burocrático",
-         "Mérito, formalidade e impessoalidade"
-        ],
-        [
-         "Gerencial",
-         "Desempenho e entrega de resultados"
-        ]
-       ]
-      },
       {
        "type": "callout",
        "kind": "warning",
@@ -19906,6 +19922,27 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Componente",
+       "Conteúdo"
+      ],
+      [
+       "Natureza",
+       "Categoria econômica, origem, espécie, desdobramentos e tipo"
+      ],
+      [
+       "Vinculação",
+       "Fonte ou destinação indica a vinculação do recurso"
+      ],
+      [
+       "Resultado primário",
+       "Identificador que distingue os efeitos fiscais"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "danger",
      "title": "Pegadinha",
@@ -19915,27 +19952,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Componente",
-         "Conteúdo"
-        ],
-        [
-         "Natureza",
-         "Categoria econômica, origem, espécie, desdobramentos e tipo"
-        ],
-        [
-         "Vinculação",
-         "Fonte ou destinação indica a vinculação do recurso"
-        ],
-        [
-         "Resultado primário",
-         "Identificador que distingue os efeitos fiscais"
-        ]
-       ]
-      },
       {
        "type": "reference",
        "text": "Lei 4.320/1964 (Planalto)",
@@ -19965,6 +19981,35 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
+     "type": "table",
+     "rows": [
+      [
+       "Componente do COSO",
+       "Função"
+      ],
+      [
+       "Ambiente de controle",
+       "Base cultural e de integridade"
+      ],
+      [
+       "Avaliação de riscos",
+       "Identificação e análise de riscos"
+      ],
+      [
+       "Atividades de controle",
+       "Políticas e procedimentos de resposta"
+      ],
+      [
+       "Informação e comunicação",
+       "Fluxo de dados relevantes"
+      ],
+      [
+       "Monitoramento",
+       "Avaliação contínua e separada"
+      ]
+     ]
+    },
+    {
      "type": "callout",
      "kind": "danger",
      "title": "Pegadinha",
@@ -19974,35 +20019,6 @@
      "type": "detail",
      "title": "Ver explicação detalhada",
      "blocks": [
-      {
-       "type": "table",
-       "rows": [
-        [
-         "Componente do COSO",
-         "Função"
-        ],
-        [
-         "Ambiente de controle",
-         "Base cultural e de integridade"
-        ],
-        [
-         "Avaliação de riscos",
-         "Identificação e análise de riscos"
-        ],
-        [
-         "Atividades de controle",
-         "Políticas e procedimentos de resposta"
-        ],
-        [
-         "Informação e comunicação",
-         "Fluxo de dados relevantes"
-        ],
-        [
-         "Monitoramento",
-         "Avaliação contínua e separada"
-        ]
-       ]
-      },
       {
        "type": "callout",
        "kind": "warning",
