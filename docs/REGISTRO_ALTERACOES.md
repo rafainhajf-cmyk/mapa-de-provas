@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-23 — Claude (Direito Administrativo: quadros do Drive como rascunhos de esquema)
+
+- Pedido: esquema de Direito Administrativo em cartões curtos, com explicação detalhada ao clicar, como na apostila de Tributário.
+- Feito: 4 rascunhos (status `draft`, não publicados) em `source-content/study-knowledge.json`, extraídos dos quadros do Drive (Poderes, Atos administrativos, Poder hierárquico, Poder de polícia): admin-12 (Poderes; hierárquico), admin-10 (atos), admin-13 (polícia). Blocos: tabela curta, callout "Para lembrar" e bloco `detail` com a explicação completa.
+- Não conferido com a legislação atual; Tema 532 do STF e a redação de CTN art. 78 precisam de conferência antes de aprovar.
+- Pendências: conferência jurídica; aprovação (status `approved`) só com autorização; restante das matérias de Direito Administrativo; exercícios enviados pelo usuário.
+- Arquivos: source-content/study-knowledge.json.
+
 ## 2026-11-23 — Claude (Dificuldades por matéria: autofiltro de conteúdos na Biblioteca de todas as matérias)
 
 - Pedido do usuário: o filtro por conteúdo só aparecia no "Todo o conteúdo da matéria" e faltava em Direito Administrativo e nas demais matérias da Biblioteca.
