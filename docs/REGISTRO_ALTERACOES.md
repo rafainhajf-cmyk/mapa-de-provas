@@ -3,6 +3,15 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Apostila de Tributário: volumes só da Lei Kandir e só dos convênios)
+
+- Pedido: separar a parte só dos convênios e a parte só da Lei Kandir.
+- Dois volumes novos no menu: "Lei Kandir (LC 87/1996)" e "Convênios de ICMS". Em `apostila.js` foram incluídos na lista e a seção 3.1 (Kandir alterada) foi para o primeiro; 3.2 (LC 192) e 12 a 12.6 foram para o segundo.
+- Conteúdo novo: resumo da LC 87 por artigo (21 blocos, arts. 1º a 36) e das LC 24/1975, LC 160/2017 e LC 192/2022 por artigo, tirados da Parte II de `apostila-revisao-rapida.md`. É leitura automática das páginas do Planalto, não texto verbatim; a nota "Como usar" avisa para conferir no DOU. Referências internas a "cartão" foram removidas.
+- Nenhuma seção ou bloco original foi alterado; só o campo `volume` de 3.1, 3.2 e 12 a 12.6.
+- Pendências: conferência visual no site; os resumos por artigo não foram conferidos com o texto oficial nesta etapa.
+- Arquivos: apostila-data.json, apostila.js, apostila.html.
+
 ## 2026-11-22 — Claude (Apostila de Tributário: volumes corrigidos, cartão de RMIT e revisão rápida)
 
 - Problema: o menu da apostila (Lei Kandir × Reforma, LC 236, LC 227, IPVA, ITCMD, RMIT, Lei Ordinária × LC, Ações) separava os assuntos por posição no arquivo. Depois que seções foram inseridas, os assuntos caíram nos volumes errados (ex.: 2.11 e convênios em RMIT, 3.2 e 3.4.2 em IPVA/ITCMD, 6.2 em LC 236) e a RMIT não tinha cartão próprio.
