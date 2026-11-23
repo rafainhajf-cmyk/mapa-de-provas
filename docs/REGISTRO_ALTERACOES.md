@@ -3,6 +3,15 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Apostila de Tributário: volumes só da LC 214 e só da LC 227)
+
+- Pedido: uma parte só da LC 214 (o que não existia antes e não está no comparativo com a Kandir) e outra só da LC 227 (só tópicos novos, sem o que ela alterou da LC 214).
+- LC 214/2025: volume novo "LC 214/2025: só o que é novo", com alíquotas padrão e de referência, split payment, pagamento indevido e ressarcimento, apuração assistida, cadastro único e documento fiscal eletrônico, regimes aduaneiros especiais, ZPE e bens de capital, cashback e cesta básica, regimes diferenciados, regimes específicos, regimes da CBS, administração do IBS/CBS, Imposto Seletivo, ZFM e ALC, compras públicas e compensação de benefícios de ICMS, turista, PNCT e CGIBS provisório. Fora: local, base, crédito, importação e exportação, sujeitos, transição de alíquotas e combustíveis (já em outros volumes).
+- LC 227/2026: volume novo "LC 227/2026: só o que é novo", com CGIBS (arts. 1º a 53), processo administrativo do IBS (54 a 101), distribuição da arrecadação (104 a 131) e arts. 170 a 172. Fora: o que alterou na LC 214, ITCMD, ITBI e saldos e estoques do ICMS (volumes próprios).
+- Fonte: resumos por artigo em `complemento-lc214.md`, `complemento-lc214-arts-342-544.md` e `lc227-cobertura.md` (leitura automática do Planalto, não verbatim, com marcas "conferir"). Não foram conferidos com o texto oficial nesta etapa; cada volume traz aviso no topo. Notas internas ("ler na próxima passada", "cartão N") foram retiradas.
+- Nenhuma seção ou bloco original foi alterado. Arquivos: apostila-data.json, apostila.js, apostila.html (cache v113).
+- Pendências: conferência visual no site; conferir o resumo por artigo com o DOU; a seção da Cesta Básica Nacional e algumas linhas dos regimes diferenciados trazem "conferir" ou texto truncado na origem.
+
 ## 2026-11-22 — Claude (Apostila de Tributário: volumes só da Lei Kandir e só dos convênios)
 
 - Pedido: separar a parte só dos convênios e a parte só da Lei Kandir.
