@@ -18686,19 +18686,33 @@
      "rows": [
       [
        "Poder",
-       "Função"
+       "Função",
+       "Alcança quem",
+       "Limite"
       ],
       [
        "Hierárquico",
-       "Ordena e revê a atuação interna dos órgãos"
+       "Ordena e revê a atuação interna dos órgãos.",
+       "Órgãos internos.",
+       "—"
       ],
       [
        "Disciplinar",
-       "Apura e sanciona infrações de servidores e de pessoas com vínculo especial"
+       "Apura e sanciona infrações de servidores e de pessoas com vínculo especial.",
+       "Servidores e pessoas com vínculo especial.",
+       "—"
       ],
       [
        "Regulamentar",
-       "Viabiliza a execução da lei por decreto"
+       "Viabiliza a execução da lei por decreto.",
+       "A própria execução da lei.",
+       "Não cria obrigações novas nem restringe direitos fora da lei."
+      ],
+      [
+       "De polícia",
+       "Limita direitos e atividades de particulares em benefício do interesse coletivo.",
+       "Particulares.",
+       "Ver cartão de poder de polícia."
       ]
      ]
     },
@@ -18747,28 +18761,25 @@
    "updatedAt": "2026-11-23",
    "blocks": [
     {
-     "type": "table",
-     "rows": [
-      [
-       "Etapa",
-       "Exemplo"
-      ],
-      [
-       "Ordem",
-       "Norma que impõe limite ou exigência"
-      ],
-      [
-       "Consentimento",
-       "Licença ou autorização para a atividade"
-      ],
-      [
-       "Fiscalização",
-       "Verificação do cumprimento"
-      ],
-      [
-       "Sanção",
-       "Multa, interdição ou apreensão"
-      ]
+     "type": "flowchart",
+     "title": "Ciclo do poder de polícia",
+     "steps": [
+      {
+       "label": "1. Ordem",
+       "text": "Norma que impõe limite ou exigência."
+      },
+      {
+       "label": "2. Consentimento",
+       "text": "Licença ou autorização para a atividade."
+      },
+      {
+       "label": "3. Fiscalização",
+       "text": "Verificação do cumprimento."
+      },
+      {
+       "label": "4. Sanção",
+       "text": "Multa, interdição ou apreensão."
+      }
      ]
     },
     {

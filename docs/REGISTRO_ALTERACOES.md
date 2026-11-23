@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-23 — Claude (Direito Administrativo: poderes e poder de polícia em quadro e fluxo)
+
+- Feito: `admin-12-…-cartoes` (poderes) passa a ter um quadro lado a lado (hierárquico, disciplinar, regulamentar e de polícia, com quem cada um alcança); `admin-13-…-cartoes` (poder de polícia) passa a ter um fluxograma das quatro etapas. Dados dos esquemas aprovados.
+- Já estavam em quadro, sem alteração: admin-09 (princípios) e admin-10 (elementos).
+- Continuam rascunho.
+- Arquivos: source-content/study-knowledge.json.
+
 ## 2026-11-23 — Claude (Direito Administrativo: quadros comparativos de Terceiro setor e agências)
 
 - Pedido: quadros comparativos entre tipos (como nos quadros do Drive). Referência: quadros "Terceiro setor: OS, OSCIP e OSC" e "Agência reguladora × agência executiva".
