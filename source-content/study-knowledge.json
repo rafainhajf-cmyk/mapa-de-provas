@@ -17736,6 +17736,706 @@
      ]
     }
    ]
+  },
+  {
+   "id": "admin-01-licitacoes-ambito-agentes-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-01",
+   "targetTitle": "Licitações e contratos",
+   "title": "Âmbito, definições e agentes da Lei 14.133",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "A Lei 14.133/2021 alcança a administração direta, autarquias, fundações e fundos da União, Estados, DF e Municípios. Empresas estatais seguem, em regra, a Lei 13.303/2016."
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Regra essencial",
+     "text": "Direta, autarquias e fundações seguem a Lei 14.133. Estatais seguem, em regra, a Lei 13.303/2016."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Segregação de funções reduz o risco de ocultação de erros. Agente de contratação não é escolhido livremente entre quaisquer pessoas: a regra é servidor efetivo ou empregado de quadro permanente."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Figura",
+         "Quem conduz a licitação",
+         "Base"
+        ],
+        [
+         "Agente de contratação",
+         "Servidor efetivo ou empregado público de quadro permanente, designado para conduzir a fase de seleção",
+         "Lei 14.133, art. 8º"
+        ],
+        [
+         "Pregoeiro",
+         "Agente de contratação na modalidade pregão",
+         "Lei 14.133, art. 8º"
+        ],
+        [
+         "Comissão de contratação",
+         "Colegiado para bens ou serviços especiais, em lugar do agente, nas hipóteses legais",
+         "Lei 14.133, art. 6º, XXXIV e art. 8º"
+        ],
+        [
+         "Fiscal do contrato",
+         "Acompanha a execução e registra ocorrências",
+         "Lei 14.133, art. 117"
+        ]
+       ]
+      },
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Documento",
+         "Função",
+         "Base"
+        ],
+        [
+         "Termo de referência",
+         "Descreve bens e serviços e define a solução contratada",
+         "Lei 14.133, art. 6º, XXIII"
+        ],
+        [
+         "Anteprojeto",
+         "Subsidia a elaboração do projeto básico",
+         "Lei 14.133, art. 6º, XXIV"
+        ],
+        [
+         "Projeto básico",
+         "Detalha a obra ou serviço de engenharia",
+         "Lei 14.133, art. 6º, XXV"
+        ],
+        [
+         "Projeto executivo",
+         "Detalha a execução, com elementos suficientes para a obra",
+         "Lei 14.133, art. 6º, XXVI"
+        ]
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Na contratação integrada, o contratado elabora os projetos básico e executivo. Na semi-integrada, o contratado elabora o projeto executivo, e a administração já tem o projeto básico."
+      },
+      {
+       "type": "reference",
+       "text": "Lei 14.133/2021 — texto compilado (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir numeração dos incisos do art. 6º e do art. 8º no texto vigente; a versão desta edição foi montada a partir do resumo da planilha."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-02-licitacoes-planejamento-habilitacao-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-02",
+   "targetTitle": "Licitações e contratos",
+   "title": "Planejamento, fases e habilitação",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "A licitação segue fases em ordem: preparatória, divulgação do edital, apresentação de propostas ou lances, julgamento, habilitação, recursal e homologação."
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Regra essencial",
+     "text": "O estudo técnico preliminar evidencia o problema e fundamenta a escolha da solução. É ele que justifica o objeto e a contratação."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "A habilitação pode ser antecipada para antes do julgamento, mas somente com motivação e previsão expressa no edital."
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Encerramento do certame",
+     "text": "A autoridade pode devolver o processo para saneamento, revogar por fato superveniente comprovado, anular por ilegalidade insanável ou adjudicar e homologar."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "flowchart",
+       "title": "Fases da licitação (art. 17)",
+       "steps": [
+        {
+         "label": "1. Preparatória",
+         "text": "ETP, termo de referência e análise de riscos."
+        },
+        {
+         "label": "2. Edital",
+         "text": "Divulgação e publicação."
+        },
+        {
+         "label": "3. Propostas ou lances",
+         "text": "Recebimento."
+        },
+        {
+         "label": "4. Julgamento",
+         "text": "Aplicação do critério escolhido."
+        },
+        {
+         "label": "5. Habilitação",
+         "text": "Verificação de requisitos."
+        },
+        {
+         "label": "6. Recurso",
+         "text": "Impugnação e recursos nos prazos legais."
+        },
+        {
+         "label": "7. Homologação",
+         "text": "Ato final da autoridade."
+        }
+       ]
+      },
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Requisito de habilitação",
+         "Exemplo"
+        ],
+        [
+         "Jurídico",
+         "Atos constitutivos"
+        ],
+        [
+         "Técnico",
+         "Atestados e registros"
+        ],
+        [
+         "Fiscal, social e trabalhista",
+         "Regularidade com tributos e encargos"
+        ],
+        [
+         "Econômico-financeiro",
+         "Índices e capital social"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 14.133/2021, arts. 17, 18 e 71 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferido em 2026-11-21 no art. 17 § 1º: antecipação da habilitação exige ato motivado e previsão expressa no edital."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-03-licitacoes-modalidades-criterios-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-03",
+   "targetTitle": "Licitações e contratos",
+   "title": "Modalidades e critérios de julgamento",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "A Lei 14.133 prevê cinco modalidades: pregão, concorrência, concurso, leilão e diálogo competitivo. Convite e tomada de preços não existem nesta lei."
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Critérios",
+     "text": "Menor preço, maior desconto, melhor técnica ou conteúdo artístico, técnica e preço, maior lance e maior retorno econômico."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Convite e tomada de preços pertencem à lei anterior (8.666/1993). Se a questão as cita como modalidades atuais, a alternativa está errada."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Modalidade",
+         "Uso principal",
+         "Base"
+        ],
+        [
+         "Pregão",
+         "Bens e serviços comuns, inclusive serviço comum de engenharia",
+         "Lei 14.133, art. 6º, XLI"
+        ],
+        [
+         "Concorrência",
+         "Bens e serviços especiais e obras e serviços de engenharia, nas hipóteses legais",
+         "Lei 14.133, art. 28"
+        ],
+        [
+         "Concurso",
+         "Trabalho técnico, científico ou artístico",
+         "Lei 14.133, art. 28"
+        ],
+        [
+         "Leilão",
+         "Alienação de bens",
+         "Lei 14.133, art. 28"
+        ],
+        [
+         "Diálogo competitivo",
+         "Desenvolvimento de soluções, nas hipóteses legais",
+         "Lei 14.133, art. 28"
+        ]
+       ]
+      },
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Modalidade ou contrato",
+         "Critério típico"
+        ],
+        [
+         "Pregão",
+         "Menor preço ou maior desconto"
+        ],
+        [
+         "Leilão",
+         "Maior lance"
+        ],
+        [
+         "Contrato de eficiência",
+         "Maior retorno econômico"
+        ]
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "A indicação de marca em compras exige justificativa e enquadramento em hipótese do art. 41."
+      },
+      {
+       "type": "reference",
+       "text": "Lei 14.133/2021, arts. 6º, 28, 33 e 41 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir o rol de modalidades e a redação do art. 33 no texto vigente antes de publicar."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-04-licitacoes-contratacao-direta-alienacoes-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-04",
+   "targetTitle": "Licitações e contratos",
+   "title": "Contratação direta e alienações",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "A contratação direta se divide em inexigibilidade, quando a competição é inviável, e dispensa, quando a lei a autoriza expressamente. Ambas exigem processo instruído e justificativa de preço."
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Regra essencial",
+     "text": "Para emergência, a contratação se restringe ao necessário para enfrentar a situação, respeitado o prazo legal."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Alienação exige interesse público justificado e avaliação. Leilão é a regra, com hipóteses legais de dispensa de licitação."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Figura",
+         "Quando cabe",
+         "Base"
+        ],
+        [
+         "Inexigibilidade",
+         "Competição inviável",
+         "Lei 14.133, art. 74"
+        ],
+        [
+         "Dispensa",
+         "Hipótese prevista em lei, inclusive por valor ou emergência",
+         "Lei 14.133, art. 75"
+        ]
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Para fornecedor exclusivo, é preciso comprovar a exclusividade e evitar preferência por marca."
+      },
+      {
+       "type": "paragraph",
+       "text": "Os valores de dispensa por limite são atualizados por decreto. Confirmar o valor vigente na data da prova."
+      },
+      {
+       "type": "reference",
+       "text": "Lei 14.133/2021, arts. 74, 75 e 76 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir a exigência de autorização legislativa para alienação de imóveis: o resumo da planilha a menciona e o texto vigente precisa ser verificado."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-05-licitacoes-formalizacao-garantias-riscos-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-05",
+   "targetTitle": "Licitações e contratos",
+   "title": "Formalização, garantias e alocação de riscos",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "O contrato se formaliza com publicação no PNCP, que é condição de eficácia do contrato e de seus aditamentos."
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Eficácia",
+     "text": "Publicação no PNCP é condição de eficácia do contrato e de aditamentos. Confirmar o prazo legal de publicação no texto vigente."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "A garantia é opcional em regra e exigida só quando justificada. Não é obrigatória em todo contrato, e o percentual máximo depende de justificativa."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Garantia",
+         "Limite",
+         "Base"
+        ],
+        [
+         "Garantia contratual padrão",
+         "Até 5% do valor do contrato",
+         "Lei 14.133, art. 96"
+        ],
+        [
+         "Garantia reforçada",
+         "Até 10%, com justificativa, em contratos de alta complexidade técnica ou valor",
+         "Lei 14.133, art. 96, § 3º"
+        ]
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "A matriz de riscos distribui os riscos previsíveis entre contratante e contratado. O evento de responsabilidade do contratado não se transfere ao contratante sem previsão."
+      },
+      {
+       "type": "reference",
+       "text": "Lei 14.133/2021, arts. 94, 96 e 103 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir o prazo de publicação e o percentual das garantias no texto vigente."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-06-licitacoes-prerrogativas-execucao-fim-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-06",
+   "targetTitle": "Licitações e contratos",
+   "title": "Prerrogativas, execução e fim do contrato",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "A administração tem prerrogativas no contrato administrativo, como modificar unilateralmente, fiscalizar, aplicar sanções e extinguir o contrato."
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Extinção",
+     "text": "O contrato se extingue pelo término da vigência, pela rescisão ou por ato consensual, nas hipóteses legais."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Prerrogativa não significa arbitrariedade: toda modificação e sanção depende de motivação e de contraditório."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Prerrogativa",
+         "Efeito prático"
+        ],
+        [
+         "Modificação unilateral",
+         "Ajusta o objeto para o interesse público, com equilíbrio econômico-financeiro"
+        ],
+        [
+         "Fiscalização",
+         "Acompanhamento pelo fiscal do contrato"
+        ],
+        [
+         "Sanções",
+         "Aplicadas com contraditório e ampla defesa"
+        ],
+        [
+         "Extinção",
+         "Pelo término da vigência ou por rescisão, nas hipóteses legais"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 14.133/2021, arts. 104, 117 e 137 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir os incisos do art. 104 e as hipóteses de rescisão do art. 137 no texto vigente."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-07-licitacoes-impugnacao-recursos-defesa-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-07",
+   "targetTitle": "Licitações e contratos",
+   "title": "Impugnação, recursos e linhas de defesa",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "A impugnação e o pedido de esclarecimento permitem questionar o edital. Os recursos atacam atos do julgamento e da habilitação, dentro de prazos próprios."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Prazos de impugnação e de recurso são contados em dias úteis e têm início em momentos diferentes. Não confundir a data da abertura com a data da intenção de recorrer."
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Garantias",
+     "text": "Quem se sente prejudicado tem direito ao contraditório e à ampla defesa antes da sanção."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Instrumento",
+         "Prazo",
+         "Base"
+        ],
+        [
+         "Impugnação ao edital",
+         "Até 3 dias úteis antes da data de abertura",
+         "Lei 14.133, art. 164"
+        ],
+        [
+         "Pedido de esclarecimento",
+         "Até 3 dias úteis antes da data de abertura",
+         "Lei 14.133, art. 164"
+        ],
+        [
+         "Recurso",
+         "3 dias úteis após a intenção de recorrer",
+         "Lei 14.133, art. 165"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 14.133/2021, arts. 164 a 168 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir os prazos e o efeito dos recursos no texto vigente, principalmente o efeito suspensivo."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
+  },
+  {
+   "id": "admin-08-licitacoes-estatais-regime-cartoes",
+   "subject": "Direito Administrativo",
+   "targetId": "admin-08",
+   "targetTitle": "Licitações e contratos",
+   "title": "Estatais: regime e contratação",
+   "status": "draft",
+   "updateType": "esquema",
+   "source": "(Claude) Mesmo conteúdo do esquema aprovado, reorganizado em cartão (topo curto + explicação detalhada); não conferido de novo",
+   "version": 1,
+   "updatedAt": "2026-11-23",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "As empresas públicas e sociedades de economia mista seguem a Lei 13.303/2016, com licitação própria e hipóteses de contratação direta distintas das da Lei 14.133."
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Preço",
+     "text": "Urgência não dispensa a justificativa do preço. Sobrepreço ou superfaturamento continuam sendo ilícitos."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Estatais não seguem a Lei 14.133 como regra. Confundir os dois regimes é a pegadinha mais comum."
+    },
+    {
+     "type": "detail",
+     "title": "Ver explicação detalhada",
+     "blocks": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "Tema",
+         "Empresas estatais (Lei 13.303/2016)",
+         "Administração direta (Lei 14.133/2021)"
+        ],
+        [
+         "Regime",
+         "Licitação própria, com exceções legais",
+         "Licitação regida pela Lei 14.133"
+        ],
+        [
+         "Contratação direta",
+         "Hipóteses próprias",
+         "Inexigibilidade e dispensa do art. 74 e 75"
+        ],
+        [
+         "Preço",
+         "Justificativa de preço obrigatória",
+         "Justificativa de preço obrigatória"
+        ]
+       ]
+      },
+      {
+       "type": "reference",
+       "text": "Lei 13.303/2016, arts. 28 a 30 (Planalto)",
+       "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm"
+      },
+      {
+       "type": "callout",
+       "kind": "warning",
+       "title": "Pendência de conferência",
+       "text": "Conferir as hipóteses de dispensa e a regra de sobrepreço do art. 30 no texto vigente."
+      }
+     ]
+    }
+   ],
+   "flashcards": []
   }
  ]
 }

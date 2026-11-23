@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-23 — Claude (Licitações: 8 rascunhos em formato de cartão)
+
+- Pedido: Direito Administrativo no formato cartão da apostila de Tributário (topo curto, explicação detalhada ao clicar).
+- Feito: 8 rascunhos (`draft`) `admin-01-…-cartoes` a `admin-08-…-cartoes`, a partir dos esquemas aprovados da planilha. Topo: 1º parágrafo e callouts "Regra essencial" e "Pegadinha". Restante em `detail` ("Ver explicação detalhada"). Conteúdo mantido; nada apagado.
+- Não feito: os 8 esquemas `admin-rasc-*` (rascunhos por questão, já aprovados no status) não foram reorganizados. Aprovação e merge dependem de autorização.
+- Arquivos: source-content/study-knowledge.json.
+
 ## 2026-11-23 — Claude (Direito Administrativo: quadros do Drive como rascunhos de esquema)
 
 - Pedido: esquema de Direito Administrativo em cartões curtos, com explicação detalhada ao clicar, como na apostila de Tributário.
