@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-23 — Claude (Direito Administrativo: 33 cartões aprovados para o site)
+
+- Autorização do usuário: aprovar os cartões.
+- Feito: 33 cartões `…-cartoes` (8 de licitações e 25 de admin-09 a admin-33) mudaram para `approved`. O conteúdo é o mesmo dos esquemas já aprovados da planilha; só a forma mudou.
+- Não aprovados: os 4 rascunhos do Drive (poderes, atos, hierárquico, polícia). Não foram conferidos com a legislação atual e pedem revisão jurídica (Tema 532 do STF, CTN art. 78).
+- Atenção: os esquemas originais continuam aprovados ao lado dos cartões, então o site mostra os dois. Não alterei os originais.
+- Arquivos: source-content/study-knowledge.json.
+
 ## 2026-11-23 — Claude (Direito Administrativo: 25 rascunhos em formato de cartão, admin-09 a admin-33)
 
 - Pedido: continuar o formato cartão nos demais tópicos de Direito Administrativo.
