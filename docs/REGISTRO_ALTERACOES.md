@@ -3,6 +3,16 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-22 — Claude (Apostila de Tributário: volumes corrigidos, cartão de RMIT e revisão rápida)
+
+- Problema: o menu da apostila (Lei Kandir × Reforma, LC 236, LC 227, IPVA, ITCMD, RMIT, Lei Ordinária × LC, Ações) separava os assuntos por posição no arquivo. Depois que seções foram inseridas, os assuntos caíram nos volumes errados (ex.: 2.11 e convênios em RMIT, 3.2 e 3.4.2 em IPVA/ITCMD, 6.2 em LC 236) e a RMIT não tinha cartão próprio.
+- Feito: cada seção passa a ter o volume gravado em `apostila-data.json` (IPVA 3.3 a 3.3.3; ITCMD 3.5 a 3.5.4; LC 227 3.6 a 3.6.4, 4.3, 4.4 e 6.2; LC 236 6.3 a 6.8 e o mapa do CTN; RMIT: cartão novo, 2.11 e 11 a 11.9; o restante em Lei Kandir × Reforma). `apostila.js` não usa mais a posição.
+- Revisão rápida: 74 seções e materiais complementares ganharam, no topo, o cartão "Revisão rápida" (quadro Base nacional / Estadual e callouts Atenção, Decorar, Revisar), tirado da Parte I do arquivo `apostila-revisao-rapida.md` (os mesmos documentos do projeto). Nenhum bloco original foi alterado; a ordem das seções foi mantida.
+- RMIT: seção nova `rmit-regra-matriz` (teoria geral, fora do material da apostila, não conferida com doutrina). A tabela "Onde cada critério aparece" é só remissão para navegar.
+- Não feito: a Parte II (cobertura artigo a artigo, com marcas "conferir") não entrou no site. Os cartões repetem a redação da revisão rápida, sem nova conferência com a legislação oficial.
+- Arquivos: source-content/apostila-data.json, apostila.js, apostila.html (cache v111; dados v20261122).
+- Pendências: conferência visual no site; `review-blocks.test.mjs` já falhava antes (conta 81 seções; há 91).
+
 ## 2026-11-22 — Claude (Direito Tributário Normativo: lote CF/CTN, competência, responsabilidade e repartição)
 
 - Conferidas 26 questões no guia `lote-cf-ctn-competencia-responsabilidade`; total 484 conferências e 119 guias. Nenhum gabarito foi alterado.

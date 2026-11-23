@@ -19,14 +19,7 @@ const volumes=[
 const VOLKEY='mapa-tributario-volume-v1';
 let selectedVolume=localStorage.getItem(VOLKEY)||'comparativo';
 if(!volumes.some(v=>v.id===selectedVolume))selectedVolume='comparativo';
-function volumeFor(s){if(s.volume&&volumes.some(v=>v.id===s.volume))return s.volume;if(s.volume==='reserva'||s.id.startsWith('reserva-lei-'))return 'reserva';const t=normalize(s.title),n=Number(s.originalIndex);
- if(n>=60||n===14)return 'rmit';
- if(n>=19&&n<=22)return 'ipva';
- if(n>=26&&n<=30)return 'itcmd';
- if(n===47||n>=49&&n<=53)return 'lc236';
- if(n>=31&&n<=35||n===46)return 'lc227';
- return 'comparativo';
-}
+function volumeFor(s){if(s.volume&&volumes.some(v=>v.id===s.volume))return s.volume;if(s.id.startsWith('reserva-lei-'))return 'reserva';return 'comparativo';}
 function visibleSections(){return sections.filter(s=>volumeFor(s)===selectedVolume)}
 function chooseVolume(id,focusFirst=true){if(!volumes.some(v=>v.id===id))return;selectedVolume=id;localStorage.setItem(VOLKEY,id);const selected=visibleSections();if(focusFirst&&selected.length)current=selected[0];$('bookVolumeTitle').textContent=volumes.find(v=>v.id===id).title;document.querySelectorAll('[data-volume]').forEach(b=>{b.classList.toggle('selected',b.dataset.volume===id);b.setAttribute('aria-pressed',String(b.dataset.volume===id))});renderBook();renderOutline();if(focusFirst&&selected.length){history.replaceState(null,'','#'+selected[0].id);$(selected[0].id)?.scrollIntoView({block:'start'});}}
 function renderVolumes(){const nav=$('volumes');nav.replaceChildren(...volumes.map(v=>{const b=document.createElement('button');b.type='button';b.dataset.volume=v.id;b.textContent=v.title;b.addEventListener('click',()=>chooseVolume(v.id));return b;}));}
@@ -82,7 +75,7 @@ $('menu').addEventListener('click',()=>openMenu(!document.body.classList.contain
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&document.body.classList.contains('nav-open')){openMenu(false);$('menu').focus();}});
 window.addEventListener('hashchange',()=>sections.length&&jump(location.hash.slice(1)));window.addEventListener('scroll',trackScroll,{passive:true});window.addEventListener('pagehide',save);
 window.addEventListener('storage',e=>{if(e.key===KEY){progress=loadProgress();renderOutline();updateReadStates();}});
-async function init(){try{const response=await fetch('apostila-data.json?v=20261031');if(!response.ok)throw Error('load');const data=await response.json();if(!Array.isArray(data.sections)||!data.sections.length)throw Error('empty');sections=data.sections.map((s,originalIndex)=>({...s,originalIndex}));updateChangeHistory();progress=loadProgress();renderVolumes();const target=sections.find(s=>s.id===location.hash.slice(1));if(target)selectedVolume=volumeFor(target);const initial=target||visibleSections().find(s=>s.id===progress.last)||visibleSections()[0];current=initial;chooseVolume(selectedVolume,false);if(initial!==visibleSections()[0])requestAnimationFrame(()=>jump(initial.id));}catch{$('article').replaceChildren();$('loadError').hidden=false;$('progressCount').textContent='Conteúdo indisponível';}}
+async function init(){try{const response=await fetch('apostila-data.json?v=20261122');if(!response.ok)throw Error('load');const data=await response.json();if(!Array.isArray(data.sections)||!data.sections.length)throw Error('empty');sections=data.sections.map((s,originalIndex)=>({...s,originalIndex}));updateChangeHistory();progress=loadProgress();renderVolumes();const target=sections.find(s=>s.id===location.hash.slice(1));if(target)selectedVolume=volumeFor(target);const initial=target||visibleSections().find(s=>s.id===progress.last)||visibleSections()[0];current=initial;chooseVolume(selectedVolume,false);if(initial!==visibleSections()[0])requestAnimationFrame(()=>jump(initial.id));}catch{$('article').replaceChildren();$('loadError').hidden=false;$('progressCount').textContent='Conteúdo indisponível';}}
 $('article').addEventListener('study-content-edited',event=>{const heading=event.target;if(heading.tagName!=='H2')return;const section=sections.find(s=>s.id===heading.closest('.book-section')?.id);if(section){section.title=heading.textContent.trim();renderOutline();}});
 init();
 
