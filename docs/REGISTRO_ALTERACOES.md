@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-23 — Claude (Base de cálculo e arbitramento: Lei Kandir × LC 214 no Apostila)
+
+- Feito: nova seção "16-A" no Apostila de Tributário, logo após o quadro Kandir × LC 214 × LC 227. Traz o comparativo de base de cálculo (art. 15 e § 2º da Kandir; art. 12, § 4º da LC 214), o arbitramento (art. 18 × art. 13) e a tabela "o que memorizar", a partir do resumo enviado pelo usuário.
+- Marcado como NÃO conferido: os artigos da LC 87 (13, 15, 16, 18) e da LC 214 (12, 13). A conferência no texto oficial não foi feita (acesso ao Planalto negado nesta sessão).
+- Arquivos: source-content/apostila-data.json, docs/REGISTRO_ALTERACOES.md.
+- Pendências: conferir os artigos no Planalto; decidir se a seção vai para cartão de esquema; publicação aguardando autorização.
+
 ## 2026-11-23 — Claude (Anotações de revisão no Apostila de Tributário)
 
 - Feito: cada tópico da apostila ganhou um botão "?" que abre a caixa "O que eu tenho que revisar neste tópico". O texto fica salvo neste navegador (localStorage, chave mapa-tributario-revisao-v1). O botão fica amarelo quando há anotação.

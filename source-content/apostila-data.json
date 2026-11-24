@@ -8411,6 +8411,172 @@
    ]
   },
   {
+   "id": "base-arbitramento-kandir-214",
+   "title": "16-A. Base de cálculo e arbitramento: Lei Kandir × LC 214",
+   "level": 1,
+   "volume": "comparativo",
+   "blocks": [
+    {
+     "type": "callout",
+     "kind": "warning",
+     "title": "Como ler e o que foi conferido",
+     "text": "Quadro montado a partir de resumo enviado pelo usuário, com citações ao Portal da Câmara e a Fontes Reforma. Os artigos da LC 87 (arts. 13, 15, 16 e 18) e da LC 214 (arts. 12 e 13) ainda NÃO foram conferidos no texto oficial. Não usar como certo até a conferência."
+    },
+    {
+     "type": "table",
+     "title": "Comparativo direto",
+     "rows": [
+      [
+       "Critério",
+       "Lei Kandir — ICMS",
+       "LC 214 — IBS/CBS"
+      ],
+      [
+       "Base de cálculo normal",
+       "Valor da operação",
+       "Valor da operação"
+      ],
+      [
+       "Falta do valor da mercadoria",
+       "Critérios específicos conforme o remetente",
+       "Valor de mercado em operações comparáveis"
+      ],
+      [
+       "Produtor, extrator ou gerador",
+       "Preço corrente no mercado atacadista local ou regional",
+       "Regra geral do valor de mercado"
+      ],
+      [
+       "Industrial",
+       "Preço FOB do estabelecimento industrial à vista",
+       "Regra geral do valor de mercado"
+      ],
+      [
+       "Comerciante",
+       "Preço FOB do estabelecimento comercial à vista, na venda a comerciantes ou industriais",
+       "Regra geral do valor de mercado"
+      ],
+      [
+       "Critério especial de 75% do varejo",
+       "Previsto no art. 15, § 2º",
+       "Não existe como regra geral correspondente"
+      ],
+      [
+       "Arbitramento fiscal",
+       "Art. 18",
+       "Art. 13"
+      ],
+      [
+       "Falta de preço de mercado no arbitramento",
+       "A LC 87 não apresenta lista subsidiária equivalente à da LC 214",
+       "Critérios subsidiários expressos no art. 13"
+      ]
+     ]
+    },
+    {
+     "type": "paragraph",
+     "text": "Falta do valor na Lei Kandir (art. 15). Para industriais e comerciantes, o § 1º manda usar, nesta ordem: 1) o preço efetivamente cobrado pelo remetente na operação mais recente; 2) na falta de venda anterior, o preço corrente da mercadoria ou similar no mercado atacadista local ou, na falta dele, regional.",
+     "source": false
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Art. 15, § 2º — 75% do varejo",
+     "text": "Se o comerciante não tiver vendas para outros comerciantes ou industriais, ou não houver mercadoria similar, a base é 75% do preço de venda corrente no varejo. Exemplo do material: varejo de R$ 200 → base de R$ 150. Regra só da Kandir, em hipótese específica."
+    },
+    {
+     "type": "paragraph",
+     "text": "Falta do valor na LC 214 (art. 12, § 4º, segundo o material). A regra é o valor de mercado, entendido como o praticado em operações comparáveis entre partes não relacionadas. Exemplo do material: sem preço determinado, operações comparáveis indicam R$ 150, e a base, em princípio, é R$ 150, sem a classificação de remetente do art. 15 da Kandir.",
+     "source": false
+    },
+    {
+     "type": "table",
+     "title": "Arbitramento fiscal: Kandir × LC 214",
+     "rows": [
+      [
+       "Ponto",
+       "Lei Kandir — art. 18",
+       "LC 214 — art. 13"
+      ],
+      [
+       "Quando o Fisco arbitra",
+       "Declarações, esclarecimentos ou documentos omissos ou que não merecem fé.",
+       "Hipóteses próprias, incluindo ausência de documento fiscal ou documentação inidônea, valor declarado notoriamente inferior ao de mercado e informações omissas, conflitantes ou sem credibilidade."
+      ],
+      [
+       "Método",
+       "Não detalha uma sequência nacional de métodos.",
+       "1) Valor de mercado (operações comparáveis entre partes não relacionadas). 2) Se não houver: 2A custo do bem ou serviço acrescido das despesas indispensáveis ou do lucro bruto da escrituração; 2B preços de referência (órgão competente, preço sugerido pelo fabricante ou importador, preço divulgado por entidade representativa do setor)."
+      ],
+      [
+       "Contestação",
+       "Avaliação contraditória administrativa ou judicial.",
+       "A verificar no texto oficial."
+      ]
+     ]
+    },
+    {
+     "type": "callout",
+     "kind": "warning",
+     "title": "A confirmar no texto oficial",
+     "text": "O material diz que 2A e 2B são alternativas subsidiárias sem ordem obrigatória no art. 13, parágrafo único. Ainda não conferido. Também não conferido: art. 12, § 4º da LC 214 como fonte da regra de valor de mercado."
+    },
+    {
+     "type": "table",
+     "title": "O que memorizar (FCC, FGV, Cebraspe)",
+     "rows": [
+      [
+       "Pergunta da banca",
+       "Lei Kandir",
+       "LC 214"
+      ],
+      [
+       "Qual artigo trata da falta de valor da mercadoria?",
+       "Art. 15",
+       "Art. 12, § 4º (a confirmar)"
+      ],
+      [
+       "Qual artigo trata do arbitramento fiscal?",
+       "Art. 18",
+       "Art. 13"
+      ],
+      [
+       "A categoria do remetente importa na regra de falta de valor?",
+       "Sim",
+       "Não como critério geral"
+      ],
+      [
+       "Existe regra de 75% do varejo?",
+       "Sim, em hipótese específica",
+       "Não nessa disciplina geral"
+      ],
+      [
+       "Qual é a referência inicial do arbitramento na LC 214?",
+       "—",
+       "Valor de mercado"
+      ],
+      [
+       "Há métodos subsidiários expressos para arbitramento?",
+       "Não no art. 18",
+       "Sim, no art. 13 (a confirmar)"
+      ]
+     ]
+    },
+    {
+     "type": "callout",
+     "kind": "rule",
+     "title": "Regra para memorizar",
+     "text": "Lei Kandir → produtor, industrial ou comerciante. LC 214 → operações comparáveis entre partes não relacionadas."
+    },
+    {
+     "type": "callout",
+     "kind": "danger",
+     "title": "Pegadinha",
+     "text": "Não confundir o critério de 75% do varejo da Lei Kandir com o arbitramento do IBS/CBS. A LC 214 não manda o Fisco usar 75% do varejo automaticamente quando não encontrar valor de mercado."
+    }
+   ]
+  },
+  {
    "id": "tabela-ipva-itcmd",
    "title": "16. Quadro: IPVA e ITCMD, antes × EC 132/137 × LC 227",
    "level": 1,
