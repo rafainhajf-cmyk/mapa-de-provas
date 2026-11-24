@@ -12,7 +12,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -134,7 +134,32 @@
           "text": "Prazo de 10/12 para liquidação da ARO: aparece nas respostas, não no texto consultado."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Quais são os prazos federais de envio e devolução das leis orçamentárias?",
+          "LDO: 15/04 e 17/07. PPA e LOA: 31/08 e 22/12 (ADCT, art. 35, § 2º; CF, art. 57)."
+        ],
+        [
+          "Quais são os percentuais de alerta e prudencial da LRF para o limite de pessoal?",
+          "Alerta de 90% e prudencial de 95% do limite (LRF, arts. 20 e 22)."
+        ],
+        [
+          "Qual é o prazo para contratar ARO e qual o impedimento no último ano de mandato?",
+          "Contratação a partir de 10/01 (LRF, art. 38, I). ARO vedada no último ano de mandato (art. 38, IV, b)."
+        ],
+        [
+          "Alienação de ativos pode financiar despesa corrente?",
+          "Não, em regra. A receita de capital não pode financiar despesa corrente, salvo lei destinando os recursos à previdência (LRF, art. 44)."
+        ],
+        [
+          "O que a LC 224/2025 alterou na renúncia de receita?",
+          "Alterou a LRF, inclusive o art. 14. A regra de renúncia exige impacto nos dois exercícios seguintes e atendimento à LDO. Confira a numeração no texto atualizado."
+        ],
+        [
+          "A LC 224/2025 vale igualmente para estados e municípios?",
+          "Não há confirmação. Ela trata de benefícios concedidos no âmbito da União; verifique a aplicação aos demais entes."
+        ]
+      ]
     },
     {
       "id": "afo-01-funcoes-tecnicas",
@@ -145,7 +170,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -325,7 +350,40 @@
           "text": "A mesma medida pode exercer mais de uma função. Se mantém emprego e renda dos mais pobres, há componentes estabilizador e distributivo. A LOA prevê receitas e fixa despesas. Essa fórmula, sozinha, não identifica orçamento-programa. Neste, a dificuldade de identificar produtos finais e medir desempenho é uma crítica recorrente. Participação popular orienta prioridades dentro do processo orçamentário e convive com as competências do Executivo e do Legislativo. Nas parcerias com OSCs estudadas no material, aparecem controle de resultados e uso de tecnologia da informação."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Qual função é associada à oferta de bens e serviços públicos e à correção de falhas de mercado?",
+          "Alocativa."
+        ],
+        [
+          "Qual função é associada à redistribuição de renda e à redução de desigualdades?",
+          "Distributiva."
+        ],
+        [
+          "Qual função é associada a emprego, preços e nível de atividade?",
+          "Estabilizadora."
+        ],
+        [
+          "Uma mesma medida pode cumprir mais de uma função?",
+          "Sim. Dizer que cumpre uma função 'exclusivamente' torna a afirmação falsa."
+        ],
+        [
+          "Orçamento-programa vincula recursos a quê?",
+          "A programas, objetivos, metas, produtos e indicadores. Previsão de receitas e fixação de despesas, sozinhas, não o caracterizam."
+        ],
+        [
+          "Qual técnica exige justificar todas as despesas a cada ciclo?",
+          "Base zero. Não exige superávit e não autoriza descumprir a LDO."
+        ],
+        [
+          "Orçamento tradicional foca o quê?",
+          "Insumos, dotações e objetos de gasto."
+        ],
+        [
+          "O orçamento participativo torna vinculante toda demanda?",
+          "Não. Convive com as competências do Executivo e do Legislativo."
+        ]
+      ]
     },
     {
       "id": "afo-02-principios",
@@ -336,7 +394,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -541,7 +599,48 @@
           "text": "Exclusividade                       A LOA pode autorizar créditos suplementares e operações de crédito, inclusive ARO. Crédito especial segue autorização própria."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Quantas LOAs cada ente tem, e três esferas da LOA federal significam três leis?",
+          "Uma LOA por ente. Não: fiscal, seguridade e investimento podem compor a mesma lei."
+        ],
+        [
+          "Entradas temporárias, como caução em dinheiro, entram na universalidade?",
+          "Não. Caução em dinheiro é extraorçamentária."
+        ],
+        [
+          "Qual princípio veda orçar a receita descontando despesas?",
+          "Orçamento bruto (Lei 4.320, art. 6º). Não se abate tarifa bancária nem se desconta despesa da receita."
+        ],
+        [
+          "Atraso na aprovação da LOA altera o exercício a que ela se refere?",
+          "Não. A anualidade vincula o orçamento a um exercício financeiro."
+        ],
+        [
+          "Qual é a ressalva da exclusividade, e o crédito especial está nela?",
+          "Admite autorização para créditos suplementares e operações de crédito, inclusive ARO (CF, art. 165, § 8º). Crédito especial segue autorização própria."
+        ],
+        [
+          "A vedação de vinculação do art. 167, IV alcança taxas e contribuições?",
+          "Não. Alcança impostos; não há vedação geral a vincular taxas e contribuições."
+        ],
+        [
+          "Quais são as exceções constitucionais à não vinculação?",
+          "Repartições tributárias, saúde, ensino, administração tributária, garantias a ARO e garantias ou contragarantias à União (art. 167, § 4º)."
+        ],
+        [
+          "Dotações globais são admitidas?",
+          "Em regra, não. São vedadas, com a ressalva legal dos programas especiais de trabalho."
+        ],
+        [
+          "Receita sem previsão inicial deixa de ser orçamentária?",
+          "Não. Continua sendo orçamentária."
+        ],
+        [
+          "Alíquota de tributo pode mudar por previsão na LOA?",
+          "Não. Só por instrumento tributário próprio."
+        ]
+      ]
     },
     {
       "id": "afo-03-ppa-ldo-loa",
@@ -552,7 +651,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 3,
+      "version": 4,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -747,7 +846,48 @@
           "text": "LDO orienta a LOA. A inversão entre PPA e LDO altera a relação. Cabe a lei complementar disciplinar exercício financeiro, vigência, prazos, elaboração e organização das três leis."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Qual é o papel de cada instrumento: PPA, LDO e LOA?",
+          "PPA planeja (diretrizes, objetivos e metas regionalizados), LDO orienta a LOA e a LOA estima a receita e fixa a despesa."
+        ],
+        [
+          "Qual é o prazo do PPA e o da LDO e da LOA?",
+          "O PPA é quadrienal; LDO e LOA são anuais (base: ADCT, art. 35, § 2º, e CF, art. 165, § 1º)."
+        ],
+        [
+          "Quais são os prazos federais de envio e devolução da LDO?",
+          "Envio até 15/04 e devolução para sanção até 17/07 (ADCT, art. 35, § 2º)."
+        ],
+        [
+          "Quais são os prazos federais da LOA e do PPA no 1º ano do mandato?",
+          "Envio até 31/08 e devolução para sanção até 22/12 (ADCT, art. 35, § 2º)."
+        ],
+        [
+          "Quem disciplina exercício, vigência, prazos e elaboração das três leis?",
+          "Lei complementar (CF, art. 165, § 9º). Cada uma das três leis é instituída por lei ordinária própria (art. 165, caput)."
+        ],
+        [
+          "O projeto de LOA traz qual demonstrativo e qual reserva?",
+          "Demonstrativo regionalizado dos efeitos de renúncias e benefícios (art. 165, § 6º) e reserva de contingência, com compatibilidade com o Anexo de Metas Fiscais da LDO (LRF, art. 5º)."
+        ],
+        [
+          "Quem disciplina o montante e a utilização da reserva de contingência?",
+          "A LDO. A reserva consta da LOA, mas a LDO disciplina seu montante e sua utilização."
+        ],
+        [
+          "Quem cria cargos: a LDO ou a lei específica?",
+          "A lei específica. A LDO apenas autoriza a criação de cargos (art. 169)."
+        ],
+        [
+          "Investimento que ultrapassa um exercício precisa de quê?",
+          "Inclusão prévia no PPA ou lei que autorize sua inclusão (CF, art. 167, § 1º)."
+        ],
+        [
+          "Para estados e municípios, o calendário federal se aplica diretamente?",
+          "Não. Seguem a Constituição estadual ou a Lei Orgânica."
+        ]
+      ]
     },
     {
       "id": "afo-04-emendas-loa",
@@ -758,7 +898,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 3,
+      "version": 4,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -1006,7 +1146,48 @@
           "text": "presidencial Transposição e                      A exceção de ciência, tecnologia e inovação permite ato do Executivo nos limites remanejamento                       do art. 167, § 5º. Não autoriza trocas genéricas fora desses projetos."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Qual é o teto das emendas individuais federais e a divisão entre deputados e senadores?",
+          "2% da RCL do exercício anterior ao encaminhamento do projeto; 1,55% para deputados e 0,45% para senadores."
+        ],
+        [
+          "Qual parcela das emendas individuais deve ir para saúde?",
+          "Metade, para ações e serviços públicos de saúde."
+        ],
+        [
+          "Qual é o limite de execução das emendas de bancada estadual ou do DF?",
+          "Até 1% da RCL realizada no exercício anterior (CF, art. 166, § 12), com decisão registrada em ata e observância da LC 210."
+        ],
+        [
+          "Quantas emendas por bancada a LC 210 admite?",
+          "Até 8, com até 3 de continuidade de obras fora desse cômputo."
+        ],
+        [
+          "As emendas de comissão têm garantia constitucional de execução?",
+          "Não. Têm objeto de interesse nacional e não têm a garantia das individuais e de bancada."
+        ],
+        [
+          "O que é a transferência especial (art. 166-A)?",
+          "Repasse direto, sem convênio, a programações finalísticas do Executivo beneficiado, com pelo menos 70% em despesas de capital."
+        ],
+        [
+          "A finalidade definida dispensa convênio?",
+          "Não, em regra. Segue por instrumento de cooperação (convênio, contrato de repasse ou congênere). Só a transferência especial dispensa esse instrumento."
+        ],
+        [
+          "Pode a transferência especial pagar pessoal ou serviço da dívida?",
+          "Não. É vedado usar recursos para despesa com pessoal e encargos sociais ou para encargos do serviço da dívida."
+        ],
+        [
+          "Transposição, remanejamento e transferência dependem de quê, em geral?",
+          "De autorização legislativa prévia. Exceção: ciência, tecnologia e inovação (art. 167, § 5º), por ato do Executivo."
+        ],
+        [
+          "Até quando o Presidente pode propor alteração ao PLOA?",
+          "Até o início, na comissão mista, da votação da parte que se quer modificar."
+        ]
+      ]
     },
     {
       "id": "afo-05-ciclo-fundos",
@@ -1017,7 +1198,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -1232,7 +1413,40 @@
           "text": "Estatais não fogem do controle externo por adotarem regime privado."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Quais são as quatro fases do ciclo orçamentário?",
+          "Elaboração, apreciação legislativa, execução e controle/avaliação."
+        ],
+        [
+          "Dotação autoriza pagamento?",
+          "Não diretamente. Autoriza a despesa; o pagamento depende da execução e da disponibilidade financeira."
+        ],
+        [
+          "Qual é o destino do saldo positivo de fundo especial?",
+          "Passa ao exercício seguinte, a crédito do mesmo fundo (art. 73), salvo regra contrária na lei instituidora."
+        ],
+        [
+          "Aplicar o saldo de fundo exige o quê?",
+          "Dotação na LOA ou crédito adicional, mesmo havendo saldo financeiro."
+        ],
+        [
+          "Fundo contábil tem personalidade jurídica?",
+          "Não. É segregação de recursos. Fundação pública é entidade personificada."
+        ],
+        [
+          "Quem disciplina as condições gerais dos fundos, e quem define receitas e objetivos?",
+          "A lei complementar disciplina as condições gerais; a lei instituidora define receitas e objetivos específicos."
+        ],
+        [
+          "No sistema federal, quem orienta e quem executa?",
+          "O órgão central orienta; os setoriais coordenam; as unidades orçamentárias executam ou detalham as programações."
+        ],
+        [
+          "Estatal de regime privado escapa do controle externo?",
+          "Não."
+        ]
+      ]
     },
     {
       "id": "afo-06-creditos-adicionais",
@@ -1243,7 +1457,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -1480,7 +1694,52 @@
           "text": "Fontes com recortes                 Superávit financeiro do balanço patrimonial anterior × excesso arrecadado no diferentes                          exercício corrente. Cobrar dívida ativa, isoladamente, não prova excesso."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Insuficiência de dotação gera qual crédito?",
+          "Suplementar."
+        ],
+        [
+          "Falta de dotação específica gera qual crédito?",
+          "Especial."
+        ],
+        [
+          "Despesa urgente e imprevisível gera qual crédito?",
+          "Extraordinário, como guerra, comoção interna e calamidade pública."
+        ],
+        [
+          "Imprevisibilidade basta para o extraordinário?",
+          "Não. É preciso também urgência."
+        ],
+        [
+          "Suplementar e especial exigem o quê antes de abrir?",
+          "Autorização legislativa prévia e fonte disponível e não comprometida (Lei 4.320, art. 43)."
+        ],
+        [
+          "O extraordinário exige autorização legislativa prévia?",
+          "Não, nem demonstração de fonte disponível."
+        ],
+        [
+          "O superávit financeiro usado como fonte vem de que balanço?",
+          "Do balanço patrimonial do exercício anterior, não do balanço financeiro."
+        ],
+        [
+          "ARO serve como fonte para reforço de dotação?",
+          "Não."
+        ],
+        [
+          "Qual crédito pode ser reaberto no exercício seguinte?",
+          "Especial e extraordinário, pelo saldo, se o ato autorizador for promulgado nos últimos quatro meses. Suplementar não reabre."
+        ],
+        [
+          "Exemplo: crédito especial de R$ 100 mil autorizado em 20/10 e empenhados R$ 65 mil. Quanto pode ser reaberto?",
+          "Até R$ 35 mil."
+        ],
+        [
+          "Dotação de R$ 100 mil para gastar R$ 125 mil resulta em que crédito?",
+          "Suplementar de R$ 25 mil."
+        ]
+      ]
     },
     {
       "id": "afo-07-receita-divida-ativa",
@@ -1491,7 +1750,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -1736,7 +1995,44 @@
           "text": "Receita de capital é a soma de crédito comum, transferências de capital e alienação. ARO, receitas correntes e deduções da RCL ficam fora desse cálculo."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Tributos são receitas correntes ou de capital?",
+          "Correntes. Alienação de bens e operações de crédito comuns são de capital."
+        ],
+        [
+          "Principal da ARO e caução são receitas orçamentárias?",
+          "Não. São ingressos extraorçamentários."
+        ],
+        [
+          "Multa de contrato de aluguel em atraso segue que natureza?",
+          "A natureza do crédito principal: não tributária, pois o principal é patrimonial."
+        ],
+        [
+          "Receita originária se obtém como?",
+          "Pela exploração do patrimônio, sem poder de império. Derivada decorre do poder de império, como os tributos."
+        ],
+        [
+          "Cota-parte de impostos é que tipo de receita?",
+          "Transferência corrente constitucional, orçamentária corrente."
+        ],
+        [
+          "Dívida ativa é tributária sempre?",
+          "Não. Pode ser tributária ou não tributária; é crédito vencido da Fazenda apto à inscrição."
+        ],
+        [
+          "Protesto é requisito prévio para inscrever dívida ativa?",
+          "Não."
+        ],
+        [
+          "Receita corrente pode financiar despesa de capital?",
+          "Sim, observadas as vinculações."
+        ],
+        [
+          "Em que fase a receita orçamentária surge?",
+          "Na arrecadação. A previsão estima o ingresso na LOA."
+        ]
+      ]
     },
     {
       "id": "afo-08-classificacao-despesa",
@@ -1747,7 +2043,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -2013,7 +2309,56 @@
           "text": "Natureza da despesa                 Em 3.1.90.11, 3 é categoria corrente, 1 é GND Pessoal e Encargos, 90 é modalidade de aplicação e 11 é elemento. O elemento não substitui a categoria ou o GND."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Classificação institucional responde a quê?",
+          "Quem gasta: órgão e unidade orçamentária."
+        ],
+        [
+          "Classificação funcional e programática respondem a quê?",
+          "Funcional: área (função e subfunção). Programática: para quê e por meio de quê (programa, ação)."
+        ],
+        [
+          "Projeto e atividade pertencem a qual classificação?",
+          "À estrutura programática, não à classificação funcional."
+        ],
+        [
+          "Projeto e atividade diferem como?",
+          "Projeto tem prazo limitado e produto temporário. Atividade é contínua. Operação especial não gera produto."
+        ],
+        [
+          "Principal da dívida é despesa corrente ou de capital?",
+          "De capital (amortização). Juros e encargos são correntes."
+        ],
+        [
+          "Subvenção econômica para cobrir déficit operacional é que tipo de despesa?",
+          "Transferência corrente (Lei 4.320, art. 18)."
+        ],
+        [
+          "Transferência de manutenção é corrente ou de capital?",
+          "Corrente, mesmo com destinação a serviços."
+        ],
+        [
+          "Imóvel comprado para sediar órgão, sem vínculo com obra, é investimento ou inversão?",
+          "Inversão financeira."
+        ],
+        [
+          "No código 3.3.90.30, o que significa o primeiro dígito?",
+          "Categoria econômica: 3 é despesa corrente. 90 é a modalidade de aplicação."
+        ],
+        [
+          "Despesas de exercícios anteriores (DEA): onde estão as hipóteses?",
+          "Expressamente no art. 37 da Lei 4.320."
+        ],
+        [
+          "Veículo novo é investimento ou custeio?",
+          "Investimento (GND 4)."
+        ],
+        [
+          "Consignação em folha é despesa orçamentária?",
+          "Não. É retenção em favor de terceiro; o repasse é extraorçamentário."
+        ]
+      ]
     },
     {
       "id": "afo-09-empenho-liquidacao",
@@ -2024,7 +2369,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -2147,7 +2492,36 @@
           "text": "Liquidação verifica credor, origem, objeto e valor com contrato ou ajuste, nota de empenho e prova da entrega ou serviço. Pagamento exige regular liquidação. Em casos com várias datas, o consumo da dotação ocorre no empenho e a confirmação do direito do credor, na liquidação."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Quais são as três fases da execução da despesa, na ordem?",
+          "Empenho, liquidação e pagamento."
+        ],
+        [
+          "Fixação da despesa é execução?",
+          "Não. É planejamento."
+        ],
+        [
+          "Emitir o empenho comprova a entrega ou o direito do credor?",
+          "Não. A entrega e a verificação do direito vêm depois."
+        ],
+        [
+          "O que confere o direito do credor na liquidação?",
+          "Contrato ou ajuste, nota de empenho e comprovante de entrega."
+        ],
+        [
+          "Empenho ordinário, global e estimativo: qual pagamento e qual valor?",
+          "Ordinário: valor determinado e pagamento único. Global: valor determinado, pago em parcelas. Estimativo: montante indeterminado."
+        ],
+        [
+          "Excesso de arrecadação vale para o exercício seguinte?",
+          "Não. É fonte vinculada ao exercício em que se apura."
+        ],
+        [
+          "Onde se apura superávit financeiro usado como fonte?",
+          "No balanço patrimonial do exercício anterior."
+        ]
+      ]
     },
     {
       "id": "afo-10-rap-dea-suprimento",
@@ -2158,7 +2532,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -2347,7 +2721,40 @@
           "text": "Suprimento de fundos                Concessão gera execução orçamentária e um adiantamento no ativo. A comprovação da aplicação resolve o reconhecimento patrimonial da VPD no exercício da comprovação."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Empenhada e liquidada em 31/12, sem pagamento e regularmente inscrita: que resto a pagar?",
+          "Restos a pagar processados (RPP)."
+        ],
+        [
+          "Empenhada e não liquidada em 31/12: que resto a pagar?",
+          "Restos a pagar não processados (RPNP), se regularmente inscrita."
+        ],
+        [
+          "Obrigação de exercício anterior reconhecida depois do encerramento, sem empenho válido: que tratamento?",
+          "Despesa de exercícios anteriores (DEA), na hipótese legal."
+        ],
+        [
+          "DEA regulariza execução sem empenho?",
+          "Não, retroativamente não. RAP processado comum também não se converte em DEA."
+        ],
+        [
+          "RPNP pode existir sem empenho?",
+          "Não. Pressupõe empenho; excedente sem empenho não se inscreve como RPNP."
+        ],
+        [
+          "Pagamento de RAP após 31/12 é que tipo de movimentação?",
+          "Extraorçamentário."
+        ],
+        [
+          "Prestação de contas pendente de suprimento já pago gera RAP não processado?",
+          "Não. Mantém o controle do adiantamento e não cria RAP não processado."
+        ],
+        [
+          "Gasto de consumo processado e liquidado é classificado como?",
+          "Outras Despesas Correntes."
+        ]
+      ]
     },
     {
       "id": "afo-11-programacao-descentralizacao",
@@ -2358,7 +2765,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -2436,7 +2843,28 @@
           "text": "Cota trimestral. Exemplo: serviço de R$ 8.900 cabe na cota de R$ 9.000 do segundo trimestre; a liquidação no terceiro não exige que o empenho caiba na cota de R$ 8.000 daquele trimestre."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Qual ato movimenta crédito entre órgãos: provisão ou destaque?",
+          "Destaque, entre órgãos. A provisão é interna."
+        ],
+        [
+          "Descentralizar crédito equivale a transferir dinheiro?",
+          "Não."
+        ],
+        [
+          "Empenho dentro da cota trimestral: o que limita o empenho?",
+          "A cota do trimestre. Saldo de dotação ordinária não é transportado ao exercício seguinte."
+        ],
+        [
+          "Liquidação no trimestre seguinte consome nova cota de empenho?",
+          "Não. O empenho já foi feito dentro da cota."
+        ],
+        [
+          "Produto de higiene é material de consumo ou serviço de terceiros?",
+          "Material de consumo. Computadores e impressoras são material permanente."
+        ]
+      ]
     },
     {
       "id": "afo-12-rcl-anexos",
@@ -2447,7 +2875,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -2688,7 +3116,40 @@
           "text": "Prazo e gatilho da limitação        Ao fim do bimestre, risco para as metas ativa limitação segundo a LDO. O STF afastou a possibilidade de o Executivo substituir outro Poder omisso prevista no art. 9º, § 3º, da LRF."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Qual anexo ou relatório da LDO trata de metas e riscos fiscais?",
+          "Anexos de Metas Fiscais e de Riscos Fiscais (ambos da LDO)."
+        ],
+        [
+          "Qual relatório é bimestral e qual é quadrimestral?",
+          "RREO é bimestral; RGF é quadrimestral."
+        ],
+        [
+          "A RCL usa receita prevista ou arrecadada?",
+          "Arrecadada: soma de 12 meses móveis, por competência, com deduções."
+        ],
+        [
+          "Receitas de capital entram na RCL?",
+          "Não. Ficam fora alienação, operação de crédito, caução, ingressos extraorçamentários e transferência de capital."
+        ],
+        [
+          "Ao final do bimestre, o que leva à limitação de empenho?",
+          "Risco à meta primária ou nominal, conforme a LDO. O ato de limitação vem em até 30 dias."
+        ],
+        [
+          "A reserva de contingência é percentual obrigatório de bloqueio?",
+          "Não. É dotação da LOA para contingências e riscos, não exclusiva de calamidade."
+        ],
+        [
+          "90% do limite de pessoal é gatilho geral do art. 9º?",
+          "Não. É alerta. A prudencial de pessoal aciona as vedações do art. 22."
+        ],
+        [
+          "Qual é a finalidade da gestão fiscal responsável (LRF, art. 1º, § 1º)?",
+          "Ação planejada e transparente, prevenção de riscos, correção de desvios e cumprimento de metas."
+        ]
+      ]
     },
     {
       "id": "afo-13-receita-renuncia",
@@ -2699,7 +3160,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -2858,7 +3319,32 @@
           "text": "Cancelamento de débito              Débito inferior ao custo de cobrança é exceção expressa do art. 14, § 3º, II. Corte pequeno                             de despesa não é compensação tributária do art. 14, II."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Renúncia de receita exige estimativa de impacto em quais exercícios?",
+          "No exercício inicial e nos dois seguintes."
+        ],
+        [
+          "Renúncia pode ser compensada com corte de despesa?",
+          "Não. A compensação do art. 14 é por aumento de receita tributária."
+        ],
+        [
+          "Na via da compensação, quando o benefício passa a vigorar?",
+          "Só depois de implementada a medida de compensação."
+        ],
+        [
+          "Renúncia seletiva, como redução de ICMS para um setor, é compensável por corte de gastos?",
+          "Não. É renúncia e exige compensação tributária."
+        ],
+        [
+          "Cancelamento de débito inferior ao custo de cobrança: é renúncia que dispensa o art. 14?",
+          "É exceção expressa do art. 14, § 3º, II."
+        ],
+        [
+          "Renúncia já prevista na estimativa da LOA afeta as metas da LDO?",
+          "Não afeta, por essa via."
+        ]
+      ]
     },
     {
       "id": "afo-14-docc",
@@ -2869,7 +3355,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -2984,7 +3470,36 @@
           "text": "17, § 6º. Benefício assistencial obrigatório por 36 meses é exemplo típico. Art. 16 ressalva despesa irrelevante nos termos da LDO. Seguridade tem exigência de fonte de custeio total, com as ressalvas do art. 24."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "O que é DOCC?",
+          "Despesa obrigatória de caráter continuado: corrente e de duração superior a dois exercícios."
+        ],
+        [
+          "Dois exercícios exatos atendem ao critério temporal da DOCC?",
+          "Não. A duração deve superar dois exercícios."
+        ],
+        [
+          "Quais são os requisitos da DOCC (art. 17)?",
+          "Estimativa do impacto orçamentário-financeiro do ano inicial e dos dois seguintes, compensação e preservação das metas do AMF/LDO."
+        ],
+        [
+          "Crédito adicional substitui a cobertura legal da DOCC?",
+          "Não."
+        ],
+        [
+          "Construção é DOCC?",
+          "Não. É investimento de capital, mesmo com duração longa."
+        ],
+        [
+          "Despesa criada sem estimativa para o ano inicial e os dois seguintes: qual a consequência?",
+          "Contraria os arts. 15 e 16 da LRF. O ato que descumpre esses requisitos é nulo (art. 21)."
+        ],
+        [
+          "DOCC equivale à dívida consolidada?",
+          "Não."
+        ]
+      ]
     },
     {
       "id": "afo-15-despesa-pessoal",
@@ -2995,7 +3510,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -3247,7 +3762,40 @@
           "text": "Acima do máximo, recondução do art. 23."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Qual é a base legal da RCL para o cálculo da despesa com pessoal?",
+          "RCL legal, sem receitas de capital, e não a receita realizada nem a atualizada."
+        ],
+        [
+          "Sobre qual valor se aplicam alerta e prudencial de pessoal?",
+          "Sobre o limite do Poder ou órgão, não diretamente sobre a RCL: 90% (alerta) e 95% (prudencial)."
+        ],
+        [
+          "Qual é o limite máximo de pessoal do Executivo municipal, em percentual da RCL?",
+          "54%, com alerta em 48,6% e prudencial em 51,3%."
+        ],
+        [
+          "Qual é o limite máximo de pessoal do Executivo estadual, em percentual da RCL?",
+          "49%, com alerta e prudencial calculados sobre ele."
+        ],
+        [
+          "Ultrapassado o prudencial de pessoal, quais são as consequências?",
+          "Aplicam-se as vedações do art. 22, como criar cargos."
+        ],
+        [
+          "Ultrapassado o limite de pessoal, quais são os efeitos sobre aumentos?",
+          "Há vedação e nulidade de atos de aumento. Aumento com parcelas a implementar após o mandato é nulo (art. 21)."
+        ],
+        [
+          "Terceirização substitutiva de servidor entra na despesa com pessoal?",
+          "Sim, na competência da prestação do serviço."
+        ],
+        [
+          "Competência da despesa com pessoal é pelo mês do empenho ou da prestação?",
+          "Da prestação do serviço, não do empenho nem do pagamento."
+        ]
+      ]
     },
     {
       "id": "afo-16-divida-limites",
@@ -3258,7 +3806,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -3435,7 +3983,36 @@
           "text": "Precatórios vencidos no             Para fins de limite, precatórios não pagos no orçamento em que foram incluídos orçamento                           passam ao cálculo da dívida consolidada."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Quantos quadrimestres há para recondução da dívida após a apuração do excesso?",
+          "Três. Reduzir pelo menos 25% do excesso no primeiro (art. 31)."
+        ],
+        [
+          "Dívida consolidada abrange quais obrigações?",
+          "Obrigações com prazo superior a 12 meses, sem duplicidade, incluindo precatórios não pagos no orçamento em que incluídos."
+        ],
+        [
+          "Dívida mobiliária é captada como?",
+          "Mediante emissão de títulos públicos."
+        ],
+        [
+          "Dívida flutuante inclui o quê?",
+          "Obrigações de curto prazo, como débitos de tesouraria, depósitos e ARO."
+        ],
+        [
+          "Dívida ativa é dívida fundada?",
+          "Não. É direito do ente, não obrigação fundada."
+        ],
+        [
+          "Quem fixa o limite da dívida consolidada?",
+          "O Senado, por proposta do Presidente."
+        ],
+        [
+          "Ultrapassado o limite da dívida, quais são as restrições?",
+          "Restrição a crédito interno e externo, inclusive ARO, ressalvadas hipóteses legais, e a transferências voluntárias."
+        ]
+      ]
     },
     {
       "id": "afo-17-operacoes-credito-aro",
@@ -3446,7 +4023,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -3637,7 +4214,36 @@
           "text": "Encargos da ARO                     Juros prefixados ou indexados à taxa básica financeira ou substituta. O prazo é 10/12 do próprio exercício. Principal é extraorçamentário; juros são despesa orçamentária corrente."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Quais são os marcos da ARO no exercício?",
+          "Contratação a partir de 10/01 e liquidação do principal e encargos até 10/12."
+        ],
+        [
+          "ARO liquidada no prazo entra na regra de ouro?",
+          "Não. Fica fora da regra de ouro."
+        ],
+        [
+          "O que a regra de ouro compara?",
+          "Operações de crédito computáveis com despesas de capital. Operações não podem exceder as despesas de capital."
+        ],
+        [
+          "ARO pode ser contratada no último ano de mandato?",
+          "Não. É vedada nesse período."
+        ],
+        [
+          "Havendo ARO anterior em aberto, pode-se contratar nova ARO?",
+          "Não."
+        ],
+        [
+          "O STF afastou qual dispositivo da LRF sobre limitação de despesas dos outros Poderes?",
+          "O art. 9º, § 3º."
+        ],
+        [
+          "O déficit previdenciário é exceção autônoma à regra de ouro?",
+          "Não."
+        ]
+      ]
     },
     {
       "id": "afo-18-fim-mandato",
@@ -3648,7 +4254,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -3791,7 +4397,28 @@
           "text": "Garantias e fim de mandato. Concessão de garantia observa regras do art. 40, inclusive contragarantia e adimplência quando exigíveis. Nas hipóteses do art. 42, verifique primeiro quando foi contraída a obrigação. Nos últimos dois quadrimestres, se as parcelas não forem pagas no mandato, é necessário caixa para honrar as parcelas transferidas ao exercício seguinte. O saldo disponível deve considerar encargos e despesas compromissadas. A inscrição de RAP pode ser lícita nessa situação se houver a cobertura necessária."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "Nos dois últimos quadrimestres do mandato, o que é vedado?",
+          "Contrair obrigação de despesa que não possa ser cumprida integralmente no mandato, ou cuja parcela caia no exercício seguinte sem disponibilidade de caixa."
+        ],
+        [
+          "Para o art. 42, o que se deduz do caixa antes da comparação?",
+          "Os encargos e compromissos pertinentes, inclusive RAP."
+        ],
+        [
+          "Dotação ou saldo bancário bruto demonstram cobertura do art. 42?",
+          "Não."
+        ],
+        [
+          "Há proibição geral de RAP no fim do mandato?",
+          "Não. O problema é a cobertura de caixa das parcelas no exercício seguinte."
+        ],
+        [
+          "Num mandato encerrado em 31/12, qual é a janela dos dois últimos quadrimestres?",
+          "De 01/05 a 31/12."
+        ]
+      ]
     },
     {
       "id": "afo-19-transferencias-alienacao",
@@ -3802,7 +4429,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -4012,7 +4639,40 @@
           "text": "Socorro financeiro                  O art. 28 exige lei específica na hipótese geral de socorro ao SFN e ressalva redesconto e empréstimos do Banco Central a instituições financeiras com prazo inferior a 360 dias."
         }
       ],
-      "flashcards": []
+      "flashcards": [
+        [
+          "O que caracteriza transferência voluntária?",
+          "Entrega de recursos a outro ente, correntes ou de capital, com finalidade de cooperação, auxílio ou assistência. Excluem-se repasses constitucionais, legais e do SUS."
+        ],
+        [
+          "Destinar recursos ao setor privado exige o quê?",
+          "Lei específica, condições da LDO e previsão na LOA ou em crédito adicional, cumulativamente."
+        ],
+        [
+          "Qual é a exceção para aplicar receita de alienação em despesa corrente?",
+          "Quando lei destinar a receita ao regime de previdência social (RGPS ou RPPS)."
+        ],
+        [
+          "A venda de patrimônio autoriza usar a receita para pagar a folha ativa?",
+          "Não."
+        ],
+        [
+          "Alienação de imóveis é que tipo de receita?",
+          "De capital."
+        ],
+        [
+          "Alienação equivale a operação de crédito?",
+          "Não."
+        ],
+        [
+          "Qual lei rege a transferência a organizações da sociedade civil?",
+          "Lei 13.019/2014 (MROSC): colaboração, fomento ou acordo de cooperação, com chamamento público como regra."
+        ],
+        [
+          "No MROSC, o acordo de cooperação envolve transferência financeira?",
+          "Não. Diferente do convênio, que pressupõe interesses convergentes."
+        ]
+      ]
     },
     {
       "id": "aud-01-responsabilidade-pela-opiniao-e-especialistas",

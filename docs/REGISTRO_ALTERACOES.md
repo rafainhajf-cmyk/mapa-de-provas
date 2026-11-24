@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-24 — Claude (AFO: flashcards de recuperação nas 20 seções, versão 3/4)
+
+- Feito: adicionados flashcards de recuperação ativa (pergunta e resposta curta, extraídas das regras já presentes em cada seção) nos 20 esquemas AFO. Seções 03 e 04 em versão 4; demais em versão 3. Total de 160 flashcards.
+- Verificado: cada resposta foi tirada dos blocos da própria seção; nenhuma informação nova foi incluída. Seção 18: o exemplo em R$ está no esquema-fonte (correção de afirmação anterior).
+- Pendente: remover duplicação entre callouts de regras e parágrafos repetidos nas seções 03 e 04 (não feito, para não perder texto); conferências legais já listadas na seção 00 continuam abertas.
+- Testes: 11 passando e 1 falhando na suíte de conhecimento (mesma falha pré-existente de "81 seções conservam IDs"). Build passando.
+- Arquivos: source-content/study-knowledge.json.
+
 ## 2026-11-24 — Claude (AFO: revisão consolidada, seções 03 e 04, versão 3)
 
 - Feito: na seção 03, incluída a natureza jurídica das leis (complementar para organização, ordinária para instituição) e a pegadinha do PPA quadrienal. Na seção 04, o cuidado de que a finalidade definida segue, em regra, por instrumento de cooperação, enquanto só a transferência especial dispensa convênio.
