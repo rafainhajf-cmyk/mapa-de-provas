@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-24 — Claude (Economia: 3 esquemas gerais aprovados e publicados)
+
+- Feito: publicados os esquemas gerais de Microeconomia, Macroeconomia e Finanças Públicas (econ-micro, econ-macro, econ-fin), aprovados pelo usuário. Conteúdo sintetizado a partir da planilha Economia TEC, sem referência aos exercícios.
+- Verificado: JSON dos blocos validado por parser e pelo importador; build passando; visual no site ainda não conferido.
+- Pendente: conferência com fonte primária dos três esquemas; resolução das questões Micro 12 e Macro 984548; conferência das questões de Finanças Públicas sinalizadas na planilha.
+- Testes: 31 passando e 4 falhando, as mesmas falhas anteriores (81 seções, sync-client, sync e test.mjs).
+- Arquivos: source-content/study-knowledge.json (importado com scripts/import-study-knowledge.mjs).
+
 ## 2026-11-24 — Claude (AFO: flashcards de recuperação nas 20 seções, versão 3/4)
 
 - Feito: adicionados flashcards de recuperação ativa (pergunta e resposta curta, extraídas das regras já presentes em cada seção) nos 20 esquemas AFO. Seções 03 e 04 em versão 4; demais em versão 3. Total de 160 flashcards.

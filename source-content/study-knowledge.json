@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
-  "exportedAt": "2026-11-24T17:09:50.648Z",
+  "exportedAt": "2026-11-24T19:58:27.393Z",
   "records": [
     {
       "id": "afo-00-verificacao-legislacao",
@@ -23403,6 +23403,471 @@
       "flashcards": []
     },
     {
+      "id": "econ-financas-publicas-esquema-geral",
+      "subject": "Finanças Públicas",
+      "targetId": "econ-fin",
+      "targetTitle": "Finanças Públicas — esquema geral",
+      "title": "Finanças Públicas: funções, bens públicos, externalidades, tributação e dívida",
+      "status": "approved",
+      "updateType": "novo",
+      "source": "Claude: síntese dos assuntos da planilha Economia TEC (sem referência aos exercícios)",
+      "version": 1,
+      "updatedAt": "2026-11-24",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Função",
+              "Exemplo"
+            ],
+            [
+              "Alocativa",
+              "Defesa, saneamento e regulação de monopólio natural."
+            ],
+            [
+              "Distributiva",
+              "Progressividade do imposto de renda e transferências de renda."
+            ],
+            [
+              "Estabilizadora",
+              "Política fiscal anticíclica e juros básicos para controlar a inflação."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Classificação",
+              "Rival",
+              "Excludente",
+              "Exemplo"
+            ],
+            [
+              "Privado",
+              "Sim",
+              "Sim",
+              "Alimento"
+            ],
+            [
+              "Público puro",
+              "Não",
+              "Não",
+              "Defesa nacional"
+            ],
+            [
+              "Comum",
+              "Sim",
+              "Não",
+              "Pesca em mar aberto"
+            ],
+            [
+              "Clube",
+              "Não",
+              "Sim",
+              "TV por assinatura"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Carona",
+          "text": "Usufruir de bem não excludente sem pagar. Leva à subprovisão pelo mercado e justifica a provisão pública."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bens meritórios (Musgrave): bens que o Estado considera desejáveis e incentiva ou provê, podendo também ser ofertados pelo setor privado. A terminologia varia entre autores. Lindahl: cada indivíduo paga conforme sua disposição marginal a pagar (preços personalizados), o que exige revelação das preferências. Tiebout: consumidores escolhem a comunidade pela mobilidade (voto com os pés); hipóteses: mobilidade plena, informação, muitas jurisdições e ausência de externalidades entre comunidades."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Tipo",
+              "Efeito de mercado",
+              "Correção"
+            ],
+            [
+              "Externalidade negativa",
+              "Produção excessiva, pois o custo privado é menor que o social.",
+              "Imposto pigouviano igual ao dano marginal; permissões negociáveis."
+            ],
+            [
+              "Externalidade positiva",
+              "Produção insuficiente.",
+              "Subsídio ou provisão pública."
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Coase",
+          "text": "Com direitos de propriedade bem definidos e custos de transação baixos, a negociação tende à alocação eficiente, qualquer que seja a atribuição inicial do direito. A distribuição dos ganhos, porém, depende dessa atribuição."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bem comum é rival e não excludente. Seu uso excessivo gera a tragédia dos comuns. Soluções: rodízio, pedágio urbano, cotas ou taxa pigouviana."
+        },
+        {
+          "type": "paragraph",
+          "text": "Imposto cria uma cunha entre o preço pago pelo comprador e o preço recebido pelo vendedor. Reduz a quantidade e gera peso morto, que cresce com as elasticidades."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situação",
+              "Quem arca com a maior parte"
+            ],
+            [
+              "Demanda menos elástica que a oferta",
+              "Compradores"
+            ],
+            [
+              "Oferta menos elástica que a demanda",
+              "Produtores"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Subsídio",
+          "text": "É um imposto negativo. Também se divide entre comprador e vendedor conforme as elasticidades."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Princípio",
+              "Ideia"
+            ],
+            [
+              "Benefício",
+              "Paga conforme o benefício recebido."
+            ],
+            [
+              "Capacidade de pagamento",
+              "Paga conforme renda ou patrimônio."
+            ],
+            [
+              "Equidade horizontal",
+              "Iguais são tratados igualmente."
+            ],
+            [
+              "Equidade vertical",
+              "Desiguais são tratados desigualmente."
+            ],
+            [
+              "Neutralidade",
+              "O tributo não altera decisões alocativas por meio de preços relativos."
+            ],
+            [
+              "Eficiência",
+              "Minimizar o peso morto."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ramsey: para arrecadar uma receita com o menor peso morto, as alíquotas ótimas são inversamente proporcionais à elasticidade-preço da demanda."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Tipo",
+              "Critério"
+            ],
+            [
+              "Direto",
+              "Incide sobre renda ou patrimônio."
+            ],
+            [
+              "Indireto",
+              "Incide sobre consumo."
+            ],
+            [
+              "Progressivo",
+              "Alíquota efetiva cresce com a renda."
+            ],
+            [
+              "Regressivo",
+              "Alíquota efetiva cai com a renda."
+            ],
+            [
+              "Específico",
+              "Valor fixo por unidade."
+            ],
+            [
+              "Ad valorem",
+              "Percentual sobre o valor."
+            ],
+            [
+              "Lump sum",
+              "Valor fixo, sem efeito sobre a escolha do agente."
+            ]
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Curva de Laffer",
+          "steps": [
+            {
+              "label": "Alíquota baixa",
+              "text": "A arrecadação cresce com a alíquota."
+            },
+            {
+              "label": "Alíquota ótima",
+              "text": "A arrecadação atinge o máximo."
+            },
+            {
+              "label": "Alíquota muito alta",
+              "text": "Desestimula a atividade e aumenta a evasão; a arrecadação cai."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Resultado",
+              "Inclui juros?",
+              "Sentido"
+            ],
+            [
+              "Primário",
+              "Não",
+              "Esforço fiscal sem o custo da dívida."
+            ],
+            [
+              "Nominal",
+              "Sim, juros nominais",
+              "Necessidade de financiamento em fluxo."
+            ],
+            [
+              "Operacional",
+              "Juros reais, sem correção monetária",
+              "Usado no cálculo de NFSP operacional."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Superávit primário necessário para estabilizar a dívida/PIB: h = d (i - g) / (1 + g) - s, em que d é a dívida/PIB, i os juros nominais, g o crescimento nominal do PIB e s a senhoriagem/PIB. Se i for maior que g, é preciso superávit primário."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha da dívida",
+          "text": "Superávit primário não garante queda da dívida se os juros superarem o crescimento. Com g maior que i, um déficit primário pode ser compatível com dívida estável."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "econ-macro-esquema-geral",
+      "subject": "Macroeconomia",
+      "targetId": "econ-macro",
+      "targetTitle": "Macroeconomia — esquema geral",
+      "title": "Macroeconomia: identidades, setor externo, inflação e políticas",
+      "status": "approved",
+      "updateType": "novo",
+      "source": "Claude: síntese dos assuntos da planilha Economia TEC (sem referência aos exercícios)",
+      "version": 1,
+      "updatedAt": "2026-11-24",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Objetivos macroeconômicos: crescimento, emprego, estabilidade de preços e equilíbrio externo."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Identidade",
+              "Expressão"
+            ],
+            [
+              "PIB pela ótica da despesa",
+              "Y = C + I + G + (X - M)"
+            ],
+            [
+              "Economia fechada",
+              "S + (T - G) = I"
+            ],
+            [
+              "Poupança privada",
+              "S = Y - T - C"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Medida",
+              "Conceito"
+            ],
+            [
+              "PIB nominal",
+              "Valores correntes."
+            ],
+            [
+              "PIB real",
+              "Valores de um ano-base."
+            ],
+            [
+              "Deflator do PIB",
+              "PIB nominal dividido pelo PIB real, multiplicado por 100."
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra do deflator",
+          "text": "Crescimento nominal aproximadamente igual a crescimento real mais inflação."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Conta",
+              "Conteúdo"
+            ],
+            [
+              "Bens e serviços",
+              "Exportações, importações e serviços."
+            ],
+            [
+              "Renda primária",
+              "Salários e rendas de investimentos."
+            ],
+            [
+              "Renda secundária",
+              "Transferências correntes."
+            ],
+            [
+              "Transações correntes",
+              "Soma das contas de bens, serviços, renda primária e renda secundária."
+            ],
+            [
+              "Conta capital",
+              "Ativos não financeiros e transferências de capital."
+            ],
+            [
+              "Conta financeira",
+              "Investimento direto, em carteira, derivativos, outros investimentos e reservas."
+            ],
+            [
+              "Erros e omissões",
+              "Ajuste estatístico."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Economia fechada: com tributos de montante fixo, o multiplicador dos gastos do governo é 1 / (1 - c), em que c é a propensão marginal a consumir."
+        },
+        {
+          "type": "flowchart",
+          "title": "Mundell-Fleming com mobilidade perfeita de capitais",
+          "steps": [
+            {
+              "label": "Câmbio fixo",
+              "text": "A política fiscal ganha efeito sobre a renda; a política monetária perde autonomia."
+            },
+            {
+              "label": "Câmbio flutuante",
+              "text": "A política monetária ganha efeito sobre a renda; a política fiscal perde efeito, pois o câmbio se ajusta."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Trilema",
+          "text": "Não é possível ter ao mesmo tempo câmbio fixo, livre mobilidade de capitais e autonomia monetária."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Tipo de inflação",
+              "Origem"
+            ],
+            [
+              "Demanda",
+              "Gasto acima da capacidade de oferta."
+            ],
+            [
+              "Custos",
+              "Aumento de insumos ou salários."
+            ],
+            [
+              "Inercial",
+              "Indexação ao passado."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Curva de Phillips de curto prazo: trade-off entre inflação e desemprego. No longo prazo, a relação é vertical."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Instrumento",
+              "Expansão",
+              "Contração"
+            ],
+            [
+              "Política fiscal",
+              "Aumento de gastos ou redução de tributos.",
+              "Redução de gastos ou aumento de tributos."
+            ],
+            [
+              "Política monetária",
+              "Queda da taxa de juros; menor compulsório.",
+              "Alta da taxa de juros; maior compulsório."
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Estabilizadores automáticos",
+          "text": "Impostos progressivos e seguro-desemprego atuam sem decisão do governo, suavizando a queda e a alta da renda."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Regime cambial",
+              "Característica"
+            ],
+            [
+              "Fixo",
+              "A autoridade define a taxa de câmbio."
+            ],
+            [
+              "Flutuante",
+              "A taxa é determinada por oferta e demanda de divisas."
+            ],
+            [
+              "Administrado",
+              "Câmbio dentro de faixa ou banda."
+            ]
+          ]
+        }
+      ],
+      "flashcards": []
+    },
+    {
       "id": "macro-agregados-monetarios",
       "subject": "Macroeconomia",
       "targetId": "",
@@ -24908,6 +25373,188 @@
           "kind": "warning",
           "title": "Fórmula com inflações (versão diferente na mesma anotação)",
           "text": "A anotação também traz E = e · P* / P, em que E = taxa de câmbio real; e = taxa de câmbio nominal; P* = inflação nos EUA (IPC); P = inflação no Brasil (IPCA)."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "econ-micro-esquema-geral",
+      "subject": "Microeconomia",
+      "targetId": "econ-micro",
+      "targetTitle": "Microeconomia — esquema geral",
+      "title": "Microeconomia: escolha, mercado, estruturas e falhas",
+      "status": "approved",
+      "updateType": "novo",
+      "source": "Claude: síntese dos assuntos da planilha Economia TEC (sem referência aos exercícios)",
+      "version": 1,
+      "updatedAt": "2026-11-24",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Economia estuda como escolher quando os recursos são escassos. Toda escolha tem custo de oportunidade: o valor da melhor alternativa sacrificada."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Conceito",
+              "Definição"
+            ],
+            [
+              "Custo explícito",
+              "Pagamento em dinheiro feito a terceiros."
+            ],
+            [
+              "Custo implícito",
+              "Remuneração de fatores próprios, como capital próprio ou trabalho do dono."
+            ],
+            [
+              "Lucro contábil",
+              "Receita menos custos explícitos."
+            ],
+            [
+              "Lucro econômico",
+              "Receita menos custos explícitos e implícitos."
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra essencial",
+          "text": "Lucro econômico igual a zero não é prejuízo: indica remuneração igual à melhor alternativa."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Mudança",
+              "Efeito"
+            ],
+            [
+              "Movimento ao longo da curva",
+              "Variação do próprio preço."
+            ],
+            [
+              "Deslocamento da demanda",
+              "Renda, preço de bens relacionados, gostos, expectativas, número de compradores."
+            ],
+            [
+              "Deslocamento da oferta",
+              "Tecnologia, custos dos insumos, número de vendedores, tributos e subsídios."
+            ]
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Equilíbrio e controles de preço",
+          "steps": [
+            {
+              "label": "Excesso de demanda",
+              "text": "O preço sobe até o equilíbrio."
+            },
+            {
+              "label": "Excesso de oferta",
+              "text": "O preço cai até o equilíbrio."
+            },
+            {
+              "label": "Preço máximo abaixo do equilíbrio",
+              "text": "Gera escassez e filas."
+            },
+            {
+              "label": "Preço mínimo acima do equilíbrio",
+              "text": "Gera excedente de oferta."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Elasticidade-preço da demanda mede a variação percentual da quantidade demandada dividida pela variação percentual do preço. Módulo maior que 1 indica demanda elástica; menor que 1, inelástica; igual a 1, unitária."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha da receita",
+          "text": "Com demanda elástica, reduzir o preço aumenta a receita total. Com demanda inelástica, aumentar o preço aumenta a receita total."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Estrutura",
+              "Vendedores",
+              "Produto",
+              "Poder sobre o preço",
+              "Longo prazo"
+            ],
+            [
+              "Concorrência perfeita",
+              "Muitos",
+              "Homogêneo",
+              "Nenhum (tomador de preço)",
+              "P igual ao custo marginal"
+            ],
+            [
+              "Monopólio",
+              "Um",
+              "Sem substituto próximo",
+              "Pleno, com barreiras à entrada",
+              "P maior que o custo marginal"
+            ],
+            [
+              "Oligopólio",
+              "Poucos",
+              "Homogêneo ou diferenciado",
+              "Limitado, com interdependência",
+              "Depende do comportamento: cartel, Cournot, Bertrand"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Monopólio natural",
+          "text": "Caracteriza-se por custo médio decrescente, isto é, economias de escala que tornam uma única empresa mais eficiente. A regulação de preço é um dos instrumentos de correção."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alocação eficiente de Pareto: nenhum agente pode melhorar sem piorar outro. As condições são: eficiência nas trocas (TMS igual entre consumidores), eficiência na produção (TMST igual entre insumos) e eficiência na composição do produto (TMS igual à TMT)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Problema",
+              "Momento",
+              "Exemplo"
+            ],
+            [
+              "Seleção adversa",
+              "Antes do contrato",
+              "Quem tem maior risco procura mais seguro."
+            ],
+            [
+              "Risco moral",
+              "Depois do contrato",
+              "Segurado que dirige com menos cuidado."
+            ],
+            [
+              "Sinalização",
+              "Quem tem a informação revela por meio de uma ação",
+              "Diploma ou certificação."
+            ],
+            [
+              "Triagem",
+              "Quem não tem a informação induz a revelação",
+              "Cláusulas e diferentes planos de cobertura."
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Falha de mercado",
+          "text": "Situação em que o mercado livre não alcança a alocação eficiente: externalidades, bens públicos, poder de mercado e informação assimétrica."
         }
       ],
       "flashcards": []
