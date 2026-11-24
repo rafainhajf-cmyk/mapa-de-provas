@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
-  "exportedAt": "2026-11-24T16:50:35.657Z",
+  "exportedAt": "2026-11-24T16:57:36.983Z",
   "records": [
     {
       "id": "afo-00-verificacao-legislacao",
@@ -12,7 +12,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -20,6 +20,46 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Itens listados abaixo como não verificados continuam pendentes até consulta à fonte oficial."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Situação",
+              "Fonte consultada"
+            ],
+            [
+              "Prazos das leis orçamentárias (LDO 15/04 e 17/07; PPA e LOA 31/08 e 22/12)",
+              "Confirmado",
+              "ADCT art. 35 §2º; CF art. 57"
+            ],
+            [
+              "Alerta de 90% e prudencial de 95% (LRF arts. 20 e 22)",
+              "Confirmado",
+              "Relatório do Senado (RGF, jan/2026)"
+            ],
+            [
+              "Limite estadual de 49%, prudencial 46,55% e global de 60%",
+              "Confirmado",
+              "Notícia sobre o RGF de 2026"
+            ],
+            [
+              "ARO vedada no último ano; contratação a partir de 10/01",
+              "Confirmado",
+              "LRF art. 38"
+            ],
+            [
+              "LC 224/2025 alterou o art. 14 da LRF (renúncia)",
+              "Mudança a conferir",
+              "LC 224/2025, vigente em 1º/1/2026"
+            ],
+            [
+              "54% municipal, 70% das transferências especiais, arts. 37/40/43/73 da Lei 4.320, prazo de 10/12 da ARO",
+              "Não verificado",
+              "Sem fonte nesta busca"
+            ]
+          ]
         },
         {
           "type": "paragraph",
@@ -105,7 +145,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -113,6 +153,56 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Conteúdo de estudo a partir do caderno TEC; conferência legal parcial, ver a seção Verificação de legislação."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Função",
+              "Como identificar na prova"
+            ],
+            [
+              "Alocativa",
+              "Oferta de bens e serviços públicos e correção de falhas de mercado"
+            ],
+            [
+              "Distributiva",
+              "Redistribuição de renda e redução de desigualdades"
+            ],
+            [
+              "Estabilizadora",
+              "Emprego, preços e nível de atividade"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Técnica",
+              "Como identificar"
+            ],
+            [
+              "Tradicional",
+              "Controle dos insumos, das dotações e dos objetos de gasto"
+            ],
+            [
+              "Desempenho",
+              "Evidencia realizações, serviços e custos"
+            ],
+            [
+              "Programa",
+              "Liga recursos a objetivos, programas, metas, produtos e indicadores"
+            ],
+            [
+              "Base zero",
+              "Exige justificativa das despesas a cada ciclo, sem presumir a continuidade"
+            ],
+            [
+              "Participativo",
+              "Participação dos cidadãos na definição das prioridades"
+            ]
+          ]
         },
         {
           "type": "callout",
@@ -246,7 +336,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -254,6 +344,51 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Conteúdo de estudo a partir do caderno TEC; conferência legal parcial, ver a seção Verificação de legislação."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Princípio",
+              "Regra",
+              "Armadilha"
+            ],
+            [
+              "Unidade",
+              "Uma LOA por ente",
+              "Três esferas da LOA federal não significam três leis"
+            ],
+            [
+              "Universalidade",
+              "Inclui a totalidade de receitas e despesas orçamentárias",
+              "Caução em dinheiro é extraorçamentária"
+            ],
+            [
+              "Orçamento bruto",
+              "Receitas e despesas pelos valores integrais",
+              "Não abater tarifa do tributo"
+            ],
+            [
+              "Anualidade",
+              "O exercício financeiro coincide com o ano civil",
+              "Atraso na aprovação não muda o período"
+            ],
+            [
+              "Exclusividade",
+              "LOA trata de previsão de receita e fixação de despesa",
+              "Admite suplementares e operações de crédito, inclusive ARO"
+            ],
+            [
+              "Não vinculação",
+              "Em regra, veda vincular receita de impostos",
+              "Não alcança taxas e contribuições"
+            ],
+            [
+              "Especificação",
+              "Discriminar as despesas na lei",
+              "Dotações globais são vedadas, com a ressalva dos programas especiais de trabalho"
+            ]
+          ]
         },
         {
           "type": "callout",
@@ -417,7 +552,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -425,6 +560,45 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Conteúdo de estudo a partir do caderno TEC; conferência legal parcial, ver a seção Verificação de legislação."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Instrumento",
+              "Conteúdo cobrado"
+            ],
+            [
+              "PPA",
+              "Diretrizes, objetivos e metas regionalizados para despesas de capital e programas de duração continuada"
+            ],
+            [
+              "LDO",
+              "Metas e prioridades, diretrizes de política fiscal, orientação da LOA, anexos fiscais"
+            ],
+            [
+              "LOA",
+              "Orçamentos fiscal, de investimento das estatais controladas pela União e da seguridade social"
+            ]
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Calendário federal (ADCT, art. 35, §2º)",
+          "steps": [
+            {
+              "label": "LDO",
+              "text": "Envio até 15/04; devolução até 17/07"
+            },
+            {
+              "label": "PPA",
+              "text": "Envio até 31/08 do 1º ano; devolução até 22/12"
+            },
+            {
+              "label": "LOA",
+              "text": "Envio até 31/08; devolução até 22/12"
+            }
+          ]
         },
         {
           "type": "callout",
@@ -572,7 +746,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -580,6 +754,48 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Art. 166-A: piso de 70% em despesas de capital nas transferências especiais não conferido em fonte oficial."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Tipo",
+              "Autor",
+              "Limite e execução federal"
+            ],
+            [
+              "Individual (RP 6)",
+              "Cada deputado ou senador",
+              "Até 2% da RCL do exercício anterior; metade para saúde; execução obrigatória"
+            ],
+            [
+              "Bancada estadual (RP 7)",
+              "Bancada de cada estado ou do DF",
+              "Até 1% da RCL realizada; decisão em ata; LC 210"
+            ],
+            [
+              "Comissão (RP 8)",
+              "Comissão permanente da Câmara, Senado ou Congresso",
+              "Interesse nacional; sem garantia constitucional de execução"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Modalidade",
+              "Aplicação"
+            ],
+            [
+              "Transferência especial",
+              "Direta, sem convênio; pelo menos 70% em despesas de capital"
+            ],
+            [
+              "Finalidade definida",
+              "Vinculada à programação da emenda"
+            ]
+          ]
         },
         {
           "type": "callout",
@@ -783,7 +999,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -791,6 +1007,49 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Art. 73 da Lei 4.320 (saldo de fundo) não conferido no texto oficial."
+        },
+        {
+          "type": "flowchart",
+          "title": "Ciclo orçamentário",
+          "steps": [
+            {
+              "label": "1. Elaboração",
+              "text": "Executivo consolida as propostas dos órgãos e Poderes"
+            },
+            {
+              "label": "2. Apreciação",
+              "text": "Legislativo examina e delibera"
+            },
+            {
+              "label": "3. Execução",
+              "text": "Dotação autoriza; pagamento depende de execução e caixa"
+            },
+            {
+              "label": "4. Controle e avaliação",
+              "text": "Controle interno, Tribunal de Contas e controle social"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Tema",
+              "Regra"
+            ],
+            [
+              "Fundo especial",
+              "Receitas vinculadas; saldo positivo passa ao exercício seguinte, salvo lei contrária"
+            ],
+            [
+              "Fundo contábil",
+              "Segregação de recursos, sem personalidade jurídica própria"
+            ],
+            [
+              "Sistema federal",
+              "Órgão central orienta; setoriais coordenam; unidades executam"
+            ]
+          ]
         },
         {
           "type": "callout",
@@ -966,7 +1225,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -974,6 +1233,53 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Art. 43 da Lei 4.320 (fonte disponível) não conferido no texto oficial."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situação",
+              "Crédito",
+              "Abertura",
+              "Reabertura"
+            ],
+            [
+              "Dotação existe e é insuficiente",
+              "Suplementar",
+              "Autorização legislativa, recursos e decreto",
+              "Não cabe"
+            ],
+            [
+              "Falta dotação específica",
+              "Especial",
+              "Autorização legislativa, recursos e decreto",
+              "Cabe nas condições abaixo"
+            ],
+            [
+              "Despesa urgente e imprevisível",
+              "Extraordinário",
+              "Medida provisória na União; sem demonstração prévia de recursos",
+              "Cabe nas condições abaixo"
+            ]
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Reabertura no exercício seguinte",
+          "steps": [
+            {
+              "label": "1. É especial ou extraordinário?",
+              "text": "Suplementar não reabre"
+            },
+            {
+              "label": "2. Ato de autorização promulgado de 01/09 a 31/12?",
+              "text": "Vale a data da promulgação do ato"
+            },
+            {
+              "label": "3. Os dois testes são positivos?",
+              "text": "Reabre-se até o saldo"
+            }
+          ]
         },
         {
           "type": "callout",
@@ -1167,7 +1473,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -1175,6 +1481,53 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Conteúdo de estudo a partir do caderno TEC; conferência legal parcial, ver a seção Verificação de legislação."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Corte",
+              "Como resolver"
+            ],
+            [
+              "Orçamentária × extraorçamentária",
+              "Tributos, doações e empréstimos comuns são orçamentários; caução, consignação e principal da ARO são temporários"
+            ],
+            [
+              "Originária × derivada",
+              "Aluguel é originária; tributos decorrem do poder de império"
+            ],
+            [
+              "Corrente × capital",
+              "Aluguel é corrente; alienação, operação de crédito comum e amortização de empréstimos concedidos são de capital"
+            ],
+            [
+              "Efetiva × não efetiva",
+              "Efetiva aumenta o patrimônio líquido; empréstimo gera ativo e passivo"
+            ]
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Execução da receita",
+          "steps": [
+            {
+              "label": "Previsão",
+              "text": "Estima o ingresso na LOA"
+            },
+            {
+              "label": "Lançamento",
+              "text": "Identifica origem, devedor e valor, quando aplicável"
+            },
+            {
+              "label": "Arrecadação",
+              "text": "Receita orçamentária surge na arrecadação"
+            },
+            {
+              "label": "Recolhimento",
+              "text": "Ingresso efetivo nos cofres"
+            }
+          ]
         },
         {
           "type": "callout",
@@ -1376,7 +1729,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -1384,6 +1737,64 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Conteúdo de estudo a partir do caderno TEC; conferência legal parcial, ver a seção Verificação de legislação."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Pergunta",
+              "Classificação"
+            ],
+            [
+              "Em qual orçamento?",
+              "Esfera: fiscal, seguridade ou investimento das estatais"
+            ],
+            [
+              "Quem gasta?",
+              "Institucional: órgão e unidade orçamentária"
+            ],
+            [
+              "Em que área?",
+              "Funcional: função e subfunção"
+            ],
+            [
+              "Para quê e por meio de quê?",
+              "Programa e ação; projeto tem prazo, atividade é contínua, operação especial não gera produto"
+            ],
+            [
+              "Que tipo de gasto?",
+              "Natureza: categoria econômica, grupo, modalidade, elemento e desdobramento"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Despesa",
+              "Como se classifica"
+            ],
+            [
+              "Juros e encargos da dívida",
+              "Corrente; o principal é capital"
+            ],
+            [
+              "Subvenção social",
+              "Transferência corrente a instituições sem fins lucrativos"
+            ],
+            [
+              "Subvenção econômica",
+              "Transferência corrente para cobrir déficit operacional"
+            ],
+            [
+              "Imóvel já em utilização",
+              "Inversão financeira"
+            ],
+            [
+              "Equipamento novo e terreno da obra",
+              "Investimento"
+            ]
+          ]
         },
         {
           "type": "callout",
@@ -1595,7 +2006,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -1603,6 +2014,45 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Conteúdo de estudo a partir do caderno TEC; conferência legal parcial, ver a seção Verificação de legislação."
+        },
+        {
+          "type": "flowchart",
+          "title": "Execução da despesa",
+          "steps": [
+            {
+              "label": "1. Empenho",
+              "text": "Compromete a dotação"
+            },
+            {
+              "label": "2. Liquidação",
+              "text": "Verifica o direito do credor"
+            },
+            {
+              "label": "3. Pagamento",
+              "text": "Quita a obrigação liquidada"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Tipo de empenho",
+              "Características"
+            ],
+            [
+              "Ordinário",
+              "Valor determinado, pagamento único"
+            ],
+            [
+              "Global",
+              "Valor determinado, pago em parcelas"
+            ],
+            [
+              "Estimativo",
+              "Montante indeterminado ou apenas estimado"
+            ]
+          ]
         },
         {
           "type": "callout",
@@ -1690,7 +2140,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -1698,6 +2148,49 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Art. 37 da Lei 4.320 (hipóteses de DEA) não conferido no texto oficial."
+        },
+        {
+          "type": "flowchart",
+          "title": "Decisão no encerramento",
+          "steps": [
+            {
+              "label": "1. Empenho válido inscrito?",
+              "text": "Se não, verificar hipótese legal de DEA"
+            },
+            {
+              "label": "2. Liquidado?",
+              "text": "Sim: RPP. Não: RPNP"
+            },
+            {
+              "label": "3. Sem RAP válido",
+              "text": "Verificar DEA"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situação em 31/12",
+              "Resposta"
+            ],
+            [
+              "Empenhada, liquidada e não paga, com inscrição regular",
+              "Restos a pagar processados (RPP)"
+            ],
+            [
+              "Empenhada e ainda não liquidada, com inscrição regular",
+              "Restos a pagar não processados (RPNP)"
+            ],
+            [
+              "Obrigação anterior reconhecida após o encerramento",
+              "DEA, à conta de dotação específica do orçamento atual"
+            ],
+            [
+              "Adiantamento concedido e pago, com prestação pendente",
+              "Já houve execução orçamentária; não é RAP"
+            ]
+          ]
         },
         {
           "type": "callout",
@@ -1847,7 +2340,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -1855,6 +2348,26 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Conteúdo de estudo a partir do caderno TEC; conferência legal parcial, ver a seção Verificação de legislação."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Recurso",
+              "Dentro do órgão",
+              "Entre órgãos"
+            ],
+            [
+              "Crédito orçamentário",
+              "Provisão",
+              "Destaque"
+            ],
+            [
+              "Recurso financeiro",
+              "Sub-repasse",
+              "Repasse"
+            ]
+          ]
         },
         {
           "type": "callout",
@@ -1916,7 +2429,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -1924,6 +2437,65 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Conteúdo de estudo a partir do caderno TEC; conferência legal parcial, ver a seção Verificação de legislação."
+        },
+        {
+          "type": "flowchart",
+          "title": "Limitação de empenho",
+          "steps": [
+            {
+              "label": "Fim do bimestre",
+              "text": "Verificar se a receita comporta as metas"
+            },
+            {
+              "label": "Receita ameaça a meta fiscal?",
+              "text": "Se sim, ato próprio de limitação em até 30 dias"
+            },
+            {
+              "label": "Receita se restabelece",
+              "text": "Recomposição proporcional"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Relatório",
+              "Periodicidade",
+              "Conteúdo"
+            ],
+            [
+              "RREO",
+              "Bimestral; publicado em até 30 dias",
+              "Execução de receitas e despesas de todos os Poderes e MP"
+            ],
+            [
+              "RGF",
+              "Quadrimestral em regra; publicado em até 30 dias",
+              "Limites e correção de desvios; no último quadrimestre, caixa e RAP"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Anexo",
+              "Conteúdo"
+            ],
+            [
+              "Anexo de Metas (LDO)",
+              "Metas anuais para o exercício de referência e os dois seguintes, com memória de cálculo"
+            ],
+            [
+              "Anexo de Riscos (LDO)",
+              "Passivos contingentes, outros riscos e providências"
+            ],
+            [
+              "Reserva da LOA",
+              "Dotação para passivos contingentes e eventos imprevistos"
+            ]
+          ]
         },
         {
           "type": "callout",
@@ -2109,7 +2681,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -2117,6 +2689,45 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "LC 224/2025 alterou o art. 14 da LRF (renúncia): conferir a redação vigente antes de usar o texto deste esquema."
+        },
+        {
+          "type": "flowchart",
+          "title": "Renúncia de receita (art. 14)",
+          "steps": [
+            {
+              "label": "Estimativa",
+              "text": "Impacto no ano inicial e nos dois seguintes; atendimento à LDO"
+            },
+            {
+              "label": "Via 1",
+              "text": "Renúncia já considerada na estimativa da LOA e sem afetar as metas"
+            },
+            {
+              "label": "Via 2",
+              "text": "Compensação por aumento de receita; o benefício só vale após implementar as medidas"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Caso",
+              "Requisitos centrais"
+            ],
+            [
+              "Dever de arrecadar (art. 11)",
+              "Instituir, prever e arrecadar todos os tributos da competência"
+            ],
+            [
+              "Renúncia (art. 14)",
+              "Estimativa de impacto, atendimento à LDO e uma das duas vias"
+            ],
+            [
+              "Cancelamento de débito",
+              "Débito inferior ao custo de cobrança é exceção do art. 14, §3º, II"
+            ]
+          ]
         },
         {
           "type": "callout",
@@ -2240,7 +2851,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -2248,6 +2859,23 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Conteúdo de estudo a partir do caderno TEC; conferência legal parcial, ver a seção Verificação de legislação."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Caso",
+              "Requisitos centrais"
+            ],
+            [
+              "Criação ou expansão de ação com aumento de despesa (art. 16)",
+              "Estimativa do ano inicial e dos dois seguintes; declaração do ordenador de adequação à LOA e compatibilidade com PPA e LDO"
+            ],
+            [
+              "DOCC (art. 17)",
+              "Despesa corrente criada por lei, MP ou ato normativo, de execução obrigatória por mais de dois exercícios"
+            ]
+          ]
         },
         {
           "type": "callout",
@@ -2349,7 +2977,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -2357,6 +2985,86 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Percentuais de 54% (Executivo municipal) e as faixas do Legislativo, Judiciário e MP não conferidos em fonte oficial."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Faixa",
+              "Cálculo",
+              "Efeito"
+            ],
+            [
+              "Alerta",
+              "Supera 90% do limite aplicável",
+              "Alerta do Tribunal de Contas"
+            ],
+            [
+              "Prudencial",
+              "Supera 95% do limite aplicável",
+              "Vedações do art. 22"
+            ],
+            [
+              "Máximo",
+              "Supera 100% do limite aplicável",
+              "Recondução em dois quadrimestres"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Ente",
+              "Total",
+              "Executivo",
+              "Legislativo",
+              "Judiciário",
+              "MP"
+            ],
+            [
+              "União",
+              "50%",
+              "40,9%",
+              "2,5%",
+              "6%",
+              "0,6%"
+            ],
+            [
+              "Estado",
+              "60%",
+              "49%",
+              "3%",
+              "6%",
+              "2%"
+            ],
+            [
+              "Município",
+              "60%",
+              "54%",
+              "6%",
+              "Sem Poder Judiciário municipal",
+              "Sem MP"
+            ]
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Sequência de cálculo",
+          "steps": [
+            {
+              "label": "1. RCL",
+              "text": "Base legal, sem receitas de capital"
+            },
+            {
+              "label": "2. Limite do Poder",
+              "text": "Aplicar 90% ou 95% sobre o limite, não sobre a RCL"
+            },
+            {
+              "label": "3. Faixa",
+              "text": "Alerta, prudencial ou máximo"
+            }
+          ]
         },
         {
           "type": "callout",
@@ -2532,7 +3240,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -2540,6 +3248,45 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Art. 31 da LRF e a Resolução do Senado sobre dívida consolidada líquida não conferidos no texto oficial."
+        },
+        {
+          "type": "flowchart",
+          "title": "Recondução da dívida",
+          "steps": [
+            {
+              "label": "1º quadrimestre",
+              "text": "Reduzir pelo menos 25% do excesso"
+            },
+            {
+              "label": "2º quadrimestre",
+              "text": "Recondução continua"
+            },
+            {
+              "label": "3º quadrimestre",
+              "text": "Retornar ao limite"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Conceito",
+              "Como decidir"
+            ],
+            [
+              "Consolidada ou fundada",
+              "Obrigações com prazo superior a 12 meses, sem duplicidade"
+            ],
+            [
+              "Mobiliária",
+              "Representada por títulos públicos"
+            ],
+            [
+              "Flutuante",
+              "Curto prazo: inclui RAP, depósitos, débitos de tesouraria e ARO"
+            ]
+          ]
         },
         {
           "type": "callout",
@@ -2681,7 +3428,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -2689,6 +3436,45 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Prazos de 10/01 e 10/12 da ARO (art. 38) não conferidos no texto consultado."
+        },
+        {
+          "type": "flowchart",
+          "title": "Janela da ARO",
+          "steps": [
+            {
+              "label": "10/01",
+              "text": "Início da contratação"
+            },
+            {
+              "label": "Insuficiência de caixa no exercício",
+              "text": "A ARO cobre o intervalo"
+            },
+            {
+              "label": "10/12",
+              "text": "Prazo para liquidar principal e encargos"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Teste",
+              "Critério"
+            ],
+            [
+              "Contratação",
+              "Autorização prévia e limites do Senado; operação externa exige autorização específica"
+            ],
+            [
+              "Regra de ouro",
+              "Operações de crédito não excedem despesas de capital; excesso só com crédito suplementar ou especial de finalidade precisa, por maioria absoluta"
+            ],
+            [
+              "ARO",
+              "Vedada no último ano do mandato e com ARO anterior em aberto; ARO liquidada no prazo fica fora da regra de ouro"
+            ]
+          ]
         },
         {
           "type": "callout",
@@ -2844,7 +3630,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -2852,6 +3638,41 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Conteúdo de estudo a partir do caderno TEC; conferência legal parcial, ver a seção Verificação de legislação."
+        },
+        {
+          "type": "flowchart",
+          "title": "Teste do art. 42",
+          "steps": [
+            {
+              "label": "1. Obrigação nos dois últimos quadrimestres?",
+              "text": "Num mandato encerrado em 31/12, a janela é de 01/05 a 31/12"
+            },
+            {
+              "label": "2. Sobra parcela para o exercício seguinte?",
+              "text": "Identifique o valor"
+            },
+            {
+              "label": "3. Há caixa líquido suficiente?",
+              "text": "Descontados os compromissos já assumidos"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Cenário",
+              "Resultado"
+            ],
+            [
+              "Caixa bruto de R$ 500 mil; compromissos de R$ 350 mil; nova obrigação de R$ 120 mil",
+              "Caixa líquido de R$ 150 mil; a cobertura basta"
+            ],
+            [
+              "Mesmo caixa e compromissos; nova obrigação de R$ 180 mil",
+              "Caixa líquido de R$ 150 mil; faltam R$ 30 mil"
+            ]
+          ]
         },
         {
           "type": "callout",
@@ -2963,7 +3784,7 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 1,
+      "version": 2,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
@@ -2971,6 +3792,52 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "Arts. 26, 27 e 28 da LRF e a Lei 13.019/2014 (MROSC) não conferidos no texto oficial."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Caso",
+              "Regra"
+            ],
+            [
+              "Transferência voluntária (art. 25)",
+              "Recursos a outro ente por cooperação, auxílio ou assistência; excluídos repasses constitucionais e legais e ao SUS"
+            ],
+            [
+              "Destinação ao setor privado (art. 26)",
+              "Lei específica, condições da LDO e previsão na LOA ou em crédito adicional"
+            ],
+            [
+              "Receita de alienação (art. 44)",
+              "Receita de capital; uso em despesa corrente é vedado, salvo destinação legal à previdência"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situação",
+              "Regra aplicável"
+            ],
+            [
+              "União entrega recursos discricionários a município",
+              "Art. 25; verificar dotação, contrapartida e finalidade pactuada"
+            ],
+            [
+              "Município cobre déficit de pessoa jurídica",
+              "Art. 26; lei específica, LDO e previsão orçamentária"
+            ],
+            [
+              "Estado vende imóvel para investimento",
+              "Art. 44; receita de capital aplicável à despesa de capital"
+            ],
+            [
+              "Estado vende imóvel para custeio corrente",
+              "Art. 44; vedação, salvo destinação legal ao regime previdenciário"
+            ]
+          ]
         },
         {
           "type": "callout",

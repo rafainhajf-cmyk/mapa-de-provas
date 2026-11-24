@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-24 — Claude (AFO e Direito Financeiro: quadros e fluxogramas, versão 2)
+
+- Feito: cada um dos 20 esquemas de AFO recebeu quadros comparativos e fluxogramas, montados só com o conteúdo já presente em cada esquema. Versão 2 dos registros afo-00 a afo-19. Os 217 registros existentes foram preservados.
+- Limite: os quadros não substituem a conferência jurídica; as pendências de legislação continuam marcadas em cada seção.
+- Testes: 31 passando e 4 falhando, as mesmas falhas anteriores à mudança (81 seções, sync-client, sync e test.mjs).
+- Arquivos: source-content/study-knowledge.json (importado com scripts/import-study-knowledge.mjs).
+
 ## 2026-11-24 — Claude (AFO e Direito Financeiro: 20 esquemas publicados)
 
 - Feito: incluídos 20 esquemas na base de conteúdos estruturados, na matéria "AFO e Direito Financeiro": a verificação de legislação (24/11/2026) e as 19 seções da apostila de AFO. Cada esquema traz regras, pegadinhas e cuidados em cartões, mais o texto de estudo em parágrafos.
