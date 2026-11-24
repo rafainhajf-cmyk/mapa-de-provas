@@ -3,6 +3,16 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-24 — Claude (AFO e Direito Financeiro: 20 esquemas publicados)
+
+- Feito: incluídos 20 esquemas na base de conteúdos estruturados, na matéria "AFO e Direito Financeiro": a verificação de legislação (24/11/2026) e as 19 seções da apostila de AFO. Cada esquema traz regras, pegadinhas e cuidados em cartões, mais o texto de estudo em parágrafos.
+- Os rótulos de questões do TEC e os rodapés do PDF foram retirados; os exemplos foram reescritos como exemplos gerais.
+- Pendências de conferência marcadas em cada seção afetada: art. 166-A (70%), art. 73 e art. 43 e art. 37 da Lei 4.320, LC 224/2025 sobre o art. 14 da LRF, percentuais de pessoal (54% e faixas), art. 31 da LRF e Resolução de dívida, prazos da ARO (arts. 38), arts. 26 a 28 da LRF e MROSC.
+- Limite conhecido: os quadros comparativos e fluxogramas exigidos pelo padrão não foram feitos; as tabelas do PDF viraram texto corrido. Os esquemas continuam abertos a revisão para ganhar quadros.
+- Arquivos: source-content/study-knowledge.json (importado com scripts/import-study-knowledge.mjs).
+- Testes: npm test com 8 falhas que já existiam antes desta alteração (mesmos resultados no estado anterior); npm run build ok.
+- Pendências: conferir o site após o deploy (o site pede senha); conferir os itens legais marcados; a planilha "Conteúdos estruturados" ainda não recebeu essas linhas.
+
 ## 2026-11-23 — Claude (Base de cálculo e arbitramento: Lei Kandir × LC 214 no Apostila)
 
 - Feito: nova seção "16-A" no Apostila de Tributário, logo após o quadro Kandir × LC 214 × LC 227. Traz o comparativo de base de cálculo (art. 15 e § 2º da Kandir; art. 12, § 4º da LC 214), o arbitramento (art. 18 × art. 13) e a tabela "o que memorizar", a partir do resumo enviado pelo usuário.
