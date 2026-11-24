@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-24 — Claude (AFO: revisão consolidada, seções 03 e 04, versão 3)
+
+- Feito: na seção 03, incluída a natureza jurídica das leis (complementar para organização, ordinária para instituição) e a pegadinha do PPA quadrienal. Na seção 04, o cuidado de que a finalidade definida segue, em regra, por instrumento de cooperação, enquanto só a transferência especial dispensa convênio.
+- Verificado: art. 166-A, I e § 5º, na EC 105/2019 (repasse direto sem convênio; 70% em capital).
+- Pendente: base do prazo quadrienal (ADCT, art. 35, § 2º; CF, art. 165, § 1º) e a redação consolidada da CF.
+- Testes: 31 passando e 4 falhando, as mesmas falhas anteriores.
+- Arquivos: source-content/study-knowledge.json (versão 3 das seções 03 e 04, importadas com scripts/import-study-knowledge.mjs).
+
 ## 2026-11-24 — Claude (AFO e Direito Financeiro: quadros e fluxogramas, versão 2)
 
 - Feito: cada um dos 20 esquemas de AFO recebeu quadros comparativos e fluxogramas, montados só com o conteúdo já presente em cada esquema. Versão 2 dos registros afo-00 a afo-19. Os 217 registros existentes foram preservados.

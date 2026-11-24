@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
-  "exportedAt": "2026-11-24T16:57:36.983Z",
+  "exportedAt": "2026-11-24T17:09:50.648Z",
   "records": [
     {
       "id": "afo-00-verificacao-legislacao",
@@ -552,14 +552,14 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
           "type": "callout",
           "kind": "warning",
           "title": "Pendência de conferência",
-          "text": "Conteúdo de estudo a partir do caderno TEC; conferência legal parcial, ver a seção Verificação de legislação."
+          "text": "Base do prazo quadrienal do PPA (ADCT, art. 35, § 2º; CF, art. 165, § 1º) e da natureza jurídica das leis não conferidas no texto oficial."
         },
         {
           "type": "table",
@@ -681,6 +681,18 @@
         {
           "type": "callout",
           "kind": "rule",
+          "title": "Natureza jurídica",
+          "text": "lei complementar organiza e disciplina as três leis; lei ordinária institui o PPA, a LDO e a LOA, cada uma por sua própria lei (CF, art. 165, caput e § 9º)."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "o PPA é quadrienal; LDO e LOA são anuais. Base: ADCT, art. 35, § 2º (PPA com vigência até o fim do primeiro ano do mandato seguinte) e CF, art. 165, § 1º."
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
           "title": "Lei 4.320, art. 2º",
           "text": "discriminar receitas e despesas, evidenciar a política econômico-financeira e o programa de trabalho, observando unidade, universalidade e anualidade."
         },
@@ -746,14 +758,14 @@
       "status": "approved",
       "updateType": "esquema",
       "source": "(Claude) Origem: esquemas consolidados do PDF AFO/Direito Financeiro (caderno TEC). Revisão 2026-11-24.",
-      "version": 2,
+      "version": 3,
       "updatedAt": "2026-11-24",
       "blocks": [
         {
           "type": "callout",
           "kind": "warning",
           "title": "Pendência de conferência",
-          "text": "Art. 166-A: piso de 70% em despesas de capital nas transferências especiais não conferido em fonte oficial."
+          "text": "Art. 166-A verificado na EC 105/2019 (I e § 5º, piso de 70%). Conferir a redação consolidada da CF e o instrumento da finalidade definida."
         },
         {
           "type": "table",
@@ -859,6 +871,12 @@
         },
         {
           "type": "callout",
+          "kind": "warning",
+          "title": "Cuidado",
+          "text": "a transferência com finalidade definida, em regra, segue por instrumento de cooperação (convênio, contrato de repasse ou congênere). Só a transferência especial dispensa esse instrumento (CF, art. 166-A, I)."
+        },
+        {
+          "type": "callout",
           "kind": "danger",
           "title": "Pegadinha",
           "text": "nas transferências especiais é vedado usar recursos para despesa com pessoal e encargos sociais, ou para encargos do serviço da dívida."
@@ -921,7 +939,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Finalidade definida                 Vinculada à programação da emenda."
+          "text": "Finalidade definida                 Vinculada à programação da emenda; em regra, formalizada por instrumento de cooperação (convênio, contrato de repasse ou congênere)."
         },
         {
           "type": "paragraph",
