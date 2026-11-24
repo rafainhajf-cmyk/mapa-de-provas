@@ -17,3 +17,5 @@
  table,figure{break-inside:avoid}
  a{color:inherit;text-decoration:none}
 }
+
+.review-toggle{width:34px;height:34px;border-radius:50%;border:1px solid #cddbd2;background:#fff;color:var(--green);font-weight:700;font-size:15px;padding:0}.review-toggle.has-note{background:#fff4df;border-color:#d19833;color:#8a5a00}.review-toggle[aria-expanded=true]{background:#e9f2e9}.review-panel{max-width:950px;margin:0 0 22px;padding:14px 16px;border:1px solid var(--line);border-radius:8px;background:#fbfcfa}.review-panel label{display:block;font-size:12px;font-weight:650;color:var(--muted);margin-bottom:8px}.review-panel textarea{width:100%;min-height:96px;border:1px solid var(--line);border-radius:6px;padding:10px 12px;font:14px/1.55 system-ui,sans-serif;color:var(--ink);background:#fff;resize:vertical}

@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-23 — Claude (Anotações de revisão no Apostila de Tributário)
+
+- Feito: cada tópico da apostila ganhou um botão "?" que abre a caixa "O que eu tenho que revisar neste tópico". O texto fica salvo neste navegador (localStorage, chave mapa-tributario-revisao-v1). O botão fica amarelo quando há anotação.
+- Feito: a linha "Combustíveis (monofasia)" do quadro Kandir × LC 214 × LC 227 agora compara as três colunas (Kandir, LC 214, LC 227), sem a lista longa.
+- Arquivos: source-content/apostila.js, source-content/apostila.css, source-content/apostila.html (versão v=118), source-content/apostila-data.json.
+- Pendências: anotações ficam só no navegador onde foram escritas; não sincronizam entre aparelhos. Conferir visualmente após o deploy (site pede senha).
+
 ## 2026-11-23 — Claude (Lei Kandir: combustíveis no quadro comparativo)
 
 - Feito: no quadro "Lei Kandir × LC 214 × LC 227" (seção 15) entrou a linha "Combustíveis (monofasia)" com a lista de combustíveis monofásicos da LC 192/2022, art. 2º, e a diferença em relação à monofasia do IS e ao regime do IBS/CBS. Abaixo, uma tabela curta por combustível e um callout "quem tem monofasia". A lista longa anterior saiu do quadro.
