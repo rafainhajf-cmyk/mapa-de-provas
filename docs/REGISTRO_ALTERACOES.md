@@ -3,6 +3,12 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-23 — Claude (Lei Kandir: combustíveis no quadro comparativo)
+
+- Feito: no quadro "Lei Kandir × LC 214 × LC 227" (seção 15) entrou a linha "Combustíveis (monofasia)" com a lista de combustíveis monofásicos da LC 192/2022, art. 2º, e a diferença em relação à monofasia do IS e ao regime do IBS/CBS. Abaixo, uma tabela curta por combustível e um callout "quem tem monofasia". A lista longa anterior saiu do quadro.
+- Arquivos: source-content/apostila-data.json.
+- Pendências: revisão jurídica da linha de combustíveis antes de aprovar; publicação aguardando autorização.
+
 ## 2026-11-23 — Claude (Assuntos relacionados: todos os links, com a palavra de origem, e voltar à posição)
 
 - Ajuste pedido: mostrar todos os relacionados (não só 3), indicando por qual palavra vieram.
