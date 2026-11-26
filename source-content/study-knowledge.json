@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
-  "exportedAt": "2026-11-24T19:58:27.393Z",
+  "exportedAt": "2026-11-26T15:20:02.404Z",
   "records": [
     {
       "id": "afo-00-verificacao-legislacao",
@@ -9587,6 +9587,77 @@
               "text": "Conferir o rol de modalidades e a redação do art. 33 no texto vigente antes de publicar."
             }
           ]
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "admin-04-dispensa-incisos-x-xvii-xviii",
+      "subject": "Direito Administrativo",
+      "targetId": "admin-04",
+      "targetTitle": "Licitações e contratos",
+      "title": "Dispensa: art. 75, X, XVII e XVIII",
+      "status": "approved",
+      "updateType": "incremental",
+      "source": "Texto do art. 75, X e XVIII enviado pelo usuário; Lei 14.133/2021 (Planalto); Lei 14.628/2023",
+      "version": 1,
+      "updatedAt": "2026-11-26",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Inciso",
+              "Palavra-chave",
+              "Quem se contrata",
+              "Finalidade"
+            ],
+            [
+              "X",
+              "União e domínio econômico",
+              "O inciso não especifica",
+              "Regular preços ou normalizar o abastecimento"
+            ],
+            [
+              "XVII",
+              "Água",
+              "Entidade privada sem fins lucrativos",
+              "Cisternas ou outras tecnologias sociais de acesso à água, para famílias rurais de baixa renda atingidas pela seca ou falta regular de água"
+            ],
+            [
+              "XVIII",
+              "Comida",
+              "Entidade privada sem fins lucrativos",
+              "Programa Cozinha Solidária: alimentação gratuita"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha (X)",
+          "text": "A hipótese é só da União. Estado, DF e Município não entram. Regular preços OU normalizar o abastecimento: basta uma finalidade."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha (XVIII)",
+          "text": "O público é atendido preferencialmente (não exclusivamente): vulnerabilidade e risco social, incluída a população em situação de rua. Entidade com fins lucrativos não se enquadra."
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Para guardar",
+          "text": "X = União + preço ou abastecimento. XVII = água. XVIII = comida."
+        },
+        {
+          "type": "paragraph",
+          "text": "Os incisos XVII e XVIII foram incluídos pela Lei 14.628/2023. O XVIII visa à segurança alimentar e nutricional, à assistência social e à efetivação de direitos sociais, dignidade humana, resgate social e melhoria da qualidade de vida."
+        },
+        {
+          "type": "reference",
+          "text": "Lei 14.133/2021, art. 75 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
         }
       ],
       "flashcards": []

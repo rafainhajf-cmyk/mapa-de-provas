@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-26 — Claude (Direito Administrativo: dispensa, art. 75, X, XVII e XVIII)
+
+- Feito: publicado o esquema incremental admin-04-dispensa-incisos-x-xvii-xviii (quadro, pegadinhas e frase de memorização), aprovado pelo usuário.
+- Verificado: incisos conferidos na página da Lei 14.133 no Planalto, por ferramenta que resume a página.
+- Pendente: nenhum flashcard criado.
+- Arquivos: source-content/study-knowledge.json, docs/REGISTRO_ALTERACOES.md.
+
 ## 2026-11-24 — Claude (Economia: 3 esquemas gerais aprovados e publicados)
 
 - Feito: publicados os esquemas gerais de Microeconomia, Macroeconomia e Finanças Públicas (econ-micro, econ-macro, econ-fin), aprovados pelo usuário. Conteúdo sintetizado a partir da planilha Economia TEC, sem referência aos exercícios.
