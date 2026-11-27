@@ -661,8 +661,8 @@ Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — 
 - Arquivos: `AGENTS.md`, `docs/REGISTRO_ALTERACOES.md`.
 - Pendências: nenhuma. Sem mudança no site.
 
-## 2026-11-27 — Claude (branch claude/contabilidade-revisao-2026-11, aguardando aprovação)
-- Adicionados 10 esquemas de Contabilidade em `source-content/study-knowledge.json` com status `draft` (não aparecem no site até aprovação): balancete de verificação; balanço patrimonial e contas sintéticas/analíticas; teorias das contas; técnicas de avaliação (CPC 46); base de comparação do valor justo por norma; AVP (quando aplicar e mantra); reversão do AVP; cartão-presente e cartão de crédito (CPC 47); mudança de política ou erro (CPC 23, terreno e marca).
+## 2026-11-27 — Claude (branch claude/contabilidade-revisao-2026-11, aprovado pelo usuário)
+- Adicionados 10 esquemas de Contabilidade em `source-content/study-knowledge.json` com status `approved` após aprovação do usuário: balancete de verificação; balanço patrimonial e contas sintéticas/analíticas; teorias das contas; técnicas de avaliação (CPC 46); base de comparação do valor justo por norma; AVP (quando aplicar e mantra); reversão do AVP; cartão-presente e cartão de crédito (CPC 47); mudança de política ou erro (CPC 23, terreno e marca).
 - Build ok. Testes: 31 passam e 4 falham, iguais à base da `main` antes da mudança.
 - Arquivos: `source-content/study-knowledge.json`, `docs/REGISTRO_ALTERACOES.md`.
-- Pendências: conferir numeração dos itens dos CPCs 46, 12, 47, 04 (item 75) e 28 na fonte oficial; conferir a teoria das contas com o material do curso; esquema do comentário do Samuel B não incluído (texto não recebido); os registros precisam virar `approved` antes de publicar.
+- Pendências: conferir numeração dos itens dos CPCs 46, 12, 47, 04 (item 75) e 28 na fonte oficial; conferir a teoria das contas com o material do curso; esquema do comentário do Samuel B não incluído (texto não recebido).
