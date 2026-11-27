@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-27 — Claude (Estatística: separatrizes, dispersão, médias, valor esperado)
+
+- Feito: incluídos 5 esquemas novos da matéria Estatística (est-01 a est-05): tipos de variáveis; separatrizes e interpolação; médias e assimetria; dispersão e propriedades; valor esperado. Aprovados pelo usuário em 2026-11-27.
+- Verificado: contas dos exemplos refeitas à mão. Validação do pacote pelo parser de conhecimento.
+- Pendente: conferência em fonte oficial; regra de Sturges não confirmada; tabela de tipos de variáveis e assimetria vêm de comentários do TEC; fórmula e propriedades de valor esperado não conferidas em livro; conferência visual no site ainda não feita; sincronização com a planilha "Conteúdos estruturados" não feita.
+- Testes: 27 passando e 8 falhando, as mesmas falhas da `main` (sync-client, sync, test.mjs e 5 checagens de build/visual).
+- Arquivos: source-content/study-knowledge.json, docs/REGISTRO_ALTERACOES.md.
+
 ## 2026-11-26 — Claude (Direito Administrativo: dispensa, art. 75, X, XVII e XVIII)
 
 - Feito: publicado o esquema incremental admin-04-dispensa-incisos-x-xvii-xviii (quadro, pegadinhas e frase de memorização), aprovado pelo usuário.

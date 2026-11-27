@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceSheetId": "1DoDAI1T_LYd5g-kAnrWl-3EKw05vcWk4YOVVg36g4g4",
-  "exportedAt": "2026-11-26T15:20:02.404Z",
+  "exportedAt": "2026-11-27T16:18:08.101923Z",
   "records": [
     {
       "id": "afo-00-verificacao-legislacao",
@@ -23469,6 +23469,446 @@
           "kind": "warning",
           "title": "Pendência de conferência",
           "text": "CTN, art. 186 (regime fora da falência) e art. 151 (três meses e cinco salários mínimos) ainda não conferidos com o texto legal."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "est-01-tipos-variaveis",
+      "subject": "Estatística",
+      "targetId": "est-tipos-variaveis",
+      "targetTitle": "Tipos de variáveis",
+      "title": "Tipos de variáveis",
+      "status": "approved",
+      "updateType": "novo",
+      "source": "(Claude) Origem: rascunho consolidado de Estatística aprovado pelo usuário em 2026-11-27. Materiais do próprio aluno e comentários do TEC. Conteúdo a conferir em fonte oficial (ver pendências).",
+      "version": 1,
+      "updatedAt": "2026-11-27",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Tipo",
+              "Subtipo",
+              "Características",
+              "Exemplos"
+            ],
+            [
+              "Quantitativa",
+              "Discreta",
+              "Valores contáveis, inteiros",
+              "Número de filhos; idade contada em anos"
+            ],
+            [
+              "Quantitativa",
+              "Contínua",
+              "Escala contínua; frações fazem sentido",
+              "Altura, peso, tempo"
+            ],
+            [
+              "Qualitativa (categórica)",
+              "Nominal",
+              "Sem ordem entre as categorias",
+              "Sexo; raça/cor; fumante (sim/não)"
+            ],
+            [
+              "Qualitativa (categórica)",
+              "Ordinal",
+              "Há ordem entre as categorias",
+              "Escolaridade; comorbidades (sim, não, ignorado)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Cuidado",
+          "text": "Idade é, em essência, contínua. Quando contada em anos, a banca a trata como quantitativa discreta."
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "O tipo depende da ordem entre as categorias. Se houver ordem, a variável é ordinal."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "est-02-separatrizes",
+      "subject": "Estatística",
+      "targetId": "est-separatrizes",
+      "targetTitle": "Separatrizes e interpolação linear",
+      "title": "Separatrizes e interpolação linear",
+      "status": "approved",
+      "updateType": "novo",
+      "source": "(Claude) Origem: rascunho consolidado de Estatística aprovado pelo usuário em 2026-11-27. Materiais do próprio aluno e comentários do TEC. Conteúdo a conferir em fonte oficial (ver pendências).",
+      "version": 1,
+      "updatedAt": "2026-11-27",
+      "blocks": [
+        {
+          "type": "flowchart",
+          "title": "Como achar a mediana",
+          "steps": [
+            {
+              "label": "Rol",
+              "text": "Ordene os dados."
+            },
+            {
+              "label": "Dados soltos, n ímpar",
+              "text": "Posição (n+1)/2."
+            },
+            {
+              "label": "Dados soltos, n par",
+              "text": "Média dos valores nas posições n/2 e n/2 + 1."
+            },
+            {
+              "label": "Dados em classes",
+              "text": "Posição n/2; ache a classe pela frequência acumulada e aplique a fórmula."
+            }
+          ]
+        },
+        {
+          "type": "formula",
+          "text": "S = Li + [(posição − Fac ant) / fi] × h"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Medida",
+              "Divide em",
+              "Quantas há",
+              "Posição"
+            ],
+            [
+              "Mediana",
+              "2 partes",
+              "1",
+              "n/2"
+            ],
+            [
+              "Quartil",
+              "4 partes",
+              "3",
+              "k·n/4"
+            ],
+            [
+              "Decil",
+              "10 partes",
+              "9",
+              "k·n/10"
+            ],
+            [
+              "Percentil",
+              "100 partes",
+              "99",
+              "k·n/100"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra essencial",
+          "text": "Md = Q2 = D5 = P50."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Cuidado",
+          "text": "Em dados soltos, a banca pode usar posições com (n+1) ou com n."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Medida",
+              "Posição",
+              "Conta",
+              "Resultado"
+            ],
+            [
+              "Md",
+              "10",
+              "2 + (6/10)×2",
+              "3,2"
+            ],
+            [
+              "Q1",
+              "5",
+              "2 + (1/10)×2",
+              "2,2"
+            ],
+            [
+              "Q3",
+              "15",
+              "4 + (1/3)×2",
+              "4,67"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Exemplo: classes 0–2 (fi 4), 2–4 (10), 4–6 (3), 6–8 (2), 8–10 (1); n = 20; Fac acumuladas 4, 14, 17, 19, 20."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "est-03-medias-assimetria",
+      "subject": "Estatística",
+      "targetId": "est-medias-assimetria",
+      "targetTitle": "Médias e assimetria",
+      "title": "Médias e assimetria",
+      "status": "approved",
+      "updateType": "novo",
+      "source": "(Claude) Origem: rascunho consolidado de Estatística aprovado pelo usuário em 2026-11-27. Materiais do próprio aluno e comentários do TEC. Conteúdo a conferir em fonte oficial (ver pendências).",
+      "version": 1,
+      "updatedAt": "2026-11-27",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Medida",
+              "Fórmula"
+            ],
+            [
+              "Média (dados em classes)",
+              "x̄ = Σ(fi·xi) / Σfi"
+            ],
+            [
+              "Média harmônica (não agrupada)",
+              "MH = n / Σ(1/xi)"
+            ],
+            [
+              "Média harmônica (em frequência)",
+              "MH = Σfi / Σ(fi/xi)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Cuidado",
+          "text": "A média harmônica só existe para valores positivos. Ela é menor ou igual à média geométrica e à aritmética."
+        },
+        {
+          "type": "formula",
+          "text": "h = (Valor máx − Valor mín) / quantidade de classes"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Cuidado",
+          "text": "A quantidade de classes costuma vir no enunciado. A regra de Sturges não foi confirmada em fonte oficial."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Distribuição",
+              "Cauda",
+              "Ordem"
+            ],
+            [
+              "Assimétrica à esquerda (negativa)",
+              "Para a esquerda",
+              "Média < Mediana < Moda"
+            ],
+            [
+              "Simétrica",
+              "Caudas iguais",
+              "Média = Mediana = Moda"
+            ],
+            [
+              "Assimétrica à direita (positiva)",
+              "Para a direita",
+              "Moda < Mediana < Média"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Para decorar",
+          "text": "A média é puxada para a cauda, a moda fica no topo e a mediana fica no meio."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Cuidado",
+          "text": "A regra vale para curvas com um só pico. Há distribuições que fogem dessa ordem."
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "est-04-dispersao",
+      "subject": "Estatística",
+      "targetId": "est-dispersao",
+      "targetTitle": "Medidas de dispersão e propriedades",
+      "title": "Medidas de dispersão e propriedades",
+      "status": "approved",
+      "updateType": "novo",
+      "source": "(Claude) Origem: rascunho consolidado de Estatística aprovado pelo usuário em 2026-11-27. Materiais do próprio aluno e comentários do TEC. Conteúdo a conferir em fonte oficial (ver pendências).",
+      "version": 1,
+      "updatedAt": "2026-11-27",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Medida",
+              "Fórmula"
+            ],
+            [
+              "Amplitude total",
+              "Xmáx − Xmín"
+            ],
+            [
+              "Amplitude interquartílica",
+              "Q3 − Q1"
+            ],
+            [
+              "Desvio quartílico",
+              "(Q3 − Q1)/2"
+            ],
+            [
+              "Variância populacional",
+              "σ² = Σ(x − μ)² / N"
+            ],
+            [
+              "Variância amostral",
+              "s² = Σ(x − x̄)² / (n − 1)"
+            ],
+            [
+              "Desvio padrão",
+              "Raiz quadrada da variância"
+            ],
+            [
+              "Coeficiente de variação",
+              "CV = desvio padrão / média"
+            ],
+            [
+              "Variância relativa",
+              "CV²"
+            ]
+          ]
+        },
+        {
+          "type": "formula",
+          "text": "σ² = Σ fi·(xi − μ)² / Σfi (dados em classes)"
+        },
+        {
+          "type": "formula",
+          "text": "Parcela de cada classe = fi·(xi − x̄)²"
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "A classe com mais dados nem sempre é a que mais pesa na variância, porque a distância até a média entra ao quadrado."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Em todos os dados",
+              "Média",
+              "Variância",
+              "Desvio padrão",
+              "CV"
+            ],
+            [
+              "Somar a",
+              "soma a",
+              "não muda",
+              "não muda",
+              "muda (se a ≠ 0 e DP > 0)"
+            ],
+            [
+              "Multiplicar por b > 0",
+              "× b",
+              "× b²",
+              "× b",
+              "não muda"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "Com b negativo, o desvio padrão é multiplicado por |b|. Var(−X) = Var(X), e não −Var(X)."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Cuidado",
+          "text": "Para o CV em porcentagem, multiplique por 100. A média precisa ser diferente de zero."
+        },
+        {
+          "type": "formula",
+          "text": "Var(X + k) = Var(X);  Var(aX + b) = a²·Var(X);  DP(aX + b) = |a|·DP(X)"
+        }
+      ],
+      "flashcards": []
+    },
+    {
+      "id": "est-05-valor-esperado",
+      "subject": "Estatística",
+      "targetId": "est-valor-esperado",
+      "targetTitle": "Valor esperado",
+      "title": "Valor esperado",
+      "status": "approved",
+      "updateType": "novo",
+      "source": "(Claude) Origem: rascunho consolidado de Estatística aprovado pelo usuário em 2026-11-27. Materiais do próprio aluno e comentários do TEC. Conteúdo a conferir em fonte oficial (ver pendências).",
+      "version": 1,
+      "updatedAt": "2026-11-27",
+      "blocks": [
+        {
+          "type": "formula",
+          "text": "E(X) = Σ xi · P(xi) (variável discreta)"
+        },
+        {
+          "type": "paragraph",
+          "text": "É a média de longo prazo do experimento. Exemplo: dado honesto, E(X) = 3,5."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Propriedade",
+              "Vale"
+            ],
+            [
+              "E(a) = a",
+              "Para constante a"
+            ],
+            [
+              "E(aX + b)",
+              "a·E(X) + b"
+            ],
+            [
+              "E(X + Y)",
+              "E(X) + E(Y), mesmo com dependência"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "danger",
+          "title": "Pegadinha",
+          "text": "E(X) não precisa ser um valor que a variável pode assumir."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência",
+          "text": "Fórmula e propriedades não conferidas em livro ou fonte externa."
         }
       ],
       "flashcards": []
