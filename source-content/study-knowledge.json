@@ -26069,6 +26069,595 @@
         }
       ],
       "flashcards": []
+    },
+    {
+      "id": "contab-balancete-verificacao",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-01",
+      "targetTitle": "Contabilidade Básica",
+      "title": "Balancete de verificação",
+      "status": "draft",
+      "updateType": "novo",
+      "source": "(Claude) Origem: material enviado pelo usuário no chat (Contabilidade, 27/11/2026); conferência pendente na fonte oficial.",
+      "version": 1,
+      "updatedAt": "2026-11-27",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Demonstrativo auxiliar, sem obrigatoriedade fiscal, levantado para fins operacionais. Reúne todas as contas com os respectivos saldos devedores e credores, extraídos do livro razão."
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Finalidade",
+          "text": "Verificar se o total de débitos é exatamente igual ao total de créditos."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Confirmar a fonte da definição de balancete no material do curso."
+        }
+      ],
+      "flashcards": [
+        [
+          "Qual é a finalidade do balancete de verificação?",
+          "Verificar se o total de débitos é igual ao total de créditos."
+        ],
+        [
+          "O balancete é obrigatório do ponto de vista fiscal?",
+          "Não. É demonstrativo auxiliar, sem obrigatoriedade fiscal, levantado para fins operacionais."
+        ],
+        [
+          "De onde são extraídos os saldos do balancete?",
+          "Do livro razão."
+        ]
+      ]
+    },
+    {
+      "id": "contab-balanco-patrimonial-comparativo",
+      "subject": "Contabilidade",
+      "targetId": "conta-e-02",
+      "targetTitle": "Balanço Patrimonial",
+      "title": "Balanço patrimonial, comparação e contas sintéticas e analíticas",
+      "status": "draft",
+      "updateType": "novo",
+      "source": "(Claude) Origem: material enviado pelo usuário no chat (Contabilidade, 27/11/2026); conferência pendente na fonte oficial.",
+      "version": 1,
+      "updatedAt": "2026-11-27",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O balanço patrimonial é a demonstração estática que evidencia a posição patrimonial e financeira da entidade, em termos qualitativos e quantitativos, em um determinado momento."
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Comparação",
+          "text": "Pelo art. 176, §1º, da Lei 6.404/1976, as demonstrações de cada exercício são publicadas com os valores correspondentes do exercício anterior."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Tipo de conta",
+              "Função",
+              "Cuidado"
+            ],
+            [
+              "Sintética (de grupo)",
+              "Identifica os subgrupos",
+              "Não recebe lançamento direto"
+            ],
+            [
+              "Analítica",
+              "Recebe os lançamentos e aparece no balanço",
+              "É a conta que efetivamente registra os fatos"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Confirmar a redação do art. 176, §1º, na Lei 6.404/1976."
+        }
+      ],
+      "flashcards": [
+        [
+          "O que é o balanço patrimonial?",
+          "Demonstração estática que evidencia a posição patrimonial e financeira em um momento."
+        ],
+        [
+          "O que exige o art. 176, §1º, da Lei 6.404/1976?",
+          "Publicação com os valores correspondentes do exercício anterior, para comparação."
+        ],
+        [
+          "Qual conta identifica subgrupos e não recebe lançamento direto?",
+          "A conta sintética."
+        ]
+      ]
+    },
+    {
+      "id": "contab-teoria-contas-materialista-personalista",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-01",
+      "targetTitle": "Contabilidade Básica",
+      "title": "Teorias das contas: materialista e personalista",
+      "status": "draft",
+      "updateType": "novo",
+      "source": "(Claude) Origem: material enviado pelo usuário no chat (Contabilidade, 27/11/2026); conferência pendente na fonte oficial.",
+      "version": 1,
+      "updatedAt": "2026-11-27",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Teoria",
+              "Critério de divisão das contas"
+            ],
+            [
+              "Materialista",
+              "Integrais (ou elementares) e diferenciais (ou derivadas)"
+            ],
+            [
+              "Personalista",
+              "Contas como pessoas: proprietários e agentes consignatários"
+            ],
+            [
+              "Patrimonialista",
+              "Patrimoniais e de resultado"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Pegadinha",
+          "text": "A banca troca a teoria, e não o conceito. Divisão em integrais e diferenciais é da teoria materialista, não da personalista."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Confirmar a correspondência entre teoria e critério com a bibliografia do curso."
+        }
+      ],
+      "flashcards": [
+        [
+          "Em qual teoria as contas se dividem em integrais e diferenciais?",
+          "Na teoria materialista."
+        ],
+        [
+          "Como a teoria personalista classifica as contas?",
+          "Como pessoas: proprietários e agentes consignatários."
+        ],
+        [
+          "Qual teoria divide as contas em patrimoniais e de resultado?",
+          "A patrimonialista."
+        ]
+      ]
+    },
+    {
+      "id": "contab-cpc46-tecnicas-avaliacao",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-04",
+      "targetTitle": "CPC 46: Mensuração a Valor Justo (Lei 6.404, art. 183, §1º)",
+      "title": "Técnicas de avaliação do valor justo",
+      "status": "draft",
+      "updateType": "novo",
+      "source": "(Claude) Origem: material enviado pelo usuário no chat (Contabilidade, 27/11/2026); conferência pendente na fonte oficial.",
+      "version": 1,
+      "updatedAt": "2026-11-27",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Abordagem",
+              "O que reflete"
+            ],
+            [
+              "Mercado",
+              "Preços e informações de transações com ativos ou passivos idênticos ou comparáveis; inclui a precificação por matriz"
+            ],
+            [
+              "Custo",
+              "Valor atual necessário para substituir a capacidade de serviço do ativo (custo de reposição)"
+            ],
+            [
+              "Receita",
+              "Converte valores futuros em um valor único atual, descontado, refletindo as expectativas de mercado"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Pegadinha",
+          "text": "No valor justo, custo é custo de reposição, e não custo histórico corrigido pela inflação."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir a numeração dos itens do CPC 46 que tratam das três abordagens."
+        }
+      ],
+      "flashcards": [
+        [
+          "Qual abordagem usa preços de transações comparáveis?",
+          "Abordagem de mercado."
+        ],
+        [
+          "O que a abordagem de custo reflete?",
+          "O valor atual necessário para substituir a capacidade de serviço do ativo."
+        ],
+        [
+          "O que a abordagem de receita faz?",
+          "Converte valores futuros em um valor único atual, descontado."
+        ]
+      ]
+    },
+    {
+      "id": "contab-cpc46-base-comparacao",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-04",
+      "targetTitle": "CPC 46: Mensuração a Valor Justo (Lei 6.404, art. 183, §1º)",
+      "title": "Base de comparação do valor justo por norma",
+      "status": "draft",
+      "updateType": "novo",
+      "source": "(Claude) Origem: material enviado pelo usuário no chat (Contabilidade, 27/11/2026); conferência pendente na fonte oficial.",
+      "version": 1,
+      "updatedAt": "2026-11-27",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Norma",
+              "Comparação"
+            ],
+            [
+              "CPC 01 (impairment)",
+              "Valor contábil × maior entre valor justo líquido de despesas de venda e valor em uso"
+            ],
+            [
+              "CPC 31 (mantido para venda)",
+              "Valor contábil × valor justo líquido de despesas de venda; prevalece o menor"
+            ],
+            [
+              "CPC 16 (estoques)",
+              "Custo × valor realizável líquido; prevalece o menor"
+            ],
+            [
+              "CPC 28 (propriedade para investimento)",
+              "Valor justo bruto, sem deduzir despesas de venda"
+            ],
+            [
+              "CPC 48 (instrumentos financeiros)",
+              "Valor justo bruto, sem deduzir despesas de venda"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Regra",
+          "text": "Nos três primeiros, há comparação com o valor contábil ou custo. Nos dois últimos, o valor justo é a própria mensuração."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir cada comparação nos respectivos CPCs antes de publicar."
+        }
+      ],
+      "flashcards": [
+        [
+          "Qual norma compara o valor contábil com o maior valor entre valor justo líquido e valor em uso?",
+          "CPC 01 (impairment)."
+        ],
+        [
+          "Qual norma prevê o menor entre custo e valor realizável líquido?",
+          "CPC 16 (estoques)."
+        ],
+        [
+          "Em propriedade para investimento, o valor justo é bruto ou líquido de despesas de venda?",
+          "Bruto, sem deduzir despesas de venda."
+        ]
+      ]
+    },
+    {
+      "id": "contab-cpc12-avp-quando-mantra",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-03",
+      "targetTitle": "CPC 12: Ajuste a Valor Presente",
+      "title": "AVP: quando aplicar e o mantra",
+      "status": "draft",
+      "updateType": "novo",
+      "source": "(Claude) Origem: material enviado pelo usuário no chat (Contabilidade, 27/11/2026); conferência pendente na fonte oficial.",
+      "version": 1,
+      "updatedAt": "2026-11-27",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Prazo",
+              "Quando é ajustado a valor presente"
+            ],
+            [
+              "Longo prazo",
+              "Ativos e passivos decorrentes de operações de longo prazo"
+            ],
+            [
+              "Curto prazo",
+              "Somente quando houver efeito relevante"
+            ]
+          ]
+        },
+        {
+          "type": "formula",
+          "label": "Mantra",
+          "text": "Método dos juros efetivos (exponencial) + classificação financeira (receita para ativo, despesa para passivo)"
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir a redação do CPC 12 sobre o método. Ele fala em taxa efetiva e não impõe a fórmula exponencial em todas as situações; na prova, a convenção é exponencial."
+        }
+      ],
+      "flashcards": [
+        [
+          "Quando o AVP se aplica ao curto prazo?",
+          "Somente quando houver efeito relevante."
+        ],
+        [
+          "Qual é o mantra do AVP?",
+          "Método dos juros efetivos (exponencial) + classificação financeira."
+        ],
+        [
+          "Juros de conta de ativo ajustada a valor presente geram receita ou despesa?",
+          "Receita financeira."
+        ]
+      ]
+    },
+    {
+      "id": "contab-cpc12-reversao-avp",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-03",
+      "targetTitle": "CPC 12: Ajuste a Valor Presente",
+      "title": "Reversão do AVP",
+      "status": "draft",
+      "updateType": "novo",
+      "source": "(Claude) Origem: material enviado pelo usuário no chat (Contabilidade, 27/11/2026); conferência pendente na fonte oficial.",
+      "version": 1,
+      "updatedAt": "2026-11-27",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situação",
+              "Tratamento"
+            ],
+            [
+              "Regra",
+              "Receitas ou despesas financeiras"
+            ],
+            [
+              "Financiamento a clientes faz parte das atividades operacionais",
+              "Receita operacional"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Exceção",
+          "text": "Quando o financiamento concedido a clientes é atividade operacional da empresa, a reversão vai para receita operacional."
+        }
+      ],
+      "flashcards": [
+        [
+          "Qual é a regra para a reversão do AVP?",
+          "Receitas ou despesas financeiras."
+        ],
+        [
+          "Quando a reversão do AVP vai para receita operacional?",
+          "Quando o financiamento a clientes faz parte das atividades operacionais."
+        ]
+      ]
+    },
+    {
+      "id": "contab-cpc47-cartao-presente",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-06",
+      "targetTitle": "CPC 47: Receita de Contrato com Cliente",
+      "title": "Cartão-presente: passivo de contrato e receita",
+      "status": "draft",
+      "updateType": "novo",
+      "source": "(Claude) Origem: material enviado pelo usuário no chat (Contabilidade, 27/11/2026); conferência pendente na fonte oficial.",
+      "version": 1,
+      "updatedAt": "2026-11-27",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Cartão-presente é cartão que o cliente compra para usar depois, em compras na loja emissora. A venda é antecipada: a loja recebe hoje e entrega depois."
+        },
+        {
+          "type": "flowchart",
+          "title": "Tratamento",
+          "steps": [
+            {
+              "label": "Venda",
+              "text": "Reconhece passivo de contrato, não receita."
+            },
+            {
+              "label": "Uso",
+              "text": "Reconhece receita pelo valor utilizado e reduz o passivo."
+            },
+            {
+              "label": "Vencimento",
+              "text": "A parte não usada vira receita, se a loja não devolver o valor."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Pegadinha",
+          "text": "Venda não gera receita na hora. Valor não usado não some: vira receita no vencimento, sem devolução."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Confirmar na redação do CPC 47 a regra da parte não usada (breakage), que pode exigir reconhecimento proporcional ao padrão de uso."
+        }
+      ],
+      "flashcards": [
+        [
+          "A venda de cartão-presente gera receita imediata?",
+          "Não. Gera passivo de contrato."
+        ],
+        [
+          "Quando a parte não usada de um cartão-presente vira receita?",
+          "No vencimento do prazo, se não houver devolução."
+        ],
+        [
+          "Qual é o efeito da política de não devolução?",
+          "O valor não usado é receita, e não passivo."
+        ]
+      ]
+    },
+    {
+      "id": "contab-cpc47-cartao-credito",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-06",
+      "targetTitle": "CPC 47: Receita de Contrato com Cliente",
+      "title": "Venda com cartão de crédito",
+      "status": "draft",
+      "updateType": "novo",
+      "source": "(Claude) Origem: material enviado pelo usuário no chat (Contabilidade, 27/11/2026); conferência pendente na fonte oficial.",
+      "version": 1,
+      "updatedAt": "2026-11-27",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Aspecto",
+              "Tratamento"
+            ],
+            [
+              "Quando reconhece a receita",
+              "Na entrega do produto ou serviço"
+            ],
+            [
+              "O que fica no balanço",
+              "Contas a receber da administradora"
+            ],
+            [
+              "Taxa da administradora",
+              "Despesa da loja (financeira ou administrativa)"
+            ],
+            [
+              "Parte não usada",
+              "Não há; a venda já está concluída"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Pegadinha",
+          "text": "Venda no cartão de crédito não gera passivo de contrato. Passivo de contrato só existe quando a loja recebe antes de entregar."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Confirmar o tratamento de administradoras de cartão na redação do CPC 47."
+        }
+      ],
+      "flashcards": [
+        [
+          "Quando a loja reconhece a receita de uma venda no cartão de crédito?",
+          "Na entrega do produto ou serviço."
+        ],
+        [
+          "Onde fica registrado o valor a receber de uma venda no cartão de crédito?",
+          "Em contas a receber da administradora."
+        ],
+        [
+          "Venda com cartão de crédito gera passivo de contrato?",
+          "Não."
+        ]
+      ]
+    },
+    {
+      "id": "contab-cpc23-politicas-erro-terreno-marca",
+      "subject": "Contabilidade",
+      "targetId": "conta-a-05",
+      "targetTitle": "CPC 23: Políticas Contábeis, Mudanças de Estimativa e Retificação de Erro",
+      "title": "Mudança de política ou erro: terreno e marca",
+      "status": "draft",
+      "updateType": "novo",
+      "source": "(Claude) Origem: material enviado pelo usuário no chat (Contabilidade, 27/11/2026); conferência pendente na fonte oficial.",
+      "version": 1,
+      "updatedAt": "2026-11-27",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Caso",
+              "Classificação",
+              "Motivo"
+            ],
+            [
+              "Terreno: custo → valor justo (propriedade para investimento)",
+              "Mudança de política",
+              "Permitida pelo CPC 28 e admitida se trouxer informação mais relevante e confiável (CPC 23)"
+            ],
+            [
+              "Marca: remensuração a valor justo sem mercado ativo",
+              "Erro",
+              "Viola o CPC 04, que só admite reavaliação de intangíveis com mercado ativo (item 75)"
+            ]
+          ]
+        },
+        {
+          "type": "callout",
+          "kind": "rule",
+          "title": "Atenção",
+          "text": "Combinação de negócios e subvenção governamental são reconhecimento inicial, e não exceção à regra de custo do intangível depois do reconhecimento."
+        },
+        {
+          "type": "callout",
+          "kind": "warning",
+          "title": "Pendência de conferência",
+          "text": "Conferir a numeração do item 75 do CPC 04 e os itens do CPC 28 citados."
+        }
+      ],
+      "flashcards": [
+        [
+          "Mudança de custo para valor justo em propriedade para investimento é o quê?",
+          "Mudança de política contábil, quando trouxer informação mais relevante e confiável."
+        ],
+        [
+          "Qual é o critério para reavaliar intangíveis a valor justo?",
+          "Existência de mercado ativo (CPC 04, item 75)."
+        ],
+        [
+          "Remensuração de marca a valor justo sem mercado ativo é o quê?",
+          "Erro contábil."
+        ]
+      ]
     }
   ]
 }
