@@ -3,6 +3,11 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-28 (Claude) — Seletor de matéria na leitura de Tributário (autorizado)
+
+- O seletor rápido mostrava "AFO e Direito Financeiro" em conteúdos de Tributário porque a lista excluía essa matéria. Agora inclui a matéria aberta.
+- Arquivos: `dificuldades.js` (v117), `dificuldades.html`.
+
 ## 2026-11-28 (Claude) — Poder de polícia e Retroatividade: original no topo (aprovado)
 
 - Novo `visualPlacement: original-first`: imagem original aberta no topo, complementos embaixo.
