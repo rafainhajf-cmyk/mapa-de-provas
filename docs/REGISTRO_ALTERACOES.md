@@ -3,6 +3,11 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-28 (Claude) — Poder de polícia: fluxo do ciclo depois das correções (pedido do usuário)
+
+- No layout `original-first`, o esquema do assunto passa a vir depois do bloco de correções.
+- Arquivos: `dificuldades.js` (v118), `dificuldades.html`.
+
 ## 2026-11-28 (Claude) — Seletor de matéria na leitura de Tributário (autorizado)
 
 - O seletor rápido mostrava "AFO e Direito Financeiro" em conteúdos de Tributário porque a lista excluía essa matéria. Agora inclui a matéria aberta.
