@@ -3444,6 +3444,53 @@
     "source": "Imagem enviada neste chat; texto organizado e conferido em fontes oficiais.",
     "contentBlocks": [
      {
+      "type": "image",
+      "src": "assets/poder-policia-original.webp",
+      "alt": "Mapa original de Poder de Polícia enviado pelo usuário; consulte as correções no texto abaixo.",
+      "caption": "Imagem original preservada. Consulte as correções sobre delegação, coercibilidade e executoriedade abaixo."
+     },
+     {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Leia com as correções logo abaixo",
+      "text": "O original tem afirmações que não devem ser memorizadas como estão."
+     },
+     {
+      "type": "paragraph",
+      "style": "HEADING_1",
+      "text": "Correções para ler a imagem original"
+     },
+     {
+      "type": "table",
+      "rows": [
+       [
+        "Afirmação da imagem",
+        "Como estudar com segurança"
+       ],
+       [
+        "“Só pode ser exercido por entidades de direito público.”",
+        "Evite a regra absoluta. O STF, no Tema 532, admite delegação por lei a pessoa jurídica de direito privado integrante da Administração indireta, com capital majoritariamente público, que preste exclusivamente serviço público de atuação própria do Estado em regime não concorrencial. Os requisitos são cumulativos."
+       ],
+       [
+        "“Apenas os atos com autoexecutoriedade possuem coercibilidade.”",
+        "Não use como regra geral. Impor uma obrigação e executá-la materialmente são coisas diferentes. A multa é o exemplo para distinguir imposição administrativa de cobrança forçada."
+       ],
+       [
+        "“Sentido estrito = apenas atos do Executivo.”",
+        "O recorte é o exercício da função administrativa. Os demais Poderes também podem exercer função administrativa, nos limites de suas competências."
+       ],
+       [
+        "“Exigibilidade = tomar decisões executórias.”",
+        "Prefira: exigibilidade se relaciona à coerção indireta; executoriedade, à execução material direta."
+       ]
+      ]
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "Tema 532 não autoriza delegar indistintamente a qualquer empresa privada. Exemplo do julgamento: BHTRANS e aplicação de multas de trânsito. A necessidade de lei e os demais requisitos devem ser conferidos juntos."
+     },
+     {
       "type": "paragraph",
       "style": "TITLE",
       "text": "Poder de polícia: quadro de revisão"
@@ -3484,7 +3531,7 @@
        ],
        [
         "Poder delegado ou derivado",
-        "Exercido por entidades da Administração indireta com competência legal, como autarquias. A delegação tem limites; veja o Tema 532 abaixo."
+        "Exercido por entidades da Administração indireta com competência legal, como autarquias. A delegação tem limites; veja o Tema 532 acima."
        ]
       ]
      },
@@ -3561,41 +3608,6 @@
      {
       "type": "paragraph",
       "style": "HEADING_1",
-      "text": "Correções para ler a imagem original"
-     },
-     {
-      "type": "table",
-      "rows": [
-       [
-        "Afirmação da imagem",
-        "Como estudar com segurança"
-       ],
-       [
-        "“Só pode ser exercido por entidades de direito público.”",
-        "Evite a regra absoluta. O STF, no Tema 532, admite delegação por lei a pessoa jurídica de direito privado integrante da Administração indireta, com capital majoritariamente público, que preste exclusivamente serviço público de atuação própria do Estado em regime não concorrencial. Os requisitos são cumulativos."
-       ],
-       [
-        "“Apenas os atos com autoexecutoriedade possuem coercibilidade.”",
-        "Não use como regra geral. Impor uma obrigação e executá-la materialmente são coisas diferentes. A multa é o exemplo para distinguir imposição administrativa de cobrança forçada."
-       ],
-       [
-        "“Sentido estrito = apenas atos do Executivo.”",
-        "O recorte é o exercício da função administrativa. Os demais Poderes também podem exercer função administrativa, nos limites de suas competências."
-       ],
-       [
-        "“Exigibilidade = tomar decisões executórias.”",
-        "Prefira: exigibilidade se relaciona à coerção indireta; executoriedade, à execução material direta."
-       ]
-      ]
-     },
-     {
-      "type": "paragraph",
-      "style": "NORMAL_TEXT",
-      "text": "Tema 532 não autoriza delegar indistintamente a qualquer empresa privada. Exemplo do julgamento: BHTRANS e aplicação de multas de trânsito. A necessidade de lei e os demais requisitos devem ser conferidos juntos."
-     },
-     {
-      "type": "paragraph",
-      "style": "HEADING_1",
       "text": "Fontes da revisão"
      },
      {
@@ -3616,18 +3628,12 @@
      {
       "type": "paragraph",
       "style": "HEADING_1",
-      "text": "Imagem original enviada"
+      "text": "Sobre a imagem original"
      },
      {
       "type": "paragraph",
       "style": "NORMAL_TEXT",
-      "text": "Referência visual preservada. As ressalvas e atualizações das páginas anteriores prevalecem sobre as afirmações absolutas deste mapa."
-     },
-     {
-      "type": "image",
-      "src": "assets/poder-policia-original.webp",
-      "alt": "Mapa original de Poder de Polícia enviado pelo usuário; consulte as correções no texto acima.",
-      "caption": "Imagem original preservada. Consulte as correções sobre delegação, coercibilidade e executoriedade acima."
+      "text": "Referência visual preservada. As correções e atualizações desta revisão prevalecem sobre as afirmações absolutas do mapa."
      },
      {
       "type": "paragraph",
@@ -3699,7 +3705,7 @@
       "note": "Mapa reconstruído a partir do texto revisado do lançamento. Os demais conceitos, exemplos e ressalvas permanecem no conteúdo."
      }
     ],
-    "visualPlacement": "append",
+    "visualPlacement": "original-first",
     "visualRecreatedAt": "2026-10-25"
    },
    {
@@ -9678,35 +9684,21 @@
     "source": "Imagem enviada pelo usuário, com transcrição para pesquisa, sem complementação. Crédito presente na imagem: @bizudoauditor.",
     "contentBlocks": [
      {
-      "type": "paragraph",
-      "style": "TITLE",
-      "text": "Retroatividade benigna × interpretação favorável"
-     },
-     {
-      "type": "table",
-      "rows": [
-       [
-        "Conceito (Aplicação da Lei)",
-        "Aplica-se ao TRIBUTO?",
-        "Aplica-se à MULTA/INFRAÇÃO?"
-       ],
-       [
-        "Retroatividade Benigna (Lei mais branda — Art. 106)",
-        "❌ NÃO. O valor do tributo nunca retroage para beneficiar. A lei que vale é a do fato gerador.",
-        "✅ SIM. Retroage se a lei reduzir a multa e o ato não foi julgado em definitivo."
-       ],
-       [
-        "Interpretação Favorável (Em caso de dúvida — Art. 112)",
-        "❌ NÃO. Dúvida sobre o valor do tributo não beneficia o contribuinte.",
-        "✅ SIM. Dúvida sobre a punição sempre beneficia o acusado."
-       ]
-      ]
-     },
-     {
       "type": "image",
       "src": "assets/retroatividade-interpretacao-original.webp",
       "alt": "Retroatividade benigna × interpretação favorável",
       "caption": "@bizudoauditor"
+     },
+     {
+      "type": "callout",
+      "kind": "warning",
+      "title": "Cuidado",
+      "text": "Distinção adicional: o art. 106, I, trata de lei expressamente interpretativa. Evite a palavra “nunca” do quadro original."
+     },
+     {
+      "type": "paragraph",
+      "style": "TITLE",
+      "text": "Retroatividade benigna × interpretação favorável"
      },
      {
       "type": "transcript",
@@ -9733,6 +9725,26 @@
           "Interpretação favorável (em caso de dúvida, art. 112)",
           "Não. Dúvida sobre o valor do tributo não beneficia o contribuinte.",
           "Sim. Dúvida sobre a punição sempre beneficia o acusado."
+         ]
+        ]
+       },
+       {
+        "type": "table",
+        "rows": [
+         [
+          "Conceito (Aplicação da Lei)",
+          "Aplica-se ao TRIBUTO?",
+          "Aplica-se à MULTA/INFRAÇÃO?"
+         ],
+         [
+          "Retroatividade Benigna (Lei mais branda — Art. 106)",
+          "❌ NÃO. O valor do tributo nunca retroage para beneficiar. A lei que vale é a do fato gerador.",
+          "✅ SIM. Retroage se a lei reduzir a multa e o ato não foi julgado em definitivo."
+         ],
+         [
+          "Interpretação Favorável (Em caso de dúvida — Art. 112)",
+          "❌ NÃO. Dúvida sobre o valor do tributo não beneficia o contribuinte.",
+          "✅ SIM. Dúvida sobre a punição sempre beneficia o acusado."
          ]
         ]
        }
@@ -9764,9 +9776,84 @@
       ],
       "note": "Distinção adicional: o art. 106, I, trata de lei expressamente interpretativa. Evite a palavra “nunca” do quadro original.",
       "credit": "Recriado do quadro enviado (@bizudoauditor), com ressalvas conferidas nos arts. 106 e 112 do CTN."
+     },
+     {
+      "type": "paragraph",
+      "style": "HEADING_2",
+      "text": "Complemento · quando a lei alcança fato passado (art. 106)"
+     },
+     {
+      "type": "table",
+      "rows": [
+       [
+        "Hipótese",
+        "Resumo",
+        "Condição"
+       ],
+       [
+        "I",
+        "Lei expressamente interpretativa",
+        "Sem aplicar penalidade pela infração dos dispositivos interpretados"
+       ],
+       [
+        "II, a",
+        "Deixa de definir o ato como infração",
+        "Ato não definitivamente julgado"
+       ],
+       [
+        "II, b",
+        "Deixa de tratar o ato como contrário a uma exigência de ação ou omissão",
+        "Ato não definitivamente julgado, sem fraude e sem falta de pagamento de tributo"
+       ],
+       [
+        "II, c",
+        "Comina penalidade menos severa",
+        "Ato não definitivamente julgado"
+       ]
+      ]
+     },
+     {
+      "type": "paragraph",
+      "style": "HEADING_2",
+      "text": "Complemento · dúvida que favorece o acusado (art. 112)"
+     },
+     {
+      "type": "paragraph",
+      "style": "NORMAL_TEXT",
+      "text": "Vale para a lei que define infrações ou comina penalidades."
+     },
+     {
+      "type": "table",
+      "rows": [
+       [
+        "Inciso",
+        "Dúvida quanto a"
+       ],
+       [
+        "I",
+        "Capitulação legal do fato"
+       ],
+       [
+        "II",
+        "Natureza ou circunstâncias materiais do fato, ou natureza ou extensão dos efeitos"
+       ],
+       [
+        "III",
+        "Autoria, imputabilidade ou punibilidade"
+       ],
+       [
+        "IV",
+        "Natureza da penalidade aplicável ou sua graduação"
+       ]
+      ]
+     },
+     {
+      "type": "reference",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "text": "CTN no Planalto, arts. 106 e 112"
      }
     ],
-    "visualPlacement": "append",
+    "visualPlacement": "original-first",
     "visualRecreatedAt": "2026-10-25"
    },
    {

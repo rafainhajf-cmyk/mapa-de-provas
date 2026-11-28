@@ -3,6 +3,14 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-28 (Claude) — Poder de polícia e Retroatividade: original no topo (aprovado)
+
+- Novo `visualPlacement: original-first`: imagem original aberta no topo, complementos embaixo.
+- Poder de polícia: correções logo abaixo da imagem; ajustadas as remissões "acima/abaixo".
+- Retroatividade: complemento novo com arts. 106 e 112 do CTN (Planalto, leitura parcial da página); a tabela repetida da imagem foi para a transcrição.
+- Arquivos: `difficulty-data.json`, `dificuldades.js` (v116), `dificuldades.html`.
+- Pendência: textos antigos apenas reorganizados, não reconferidos nas fontes. Entradas "imagem original" das mesmas matérias seguem recolhidas.
+
 ## 2026-11-28 (Claude) — Ciência de Dados e Direito: imagens originais dos esquemas (aprovado e publicado)
 
 - Restauradas as 10 imagens que o commit f95a8dc tinha trocado por texto: 8 de Ciência de Dados, Poder de polícia (Direito Administrativo) e Retroatividade × interpretação favorável (Tributário). As duas de Direito aparecem em dois materiais cada.
