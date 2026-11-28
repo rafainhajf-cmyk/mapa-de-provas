@@ -70,7 +70,8 @@ for(const afoId2 of afoFileIds){const note=rootData.analysis.analyzedFiles.find(
 const constitutionalIds=new Set(rootData.folders.filter(f=>f.subject==='Direito Constitucional').flatMap(f=>(f.files||[]).map(x=>x.id)));
 for(const id of constitutionalIds){const note=rootData.analysis.analyzedFiles.find(n=>n.id===id);if(!note?.contentBlocks?.length)continue;const i=liveData.analysis.analyzedFiles.findIndex(n=>n.id===id);if(i>=0)liveData.analysis.analyzedFiles[i]={...liveData.analysis.analyzedFiles[i],...note};}
 // Atualiza os blocos visuais de todas as matérias catalogadas, preservando arquivos originais.
-for(const originalNote of rootData.analysis.analyzedFiles){if(!originalNote.contentBlocks?.some(b=>b.type==='callout'||b.type==='flowchart'))continue;const index=liveData.analysis.analyzedFiles.findIndex(n=>n.id===originalNote.id);if(index>=0)liveData.analysis.analyzedFiles[index]={...liveData.analysis.analyzedFiles[index],contentBlocks:originalNote.contentBlocks};}
+for(const originalNote of rootData.analysis.analyzedFiles){if(!originalNote.contentBlocks?.some(b=>b.type==='callout'||b.type==='flowchart'))continue;const index=liveData.analysis.analyzedFiles.findIndex(n=>n.id===originalNote.id);// original-first: o layout aprovado está em source-content; não sobrescrever com a raiz.
+ if(index>=0&&liveData.analysis.analyzedFiles[index].visualPlacement!=='original-first')liveData.analysis.analyzedFiles[index]={...liveData.analysis.analyzedFiles[index],contentBlocks:originalNote.contentBlocks};}
 // Assuntos de Direito Administrativo: um assunto por esquema aprovado (targetId), com o título do esquema.
 // Os esquemas e rascunhos são encaixados nele pelo study-knowledge-ui.js.
 const knowledgeRecords=JSON.parse(await readFile('source-content/study-knowledge.json','utf8')).records||[];

@@ -9,6 +9,7 @@ Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — 
 - Poder de polícia: correções logo abaixo da imagem; ajustadas as remissões "acima/abaixo".
 - Retroatividade: complemento novo com arts. 106 e 112 do CTN (Planalto, leitura parcial da página); a tabela repetida da imagem foi para a transcrição.
 - Arquivos: `difficulty-data.json`, `dificuldades.js` (v116), `dificuldades.html`.
+- Correção: `scripts/build.mjs` sobrescrevia os blocos de Poder de polícia com a cópia da raiz; agora respeita `original-first`.
 - Pendência: textos antigos apenas reorganizados, não reconferidos nas fontes. Entradas "imagem original" das mesmas matérias seguem recolhidas.
 
 ## 2026-11-28 (Claude) — Ciência de Dados e Direito: imagens originais dos esquemas (aprovado e publicado)

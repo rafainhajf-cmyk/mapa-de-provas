@@ -3511,6 +3511,12 @@
       "text": "Conceito e quem exerce"
      },
      {
+      "type": "callout",
+      "kind": "note",
+      "title": "Leitura visual",
+      "text": "Compare regra, condições e exceções no quadro abaixo. Consulte a fonte original quando houver dúvida."
+     },
+     {
       "type": "table",
       "rows": [
        [
