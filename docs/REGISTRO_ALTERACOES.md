@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-28 — Claude (Auditoria: árvore da Guruja e imagens originais dos esquemas)
+
+- Feito (aprovado pelo usuário): sumário de Auditoria virou árvore igual à da Guruja; devolvidas as 31 imagens originais que o commit f95a8dc (19/11) tinha trocado por texto (o texto fica recolhido em "Texto editável do quadro"); incluídas 4 anotações do Drive como imagem; anotações de Normas Profissionais e Auditoria Fiscal repartidas entre os subtópicos; aud-01 movido para Utilização do trabalho de outros profissionais (v. nova).
+- Pendente: atualizar o assunto de destino do aud-01 na planilha "Conteúdos estruturados" (senão um novo import desfaz); marcações feitas pelo usuário em trechos movidos de aud-a-01 e aud-d-01 podem não acompanhar; só 9 dos PDFs de Auditoria estão no Drive, os demais recortes não foram comparados com o original; Ciência de Dados e Direito também perderam imagens no f95a8dc.
+- Testes: build ok; 31 passando e 4 falhando, as mesmas falhas anteriores. Teste de tela local não realizado (permissão negada no ambiente).
+- Arquivos: source-content/difficulty-data.json, dificuldades.js, dificuldades.html, study-knowledge-ui.js, study-knowledge.json, assets/audit-drive-*.webp.
+
 ## 2026-11-27 — Claude (Estatística: separatrizes, dispersão, médias, valor esperado)
 
 - Feito: incluídos 5 esquemas novos da matéria Estatística (est-01 a est-05): tipos de variáveis; separatrizes e interpolação; médias e assimetria; dispersão e propriedades; valor esperado. Aprovados pelo usuário em 2026-11-27.

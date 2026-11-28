@@ -16,6 +16,8 @@ function targetInReader(root,note){
   const text=norm(x.querySelector(':scope > header h3, :scope > h3, .accounting-topic h4')?.textContent);
   return text&&(text===topicTitle||text.includes(topicTitle));
  });
+ const exact=matches.filter(x=>norm(x.querySelector(':scope > header h3, :scope > h3, .accounting-topic h4')?.textContent)===topicTitle);
+ if(exact.length===1)return exact[0];
  return matches.length===1?matches[0]:null;
 }
 const QT='teoria-das-questoes';
