@@ -3,12 +3,12 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
-## 2026-11-28 (Claude) — Ciência de Dados e Direito: imagens originais dos esquemas (aguardando aprovação)
+## 2026-11-28 (Claude) — Ciência de Dados e Direito: imagens originais dos esquemas (aprovado e publicado)
 
 - Restauradas as 10 imagens que o commit f95a8dc tinha trocado por texto: 8 de Ciência de Dados, Poder de polícia (Direito Administrativo) e Retroatividade × interpretação favorável (Tributário). As duas de Direito aparecem em dois materiais cada.
 - O texto que as substituía ficou recolhido como transcrição. IDs preservados.
 - Arquivo: `source-content/difficulty-data.json`.
-- Pendência: publicar só com o ok do usuário e conferir a tela depois.
+- Aprovado pelo usuário em 28/11. Pendência: conferir a tela após o deploy.
 
 ## 2026-11-28 — Claude (Auditoria: árvore da Guruja e imagens originais dos esquemas)
 
