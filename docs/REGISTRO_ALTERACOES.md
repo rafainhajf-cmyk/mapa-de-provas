@@ -3,6 +3,13 @@
 Entradas novas no topo. Formato: data — quem — o que mudou — arquivos — pendências.
 
 
+## 2026-11-28 (Claude) — Ciência de Dados e Direito: imagens originais dos esquemas (aguardando aprovação)
+
+- Restauradas as 10 imagens que o commit f95a8dc tinha trocado por texto: 8 de Ciência de Dados, Poder de polícia (Direito Administrativo) e Retroatividade × interpretação favorável (Tributário). As duas de Direito aparecem em dois materiais cada.
+- O texto que as substituía ficou recolhido como transcrição. IDs preservados.
+- Arquivo: `source-content/difficulty-data.json`.
+- Pendência: publicar só com o ok do usuário e conferir a tela depois.
+
 ## 2026-11-28 — Claude (Auditoria: árvore da Guruja e imagens originais dos esquemas)
 
 - Feito (aprovado pelo usuário): sumário de Auditoria virou árvore igual à da Guruja; devolvidas as 31 imagens originais que o commit f95a8dc (19/11) tinha trocado por texto (o texto fica recolhido em "Texto editável do quadro"); incluídas 4 anotações do Drive como imagem; anotações de Normas Profissionais e Auditoria Fiscal repartidas entre os subtópicos; aud-01 movido para Utilização do trabalho de outros profissionais (v. nova).

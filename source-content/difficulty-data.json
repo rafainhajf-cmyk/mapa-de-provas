@@ -3624,34 +3624,45 @@
       "text": "Referência visual preservada. As ressalvas e atualizações das páginas anteriores prevalecem sobre as afirmações absolutas deste mapa."
      },
      {
-      "type": "paragraph",
-      "style": "HEADING_2",
-      "text": "Quadro original: Poder de polícia"
-     },
-     {
-      "type": "paragraph",
-      "style": "NORMAL_TEXT",
-      "text": "Conceito estrito: apenas atos do poder Executivo. Conceito amplo: atos dos poderes Executivo e Legislativo."
-     },
-     {
-      "type": "paragraph",
-      "style": "NORMAL_TEXT",
-      "text": "Espécies: derivado (exercido pelas entidades de direito público, Administração Pública indireta); originário (exercido pelos órgãos dos entes políticos, Administração Pública direta)."
-     },
-     {
-      "type": "paragraph",
-      "style": "NORMAL_TEXT",
-      "text": "Capacidade do Estado de restringir direitos e garantias individuais em benefício da coletividade; só pode ser exercido por entidades de direito público; deve ser aplicado de forma moderada, buscando o interesse público."
-     },
-     {
-      "type": "paragraph",
-      "style": "NORMAL_TEXT",
-      "text": "Atributos: 1) discricionariedade (análise da oportunidade e conveniência dos atos; predominantemente discricionária); 2) autoexecutoriedade (a autoridade decide e pratica atos de polícia sem intervenção do Judiciário; ocorre só quando prevista em lei ou em caso de urgência que exija execução imediata); exigibilidade (tomar decisões executórias; meios indiretos de coação) e executoriedade (executar as decisões, podendo usar força física; meios diretos de coação); 3) coercibilidade (capacidade de impor sua vontade; só os atos com autoexecutoriedade têm coercibilidade)."
+      "type": "image",
+      "src": "assets/poder-policia-original.webp",
+      "alt": "Mapa original de Poder de Polícia enviado pelo usuário; consulte as correções no texto acima.",
+      "caption": "Imagem original preservada. Consulte as correções sobre delegação, coercibilidade e executoriedade acima."
      },
      {
       "type": "paragraph",
       "style": "NORMAL_TEXT",
       "text": "Conexão com seu quadro de atos administrativos: o DAC é específico do poder de polícia. Os atributos gerais dos atos administrativos permanecem no quadro de Atos administrativos."
+     },
+     {
+      "type": "transcript",
+      "blocks": [
+       {
+        "type": "paragraph",
+        "style": "HEADING_2",
+        "text": "Quadro original: Poder de polícia"
+       },
+       {
+        "type": "paragraph",
+        "style": "NORMAL_TEXT",
+        "text": "Conceito estrito: apenas atos do poder Executivo. Conceito amplo: atos dos poderes Executivo e Legislativo."
+       },
+       {
+        "type": "paragraph",
+        "style": "NORMAL_TEXT",
+        "text": "Espécies: derivado (exercido pelas entidades de direito público, Administração Pública indireta); originário (exercido pelos órgãos dos entes políticos, Administração Pública direta)."
+       },
+       {
+        "type": "paragraph",
+        "style": "NORMAL_TEXT",
+        "text": "Capacidade do Estado de restringir direitos e garantias individuais em benefício da coletividade; só pode ser exercido por entidades de direito público; deve ser aplicado de forma moderada, buscando o interesse público."
+       },
+       {
+        "type": "paragraph",
+        "style": "NORMAL_TEXT",
+        "text": "Atributos: 1) discricionariedade (análise da oportunidade e conveniência dos atos; predominantemente discricionária); 2) autoexecutoriedade (a autoridade decide e pratica atos de polícia sem intervenção do Judiciário; ocorre só quando prevista em lei ou em caso de urgência que exija execução imediata); exigibilidade (tomar decisões executórias; meios indiretos de coação) e executoriedade (executar as decisões, podendo usar força física; meios diretos de coação); 3) coercibilidade (capacidade de impor sua vontade; só os atos com autoexecutoriedade têm coercibilidade)."
+       }
+      ]
      }
     ],
     "contentVerifiedAt": "2026-10-20T09:13:41.175115Z",
@@ -3703,29 +3714,40 @@
     "source": "Imagem enviada neste chat; texto organizado e conferido em fontes oficiais.",
     "contentBlocks": [
      {
-      "type": "paragraph",
-      "style": "HEADING_2",
-      "text": "Quadro original: Poder de polícia"
+      "type": "image",
+      "src": "assets/poder-policia-original.webp",
+      "alt": "Imagem original de Poder de Polícia",
+      "caption": "Imagem original. O texto reconhecido por OCR está disponível abaixo."
      },
      {
-      "type": "paragraph",
-      "style": "NORMAL_TEXT",
-      "text": "Conceito estrito: apenas atos do poder Executivo. Conceito amplo: atos dos poderes Executivo e Legislativo."
-     },
-     {
-      "type": "paragraph",
-      "style": "NORMAL_TEXT",
-      "text": "Espécies: derivado (exercido pelas entidades de direito público, Administração Pública indireta); originário (exercido pelos órgãos dos entes políticos, Administração Pública direta)."
-     },
-     {
-      "type": "paragraph",
-      "style": "NORMAL_TEXT",
-      "text": "Capacidade do Estado de restringir direitos e garantias individuais em benefício da coletividade; só pode ser exercido por entidades de direito público; deve ser aplicado de forma moderada, buscando o interesse público."
-     },
-     {
-      "type": "paragraph",
-      "style": "NORMAL_TEXT",
-      "text": "Atributos: 1) discricionariedade (análise da oportunidade e conveniência dos atos; predominantemente discricionária); 2) autoexecutoriedade (a autoridade decide e pratica atos de polícia sem intervenção do Judiciário; ocorre só quando prevista em lei ou em caso de urgência que exija execução imediata); exigibilidade (tomar decisões executórias; meios indiretos de coação) e executoriedade (executar as decisões, podendo usar força física; meios diretos de coação); 3) coercibilidade (capacidade de impor sua vontade; só os atos com autoexecutoriedade têm coercibilidade)."
+      "type": "transcript",
+      "blocks": [
+       {
+        "type": "paragraph",
+        "style": "HEADING_2",
+        "text": "Quadro original: Poder de polícia"
+       },
+       {
+        "type": "paragraph",
+        "style": "NORMAL_TEXT",
+        "text": "Conceito estrito: apenas atos do poder Executivo. Conceito amplo: atos dos poderes Executivo e Legislativo."
+       },
+       {
+        "type": "paragraph",
+        "style": "NORMAL_TEXT",
+        "text": "Espécies: derivado (exercido pelas entidades de direito público, Administração Pública indireta); originário (exercido pelos órgãos dos entes políticos, Administração Pública direta)."
+       },
+       {
+        "type": "paragraph",
+        "style": "NORMAL_TEXT",
+        "text": "Capacidade do Estado de restringir direitos e garantias individuais em benefício da coletividade; só pode ser exercido por entidades de direito público; deve ser aplicado de forma moderada, buscando o interesse público."
+       },
+       {
+        "type": "paragraph",
+        "style": "NORMAL_TEXT",
+        "text": "Atributos: 1) discricionariedade (análise da oportunidade e conveniência dos atos; predominantemente discricionária); 2) autoexecutoriedade (a autoridade decide e pratica atos de polícia sem intervenção do Judiciário; ocorre só quando prevista em lei ou em caso de urgência que exija execução imediata); exigibilidade (tomar decisões executórias; meios indiretos de coação) e executoriedade (executar as decisões, podendo usar força física; meios diretos de coação); 3) coercibilidade (capacidade de impor sua vontade; só os atos com autoexecutoriedade têm coercibilidade)."
+       }
+      ]
      }
     ],
     "contentVerifiedAt": "2026-10-20T09:13:41.175115Z",
@@ -9681,28 +9703,39 @@
       ]
      },
      {
-      "type": "paragraph",
-      "style": "HEADING_2",
-      "text": "Quadro original: Retroatividade benigna × interpretação favorável"
+      "type": "image",
+      "src": "assets/retroatividade-interpretacao-original.webp",
+      "alt": "Retroatividade benigna × interpretação favorável",
+      "caption": "@bizudoauditor"
      },
      {
-      "type": "table",
-      "rows": [
-       [
-        "Conceito",
-        "Aplica-se ao tributo?",
-        "Aplica-se à multa/infração?"
-       ],
-       [
-        "Retroatividade benigna (lei mais branda, art. 106)",
-        "Não. O valor do tributo nunca retroage para beneficiar; vale a lei do fato gerador.",
-        "Sim. Retroage se a lei reduzir a multa e o ato não foi julgado em definitivo."
-       ],
-       [
-        "Interpretação favorável (em caso de dúvida, art. 112)",
-        "Não. Dúvida sobre o valor do tributo não beneficia o contribuinte.",
-        "Sim. Dúvida sobre a punição sempre beneficia o acusado."
-       ]
+      "type": "transcript",
+      "blocks": [
+       {
+        "type": "paragraph",
+        "style": "HEADING_2",
+        "text": "Quadro original: Retroatividade benigna × interpretação favorável"
+       },
+       {
+        "type": "table",
+        "rows": [
+         [
+          "Conceito",
+          "Aplica-se ao tributo?",
+          "Aplica-se à multa/infração?"
+         ],
+         [
+          "Retroatividade benigna (lei mais branda, art. 106)",
+          "Não. O valor do tributo nunca retroage para beneficiar; vale a lei do fato gerador.",
+          "Sim. Retroage se a lei reduzir a multa e o ato não foi julgado em definitivo."
+         ],
+         [
+          "Interpretação favorável (em caso de dúvida, art. 112)",
+          "Não. Dúvida sobre o valor do tributo não beneficia o contribuinte.",
+          "Sim. Dúvida sobre a punição sempre beneficia o acusado."
+         ]
+        ]
+       }
       ]
      }
     ],
@@ -9749,28 +9782,39 @@
     "source": "Imagem enviada pelo usuário, com transcrição para pesquisa, sem complementação. Crédito presente na imagem: @bizudoauditor.",
     "contentBlocks": [
      {
-      "type": "paragraph",
-      "style": "HEADING_2",
-      "text": "Quadro original: Retroatividade benigna × interpretação favorável"
+      "type": "image",
+      "src": "assets/retroatividade-interpretacao-original.webp",
+      "alt": "Retroatividade benigna × interpretação favorável",
+      "caption": "@bizudoauditor"
      },
      {
-      "type": "table",
-      "rows": [
-       [
-        "Conceito",
-        "Aplica-se ao tributo?",
-        "Aplica-se à multa/infração?"
-       ],
-       [
-        "Retroatividade benigna (lei mais branda, art. 106)",
-        "Não. O valor do tributo nunca retroage para beneficiar; vale a lei do fato gerador.",
-        "Sim. Retroage se a lei reduzir a multa e o ato não foi julgado em definitivo."
-       ],
-       [
-        "Interpretação favorável (em caso de dúvida, art. 112)",
-        "Não. Dúvida sobre o valor do tributo não beneficia o contribuinte.",
-        "Sim. Dúvida sobre a punição sempre beneficia o acusado."
-       ]
+      "type": "transcript",
+      "blocks": [
+       {
+        "type": "paragraph",
+        "style": "HEADING_2",
+        "text": "Quadro original: Retroatividade benigna × interpretação favorável"
+       },
+       {
+        "type": "table",
+        "rows": [
+         [
+          "Conceito",
+          "Aplica-se ao tributo?",
+          "Aplica-se à multa/infração?"
+         ],
+         [
+          "Retroatividade benigna (lei mais branda, art. 106)",
+          "Não. O valor do tributo nunca retroage para beneficiar; vale a lei do fato gerador.",
+          "Sim. Retroage se a lei reduzir a multa e o ato não foi julgado em definitivo."
+         ],
+         [
+          "Interpretação favorável (em caso de dúvida, art. 112)",
+          "Não. Dúvida sobre o valor do tributo não beneficia o contribuinte.",
+          "Sim. Dúvida sobre a punição sempre beneficia o acusado."
+         ]
+        ]
+       }
       ]
      }
     ],
@@ -20501,39 +20545,12 @@
         ]
        },
        {
-        "type": "paragraph",
-        "style": "HEADING_2",
-        "text": "Quadro original: Fases do CRISP-DM (mineração de dados)"
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Entendimento do negócio: qual problema o negócio quer resolver; determinar os objetivos; conhecer a situação; produzir um plano."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Entendimento dos dados: análise exploratória; verificar a qualidade dos dados; coletar dados iniciais."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Preparação dos dados: pré-processamento; selecionar, limpar, construir, integrar e formatar dados."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Modelagem (construção do modelo): seleção das técnicas, ferramentas e algoritmos a serem utilizados."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Avaliação: teste e avaliação; revisão e próximos passos."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Implantação e desenvolvimento: colocar o modelo para funcionar; planejar a entrega; monitoramento e manutenção; relatório final; lições aprendidas."
+        "type": "image",
+        "src": "assets/ds-original-02-1-1.webp",
+        "alt": "CRISP-DM  — página 1",
+        "caption": "Quadro original · clique para ampliar",
+        "sourceId": "libfile_a51fdc1b94108191a44b57dce7fff2f2",
+        "sourcePage": 1
        },
        {
         "type": "paragraph",
@@ -20544,6 +20561,46 @@
         "type": "reference",
         "text": "Referência: IBM · visão geral do CRISP-DM",
         "url": "https://www.ibm.com/docs/en/spss-modeler/saas?topic=dm-crisp-help-overview"
+       },
+       {
+        "type": "transcript",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "style": "HEADING_2",
+          "text": "Quadro original: Fases do CRISP-DM (mineração de dados)"
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Entendimento do negócio: qual problema o negócio quer resolver; determinar os objetivos; conhecer a situação; produzir um plano."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Entendimento dos dados: análise exploratória; verificar a qualidade dos dados; coletar dados iniciais."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Preparação dos dados: pré-processamento; selecionar, limpar, construir, integrar e formatar dados."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Modelagem (construção do modelo): seleção das técnicas, ferramentas e algoritmos a serem utilizados."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Avaliação: teste e avaliação; revisão e próximos passos."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Implantação e desenvolvimento: colocar o modelo para funcionar; planejar a entrega; monitoramento e manutenção; relatório final; lições aprendidas."
+         }
+        ]
        }
       ],
       "sourceId": "libfile_a51fdc1b94108191a44b57dce7fff2f2"
@@ -20578,23 +20635,31 @@
       "title": "Algoritmos de Machine Learning",
       "blocks": [
        {
-        "type": "paragraph",
-        "style": "HEADING_2",
-        "text": "Quadro original: Algoritmos de machine learning"
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Aprendizado não supervisionado (descoberta de padrões em dados não rotulados): K-Means (agrupamento); hierarquização, divisiva e aglomerativa (agrupamento); DBSCAN (agrupamento); PCA (redução de dimensionalidade); Apriori e FP-Growth (regra de associação); Isolation Forest (detecção de outliers)."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Aprendizado supervisionado (treinamento com dados rotulados): K-NN (classificação e regressão); regressão linear (regressão); árvores de decisão (classificação e regressão); florestas aleatórias (classificação e regressão); Naive Bayes (classificação); Support Vector Machine (classificação e regressão)."
+        "type": "image",
+        "src": "assets/ds-original-08-1-1.webp",
+        "alt": "Mineracao tecnicas — página 1",
+        "caption": "Quadro original · clique para ampliar",
+        "sourceId": "libfile_7f56650a6d88819196b43c11be7dd0ab",
+        "sourcePage": 1
        },
        {
         "type": "transcript",
         "blocks": [
+         {
+          "type": "paragraph",
+          "style": "HEADING_2",
+          "text": "Quadro original: Algoritmos de machine learning"
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Aprendizado não supervisionado (descoberta de padrões em dados não rotulados): K-Means (agrupamento); hierarquização, divisiva e aglomerativa (agrupamento); DBSCAN (agrupamento); PCA (redução de dimensionalidade); Apriori e FP-Growth (regra de associação); Isolation Forest (detecção de outliers)."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Aprendizado supervisionado (treinamento com dados rotulados): K-NN (classificação e regressão); regressão linear (regressão); árvores de decisão (classificação e regressão); florestas aleatórias (classificação e regressão); Naive Bayes (classificação); Support Vector Machine (classificação e regressão)."
+         },
          {
           "type": "paragraph",
           "style": "NORMAL_TEXT",
@@ -20699,48 +20764,69 @@
         "text": "Conferência da acurácia: o numerador correto é VP + VN, dividido pelo total. Um dos itens do quadro escreve VP + FN, mas a fração logo abaixo traz VP + VN corretamente."
        },
        {
-        "type": "paragraph",
-        "style": "HEADING_2",
-        "text": "Quadro original: Matrizes de confusão e métricas"
+        "type": "image",
+        "src": "assets/ds-original-07-1-1.webp",
+        "alt": "Matriz de confusão — página 1",
+        "caption": "Quadro original · clique para ampliar",
+        "sourceId": "libfile_2e3e2261e7dc819193ab6f287c780024",
+        "sourcePage": 1
        },
        {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "A matriz de confusão tem quatro células: verdadeiros positivos (TP), instâncias positivas classificadas como positivas; falsos positivos (FP), instâncias negativas classificadas como positivas; verdadeiros negativos (TN), instâncias negativas classificadas como negativas; falsos negativos (FN), instâncias positivas classificadas como negativas."
+        "type": "image",
+        "src": "assets/ds-original-07-2-1.webp",
+        "alt": "Matriz de confusão — página 2",
+        "caption": "Quadro original · clique para ampliar",
+        "sourceId": "libfile_2e3e2261e7dc819193ab6f287c780024",
+        "sourcePage": 2
        },
        {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Acurácia: proporção de instâncias classificadas corretamente em relação ao total: (VP + VN) / (VP + FN + VN + FP)."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Precisão (PPP): proporção de instâncias classificadas como positivas que realmente são positivas: VP / (VP + FP)."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Recall, também chamado sensibilidade ou revocação (PPN): proporção de instâncias positivas corretamente identificadas: VP / (VP + FN)."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Especificidade (NNP): proporção de instâncias negativas corretamente classificadas como negativas: VN / (VN + FP). É o complemento dos falsos positivos."
-       },
-       {
-        "type": "paragraph",
-        "style": "HEADING_2",
-        "text": "Quadro original: Especificidade (continuação)"
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Especificidade é o oposto das letras do recall (NNP): VN / (VN + FP)."
+        "type": "reference",
+        "text": "Referência: scikit-learn · métricas de classificação",
+        "url": "https://scikit-learn.org/stable/modules/model_evaluation.html"
        },
        {
         "type": "transcript",
         "blocks": [
+         {
+          "type": "paragraph",
+          "style": "HEADING_2",
+          "text": "Quadro original: Matrizes de confusão e métricas"
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "A matriz de confusão tem quatro células: verdadeiros positivos (TP), instâncias positivas classificadas como positivas; falsos positivos (FP), instâncias negativas classificadas como positivas; verdadeiros negativos (TN), instâncias negativas classificadas como negativas; falsos negativos (FN), instâncias positivas classificadas como negativas."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Acurácia: proporção de instâncias classificadas corretamente em relação ao total: (VP + VN) / (VP + FN + VN + FP)."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Precisão (PPP): proporção de instâncias classificadas como positivas que realmente são positivas: VP / (VP + FP)."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Recall, também chamado sensibilidade ou revocação (PPN): proporção de instâncias positivas corretamente identificadas: VP / (VP + FN)."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Especificidade (NNP): proporção de instâncias negativas corretamente classificadas como negativas: VN / (VN + FP). É o complemento dos falsos positivos."
+         },
+         {
+          "type": "paragraph",
+          "style": "HEADING_2",
+          "text": "Quadro original: Especificidade (continuação)"
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Especificidade é o oposto das letras do recall (NNP): VN / (VN + FP)."
+         },
          {
           "type": "table",
           "rows": [
@@ -20797,11 +20883,6 @@
           "text": "VP = TP; VN = TN. Positivo/negativo indica a previsão; verdadeiro/falso indica se ela está correta. Precisão e sensibilidade usam denominadores diferentes."
          }
         ]
-       },
-       {
-        "type": "reference",
-        "text": "Referência: scikit-learn · métricas de classificação",
-        "url": "https://scikit-learn.org/stable/modules/model_evaluation.html"
        }
       ],
       "sourceId": "libfile_2e3e2261e7dc819193ab6f287c780024"
@@ -20815,35 +20896,48 @@
         "text": "A curva ROC compara a taxa de verdadeiros positivos (sensibilidade) com a taxa de falsos positivos (1 − especificidade), variando o limiar de decisão."
        },
        {
-        "type": "paragraph",
-        "style": "HEADING_2",
-        "text": "Quadro original: Curva ROC; sensibilidade e especificidade"
+        "type": "image",
+        "src": "assets/ds-original-03-1-1.webp",
+        "alt": "Curva ROC — página 1",
+        "caption": "Quadro original · clique para ampliar",
+        "sourceId": "libfile_8fb5d1978b0c81918e906ce396d86728",
+        "sourcePage": 1
        },
        {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Curva ROC: eixo vertical é a sensibilidade (proporção de verdadeiros positivos); eixo horizontal é 1 − especificidade (proporção de falsos positivos). O \"céu ROC\" (canto superior esquerdo) é o ideal; o \"inferno ROC\" (canto inferior direito) é o pior. O classificador aleatório é a diagonal."
-       },
-       {
-        "type": "table",
-        "rows": [
-         [
-          "Métrica",
-          "Fórmula"
-         ],
-         [
-          "Sensibilidade",
-          "VP / (VP + FN)"
-         ],
-         [
-          "Especificidade",
-          "VN / (FP + VN)"
-         ]
-        ]
+        "type": "reference",
+        "text": "Referência: scikit-learn · Precision–Recall",
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html"
        },
        {
         "type": "transcript",
         "blocks": [
+         {
+          "type": "paragraph",
+          "style": "HEADING_2",
+          "text": "Quadro original: Curva ROC; sensibilidade e especificidade"
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Curva ROC: eixo vertical é a sensibilidade (proporção de verdadeiros positivos); eixo horizontal é 1 − especificidade (proporção de falsos positivos). O \"céu ROC\" (canto superior esquerdo) é o ideal; o \"inferno ROC\" (canto inferior direito) é o pior. O classificador aleatório é a diagonal."
+         },
+         {
+          "type": "table",
+          "rows": [
+           [
+            "Métrica",
+            "Fórmula"
+           ],
+           [
+            "Sensibilidade",
+            "VP / (VP + FN)"
+           ],
+           [
+            "Especificidade",
+            "VN / (FP + VN)"
+           ]
+          ]
+         },
          {
           "type": "table",
           "rows": [
@@ -20880,11 +20974,6 @@
           "text": "Em classes muito desbalanceadas, examine também precisão e recall e a curva Precision–Recall; não escolha uma métrica apenas pelo desbalanceamento."
          }
         ]
-       },
-       {
-        "type": "reference",
-        "text": "Referência: scikit-learn · Precision–Recall",
-        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html"
        }
       ],
       "sourceId": "libfile_8fb5d1978b0c81918e906ce396d86728"
@@ -20930,38 +21019,56 @@
       "title": "Tipos de anomalias",
       "blocks": [
        {
-        "type": "paragraph",
-        "style": "HEADING_2",
-        "text": "Quadro original: Tipos de anomalias"
+        "type": "image",
+        "src": "assets/ds-original-09-1-1.webp",
+        "alt": "Tipos de anomalias — página 1",
+        "caption": "Quadro original · clique para ampliar",
+        "sourceId": "libfile_7d51054e104881918dab0f083e78378c",
+        "sourcePage": 1
        },
        {
         "type": "paragraph",
         "style": "NORMAL_TEXT",
-        "text": "Não intencional (erro): surge por erro ou ruído. Ex.: sensor defeituoso registra temperatura errada."
+        "text": "Distinção: “não intencional” descreve uma possível origem, como erro ou ruído. Pontual, contextual e coletiva são categorias clássicas de anomalia; nem toda anomalia é um erro de dado."
        },
        {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Pontual (ponto): um dado sozinho destoa dos demais. Ex.: saque muito maior que os anteriores."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Contextual (contexto): é estranho naquela situação ou horário. Ex.: consumo elevado de energia quando ninguém está em casa."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Coletiva (conjunto): vários dados juntos formam um padrão estranho. Ex.: muitos endereços IP aumentam o tráfego simultaneamente."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Resumo: erro, ponto, contexto, conjunto."
+        "type": "reference",
+        "text": "Referência: Chandola, Banerjee e Kumar · Anomaly Detection: A Survey",
+        "url": "https://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf"
        },
        {
         "type": "transcript",
         "blocks": [
+         {
+          "type": "paragraph",
+          "style": "HEADING_2",
+          "text": "Quadro original: Tipos de anomalias"
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Não intencional (erro): surge por erro ou ruído. Ex.: sensor defeituoso registra temperatura errada."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Pontual (ponto): um dado sozinho destoa dos demais. Ex.: saque muito maior que os anteriores."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Contextual (contexto): é estranho naquela situação ou horário. Ex.: consumo elevado de energia quando ninguém está em casa."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Coletiva (conjunto): vários dados juntos formam um padrão estranho. Ex.: muitos endereços IP aumentam o tráfego simultaneamente."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Resumo: erro, ponto, contexto, conjunto."
+         },
          {
           "type": "table",
           "rows": [
@@ -20993,16 +21100,6 @@
           ]
          }
         ]
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Distinção: “não intencional” descreve uma possível origem, como erro ou ruído. Pontual, contextual e coletiva são categorias clássicas de anomalia; nem toda anomalia é um erro de dado."
-       },
-       {
-        "type": "reference",
-        "text": "Referência: Chandola, Banerjee e Kumar · Anomaly Detection: A Survey",
-        "url": "https://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf"
        }
       ],
       "sourceId": "libfile_7d51054e104881918dab0f083e78378c"
@@ -21062,43 +21159,56 @@
       "title": "Tipos de ia",
       "blocks": [
        {
-        "type": "paragraph",
-        "style": "HEADING_2",
-        "text": "Quadro original: Comparação das tecnologias de IA"
+        "type": "image",
+        "src": "assets/ds-original-10-1-1.webp",
+        "alt": "Tipos de ia — página 1",
+        "caption": "Quadro original · clique para ampliar",
+        "sourceId": "libfile_858acfa432b08191addb9319ea75fc29",
+        "sourcePage": 1
        },
        {
-        "type": "table",
-        "rows": [
-         [
-          "Categoria",
-          "Definição",
-          "Exemplos"
-         ],
-         [
-          "IA fraca",
-          "Executa tarefas específicas sem consciência ou aprendizado geral",
-          "Assistentes virtuais (Siri, Alexa); sistemas de recomendação (Netflix, Spotify)"
-         ],
-         [
-          "IA forte (AGI)",
-          "IA hipotética, capaz de pensar, aprender e entender como um humano",
-          "Ainda não existe; exemplos fictícios: Jarvis (Marvel), Skynet (Exterminador do Futuro)"
-         ],
-         [
-          "IA generativa",
-          "Cria novos conteúdos (textos, imagens, músicas) sem consciência real",
-          "ChatGPT, DALL·E, Deepfake, MusicLM"
-         ],
-         [
-          "Teste de Turing",
-          "Experimento para avaliar se uma IA pode se passar por humano",
-          "Chatbots avançados, como o ChatGPT, tentam passar no teste"
-         ]
-        ]
+        "type": "paragraph",
+        "style": "NORMAL_TEXT",
+        "text": "Para organizar: “estreita/geral” trata da abrangência da capacidade; “generativa” trata da geração de conteúdo. São critérios diferentes, não categorias necessariamente excludentes."
        },
        {
         "type": "transcript",
         "blocks": [
+         {
+          "type": "paragraph",
+          "style": "HEADING_2",
+          "text": "Quadro original: Comparação das tecnologias de IA"
+         },
+         {
+          "type": "table",
+          "rows": [
+           [
+            "Categoria",
+            "Definição",
+            "Exemplos"
+           ],
+           [
+            "IA fraca",
+            "Executa tarefas específicas sem consciência ou aprendizado geral",
+            "Assistentes virtuais (Siri, Alexa); sistemas de recomendação (Netflix, Spotify)"
+           ],
+           [
+            "IA forte (AGI)",
+            "IA hipotética, capaz de pensar, aprender e entender como um humano",
+            "Ainda não existe; exemplos fictícios: Jarvis (Marvel), Skynet (Exterminador do Futuro)"
+           ],
+           [
+            "IA generativa",
+            "Cria novos conteúdos (textos, imagens, músicas) sem consciência real",
+            "ChatGPT, DALL·E, Deepfake, MusicLM"
+           ],
+           [
+            "Teste de Turing",
+            "Experimento para avaliar se uma IA pode se passar por humano",
+            "Chatbots avançados, como o ChatGPT, tentam passar no teste"
+           ]
+          ]
+         },
          {
           "type": "table",
           "rows": [
@@ -21130,11 +21240,6 @@
           ]
          }
         ]
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Para organizar: “estreita/geral” trata da abrangência da capacidade; “generativa” trata da geração de conteúdo. São critérios diferentes, não categorias necessariamente excludentes."
        }
       ],
       "sourceId": "libfile_858acfa432b08191addb9319ea75fc29"
@@ -21235,63 +21340,71 @@
       "title": "Vieses da IA generativa",
       "blocks": [
        {
-        "type": "paragraph",
-        "style": "HEADING_2",
-        "text": "Quadro original: Vieses da IA generativa"
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Viés de dados: dados de treinamento representam mal certos grupos ou contextos. Ex.: poucas imagens de mulheres em cargos de liderança."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Viés de seleção: o conjunto de dados privilegia determinadas fontes, culturas ou perfis. Ex.: dados coletados apenas de países desenvolvidos."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Viés algorítmico: o próprio modelo ou método de treinamento favorece certos resultados. Ex.: função de otimização que privilegia precisão sobre equidade."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Viés de confirmação: a IA reforça premissas implícitas no prompt. Ex.: perguntas tendenciosas levam a respostas tendenciosas."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Viés cultural/social: respostas refletem padrões culturais dominantes. Ex.: normas e valores de uma cultura são generalizados."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Viés de automação: usuários tendem a confiar excessivamente na IA. Ex.: aceitar respostas sem questionar ou validar."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Viés de representatividade: alguns grupos aparecem pouco ou de forma estereotipada. Ex.: minorias sub-representadas ou retratadas de forma limitada."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Viés de ancoragem: as primeiras informações do contexto influenciam excessivamente a resposta. Ex.: um número inicial influencia estimativas seguintes."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Viés de alucinação: a IA gera informações falsas com aparência de verdade. Ex.: citar fatos, fontes ou dados que não existem."
-       },
-       {
-        "type": "paragraph",
-        "style": "NORMAL_TEXT",
-        "text": "Esses vieses não são defeitos inevitáveis; são riscos a identificar, monitorar e mitigar com dados diversos, testes, transparência e supervisão humana."
+        "type": "image",
+        "src": "assets/ds-original-11-1-1.webp",
+        "alt": "Vieis — página 1",
+        "caption": "Quadro original · clique para ampliar",
+        "sourceId": "libfile_77cdc3761b548191950078c501cc538b",
+        "sourcePage": 1
        },
        {
         "type": "transcript",
         "blocks": [
+         {
+          "type": "paragraph",
+          "style": "HEADING_2",
+          "text": "Quadro original: Vieses da IA generativa"
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Viés de dados: dados de treinamento representam mal certos grupos ou contextos. Ex.: poucas imagens de mulheres em cargos de liderança."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Viés de seleção: o conjunto de dados privilegia determinadas fontes, culturas ou perfis. Ex.: dados coletados apenas de países desenvolvidos."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Viés algorítmico: o próprio modelo ou método de treinamento favorece certos resultados. Ex.: função de otimização que privilegia precisão sobre equidade."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Viés de confirmação: a IA reforça premissas implícitas no prompt. Ex.: perguntas tendenciosas levam a respostas tendenciosas."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Viés cultural/social: respostas refletem padrões culturais dominantes. Ex.: normas e valores de uma cultura são generalizados."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Viés de automação: usuários tendem a confiar excessivamente na IA. Ex.: aceitar respostas sem questionar ou validar."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Viés de representatividade: alguns grupos aparecem pouco ou de forma estereotipada. Ex.: minorias sub-representadas ou retratadas de forma limitada."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Viés de ancoragem: as primeiras informações do contexto influenciam excessivamente a resposta. Ex.: um número inicial influencia estimativas seguintes."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Viés de alucinação: a IA gera informações falsas com aparência de verdade. Ex.: citar fatos, fontes ou dados que não existem."
+         },
+         {
+          "type": "paragraph",
+          "style": "NORMAL_TEXT",
+          "text": "Esses vieses não são defeitos inevitáveis; são riscos a identificar, monitorar e mitigar com dados diversos, testes, transparência e supervisão humana."
+         },
          {
           "type": "table",
           "rows": [
